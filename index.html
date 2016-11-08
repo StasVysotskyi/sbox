@@ -2,9 +2,13 @@
 <html lang="en-US" class="no-js">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+	<link rel="pingback" href="./xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="./wp-content/themes/vanilla-milkshake/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <title>test &#8211; Just another WordPress site</title>
 <link rel="alternate" type="application/rss+xml" title="test &raquo; Feed" href="./feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="test &raquo; Comments Feed" href="./comments/feed/index.html" />
@@ -26,48 +30,51 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='genericons-css'  href='./wp-content/themes/twentysixteen/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='twentysixteen-style-css'  href='./wp-content/themes/twentysixteen/style.css?ver=4.5.4' type='text/css' media='all' />
-<!--[if lt IE 10]>
-<link rel='stylesheet' id='twentysixteen-ie-css'  href='./wp-content/themes/twentysixteen/css/ie.css?ver=20160412' type='text/css' media='all' />
-<![endif]-->
+<link rel='stylesheet' id='tachyons-css'  href='./wp-content/themes/vanilla-milkshake/css/tachyons/css/tachyons.min.css?ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tachyons-cms-css'  href='./wp-content/themes/vanilla-milkshake/css/tachyons-cms/css/tachyons-cms.min.css?ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='vanillamilkshake-style-css'  href='./wp-content/themes/vanilla-milkshake/style.css?ver=4.5.4' type='text/css' media='all' />
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='twentysixteen-ie8-css'  href='./wp-content/themes/twentysixteen/css/ie8.css?ver=20160412' type='text/css' media='all' />
+<link rel='stylesheet' id='vanillamilkshake-ie-css'  href='./wp-content/themes/vanilla-milkshake/css/ie.css?ver=20141010' type='text/css' media='all' />
 <![endif]-->
 <!--[if lt IE 8]>
-<link rel='stylesheet' id='twentysixteen-ie7-css'  href='./wp-content/themes/twentysixteen/css/ie7.css?ver=20160412' type='text/css' media='all' />
+<link rel='stylesheet' id='vanillamilkshake-ie7-css'  href='./wp-content/themes/vanilla-milkshake/css/ie7.css?ver=20141010' type='text/css' media='all' />
 <![endif]-->
-<!--[if lt IE 9]>
-<script type='text/javascript' src='./wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
-<![endif]-->
-<script type='text/javascript' src='./wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <link rel='https://api.w.org/' href='./wp-json/index.html' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.5.4" />
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-		</head>
+		<style>
+	 			.backgroundcolor-themecolor { background-color: #0A6BC2;}
+	 			.backgroundcolor-themecolorlightest { background-color: #F3F8FC;}
+	 			.nested-list ul > li:before,
+	 		  	 .wp-caption-text:before,
+	 		  	 .themecolor { color:#0A6BC2;}
+	 			.page-numbers, 
+	 			 .page-links > a,
+				 a.more-link, a > .button, 
+  				 a.more-link:link, a > .button:link 
+  				 { border-color: #0A6BC2;}
+	 		 </style></head>
 
-<body class="home blog hfeed">
-<div id="page" class="site">
-	<div class="site-inner">
-		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<body class="home blog serif backgroundcolor-themecolorlightest"> 
+<div id="page" class="hfeed site container center margintop-medium-ns padding-large">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-		<header id="masthead" class="site-header" role="banner">
-			<div class="site-header-main">
-				<div class="site-branding">
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding nested-headline-link">
+							<h1 class="margintop-0 marginbottom-0 f2 letterspacing-003 b texttransform-uppercase sansserif">
+					<a href="./index.html" rel="home">test</a>
+				</h1>
 					
-											<h1 class="site-title"><a href="./index.html" rel="home">test</a></h1>
-											<p class="site-description">Just another WordPress site</p>
-									</div><!-- .site-branding -->
+							<p class="site-description i f5 darkgrey margintop-small lineheight-1p3">Just another WordPress site</p>
+					</div><!-- .site-branding -->
+	</header><!-- .site-header -->
+	<a name="s"></a>
+	<div class="backgroundcolor-themecolor height-xsmall margintop-large marginbottom-medium"></div>
 
-							</div><!-- .site-header-main -->
-
-					</header><!-- .site-header -->
-
-		<div id="content" class="site-content">
+	<div class="clearfix"> <!-- content + sidebar -->
+		<div id="content" class="site-content width-70p-ns maxwidth-100p paddingtop-medium paddingright-large-ns float-left">
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
@@ -75,80 +82,102 @@ img.emoji {
 		
 			
 			
-<article id="post-2075" class="post-2075 post type-post status-publish format-standard hentry category-uncategorized">
-	<header class="entry-header">
-		
-		<h2 class="entry-title"><a href="./test/index.html" rel="bookmark">test</a></h2>	</header><!-- .entry-header -->
+			
+<article id="post-2075" class="clear-both clearfix marginbottom-xlarge post-2075 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header nested-headline-link nested-headline-line-height position-relative">
 
-	
-	
-	<div class="entry-content">
+		<h2 class="margintop-none marginbottom-xsmall entry-title f3 b sans-serif">						<a href="./test/index.html" rel="bookmark">test</a>		</h2>
+		<div class="posted-on i small lightestgreytext nested-link marginvertical-medium paddingvertical-xsmall">
+			<span class="screen-reader-text">Posted on </span><time class="entry-date published updated" datetime="2016-11-07T14:06:19+00:00">November 7, 2016</time> by <a href="./author/admin/index.html">admin</a>			
+		</div>
+
+	</header><!-- .entry-header -->
+
+	<div class="entry-content f5 nested-copy-line-height nested-headline-sansserif nested-headline-line-height nested-img nested-figure nested-embeds nested-hr nested-code nested-list nested-blockquote nested-dt nested-table nested-link nested-form">
 		<p>test</p>
+
 	</div><!-- .entry-content -->
 
-	<footer class="entry-footer">
-		<span class="byline"><span class="author vcard"><img alt='' src='http://1.gravatar.com/avatar/4e1c28c85bdf52c2433b8783f03cab3f?s=49&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4e1c28c85bdf52c2433b8783f03cab3f?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">Author </span> <a class="url fn n" href="./author/admin/index.html">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="./test/index.html" rel="bookmark"><time class="entry-date published updated" datetime="2016-11-07T14:06:19+00:00">November 7, 2016</time></a></span><span class="comments-link"><a href="./test/index.html#respond">Leave a comment<span class="screen-reader-text"> on test</span></a></span>			</footer><!-- .entry-footer -->
-</article><!-- #post-## -->
+	<!-- disabling for V1; may tackle at a later stage
+	 -->
+	</article><!-- #post-## -->
 
-<article id="post-2064" class="post-2064 post type-post status-publish format-standard hentry category-uncategorized">
-	<header class="entry-header">
-		
-		<h2 class="entry-title"><a href="./one-more-posts/index.html" rel="bookmark">one more posts</a></h2>	</header><!-- .entry-header -->
+<article id="post-2064" class="clear-both clearfix marginbottom-xlarge post-2064 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header nested-headline-link nested-headline-line-height position-relative">
 
-	
-	
-	<div class="entry-content">
+		<h2 class="margintop-none marginbottom-xsmall entry-title f3 b sans-serif">						<a href="./one-more-posts/index.html" rel="bookmark">one more posts</a>		</h2>
+		<div class="posted-on i small lightestgreytext nested-link marginvertical-medium paddingvertical-xsmall">
+			<span class="screen-reader-text">Posted on </span><time class="entry-date published updated" datetime="2016-11-04T13:11:51+00:00">November 4, 2016</time> by <a href="./author/admin/index.html">admin</a>			
+		</div>
+
+	</header><!-- .entry-header -->
+
+	<div class="entry-content f5 nested-copy-line-height nested-headline-sansserif nested-headline-line-height nested-img nested-figure nested-embeds nested-hr nested-code nested-list nested-blockquote nested-dt nested-table nested-link nested-form">
 		<p>fgdfgdfg</p>
+
 	</div><!-- .entry-content -->
 
-	<footer class="entry-footer">
-		<span class="byline"><span class="author vcard"><img alt='' src='http://1.gravatar.com/avatar/4e1c28c85bdf52c2433b8783f03cab3f?s=49&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4e1c28c85bdf52c2433b8783f03cab3f?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">Author </span> <a class="url fn n" href="./author/admin/index.html">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="./one-more-posts/index.html" rel="bookmark"><time class="entry-date published" datetime="2016-11-04T13:11:51+00:00">November 4, 2016</time><time class="updated" datetime="2016-11-07T12:28:05+00:00">November 7, 2016</time></a></span><span class="comments-link"><a href="./one-more-posts/index.html#comments">3 Comments<span class="screen-reader-text"> on one more posts</span></a></span>			</footer><!-- .entry-footer -->
-</article><!-- #post-## -->
+	<!-- disabling for V1; may tackle at a later stage
+	 -->
+	</article><!-- #post-## -->
 
-<article id="post-2062" class="post-2062 post type-post status-publish format-standard hentry category-uncategorized">
-	<header class="entry-header">
-		
-		<h2 class="entry-title"><a href="./my-post/index.html" rel="bookmark">my post</a></h2>	</header><!-- .entry-header -->
+<article id="post-2062" class="clear-both clearfix marginbottom-xlarge post-2062 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header nested-headline-link nested-headline-line-height position-relative">
 
-	
-	
-	<div class="entry-content">
+		<h2 class="margintop-none marginbottom-xsmall entry-title f3 b sans-serif">						<a href="./my-post/index.html" rel="bookmark">my post</a>		</h2>
+		<div class="posted-on i small lightestgreytext nested-link marginvertical-medium paddingvertical-xsmall">
+			<span class="screen-reader-text">Posted on </span><time class="entry-date published updated" datetime="2016-11-04T13:10:00+00:00">November 4, 2016</time> by <a href="./author/admin/index.html">admin</a>			
+		</div>
+
+	</header><!-- .entry-header -->
+
+	<div class="entry-content f5 nested-copy-line-height nested-headline-sansserif nested-headline-line-height nested-img nested-figure nested-embeds nested-hr nested-code nested-list nested-blockquote nested-dt nested-table nested-link nested-form">
 		<p>dfdsfdsf</p>
+
 	</div><!-- .entry-content -->
 
-	<footer class="entry-footer">
-		<span class="byline"><span class="author vcard"><img alt='' src='http://1.gravatar.com/avatar/4e1c28c85bdf52c2433b8783f03cab3f?s=49&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4e1c28c85bdf52c2433b8783f03cab3f?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">Author </span> <a class="url fn n" href="./author/admin/index.html">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="./my-post/index.html" rel="bookmark"><time class="entry-date published" datetime="2016-11-04T13:10:00+00:00">November 4, 2016</time><time class="updated" datetime="2016-11-04T14:45:11+00:00">November 4, 2016</time></a></span><span class="comments-link"><a href="./my-post/index.html#respond">Leave a comment<span class="screen-reader-text"> on my post</span></a></span>			</footer><!-- .entry-footer -->
-</article><!-- #post-## -->
+	<!-- disabling for V1; may tackle at a later stage
+	 -->
+	</article><!-- #post-## -->
 
-<article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized">
-	<header class="entry-header">
-		
-		<h2 class="entry-title"><a href="./hello-world/index.html" rel="bookmark">Hello world!</a></h2>	</header><!-- .entry-header -->
+<article id="post-1" class="clear-both clearfix marginbottom-xlarge post-1 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header nested-headline-link nested-headline-line-height position-relative">
 
-	
-	
-	<div class="entry-content">
+		<h2 class="margintop-none marginbottom-xsmall entry-title f3 b sans-serif">						<a href="./hello-world/index.html" rel="bookmark">Hello world!</a>		</h2>
+		<div class="posted-on i small lightestgreytext nested-link marginvertical-medium paddingvertical-xsmall">
+			<span class="screen-reader-text">Posted on </span><time class="entry-date published updated" datetime="2016-06-03T07:03:35+00:00">June 3, 2016</time> by <a href="./author/admin/index.html">admin</a>			
+		</div>
+
+	</header><!-- .entry-header -->
+
+	<div class="entry-content f5 nested-copy-line-height nested-headline-sansserif nested-headline-line-height nested-img nested-figure nested-embeds nested-hr nested-code nested-list nested-blockquote nested-dt nested-table nested-link nested-form">
 		<p>[the-new-maps]</p>
+
 	</div><!-- .entry-content -->
 
-	<footer class="entry-footer">
-		<span class="byline"><span class="author vcard"><img alt='' src='http://1.gravatar.com/avatar/4e1c28c85bdf52c2433b8783f03cab3f?s=49&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4e1c28c85bdf52c2433b8783f03cab3f?s=98&amp;d=mm&amp;r=g 2x' class='avatar avatar-49 photo' height='49' width='49' /><span class="screen-reader-text">Author </span> <a class="url fn n" href="./author/admin/index.html">admin</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="./hello-world/index.html" rel="bookmark"><time class="entry-date published" datetime="2016-06-03T07:03:35+00:00">June 3, 2016</time><time class="updated" datetime="2016-08-11T12:21:31+00:00">August 11, 2016</time></a></span><span class="comments-link"><a href="./hello-world/index.html#comments">1 Comment<span class="screen-reader-text"> on Hello world!</span></a></span>			</footer><!-- .entry-footer -->
-</article><!-- #post-## -->
+	<!-- disabling for V1; may tackle at a later stage
+	 -->
+	</article><!-- #post-## -->
 
 		</main><!-- .site-main -->
 	</div><!-- .content-area -->
 
+		</div><!-- .site-content -->
+		<div class="clearfix clear-both display-none-ns"></div> <!-- not sure why the below line doesn't work without this line -->
+		<div class="height-xsmall backgroundcolor-white margintop-medium marginbottom-small display-none-ns"></div>
 
-	<aside id="secondary" class="sidebar widget-area" role="complementary">
-		<section id="search-2" class="widget widget_search">
-<form role="search" method="get" class="search-form" action="./index.html">
-	<label>
-		<span class="screen-reader-text">Search for:</span>
-		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-	</label>
-	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
-</form>
-</section>		<section id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+		<div id="sidebar" class="sidebar width-30p-ns paddingtop-medium paddingleft-large-ns float-left clear-right f7-ns">
+				<div id="secondary" class="secondary">
+
+		
+					<div id="widget-area" class="widget-area nested-list nested-form nested-widget-line-height nested-link" role="complementary">
+				<aside id="search-2" class="marginbottom-large widget_search"><form role="search" method="get" class="search-form" action="./index.html">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Search" />
+			</form></aside>		<aside id="recent-posts-2" class="marginbottom-large widget_recent_entries">		<h2 class="f5 fontstyle-italic fontweight-normal margintop-small black">Recent Posts</h2>		<ul>
 					<li>
 				<a href="./test/index.html">test</a>
 						</li>
@@ -162,41 +191,40 @@ img.emoji {
 				<a href="./hello-world/index.html">Hello world!</a>
 						</li>
 				</ul>
-		</section>		<section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">admin</span> on <a href="./one-more-posts/index.html#comment-4">one more posts</a></li><li class="recentcomments"><span class="comment-author-link">admin</span> on <a href="./one-more-posts/index.html#comment-3">one more posts</a></li><li class="recentcomments"><span class="comment-author-link">admin</span> on <a href="./one-more-posts/index.html#comment-2">one more posts</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Mr WordPress</a></span> on <a href="./hello-world/index.html#comment-1">Hello world!</a></li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>		<ul>
+		</aside>		<aside id="recent-comments-2" class="marginbottom-large widget_recent_comments"><h2 class="f5 fontstyle-italic fontweight-normal margintop-small black">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">admin</span> on <a href="./one-more-posts/index.html#comment-4">one more posts</a></li><li class="recentcomments"><span class="comment-author-link">admin</span> on <a href="./one-more-posts/index.html#comment-3">one more posts</a></li><li class="recentcomments"><span class="comment-author-link">admin</span> on <a href="./one-more-posts/index.html#comment-2">one more posts</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Mr WordPress</a></span> on <a href="./hello-world/index.html#comment-1">Hello world!</a></li></ul></aside><aside id="archives-2" class="marginbottom-large widget_archive"><h2 class="f5 fontstyle-italic fontweight-normal margintop-small black">Archives</h2>		<ul>
 			<li><a href='./2016/11/index.html'>November 2016</a></li>
 	<li><a href='./2016/06/index.html'>June 2016</a></li>
 		</ul>
-		</section><section id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+		</aside><aside id="categories-2" class="marginbottom-large widget_categories"><h2 class="f5 fontstyle-italic fontweight-normal margintop-small black">Categories</h2>		<ul>
 	<li class="cat-item cat-item-1"><a href="./category/uncategorized/index.html" >Uncategorized</a>
 </li>
 		</ul>
-</section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+</aside><aside id="meta-2" class="marginbottom-large widget_meta"><h2 class="f5 fontstyle-italic fontweight-normal margintop-small black">Meta</h2>			<ul>
 			<li><a href="./wp-login.php?action=register">Register</a></li>			<li><a href="./wp-login.php">Log in</a></li>
 			<li><a href="./feed/index.html">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
 			<li><a href="./comments/feed/index.html">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
 			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
-			</section>	</aside><!-- .sidebar .widget-area -->
+			</aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
 
-		</div><!-- .site-content -->
+		</div>
+	</div><!-- content + sidebar -->
 
-		<footer id="colophon" class="site-footer" role="contentinfo">
-			
-			
-			<div class="site-info">
-								<span class="site-title"><a href="./index.html" rel="home">test</a></span>
-				<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+	<footer id="colophon" role="contentinfo">
+		<div class="site-footer clear-both clearfix paddingtop-xlarge">
+			<div class="site-info small lineheight-1p3">
+				<a href="http://hongkonggong.github.io/vanilla-milkshake/" class="black border-bottom bordercolor-moongray">
+					Proudly powered by Vanilla Milkshake and Wordpress				</a>
 			</div><!-- .site-info -->
-		</footer><!-- .site-footer -->
-	</div><!-- .site-inner -->
+		</div>
+	</footer><!-- .site-footer -->
+
 </div><!-- .site -->
 
-<script type='text/javascript' src='./wp-content/themes/twentysixteen/js/skip-link-focus-fix.js?ver=20160412'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='./wp-content/themes/twentysixteen/js/functions.js?ver=20160412'></script>
+
+<script type='text/javascript' src='./wp-content/themes/vanilla-milkshake/js/skip-link-focus-fix.js?ver=20141010'></script>
 <script type='text/javascript' src='./wp-includes/js/wp-embed.min.js?ver=4.5.4'></script>
+
 </body>
 </html>

@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 08 Nov 2016 08:06:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Nov 2016 08:20:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,7 +26,8 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=2075</guid>
-		<description><![CDATA[test]]></description>
+		<description><![CDATA[<p>test</p>
+]]></description>
 				<content:encoded><![CDATA[<p>test</p>
 ]]></content:encoded>
 			<wfw:commentRss>./../test/feed/index.html</wfw:commentRss>
@@ -41,7 +42,8 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=2064</guid>
-		<description><![CDATA[fgdfgdfg]]></description>
+		<description><![CDATA[<p>fgdfgdfg</p>
+]]></description>
 				<content:encoded><![CDATA[<p>fgdfgdfg</p>
 ]]></content:encoded>
 			<wfw:commentRss>./../one-more-posts/feed/index.html</wfw:commentRss>
@@ -56,7 +58,8 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=2062</guid>
-		<description><![CDATA[dfdsfdsf]]></description>
+		<description><![CDATA[<p>dfdsfdsf</p>
+]]></description>
 				<content:encoded><![CDATA[<p>dfdsfdsf</p>
 ]]></content:encoded>
 			<wfw:commentRss>./../my-post/feed/index.html</wfw:commentRss>
@@ -71,7 +74,8 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">http://healerslibrary.com/?p=1</guid>
-		<description><![CDATA[[the-new-maps]]]></description>
+		<description><![CDATA[<p>[the-new-maps]</p>
+]]></description>
 				<content:encoded><![CDATA[<p>[the-new-maps]</p>
 ]]></content:encoded>
 			<wfw:commentRss>./../hello-world/feed/index.html</wfw:commentRss>
