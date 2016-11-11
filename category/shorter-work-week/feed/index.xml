@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>shorter work week &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Towards a 21-hour working week?</title>
+		<link>./../../2012/01/towards-a-21-hour-working-week.html</link>
+		<comments>./../../2012/01/towards-a-21-hour-working-week.html#respond</comments>
+		<pubDate>Tue, 17 Jan 2012 15:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[shorter work week]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/towards-a-21-hour-working-week.html</guid>
+		<description><![CDATA[Chris Bertram at Crookedtimber posted on a conference he attended (and Sandwichman, who hasn&#8217;t written to date) on the idea of working time reduction in response to keeping unemployment lower. The comments are worth a post to summarize, but at least this pointer is a start. Towards a 21-hour working week? by Chris Bertram Last [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Chris Bertram at <a href="http://crookedtimber.org/2012/01/14/towards-a-21-hour-working-week/" target="_blank"><i>Crookedtimber</i></a> posted on a conference he attended (and Sandwichman, who hasn&#8217;t written to date) on the idea of working time reduction in response to keeping unemployment lower.  The comments are worth a post to summarize, but at least this pointer is a start.</p>
+<p>
+<blockquote>Towards a 21-hour working week?</p>
+<p>by Chris Bertram </p>
+<p>Last Wednesday I attended an event at <a href="http://www.neweconomics.org/events/2011/11/22/about-time-examining-the-case-for-a-shorter-working-week" target="_blank">LSE (under the auspices of the New Economics Foundation)</a> exploring the idea of working-time reduction with an eventual goal of moving to a normal working week of 21 hours. Various people asked me to write up the event, so that’s what I’m doing, though I claim no special expertise in the surrounding economics and social science. The lectures were filmed, so I expect that they’ll be up somewhere to watch soon, which will make my comments superfluous. Tom Walker of <a href="http://ecologicalheadstand.blogspot.com/" target="_blank">Ecological Headstand</a> was also present, so I wouldn’t be surprised to see some remarks from him there soon.</p>
+<p>The three speakers were <a href="http://www.julietschor.org/the-book/" target="_blank">Juliet Schor</a> (author of Plenitude: The New Economics of True Wealth), Robert Skidelsky (former Tory spokesman in the Lords, but goodness knows what his party affiliation is today) and <a href="http://www.earthscan.co.uk/tabid/92763/Default.aspx" target="_blank">Tim Jackson</a> (author of Prosperity Without Growth).</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/towards-a-21-hour-working-week.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

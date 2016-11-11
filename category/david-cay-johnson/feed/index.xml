@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>David Cay Johnson &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dell goes private&#8230;blueprint for re-structuring?</title>
+		<link>./../../2013/02/dell-goes-private-blueprint-for-re-structuring.html</link>
+		<comments>./../../2013/02/dell-goes-private-blueprint-for-re-structuring.html#respond</comments>
+		<pubDate>Thu, 07 Feb 2013 13:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[David Cay Johnson]]></category>
+		<category><![CDATA[Dell In.]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/dell-goes-private-blueprint-for-re-structuring.html</guid>
+		<description><![CDATA[David Cay Johnson describes the processes of restructuring the company over time as Dell goes private: Six years ago, Dell Inc. announced a $12 billion restructuring with huge tax consequences not just for Dell, but also for tax policy. If the deal works as intended, American multinationals can copy it to escape the corporate income [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://taxanalysts.com/www/features.nsf/Articles/D8A55EFE6CF17A3885257B01006D4565?OpenDocument" target="_blank">David Cay Johnson</a> describes the processes of restructuring the company over time as Dell goes private:<br />
+<blockquote>Six years ago, Dell Inc. announced a $12 billion restructuring with huge tax  consequences not just for Dell, but also for tax policy. If the deal works as  intended, American multinationals can copy it to escape the corporate income tax  on profits earned in the United States.<br />   <br />What Dell did was remake itself in a way that lets it escape taxes on profits  earned in the United States by running them through a Netherlands entity and  newly formed subsidiaries in Singapore and the Cayman Islands.  </p>
+<p>Dell later quietly dropped the Singapore and Cayman Islands entities in what  appears to be a pattern of remaking its corporate structure every few years.  This nuanced timing pattern may have great significance as a tool for tax  avoidance because IRS corporate audit practices were established on the  assumption that companies tend to have stable structures. The IRS rarely audits  newly formed entities.  <br />You probably are unaware of this restructuring, even if you are a Dell  shareholder or a Wall Street analyst who follows the company. That&#8217;s because  Dell mentioned it in just a single sentence in an SEC filing and, as best I can  tell, nowhere else.  </p>
+<p>Dell&#8217;s restructuring is important because its founder plans to force out  other shareholders by selling the Texas computer maker to a private equity group  for a reported $15 billion, complicating open IRS audits.</p></blockquote>
+<p>Several graphs help clarify the process of changing &#8216;ownership&#8217; and multi national corporate policy.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/dell-goes-private-blueprint-for-re-structuring.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>David Cay Johnson and taxed by the boss</title>
+		<link>./../../2012/05/david-cay-johnson-and-taxed-by-the-boss.html</link>
+		<comments>./../../2012/05/david-cay-johnson-and-taxed-by-the-boss.html#respond</comments>
+		<pubDate>Tue, 22 May 2012 12:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[David Cay Johnson]]></category>
+		<category><![CDATA[local economics]]></category>
+		<category><![CDATA[state interventions]]></category>
+		<category><![CDATA[tax subsidies]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/david-cay-johnson-and-taxed-by-the-boss.html</guid>
+		<description><![CDATA[Reuters brings us a post from David Cay Johnson on a less well known funding mechanism from state coffers to private businesses. Granted there are a lot of others as well. See this post by Kenneth Thomas    (link repaired) on how competition between government is different than between private businesses: Across the United States more [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blogs.reuters.com/david-cay-johnston/2012/04/12/taxed-by-the-boss/" target="_blank">Reuters</a> brings us a post from David Cay Johnson on a less well known funding mechanism from state coffers to private businesses.  Granted there are a lot of others as well. See <a href="http://www.angrybearblog.com/2012/04/guest-post-greg-mankiw-doesn-understand.html" target="_blank">this post by Kenneth Thomas  </a>  (link repaired) on how competition between government is different than between private businesses:</p>
+<blockquote><p>Across the United States more than 2,700 companies are collecting state income taxes from hundreds of thousands of workers – and are keeping the money with the states’ approval, says an eye-opening report published on Thursday.</p>
+<p>The report from Good Jobs First, a nonprofit taxpayer watchdog organization funded by Ford, Surdna and other major foundations, identifies 16 states that let companies divert some or all of the state income taxes deducted from workers’ paychecks. None of the states requires notifying the workers, whose withholdings are treated as taxes they paid.</p>
+<p>General Electric, Goldman Sachs, Procter &#038; Gamble, Chrysler, Ford, General Motors and AMC Theatres enjoy deals to keep state taxes deducted from their workers’ paychecks, the report shows. Foreign companies also enjoy such arrangements, including Electrolux, Nissan, Toyota and a host of Canadian, Japanese and European banks, Good Jobs First says.<br /><a name="more"></a><br />Why do state governments do this? Public records show that large companies often pay little or no state income tax in states where they have large operations, as this column has documented. Some companies get discounts on property, sales and other taxes. So how to provide even more subsidies without writing a check? Simple. Let corporations keep the state income taxes deducted from their workers’ paychecks for up to 25 years.</p></blockquote>
+<p>The snappier <a href="http://youtu.be/4sZzQQLX-AI" target="_blank">You tube version is here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/david-cay-johnson-and-taxed-by-the-boss.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>natural gas &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Energy independence and a national fleet of hot air baloons</title>
+		<link>./../../2012/10/energy-independence-and-a-national-fleet-of-hot-air-baloons.html</link>
+		<comments>./../../2012/10/energy-independence-and-a-national-fleet-of-hot-air-baloons.html#respond</comments>
+		<pubDate>Sun, 21 Oct 2012 20:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[drilling]]></category>
+		<category><![CDATA[energy policy]]></category>
+		<category><![CDATA[natural gas]]></category>
+		<category><![CDATA[oil production]]></category>
+		<category><![CDATA[renewable energy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/energy-independence-and-a-national-fleet-of-hot-air-baloons.html</guid>
+		<description><![CDATA[Via Economist&#8217;s View on reducing oil imports and energy independence for the US is reader Min&#8217;s proposal, which I have unabashedly stolen: For forty years politicians have been promising energy independence for the US. Forget it. It is not going to happen, at least not any time soon. Our best bet is to cut back [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via Economist&#8217;s View on <a href="http://economistsview.typepad.com/economistsview/2012/10/reducing-oil-imports.html" target="_blank">reducing oil imports and energy independence</a> for the US is reader Min&#8217;s proposal, which I have unabashedly stolen:<br />
+<blockquote>For forty years politicians have been promising energy independence for the US. Forget it. It is not going to happen, at least not any time soon. Our best bet is to cut back on oil and develop renewable energy. In the long run, renewable energy is the only alternative, and we should move in that direction.<br />Meanwhile, I propose a national fleet of hot air balloons. Each balloon would get its supply hot air from a Federal or state legislator, all of whom, as we know, are full of hot air.<br /><img src="https://s.w.org/images/core/emoji/2/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/energy-independence-and-a-national-fleet-of-hot-air-baloons.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

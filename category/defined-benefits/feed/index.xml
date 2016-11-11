@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>defined benefits &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Six figure pout&#8230;</title>
+		<link>./../../2013/01/six-figure-pout.html</link>
+		<comments>./../../2013/01/six-figure-pout.html#respond</comments>
+		<pubDate>Wed, 16 Jan 2013 13:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[define rich]]></category>
+		<category><![CDATA[defined benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/six-figure-pout.html</guid>
+		<description><![CDATA[Via TBogg comes this picture from the WSJ: Kudos to Xenos at Reading Is For Snobs for finding this graphic from the Wall Street Journal portraying the devastation inflicted upon The Poors in post-Fiscal Cliff Obama Socialism Nation:]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://tbogg.firedoglake.com/2013/01/15/five-finger-discount-six-figure-pout/">TBogg</a> comes this picture from the <i>WSJ</i>:<br />
+<blockquote>Kudos to <a href="http://readingisforsnobs.blogspot.com/2013/01/these-are-people-wall-street-journal.html">Xenos at Reading Is For Snobs</a> for finding this graphic from the Wall Street Journal portraying the devastation inflicted upon The Poors in post-Fiscal Cliff Obama Socialism Nation:</p></blockquote>
+<p><img alt="" height="390" src="http://static1.firedoglake.com/29/files/2013/01/Screen-Shot-2013-01-15-at-11.58.52-AM.png" width="587"></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/six-figure-pout.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pensions and retirements&#8230;</title>
+		<link>./../../2012/07/pensions-and-retirements.html</link>
+		<comments>./../../2012/07/pensions-and-retirements.html#respond</comments>
+		<pubDate>Sun, 22 Jul 2012 12:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[defined benefits]]></category>
+		<category><![CDATA[pensions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/pensions-and-retirements.html</guid>
+		<description><![CDATA[The New York Times points us to private industry under funding for your retirement: AFTER years of poor investment returns, the pension funds of the United States’ largest companies are further behind than they have ever been. The companies in the Standard &#038; Poor’s 500 collectively reported that at the end of their most recent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.nytimes.com/2012/07/21/business/pension-plans-increasingly-underfunded-at-largest-companies.html?_r=1&#038;emc=tnt&#038;tntemail1=y">The New York Times</a> points us to private industry under funding for your retirement:<br />
+<blockquote>
+<p>AFTER years of poor investment returns, the pension funds of the United States’ largest companies are further behind than they have ever been. </p>
+<p>The companies in the Standard &#038; Poor’s 500 collectively reported that at the end of their most recent fiscal years, their pension plans had obligations of $1.68 trillion and assets of just $1.32 trillion. The difference of $355 billion was the largest ever, S.&#038; P. said in a report. </p>
+<p>Of the 500 companies, 338 have defined-benefit pension plans, and only 18 are fully funded. Seven companies reported that their plans were underfunded by more than $10 billion, with the largest negative figure, $21.6 billion, reported by General Electric. </p>
+<p>The other companies with more than $10 billion in underfunding were AT&#038;T, Boeing, Exxon Mobil, Ford Motor, I.B.M. and Lockheed Martin. JPMorgan Chase had the largest amount of overfunding, $1.6 billion. </p>
+<p>The main cause of the underfunding at many companies does not appear to be a failure to make contributions to the plans. Instead, it reflects the fact that investment markets have not performed well for a sustained period. </p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/pensions-and-retirements.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

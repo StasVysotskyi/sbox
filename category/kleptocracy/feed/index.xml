@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kleptocracy &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Back-of-the-Envelope: Making Sense of TARP</title>
+		<link>./../../2009/04/back-of-the-envelope-making-sense-of-tarp.html</link>
+		<comments>./../../2009/04/back-of-the-envelope-making-sense-of-tarp.html#respond</comments>
+		<pubDate>Sun, 05 Apr 2009 16:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[Obama economic policy]]></category>
+		<category><![CDATA[principal-agent problem]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[TARP]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/back-of-the-envelope-making-sense-of-tarp.html</guid>
+		<description><![CDATA[Suppose I told you that there was a crisis with a stock, say, GE. That the price of the stock had dropped around 75% in the past year. And you responded, &#8220;But the problem is solved; the prices of long-term Call Options (say, the January 2011 20s) has gone up, as has their Open Interest. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Suppose I told you that there was a crisis with a stock, say, GE.  That the price of the stock had dropped <a target="_blank" href="http://finance.yahoo.com/q/bc?s=GE&#038;t=1y&#038;l=on&#038;z=m&#038;q=l&#038;c=">around 75% in the past year</a>.  And you responded, &#8220;But the problem is solved; the prices of long-term Call Options (say, <a target="_blank" href="http://finance.yahoo.com/q/op?s=GE&#038;m=2011-01">the January 2011 20s</a>) has gone up, as has their Open Interest.</p>
+<p>You will (rightly) point out that this won&#8217;t revitalise the assets themselves and I will (rightly) note that option markets rather saved the equity markets in 1987, for instance.  You will note that I am too optimistic, and I will agree, holding up a <a target="_blank" href="http://delong.typepad.com/sdj/2009/03/tim-geithner-is-not-a-tool-of-wall-street.html">Brad</a> <a target="_blank" href="http://delong.typepad.com/sdj/2009/03/matthew-richardson-and-nouriel-roubini.html">DeLong</a> mask (since I&#8217;d rather have DeLong&#8217;s [relative to mine] abundant hair than Geithner&#8217;s abundant forehead).</p>
+<p>Then I will drop the other shoe and say that the toxic (&#8220;legacy&#8221;) assets should be priced as if the Fed-supported trades were options, with the underlying current price worked out by Black-Scholes. (As I&#8217;ve noted before, B-S is specifically <strong>IN</strong>appropriate for this exercise, as it will overvalue the option. And therefore anyone suggesting the toxic [&#8220;legacy&#8221;] assets should be priced—or carried on their books—at a level higher than that model will clearly be insane.)</p>
+<p>Ladies and Gentlemen, welcome to The TARP Solution.  Details beneath the fold.</p>
+<p>TARP is the Treasury Department&#8217;s attempt to confront two realities: (1) it isn&#8217;t a &#8220;market&#8221; in any reasonable sense of the word if the Fed is putting up 85% of the cash. (People who tell us that this means firms are committing a &#8220;large amount&#8221; to the process either do not understand the English language,or are <a target="_blank" href="http://brontecapital.blogspot.com/2009/04/little-bit-of-careful-thinking-and-why.html">hedge fund managers trying to sell something</a>.)  So let&#8217;s put some random numbers together.</p>
+<p>Those &#8220;legacy&#8221; assets are trading in the market around 30.  The Big C and others are carrying them on their books around 80.  Several people who should know better (Summers, Geithner, DeLong) have conflated &#8220;the market is underpricing the assets&#8221; with &#8220;the true price of the assets will make the banks solvent again.&#8221;*</p>
+<p>So we know three things.  (1) People are willing to pay 30% of their own money to buy these assets, (2) the Fed is only requiring them to pay 15%, and (3) the fair value is between 30 (the current market price) and 80, and probably closer to the former than the later.</p>
+<p>So again, using back-of-the-envelope principles, let&#8217;s pretend that we think the recovery will be soon, that the defaults will slow (or at least that resales will be quick and frictionless), and that the market reaches that consensus quickly.  And so fair value should be around 50.**</p>
+<p>So let&#8217;s say the Fed offers to buy a MBS for 50.  How, as an investor, do I make money off this?  Three possible ways:</p>
+<ol>
+<li>If I own securities for which I paid </li>
+<li>If I own securities for which I paid >50, and which I cannot sell for 50 without revealing myself to be insolvent, I buy securities at 50 along with the Fed and &#8220;average in.&#8221;  (This is the &#8220;how to stay solvent longer than the market can be rational&#8221; act.)</li>
+<li>If the Fed is buying securities at 50 so that I can no longer buy them at 30—I buy a LONG-dated Call Option on the security.</li>
+</ol>
+<p>It is that last that explains TARP. Effectively, the co-investors with the Fed will be buying a Call option at 7.5 on the security at 50.***</p>
+<p>Of course, it may not be an at-the-money Call option.  More likely, the hedge fund effectively will be buying an out-of-the-money option (say, a 49.5 Call for 8) where some portion of the purchase is put up by the government.</p>
+<p>Now you will note that, technically, TARP requires the hedge fund to buy the asset.  So you might argue that this is not an option.  But let&#8217;s look at the generic payoff diagram to the hedge fund of the two scenarios.
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/Sdlq9tDeBdI/AAAAAAAAARY/L5WRVc8T6Xw/s1600-h/tarp+v+call.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/Sdlq9tDeBdI/AAAAAAAAARY/L5WRVc8T6Xw/s400/tarp+v+call.JPG" border="0" alt=""></a></p>
+<p>Amazingly, you can&#8217;t tell the difference on the payoff diagram as the security gains.****  In both cases, the hedge fund manager has just gone long volatility.</p>
+<p>Expect that to have a ripple effect—I&#8217;m guessing dampening, cet. par.—on other option volatility trades.</p>
+<p>All that is left is to back out what actual value of the security was assumed by the hedge fund when they bought the option.  Which I will also leave as an exercise to the reader, while suggesting that a fair indication is min[x, TotalFedContribution] s.t. x a.s. approaches TotalFedContribution.</p>
+<p>Will this bring the markets back, or make bank balance sheets more stable? I&#8217;m still saying &#8220;No,&#8221; and hoping to be proved wrong.</p>
+<p>But what it should do is reduce volatility buying, especially in the other debt markets, for the foreseeable future.  So if any of those <s>Bankrupt</s> &#8220;legacy asset constrained&#8221; institutions has a long volatility position, there will be even more &#8220;Unintended Consequences.&#8221;</p>
+<p>*In fairness to Brad DeLong, I don&#8217;t believe he believes this. As <a target="_blank" href="http://www.eschatonblog.com/2009/03/politics-is-weird.html">Dr. Black noted</a>, George Voinovich &#8220;wants to see a pile of money in flames before he&#8217;s willing to vote for what&#8217;s necessary,&#8221; and DeLong therefore sees this as a necessary evil.  Having seen no evidence from the Obama Administration that they Have a Clue, I am naturally suspicious that this particular idiocy will do anything other than waste time and money—both of which are in increasingly short supply—but, since Larry Summers has shown <a target="_blank" href="http://thismodernworld.com/4731">his brilliant foresight before</a> and clear has <a target="_blank" href="http://thismodernworld.com/4736">no skin in the game</a>, I am reassured that there is no Principal-Agent problem at work here, as they was when Christopher &#8220;I never saw a regulation I like&#8221; Cox was named head of the SEC by the Previous Administration.</p>
+<p>**While we&#8217;re at it, can we pretend that <a target="_blank" href="http://www.amazon.com/exec/obidos/search-handle-url/ref=ntt_athr_dp_sr_1?_encoding=UTF8&#038;search-type=ss&#038;index=books&#038;field-author=Amber%20Benson">Amber Benson</a> will be my next wife, which is probably very little less likely than those other possibilities (especially since I&#8217;m already married to an sf-writing actress/director)?  (Amazingly, even without those conditions, we would be using a BotE number of 50: though there is a legitimate argument that 60 would be easier to work with, I&#8217;m assuming no one is that stupid.)</p>
+<p>***This is why 60 would have been easier; 15% of 60 is 9, so I wouldn&#8217;t have to pay attention to decimal places.  40 would also have been easier—and both certainly more realistic than 60 and arguably more realistic than 50, but I want to maintain the pretense of the U.S. Treasury that this is a liquidity, not a solvency, crisis.  (They&#8217;re wrong, but it&#8217;s their game.)</p>
+<p>****The reason we can tell the difference on the losses is the possibility that the hedge fund treats the position as if it were an in-the-money Call option for which the Fed paid the in-the-money portion; the real returns to the hedge fund of the position in a TARP security are the same in both cases; there would be differences in the way the rest of the portfolio was managed, though, which are left as an exercise to the reader.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/back-of-the-envelope-making-sense-of-tarp.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>From Insurance to Kleptocracy, with Graphics</title>
+		<link>./../../2009/03/from-insurance-to-kleptocracy-with-graphics.html</link>
+		<comments>./../../2009/03/from-insurance-to-kleptocracy-with-graphics.html#respond</comments>
+		<pubDate>Thu, 26 Mar 2009 01:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[Tim Geithner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/03/from-insurance-to-kleptocracy-with-graphics.html</guid>
+		<description><![CDATA[Via Instaputz, an explanation of why stealing tax dollars in order to decouple securities from the assets they are allegedly securitizing is A Really Stupid Idea, presented directly, yet also in a way an econometrician wiill understand.]]></description>
+				<content:encoded><![CDATA[<p>Via <a target="_blank" href="http://instaputz.blogspot.com/2009/03/stunning-and-stunningly-long.html">Instaputz</a>, an explanation of why stealing tax dollars in order to <a target="_blank" href="http://angrybear.blogspot.com/2009/03/thought-experiment-assets-and.html">decouple securities from the assets they are allegedly securitizing</a> is <a target="_blank" href="http://rortybomb.wordpress.com/2009/03/25/modeling-an-fdic-robbery/">A Really Stupid Idea</a>, presented directly, yet also in a way <a target="_blank" href="http://economistsview.typepad.com/">an econometrician</a> wiill understand.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/03/from-insurance-to-kleptocracy-with-graphics.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>If You Think I Believe it&#8217;s 1931 Again, You Should Ask the Greek Guy</title>
+		<link>./../../2009/03/if-you-think-i-believe-its-1931-again-you-should-ask-the-greek-guy.html</link>
+		<comments>./../../2009/03/if-you-think-i-believe-its-1931-again-you-should-ask-the-greek-guy.html#respond</comments>
+		<pubDate>Wed, 25 Mar 2009 00:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Democracy]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/03/if-you-think-i-believe-its-1931-again-you-should-ask-the-greek-guy.html</guid>
+		<description><![CDATA[Via Robert&#8217;s Twitter Feed, and to avoid ranting about 401(k)s before the end of May, here&#8217;s a Rant Well Worth Reading. (Warning: PG-13 or R rating; D. Aritophanes channels The Rude Pundit). Clean Excerpt: What’s the catch? That’s the beautiful thing … there is none! It’s all totally risk-free for you from start to finish! [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via Robert&#8217;s Twitter Feed, and to avoid ranting about 401(k)s before the end of May, here&#8217;s a <a target="_blank" href="http://www.sadlyno.com/archives/18851.html">Rant Well Worth Reading</a>.  (Warning: PG-13 or R rating; D. Aritophanes channels The Rude Pundit).</p>
+<p>Clean Excerpt:<br />
+<blockquote>What’s the catch? That’s the beautiful thing … there is none! It’s all totally risk-free for you from start to finish! You’re last in, first out! The rubes front 97 percent of the buy-in with their taxes! And for their troubles, they get 100 percent of the exposure!</p></blockquote>
+<p>In this context, Brad DeLong&#8217;s &#8220;<a target="_blank" href="http://delong.typepad.com/sdj/2009/03/krishna-guha-worries-about-governance.html">I trust my friends more than I do George Voinovich</a>&#8221; post does not exactly warm the cockles of my heart.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/03/if-you-think-i-believe-its-1931-again-you-should-ask-the-greek-guy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Thought-Experiment: Assets and Securities</title>
+		<link>./../../2009/03/thought-experiment-assets-and-securities.html</link>
+		<comments>./../../2009/03/thought-experiment-assets-and-securities.html#respond</comments>
+		<pubDate>Tue, 24 Mar 2009 22:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[securitization]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/03/thought-experiment-assets-and-securities.html</guid>
+		<description><![CDATA[Ken Houghton wants to sidebar today into looking at the general application and implications of an Accounting Identity: Assets = Liabilities + Equity (A=L+E, or the ALE Rule). Let us assume that, since the housing bubble burst, I believe that my house has fallen in value by too much. I would understand a 20% decline, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ken Houghton</p>
+<p>wants to sidebar today into looking at the general application and implications of an Accounting Identity:</p>
+<p><center>Assets = Liabilities + Equity  (A=L+E, or the ALE Rule).</center></p>
+<p>Let us assume that, since the housing bubble burst, I believe that my house has fallen in value by too much.  I would understand a 20% decline, but the &#8220;market price&#8221; that the experts (realtors) tell me I can get is 40% below the price of the last &#8220;comparable sale&#8221; (a smaller house in perfect condition).</p>
+<p>But there are ancillary factors—proximity to NYC, good public transit infrastructure, good schools, convenience to the airport and major roadways—that I believe the market is undervaluing.  So I &#8220;carry&#8221; the house in Quicken at 80% of the last sale.</p>
+<p>Since I refinanced a couple of years ago, someone out there owns the Mortgage-Backed Security that was formed from that refi.  Let us pretend it is Citibank, who are carrying that security on their books at 80, even though the last similar trade in the market was 60.</p>
+<p>I think you can see where this is going.</p>
+<p>So along comes the U.S. Treasury to &#8220;fix&#8221; the crisis and Get Banks Lending Again. (Apparently, they can&#8217;t lend because the market values their assets as being less than their liabilities plus their equity.)</p>
+<p>In doing so, the Treasury will supply so random number—say, 85%—of the capital required so that a Private Investor can swoop in and Save Citibank&#8217;s Securities, by buying them &#8220;closer to their real value.&#8221;</p>
+<p>So the Private Investor says, &#8220;Yo, Big C!  I see you own the MBS that covers Ken&#8217;s house.  Even now, his house is worth more than he owes on it, so I want to buy that security from you.&#8221;</p>
+<p>Big C says, &#8220;I&#8217;m carrying that security on the books at 80.  And there are a few billion others just like it.&#8221;</p>
+<p>Private Investor: &#8220;Well, the market says all those securities are worth 60.&#8221;</p>
+<p>Big C: &#8220;I can&#8217;t sell it at that level. I would have to mark down everything else, and people would see that my liabilities exceed my assets, leaving me with negative equity.  And everyone is still pretending that my equity shareholders should not be revealed to own bupkus.&#8221;</p>
+<p>PI:  &#8220;Well, I&#8217;ll tell you what.  Since we can foreclose on Ken for more than the amount owed, I&#8217;m willing to pay a little more.&#8221;</p>
+<p>Big C: &#8220;I need you to pay something close to 80, or The Truth will out.&#8221;</p>
+<p>PI: &#8220;Well, since the U.S. taxpayer is going to support 85% of my purchase in the worst of scenarios, I can pay you&#8211;how about 76?&#8221;</p>
+<p>Big C: &#8220;Make it 78 and you have a deal.&#8221;</p>
+<p>PI: &#8220;All right; I&#8217;ll do that.  After all, I&#8217;m only having to put up $11.70 of that.&#8221;</p>
+<p>Big C: &#8220;And I&#8217;ll be able to pretend we&#8217;re solvent. After all, we have some <a target="_blank" href="http://www.mcclatchydc.com/251/story/64552.html">Inside Investors who need loans</a>, and the Fed wants us to loan more.&#8221;</p>
+<p>But wait a minute: the real value of that security is supposed to be the cash flows from The Underlying Assets. In short, it&#8217;s based on my (and others) ability to pay the mortgage.  So let&#8217;s look at the other side.</p>
+<p>I carry my house in Quicken at 33% (20/60) over what the realtors tell me it is worth.  So Quicken shows me that cool Net Assets thing, and I have a Net Asset Value $30,000* higher than &#8220;the market&#8221; believes.</p>
+<p>But it&#8217;s not liquid, and I don&#8217;t run a Treasury operation, nor am I necessarily required to abide by the ALE rule.  So in general I <em>feel</em> more solvent, but <a target="_blank" href="http://en.wikipedia.org/wiki/Permanent_income_hypothesis">may not</a> (or <a target="_blank" href="http://angrybear.blogspot.com/2009/03/money-illusion-and-link-theft.html">may</a>, but let&#8217;s assume not) change my behavior because of it.</p>
+<p>So tomorrow I have a heart attack and can&#8217;t work for a while.**  And my wife needs to help me with recovery, as well as keep the kids going to school and activities, so we spend six months to a year living on savings and whatever safety net there is.  And finally we realise we have to downsize our life and move to Northern Indiana where my family can help us out for a while.</p>
+<p>So we put the house on the market, at the price the realtors said it was worth.</p>
+<p>But—as happened last summer—there are no bidders.  And when there might be a bidder, they can&#8217;t get a bank loan from The Big C.</p>
+<p>Eventually, we realise we&#8217;re not going to move back and stop making payments on the property, which stays on the market until it is foreclosed.  And then the bank that owns the mortgage sells the house short to a developer who pockets a quick few bills.***</p>
+<p>We file for bankruptcy.</p>
+<p>Now, in the real world, the Securitized Asset that looked so great above is now a losing proposition.  But in GeithnerWorld, the asset is secured by the U.S. Treasury, and the &#8220;investor&#8221; takes no hit at all; indeed, Private Investor is made whole with&#8230;taxpayer funds!</p>
+<p>In short: Debt that my child will have to pay.</p>
+<p>The Geithner Plan is the ultimate in Financial Reality.  Derivatives were at least based on underlying assets; if the five-year Treasury price fell, the five-year swap was worth more.****  GeithnerBuys have no relation to the &#8220;securitized&#8221; asset at all, except to add to the expenses of bankrupt taxpayers.</p>
+<p>It is the final Decoupling of Wall Street and Main Street, so while Arlen Spector makes certain that <a target="_blank" href="http://digbysblog.blogspot.com/2009/03/revenge-of-haggis-by-dday-arlen-specter.html">workers can&#8217;t organize</a> and Ellen Tauscher ensures that mortgages can only be reset to market value if it is a Vacation (or &#8220;second&#8221;) Home (despite <a target="_blank" href="http://consumerist.com/5126975/citibank-senate-agree-on-cramdown-bill-to-prevent-foreclosures">an earlier agreement</a>), Tim Geithner and Larry Summers—with the support of <a target="_blank" href="http://delong.typepad.com/sdj/2009/03/seeking-alpha-today-1130-pdt.html">Some</a> <a target="_blank" href="http://economistsview.typepad.com/economistsview/2009/03/will-the-geithner-plan-work.html">Economists</a> who Should Know Better—are ensuring that any damage to the real economy is not felt in the financial sector.</p>
+<p>Welcome to Brighton Rock.  Or maybe <em>Faust</em>.</p>
+<p>*Possibly not the real number.</p>
+<p>**Knock wood, this is not real either.</p>
+<p>***Anyone got the link on this one?  Saw a piece earlier today about Citi selling a foreclosure for $131K to a developer who flipped it, doing nothing, for $249K.</p>
+<p>****Reminder: lower price = higher yield.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/03/thought-experiment-assets-and-securities.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quote of the Day on Executive Pay</title>
+		<link>./../../2009/02/quote-of-the-day-on-executive-pay.html</link>
+		<comments>./../../2009/02/quote-of-the-day-on-executive-pay.html#respond</comments>
+		<pubDate>Sun, 08 Feb 2009 20:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[compensation]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/quote-of-the-day-on-executive-pay.html</guid>
+		<description><![CDATA[Via Mark Thoma, Uwe Reinhardt* hits one out of the park on economist&#8217;s research abilities: Evidently, in the mind of economists, Lone Ranger C.E.O.’s can make truly astronomical contributions to a firm’s market capitalization, ceteris paribus, which justifies high bid prices for them. Why Lone Ranger C.E.O.’s who have trashed their firm’s market capitalization should [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://economistsview.typepad.com/economistsview/2009/02/executive-pay.html">Mark Thoma</a>, Uwe Reinhardt* hits one out of the park on <a href="http://economix.blogs.nytimes.com/2009/02/06/supply-demand-and-executive-pay/">economist&#8217;s research abilities</a>:<br />
+<blockquote>Evidently, in the mind of economists, Lone Ranger C.E.O.’s can make truly astronomical contributions to a firm’s market capitalization, ceteris paribus, which justifies high bid prices for them. Why Lone Ranger C.E.O.’s who have trashed their firm’s market capitalization should be sent off to pasture with hundred-million-dollar golden parachutes — which occurs with remarkable frequency — seems to be not much analyzed by economists. Perhaps other things did not remain equal. [emphasis mine]</p></blockquote>
+<p>Or, as Warren Buffett famously observed (roughly): &#8220;If a good manager goes to a bad company, it is generally the reputation of the manager that is changed.&#8221;**  And even Michael Porter, who never saw a manager he didn&#8217;t like, <a href="http://knowledge.wharton.upenn.edu/article.cfm?articleid=1594">recently changed his tune</a>:<br />
+<blockquote>When Porter started out studying strategy, he believed most strategic errors were caused by external factors, such as consumer trends or technological change. &#8220;But I have come to the realization after 25 to 30 years that many, if not most, strategic errors come from within. The company does it to itself.&#8221;</p></blockquote>
+<p>Those of us who know that economists use thr phrase &#8220;technological change&#8221; because &#8220;magic&#8221; would get them laughed out of meetings can only say, &#8220;Gee, Really?&#8221;</p>
+<p>Reinhardt also notes that Robert Frank cites the Gabaix/Lander &#8220;study&#8221; of executive compensation. Reinhardt notes:<br />
+<blockquote>Readers may wonder about the survival of this theory, even among economists, as stock prices have begun to tumble sharply, starting in 2007.</p></blockquote>
+<p>Since I don&#8217;t feel like retreading, here are links to <a href="http://angrybear.blogspot.com/2007/05/why-has-ceo-pay-increased-so-much.html">PGL here in 2007</a> and Tom at the Legacy Blog in <a href="http://atbozzo.blogspot.com/2006/05/news-flash-ceos-are-overpaid.html">2006</a>, <a href="http://atbozzo.blogspot.com/2007/05/from-archives-on-gabaix-and-landier-on.html">2007</a>, and <a href="http://atbozzo.blogspot.com/2008/04/bad-penny.html">2008</a>.</p>
+<p>Reinhardt continues:<br />
+<blockquote>Readers may also wonder why, in the United States, the ratio of total executive compensation (including bonuses and deferred compensation, pensions and perks) to the comparable figure earned by non-management employees rose from 50 in 1980 to 301 by 2003 for the 300 to 400 largest corporations (and to 500 in very large corporations), while that ratio typically has remained so much lower in Europe and in Asia. Are corporate executives in Europe and Asia so vastly inferior to their American counterparts, or is the supply of potential C.E.O.’s so much larger there as to drive down the ratio in, say, Japan, to as low a 3?</p></blockquote>
+<p>Reinhardt promises to talk about the cl*st*rf*ck that is GE (last discussed by me <a href="http://angrybear.blogspot.com/2009/01/ratings-stocks-and-credibility.html">here</a>) in his next post.</p>
+<p>Pass the popcorn.</p>
+<p>*Note to Canadian readers:I&#8217;m told he&#8217;s the Bob Evans of Health Economists in the U.S.</p>
+<p>**Of course, if Bob Nardelli trashes Home Depot and then goes to finish the trashing of Chrysler, he gets richer and it&#8217;s an outlier in the database (which has a growing number of outliers).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/quote-of-the-day-on-executive-pay.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The TARP-May-Produce-a-Profit Meme can now be laid to rest</title>
+		<link>./../../2009/02/the-tarp-may-produce-a-profit-meme-can-now-be-laid-to-rest.html</link>
+		<comments>./../../2009/02/the-tarp-may-produce-a-profit-meme-can-now-be-laid-to-rest.html#respond</comments>
+		<pubDate>Fri, 06 Feb 2009 18:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/the-tarp-may-produce-a-profit-meme-can-now-be-laid-to-rest.html</guid>
+		<description><![CDATA[Duff and Phelps, which tends to be the rating agency you go to if S&#038;P or Moody&#8217;s won&#8217;t rate you highly enough, provides a convenient evaluation table (p. 22 of this report) for the marvelous negotiating techniques and acquisition skills of the previous Administration. Since the current Administration is now threatening to continue with the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Duff and Phelps, which tends to be the rating agency you go to if S&#038;P or Moody&#8217;s won&#8217;t rate you highly enough, provides a convenient evaluation table (p. 22 of <a target="_blank" href="http://cop.senate.gov/documents/cop-020609-report-dpvaluation.pdf">this report</a>) for the marvelous negotiating techniques and acquisition skills of the previous Administration.
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SYxtiQtRjGI/AAAAAAAAAQc/wgTGjeIYkDg/s1600-h/TARP+Assets.JPG"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SYxtiQtRjGI/AAAAAAAAAQc/wgTGjeIYkDg/s400/TARP+Assets.JPG" border="0" alt=""></a></p>
+<p>Since the current Administration is now threatening to continue with the same effort, any cause for optimism is sadly misplaced.</p>
+<p>(h/t <a href="http://www.philly.com/philly/blogs/inq-phillydeals/How_TARP_ripped_off_taxpayers_report.html">Joseph N. DiStefano</a>)</p>
+<p>Update: DOLB<br />I apologize if Ken minds me adding this, but Elizabeth Warren talked about exactly this last night on Rachel Maddow&#8217;s show.</p>
+<div>
+<p>Visit msnbc.com for <a href="http://www.msnbc.msn.com/">Breaking News</a>, <a href="http://www.msnbc.msn.com/id/3032507">World News</a>, and <a href="http://www.msnbc.msn.com/id/3032072">News about the Economy</a></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/the-tarp-may-produce-a-profit-meme-can-now-be-laid-to-rest.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>If Ever There Were a Tipping Point in the Nationalisation Discussions&#8230;</title>
+		<link>./../../2009/01/if-ever-there-were-a-tipping-point-in-the-nationalisation-discussions.html</link>
+		<comments>./../../2009/01/if-ever-there-were-a-tipping-point-in-the-nationalisation-discussions.html#respond</comments>
+		<pubDate>Mon, 19 Jan 2009 20:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[Fiscal stimulus]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[Paul Krugman]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/if-ever-there-were-a-tipping-point-in-the-nationalisation-discussions.html</guid>
+		<description><![CDATA[Willem Buiter, whose early posts at Maverecon were the epitome of restraint, calls for nationalisation: By throwing cheap money with little conditionality at the banks, the Fed and the US Treasury may get bank lending going again. By subsidizing new capital injections, they reward bad porfolio choices by the existing shareholders. By letting the executive [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Willem Buiter, whose early posts at <a href="http://blogs.ft.com/maverecon/">Maverecon</a> were the epitome of restraint, <a href="http://blogs.ft.com/maverecon/2009/01/time-to-take-the-banks-into-full-public-ownership/">calls for nationalisation</a>:<br />
+<blockquote>By throwing cheap money with little conditionality at the banks, the Fed and the US Treasury may get bank lending going again.  By subsidizing new capital injections, they reward bad porfolio choices by the existing shareholders.  By letting the executive leadership and the board stay on, they further increase moral hazard, by rewarding  failed managers and boards that have failed in their fiduciary duties.  All this strengthens the incentives for future excessive risk taking.</p>
+<p>There is a better alternative. The alternative is to inject additional capital into the banks by taking all the banks into full public ownership.  With the state as sole owner, the existing top executives and the existing board members can be fired without any golden handshakes.  That takes care of one important form of moral hazard.  Although publicly owned, the banks would be mandated to operate on ordinary commercial principles.  Managers could be incentivised by linking remuneration to multi-year profitability. The incentives for excessive liquidity accumulation and for excessively cautious lending policies that exist for partially nationalised banks and for banks fearing nationalisation would, however, be eliminated.</p></blockquote>
+<p>He also addresses the sticking point on the formation of the &#8220;bad bank&#8221;: if the government already owns the assets, the sale price becomes an accounting question.  Not that that is necessarily good, but at least it limits some of the profiteering.</p>
+<p>Read <a href="http://blogs.ft.com/maverecon/2009/01/time-to-take-the-banks-into-full-public-ownership/">the whole thing</a>.</p>
+<p>Via <a href="http://krugman.blogs.nytimes.com/2009/01/19/minds-thinking-alike/">Krugman</a>, who was via <a href="http://angrybear.blogspot.com/2009/01/whats-in-water-in-chicago.html">Robert</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/if-ever-there-were-a-tipping-point-in-the-nationalisation-discussions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I&#8217;d like to refinance, please.</title>
+		<link>./../../2008/12/id-like-to-refinance-please.html</link>
+		<comments>./../../2008/12/id-like-to-refinance-please.html#respond</comments>
+		<pubDate>Wed, 03 Dec 2008 23:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Housing Prices]]></category>
+		<category><![CDATA[Idiocy]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[Paulson]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/id-like-to-refinance-please.html</guid>
+		<description><![CDATA[In one of the stupidest wastes of Treasury monies this month—a major accomplishment, though AIG hasn&#8217;t hit the trough again yet, so there might be hope—the Treasury wants to subsidize new mortgages (link to CR): Under the plan, Treasury would buy securities underpinning loans guaranteed by the two mortgage giants, which are temporarily under the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In one of the stupidest wastes of Treasury monies this month—a major accomplishment, though AIG hasn&#8217;t hit the trough again yet, so there might be hope—the Treasury wants to <a href="http://calculatedrisk.blogspot.com/2008/12/wsj-treasury-considers-plan-to-lower.html">subsidize <em>new</em> mortgages</a> (link to CR):<br />
+<blockquote>Under the plan, Treasury would buy securities underpinning loans guaranteed by the two mortgage giants, which are temporarily under the control of the government, as well as those guaranteed by the Federal Housing Administration. [amazement, not to mention emphasis, mine]</p></blockquote>
+<p>This will, of course, address the underlying problem perfectly:<br />
+<blockquote>Government officials are under pressure to stem foreclosures, which underpin much of the current financial crisis. Treasury has struggled for months to come up with a plan that would ease the market without appearing to bail out homeowners and lenders.</p></blockquote>
+<p>It&#8217;s Deborah Solomon, so we expect lies and deception.  So let&#8217;s fix that last sentence:<br />
+<blockquote>Treasury has struggled for months to come up with a plan that would ease the market without appearing to bail out homeowners <strong>having already provided ridiculous amounts of money to the</strong> lenders.</p></blockquote>
+<p>There.  Much better.</p>
+<p>*Someone please break the news to <a href="http://economy.nationaljournal.com/2008/12/is-the-deficit-a-threat-to-a-f.php#1183590">the Ed Leamers of the world</a> that those are tax dollars that are being used as &#8220;monetary policy,&#8221; which will be just as much of a liability to future generations as his &#8220;fear of public goods spending,&#8221; except that we get a boost to profits when we build public goods.  Good thing he&#8217;s not an economist or&#8230;never mind.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/id-like-to-refinance-please.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>English translation, or Kleptocracy Defined</title>
+		<link>./../../2008/11/english-translation-or-kleptocracy-defined.html</link>
+		<comments>./../../2008/11/english-translation-or-kleptocracy-defined.html#respond</comments>
+		<pubDate>Tue, 25 Nov 2008 18:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Banking Crisis]]></category>
+		<category><![CDATA[bushonomics]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/11/english-translation-or-kleptocracy-defined.html</guid>
+		<description><![CDATA[Via CR, the Fed announcement this morning: The Federal Reserve Board on Tuesday announced the creation of the Term Asset-Backed Securities Loan Facility (TALF), a facility that will help market participants meet the credit needs of households and small businesses by supporting the issuance of asset-backed securities (ABS) collateralized by student loans, auto loans, credit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via CR, <a href="http://www.federalreserve.gov/newsevents/press/monetary/20081125a.htm">the Fed announcement this morning</a>:<br />
+<blockquote>The Federal Reserve Board on Tuesday announced the creation of the Term Asset-Backed Securities Loan Facility (TALF), a facility that will help market participants meet the credit needs of households and small businesses by supporting the issuance of asset-backed securities (ABS) collateralized by student loans, auto loans, credit card loans, and loans guaranteed by the Small Business Administration (SBA).</p></blockquote>
+<p>Let&#8217;s go through this.  The government is now insuring securities based on
+<ol>
+<li>student loans, </li>
+<li>auto loans, and</li>
+<li>credit card loans*</li>
+</ol>
+<p>Note that this is <strong>not</strong> support for schooling, the automobile industry, or credit card borrowers—just the people who buy (or bought) the paper.</p>
+<p>In short, f**k the people who actually produced the underlying value of that financial asset.  Save Wall Street with Main Street&#8217;s tax monies.</p>
+<p>I give up.  Yves Smith&#8217;s old description of Paulson&#8217;s &#8220;<a href="http://www.nakedcapitalism.com/2008/09/mussolini-style-corporatism-in-action.html">Mussolini-Style Corporatism in Action</a>&#8221; seems so quaint by comparison to this abomination.</p>
+<p>*SBA loans are omitted from discussion, since there is a reasonable argument that the government insuring SBA loans is has no net cash flow implications.  (The argument will prove false when it is discovered that SBA loans are being made profligately to Bush Administration contributors, but that&#8217;s a side issue.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/11/english-translation-or-kleptocracy-defined.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Felix Salmon Explains It All to You</title>
+		<link>./../../2008/11/felix-salmon-explains-it-all-to-you.html</link>
+		<comments>./../../2008/11/felix-salmon-explains-it-all-to-you.html#respond</comments>
+		<pubDate>Wed, 12 Nov 2008 15:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bushonomics]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[Paulson]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/11/felix-salmon-explains-it-all-to-you.html</guid>
+		<description><![CDATA[Ken Houghton There does indeed seem to have been a visible change in Treasury policy since the election. Until that point, it cared a little about optics. Now, it&#8217;s giving monster bailouts to the likes of AIG and American Express; it&#8217;s dragging its feet on homeowner relief; and in general Hank Paulson&#8217;s Wall Street buddies [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ken Houghton</p>
+<blockquote><p>There does indeed seem to have been a visible change in Treasury policy since the election. Until that point, it cared a little about optics. Now, it&#8217;s giving monster bailouts to the likes of AIG and American Express; it&#8217;s dragging its feet on homeowner relief; and in general Hank Paulson&#8217;s Wall Street buddies seem to be getting much better access than anybody in Detroit. And no one&#8217;s even trying very hard to defend these actions in public: they know they&#8217;ll be out of a job in January anyway, so they&#8217;re just doing what they want to do and what they feel is right, without caring much whether anybody else agrees with them.</p></blockquote>
+<p>Background at <a href="http://www.portfolio.com/views/blogs/market-movers/2008/11/12/treasury-enters-its-lame-duck-phase?tid=true">this link</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/11/felix-salmon-explains-it-all-to-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

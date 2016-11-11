@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rules of a market &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Markets are &#034;natural&#034; &#8230;financial intermediation</title>
+		<link>./../../2012/06/markets-are-natural-financial-intermediation.html</link>
+		<comments>./../../2012/06/markets-are-natural-financial-intermediation.html#respond</comments>
+		<pubDate>Thu, 28 Jun 2012 11:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[free markets]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[rules of a market]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/markets-are-natural-financial-intermediation.html</guid>
+		<description><![CDATA[Lifted from the comments from an Ezra Klein article in the Washington Post comes an interesting idea that is not only currently debated, but also ties into &#8216;markets are &#8220;natural&#8221; idea&#8217;&#8230; Paul Andrews comments:Yes &#8211; lots of saving and borrowing, often in goods rather than money. When money is included its often only a fiat [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lifted from the comments from an Ezra Klein article in the  <a href="http://www.washingtonpost.com/blogs/ezra-klein/post/study-long-term-deficits-are-linked-to-24-percent-lower-growth/2012/06/17/gJQAtYlLjV_blog.html" target="_blank">Washington Post</a> comes an interesting idea that is not only currently debated, but also ties into &#8216;markets are &#8220;natural&#8221; idea&#8217;&#8230;</p>
+<blockquote><p>Paul Andrews comments:<br />Yes &#8211; lots of saving and borrowing, often in goods rather than money. When money is included its often only a fiat monetary base exchanged by the government for goods, with no banking sector and therefore no deposits created by lending, no M1, M2, M3. No shadow banking sector etc. </p>
+<p>Refer to this <a href="http://www.bis.org/publ/bppdf/bispap65.pdf" target="_blank">BIS summary on fiscal dominance from December 2011</a></p>
+<blockquote><p>A quote: &#8220;Starting with financial intermediation, recall that banks play no role whatsoever in macroeconomic models of the pre-crisis era. These traditional models are based on the distinction between nominal and real quantities, and there are interest rates. But the only friction is the one associated with nominal price changes, so inflation and inflation control become the focus. (If it is costly to change prices, inflation creates a deadweight loss.) And, since the model is devoid of banks, there is no private debt. As I suggested at the beginning, the macroeconomic models of the future, with their added focus on financial linkages, need to have a rationale for debt as distinct from equity. </p></blockquote>
+</blockquote>
+<p><a name="more"></a><br />
+<blockquote>
+<blockquote>We need to understand why the predominant financial contract is a loan or a bond rather than equity. In fact, we need a clear understanding of the optimal debt/equity ratio for the economy as a whole. We know that high levels of debt can lead to disaster for a society, but beyond notions from crude empirical work, we don’t have any idea what the right level of debt is. A rich enough macro/monetary/financial model will tell us the answer.&#8221;</p></blockquote>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/markets-are-natural-financial-intermediation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

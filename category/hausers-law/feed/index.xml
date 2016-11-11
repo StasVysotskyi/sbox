@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hauser&#8217;s law &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Hauser&#8217;s Law is Extremely Misleading</title>
+		<link>./../../2010/11/hausers-law-is-extremely-misleading.html</link>
+		<comments>./../../2010/11/hausers-law-is-extremely-misleading.html#respond</comments>
+		<pubDate>Tue, 30 Nov 2010 13:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hauser's law]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/hausers-law-is-extremely-misleading.html</guid>
+		<description><![CDATA[by Mike Kimel Hauser&#8217;s Law is Extremely MisleadingCross posted at the Presimetrics blog. A friend sent me a link to this Wall Street Journal opinion piece by W. Kurt Hauser. Who is he, you ask? Here&#8217;s what it says at the bottom of the article: Mr. Hauser is chairman emeritus of the Hoover Institution at [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>Hauser&#8217;s Law is Extremely Misleading</strong><br />Cross posted at the <a href="http://www.presimetrics.com/blog/?p=241">Presimetrics blog</a>.</p>
+<p>A friend sent me a link to <a href="http://online.wsj.com/article/SB20001424052748703514904575602943209741952.html">this Wall Street Journal opinion piece by W. Kurt Hauser</a>.  Who is he, you ask?  Here&#8217;s what it says at the bottom of the article:</p>
+<blockquote><p>Mr. Hauser is chairman emeritus of the Hoover Institution at Stanford University and chairman of Wentworth, Hauser &#038; Violich, a San Francisco investment management firm. He is the author of &#8220;Taxation and Economic Performance&#8221; (Hoover Press, 1996).</p></blockquote>
+<p>Before I go on, let me note that in this piece, Hauser masterfully demonstrates the Hoover Institution approach to data.  The piece contains enough, er, material that I could write several posts on it.  Maybe I will, but for now I want to focus on his key point.  Here are the opening paragraphs of the essay modestly entitled &#8220;There&#8217;s No Escaping Hauser&#8217;s Law&#8221;:<br /><a name="more"></a></p>
+<blockquote><p>Even amoebas learn by trial and error, but some economists and politicians do not. The Obama administration&#8217;s budget projections claim that raising taxes on the top 2% of taxpayers, those individuals earning more than $200,000 and couples earning $250,000 or more, will increase revenues to the U.S. Treasury. The empirical evidence suggests otherwise. None of the personal income tax or capital gains tax increases enacted in the post-World War II period has raised the projected tax revenues.</p>
+<p>Over the past six decades, tax revenues as a percentage of GDP have averaged just under 19% regardless of the top marginal personal income tax rate. The top marginal rate has been as high as 92% (1952-53) and as low as 28% (1988-90). This observation was first reported in an op-ed I wrote for this newspaper in March 1993. A wit later dubbed this &#8220;Hauser&#8217;s Law.&#8221;</p>
+<p>Over this period there have been more than 30 major changes in the tax code including personal income tax rates, corporate tax rates, capital gains taxes, dividend taxes, investment tax credits, depreciation schedules, Social Security taxes, and the number of tax brackets among others. Yet during this period, federal government tax collections as a share of GDP have moved within a narrow band of just under 19% of GDP.</p></blockquote>
+<p>OK.  So, Hauser&#8217;s point is clear &#8211; no matter what happens to taxes, the government only manages to collect about 19% of GDP.  Presumably then, from a perspective of paying down debt, there&#8217;s no benefit to raising taxes and plenty of benefit to cutting taxes.  (Later he goes on to argue that lower taxes = faster growth, which I&#8217;ve dispensed with in the past &#8211; latest example <a href="http://www.angrybearblog.com/2010/11/proposed-bet-for-professors-bryan.html">here</a>.  Still, if given time, I might come back and examine Hauser&#8217;s special way of reaching his conclusion.  But that&#8217;s for another day.)</p>
+<p>Now, they say a picture is worth a thousand words, so let me put up a graph.  And for grins, let me embed a small table in that graph.  The graph shows <a href="http://www.bea.gov/national/nipaweb/TableView.asp?SelectedTable=87&#038;ViewSeries=NO&#038;Java=no&#038;Request3Place=N&#038;3Place=N&#038;FromView=YES&#038;Freq=Year&#038;FirstYear=1929&#038;LastYear=2010&#038;3Place=N&#038;Update=Update&#038;Java">total federal receipts</a> divided by <a href="http://www.bea.gov/national/nipaweb/TableView.asp?SelectedTable=5&#038;ViewSeries=NO&#038;Java=no&#038;Request3Place=N&#038;3Place=N&#038;FromView=YES&#038;Freq=Year&#038;FirstYear=1929&#038;LastYear=2010&#038;3Place=N&#038;Update=Update&#038;JavaB">GDP</a>.  However, it is color coded.  In years when there is a cut in the <a href="http://www.irs.gov/pub/irs-soi/histab23.xls">top individual marginal tax rate</a>, or when the most recent change in the top marginal tax rate was a tax cut rather than a tax hike, the area under the curve is colored gray.  When there is a tax hike, or the most recent change was a tax hike, the same area is colored red. Here&#8217;s what it looks like:</p>
+<p><a href="http://4.bp.blogspot.com/_8UVGnCIfOVk/TPRBL9f2fsI/AAAAAAAAAdQ/oAy0Eg_r1dE/s1600/Hauser%2527s_Law_Figure_1.bmp"><img src="http://4.bp.blogspot.com/_8UVGnCIfOVk/TPRBL9f2fsI/AAAAAAAAAdQ/oAy0Eg_r1dE/s320/Hauser%2527s_Law_Figure_1.bmp" border="0" alt=""></a>Figure 1.</p>
+<p>So there it is.  There&#8217;s Hauser&#8217;s law.  Notice the size of his narrow band &#8211; its width is over 5% of GDP!  Now take a gander at the little table.  In tax hike periods, the smallest amount collected was 18.3% of GDP.  By contrast, the median collection in tax cut periods is 18.2%; in other words, in over half of the tax cut years, collections were less than the smallest amount ever brought in during the tax hike periods.  Furthermore, both the median and average for the two series are a full percent of GDP apart.  Hauser is essentially sweeping humongous differences under the table.  </p>
+<p>Think Hauser doesn&#8217;t know this?  I don&#8217;t. He&#8217;s been staring at the data, and using it to make arguments for a very long time.  He also writes extremely precisely.  At no point does he make a false statement, but I for one reached all sorts of mis-impressions just from his opening paragraphs.  Like I said, its a masterful example of the Hoover craft.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/hausers-law-is-extremely-misleading.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economic projections &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Is the government actually forecasting a narrowing of the U.S. current account deficit?</title>
+		<link>./../../2010/01/is-the-government-actually-forecasting-a-narrowing-of-the-u-s-current-account-deficit.html</link>
+		<comments>./../../2010/01/is-the-government-actually-forecasting-a-narrowing-of-the-u-s-current-account-deficit.html#comments</comments>
+		<pubDate>Mon, 04 Jan 2010 13:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[China]]></category>
+		<category><![CDATA[current account]]></category>
+		<category><![CDATA[economic projections]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/is-the-government-actually-forecasting-a-narrowing-of-the-u-s-current-account-deficit.html</guid>
+		<description><![CDATA[This is a follow up to an article I wrote earlier this week, Older workers working longer; labor-force participation falling. In response to the article, which highlights the BLS employment and labor-force participation projections for 2008-2018, 2slugbaits (a loyal AB commenter) presented the following point: The 2 industry sectors expected to have the largest employment [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This is a follow up to an article I wrote earlier this week, <a href="http://angrybear.blogspot.com/2009/12/older-workers-working-longer-labor.html">Older workers working longer; labor-force participation falling</a>. In response to the article, which highlights the BLS employment and labor-force participation projections for 2008-2018, 2slugbaits (a loyal AB commenter) presented the following point:<br />
+<blockquote>The 2 industry sectors expected to have the largest employment growth are professional and business services (4.2 million) and health care and social assistance (4.0 million).</p>
+<p>Put another way, employment growth will be in nontradeable goods sectors, which suggests we might have to sell a lot of assets in order to pay for imports.</p></blockquote>
+<p>Is the government actually forecasting that Japan an China will finance the U.S. trade deficit for the next ten years? I assumed (silly of me) that any government (BLS) projection would be based on such international pledges as the <a href="http://www.treas.gov/initiatives/us-china/">U.S.-China Strategic and Economic Dialogue</a>:<br />
+<blockquote>To this end, both countries [U.S. and China] will enhance communication and the exchange of information regarding macro-economic policy, and will work together to pursue policies of adjusting domestic demand and relative prices to lead to more sustainable and balanced trade and growth.</p>
+<p>&#8230;and more specifically&#8230;</p>
+<p>The United States will take measures to increase national saving as a share of GDP.  The U.S. household saving rate has already risen sharply as a result of the crisis, contributing to a significant decline in the U.S. current account deficit, and the United States will adopt policies that will continue to encourage household saving.</p></blockquote>
+<p>The U.S. commitment: grow national saving as a share of GDP and significantly reduce the current account deficit. According to the BLS long-term forecast, the U.S. will make good on just one the these two pledges.<a name="more"></a></p>
+<p>The table below extracts national saving and the current account from the BLS 2018 economic assumptions for the employment projections (<a href="http://www.bls.gov/emp/ep_table_403.htm">Table 4.3</a>).</p>
+<p><a href="http://2.bp.blogspot.com/_Et4TQ-a0gGU/S0HPzfrdNaI/AAAAAAAACvc/8plRHqFU5sA/s1600-h/CA_table.png"><img src="http://2.bp.blogspot.com/_Et4TQ-a0gGU/S0HPzfrdNaI/AAAAAAAACvc/8plRHqFU5sA/s400/CA_table.png" alt="" border="0"></a>Note: two identities are needed: (1) National Saving is Income minus Consumption minus Government Spending, and (2) the Current Account is National Saving minus Investment. The BLS projects GDP rather than GNP = GDP + net receipts from the rest of the world. In using GDP as the definition of &#8220;income&#8221;, net receipts from the rest of the world is zero, and the current account reduces to net-exports.</p>
+<p>To be sure, the BLS does forecast that U.S. national saving rate will rise 67.5%, from 9.3% of GDP in 2008 to 10.2% in 2018. But domestic investment rises by more, +72.1%. Therefore, the current account deficit grows by 81.3%.</p>
+<p>I&#8217;m not seeing any healthy reduction of the current account deficit by 2018. 2slugs is right: the BLS is essentially forecasting that China and Japan (among other perpetual savers) will finance a growing U.S. trade deficit. Oh man.</p>
+<p>Rebecca Wilder</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/is-the-government-actually-forecasting-a-narrowing-of-the-u-s-current-account-deficit.html/feed/index.html</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+		</item>
+		<item>
+		<title>Older workers working longer; labor-force participation falling</title>
+		<link>./../../2009/12/older-workers-working-longer-labor-force-participation-falling.html</link>
+		<comments>./../../2009/12/older-workers-working-longer-labor-force-participation-falling.html#comments</comments>
+		<pubDate>Wed, 30 Dec 2009 16:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic projections]]></category>
+		<category><![CDATA[labor markets]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/older-workers-working-longer-labor-force-participation-falling.html</guid>
+		<description><![CDATA[The BLS released its employment and labor force projections for the period 2008-2018. The report highlights a more diverse and slower growing labor force stemming from a falling labor-force participation rate. Some headline findings of the report are (bold font by yours truly): Total employment is projected to increase by 15.3 million, or 10.1 percent, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.bls.gov/news.release/ecopro.nr0.htm">BLS released</a> its employment and labor force projections for the period 2008-2018. The report highlights a more diverse and slower growing labor force stemming from a falling labor-force participation rate. Some headline findings <a href="http://www.bls.gov/news.release/ecopro.nr0.htm">of the report</a> are (bold font by yours truly):<br />
+<blockquote>Total employment is projected to increase by 15.3 million, or 10.1 percent, during the 2008-18 period, the U.S. Bureau of Labor Statistics reported today. The projections show an aging and more racially and ethnically diverse labor force, and employment growth in service-providing industries.</p>
+<p>&#8230;and&#8230;</p>
+<p>Projected employment growth is concentrated in the service-providing sector, continuing a long-term shift from the goods-producing sector of the economy. From 2008 to 2018, service-providing industries are projected to add 14.6 million jobs, or 96 percent of the increase in total employment. The 2 industry sectors expected to have the largest employment growth are professional and business services (4.2 million) and health care and social assistance (4.0 million).</p>
+<p>&#8230;and&#8230;</p>
+<p>The largest decline among the detailed industries is expected to be in department stores, with a loss of 159,000 jobs, followed by manufacturers of semiconductors (-146,000) and motor vehicle parts (-101,000).</p>
+<p>&#8230;and more&#8230;</p>
+<p>Occupations that usually require a postsecondary degree or award are expected to account for nearly half of all new jobs from 2008 to 2018 and one-third of total job openings. Among the education and training categories, the fastest growth will occur in occupations requiring an associate degree.</p></blockquote>
+<p>The last part is very interesting. According to <a href="http://www.bls.gov/news.release/ecopro.t09.htm">Table 9</a> of the employment projections, the growth rates of jobs requiring an associate degree or higher are generally in the double digits. In order to work in a top <a href="http://www.bls.gov/news.release/ecopro.t03.htm">10 wage and salary growth industries</a>, one must attain a higher degree.</p>
+<p>That little fact explains the projected trend in labor-force participation among those aged 16-24 years: down.</p>
+<p><a href="http://4.bp.blogspot.com/_Et4TQ-a0gGU/SzrJEmMpIsI/AAAAAAAACuU/03LTvTm9pIc/s1600-h/lfpr_age_chart.PNG"><img src="http://4.bp.blogspot.com/_Et4TQ-a0gGU/SzrJEmMpIsI/AAAAAAAACuU/03LTvTm9pIc/s400/lfpr_age_chart.PNG" alt="" border="0"></a><a name="more"></a>The chart illustrates the BLS&#8217; projection of the labor-force participation rate (LFPR) by age group (<a href="http://www.bls.gov/emp/ep_table_303.htm">Table 3.3</a>). The LFPR is the percentage of the population that is either working or seeking employment. There are two important points here.</p>
+<p>First, the 16-24 LFPR is expected to fall another 4-points to 54.5% by 2018. This furthers a downward trend that has been underway for some time.</p>
+<p>Second, the population is growing older, but that is not the full LFPR story: older workers are working longer. The LFPR for those aged 65 and older is expected to jump 33% to 22.4% by 2018. This trend has emerged more recently, where just one decade ago the LFPR went essentially unchanged from the ten years prior to that.</p>
+<p>In spite of their working longer, and with the downward trend in the 16-24 LFPR, the growing baby-boomer population (individuals born 1946-1964) is expected to drag the aggregate LFPR a point-and-a-half to 64.5% by 2018 (the aggregate LFPR is an average of all age groups).</p>
+<p><a href="http://1.bp.blogspot.com/_Et4TQ-a0gGU/SzrMy5FFvQI/AAAAAAAACuc/1hool-df9Ig/s1600-h/participation_chart.png"><img src="http://1.bp.blogspot.com/_Et4TQ-a0gGU/SzrMy5FFvQI/AAAAAAAACuc/1hool-df9Ig/s320/participation_chart.png" alt="" border="0"></a>It should be noted that this is a long-term projection. Therefore, the 2007-2009 recession affects primarily the rates of growth toward the long-run values rather than the levels of employment and the labor force per se. According to the forecast, <a href="http://www.bls.gov/emp/ep_table_411.htm">the unemployment rate is 5.1%</a> by 2018, and the average annual rate of <a href="http://www.bls.gov/emp/ep_table_402.htm">GDP growth is 2.4% </a>(<a href="http://www.bls.gov/emp/ep_table_411.htm">slower productivity growth</a> is expected to drag GDP growth).
+<div></div>
+<div><i>Note: I will not be available to reply to comments until Friday, January 1. My apologies.</i></p>
+<p>Rebecca Wilder</p></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/older-workers-working-longer-labor-force-participation-falling.html/feed/index.html</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

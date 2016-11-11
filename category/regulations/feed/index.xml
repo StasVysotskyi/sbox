@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>regulations &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Derivatives, water and financial risk</title>
+		<link>./../../2013/03/derivatives-water-and-financial-risk.html</link>
+		<comments>./../../2013/03/derivatives-water-and-financial-risk.html#respond</comments>
+		<pubDate>Wed, 06 Mar 2013 14:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[David Zetland. water economics]]></category>
+		<category><![CDATA[regulations]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/derivatives-water-and-financial-risk.html</guid>
+		<description><![CDATA[David Zetland comments on future funding of &#8216;water&#8217; risk management.  There are plenty of examples of misguided government interventions, as well as examples of private enterprise run amok.  Now a derivatives market? : The danger of flashing wrong signals Have you heard the stories of people who have driven through fields, into lakes or off [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.aguanomics.com/" target="_blank">David Zetland</a> comments on future funding of &#8216;water&#8217; risk management.  There are plenty of examples of misguided government interventions, as well as examples of private enterprise run amok.  Now a derivatives market? :</p>
+<p><a href="http://www.aguanomics.com/2013/02/the-danger-of-flashing-wrong-signals.html">The danger of flashing wrong signals</a></p>
+<blockquote><p>Have you heard the stories of people who have driven through fields, into lakes or off cliffs while following their GPS units? Any outsider would have told them to use their common sense before making a right turn over a cliff, but are WE so wise when it comes to our indicators?<br />Although the water sector really needs more and better information (that&#8217;s why I founded the <a href="http://waterdatahub.org/">water data hub</a>*), I worry about people putting the wrong weight on the wrong information &#8212; a worry that puts these recent stories into a different context:
+<ul>
+<li>The World Resources Institute released the <a href="http://aqueduct.wri.org/">Aqueduct 2.0</a> tool for water risk.</li>
+<li>IBM and Waterfund (a global water risk management firm) <a href="http://finance.yahoo.com/blogs/daily-ticker/could-water-next-big-asset-class-144114830.html">created a benchmark with which to assess risk</a> when it comes to investing in the water sector.</li>
+<li>Ceres has put out another report on the <a href="http://www.guardian.co.uk/sustainable-business/blog/us-water-paradox-demand-infrastructure">importance of water risk to companies</a>.</li>
+</ul>
+<p>Now, I&#8217;m not worried about the discussion of water risk. I think that it&#8217;s a topic of growing importance, as the end of abundance exposes business models, bureaucratic assumptions and personal habits formed in an era of too much, too cheap water to a new reality of scarce water that cannot be taken for granted.</p></blockquote>
+<p>From the IBM/Waterfund  link comes this excerpt:</p>
+<p><a name="more"></a></p>
+<blockquote><p>The principals involved sat down with the Daily Ticker to explain.</p>
+<p>“At one end of the spectrum you have housing, the most over-financialized sector of our economy,” Scott Rickards, President and CEO of Waterfund. “At the other end, you have water &#8211; there’s not a single financial product. Investors, Wall Street have pretty much ignored water. What we’re doing is using derivatives and insurance products to link to the index and enable risk management to actually take place for the first time in the water industry.”</p>
+<p>“There’s plenty of capital that’s beginning to take an interest in investing in water,” notes Peter Williams, IBM Distinguished Engineer and Big Green Innovations CTO. “What we think the index will do is make it easier to invest in water by establishing a risk benchmark against which people can then lend. And the idea then is to encourage capital inflows into the water sector.”</p>
+<p>This means for governments, municipalities, and water agencies looking for ways to finance the estimated <a href="http://finance.yahoo.com/blogs/daily-ticker/three-disturbing-economic-trends-2013-153106539.html">$1 trillion</a> in investment needed in water infrastructure in the U.S. alone, they could more easily raise this money and keep the liquidity (i.e. water) flowing to citizens.</p>
+<p>On the note of risk, the misadventures of mortgage-backed securities during the housing crisis (not to <a href="http://finance.yahoo.com/news/next-global-crash-why-fear-143000901.html">mention commodity bubbles</a>) may raise eyebrows when it comes to the idea of speculation over an element so essential to life.</p>
+<p>Rickards argues, “It’s taken 25 years for housing to go from non-financialized to where we are today after everything that occurred four years ago.” When it comes to water, “if it ever gets there where speculation is a problem, that will not be a bad thing because we will have come a long way in the meantime.”</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/derivatives-water-and-financial-risk.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

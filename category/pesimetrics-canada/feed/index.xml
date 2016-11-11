@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pesimetrics Canada &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tyler Cowen and &#8216;something amiss&#8217;</title>
+		<link>./../../2011/03/tyler-cowen-and-something-amiss.html</link>
+		<comments>./../../2011/03/tyler-cowen-and-something-amiss.html#respond</comments>
+		<pubDate>Mon, 07 Mar 2011 13:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Pesimetrics Canada]]></category>
+		<category><![CDATA[tax code]]></category>
+		<category><![CDATA[tax cuts]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/tyler-cowen-and-something-amiss.html</guid>
+		<description><![CDATA[by Mike Kimel Cross posted at the Presimetrics blog I really don&#8217;t understand this post by Tyler Cowen. He begins by noting: The median earnings of full-time Canadian workers increased by just $53 annually &#8212; that&#8217;s right, $53 annually &#8212; between 1980 and 2005. He then links to two documents, one of which says this: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p>Cross posted at the <a href="http://www.presimetrics.com/blog/?p=382">Presimetrics blog</a></p>
+<p>I really don&#8217;t understand <a href="http://www.marginalrevolution.com/marginalrevolution/2011/03/canadian-data-on-income-stagnation.html#comments">this post by Tyler Cowen</a>.  He begins by noting:<br />
+<blockquote>The median earnings of full-time Canadian workers increased by just $53 annually &#8212; that&#8217;s right, $53 annually &#8212; between 1980 and 2005.</p></blockquote>
+<p>He then links to two documents, one of which says <a href="http://spon.ca/canada-discovers-trickle-up-economics/2010/12/28/">this</a>:<br />
+<blockquote>A more likely explanation is that the rich have used their clout to get governments in the United States, Britain and Canada to change the rules, redirecting economic benefits to themselves.<br /><a name="more"></a></p>
+<p>They convinced governments, for instance, to alter the rules governing executive stock options, making them much more lucrative. (Although only about one-third of Canada’s top corporations were using stock options early in the 1990s, they were all were using them by the end of the decade. The value of stock options for Canadian CEOs exceeded their salaries by 300 per cent.)<br /><!-- more --></p>
+<p>The rich also managed to use their control of corporate boards to push up executive compensation. Since corporate boards are largely made up of corporate executives, a decision to raise the salary of an individual CEO helps set a higher standard for executive pay generally, benefitting all board members.</p>
+<p>“They have a conflict of interest, since they have a stake in high financial salaries,” notes Richard Posner, a critic of today’s executive compensation (and also, incidentally, the judge who recently turned down Conrad Black’s U.S. legal appeal).</p>
+<p>The rich also greatly enriched themselves by convincing governments to lower their taxes. Whereas the top marginal tax rate — the rate paid on income above a certain level — averaged 80 per cent in Canada in the early postwar years; it is now just 46 per cent (39 per cent in Alberta).</p>
+<p>It was argued that lower taxes would encourage better performances at the top, increasing overall economic growth.</p>
+<p>But that didn’t happen. On the contrary, economic growth rates were higher in the early postwar years — roughly twice as high — as they’ve been since 1980.</p>
+<p>This suggests that higher taxes on the rich — like those in the early postwar era — do not discourage economic growth.</p>
+<p>In fact, the introduction of an inheritance tax in Canada (like ones that exist in almost all advanced nations) would enable Ottawa to collect enough revenue to create educational trust funds for all Canadian children, thereby significantly improving national productivity.</p>
+<p>Yet anyone advocating higher taxes on the rich is quickly denounced by groups like the right-wing Fraser Institute. Mark Milke, a commentator with the institute, dismisses concerns about rising inequality in Canada as merely the product of envy, or what he calls the “green-eyed beast.”</p></blockquote>
+<p>The very next sentence Cowen writes:</p>
+<blockquote><p> This is one reason why I do not adhere to some of the progressive or &#8220;class struggle&#8221; explanations of relative stagnation in median income growth.  Canada is not ruled by the so-called Republican Right.</p></blockquote>
+<p>I don&#8217;t know enough about Canada to say whether or not the article he linked to is correct, but it seems to be directly contradicting his thesis.  </p>
+<p>I note that his blog has a very, very healthy comment section, and it doesn&#8217;t seem like the folks leaving comments noticed anything amiss either.   Very odd.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/tyler-cowen-and-something-amiss.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

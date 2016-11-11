@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>reporting &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Polls and reporting</title>
+		<link>./../../2012/08/polls-and-reporting.html</link>
+		<comments>./../../2012/08/polls-and-reporting.html#respond</comments>
+		<pubDate>Wed, 22 Aug 2012 01:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 elections]]></category>
+		<category><![CDATA[polling]]></category>
+		<category><![CDATA[reporting]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/polls-and-reporting.html</guid>
+		<description><![CDATA[Lifted from Robert&#8217;s thoughts: by Robert Waldmann Polls and reporting It is clear that, whenever respected non-partisan media adopt rigid rules, Republicans abuse those rules. The Swift Boat Veterans for Truth are a very clear example. Since news organizations often present both sides of a debate without fact checking in each article, it is possible [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lifted from Robert&#8217;s thoughts:</p>
+<p>by <strong>Robert Waldmann</strong></p>
+<p><strong>Polls and reporting</strong></p>
+<p>It is clear that, whenever respected non-partisan media adopt rigid rules, Republicans abuse those rules. The Swift Boat Veterans for Truth are a very clear example. Since news organizations often present both sides of a debate without fact checking in each article, it is possible for a mass of lies to balance all available documentary evidence. Something similar is happening this year. New polling organizations are appearing and making Rasmussen look like less of an outlier. </p>
+<p>A new mechanical approach to covering polls is to present an average of recent polls or a time weighted average of polls or to do what Nate Silver does which he explains very clearly (and which works). It is universally believed by politicians and their campaign staff that a poll which would be good news for a candidate if accurate is helpful to the candidate. This means that an effort to game the new poll averaging system will be based on polls which show higher support than in the population for the candidate the pollster wants to support. </p>
+<p>It is obvious that unscrupulous operators are doing this. I have long believed that Rasmussen doesn&#8217;t do a terrible job just because they value quantity not quality. The basic problem (says Silver) is that they poll all in one day. This means that they don&#8217;t call back day after day if no one answers the phone, which means that they oversample people who are home a lot. <br /><a name="more"></a><br />There is no doubt that Scott Rasmussen is a very partisan Republican. Rasmussen carefully removes noise without removing bias. They weight by self reported party affiliation. This keeps the numbers from their sloppy swift polls from bouncing around. But they weight using the average party affiliation from Rasmussen polls in the preceding month. This doesn&#8217;t remove any oversampling of Republicans which is undoubtedly there. They could weight using the proportions from polls by reputable pollsters. They chose not to. This is a deliberate effort to bias the results. <a href="http://fivethirtyeight.blogs.nytimes.com/2010/11/06/when-house-effects-become-bias/">they had an estimated bias of 3.8% in 2010.</a> </p>
+<p>The cost to Rasmussen of their <a href="http://fivethirtyeight.blogs.nytimes.com/2010/11/04/rasmussen-polls-were-biased-and-inaccurate-quinnipiac-surveyusa-performed-strongly/?gwh=FD4EE18353C318685A9CC18AC51DD007">demonstrated bias</a> has been less than zero. Liberals ignore them, but Fox News loves them. (In passing, Silver stresses that he is using &#8220;bias&#8221; as a statistical term and not arguing that the Rasmussen bias is due to partisanship. In contrast, I assert that it is. This is not just because the estimated statistical bias fits Scott Rasmussen&#8217;s ideology and party affiliation. It is for the reason given above. There is no legitimate reason to use only old Rasmussen polls to get the proportions of Democrats, Republicans and independents to weight new Rasmussen polls.</p>
+<p>I am absolutely sure that Rasmussen does this to generate results pleasing to Scott Rasmussen. I think that the success of this deliberate fraud has earned him emulators. A problem for fraudsters like Scott Rasmussen is that they stand out making their bias obvious. This problem can be solved at modest cost by setting up say 3 other Republican biased pollsters. Poll aggregators are unwilling to exclude pollsters based on their subjective judgment. That means they can be lead wherever the unscrupulous want to lead them. Nate Silver <a href="http://fivethirtyeight.blogs.nytimes.com/2012/08/20/aug-20-when-the-polling-gets-weird/">explains this too</a></p>
+<blockquote><p>But once in a great while, a poll comes along with methodology that is so implausible that it deserves some further comment. The Foster McCollum White Baydoun poll of Florida is one such survey.</p></blockquote>
+<p>[skip]  <br />
+<blockquote>For instance, we have our house effects adjustment, which corrects for most of these tendencies. Based on this poll, and a prior survey the firm conducted in Michigan, we calculate the firm’s house effect as leaning Republican by roughly 11 percentage points relative to the overall consensus. We do not subtract out the entire 11-point house effect from the polling firm’s results — the model allows polling firms to retain some of their house effect — but the model does adjust the poll substantially, treating it as about a 7-point lead for Mr. Romney rather than a 15-point one. That’s still a very good number for Mr. Romney — enough to make him a slight favorite in our forecast for the state — but at least a little bit more reasonable relative to common sense. Is there argument for just throwing the poll out? In this case, perhaps. But as I said, I’d rather design a system where we have to make fewer of those judgment calls and err on the side of inclusivity. Our threshold for calling out a poll’s technique as being dubious, as we have here, is pretty high — but our threshold for actually throwing a poll out is higher.</p></blockquote>
+<p>Silver is by far the most sophisticated aggregator published by mass media. He notes that outrageous nonsense which is pro-Romney by 11 points compared to the average of other pollsters only counts as if it were pro-Romney by 7 points. I think the 11 point estimated house effect is a new record. I don&#8217;t like to make predictions, but I am willing to predict that it will be surpassed. The other plainly biased pollsters are <a href="http://www.dailykos.com/story/2012/06/26/1103275/--We-Ask-America-pollster-is-a-joke">&#8220;We Ask America&#8221;</a> (<a href="http://en.wikipedia.org/wiki/Illinois_Manufacturers'_Association">which belongs to a business lobby</a>) and &#8220;Purple Strategies&#8221; whose CEO is the notorious <a href="http://en.wikipedia.org/wiki/Alex_Castellanos">Alex &#8220;hands&#8221; Castellanos</a> one of the vilest partisan operatives in the business.</p>
+<p>Lifted from <a href="http://rjwaldmann.blogspot.com/2012/08/swift-polling.html">Robert&#8217;s Stochastic thoughts</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/polls-and-reporting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tim Duy on employment/population ratio</title>
+		<link>./../../2011/12/tim-duy-on-employmentpopulation-ratio.html</link>
+		<comments>./../../2011/12/tim-duy-on-employmentpopulation-ratio.html#respond</comments>
+		<pubDate>Thu, 08 Dec 2011 14:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[employment/population ratio]]></category>
+		<category><![CDATA[reporting]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/12/tim-duy-on-employmentpopulation-ratio.html</guid>
+		<description><![CDATA[Via Mark Thoma Tim Duy looks at reporting that misses the point even though information can be teased out of the piece. The article can be found here. I think the article would have felt better if it began not with the impression that baby boomers are the driving force behind recent declines in the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://economistsview.typepad.com/economistsview/2011/12/demographic-shift.html">Via Mark Thoma</a> Tim Duy looks at reporting that misses the point even though information can be teased out of the piece.  The article can be found <a target="_blank" href="http://www.bloomberg.com/news/2011-12-06/drop-in-u-s-unemployment-rate-early-sign-of-coming-labor-shift-economy.html">here</a>.<br />
+<blockquote>
+<p>I think the article would have felt better if it began not with the impression that baby boomers are the driving force behind recent declines in the participation rate, but could be more of an influence in over time. This, I sense, is what Maki really wants to say:</p>
+<blockquote><p>The effect of the baby-boomer exit from the labor force will become more evident in the coming decade, Maki said. The policy implications may be more pressing, as Fed officials keep interest rates near record low levels for longer than may be required given the likely drop in the jobless rate. That may fuel price pressures in the economy, he said.</p>
+</blockquote>
+<p>Then again, maybe not:</p>
+<p> <a name="more"></a><br />
+<blockquote>
+<p>“It means there is less slack in the economy than is commonly perceived, and the slack will diminish more quickly than people think,” Maki said. As a result, “there are more inflationary risks with the very accommodative monetary policy we have now than one might believe.”</p>
+</blockquote>
+<p>I think the near-term reality is a little less dire. And the article eventually gets there:</p>
+<blockquote><p>To be sure, the outlook for jobs may brighten as the economic expansion develops, drawing more people back into the workforce and limiting declines in unemployment. In addition, some economists argue that retiring baby boomers may not be the best explanation for the decrease already in train in the participation rate.</p>
+<p>“Demographic trends are pushing down, over time, the normal labor force participation rate,” said Michael Feroli, chief U.S. economist at JPMorgan Chase &#038; Co. in New York. Nonetheless, he said, “the speed of the decline seen this year is in excess of what one would expect just given the demographic trend.”</p>
+</blockquote>
+<p>A much more measured analysis, one I think consistent with the data. <strong>Too bad it wasn&#8217;t the central point of the story. </strong>Yes, demographic shifts are likely to put downward pressure on labor force participation rates. But the tendency for those 65 and older to work longer than expected pushes in the other direction. Moreover, an improving economy would also increase labor force participation, especially among younger workers. Simply put, the aging of the baby boomers is just one of many factors currently influencing labor force participation rates and, by extension, the amount of slack in the labor markets. (bolding is mine)</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/12/tim-duy-on-employmentpopulation-ratio.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>hundreds of billions = 0 ?</title>
+		<link>./../../2010/06/hundreds-of-billions-0.html</link>
+		<comments>./../../2010/06/hundreds-of-billions-0.html#respond</comments>
+		<pubDate>Thu, 01 Jul 2010 03:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[models]]></category>
+		<category><![CDATA[reporting]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/hundreds-of-billions-0.html</guid>
+		<description><![CDATA[Robert Waldmann The www.washington.com Headline and abstract person has outdone himself or herself writing CBO sees debt estimates soar Analysts say health law has not improved budget and Obama&#8217;s tax agenda will make things worse. Lori Montgomery As Kevin Drum says always click the link. Lori Montgomery actually wrote President Obama&#8217;s overhaul of the health-care [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>The www.washington.com Headline and abstract person has outdone himself or herself writing </p>
+<blockquote><p>CBO sees debt estimates soar</p>
+<p>Analysts say <strong>health law has not improved budget </strong>and Obama&#8217;s tax agenda will make things worse.</p>
+<p>Lori Montgomery</p></blockquote>
+<p>As Kevin Drum says always click the link. <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/06/30/AR2010063003396.html?hpid=topnews">Lori Montgomery actually wrote</a></p>
+<p>
+<blockquote>President Obama&#8217;s overhaul of the health-care system <strong>has done little to improve </strong>the nation&#8217;s budget outlook, congressional budget analysts said Wednesday. </p></blockquote>
+<p>So &#8220;little&#8221; has become none.  The abstract contradicts the actual story.</p>
+<p>Finally well down in the story we get to what Doug Elmendorf said</p>
+<blockquote><p>The health-care overhaul made &#8220;steps in the direction of a sustainable fiscal policy. But they are small steps relative to the journey that will be needed for fiscal sustainability,&#8221; CBO director Douglas Elmendorf said Wednesday in testimony before Obama&#8217;s bipartisan commission on the deficit.</p></blockquote>
+<p>small &#8220;relative to the journey that will be needed for fiscal sustainability&#8221; is not small.  We do not normally measure sums of money &#8220;relative to the journey that will be needed for fiscal sustainability&#8221;.  Another way of putting that would be &#8220;unimagninable huge immense and gigantic but nowhere near as colossal as the long term budget shortfall&#8221;.</p>
+<p>So in the hands of the Washington Post small &#8220;relative to the journey that will be needed for fiscal sustainability&#8221;  becomes &#8220;small&#8221; and then none.  Too the Post hundreds of billions of dollars are zero.</p>
+<p>Clearly that organization is not qualified to report the news.  Even the simplest most cut and dried gigantic numbers are too subtle for them.</p>
+<p>This is the end of my short punchy post.  A general rant follows after the jump.</p>
+<p><a name="more"></a></p>
+<p>Beyond this, the CBO report isn&#8217;t news.  All we learn is that the CBO headline number must be based on what Congress claims it will do, so it is based on the the assumption of no more alternative minimum tax fixes and no more doc fixed and, especially, all Bush tax cuts expire.</p>
+<p>Pretending it is news is hyping a fact.  It fits the panic about the deficit agenda.  This is part of the agenda of the Washington Post opinion pages.  It is not good that the news staff is hyping non news about how the long run deficit picture is grim.</p>
+<p>Also Montgomery&#8217;s next sentence miss-allocates blame </p>
+<blockquote><p>They also said the president&#8217;s tax agenda &#8212; including a pledge to extend an array of tax cuts for the middle class &#8212; would only make things worse. </p></blockquote>
+<p>This is only true if one interprets &#8220;the president&#8221; to be George W Bush.  Obama is reversing some but not all of the Bush tax cuts.  The silly trick of saying they would sunset makes the change in law a tax cut, but the change in policy is a tax increase.  Montgomery is blaming Obama for not undoing all of the damage that Bush did.  </p>
+<p>This is the general slant.  Obama is blamed for the long run budgetary shortfall, because the huge gigantic improvements that he has achieved plus the huge gigantic and popular improvements which he has proposed are not huge and gigantic enough to undo the damage the Republicans did when they were in control.</p>
+<p>He&#8217;s been Posted.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/hundreds-of-billions-0.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

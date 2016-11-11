@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>financial balances &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Drop the corporate saving rate, please&#8230;</title>
+		<link>./../../2010/12/drop-the-corporate-saving-rate-please.html</link>
+		<comments>./../../2010/12/drop-the-corporate-saving-rate-please.html#respond</comments>
+		<pubDate>Thu, 23 Dec 2010 21:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[corporate saving]]></category>
+		<category><![CDATA[financial balances]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+		<category><![CDATA[savings]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/drop-the-corporate-saving-rate-please.html</guid>
+		<description><![CDATA[Update: The term corporate savings below refers to excess saving, gross saving over gross domestic investment, as a percentage of GDP. This is the defined 3-sector financial balance model (referred to below). The Federal Reserve Flow of Funds showed a third quarter shift in the financial sector balances: the corporate saving rate declined 0,25% to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Update: The term corporate savings below refers to excess saving, gross saving over gross domestic investment, as a percentage of GDP. This is the defined 3-sector financial balance model (referred to below).</p>
+<p>The <a href="http://federalreserve.gov/releases/z1/Current/">Federal Reserve Flow of Funds</a> showed a third quarter shift in the financial sector balances: the corporate saving rate declined 0,25% to 2,7% of GDP; the household saving rate fell 0,13% to 3,8% of GDP; the current account fell 0,11% to 3,5% of GDP; and the government increased its saving rate 0,27% to -10,0% of GDP.</p>
+<p>Basically, the government was able to increase saving slightly, even as foreigners increased surpluses against the US, at the cost of reduced household and firm saving.</p>
+<p><a href="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TRO8AiXywiI/AAAAAAAADZ8/vPxUOBinhfY/s1600/3-sector_chart.jpg"><img alt="" src="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TRO8AiXywiI/AAAAAAAADZ8/vPxUOBinhfY/s400/3-sector_chart.jpg" border="0"></a><br />The chart above illustrates the 3-sector financial balances approach, which is the identity that the private sector and public sector saving rates must equal that of the foreign sector (the current account). The private sector is broken into the household and corproate sectors. For a discussion of the 3-sector financial balances, see <a href="http://wallstreetpit.com/8568-the-sector-financial-balances-model-of-aggregate-demand">Scott Fullwiler</a>, <a href="http://www.nakedcapitalism.com/2010/03/parenteau-on-fiscal-correctness-and-animal-sacrifices-leading-the-piigs-to-slaughter-part-1.html">Rob Parenteau</a>; and <a href="http://www.angrybearblog.com/2010/10/whos-saving-what-application-of-3.html">I&#8217;ve written</a> on this as well.</p>
+<p><em>(Note: I am in Deutschland, where the keyboard and number system are slightly different from that in the US &#8211; so for this post, I can write ß whenever I want to, but I won&#8217;t, and all numbers with &#8220;,&#8221; represent an American decimal point, &#8220;.&#8221;. Funny thing is, when I use the Blogger spellcheck here, everything is highlighted yellow, so I plead &#8220;in Deutschland&#8221; for any misspellings :))</em></p>
+<p>Some people may see the large government deficit, still -10% of GDP, as the &#8216;problem child&#8217; of the sectoral financial balances. Me, I see the government deficit as a red herring of the corporate saving rate, which remains stickily in the 2-3% range. Until the corporate saving rate falls markedly, let&#8217;s say to zero or below, the unemployment rate is to remain high, and the household deleveraging process slower than would otherwise be if wages and disposable incomes were growing more quickly.<a name="more"></a></p>
+<p><a href="http://3.bp.blogspot.com/_Et4TQ-a0gGU/TROFsDQxiXI/AAAAAAAADZ0/I8z52S4JOXc/s1600/corp_urate_linechart.jpg"><img alt="" src="http://3.bp.blogspot.com/_Et4TQ-a0gGU/TROFsDQxiXI/AAAAAAAADZ0/I8z52S4JOXc/s400/corp_urate_linechart.jpg" border="0"></a><br />The chart illustrates the corporate saving rate and the unemployment rate, both have an 84% correlation. Therefore, adjusting for the standard deviations, corporate saving and the unemployment rate move roughly in sync. When the corporate saving rate is negative, firms purchase new capital goods and hire labor for production faster than they accumulate financial assets, thereby reducing the unemployment rate. In contrast, when the saving rate is positive, firms are investing in financial assets (or consuming capital at a higher rate) faster than they are increasing the capital stock and labor force, thereby increasing or leveling the unemployment rate.</p>
+<p>In a very simple linear regression model (chart below), the relationship betwen the corporate saving rate and the unemployment rate exhibits an R2 of 70%. Accordingly, reducing the corporate saving rate to zero corresponds with a near-3ppt drop in the unemployment rate to 7%, all else equal, of course.</p>
+<p><a href="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TROFoO9Yc8I/AAAAAAAADZs/ChgqtfXugGA/s1600/corp_urate_chart.jpg"><img alt="" src="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TROFoO9Yc8I/AAAAAAAADZs/ChgqtfXugGA/s400/corp_urate_chart.jpg" border="0"></a><br />So one way to quicken the household deleveraging process is to reduce the corporate saving rate. Reducing the corporate saving rate corresponds to a falling unemployment rate, so that workers accrue SOME pricing power (they have none at this point).</p>
+<p>Another way is to increase the fiscal deficit, <a href="http://www.thefiscaltimes.com/Issues/The-Economy/2010/12/21/A-Smarter-Bailout-Could-Have-Shortened-the-Recession.aspx">to Mark Thoma&#8217;s point in The Fiscal Times this week</a>. The correlation between the government financial deficit and the unemployment rate is -92%.</p>
+<p>This is where the two come together: fiscal policy needs to provide incentives to lower the corporate saving rate.</p>
+<p><em><strong>Rebecca Wilder</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/drop-the-corporate-saving-rate-please.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

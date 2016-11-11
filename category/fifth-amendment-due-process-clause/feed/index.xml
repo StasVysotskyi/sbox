@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fifth Amendment due process clause &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Thank you, Judge Posner</title>
+		<link>./../../2012/06/thank-you-judge-posner.html</link>
+		<comments>./../../2012/06/thank-you-judge-posner.html#respond</comments>
+		<pubDate>Thu, 28 Jun 2012 23:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ACA litigation]]></category>
+		<category><![CDATA[Commerce Clause]]></category>
+		<category><![CDATA[Fifth Amendment due process clause]]></category>
+		<category><![CDATA[Obamacare]]></category>
+		<category><![CDATA[Richard A. Posner]]></category>
+		<category><![CDATA[Slate]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/thank-you-judge-posner.html</guid>
+		<description><![CDATA[The chief justice, echoing Justice Scalia&#8217;s &#8220;broccoli&#8221; comment at the oral argument, rejected (as did the four dissenters, and so that is now the view of a majority of the justices) the Commerce Clause ground for the mandate, saying that to accept that ground would mean that &#8220;Congress could address the diet problem by ordering [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>The chief justice, echoing Justice Scalia&#8217;s &#8220;broccoli&#8221; comment at the oral argument, rejected (as did the four dissenters, and so that is now the view of a majority of the justices) the Commerce Clause ground for the mandate, saying that to accept that ground would mean that &#8220;Congress could address the diet problem by ordering everyone to buy vegetables.&#8221; This argument, reassuring though it is to our obese population, confuses separate constitutional provisions. The Commerce Clause would empower Congress to order everyone to buy vegetables, because the market for most vegetables is interstate, but the &#8220;liberty&#8221; protected against the federal government by the Fifth Amendment would doubtless be interpreted to forbid such an imposition, just as it would be interpreted to forbid a federal law requiring everyone to be in bed with the lights out by 10 p.m. in order to economize on the use of electricity and, by doing so, reduce carbon emissions from electrical generating plants.
+</p>
+</div>
+<div></div>
+<div>&#8212; Judge <a href="http://en.wikipedia.org/wiki/Richard_Posner">Richard A. Posner</a>, on Slate, <a href="http://www.slate.com/articles/news_and_politics/the_breakfast_table/features/2012/_supreme_court_year_in_review/affordable_care_act_upheld_why_the_commerce_clause_should_have_been_enough_.html#comments">5:38 p.m. today</a>
+</p>
+</div>
+<div></div>
+<div>Amen. 
+</p>
+</div>
+<div></div>
+<div>Justices Ginsburg, Breyer, Sotomayor and Kagan also made that point, in their concurrence today.
+</p>
+</div>
+<div></div>
+<p>I’m thrilled to be in such exalted company.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/thank-you-judge-posner.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

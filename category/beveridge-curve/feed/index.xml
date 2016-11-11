@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beveridge curve &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Unemployment and job vacancies</title>
+		<link>./../../2013/03/unemployment-and-job-vacancies.html</link>
+		<comments>./../../2013/03/unemployment-and-job-vacancies.html#respond</comments>
+		<pubDate>Sat, 09 Mar 2013 15:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[beveridge curve]]></category>
+		<category><![CDATA[Catherine Rampell]]></category>
+		<category><![CDATA[Economix]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/unemployment-and-job-vacancies.html</guid>
+		<description><![CDATA[Catherine Rampell writes a good analysis with caveats on why we seem to have .  Best to read the original as I could not figure out a way to nuance a summary.  Lots of comments to fill out the why I believe : In an article on Thursday’s front page, I wrote about how long [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://economix.blogs.nytimes.com/2013/03/07/an-odd-shift-in-an-unemployment-curve/">Catherine Rampell</a> writes a good analysis with caveats on why we seem to have .  Best to read the original as I could not figure out a way to nuance a summary.  Lots of comments to fill out the why I believe :</p>
+<blockquote><p>In an <a href="http://www.nytimes.com/2013/03/07/business/economy/despite-job-vacancies-employers-shy-away-from-hiring.html">article</a> on Thursday’s front page, I wrote about how long job vacancies are taking to fill, especially when you consider the abundance of unemployed workers.Economists have been thinking about this issue for a couple of years now thanks to a shift in what is known as the Beveridge Curve<br />&#8230;.<br />,,,shows the relationship between the unemployment rate and the job vacancy rate.Since late 2009, the curve has shifted outward. That means that even if the job market is not exactly booming, there are more vacancies out there than the unemployment rate alone would have predicted a few years ago.</p></blockquote>
+<p><a href="http://2.bp.blogspot.com/-VWok764ez6M/UTtNIFywxPI/AAAAAAAABjw/Nl6LXyrrdFw/s1600/beveridge-blog480.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/-VWok764ez6M/UTtNIFywxPI/AAAAAAAABjw/Nl6LXyrrdFw/s320/beveridge-blog480.jpg"></a></p>
+<p>This is probably true for some highly coveted occupations that require specialized skills, like nursing or engineering, that have a mismatch in skill sets between workers left out of other industries. In addition, there are now a lot of long-term unemployed workers whose skills may have deteriorated&#8230;(but if there were a shortage of qualified workers across a lot of industries, you would be seeing employers bid up wages for the few candidates who <em>were</em> desirable). That does not appear to be happening.)</p>
+<p>Another explanation those who are calling themselves unemployed today would have been counted as unemployed sooner in the past as longer unemployment benefits impact stats (such as with a faster declining labor participation rate). Employers have vacancies but are afraid to fill them?&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/unemployment-and-job-vacancies.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Beveridge Curve Vs Matching Function II</title>
+		<link>./../../2010/08/beveridge-curve-vs-matching-function-ii.html</link>
+		<comments>./../../2010/08/beveridge-curve-vs-matching-function-ii.html#respond</comments>
+		<pubDate>Mon, 09 Aug 2010 11:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[beveridge curve]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/beveridge-curve-vs-matching-function-ii.html</guid>
+		<description><![CDATA[Robert Waldmann David Altig has convinced the Wall Street Journal that hiring in the USA is low given the vacancy rate. The basic fact is &#8220;Since the economy bottomed out in mid-2009, the number of job openings has risen more than twice as fast as actual hires,&#8221; I remain totally unconvinced. I&#8217;m not convinced by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>David Altig has convinced the Wall Street Journal that hiring in the USA is low given the vacancy rate.   The basic fact is &#8220;Since the economy bottomed out in mid-2009, the number of job openings has risen more than twice as fast as actual hires,&#8221;</p>
+<p>I remain totally unconvinced.</p>
+<p><a name="more"></a></p>
+<p>I&#8217;m not convinced by the basic claim of fact.   Basically I am certainly not convinced that there is anything unusual going on.   My sense is that this always happens early in an expansion *and* that there is always alarm about a shift in the Beveridge curve, and many rude things are said about the unemployed.</p>
+<p>The WSJ reported the ratio of *the rate of change* of the vacancy rate to *the rate of change* in the hiring rate.  Under standard assumptions (and I do mean absolutely standard in the literature), if nothing odd were going on (and I do mean nothing at all) one would expect the rate of change of hiring to be half of the rate of change of vacancies.    Yes, the number given by the WSJ is exactly the number given by standard theoretical models *based on the assumption that there has been no shift in the hiring function*.  The standard assumption is that hiring is proportional to the product of the square roots of the unemployment rate and the vacancy rate.  That means, other things equal (which they sure aren&#8217;t) that log hiring would be a constant plus half of the log of the vacancy rate, so the rate of change of hiring would be half of the rate of change of the vacancy rate.</p>
+<p>OK it is true that empirical estimates are different from standard assumptions and that, based on empirical estimates and holding other things equal, one would expect the rate of change of the rate of hiring to be 0.7 times the change rate of change of the vacancy rate.  Also unemployment has increased.</p>
+<p>However, the WSJ is picking the point to which to compare.  One might also look at the rate of hiring the last time the vacancy rate was at the current level.    This might make some sense if one has doubts about the functional form of hiring as a function of vacancies and unemployment.  I&#8217;m sure that point was chosen to make the current hiring rate seem normal (I didn&#8217;t choose it).  I did perform the calculation.  There is no anomaly.  Hiring is 1.00 something times what one would expect given hiring the last time the vacancy rate was at the current level (hiring as gone up proportional to the unemployment rate ^0.3).  </p>
+<p><a href="http://tinyurl.com/2whlysl">See this post by Andy Harless</a> (my calculation is in a comment)  </p>
+<p>I assert that there is no evidence there.   The argument is based on the accidental theory that hiring is proportional to vacancies.  It absolutely isn&#8217;t.  Decades of data prove that it isn&#8217;t. There is nothing odd about the latest data which prove for the thousandth time that it isn&#8217;t.</p>
+<p><a href="http://reddit.com/submit"> <img src="http://reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/beveridge-curve-vs-matching-function-ii.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

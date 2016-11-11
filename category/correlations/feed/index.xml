@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>correlations &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Prices and Quantity for Whale Oil and Whale Bone</title>
+		<link>./../../2011/02/prices-and-quantity-for-whale-oil-and-whale-bone.html</link>
+		<comments>./../../2011/02/prices-and-quantity-for-whale-oil-and-whale-bone.html#respond</comments>
+		<pubDate>Wed, 02 Feb 2011 11:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[commodities]]></category>
+		<category><![CDATA[correlations]]></category>
+		<category><![CDATA[whale oil]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/prices-and-quantity-for-whale-oil-and-whale-bone.html</guid>
+		<description><![CDATA[by Mike Kimel Prices and Quantity for Whale Oil and Whale BoneCross posted at the Presimetrics blog. The following graph shows the price and quantity of Sperm whale oil (which is actually more of a wax). Figure 1 The positive correlation is a bit of a problem, and the fact that Quantity seems to lead [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>Prices and Quantity for Whale Oil and Whale Bone</strong><br />Cross posted at the <a href="http://www.presimetrics.com/blog/?p=317">Presimetrics blog</a>.</p>
+<p>The following graph shows the price and quantity of Sperm whale oil (which is actually more of a wax).</p>
+<p><a href="http://3.bp.blogspot.com/_8UVGnCIfOVk/TUdTVLX1kaI/AAAAAAAAAho/tHUcq8MRqig/s1600/whale1.bmp"><img src="http://3.bp.blogspot.com/_8UVGnCIfOVk/TUdTVLX1kaI/AAAAAAAAAho/tHUcq8MRqig/s400/whale1.bmp" border="0" alt=""></a>Figure 1</p>
+<p>The positive correlation is a bit of a problem, and the fact that Quantity seems to lead Price by about ten years is a bit more of a problem.</p>
+<p>Now, that could be just an interesting artifact, except for this graph, which shows the price and quantity of whale oil (and this time I do mean oil).  </p>
+<p><a href="http://1.bp.blogspot.com/_8UVGnCIfOVk/TUdTVZrqFKI/AAAAAAAAAhw/y0ilS3a4w4k/s1600/whale2.bmp"><img src="http://1.bp.blogspot.com/_8UVGnCIfOVk/TUdTVZrqFKI/AAAAAAAAAhw/y0ilS3a4w4k/s400/whale2.bmp" border="0" alt=""></a>Figure 2</p>
+<p>Notice that the correlation is negative (sigh of relief) but once again, you get some information about prices from quantities produced decades earlier.</p>
+<p>Here&#8217;s whale bone.  Its worse.</p>
+<p><a href="http://2.bp.blogspot.com/_8UVGnCIfOVk/TUdTVo_2nlI/AAAAAAAAAh4/bVej68icSQw/s1600/whale3.bmp"><img src="http://2.bp.blogspot.com/_8UVGnCIfOVk/TUdTVo_2nlI/AAAAAAAAAh4/bVej68icSQw/s400/whale3.bmp" border="0" alt=""></a>Figure 3.</p>
+<p>So what&#8217;s going on?</p>
+<p>This post comes from something I&#8217;m playing with at work (I&#8217;m trying to understand how a few specific commodities might play out over a very long period of time) and is posted with the permission of my boss.  (Thanks Lauren!)  I don&#8217;t usually like to play with data that goes that far back as it isn&#8217;t always reliable but I figured this was fine for broad strokes purposes.</p>
+<p>Price and quantity data from <a href="http://www.angrybearblog.com/">A History of the American Whale Fishery</a> by Walter Sheldon Tower, Tables IV and V.  Data was entered by hand so hopefully I didn&#8217;t screw up too much too badly.  CPI estimates from the <a href="http://www.minneapolisfed.org/community_education/teacher/calc/hist1800.cfm">Minnesota Fed</a>.</p>
+<p>If you want my spreadsheet let me know &#8211; I&#8217;m at mike  period my last name (one m only) at gmail.com.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/prices-and-quantity-for-whale-oil-and-whale-bone.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

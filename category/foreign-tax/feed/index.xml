@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>foreign tax &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>FATCA (foreign account tax compliance act</title>
+		<link>./../../2010/06/fatca-foreign-account-tax-compliance-act.html</link>
+		<comments>./../../2010/06/fatca-foreign-account-tax-compliance-act.html#respond</comments>
+		<pubDate>Wed, 16 Jun 2010 10:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[FATCA]]></category>
+		<category><![CDATA[foreign tax]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/fatca-foreign-account-tax-compliance-act.html</guid>
+		<description><![CDATA[By Linda Bealecrossposted with Ataxingmatter FATCA (foreign account tax compliance act FATCA (foreign account tax compliance act&#8211;or is it the anti-fatcat act?)The attention of US tax enforcement has been focused on offshore issues for some time. Of course, the most conspicuous part of that has been the ongoing dispute with UBS, a Swiss bank that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>By Linda Beale</strong><br />crossposted with <strong>Ataxingmatter</strong></p>
+<p><a target="_blank" href="http://ataxingmatter.blogs.com/tax/2010/06/fatca-foreign-account-tax-compliance-actor-is-the-the-antifatcat-act.html"><strong>FATCA (foreign account tax compliance act</strong></a></p>
+<p>FATCA (foreign account tax compliance act&#8211;or is it the anti-fatcat act?)<br />The attention of US tax enforcement has been focused on offshore issues for some time.  Of course, the most conspicuous part of that has been the ongoing dispute with UBS, a Swiss bank that facilitated tax evasion by US taxpayers under the Swiss banking secrecy rules.  After some breakthroughs, the US was at the point of prosecuting the bank and got it to agree to release information on 4500 of the most significant accounts.  But then a Swiss court intervened, requiring a parliamentary approval of the agreement. The upper house approved, but the lower house balked.  The upper house has now re-approved the measure, with the hope that the lower house will now act in time to have the agreement approved before the June 18 end of the session.  Meantime, Germany has purchased information on about 20,000 Swiss secret accounts, in its extensive efforts to stem tax evasion.  The US initiated a voluntary disclosure program, which netted about 15,000 accountholders.  All of those efforts mean that there will be lots more information to track back to the perpetrators, and a much greater possibility that those trying to evade taxes or assist people in evading taxes will be caught.  That is all good news.</p>
+<p>Further, as part of the HIRE Act, Congress passed a number of provisions earlier this year intended to make it much harder for wealthy Americans to hide assets offshore and evade paying their fair share of taxes on the income from those financial assets.   That part of the HIRE act is called &#8220;FATCA&#8221;&#8211;the foreign account tax compliance act, and is a major step forward in requiring information reporting about offshore assets and backing that requirement up with penalties.  A big part of FATCA is a requirement that foreign banks must either agree to disclose information about US investors or be subject to the statutory withholding regime (a 30% rate).</p>
+<p>Doug Shulman spoke to OECD on June 8 about the US efforts to ensure greater tax compliance in the face of globalization.  The following is an excerpt of those remarks in which he discusses FATCA.  The full speech is available <a target="_blank" href="http://www.irs.gov/irs/article/0,,id=224121,00.html">here</a>.</p>
+<blockquote><p>Transparency has also been enhanced through the U.S. Qualified Intermediary – or “QI” Program. Since 2001, the QI system has provided the United States a way to work with foreign financial institutions to ensure that investors in offshore accounts are indeed eligible for the relief from our source-based withholding taxes that they claim, and the system has worked effectively. However, the system is not without its limitations. The QI information-gathering rules are focused mainly on ensuring that withholding tax relief is appropriate, and almost no detailed information flows from the QIs to the IRS about the identity, income or overall tax position of any accountholder. Moreover, not all foreign financial institutions choose to be a QI.</p>
+<p>Enter center stage the Foreign Accounts Tax Compliance Act – or FATCA – which was enacted this year as part of the HIRE Act. This is the most important development in international information reporting in a generation. It is a big step forward in our efforts to reduce tax evasion by creating transparency and accountability in the offshore financial markets.</p>
+<p>FATCA provides IRS with the tools we need to crack down on Americans hiding assets overseas. Let me speak to some of the Act’s broad policy provisions and what they mean to taxpayers and foreign financial institutions. At its core, FATCA makes it much more difficult for US individuals to hide assets in offshore accounts. First, it increases information reporting by U.S. taxpayers holding financial assets outside the United States and imposes stiff penalties for failure to comply. It expands due diligence standards, so that we have a better line of sight to U.S. beneficial owners of accounts.  It also ramps up the stakes for foreign financial institutions that will have to agree to disclose U.S. investors to the IRS or feel the pain of a substantial new withholding tax on U.S. income and gains.</p>
+<p>I also believe that the mere enactment of FATCA should prompt preparers and advisors to expand their due diligence regarding offshore account issues, including, but not limited to income tax reporting. Overall, FATCA makes the world a much riskier place for US taxpayers still trying to hide their money anywhere around the world.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/fatca-foreign-account-tax-compliance-act.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

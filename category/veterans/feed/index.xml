@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Veterans &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Psycological Kevlar</title>
+		<link>./../../2008/01/psycological-kevlar.html</link>
+		<comments>./../../2008/01/psycological-kevlar.html#respond</comments>
+		<pubDate>Wed, 16 Jan 2008 01:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Law]]></category>
+		<category><![CDATA[PTSD]]></category>
+		<category><![CDATA[Veterans]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/01/psycological-kevlar.html</guid>
+		<description><![CDATA[Psychological Kevlar Act of 2007 introduced by Patrick Kennedy was to help PTSD and brain trauma research expand. It has come to my attention that the DoD is thinking about using propranolol as a prophylactic to help reduce ptsd symptoms during conflict and after. I had found this articlefrom a wife of a soldier who [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://thomas.loc.gov/cgi-bin/query/z?c110:H.R.3256"><br />Psychological Kevlar Act of 2007</a> introduced by Patrick Kennedy was to help PTSD and brain trauma research expand.</p>
+<p>It has come to my attention that the DoD is thinking about using propranolol as a prophylactic to help reduce ptsd symptoms during conflict and after. I had found <a href="http://www.alternet.org/healthwellness/72956/">this article</a>from a wife of a soldier who had killed himself, and who had testified in a Dec. 12, 2007 congressional hearing on suicide among veterans that is apparently on the rise.  She has a strong and passionate viewpoint, but that is not for the post.</p>
+<p><a href="http://en.wikipedia.org/wiki/Propranolol">Propranolol</a> (brand name Inde by Wyeth) is used for a number of diagnosis not related to ptsd.  In addition it is used in the psychological Anxiety area as a beta blocker among other uses,  for example for rape victims  ptsd to help defuse the intensity of the experience in order to work in therapy.  Its efficacy is still experimental and not encouraging.</p>
+<p>Failing to locate such information, I am wondering if readers may have leads.  While an econ blog, many here are also veterans.  Thanks.  Further information is coming if warranted.  I have e-mailed relevant experts that I know.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/01/psycological-kevlar.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

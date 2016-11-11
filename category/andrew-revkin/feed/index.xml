@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Andrew Revkin &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Hurricane Sandy and climate change</title>
+		<link>./../../2012/10/hurricane-sandy-and-climate-change.html</link>
+		<comments>./../../2012/10/hurricane-sandy-and-climate-change.html#respond</comments>
+		<pubDate>Wed, 31 Oct 2012 10:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Andrew Revkin]]></category>
+		<category><![CDATA[climate change]]></category>
+		<category><![CDATA[Jan Galkowski]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/hurricane-sandy-and-climate-change.html</guid>
+		<description><![CDATA[Reader Jan Galkowski sends this caution about promoting Hurricane Sandy as the result of climate change.  The following is taken from an e-mail to me yesterday: There&#8217;s a lot being written about Hurricane Sandy in connection with climate change. It is likely that this hurricane was exacerbated by human induced climate change, notably the excessively [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>Reader Jan Galkowski sends this caution about promoting Hurricane Sandy as the result of climate change.  The following is taken from an e-mail to me yesterday:</div>
+<p>
+<blockquote>There&#8217;s a lot being written about Hurricane Sandy in connection with climate change. It is likely that this hurricane was exacerbated by human induced climate change, notably the excessively warm waters off New England, but it is not scientifically correct to say the hurricane or its merging to become a nor&#8217;easter were caused by climate change. It is possible that the blocking high over Greenland contributed to that, however the attribution is dilute, if present.</p>
+<p><a href="http://dotearth.blogs.nytimes.com/2012/10/28/the-frankenstorm-in-climate-context/" target="_blank">Andy Revkin in the <em>New York Times</em></a> has a nice summary of the current science.</p>
+<p>Although we know all is affected by greater energy on the planet, the fraction of Sandy&#8217;s fury attributable is perhaps 10%. Thus, comments like the following from <a href="http://350.org/en/about/blogs/hurricane-sandy">350.org</a> are simply incorrect, and are misleading:</p>
+<blockquote><p>It&#8217;s as out of kilter as the melting Arctic or the acidifying ocean. And if there were any poetic justice, it would be named Hurricane Chevron or Hurricane Exxon, not Hurricane Sandy.</p></blockquote>
+<p>The ends do not justify the means.<br />If there&#8217;s something to be learned by this experience, it is that climate change is expanding and enlarging the oceans by thermal effects, and eventually by ice mass melting, both through displacement and gravitational effects. Eventually, common nor&#8217;easters will suffice to breach Battery Park walls and drown barrier islands. And there may be surprises in store as well. <br /><a name="more"></a><br />As some of you have seen, I myself have done a calculation showing that the frequency of out of season hurricanes has increased since the late 19th century. That increase is statistically significant, although it may not be enough for everyone to notice.</p>
+<p>Despite the great need to move policy towards a global economy that grows without more material consumption, which I very much agree with, distorting the facts destroys trust and disturbs the healthy ecosystem of scientific funding and research. It is also unethical.</p>
+<p>It may be inconvenient that people are not moved by reason as much as by fear. But that is their choice, even if they suffer the consequences. It&#8217;s the responsibility of science to educate and be principled, even if we know that delay implies additional cost, additional deaths. It will also be the responsibility of science to tell policymakers and people that certain aspects of climate change <em>are no longer reversible</em> in any time frame that makes political or economic sense, and the longer we wait, the more of that kind of thing there will be.<br />I ask your collective understanding of this matter, and draw your attention to what will be the increasing problem of <em>mitigating</em> rather than preventing climate-related risks, as they are described in the <a href="http://ipcc-wg2.gov/SREX/images/uploads/SREX-SPMbrochure_FINAL.pdf" taget="_blank">SREX report from the IPCC</a>. (Revkin alludes to this at his page.) </p></blockquote>
+<blockquote><p>Thanks. Hope everyone&#8217;s healthy and safe.<br />&#8211; Jan</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/hurricane-sandy-and-climate-change.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

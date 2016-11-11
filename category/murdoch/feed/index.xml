@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Murdoch &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Charlie Stross Discovers that The WSJ has been Teaching to the Test</title>
+		<link>./../../2011/10/charlie-stross-discovers-that-the-wsj-has-been-teaching-to-the-test.html</link>
+		<comments>./../../2011/10/charlie-stross-discovers-that-the-wsj-has-been-teaching-to-the-test.html#respond</comments>
+		<pubDate>Wed, 12 Oct 2011 17:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[fraud]]></category>
+		<category><![CDATA[Murdoch]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/charlie-stross-discovers-that-the-wsj-has-been-teaching-to-the-test.html</guid>
+		<description><![CDATA[And, therefore, ripping off its (at least European) advertisers: The Guardian has just broken a new story about News International: Wall Street Journal circulation scam claims senior Murdoch executive: Andrew Langhoff resigns as European publishing chief after exposure of secret channels of cash to help boost sales figures. To quote a little bit of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>And, therefore, <a href="http://www.antipope.org/charlie/blog-static/2011/10/going-down-hard.html">ripping off its (at least European) advertisers</a>:<br />
+<blockquote>The Guardian has just broken a new story about News International: <a href="http://www.guardian.co.uk/media/2011/oct/12/wall-street-journal-andrew-langhoff">Wall Street Journal circulation scam claims senior Murdoch executive</a>: Andrew Langhoff resigns as European publishing chief after exposure of secret channels of cash to help boost sales figures.</p>
+<p>To quote a little bit of the extensive — and hair-raising — article:</p>
+<blockquote><p>One of Rupert Murdoch&#8217;s most senior European executives has resigned following Guardian inquiries about a circulation scam at News Corporation&#8217;s flagship newspaper, the Wall Street Journal.</p>
+<p>The Guardian found evidence that the Journal had been channelling money through European companies in order to secretly buy thousands of copies of its own paper at a knock-down rate, misleading readers and advertisers about the Journal&#8217;s true circulation.</p></blockquote>
+</blockquote>
+<p>Misleading is British-newspaper-speak for &#8220;defrauding.&#8221;  As Charlie explains:<br />
+<blockquote>[A]udited circulation figures are the bedrock on which advertising revenue is based — the higher the ABC figures, the more the publisher can charge advertisers per inch of paper. Note that for many newspapers or periodicals, <em>advertising accounts for up to 80-90% of revenue</em>; you, the reader, are merely there as a draw for the real customers, the advertisers, who will pay more for pages that are seen by more eyeballs.</p>
+<p>This kind of circulation ramping looks like bare-faced fraud.</p></blockquote>
+<p>If that&#8217;s been happening in the U.S. as well, Charlie&#8217;s expectations may come true:<br />
+<blockquote>And while the large corporate advertisers might be willing to put up with dirty tricks aimed at the readers, this is something else. (I expect a collapse in NewsCo&#8217;s advertising revenue, not to mention an imminent FBI investigation &#8230;) </p></blockquote>
+<p>(cross-posted from <a href="http://xnerg.blogspot.com/">Skippy the Bush Kangaroo</a>)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/charlie-stross-discovers-that-the-wsj-has-been-teaching-to-the-test.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

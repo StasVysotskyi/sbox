@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MMT &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Small Business=Fraud, Countercyclical Planning, MMT, and Other Economics Catch-up</title>
+		<link>./../../2011/07/small-businessfraud-countercyclical-planning-mmt-and-other-economics-catch-up.html</link>
+		<comments>./../../2011/07/small-businessfraud-countercyclical-planning-mmt-and-other-economics-catch-up.html#respond</comments>
+		<pubDate>Tue, 12 Jul 2011 19:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CGG]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[MMT]]></category>
+		<category><![CDATA[political economics]]></category>
+		<category><![CDATA[small business]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/small-businessfraud-countercyclical-planning-mmt-and-other-economics-catch-up.html</guid>
+		<description><![CDATA[Note:This was going to be short pieces about things I missed during a week of illness. It turned into a Very Long Piece riffing on two posts from Capital Gains and Games. And that&#8217;s without even mentioning the bravura work Stan Collender is doing there: see, for instance, this note that a deficit reduction bill [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Note:This was going to be short pieces about things I missed during a week of illness. It turned into a Very Long Piece riffing on two posts from <a href="http://capitalgainsandgames.com/">Capital Gains and Games</a>. And that&#8217;s without even mentioning the bravura work <a href="http://capitalgainsandgames.com/blog/stan-collender">Stan Collender</a> is doing there: see, for instance, this note that <a href="http://capitalgainsandgames.com/blog/stan-collender/2304/boehner-wrong-deficit-reduction-bill-revenues-can-pass-house">a deficit reduction bill with tax increases is very possible</a> if you just ignore John Boehner.</p>
+<ol>
+<li>Small Businesses exist in the United States solely as a vehicle for people to commit tax fraud more easily.</p>
+<p>I don&#8217;t see any other realistic conclusion from <a href="http://capitalgainsandgames.com/blog/pete-davis/2298/revenue-raisers-arent-tax-increases">this piece by Pete Davis</a>. He tries to hide it, putting an idiotic suggestion with an Order of Magnitude&#8217;s less value fist, and mostly got people in comments to talk about COLAs, because economists are stupid that way. But the big number—$2,900,000,000,000—remains the big number.</p>
+<p>The only proper conclusion from the entries after the first two would be that Pete Davis <s>can&#8217;t do math</s>is very fond of negative-NPV solutions. You could conclude from this that Pete is really stupid, but we know better. Besides, Len Berman of <em>Forbes</em> <a href="http://blogs.forbes.com/leonardburman/2011/07/06/stupid-tax-tricks-and-the-debt-ceiling/">already went there</a>, concluding, &#8220;Pete, you know better, and you’re just enabling them.&#8221; The integrity of posters at CG&#038;G doesn&#8217;t usually get questioned so directly in the mainstream.</p>
+</li>
+<li>And there&#8217;s good reason for that. Andrew Samwick has argued for years that stealing from the Greenspan Commission&#8217;s &#8220;making Social Security solvent for future generations&#8221; fund, and I expect him to continue to do so, just as I will continue to argue that everything in the Greenspan Commission documents says that was <em>not</em> the idea. But Andrew has me worried—possibly in a good way—about <a href="http://capitalgainsandgames.com/blog/andrew-samwick/2303/right-analogy-wrong-timing">his idea of how to combine economics and family</a>:<br />
+<blockquote>Actually, the government should budget the way families should. It&#8217;s just not clear that families actually do what they should. Both families and the government should budget countercyclically &#8212; their savings rates should be higher during periods of growth than during periods of economic decline, so that their consumption can remain steady across booms and busts. The problem that both the government and families are having today is that neither one saved enough during the most recent boom, and so both are having to cut back more than would be ideal during this protracted downturn.</p></blockquote>
+<p>Now Andrew—who is younger and cuter than I—is starting to sound like the old man telling us to get off his lawn. Either that or he has just discovered that Lifecycle Theory of Economics doesn&#8217;t work so smoothly in reality as in the standard models. Or both. So it&#8217;s probably safest if I use that paragraph as a springboard to talk about Countercyclical Policy, Rational Expectations, and MMT (below the fold).</li>
+</ol>
+<p><a name="more"></a></p>
+<p>The glory of Accounting Identities is that they must be true; the truth of them, though, is that there are many ways to get there. (&#8220;What do you want it to be?&#8221; is not just a joke; see Point One above.) So let&#8217;s start from an Accounting Identity:<br /><center>Y = C + I + G + NX</center><br />Now, Andrew might have argued—and I might have agree conceptually—that transfer payments such as Unemployment Insurance, Social Security, Disability Insurance payments, and Medicare/caid Prescription Drug Coverage should be counted as C, not G. But since Andrew insists that Social Security benefits can be cut without Social Security payments being reduced, he&#8217;s clearly treating those payments as part of G, not C.* So I will too.</p>
+<p>Now, MMT people—as I think of them, the ones who make certain that only Kevin McHale can &#8220;spike&#8221; the punchbowl**—argue for Nominal GDP targeting. This would keep the overall risk-free rate (<em>r</em>) relatively stable*** since the components of <em>r</em> combined— π + i<sup>e</sup> —pretty much has to equal &#8220;5&#8221; at all times.</p>
+<p>Given that, the expectation should that the nominal Y<sub>t+1</sub> should equal about 1.05Y<sub>t</sub> on an annual basis.</p>
+<p>Several of you are looking up and saying, &#8220;Nu?&#8221; So let&#8217;s go back, then, to Andrew&#8217;s &#8220;all should budget countercyclically&#8221; claim and see what happens in a stable-NGDP, possibly-MMT, world.****</p>
+<p>Let&#8217;s make one more assumption (not necessary, just easier for maths): at stable equilibrium,***** π and i<sup>e</sup> are both equal to 2.5: that is, 2.5% growth, 2.5% inflation. So, all else equal, half of the return on savings is going to be taken by inflation and half of the cost of debt is inflation. In an environment with no tax distortions and in which all lending is done sensibly and prudently (I&#8217;d like a pony, too), this is pure realisation of Modigliani-Miller: businesses should be indifferent between raising capital and borrowing, either of which is an Investment (I).</p>
+<p>So assume that the growth rate for the economy—as a reminder, that&#8217;s the π portion—is expected to be three percent this year (it&#8217;s a good year). MMT would tell us that, to stay stable, we have to reduce inflation expectations to 2%. This means draining money from the system to reduce I<sub>sl</sub> (supply of loans) in the financial system. </p>
+<p>(As noted above, at equilibrium, there is just enough loan money to go around. Since this is above equilibrium, profits will be reduced and businesses will have to raise I through capital, not loans.</p>
+<p>Andrew would tell us that people in good times want to save more. This means that C should go down, relatively, which means that I<sub>sc</sub> (supply of capital) goes up.</p>
+<p>Since—again, an identity—I<sub>s</sub> = I<sub>sc</sub> + I<sub>sl</sub>, MMT demands that personal savings rise to cover the tighter monetary policy. Just as Andrew wants. And just as is more possible in growth times than tight times.*******</p>
+<p>So, ideally, I remains constant, if dI<sub>s</sub> = dI<sub>c</sub>. Not my favorite assumption, but a working one.</p>
+<p>So far, in the boon environment, C is down and I is, at best, neutral. What about G?</p>
+<p>Well, in Andrew-world, government is &#8220;saving for a rainy day.&#8221; Which means on balance that it&#8217;s trying to make more and spend less, just like the family. Which means there are two forces at work—(1) monetary policy, as the interest rate is tightened to control demand and/or reduce inflation, and either (2a) tax rates or (2b) spending cuts in some manner—that are working in the market.</p>
+<p>I doubt 2a (tax increases) is the desired method of slowing growth (if you&#8217;re MMT-inclined) or stabilizing to equilibrium (which I assume to be Andrew&#8217;s goal). So let&#8217;s assume spending cuts.</p>
+<p>Here those transfer payments come in. As the economy grows, UI costs are reduced. Let&#8217;s assume similar, smaller gains in other areas and stipulate that G declines in an above-equilibrium state due to a reduced need for spending—not &#8220;spending cuts&#8221; <em>per se</em>, but rather people being employed as growth comes.********* Best case scenario, fewer UI payments are made, debt is repurchased with those funds, future liabilities is reduced, and more revenue comes in as business expands—which is used to pay down debt so borrowing can be done more easily (read: at a relatively lower rate) during a downturn.</p>
+<p>G declines. As Andrew would want, for good and proper reasons.</p>
+<p>Which leaves NX. An expectation of 3% real growth is higher than the market had expected. Currency appreciates; exports become more expensive to buyers, who buy fewer. Imports become less expensive, relatively. dNX is negative (dX=0).</p>
+<p>So with moderately higher growth, C, G, and NX all decline, while I either (a) increases slightly (in the absence of the need for and use of monetary policy, and not greater than C declines) or (b) declines (if monetary policy is used to reduce loan demand, since that pesky C<sub>0</sub> rather ensures that dI<sub>s</sub>c |).</p>
+<p>If you don&#8217;t use monetary policy to drain funds from the system, in which case (C + I) remains relatively stable or rises slightly, NX is more ambiguous (effectively=0), and G still realizes those spending cuts (paying down debt—more tax revenues at the same rate as business expands—which cet. par. increases the spread between <em>r</em> and equity investment and means some of that I<sub>s</sub> becomes I<sub>c</sub>, but that&#8217;s a side discussion).</p>
+<p>The implications here, and for a downturn example and the full cycle model, are left to the next post.</p>
+<p>*This should make it clear that this point was not opened with an <em>ad hominem</em> attack, so anyone who suggests so in comments—even on the basis of &#8220;well, I didn&#8217;t read below the fold&#8221;—will see that comment deleted. Assuming, of course, that I read the comments on a regular basis, so you&#8217;re probably safe, if warned.</p>
+<p>**<em>Glee</em>, not old NBA, reference.</p>
+<p>***Still some uncertainty and timing issues, but a relatively flat but upward sloping yield curve would be a perpetual result.</p>
+<p>***The coolest thing about working with everything in Nominal terms is that we can basically eschew calculus and natural logs. The worst thing about working with everything in Nominal terms is&#8230;</p>
+<p>*****You&#8217;re driving down a dessert highway in a two-seater. By the side of the road, miles from the nearest water source, you see A Gorgeous Blond(e), Santa Claus, and an old, tired-looking Stable Equilibrium. Which one do you offer a ride?</p>
+<p>A: The Gorgeous Blond(e). The other two are figments of your imagination.******</p>
+<p>******Yes, think joke works better with &#8220;a brilliant violist.&#8221; But this is an economics blog, so live with it.</p>
+<p>*******I would quibble Andrew&#8217;s statement that people borrowed too much for two reasons: one is that market transactions where the borrower is the one most subject to getting a poorer deal due to issues of asymmetric information hardly call to mind the <em>borrower&#8217;s</em> irrationality. Second is that many of those transactions were people &#8220;trading up&#8221; without clearly taking on a greater burden. (That is, $200K in equity on a NYC 1BR became a $200K down payment toward a home whose costs would be similar or lower, cet. par. The household balance sheet was not necessarily expanded on purchases. (That those purchases were at a higher direct cost than the available OERs is a separate, significant issue.) Similarly, HELOC borrowings that were invested into the property—all those effing marble kitchens for people who don&#8217;t know how to cook—are only negative to the balance sheet to the extent that they don&#8217;t have a reasonable ROI in the first place. That is, the deadweight loss is probably 30% or less on any portions of HELOCs that were used for Home Improvement projects.</p>
+<p>Collaterally, if the HELOC was used in place of savings or 401(k) borrowings or other assets (for those who have same)—or even a higher-interest rate &#8220;bank&#8221; loan—as the method of buying a new car or other necessity, the fault lies not with the borrower, who made the rational (<em>ex ante</em>) choice to stay invested in &#8220;the market&#8221; and/or maintain Investments (savings).</p>
+<p>In short, since all mortgages and HELOCs have been getting tarred with the same brush, we cannot be certain the extent to which &#8220;bad borrowing&#8221; was actually bad borrowing, or whether it was just borrowing based on the expectation that jobs and income would remain fairly stable—not drop the f*ck off the cliff and be reduced in even nominal terms for the survivors—concurrent with &#8220;investment&#8221; values dropping into an abyss.</p>
+<p>Anyway, since C<sub>0</sub> is still essentially constant (&#8220;sticky&#8221;) even as income first declines, it is intuitive that saving is easier (consider the effect on S = Income &#8211; [C<sub>0</sub> + C<sub>choice</sub>] as Income approaches C<sub>0</sub>) in more prosperous times, on balance, for most of society, distributional effects being constant (or changing incrementally).</p>
+<p>*********In such an environment, monetary policy may not be used so proactively. This should be fine for all, given that 5% NGDP is the target, not the absolute. Over time, it will smooth. I guess.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/small-businessfraud-countercyclical-planning-mmt-and-other-economics-catch-up.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>US Federal deficits</title>
+		<link>./../../2010/07/us-federal-deficits.html</link>
+		<comments>./../../2010/07/us-federal-deficits.html#respond</comments>
+		<pubDate>Sun, 18 Jul 2010 11:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[budget deficits]]></category>
+		<category><![CDATA[MMT]]></category>
+		<category><![CDATA[sovereign debt]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/us-federal-deficits.html</guid>
+		<description><![CDATA[Mark Thoma posted yesterday Is Galbraith Right that Deficits are Never a Problem? on Paul Krugman&#8217;s NYT piece I Would Do Anything For Stimulus, But I Won’t Do That (Wonkish) on MMT and soveriegn debt (using Angry Bear&#8217;s posting of Jamie Galbraith&#8217;s testimony to Congress as a link), and has included Jamie Galbraith&#8217;s response. It [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Mark Thoma posted yesterday <a target="_blank" href="http://economistsview.typepad.com/economistsview/2010/07/is-galbraith-right-that-deficits-are-never-a-problem.html">Is Galbraith Right that Deficits are Never a Problem?</a> on Paul Krugman&#8217;s NYT piece <a target="_blank" href="http://krugman.blogs.nytimes.com/2010/07/17/i-would-do-anything-for-stimulus-but-i-wont-do-that-wonkish/">I Would Do Anything For Stimulus, But I Won’t Do That (Wonkish)</a> on MMT and soveriegn debt (using <a target="_blank" href="http://www.angrybearblog.com/2010/07/professor-jamie-galbraiths-testimony-to.html">Angry Bear&#8217;s posting of Jamie Galbraith&#8217;s testimony to Congress</a> as a link), and has included Jamie Galbraith&#8217;s response.  It is worth reading.</p>
+<p>Ed Harrison at Creditwritedowns weighed in <a target="_blank" href="http://www.creditwritedowns.com/2010/07/misunderstanding-modern-monetary-theory.html">here</a>.</p>
+<p>Calculated Risk has posted a 5 series on <a target="_blank" href="http://www.calculatedriskblog.com/2010/07/sovereign-debt-series-summary.html">Sovereign Debt</a> both historical and comparative internationally.</p>
+<p>More to come from other economists.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/us-federal-deficits.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

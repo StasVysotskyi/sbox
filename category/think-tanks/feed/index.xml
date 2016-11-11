@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>think tanks &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Universities and &#8216;think tanks”</title>
+		<link>./../../2012/10/universities-and-think-tanks.html</link>
+		<comments>./../../2012/10/universities-and-think-tanks.html#respond</comments>
+		<pubDate>Sun, 28 Oct 2012 21:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[think tanks]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/universities-and-think-tanks.html</guid>
+		<description><![CDATA[Via Naked Capitalism comes a heads up from reader Paul Tioxon: Propaganda on the Rise on the Health Care Policy FrontReader Paul Tioxon sent the following sighting by e-mail. By way of background, it’s important to keep in mind that pretty much every place that professes simply to read research and translate into stuff journalists [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://www.nakedcapitalism.com/2012/10/propaganda-on-the-rise-on-the-health-care-policy-front.html">Naked Capitalism</a> comes a heads up from reader Paul Tioxon:</p>
+<blockquote><p><a href="http://www.nakedcapitalism.com/2012/10/propaganda-on-the-rise-on-the-health-care-policy-front.html">Propaganda on the Rise on the Health Care Policy Front</a>Reader Paul Tioxon sent the following sighting by e-mail. By way of background, it’s important to keep in mind that pretty much every place that professes simply to read research and translate into stuff journalists and the lay public can understand is generally called a “think tank” and they are Trojan horses for policy agendas. It is also worth noting that Leonard Davis founded Colonial Penn, a large insurance company. </p></blockquote>
+<p>
+<blockquote>From Paul:<br /><a href="http://www.philly.com/philly/blogs/inq-phillydeals/Polsky-to-head-Penns-Leonard-Davis-health-econ-group.html">http://www.philly.com/philly/blogs/inq-phillydeals/Polsky-to-head-Penns-Leonard-Davis-health-econ-group.html</a><br />$100M annually for 200 fellows for Wharton econ research into health care policy economics at the Leonard Davis Institute.<br />“Established in 1967, LDI is one of the country’s largest health services research centers with more than 200 Senior Fellows studying the organization, delivery, management and financing of health care.” They have their own “Journal of Health Economics”. They recently hired an Ad Age journalist to head up a group of writers who will translate econ mumbo jumbo for decision makers who need guidance and make health policy.<br />     You can read the blog piece which links to Penn’s announcement which should give you a picture of the kind of policy that goes on there. Nice work if you can get it, huh?</p></blockquote>
+<p>Read more at Naked Capitalism.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/universities-and-think-tanks.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

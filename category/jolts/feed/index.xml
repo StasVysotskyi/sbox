@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>JOLTS &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>PSA: FRB St. Louis Webcast Tonight, and Some from History</title>
+		<link>./../../2011/11/psa-frb-st-louis-webcast-tonight-and-some-from-history.html</link>
+		<comments>./../../2011/11/psa-frb-st-louis-webcast-tonight-and-some-from-history.html#respond</comments>
+		<pubDate>Mon, 21 Nov 2011 19:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[employment]]></category>
+		<category><![CDATA[JOLTS]]></category>
+		<category><![CDATA[the fed]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/psa-frb-st-louis-webcast-tonight-and-some-from-history.html</guid>
+		<description><![CDATA[The Federal Reserve Bank of St. Louis, without whose FRED database and Excel Add-in Economics Bloggers (and Matt Yglesias) would be Even More Boring, has been running a series of Discussions explaining why the Fed is incompetent—er, Why They Don&#8217;t Follow Their Dual Mandate—er, well, something about how They&#8217;re Doing The Best They Can.* The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Federal Reserve Bank of St. Louis, without whose FRED database and Excel Add-in Economics Bloggers (and Matt Yglesias) would be Even More Boring, has been running a series of Discussions explaining why the Fed is incompetent—er, Why They Don&#8217;t Follow Their Dual Mandate—er, well, something about how They&#8217;re Doing The Best They Can.*</p>
+<p>The Federal Reserve Bank of St. Louis will offer a live webcast of the finale of its fall evening discussion series for the general public, &#8220;Dialogue with the Fed: Beyond Today’s Financial Headlines,&#8221; on Monday, Nov. 21, 2011.</p>
+<p>The dialogue will be streamed live from the St. Louis Fed&#8217;s Gateway Conference Center beginning at 7 p.m. CT/8 p.m. ET. It can be viewed at <a href="http://www.stlouisfed.org/live">www.stlouisfed.org/live</a>. No registration is necessary. <br /><a name="more"></a><br />Christopher Waller, the St. Louis Fed’s senior vice president and director of research, will discuss &#8220;Understanding the Unemployment Picture.&#8221; After his presentation, Waller, along with St. Louis Fed economists David Andolfatto and Natalia Kolesnikova, will take questions from the on-site audience at the Bank.</p>
+<p>If you cannot catch the live webcast, it will be archived and available on the St. Louis Fed web site within a few days of the event, along with videos of the first two dialogues. </p>
+<p>View <a href="http://stlouisfed.org/newsroom/multimedia/video/20110912-dialogue-part1.cfm">Lessons Learned from the Financial Crisis</a> with Julie Stackhouse, senior vice president, Banking Supervision &#038; Regulation<br />Held Sept. 12, 2011</p>
+<p>View <a href="http://stlouisfed.org/newsroom/multimedia/video/20111018-Dialogue-part1.cfm">Bringing the Federal Deficit Under Control</a> with William Emmons, assistant vice president and economist<br />Held Oct. 18, 2011 </p>
+<p>Attend, enjoy, ask them about the Beige Book.  <a href="http://andolfatto.blogspot.com/">David Andolfatto</a> tries to be One of the Good Guys (well, for a Simon Fraser guy**, at least). Give him some love, attention, and Questions He Will Love to Answer.</p>
+<p>*Whether you find this idea even more disappointing than the others is left as an exercise, unless you&#8217;re looking for work, in which case:
+<p><a href="http://1.bp.blogspot.com/-p2vW9wOx_ac/TsqdKE1czFI/AAAAAAAAArE/rOfIwC9tUkQ/s1600/JOLTS%2BFRED.PNG"><img src="http://1.bp.blogspot.com/-p2vW9wOx_ac/TsqdKE1czFI/AAAAAAAAArE/rOfIwC9tUkQ/s320/JOLTS%2BFRED.PNG" border="0" alt=""></a></p>
+<p>**Think A Canadian Koch Brothers, but where the work is done in the Selection Bias.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/psa-frb-st-louis-webcast-tonight-and-some-from-history.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

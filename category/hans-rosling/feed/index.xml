@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hans Rosling &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>World Health, Poverty and development brought alive</title>
+		<link>./../../2009/05/world-health-poverty-and-development-brought-alive.html</link>
+		<comments>./../../2009/05/world-health-poverty-and-development-brought-alive.html#respond</comments>
+		<pubDate>Thu, 28 May 2009 13:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hans Rosling]]></category>
+		<category><![CDATA[income]]></category>
+		<category><![CDATA[Poverty]]></category>
+		<category><![CDATA[World Health]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/05/world-health-poverty-and-development-brought-alive.html</guid>
+		<description><![CDATA[By divorced one like Bush Hello everyone. Things have been hectic, so no time to blog. But, I thought these two videos would be of interest. They are Hans Rosling presenting his data via his program that animates the changing statistics. Even the most worldly and well-traveled among us will have their perspectives shifted by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By divorced one like Bush</p>
+<p>Hello everyone.  Things have been hectic, so no time to blog.  But, I thought these two videos would be of interest.  They are Hans Rosling presenting his data via his program that animates the changing statistics.  <br />
+<blockquote>Even the most worldly and well-traveled among us will have their perspectives shifted by Hans Rosling. A professor of global health at Sweden’s Karolinska Institute, his current work focuses on dispelling common myths about the so-called developing world, which (he points out) is no longer worlds away from the west. In fact, most of the third world is on the same trajectory toward health and prosperity, and many countries are moving twice as fast as the west did.</p></blockquote>
+<p>The first is his introduction of his program while discussing the relationship of wealth and health.  His take is that health has to come before wealth to make real wealth progress.  This second presentation makes it clearer as you see the change over time as  a race between US, Japan and Sweden.    He also relates it to climate change in that no nation has made progress without effecting climate.</p>
+<p>His goal is to make data more readily available in a form that makes it easier to interpret.  He works with the UN.  </p>
+<p>The videos are about 20 minutes each.<br />The first video is: Hans Rosling shows the <a href="http://www.ted.com/index.php/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html">best stats</a> you&#8217;ve ever seen</p>
+<p>The second video is: Hans Rosling&#8217;s <a href="http://www.ted.com/talks/hans_rosling_reveals_new_insights_on_poverty.html">new insights on poverty</a></p>
+<p>These come to you via: <a href="http://www.ted.com/">TED</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/05/world-health-poverty-and-development-brought-alive.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

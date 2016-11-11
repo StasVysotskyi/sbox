@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>transfer payments &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Government Transfer Payments in the US: It&#8217;s All About Health Care</title>
+		<link>./../../2011/03/government-transfer-payments-in-the-us-its-all-about-health-care.html</link>
+		<comments>./../../2011/03/government-transfer-payments-in-the-us-its-all-about-health-care.html#respond</comments>
+		<pubDate>Thu, 10 Mar 2011 02:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Kash Mansori]]></category>
+		<category><![CDATA[medicare]]></category>
+		<category><![CDATA[transfer payments]]></category>
+		<category><![CDATA[welfare]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/government-transfer-payments-in-the-us-its-all-about-health-care.html</guid>
+		<description><![CDATA[There&#8217;s been a rather silly news item floating around the internets and business press today about the role of government in the US economy. Here&#8217;s an example from the Investors Business Daily: Is America Becoming A Welfare Nation? More than one-third of all wages and salaries in this country are actually government handouts. We should [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s been a rather silly news item floating around the internets and business press today about the role of government in the US economy. Here&#8217;s an example from the Investors Business Daily:</p>
+<blockquote><p><a href="http://www.investors.com/NewsAndAnalysis/Article/565496/201103091841/Atlas-Twitches.htm"><strong>Is America Becoming A Welfare Nation?</strong> </a></p>
+<p>More than one-third of all wages and salaries in this country are actually government handouts. We should be alarmed that we&#8217;ve become a nation of dependents.</p>
+<p>Using data mined from the Bureau of Economic Analysis, TrimTabs Investment Research has found that 35% of wages and salaries this year will be in the form of a government payment. That&#8217;s up sharply from 2000, when it was 21%, which is more than double the rate — 10% — of 1960.</p>
+<p>The payouts are primarily Social Security and Medicare benefits, and unemployment checks. But they are not limited to those programs.</p>
+<p>In any case, we&#8217;re seeing before us a disturbing trend. A society can&#8217;t survive moving in this direction.</p></blockquote>
+<p>Sigh. Where to begin.</p>
+<p><a name="more"></a><br />First of all, just to set the record straight: the press is reporting the numbers wrong. The true figure, according to the BEA data, is that about 18% of personal income in 2010 was in the form of transfer payments from the government. Meanwhile, exactly zero percent of wages and salaries were in the form of transfer payments, because wages and salaries were, well, wages and salaries. I suspect that many people are conflating &#8220;wages and salaries&#8221; with &#8220;personal income&#8221; as they report this statistic. But there&#8217;s actually a big difference, and wages and salaries actually make up only a bit more than half of personal income in the US.</p>
+<p>Much more importantly, one must realize that <strong><em>of course</em> </strong>transfer payments were higher than usual in 2010 &#8211; we were emerging from the deepest recession in 75 years. Transfer payments are crucial automatic stabilizers for the economy, and comprise our society&#8217;s safety net. They have been operating exactly as they&#8217;re supposed to, with payments rising during a recession to make up for the fall in other types of income. When you have the deepest recession since the invention of transfer payments, as we did in 2008-09, then of course you would expect to find them rise to their highest levels ever.</p>
+<p>Finally, the alarming statistics cited in such articles are really just due to one, and only one, phenomenon: the incredible and seemingly unstoppable rise in health care costs in the US.</p>
+<p>The blue line in the following picture shows transfer payments as a percent of total personal income. The red line shows transfer payments excluding Medicare and Medicaid.</p>
+<p><a href="http://2.bp.blogspot.com/-IYEBVWmuTaA/TXgtF4ssWoI/AAAAAAAAAaM/3hRk23RuG8w/s1600/transfers%2Bas%2Bpct%2Bof%2Bincome.PNG"><img border="0" alt="" src="http://2.bp.blogspot.com/-IYEBVWmuTaA/TXgtF4ssWoI/AAAAAAAAAaM/3hRk23RuG8w/s400/transfers%2Bas%2Bpct%2Bof%2Bincome.PNG"></a><br />With the exception of health care costs, there&#8217;s really no trend to see in this data at all. Really, it&#8217;s all about health care costs. Again. Still.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/government-transfer-payments-in-the-us-its-all-about-health-care.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Should we bemoan the fact that employment and earnings aren’t the key trickle-down mechanism?</title>
+		<link>./../../2010/11/should-we-bemoan-the-fact-that-employment-and-earnings-arent-the-key-trickle-down-mechanism.html</link>
+		<comments>./../../2010/11/should-we-bemoan-the-fact-that-employment-and-earnings-arent-the-key-trickle-down-mechanism.html#respond</comments>
+		<pubDate>Thu, 18 Nov 2010 17:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[trade policy]]></category>
+		<category><![CDATA[transfer payments]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/should-we-bemoan-the-fact-that-employment-and-earnings-arent-the-key-trickle-down-mechanism.html</guid>
+		<description><![CDATA[Hat tip Economist&#8217;s View for Lane Kenworthy&#8217;s post on growing the GDP and distribution of the benefits. It is also related to concpts determining trade policies: None of these countries significantly increased the share of GDP going to government transfers. What happened is that some nations did more than others to pass the fruits of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://economistsview.typepad.com/economistsview/2010/11/when-is-economic-growth-good-for-the-poor.html" target="_blank">Hat tip Economist&#8217;s View</a> for <a href="http://lanekenworthy.net/2010/11/17/when-is-economic-growth-good-for-the-poor/" target="_blank">Lane Kenworthy&#8217;s post on growing the GDP and distribution of the benefits</a>. It is also related to concpts determining trade policies:</p>
+<blockquote><p>None of these countries significantly increased the share of GDP going to government transfers. What happened is that some nations did more than others to pass the fruits of economic growth on to the poor.
+</p>
+<p>Trickle down via transfers occurs in various ways. In some countries pensions, unemployment compensation, and related benefits are indexed to average wages, so they tend to rise automatically as the economy grows. Increases in other transfers, such as social assistance, require periodic policy updates. The same is true of tax reductions for low-income households.</p>
+<p>Should we bemoan the fact that employment and earnings aren’t the key trickle-down mechanism?</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/should-we-bemoan-the-fact-that-employment-and-earnings-arent-the-key-trickle-down-mechanism.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

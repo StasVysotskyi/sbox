@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cryo-Sat-2 &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Sea ice in the Arctic and new data from Cryo-Sat-2</title>
+		<link>./../../2012/08/sea-ice-in-the-arctic-and-new-data-from-cryo-sat-2.html</link>
+		<comments>./../../2012/08/sea-ice-in-the-arctic-and-new-data-from-cryo-sat-2.html#respond</comments>
+		<pubDate>Mon, 13 Aug 2012 21:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Arctic sea ice]]></category>
+		<category><![CDATA[climate change]]></category>
+		<category><![CDATA[Cryo-Sat-2]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/sea-ice-in-the-arctic-and-new-data-from-cryo-sat-2.html</guid>
+		<description><![CDATA[Hi folks&#8230;coming back on line from experiences in hospital services (not mine) and found this Guardian article on something we haven&#8217;t followed closely in posts.   From the Guardian comes this note on the preliminary data of the new Cryo-Sat-2 probe on Arctic ice volumes: Sea ice in the Arctic is disappearing at a far [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>Hi folks&#8230;coming back on line from experiences in hospital services (not mine) and found this Guardian article on something we haven&#8217;t followed closely in posts.  </div>
+<div></div>
+<div>From the Guardian comes this note on the preliminary data of the new Cryo-Sat-2 probe on Arctic ice volumes:</div>
+<p>
+<blockquote><a href="http://www.guardian.co.uk/environment/sea-ice">Sea ice</a> in the <a href="http://www.guardian.co.uk/world/arctic">Arctic</a> is disappearing at a far greater rate than previously expected, according to data from the first purpose-built satellite launched to study the thickness of the Earth&#8217;s polar caps.<br />Preliminary results from the <a href="http://www.guardian.co.uk/science/european-space-agency">European Space Agency</a>&#8216;s CryoSat-2 probe indicate that 900 cubic kilometres of <a href="http://www.guardian.co.uk/environment/summer">summer</a> sea ice has disappeared from the Arctic ocean over the past year.<br />…<br /><a href="http://www.ucl.ac.uk/news/news-articles/1004/10040804">CryoSat-2 is the world&#8217;s first satellite to be built specifically to study sea-ice thickness</a> and was launched on a Dniepr rocket from Baikonur cosmodrome, Kazakhstan, on 8 April, 2010. Previous Earth monitoring satellites had mapped the extent of sea-ice coverage in the Arctic. However, the thickness of that ice proved more difficult to measure.<a name="more"></a><br />The US probe ICESat made some important measurements of ice thickness but operated intermittently in only a few regions before it stopped working completely in 2009. CryoSat was designed specifically to tackle the issue of ice thickness, both in the Arctic and the Antarctic. It was fitted with radar that can see through clouds. (ICESat&#8217;s lasers could not penetrate clouds.) CryoSat&#8217;s orbit was also designed to give better coverage of the Arctic sea.<br />…<br />&#8220;Before CryoSat, we could see summer ice coverage was dropping markedly in the Arctic,&#8221; said Rapley. &#8220;But we only had glimpses of what was happening to ice thickness. Obviously if it was dropping as well, the loss of summer ice was even more significant. We needed to know what was happening – and now CryoSat has given us the answer. It has shown that the Arctic sea cap is not only shrinking in area but is also thinning dramatically.&#8221;<br /><a href="http://image.guardian.co.uk/sys-images/Observer/Pix/pictures/2012/08/11/gu_ice_extension-01.jpg">Graphic: shrinking ice caps</a></p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/sea-ice-in-the-arctic-and-new-data-from-cryo-sat-2.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

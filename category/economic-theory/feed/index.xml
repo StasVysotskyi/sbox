@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economic theory &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Notes Toward Economics at (or, more accurately, approaching) the Eschaton</title>
+		<link>./../../2012/12/notes-toward-economics-at-or-more-accurately-approaching-the-eschaton.html</link>
+		<comments>./../../2012/12/notes-toward-economics-at-or-more-accurately-approaching-the-eschaton.html#respond</comments>
+		<pubDate>Tue, 25 Dec 2012 06:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/notes-toward-economics-at-or-more-accurately-approaching-the-eschaton.html</guid>
+		<description><![CDATA[No, not Dr. Black’s blog.  The real eschaton: the end of everything.  Or, in this case, its economics equivalent: the point at which almost all human work is no longer necessary but human beings still exist. The scenario is a simple one.  There are x humans on Earth (x>>1).  Self-repairing, recycling machines can provide all [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, not <a href="http://www.eschatonblog.com/">Dr. Black’s blog</a>.  The <em>real </em>eschaton: the end of everything.  Or, in this case, its economics equivalent: the point at which almost all human work is no longer necessary but human beings still exist.
+<p>The scenario is a simple one.  There are x humans on Earth (x>>1).  Self-repairing, recycling machines can provide all the needs and wants of those x people and then some.*  There is only one job humans need to do: every day, one person needs to press one button once&#8211;during a specific time period—to start the self-rebuilding and repairing of the machines.</p>
+<p>Applying basic micro and macro economic theories, and assuming a money-using society, we can come to several stylized facts:</p>
+<ol>
+<li>This is the true case where Chamley (1995, 1996) applies.  The only capital created is exactly that that replaces current capital.  With no new capital, the effective tax rate on capital should be 0%.**     </li>
+<li>The requirement that someone presses the button has two aspects:</li>
+<ol>
+<li>It is not required to be skilled labor</li>
+<li>It is, however, essential labor</li>
+</ol>
+<li>In standard economic theory, the laborer is paid hisser Marginal Product</li>
+<ol>
+<li>The pressing of the button provides all of the goods to everyone for that day; since there is no MPK in this scenario, the MPL should equal the net profits from that day.</li>
+<li>Pressing the button requires the laborer to choose to do the job instead of something more pleasant; therefore, they must be compensated to provide at least as much Utility as not pushing the button would provide them</li>
+<li>For a sufficiently large population x, there may well be people who will not press the button in their lifetimes.  For even relatively large x, there will be people who will press the button less frequently than they will need to buy goods.</li>
+<ol>
+<li>In either of those scenarios—unless we consider Malthusian constraints necessary in a time of abundant plenty—any equilibrium condition will require that each person and any of hisser dependents be supported s.t. AD does not decline.</li>
+</ol>
+</ol>
+</ol>
+<p>The natural scenario for button-pushing selection is by lottery, which would also minimize the substitution effect. Some constraints would be required: may not repeat for at least z days, cannot sell/buyout of doing the job (though some intraweek switching possible), backup available in case of illness,*** etc.</p>
+<p>What is interesting is the tax rate <em>t</em> required.  It is fairly easy to show that for even moderate populations, <em>t </em>must approach 100% if the laborer is indeed receiving the day’s MPL.****  This is in part because, since no new capital is being created, tax revenues from capital must approach 0%.</p>
+<p>The problem then becomes one of Game Theory.  We know what the Final State must be if all activity leading up to it is rational.  The next question is how we get there.  But that will have to be deferred to my next post.</p>
+<p>Enjoy the Holiday.</p>
+<p> </p>
+<p>*Excess capacity needs to be assumed if you assume humans are still breeding; that is, an additional y babies (y<<x) will neither strain resources nor have more than a marginal effect on AD.</p>
+<p>**It is caddish of me to note that Chamley’s brilliant realization that has been the underpinning of several decades of freshwater economic theory is, of course, completely reflected in the U.S. tax code, where investment is offset directly by depreciation.</p>
+<p>***Anyone who designs a non-redundant system with a Single Point of Failure should be shot. The applicability of this to economic models, and most especially microeconomic models, is left as an exercise to the reader.</p>
+<p>****It is also intuitive that a large consumption tax would not be a reasonable substitute for such an income tax; even a “luxury tax” presents significant timing issues for even a small population.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/notes-toward-economics-at-or-more-accurately-approaching-the-eschaton.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Which (macro)-economists are worth listening to?</title>
+		<link>./../../2012/08/which-macro-economists-are-worth-listening-to.html</link>
+		<comments>./../../2012/08/which-macro-economists-are-worth-listening-to.html#respond</comments>
+		<pubDate>Fri, 10 Aug 2012 09:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econblogging]]></category>
+		<category><![CDATA[economic policy]]></category>
+		<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[Jonathon Portes]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/which-macro-economists-are-worth-listening-to.html</guid>
+		<description><![CDATA[One could add a few names, and people did in comments.  One could also add a couple more thoughts  to Jonathon&#8217;s criterion, two of which could be admitting to mistakes and fixing parts of the model one is using if missed called, and a caveat around whether an economist could explain his/her model well and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>One could add a few names, and people did in comments.  One could also add a couple more thoughts  to Jonathon&#8217;s criterion, two of which could be admitting to mistakes and fixing parts of the model one is using if missed called, and a caveat around whether an economist could explain his/her model well and clearly after the biggest financial event in the world and history occurred (maybe not paying public attention?).</div>
+<p>Jonathon Portes (micro) at  <i>Not the Treasury View</i> asks:<br />
+<blockquote><a href="http://notthetreasuryview.blogspot.co.uk/2012/07/which-macro-economists-are-worth.html">Which (macro)-economists are worth listening to?</a><br />This post relates to the ongoing blog debate on &#8220;the state of macroeconomics&#8221;, which I contributed to<a href="http://notthetreasuryview.blogspot.co.uk/2012/06/macroeconomics-what-is-it-good-for.html"> here</a>, and which has drawn in a whole host of economics bloggers who know far more about modern macroeconomic theory than I do.  However, here I want to address a related, more mundane question, but one which is perhaps more relevant to most non-economists&#8217; concerns.   That is,  when economists argue about the correct stance of policy, who should we (policymakers, commentators, and the general public) listen to?</p>
+<p>This question was prompted by a recent exchange I had with Ed Vaizey and Simon Hughes on the BBC&#8217;s Daily Politics: I pointed out that not only was the government&#8217;s decision in 2010 to cut the deficit too quickly doing considerable economic damage, but that this was both predictable and predicted by economists such as <a href="http://krugman.blogs.nytimes.com/2010/06/06/lost-decade-here-we-come/">Paul Krugman </a>and <a href="http://www.ft.com/cms/s/0/fc8d1dd4-78b6-11df-a312-00144feabdc0.html#axzz21NXABN3e">Martin Wolf</a>. Their response was essentially &#8220;how were we to know which economists to listen to? Others were saying the opposite&#8221;.</p>
+<p>This is a fair question.  My answer to it is that policymakers and the public should listen to economists who fulfill two critera: first, they have made empirically testable predictions (conditional or unconditional &#8211; see Krugman <a href="http://krugman.blogs.nytimes.com/2012/07/28/types-of-prediction/">here</a>) that have proved, by and large, to be broadly consistent with the data; and second, they base those predictions on an analytic framework (not necessarily a formal model) that is persuasive.  In other words, getting it right alone is not enough; it should be possible to show your workings &#8211; to explain why you got it right. Otherwise, your predictions may be interesting, but they tell you little about how to formulate policy.  (bolding mine&#8230;Rdan)<a name="more"></a><br />My shortlist (apologies in advance to those I&#8217;ve omitted) of economists commenting on macroeconomic policy who I think qualify is something like the following:
+<ul>
+<li><a href="http://krugman.blogs.nytimes.com/2009/05/02/liquidity-preference-loanable-funds-and-niall-ferguson-wonkish/">Krugman</a>, <a href="http://www.ft.com/cms/s/0/f74bb844-9369-11df-bb9a-00144feab49a.html#axzz222aqYe17">Delong</a> and Wren-Lewis on fiscal policy when interest rates are at the zero lower bound;</li>
+</ul>
+<ul>
+<li>Adam <a href="http://www.bankofengland.co.uk/publications/Documents/speeches/2010/speech449.pdf">Posen</a> on monetary policy when interest rates are at the zero lower bound;</li>
+</ul>
+<ul>
+<li><a href="http://www.bloomberg.com/news/2010-05-13/euro-has-no-future-without-a-political-union-commentary-by-paul-de-grauwe.html">Paul de Grauwe</a> on sovereign and eurozone debt;</li>
+</ul>
+<ul>
+<li><a href="http://www.ft.com/cms/s/0/fc8d1dd4-78b6-11df-a312-00144feabdc0.html#axzz21NXABN3e">Martin Wolf</a> on private sector savings and public sector deficits (the financial balance approach);</li>
+</ul>
+<ul>
+<li><a href="http://www.businessinsider.com/richard-koo-recession-2010-4?op=1">Richard Koo</a> on the implications of a &#8220;balance sheet recession&#8221;</li>
+</ul>
+</blockquote>
+<p><a href="http://www.blogger.com/blogger.g?blogID=5048766" name="more"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/which-macro-economists-are-worth-listening-to.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>EITC: Mulligan (economic theory) vs. Seto (empirical evidence)</title>
+		<link>./../../2012/05/eitc-mulligan-economic-theory-vs-seto-empirical-evidence.html</link>
+		<comments>./../../2012/05/eitc-mulligan-economic-theory-vs-seto-empirical-evidence.html#respond</comments>
+		<pubDate>Fri, 25 May 2012 09:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[EITC]]></category>
+		<category><![CDATA[empirical evidence]]></category>
+		<category><![CDATA[Linda Beale (Tax law)]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/eitc-mulligan-economic-theory-vs-seto-empirical-evidence.html</guid>
+		<description><![CDATA[by Linda BealeEITC: Mulligan (economic theory) vs. Seto (empirical evidence) TaxProf today noted the article in the New York Times about the EITC: Casey Mulligan, Do Tax Credits Encourage Work? New York Times ( 2012). Mulligan, an econ prof at the University of Chicago (home, of course, to Milt Friedman&#8217;s &#8220;free&#8221; market theories) noted that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Linda Beale<br />EITC: Mulligan (economic theory) vs. Seto (empirical evidence)</p>
+<p><a href="http://taxprof.typepad.com/taxprof_blog/2012/05/mulligan-the-eitc.html">TaxProf </a>today noted the article in the New York Times about the EITC: Casey Mulligan, <a href="http://economix.blogs.nytimes.com/2012/05/23/do-tax-credits-encourage-work/">Do Tax Credits Encourage Work?</a> New York Times ( 2012). Mulligan, an econ prof at the University of Chicago (home, of course, to Milt Friedman&#8217;s &#8220;free&#8221; market theories) noted that the EITC &#8220;could&#8221; discourage work.<br />
+<blockquote>The earned-income tax credit is often said to encourage work, but it <strong>may do just the opposite</strong>. &#8230;<br />The chart below shows the credit’s schedules for the 2011 tax year as a function of annual earned income for a given family situation (other family situations have the same basic shape). The schedule shown illustrates [a] mountain-plateau pattern &#8230; an increasing portion for the lowest incomes, a flat portion, a decreasing portion and then finally a flat portion of zero. </p>
+<p><img alt="" height="305" src="http://graphics8.nytimes.com/images/2012/05/23/business/23economist-mulligan2/23economist-mulligan2-blog480.jpg" width="525"></p>
+<p><a name="more"></a></p></blockquote>
+<p>
+<blockquote>&#8230; For the same reasons that the credit encourages more work among people who might otherwise earn close to zero during a year, it <strong>can</strong> also influence some people to work less — those with earnings at or slightly above the downward-sloping or “phase-out” portion of the schedule, where people lose about 20 cents of their credit for every additional dollar earned during a year. In other words, for households on the downward-sloping portion of the earned-income tax credit schedule, the credit acts as an extra 20% tax on the income they earn in that range. The work-encouraging potential of the credit occurs only on the upward-sloping portion. &#8230; [emphasis added]</p></blockquote>
+<p>Now, Mulligan surely knows that this theory about whether the credit encourages or discourages work is just that&#8211;a theory. Much of the assumptions about when people will stop working and substitute leisure don&#8217;t seem to hold up in practice, partly because there are so many other factors at work besides the rather simplistic assumptions in freshwater economics (such as the joy of working, status of work, self-esteem of work, etc.). Nonetheless, Mulligan can&#8217;t help adding another line that makes the overall comment suggest that he thinks the EITC will on the whole discourage work.<br />[I]t is more common for families to be on the part of the earned-income tax credit where it acts as a tax, rather than a reward to additional work. <br /><a href="http://www.blogger.com/"></a><br />Of course, when economists talk, policy makers often listen. This is a good example of when they should say&#8211;huh? and get a second opinion. What we should care about as a tax policy matter&#8211;which, I remind you, is distinct from what we might care about purely as a question of economic &#8220;efficiency&#8221;&#8211;is whether the EITC will generally work to encourage those who otherwise have tended to be left out of the work force but should be in it and whether the potential negative effect at the drop-off would be likely to be genuinely detrimental to that group or rather impact groups for whom the difference may not matter so much.<br />Ted Seto, a fellow tax prof in sunny California, commented on the Tax Prof item to point out the important <strong>empirical</strong> evidence that the EITC is mostly working as we want it to. <br />For a useful summary of recent empirical work, see Nada Eissa &#038; Hilary W. Hoynes, <a href="http://www.nber.org/chapters/c0063.pdf">Behavioral Responses to Taxes: Lessons from the EITC and Labor Supply</a>, published in 2006 by NBER&#8230;<br />
+<blockquote>&#8220;The overwhelming finding of the empirical literature is that EITC has been especially successful at encouraging the employment of single parents, especially mothers. There is little evidence, however, that the EITC has reduced the hours worked by those already in the labor force. The empirical literature on married women is somewhat smaller but again consistent in its findings. The studies show that the EITC leads to modest reductions in the employment and hours worked of married women.&#8221;</p></blockquote>
+<p>The latter problem &#8212; the one area identified in which the EITC does seem to have a negative effect on paid work &#8212; is not an EITC problem at all. It&#8217;s the same secondary worker problem Ed McCaffery has written about, (Taxation and the Family: A Fresh Look at Behavioral Gender Bias in the Code, 41 UCLA LAW REVIEW 983 (1993)), and it affects secondary workers up and down the income range.<br /><a href="http://ataxingmatter.blogs.com/tax/2012/05/eitc-mulligan-economic-theory-vs-seto-empirical-evidence.html" title="http://ataxingmatter.blogs.com/tax/2012/05/eitc-mulligan-economic-theory-vs-seto-empirical-evidence.html">http://ataxingmatter.blogs.com/tax/2012/05/eitc-mulligan-economic-theory-vs-seto-empirical-evidence.html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/eitc-mulligan-economic-theory-vs-seto-empirical-evidence.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spot Effing On, as The Mainstreamers Edge Leftward</title>
+		<link>./../../2011/06/spot-effing-on-as-the-mainstreamers-edge-leftward.html</link>
+		<comments>./../../2011/06/spot-effing-on-as-the-mainstreamers-edge-leftward.html#respond</comments>
+		<pubDate>Thu, 23 Jun 2011 15:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[Barry Ritholtz]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[recovery]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/spot-effing-on-as-the-mainstreamers-edge-leftward.html</guid>
+		<description><![CDATA[We have just printed the eleventh (11th) straight week in which new jobless claims have exceeded 400,000 people. As Krugman notes, &#8220;The Fed predicts disastrously high unemployment as far as the eye can see(pdf) [a]nd, in response to this dire prospect, it declares its work done.&#8221; So this it is almost palliative that Barry Ritholtz [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We have just printed the eleventh (11th) straight week in which <em>new</em> jobless claims have exceeded 400,000 people. As Krugman <a href="http://krugman.blogs.nytimes.com/2011/06/22/profiles-in-fed-cowardice/">notes</a>, &#8220;The Fed predicts disastrously high unemployment as far <a href="http://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20110622.pdf">as the eye can see</a>(pdf) [a]nd, in response to this dire prospect, it declares its work done.&#8221;</p>
+<p>So this it is almost palliative that Barry Ritholtz <a href="http://www.ritholtz.com/blog/2011/06/fed-forecasts-puh-leeze/">writes the Quote of the Day, or perhaps the Decade</a>:<br />
+<blockquote>The sooner we recognize that the field of economics is a branch of Sociology and not Mathematics, the better off we will all be.</p></blockquote>
+<p>Anyone who has looked at the CF that Microeconomic doctrine has created over the past twenty years will not be surprised by Ritholtz&#8217;s conclusion. The question would almost be why he waited so long to say so explicitly.</p>
+<p>Other signs that people are coming around to the positions taken at this blog:
+<ol>
+<li>The gracious, even-tempered Mark Thoma <a href="http://moneywatch.bnet.com/economic-news/blog/maximum-utility/the-feds-monetary-policy-meeting-policy-stays-on-hold/1455/">has been driven to pointing out that the math, let alone the social issues, don&#8217;t work</a>:<br />
+<blockquote>I had hoped to see more acknowledgement that the current soft patch may turn out to be something more significant than a temporary aberration in the numbers, and some hint of willingness to ease further should those worries come true. But the Fed shows no such willingness, in fact as Neil Irwin <a href="https://twitter.com/#%21/Neil_Irwin/status/83580739416883200">notes</a>, the “employ its policy tools as necessary to support the economic recovery” language is gone, and the main question at this point is when the Fed might begin tightening policy by reversing QE1 and QE2 rather than when they might ease further.</p></blockquote>
+<p></li>
+<li>Brad DeLong <a href="http://delong.typepad.com/sdj/2011/06/diane-lim-rogers-confuses-republican-economists-with-ex-repubican-economists.html">channels Bruce Webb or me in talking about Diane Lim Rogers</a>:<br />
+<blockquote>Get out of the defensive crouch, Diane. If you and your peers won&#8217;t stand up and say that every single Republican presidential candidate is talking hogwash and that every economist who wants high federal office in the next Republican administration is acting like a craven coward, then you are giving them every incentive to do so.</p></blockquote>
+<p></li>
+<li>The NYT—Gretchen Morgenson, of all people—<a href="http://www.nytimes.com/2011/06/19/business/19gret.html?_r=1">notices that Executive Pay is not aligned with optimal company management, let alone shareholders</a>:<br />
+<blockquote>WHEN does big become excessive? If the question involves executive pay, the answer is “often.” &#8230;just how this paycheck stacks up against, say, a company’s earnings or stock market performance is rarely laid out.</p></blockquote>
+</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/spot-effing-on-as-the-mainstreamers-edge-leftward.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ObamaCare IS Working – That’s WHY It’s a Problem</title>
+		<link>./../../2010/10/obamacare-is-working-thats-why-its-a-problem.html</link>
+		<comments>./../../2010/10/obamacare-is-working-thats-why-its-a-problem.html#respond</comments>
+		<pubDate>Thu, 28 Oct 2010 20:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[Health Insurance]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/obamacare-is-working-thats-why-its-a-problem.html</guid>
+		<description><![CDATA[There’s a reason for this. After the (wholly justified, understated) bitterness of my last post, a moment of cheer:  An old friend of mine is in the process of losing his job. Now, normally I wouldn’t celebrate anyone—let alone a friend—losing a job, but, you see, he sells medical insurance in Texas and Indiana.  And [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There’s a reason for <a href="http://www.washingtonmonthly.com/archives/individual/2010_10/026344.php" target="_blank">this</a>.
+</p>
+<p>After <a href="http://www.angrybearblog.com/2010/10/fire-tim-geithner-then-be-one-term.html" target="_blank">the (wholly justified, understated) bitterness of my last post</a>, a moment of cheer:  An old friend of mine is in the process of losing his job.</p>
+<p>Now, normally I wouldn’t celebrate anyone—let alone a friend—losing a job, but, you see, he sells medical insurance in Texas and Indiana.  And he’s been told that over the next three years, his income will be reduced, and basically eliminated entirely ca. 2015.</p>
+<p>Translation on a macro level: insurance companies—far from acting as if they are “uncertain”—are cutting the commissions they are paying to agents in preparation for greater competition as the phases of the PPACA come into effect.</p>
+<p>We have already seen variations on this: insurance companies that will no longer write policies for only parents, because their children have other options.  Insurance companies complaining about the “cost” of having to cover basic services—you know, the <em>preventive care</em> that would seem to be implied when you call your plan a “Health Maintenance Organization” and which is covered by State Medicaid plans such as NJ FamilyCares.</p>
+<p> <a name="more"></a>
+<p>The English translation of “the market won’t support it” is “we can’t compete with our current structure.”  It is a tale told by a capitalist since the beginning of double-entry accounting, with the steel industry being a recent example of American Rebirth.) Economists us the phrase “creative destruction” to explain it, even though there is very little creative and a lot of destruction (or, in significant cases, structural shifting) that goes on at the time.</p>
+<p>“Bending the cost curve” means producing more consumer surplus. This is what competition does in economic models, primarily by cutting margins (“excess <a href="http://en.wikipedia.org/wiki/Economic_rent" target="_blank">rent</a>”) and thereby making firms allocate capital and labor more efficiently.  When your margins are large—through monopoly power, including “monopolist competition”—<a href="http://www.investopedia.com/terms/c/consumer_surplus.asp" target="_blank">consumer surplus</a> is low. Since Steve Jobs is the sexiest human being in the world, Apple products sell for higher margins than other communication/computing devices do.  This may always be so—or maybe the world will shift to Android phones, a and the Apple of five years from now will look like the Apple of 15 years ago, taking cash from Microsoft in order to survive.</p>
+<p>Health insurance is an area hasn’t had true competition—search costs are too high for most people.  (Indeed, the evil of employer-provided health insurance deductibility isn’t that it is a suboptimal allocation of resources so much as it is that that pre-tax money allows insurance companies to maintain higher margins without the consumer feeling the full cost of their loss.  It is a system that perpetuates excess rent being paid, effectively as a transfer from the government to the insurer.)  One of the first things health economists noted about Medicare Part D is that, while one had to “shop” to find an insurer, the effort required meant that very few people would then <em>switch</em>, even if the insurer later reaped excess rent.  When switching costs (consumer) are higher than menu costs (supplier), excess rent is virtually an inevitability.  (In this case, again, the American taxpayer is footing a large portion of the bill for a transfer to insurance companies.  It is impossible to believe, given the bill’s enactment process, that this was not considered a feature.)</p>
+<p>So there are multiple areas where consumer surplus is low in the health insurance industry.  Which means that many people—including my friend—have been “earning” more than they are “producing”—some of the excess rent is distributed, after all.  And, for the next few years, they will be seeing their incomes decline while people believe (as Jon Stewart said to Barack Obama last night) that PPACA will not take effect until 2014.</p>
+<p>And Obama’s reply (starting around 7:30) was spot-on:</p>
+<table height="353" cellspacing="0" cellpadding="0" width="360">
+<tbody>
+<tr valign="middle">
+<td><a href="http://www.thedailyshow.com/" target="_blank">The Daily Show With Jon Stewart</a></td>
+<td>Mon &#8211; Thurs 11p / 10c</td>
+</tr>
+<tr valign="middle">
+<td colspan="2" href="http://www.thedailyshow.com/watch/wed-october-27-2010/barack-obama-pt--2" target="_blank"><a>Barack Obama Pt. 2</a><a></a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"><a href="http://www.thedailyshow.com/" target="_blank">www.thedailyshow.com</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"></td>
+</tr>
+<tr valign="middle">
+<td colspan="2">
+<table height="100%" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr valign="middle">
+<td><a href="http://www.thedailyshow.com/full-episodes/" target="_blank">Daily Show Full Episodes</a></td>
+<td><a href="http://www.indecisionforever.com/" target="_blank">Political Humor</a></td>
+<td><a href="http://www.thedailyshow.com/videos/tag/Rally%20to%20Restore%20Sanity" target="_blank">Rally to Restore Sanity</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>So for the next few years, people such as my friend will see that the squeeze is hitting them, while the benefits haven’t reached all of the general populace.  (They have already reached <a href="http://www.nytimes.com/2010/03/31/health/policy/31health.html" target="_blank">many children</a>—<a href="http://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effective_September_23.2C_2010" target="_blank">including adult children who can’t find a job and can at least be insured by their parents</a>—and helped <a href="http://blogs.discovermagazine.com/80beats/2010/03/22/health-care-reform-passed-so-what-does-it-mean/" target="_blank">many senior citizens who were being affected by the “donut hole</a>.”)</p>
+<p>We saw this same sequence in the mid-1980s and early 1990s in the travel field—slowly at first, and then quickly as internet bookings and purchases determined solely by price became the rule. The survivors were the agencies with large corporate accounts and the ones that provided specialty (“niche”) services you couldn’t get from Travelocity and its competitors.</p>
+<p>The travel agency market existed for one reason: in the old days, it cost an airline about 16 cents of every dollar to get a seat booked.  An agent who could be paid 8-11% per ticket—with incentives for volume—was a bargain.  It was, to use the economist’s favorite cliché, a win-win situation. And the benefits of tour and hotel bookings could truly be treated as marginal cost increases, with their own revenue stream generally more than enough to justify for even a small office.</p>
+<p>But true competition—the decline in the incremental Search Costs presented to consumers by Travelocity and its competitors, followed quickly by direct booking availability directly with a specific airline—meant the end of that model, leading to industry consolidation, downsizings, and closings—just as the insurance agents are feeling the pressure now of the impending “exchanges.”</p>
+<p>And, as then, my friend noted that there are still areas that will continue to be profitable for insurance agents in 2015.  For insurance, policy service for the elderly.  (Showers of gratitude from the insurance agents to the unfunded, deficit-exploding Medicare Part D shall continue.)  Everything else will see the agents’s livelihood affected as the insurance companies try to protect their own share of the turf.</p>
+<p>He has four years to prepare, and a roadmap for change that remains valuable. And for those interested in “bending the cost curve,” the first fruits of that effort are being realized.  And people are realizing they will have to change their lifestyle and practices to deal with the new world.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/obamacare-is-working-thats-why-its-a-problem.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economists = Idiots? Part 1829</title>
+		<link>./../../2010/07/economists-idiots-part-1829.html</link>
+		<comments>./../../2010/07/economists-idiots-part-1829.html#respond</comments>
+		<pubDate>Wed, 21 Jul 2010 16:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[excess reserves]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[FRBOperations]]></category>
+		<category><![CDATA[interest rates]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[RFR]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/economists-idiots-part-1829.html</guid>
+		<description><![CDATA[It was their idea, so it&#8217;s no surprise they like paying interest on reserves, even excess reserves: For quite a while, the Fed was quite happy to have that money on its books. Indeed, the power to pay interest on reserves was considered a key tool to keep control over all the liquidity the Fed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It was their idea, so it&#8217;s no surprise they like <a href="http://blogs.wsj.com/economics/2010/07/21/ending-interest-on-reserves-wont-help-economy-much/">paying interest on reserves, even excess reserves</a>:<br />
+<blockquote>For quite a while, the Fed was quite happy to have that money on its books. Indeed, the power to pay interest on reserves was considered a key tool to keep control over all the liquidity the Fed pumped into the system during the financial crisis. The Fed wanted to see bank lending increase, but in a controlled fashion, so as not to fan the flames of an inflation surge.</p>
+<p>But as worries about the outlook have risen, the game has changed. Some see a move to drive all those reserves into the economy as a key way to produce better economic growth. Markets got to thinking Fed Chairman Ben Bernanke would indicate this as a possible path when he testifies before the Senate Wednesday and the House of Representatives Thursday on the economic and monetary policy outlook.</p>
+<p>Economists, however, think ending the interest on reserves policy would be a bad idea.</p></blockquote>
+<p>Right, because the $2,534,722.22 a year paid in interest on $1 Billion in excess reserves is a drop in the bucket for the U.S. Federal deficit.</p>
+<p>And because the risk-free rate of return that features in so many economic models should be different for intermediaries (financial institutions) than wealth-creators (businesses).</p>
+<p>And because &#8220;excess reserves&#8221; are money issued by the government which is inflationary because of the multiplier effect of money—which, of course, assumes the money is being invested. (As this money is, in taxing our tax dollars and giving them to Vikram Pandit, Ken Lewis, Lloyd Blankfein, and Jamie Dimon [in descending order of theft; YMMV].)</p>
+<p>And, of course, because that $1 Billion that is not being used in the economy would only produce about $5-8 Billion in GDP, which is roughly, what, 50,000 to 80,000 new jobs?</p>
+<p>But, of course, banks have better use for the money than potential workers.<br />
+<blockquote>[Barclays Capital’s Joseph Abate] noted much of the money that constitutes this giant pile of reserves is &#8220;precautionary liquidity.&#8221; If banks didn&#8217;t get interest from the Fed they would shift those funds into short-term, low-risk markets such as the repo, Treasury bill and agency discount note markets, where the funds are readily accessible in case of need. Put another way, Abate doesn&#8217;t see this money <em>getting tied up in bank loans or the other activities that would help increase credit, in turn boosting overall economic momentum</em>. [emphasis mine]</p></blockquote>
+<p>Oh, well, since they&#8217;re not going to lend the money anyway, we should have no trouble paying them interest on it. What is The Fed other than a mattress stuffed by tax dollars?</p>
+<p>The key phrase is &#8220;precautionary liquidity.&#8221; If you assume that the recovery started in June or July of last year,* then you would expect &#8220;excess reserves&#8221; held for &#8220;precautionary liquidity&#8221; to have declined over time, as the need for &#8220;precautions&#8221; is reduced as the economy becomes safer. But that hasn&#8217;t been the case.</p>
+<p>Choose one (or both) from: (1) the banks don&#8217;t believe the economy is recovering or (2) the banks are holding assets on their books at higher levels than they know they are worth, and are therefore using &#8220;excess reserves&#8221; to cover real losses until they can&#8217;t any more.</p>
+<p>It is unclear whether Abate sees the banks&#8217;s unwillingness to be intermediaries as a feature. But at least he knows not everyone is doing it.<br />
+<blockquote>Abate buttressed his argument that banks really just want to stay liquid by noting who is holding reserves at the Fed. He said the 25 largest U.S. banks account for just over half of aggregate reserve levels, with three by themselves making up 21% of the reserves.</p></blockquote>
+<p>So the biggest of the Too Big to Fail banks have decided not to act as financial intermediaries, preferring instead to continue feeding from the taxpayer trough (where the $25MM in interest really is a drop in the bucket) and/or pretend that they are more solvent than they really are.</p>
+<p>And, according to the Wall Street Journal, economists believe we should continue to <em>pay</em> those banks for misvaluing their assets and refusing to perform their economic function.</p>
+<p>The economic theory I learned is that capital is paid its marginal product.  The marginal product of those excess reserves is zero, while the required reserves are intended to explicitly provide &#8220;precautionary liquidity.&#8221;</p>
+<p>Unless the TBTF banks are arguing that the Fed&#8217;s current Reserve Requirements are too low—a possibility, perhaps, though <a href="http://www.ft.com/cms/s/0/40271298-9428-11df-a3fe-00144feab49a.html">the FT cites evidence contrariwise</a>—the basis of all economic and financial theory indicates that they <em>should</em> receive no interest on those reserves.</p>
+<p>An &#8220;economist&#8221; who says otherwise is either lying or selling something.</p>
+<p>*I would argue—see <a href="http://www.angrybearblog.com/2010/07/are-you-better-off-than-you-were-year.html">yesterday&#8217;s post</a>—that June 2009 is rather eliminated by the non-recovery of more than half the states&#8217;s job markets a full year later.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/economists-idiots-part-1829.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Tale of Two Countries</title>
+		<link>./../../2010/04/a-tale-of-two-countries.html</link>
+		<comments>./../../2010/04/a-tale-of-two-countries.html#respond</comments>
+		<pubDate>Fri, 30 Apr 2010 19:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/04/a-tale-of-two-countries.html</guid>
+		<description><![CDATA[The great thing about Accounting Identities is that they must be true. The bad thing about Accounting Identities is that their truth is often trivial. Tim Duy notes the reality: We can’t all be net exporters The Greek crisis…is a reminder that global imbalances are still with us &#8211; and, if not corrected, will eventually [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The great thing about Accounting Identities is that they must be true.
+<p>The bad thing about Accounting Identities is that their truth is often trivial.</p>
+<p>Tim Duy notes the reality: <a href="http://economistsview.typepad.com/timduy/2010/04/we-cant-all-be-net-exporters.html" target="_blank">We can’t all be net exporters</a></p>
+<blockquote><p>The Greek crisis…is a reminder that global imbalances are still with us &#8211; and, if not corrected, will eventually threaten the sustainability of the global recovery. Indeed, <em>how sustainable can any recovery be if the vast majority of nations are pursuing an export oriented growth strategy</em>? After all, clearly that is not a game all can play &#8211; there needs to be a net importer to offset the net exports. <strong>Who wants to fill that role</strong>? If the US is pushed into filling that role, we have simply come full circle over the past three years.</p>
+</blockquote>
+<p>There is an obvious nominee, <a href="http://d-squareddigest.blogspot.com/2010/04/thursday-music-link-day-late-if-you-put.html" target="_blank">as D-Squared noted today</a>:</p>
+<blockquote><p>If you put Oliver Wendell Holmes (&#8220;the First Amendment does not protect the right to shout &#8216;fire&#8217; in a crowded theatre&#8221;) and JM Keynes (describing Treasury anti-inflation policy in the 30s as &#8220;crying &#8216;fire, fire&#8217; in Noah&#8217;s flood&#8221;) together, does that mean that <em>German politicians talking about the inflationary consequences of a Greek bailout</em> are shouting &#8220;Fire!&#8221; in a flooded theatre?</p>
+</blockquote>
+<p>And follows that by telling the truth and shaming the Devil:</p>
+<blockquote><p>[T]he main issue the ratings agencies have is the Greek pension liability, and the main component of the austerity measures will end up being a reform of the pension system. The sovereign bond market is a curious place, where &#8220;He&#8217;s willing to cheat his own grandmother, that one&#8221;, can be a mark of the utmost probity.</p>
+</blockquote>
+<p>One of these days, economists will admit that it’s life-cycle theory, not just Modigliani-Miller, that has destroyed the profession’s foundations.  Apparently, planning for the future and accepting deferred compensation is A Bad Idea.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/04/a-tale-of-two-countries.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

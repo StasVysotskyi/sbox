@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>top blogs &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>&#034;Top X&#034; economics blogs</title>
+		<link>./../../2011/05/top-x-economics-blogs.html</link>
+		<comments>./../../2011/05/top-x-economics-blogs.html#respond</comments>
+		<pubDate>Wed, 25 May 2011 12:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econoblogs]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[top blogs]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/top-x-economics-blogs.html</guid>
+		<description><![CDATA[by Mike Kimel I recently got an e-mail from a fellow blogger asking me to link a list that blogger made of &#8220;top X&#8221; economics blogs. (And no, I will not link to the list or identify that blogger.) My response: Hi. Umm&#8230;. I looked over your list, and while there are some very good [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p>I recently got an e-mail from a fellow blogger asking me to link a list that blogger made of &#8220;top X&#8221; economics blogs.  (And no, I will not link to the list or identify that blogger.)  My response:</p>
+<blockquote><p>Hi.  Umm&#8230;.  I looked over your list, and while there are some very good blogs on it, there are also some that frankly, from what I can tell, specialize in peddling misinformation.  By that I do not mean blogs that have a perspective with which I disagree.  I tend not to agree, for example, with the folks at Marginal Revolution on many things, but they produce an excellent blog with well thought out posts and which generally get the facts right.  I myself have listed them as a daily read at Angry Bear and would recommend them to anyone.  </p>
+<p>On the other hand, your list contains four blogs that from what I can tell are more likely to state or link to &#8220;facts&#8221; that are not true.  There are also several blogs I do not recognize on the list so it is possible that there are more misinformation peddlers than that on the list.  I am very sorry, but I cannot recommend your list to anybody.  </p>
+<p>Apologies.</p>
+<p>Mike</p></blockquote>
+<p>How should one deal with those that peddle misinformation?  Your thoughts?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/top-x-economics-blogs.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bill of Rights &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Radley Balko: Optimist, not Libertarian?</title>
+		<link>./../../2009/09/radley-balko-optimist-not-libertarian.html</link>
+		<comments>./../../2009/09/radley-balko-optimist-not-libertarian.html#respond</comments>
+		<pubDate>Mon, 28 Sep 2009 19:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bill of Rights]]></category>
+		<category><![CDATA[glibertarianism]]></category>
+		<category><![CDATA[rule of law]]></category>
+		<category><![CDATA[Supreme court]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/radley-balko-optimist-not-libertarian.html</guid>
+		<description><![CDATA[Manufacturing evidence is apparently legal for prosecutors who then prosecute the case. This, at least, is the argument a couple of crooked prosecutors are making. Radley Balko is more optimistic than I am about prosecutors: If the Supreme Court&#8230;would essentially overturn Buckley and give prosecutors complete immunity, even when they conspire to convict an innocent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Manufacturing evidence is apparently legal for prosecutors who then prosecute the case.  This, at least, is the argument a couple of crooked prosecutors are making.</p>
+<p>Radley Balko is <a target="_blank" href="http://reason.com/news/show/136358.html">more optimistic than I am about prosecutors</a>:<br />
+<blockquote>If the Supreme Court&#8230;would essentially overturn Buckley and give prosecutors complete immunity, even when they conspire to convict an innocent person from the earliest stages of an investigation. The vast majority of prosecutors would never engage in such reprehensible conduct, of course. But it&#8217;s curious why professional district attorney organizations and government agencies want to protect <em>the lowly few</em> who would.</p></blockquote>
+<p>I hope he&#8217;s correct, but, if I believe Robert E. Lucas, Jr., prosecutors are Rational Actors, and therefore get rewarded by what is measured: convictions, conviction ratio, high-profile conviction, convictions for capital crimes, etc.</p>
+<p>I didn&#8217;t notice a metric for &#8220;losing when the client is innocent&#8221; on the list.  So let us hope I&#8217;m wrong and most prosecutors are less than rational.  It is, in any event, interesting to see a so-called &#8220;libertarian&#8221; website arguing that some people do not work in their own self-interest.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/radley-balko-optimist-not-libertarian.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

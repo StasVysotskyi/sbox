@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Baseline Scenario &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tune in, tune out?&#8230;seems like &#8216;toons are the thing to watch 2012</title>
+		<link>./../../2012/08/tune-in-tune-out-seems-like-toons-are-the-thing-to-watch-2012.html</link>
+		<comments>./../../2012/08/tune-in-tune-out-seems-like-toons-are-the-thing-to-watch-2012.html#respond</comments>
+		<pubDate>Sat, 18 Aug 2012 13:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 elections]]></category>
+		<category><![CDATA[Baseline Scenario]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/tune-in-tune-out-seems-like-toons-are-the-thing-to-watch-2012.html</guid>
+		<description><![CDATA[James Kwak offers a take on the election campaign so far, on how information is offered and accepted, and how &#8216;voters&#8217; choose to respond: &#8230;Democrats should be worried, because Romney and Ryan have the better debating position. Their position is simple and superficially compelling: Government is bad. (Cf. the DMV—it’s state, not federal, and the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://baselinescenario.com/2012/08/13/small-government-or-smallish-sort-of-mediumish-nicer-better-government/" target="_blank">James Kwak</a> offers a take on the election campaign so far, on how information is offered and accepted, and how &#8216;voters&#8217; choose to respond:</p>
+<blockquote><p>&#8230;Democrats should be worried, because Romney and Ryan have the better debating position. Their position is simple and superficially compelling: Government is bad. (Cf. the DMV—it’s state, not federal, and the one in Massachusetts works very well, but whatever; BATF; EPA; IRS; whatever agency your audience happens to dislike. Compare to Apple as if all private sector businesses were like Apple.) Government infringes on individual liberty. Cut down the government and we will have (a) more liberty, (b) more economic growth, and (c) lower taxes.</p>
+<p>What do the Democrats say in response? Government is good at some things and bad at some things, and needs to be leaner and more efficient. Or people need government services to succeed. (Doesn’t that sound offensive as soon as you say it, even if it’s true?) Or there’s a moral obligation to redistribute income through the tax-and-transfer system. Or government isn’t really that big when you compare it to history. So taxes should go down for some people and up for some other people.</p></blockquote>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/tune-in-tune-out-seems-like-toons-are-the-thing-to-watch-2012.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

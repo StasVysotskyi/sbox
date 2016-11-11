@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>executive compensation &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Carried Interest: prospects?</title>
+		<link>./../../2010/05/carried-interest-prospects.html</link>
+		<comments>./../../2010/05/carried-interest-prospects.html#respond</comments>
+		<pubDate>Tue, 11 May 2010 20:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[carried interest]]></category>
+		<category><![CDATA[executive compensation]]></category>
+		<category><![CDATA[Payroll Taxes]]></category>
+		<category><![CDATA[Tax]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/05/carried-interest-prospects.html</guid>
+		<description><![CDATA[by Linda Bealecrossposted at Ataxingmatter Carried Interest: prospects? At the ABA Tax Section meeting in Washington last weekend, there was surprisingly little talk about the carried interest proposal. Carried interest, for those who don&#8217;t work often in the partnership area, is the way that managers of real estate, hedge, and equity partnerships receive a generous [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Linda Beale<br />crossposted at <a target="_blank" href="http://ataxingmatter.blogs.com/">Ataxingmatter</a></p>
+<p><strong>Carried Interest: prospects?</strong></p>
+<p>At the ABA Tax Section meeting in Washington last weekend, there was surprisingly little talk about the carried interest proposal.  Carried interest, for those who don&#8217;t work often in the partnership area, is the way that managers of real estate, hedge, and equity partnerships receive a generous payment for managing the fund&#8211;usually a &#8220;2 and 20&#8221; 2% of the assets under management annually and 20% of profits fee for services.  The 20% is claimed to be gains from asset dispositions rather than services (providing a preferential rate in some cases, as well as no payroll taxation) and often has been deferred through offshoring.</p>
+<p>Various tax experts have called for taxing both the fee and carried interest as ordinary compensation subject to payroll taxes and always taxable at ordinary rates.  That proposal has been suggested in Congress at various times as a revenue raiser, but it has not yet been enacted as part of a bill, since the Senate has not included the House-passed version.  The Real Estate Roundtable has lobbied strenuously against the carried interest provision in past years and successfully joined with private equity, hedge fund, and venture capital firms to defeat the idea.</p>
+<p>There is talk now of including it in the jobs bill that Congress hopes to pass before the end of May.  See Real Estate Group PUshes to Soften &#8216;Carried Interest&#8217; Tax Rise, Bloomberg, May 8, 2010.  Naturally, lobbyists are busy trying to eliminate or modify the provision.  The head of the Real Estate Roundtable noted that the group is arguing for a &#8220;blended&#8221; tax rate that would provide a rate between the capital gains preference and ordinary rates, or a provision that would apply the capital gains rates for gains from investments that the partnership holds for at least 2 years.  A spokesperson for the National Venture Capital Association siad that &#8220;we&#8217;re not accepting this as a fait accompli&#8230;we have not waived from our position.&#8221;  Id.<br /><a name="more"></a><br />The argument for taxing the carried interest of &#8220;profits&#8221; partners as compensation income, however, is strong: there is little justification for further complicating the Code with blended rates or a new long-term holding period for the capital gains rate.  These managers should pay tax at ordinary rates and should also be liable for the ordinary payroll taxes on their full compensation income.  Sure, they won&#8217;t like it and they &#8220;won&#8217;t waiver&#8221; from trying to push the Senate to ensure their cozy deal.  But that is not a satisfactory argument for failing to make this change which is required for fairness&#8217; sake.</p>
+<p>(2 and 20 corrected by Rdan)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/05/carried-interest-prospects.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chamber of Commerce &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Fine Print (Supreme Court and lawsuits, class action)</title>
+		<link>./../../2011/04/the-fine-print-supreme-court-and-lawsuits-class-action.html</link>
+		<comments>./../../2011/04/the-fine-print-supreme-court-and-lawsuits-class-action.html#respond</comments>
+		<pubDate>Thu, 28 Apr 2011 22:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Beverly Mann (Supreme court)]]></category>
+		<category><![CDATA[Chamber of Commerce]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/the-fine-print-supreme-court-and-lawsuits-class-action.html</guid>
+		<description><![CDATA[by Beverly Mann The Fine Print It’s hardly a secret that Chamber of Commerce types have co-opted a bare majority of the Supreme Court as their proxy in their war against business litigation, and that the most potent categorical weapons are arbitration as a forced substitute for lawsuits and the effective elimination of class actions. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Beverly Mann</strong></p>
+<p><strong>The Fine Print</strong> </p>
+<p>It’s hardly a secret that Chamber of Commerce types have co-opted a bare majority of the Supreme Court as their proxy in their war against business litigation, and that the most potent categorical weapons are arbitration as a forced substitute for lawsuits and the effective elimination of class actions.  </p>
+<p>In a manipulative, far-reaching opinion that the Court issued Monday, the five corporate proxies killed both birds with one stone.  </p>
+<p>The stone was thrown in a lawsuit by a California AT&#038;T cell-phone service customer who signed a service contract with the company and received what the company said was a free phone but for which the customer later was billed $30 in sales tax—the sales tax on the regular retail price of the phone.  </p>
+<p>The contract, like virtually all consumer contracts and many other types of non-negotiable standard contracts between a business and a customer or client, or between an employer and employee, includes an arbitration provision.  The provision waives the right to sue, and provides that any disputes be resolved instead in arbitration, a setup in which the business pays the arbitrator and, as a wink-and-nod practical matter, will use that arbitrator again in other arbitrations, or not, depending on, well … you know.  The blindfolded lady holding the evenly-balanced scales of justice isn’t around.</p>
+<p>Update: (Dan here&#8230;. From Scotusblog <a target="_blank" href="http://www.scotusblog.com/case-files/cases/att-mobility-v-concepcion?wpmp_switcher=desktop">AT&#038;T Mobility v. Concepcion (No. 09-893)</a>, and <a target="_blank" href="http://www.supremecourt.gov/opinions/10pdf/09-893.pdf">the Court&#8217;s opinion is here</a></p>
+<p><a name="more"></a></p>
+<p>The arbitration provision in AT&#038;T’s form contract, like the form contracts of many other large corporations or firms, doesn’t just require a waiver of the right to sue.  It also bars class arbitrations.  It requires, in other words, that each customer who claims to have been defrauded out of a small amount of money proceed through arbitration independently of every other victim of the alleged scam—and, as a practical matter, because the amount is so small, without an attorney. </p>
+<p>The Federal Arbitration Act of 1925 requires courts to honor arbitration clauses—that is, to dismiss lawsuits when the business defendant asks the court to do that on the basis of the arbitration clause.  But the FAA includes a provision that allows courts to invalidate the arbitration clause under “generally applicable contract defenses.”  Such as that the contract was signed under duress, or that one of its provisions is unconscionable as a matter of public policy (usually because one party had no bargaining power and could play no role in deciding the terms of the contract, and the provision is unfair to that party).  Normally, contract law, including these defenses to enforcement of contracts, is a matter of state law, not federal law.  So usually it is state law that determines the circumstances under which a court can invalidate an arbitration clause and allow the customer, the securities-firm client, the employee, to sue in a real court.</p>
+<p>Or was. </p>
+<p>At the center of the Supreme Court case was a 2005 California Supreme Court opinion that interpreted two state statutes.  The California court construed those statutes as providing that if three conditions are met, the unconscionability defense can be used to void the part of an arbitration provision that waives the right to arbitrate as a class in California.  </p>
+<p>The three conditions are that the agreement be a standard-form contract without negotiation (known as a contract of adhesion), that the disputes probably will involve small amounts of money, and that the party who wants the contract provision voided is alleging a scheme to defraud.  In its opinion Monday, Scalia, writing for the majority, said this conflicts with the purpose of the FAA, which—he said—was to encourage arbitration agreements and to ensure a quick, easy process.  Breyer, though, writing for the four dissenters, pointed out that Congress’s actual stated purpose was to require courts to treat arbitration agreements as contracts, for the purposes of enforcing them and, when required under contract law, voiding them—and that that is what the text of the FAA says. </p>
+<p>Scalia also said that class arbitration defeats the purpose of arbitration.  Which I suppose is true if the purpose of arbitration, or at least arbitration as the only option under law, is to undermine any real threat of meaningful penalty for corporate wrongdoing.  </p>
+<p>But Scalia claims a different for purpose for arbitration: to provide a simplified, quick process.  He complains that class arbitration complicates the process.  Which, as Breyer notes, it does, but says, “So what?” The purpose of arbitration is to provide a quicker, simpler process than full litigation.  Which class arbitration does, since it replaces not individual litigation but class litigation.  </p>
+<p>Breyer doesn’t take the next step, though.  But someone should, soon.  The Court’s majority interprets the FAA as allowing contracts of adhesion to remove the right to litigate as a class although class litigation otherwise would be appropriate.  And the majority interprets the FAA as allowing those contracts to remove the right to arbitrate as a class when class litigation would be appropriate.  This seems, I think, to raise questions about the constitutionality of this statute, now that the Court has said the purpose of it was not simply to require courts to treat arbitration provisions as contracts under normal contract law but rather to allow a party to a contract of adhesion to strip courts of their authority to void those provisions, contract law notwithstanding.  </p>
+<p>If Congress’s purpose was not to allow parties of relatively equal bargaining power to negotiate a contract that provided for arbitration, but was instead to remove access to the court system, independent of contractual rights—and if that is now the statute’s effect—it would seem that the statute itself violates basic constitutional precepts of due process of law. The Court’s majority’s new conflation of arbitration law and class action law, and their imposition of their own surprisingly-undisguised policy preferences as law, appears designed to do exactly that. </p>
+<p>crossposted at <a target="_blank" href="http://annarborist.blogspot.com/2011/04/fine-print.html">The Annarborist</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/the-fine-print-supreme-court-and-lawsuits-class-action.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Brazil &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>How do you get it right?…</title>
+		<link>./../../2011/12/how-do-you-get-it-right.html</link>
+		<comments>./../../2011/12/how-do-you-get-it-right.html#respond</comments>
+		<pubDate>Fri, 02 Dec 2011 15:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Brazil]]></category>
+		<category><![CDATA[international trade]]></category>
+		<category><![CDATA[Trade Balance]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/12/how-do-you-get-it-right.html</guid>
+		<description><![CDATA[Mike&#8217;s response to a short note from me I lifted and summarized from an advertisement/advice for investors on Brazil. Mike&#8217;s response below the fold: Today, Brazil moved aggressively to ensure that the widening global financial crisis will not reach its shores, taking several measures to stimulate consumption and investment in the world&#8217;s seventh largest economy. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Mike&#8217;s response to a short note from me I lifted and summarized from an advertisement/advice for investors on Brazil.  Mike&#8217;s response below the fold:<br />
+<blockquote>
+<p>Today, Brazil moved aggressively to ensure that the widening global financial crisis will not reach its shores, taking several measures to stimulate consumption and investment in the world&#8217;s seventh largest economy. Finance Minister Guido Mantega estimates that the moves will help Brazil&#8217;s GDP reach 5 percent next year.</p>
+<p>The following will take effect immediately: <a name="more"></a> </p>
+<p>&#8211; Producers of 8,500 manufactured products will receive tax credits of up to 3% for sales abroad</p>
+<p>&#8211; The IOF transaction tax will be eliminated on foreign purchases of Brazilian stocks (previously 2%) and on corporate bonds with maturities of more than four years (previously 6%)</p>
+<p>&#8211; Stock receipts of Brazilian companies traded abroad, such as American Depositary Receipts (ADRs), will be cancelled</p>
+</p>
+</blockquote>
+<p>In fairness, Brazilian trade policy has often been poorly designed and managed even worse.  When I was growing up there were 500% tariffs on imported electronic goods, the idea being to protect the burgeoning Brazilian electronics and computer industries.  (Needless to say, it didn&#8217;t work.)  </p>
+<p>On the flip side, protection of aircraft has led to Embraer making some pretty good planes. Similarly, as I noted before (this isn&#8217;t exactly trade policy, but it is economic policy) actions by the Brazilian government in the late 1970s, 1980s and 1990s are responsible for the fact that a Brazilian can walk into a car dealership today and buy a tri-flex vehicle that runs on any combination of gasoline, ethanol or natural gas.   I doubt Americans will be able to do the same thing before my 17 month old son is able to drive, and perhaps not for decades later.</p>
+</p>
+<p>The trick, I guess, is&#8230;  how do you get it right?  To come back to the US, how do you increase the ratio of Arpanets to Solyndras?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/12/how-do-you-get-it-right.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

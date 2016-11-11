@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Berkshire Hathaway &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Bain Capital vs. Berkshire Hathaway**</title>
+		<link>./../../2012/05/bain-capital-vs-berkshire-hathaway.html</link>
+		<comments>./../../2012/05/bain-capital-vs-berkshire-hathaway.html#respond</comments>
+		<pubDate>Mon, 21 May 2012 18:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bain Capital]]></category>
+		<category><![CDATA[Berkshire Hathaway]]></category>
+		<category><![CDATA[Cory Booker]]></category>
+		<category><![CDATA[Matthew Yglesias]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/bain-capital-vs-berkshire-hathaway.html</guid>
+		<description><![CDATA[Matthew Yglesias channels … me! Yep, that&#8217;s right.  And now that, as Yglesias discusses, Newark Mayor Cory Booker has given the Obama campaign permission to explain the differences between the various types of venture capital “models” (as Yglesias calls them), conceding that, yes, that may really be more relevant to the key issues in the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>Matthew Yglesias <a href="http://www.angrybearblog.com/2012/05/steven-rattner-misses-point-romneys-and.html">channels … me</a>!
+</p>
+</div>
+<div></div>
+<div>Yep, <a href="http://www.slate.com/blogs/moneybox/2012/05/21/with_walkback_corey_booker_has_it_right_on_private_equity.html">that&#8217;s right</a>.  And now that, as Yglesias discusses, Newark Mayor Cory Booker has given the Obama campaign permission to explain the differences between the various types of venture capital “models” (as Yglesias calls them), conceding that, yes, that may really be more relevant to the key issues in the campaign than Obama’s earlier relationship with Jeremiah Wright, I strongly urge the Obama campaign to do that—in detail, with as much specificity as is necessary to illustrate it. 
+</p>
+</div>
+<div></div>
+<div>In my earlier post, I mentioned the distinction between, say, the funding-of-Silicon-Valley-startups venture capital model and the leveraged-buyout-to-extract-value-and-then-close-the-company model that Bain engaged in (apparently) regularly when Romney headed it.  Yglesias doesn’t mention the former but contrasts the latter with the genuine-turnaround model, which is the model that Bain and Romney claim was (and Bain claims, is)** theirs. 
+</p>
+</div>
+<div></div>
+<div>Yglesias is right to point out that the genuine-turnaround model is distinct from the extract-value-and-then-close-the-company one.  But I think there’s also a distinction between the leveraged-buyout-to-extract-value-and-then-close-the-company model that Bain engaged (and, I assume, still engages) in, in which the intent is to “flip” the company as soon as possible, and the (to my knowledge) Berkshire Hathaway model, in which the venture capital firm, fund or holding company invests in companies, long-term, including buying some companies outright with the intent to actually own them for the foreseeable future.  (<a href="http://en.wikipedia.org/wiki/Berkshire_Hathaway">From Wikipedia</a>: “Berkshire Hathaway Inc. … is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States, that oversees and manages a number of subsidiary companies.”)</div>
+<div></div>
+<div>Surely there are differences between the decisions a Bain-like company makes <i>vis-à-vis</i> the businesses it acquires in order to flip quickly for large profits and a Berkshire Hathaway-like firm whose interest in the acquired business is long-term, because the very purpose of the investment is different.  Those differences matter.  A lot, I would think.
+</p>
+</div>
+<div></div>
+<div>As for Booker, his short-term interest seems analogous to the Bain venture-capital model.  Yglesias says he&#8217;s receiving quite a bit of campaign funding from finance types. Including, presumably, those of the Bain model.  (Or maybe Booker just doesn&#8217;t recognize the distinction.)*</p>
+<p>&#8212;-<br />*This parenthetical was added after the original posting.</p>
+<p>**This parenthetical was corrected for clarity.</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/bain-capital-vs-berkshire-hathaway.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

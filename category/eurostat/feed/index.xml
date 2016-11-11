@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eurostat &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The NY Times Is Misleading. And Who Is Correct? Eurostat or China Customs?</title>
+		<link>./../../2012/08/the-ny-times-is-misleading-and-who-is-correct-eurostat-or-china-customs.html</link>
+		<comments>./../../2012/08/the-ny-times-is-misleading-and-who-is-correct-eurostat-or-china-customs.html#respond</comments>
+		<pubDate>Mon, 20 Aug 2012 09:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurostat]]></category>
+		<category><![CDATA[exchange rates]]></category>
+		<category><![CDATA[global trade]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/the-ny-times-is-misleading-and-who-is-correct-eurostat-or-china-customs.html</guid>
+		<description><![CDATA[The NY Times Is Misleading. And Who Is Correct? Eurostat or China Customs? by Rebecca Wilder The NY Times reports quite a dire situation as regards the slump in the value of Chinese exports to the European Union in July: Data published this month showed that China’s exports to the European Union had sunk 16.2 percent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h3>The NY Times Is Misleading. And Who Is Correct? Eurostat or China Customs?</h3>
+<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a> </p>
+<p><a href="http://www.nytimes.com/2012/08/17/business/global/europes-problems-squeeze-chinese-trade-outlook.html?partner=rss&#038;emc=rss">The NY Times</a> reports quite a dire situation as regards the slump in the value of Chinese exports to the European Union in July:<br />
+<blockquote><em>Data published this month showed that China’s exports to the European Union had <strong>sunk 16.2 percent</strong> in July to $29.4 billion, compared with July 2011.</em></p></blockquote>
+<p>This statistic (bolded by yours truly) is misleading.</p>
+<p>First, China Customs measures exports in nominal dollars. If you look at Chinese exports measured in, let’s say euros, it doesn’t look quite as bad. In July, exports to the European Union (EU 27) dropped -3.6% over the year measured in euros versus a -16.2% annual decline measured in dollars. The dollar appreciated against the euro over the measurement period so the drop in China’s exports to the EU 27 is much lower in euros.</p>
+<p><em>Note: This is only an approximation since I use the average monthly exchange rate, which is unlikely to align perfectly with China Customs’ measurement period.</em><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/08/china_exports_eu_chart1.jpg"><img alt="" height="354" src="http://www.economonitor.com/rebeccawilder/files/2012/08/china_exports_eu_chart1.jpg" width="477"></a></p>
+<p><a name="more"></a></p>
+<p>An interesting corollary to the FX impact on ‘value’ statistics is the various statistical agencies that report presumably the same statistic. Eurostat publishes import data by partner and in euros. Using the average exchange rate over the month, I calculate the value of EU 27 imports from China reported in dollars for comparison to the China Customs data. Eurostat data is available only through June.<br />In June, Eurostat reports that EU 27 imports from China dropped -11.1% measured in dollars compared to the reported -1.1% annual reduction in exports from China to the EU 27 by China Customs. Clearly the trend is downward; but the Eurostat data only loosely matches the China Customs data. Balance of payments statistics are subject to large ”errors and omissions”.</p>
+<p><em>Note: In the chart below, Eurostat data is illustrated in the series “EU imports from China”, while China Customs data is illustrated in the series “Exports to EU”.</em><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/08/CHINA_EU_STATS.jpg"><img alt="" height="354" src="http://www.economonitor.com/rebeccawilder/files/2012/08/CHINA_EU_STATS.jpg" width="477"></a></p>
+<p>So who’s right? Eurostat or China Customs? Part of the differentiation involves the timing of the FX moves (remember I use the monthly averages); but that is unlikely the full story here. I’d err on the side of Eurostat, and notice the trend looks pretty bad no matter who’s estimating the trade data.</p>
+<p><em><strong>Rebecca Wilder</strong></em><br /><em><strong><br /></strong></em>cross posted with <strong> </strong>The Wilder View&#8230;Economonitors</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/the-ny-times-is-misleading-and-who-is-correct-eurostat-or-china-customs.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It’s the Exchange Rate, Stupid</title>
+		<link>./../../2012/08/its-the-exchange-rate-stupid.html</link>
+		<comments>./../../2012/08/its-the-exchange-rate-stupid.html#respond</comments>
+		<pubDate>Sun, 19 Aug 2012 14:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[euro area]]></category>
+		<category><![CDATA[Eurostat]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/its-the-exchange-rate-stupid.html</guid>
+		<description><![CDATA[by Rebecca Wilder It’s the Exchange Rate, Stupid Eurostat released trade figures today, where the trade balance (exports less imports) surged €3.7 bn in the month of June (link to the .pdf release). The current figures imply a 2012 annualized trade balance of €66.9 bn, which is a meaningful boost to the -€7.4 bn deficit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a></p>
+<p>It’s the Exchange Rate, Stupid</p>
+<p>Eurostat released trade figures today, where the trade balance (exports less imports) surged €3.7 bn in the month of June (<a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/6-17082012-AP/EN/6-17082012-AP-EN.PDF">link to the</a> .pdf release). The current figures imply a 2012 annualized trade balance of €66.9 bn, which is a meaningful boost to the -€7.4 bn deficit in 2011.</p>
+<p>Eurostat breaks down the regional figures further into intra-Euro area (intra-EA) trade and extra-Euro area (extra-EA) trade.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/08/table_tb.jpg"><img alt="" height="100" src="http://www.economonitor.com/rebeccawilder/files/2012/08/table_tb.jpg" width="600"></a></p>
+<p> Out of the EA 16, June intra-EA figures are available for just a few countries. Of those countries, the intra-EA trade balance improved in Portugal only, increasing by 0.26 ppt as a share of GDP on the month. From June 2011 to June 2012, where available, otherwise June 2011 to May 2012 (see Table above), the intra-EA rebalancing – i.e., roughly raising the balance of the net-importers and reducing the surplus of the net-exporters – has occurred to a certain degree. Net trade as a share of country GDP fell in Germany, and rose in Italy, Spain, Greece, and Portugal. France and Ireland worsened their positions, while the Netherlands increased its large trade surplus of 25.1% of GDP over the year.</p>
+<p><img alt="" height="539" src="http://www.economonitor.com/rebeccawilder/files/2012/08/IEA_trade.jpg" width="604"><br /><a name="more"></a></p>
+<p> Except in Portugal and Greece, the intra-EA ‘rebalancing’ is either not necessarily required due to the relatively low imbalances, Spain or Germany, or moving in the wrong direction, France or the Netherlands.<br />June extra-EA figures are available for all countries. With the help of the real depreciation of the trade-weighted euro over the month, the extra-EA trade balance improved in June across all EA 16 countries except for Ireland, where it fell by 0.2 ppt of GDP. Over the year through June, all countries except the Netherlands saw an improvement in the trade balance as a share of GDP (see Table above).</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/08/EEA_trade.jpg"><img alt="" height="468" src="http://www.economonitor.com/rebeccawilder/files/2012/08/EEA_trade.jpg" width="600"></a></p>
+<p> Given the strong positive momentum in extra-EA net trade and the sluggish shift in intra-EA net trade, I conclude that it’s the depreciation of the real exchange – the 12.7% nominal depreciation of the euro against the dollar, for example, and/or falling relative price levels with extra-EA economies &#8211; that’s the primary driver of the improving trade balances in key periphery markets. With the strong exception of Portugal, where the intra-EA balance improved by 2.6 ppt of GDP over the year, the internal (infernal) devaluation of repressing wages through high unemployment has mixed results at best.</p>
+<p>Rebecca Wilder</p>
+<p>Note: I understand the imbalances lie in the financial accounts as well but this post is dedicated to trade only.<br />A point on the data: all numbers are seasonally adjusted.</p>
+<p>cross posted with The Wilder View&#8230;Economonitors</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/its-the-exchange-rate-stupid.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Euro area inflation: gaining momentum below the hood</title>
+		<link>./../../2011/05/euro-area-inflation-gaining-momentum-below-the-hood.html</link>
+		<comments>./../../2011/05/euro-area-inflation-gaining-momentum-below-the-hood.html#respond</comments>
+		<pubDate>Mon, 16 May 2011 14:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurostat]]></category>
+		<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/euro-area-inflation-gaining-momentum-below-the-hood.html</guid>
+		<description><![CDATA[Today Eurostat released April 2011 inflation for the Euro area. Prices are increasing at a 2.8% annual pace, up from 2.7% in March and very much above the ECB&#8217;s comfort zone of around but slightly below 2%. Today&#8217;s report is the second release and includes the cross section of price gains below the headline number. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today <a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-16052011-BP/EN/2-16052011-BP-EN.PDF">Eurostat released </a>April 2011 inflation for the Euro area. Prices are increasing at a 2.8% annual pace, up from 2.7% in March and very much above the ECB&#8217;s comfort zone of around but slightly below 2%.</p>
+<p>Today&#8217;s report is the second release and includes the cross section of price gains below the headline number. The first &#8216;flash&#8217; estimate does not specify the breakdown.</p>
+<p><strong>Inflation&#8217;s hitting all sectors, goods (primarily) and services alike, via inputs to production.</strong></p>
+<p><a href="http://3.bp.blogspot.com/-omfYf3w6SNw/TdEvxuppCqI/AAAAAAAADnU/hXPqz6FohW0/s1600/inflation_sectors.JPG"><img src="http://3.bp.blogspot.com/-omfYf3w6SNw/TdEvxuppCqI/AAAAAAAADnU/hXPqz6FohW0/s400/inflation_sectors.JPG" border="0" alt=""></a>READ MORE AFTER THE JUMP!<a name="more"></a>April core prices rose 1.6% over the year. The goods-price inflation is flowing into the the service-sector as well &#8211; headline service-sector inflation is 2.0% in April, up from its low of 1.2% one year ago. There may be some seasonal distortions here associated with the Easter holiday, but the upward momentum has been established.</p>
+<p><strong>Price gains at the country level are broad based.</strong></p>
+<p>2% annual inflation is increasingly ubiquitous for key countries, Periphery and Core core alike. Below is the diffusion of 2% annual price gains, where an index value above 50 indicates that the majority of component prices are rising at a 2% rate. The legend indicates the longer-term average diffusion of price gains.</p>
+<p><a href="http://3.bp.blogspot.com/-A2y_uiNr0Y8/TdEx9-NkxQI/AAAAAAAADnc/lHxe06B6p9k/s1600/diffusion.JPG"><img src="http://3.bp.blogspot.com/-A2y_uiNr0Y8/TdEx9-NkxQI/AAAAAAAADnc/lHxe06B6p9k/s400/diffusion.JPG" border="0" alt=""></a>Germany is still seeing the majority of annual price gains below 2% &#8211; the current index is 43 &#8211; but the breadth of 2% inflation is increasing beyond its longer-term average of 34.8. In Spain and Italy, current inflation diffusion indices are likewise increasing, where Spanish price gains are broad, 55.6 in April.</p>
+<p><strong>And it&#8217;s not just VAT taxes.</strong></p>
+<p>The chart below illustrates the tax-adjusted inflation rate across the Eurozone (ex Ireland, unfortunately, whose data is unavailable, Austria, Estonia and Cyprus). This series is lagged one month.</p>
+<p><a href="http://3.bp.blogspot.com/-7TdUmNunGs8/TdE4r0tQKJI/AAAAAAAADns/IhSnVfqNjWY/s1600/tax-adjusted.JPG"><img src="http://3.bp.blogspot.com/-7TdUmNunGs8/TdE4r0tQKJI/AAAAAAAADns/IhSnVfqNjWY/s400/tax-adjusted.JPG" border="0" alt=""></a>The tax-adjusted inflation rate assumes that all tax hikes are passed fully through to final goods prices. It gives a proxy for the inflation effect of fiscal austerity (hike in VAT, for example).</p>
+<p>Although the uptick in inflation is warranted at this stage in the recovery, especially in the core, the momentum in prices can no longer be attributed to taxes only &#8211; it&#8217;s broader than that. Greece, for example, saw its inflation rate peak around 5.6% in September 2010 when its tax-adjusted inflation rate (inflation excluding VAT) was just 1.1%. Now, however, the headline and tax-adjusted inflation rates are converging, 4.5% vs 1.7% in March. Much of the tax-adjusted inflation can be attributed to food and energy; nevertheless, the base effects of the VAT hikes are wearing off.</p>
+<p>Tricky times for Euro area policy makers when the Core AND the Periphery are showing such broad price gains. Meanwhile, <a href="http://www.angrybearblog.com/2011/05/euro-area-gdp-report-unbalanced.html">the Periphery are contributing little by way of growth</a>.</p>
+<p><em><strong>Rebecca Wilder</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/euro-area-inflation-gaining-momentum-below-the-hood.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Euro area GDP report: unbalanced</title>
+		<link>./../../2011/05/euro-area-gdp-report-unbalanced.html</link>
+		<comments>./../../2011/05/euro-area-gdp-report-unbalanced.html#respond</comments>
+		<pubDate>Fri, 13 May 2011 20:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurostat]]></category>
+		<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[real economic growth]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/euro-area-gdp-report-unbalanced.html</guid>
+		<description><![CDATA[Today Eurostat released their estimate of Euro area growth for the first quarter of 2011. The economy grew smartly, or 0.8% on the quarter on a seasonally- and working day- adjusted basis. On the face of it, Euro area growth, which is 3.3% on an annualized basis, dwarfs the 1.8% seen in the US economy. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today <a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-13052011-AP/EN/2-13052011-AP-EN.PDF">Eurostat released </a>their estimate of Euro area growth for the first quarter of 2011. The economy grew smartly, or 0.8% on the quarter on a seasonally- and working day- adjusted basis. On the face of it, Euro area growth, which is 3.3% on an annualized basis, dwarfs the 1.8% seen in <a href="http://bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm">the US economy</a>. Really, though, it&#8217;s joint German and French growth that tower US Q1 GDP growth.</p>
+<p>Eurostat doesn&#8217;t explicitly highlight how inordinately unbalanced is growth across the region in their <a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-13052011-AP/EN/2-13052011-AP-EN.PDF">report </a>. Germany and France alone accounted for roughly <del>72%</del> 78% of the quarterly growth of Euro area GDP.</p>
+<p>(<em>As I highlight below, the Euro area quarterly growth rate in the chart is slightly different to that in the Eurostat report since some euro area members are missing. The cross-sectional contribution should be roughly unchanged during the revisions, though.</em>)</p>
+<p>Update: This chart has been re-posted with only slight modifications from the original. It does not change the article&#8217;s premise in any way. H/T to Philippe Waechter in comments below.</p>
+<p><a href="http://4.bp.blogspot.com/-oncox0UXK6o/Tc_qHRMZ0EI/AAAAAAAADnM/rkCxVLS5cMs/s1600/growth_contribution.jpg"><img src="http://4.bp.blogspot.com/-oncox0UXK6o/Tc_qHRMZ0EI/AAAAAAAADnM/rkCxVLS5cMs/s400/growth_contribution.jpg" border="0" alt=""></a><br />READ MORE AFTER THE JUMP!<a name="more"></a></p>
+<p>If final demand was growing so quickly in Germany, I would say that the Euro area is adjusting more healthily than I had expected. Spenders become savers and vice versa, and capital flows adjust current account balances (and trade) accordingly. Germany spends more at home and abroad, while the Periphery less so. This does seem to be occurring according to the <a href="http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/EN/press/pr/2011/05/PE11__188__811,templateId=renderPrint.psml">Federal Statistical Agency</a>:</p>
+<blockquote><p><em>In a quarter-on-quarter comparison (adjusted for price, seasonal and calendar variations), <strong>a positive contribution was made mainly by the domestic economy</strong>. Both capital formation in machinery and equipment and in construction and final consumption expenditure increased in part markedly. The growth of exports and imports continued, too. However, the balance of exports and imports had a smaller share in the strong GDP growth than domestic uses.</em></p></blockquote>
+<p>Euro area average growth is likely slow down a bit, as the global economy moves toward a tightening bias and fiscal austerity clenches demand further. However, the outlook for the Euro area as a whole does look increasingly reliant on the trajectory of German and French economic conditions. This is a risk, especially since Germany is an export-driven economy.</p>
+<p>As a comparison, 2005 saw growth as broadly more balanced, where Germany and France contributed a smaller 50% to total Euro area growth.</p>
+<p><a href="http://2.bp.blogspot.com/-HPtBCov8vFI/Tc2NeJ9qEGI/AAAAAAAADmc/G6QJxKXrEw4/s1600/gdp_2005_chart.JPG"><img alt="" src="http://2.bp.blogspot.com/-HPtBCov8vFI/Tc2NeJ9qEGI/AAAAAAAADmc/G6QJxKXrEw4/s400/gdp_2005_chart.JPG" border="0"></a><br />The Q1 2011 growth trajectory (top chart) is entirely consistent with ECB targeted at the core countries.</p>
+<p><em><strong>Rebecca Wilder</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/euro-area-gdp-report-unbalanced.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

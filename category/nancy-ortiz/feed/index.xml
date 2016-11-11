@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nancy Ortiz &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Social Security Data Mining</title>
+		<link>./../../2013/01/social-security-data-mining.html</link>
+		<comments>./../../2013/01/social-security-data-mining.html#respond</comments>
+		<pubDate>Thu, 24 Jan 2013 11:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Nancy Ortiz]]></category>
+		<category><![CDATA[social security]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/social-security-data-mining.html</guid>
+		<description><![CDATA[Social Security Data Mining Mrs. Rustbelt, the sweet young lady I married, decided to investigate future benefits from Social Security, even though she is only &#8220;39.&#8221; I am her designated data entry clerk, so we sit down and establish an account and log-in for her. Near the end of the set-up process the software tells [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Social Security Data Mining</p>
+<blockquote><p>Mrs. Rustbelt, the sweet young lady I married, decided to investigate future benefits from Social Security, even though she is only &#8220;39.&#8221; I am her designated data entry clerk, so we sit down and establish an account and log-in for her. Near the end of the set-up process the software tells us she has to answer some multiple choice questions about her personal data. Ok.<br />I was stunned when the questions popped up. None of them had anything to do with Social Security, and were clearly mined from IRS and credit bureau data.  She had been profiled by SSA with data the SSA had no need to know. Anyone have any experience or insights on this?</p></blockquote>
+<p>Rusty sent this note my way, so I thought Nancy Ortiz, a retired employee at SSA and expert in its workings,could provide some beginning answers in two e-mails slightly edited for readability:</p>
+<p>From what I have read on the &#8220;Social Security News&#8221; blog, SSA recently set up an online benefit estimate program combining earnings information SSA routinely gets from IRS (from SF-941 payroll tax forms) and information gathered by <i>Experian, </i>one of the private big three credit rating companies. I&#8217;m not happy that the current SSA Commissioner has done this. SSA has never before used privately gathered information from any source. The deal is that the SS Act authorizes SSA to gather specific information for &#8220;program purposes only.&#8221; SSA shouldn&#8217;t gather or transmit to others any information it has without specific written authorization to do so (under the Privacy Act.) BUT, this administration or the previous one could have asked Congresss for a change in the law to permit this practice. It would almost certainly slip under the radar, as it did for me until I read about it on &#8220;SS News.&#8221;</p>
+<p><a name="more"></a></p>
+<p>I do not know whether this has passed muster as a regulatory change or actually refects a change in the law. So I&#8217;ll look around to see what other information I can come up with. In the past, Republican administrations have sought to sell SSA&#8217;s data to private industry without success. The problem with the current administration is that it is quite casual about who is running the shop over in Baltimore. So, until his term recently ended, the Commish was a Bush administration appointee who favored privatization. Alas, Obama&#8217;s people don&#8217;t really seem to care very much about things like this. SSA/SS just aren&#8217;t sexy enough to attract much interest. </p>
+<p>I couldn&#8217;t find a recent article on SS News even though I remember one. The website doesn&#8217;t have a search function, so I couldn&#8217;t get anywhere on that site. However, the SSA site&#8217;s explanation is detailed. Unfortunately, it is not very encouraging to someone like me who opposes the use of any data from outside organizations without express authorization from the claimant/online user.</p>
+<p>I would need more information in order to form a more complete view of any potential security risks to the online user and SSA itself. However, in general I think that SSA already has enough information on its own internal data bases to verify the identity of the online user. SSA says that Experian doesn&#8217;t keep any of the information the online user provides. SSA also denies it keeps any information used in the online estimate request. But, information floats around for a while inside and possibly outside of SSA. This is a risk I wouldn&#8217;t take were I running this project. The mere fact that Experian is a commercial enterprise which has every reason to retain or reuse information argues against it.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/social-security-data-mining.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

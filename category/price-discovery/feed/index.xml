@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>price discovery &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Liquidity, Markets, and Pricing: A Contemporary Example</title>
+		<link>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html</link>
+		<comments>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html#respond</comments>
+		<pubDate>Tue, 26 Apr 2011 14:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[ALM]]></category>
+		<category><![CDATA[balance sheets]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[price discovery]]></category>
+		<category><![CDATA[program trading]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/liquidity-markets-and-pricing-a-contemporary-example.html</guid>
+		<description><![CDATA[A lot of trading in the Fixed Income (and especially FX) market is done for &#8220;liquidity&#8221; purposes. There is often an underlying goal involved (e.g., push prices higher with small lots, sell large ones at the elevated prices) and frequently such strategies are discussed as &#8220;algorithmic trading.&#8221; (Example: the algorithm estimates that you will need [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A lot of trading in the Fixed Income (and especially FX) market is done for &#8220;liquidity&#8221; purposes. There is often an underlying goal involved (e.g., push prices higher with small lots, sell large ones at the elevated prices) and frequently such strategies are discussed as &#8220;algorithmic trading.&#8221; (Example: the algorithm estimates that you will need to buy 5 $100MM lots of JPY at incrementally higher rates to be able to sell $1B USD at the higher JPY level.)</p>
+<p>The liquidity of the &#8220;markets&#8221; is facilitated by algorithmic trading: the seller for the first five trades in the above example doesn&#8217;t care about the <em>purpose</em> of the counterparty&#8217;s trade, just that the price bid is agreeable.</p>
+<p>Then there are the times <a href="http://digitallife.today.com/_news/2011/04/25/6525101-how-a-book-about-flies-cost-237-million-on-amazon?GT1=43001">when algorithmic pricing goes terribly wrong</a>:<br />
+<blockquote>Eisen began to keep track of the prices until he caught on to what was happening: The two sellers of that particular book — bordeebook and profnath — were adjusting their product prices algorithmically based on competitors:<br />
+<blockquote>Once a day profnath set their price to be 0.9983 times bordeebook’s price. The prices would remain close for several hours, until bordeebook “noticed” profnath’s change and elevated their price to 1.270589 times profnath’s higher price. The pattern continued perfectly for the next week.</p></blockquote>
+<p>The biologist continued to watch the prices grow higher and higher until they hit a peak price of $23,698,655.93 on April 19. On that day &#8220;profnath’s price dropped to $106.23, and bordeebook soon followed suit to the predictable $106.23 * 1.27059 = $134.97.&#8221; This means that someone must&#8217;ve noticed what was happening and manually adjusted the prices. [italics mine]</p></blockquote>
+<p>As a mathematical exercise, the shift from $106.23 to $23,000,000 and change is clear: one dealer must price their copy higher than the other dealer. (If both do so, you get to the same point or higher even quicker.) Similarly, if both dealers price at a fraction below 1.000 of the other, the price will converge toward $0.00 as the algorithm progresses.</p>
+<p>Consider the implication for a potential third seller, though.  Depending on when they check, they may believe they have a book that will make them (if and when sold) rich.  But the &#8220;market&#8221; they see is two computers offering against each other—there is no bid-side shown, and pricing &#8220;to sell&#8221; (say, $850K when both of the others are offered at around $1.7MM) implies that the third potential seller is carrying that asset at an inflated value.</p>
+<p>Market transactions do not require two entities to like each other, or even to understand what the other is trying to do.  Indeed, if your alogirthm is buying at 85.3 JPY/USD and mine is selling at that level, neither of us necessarily cares <em>why</em> the other is transacting.  And the rest of the market sees an actual trade against which they can adjust their pricing.</p>
+<p>It&#8217;s only when the algorithms are trying to do the same thing that $23MM+ books are offered.</p>
+<p>The implication for mark-to-market valuation seems obvious, and is left as an exercise to the reader.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cui Bono? The Kindle</title>
+		<link>./../../2010/01/cui-bono-the-kindle.html</link>
+		<comments>./../../2010/01/cui-bono-the-kindle.html#respond</comments>
+		<pubDate>Sat, 30 Jan 2010 16:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[market-clearing prices]]></category>
+		<category><![CDATA[monopolistic competition]]></category>
+		<category><![CDATA[price discovery]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/cui-bono-the-kindle.html</guid>
+		<description><![CDATA[John Scalzi makes a clear case that Amazon&#8217;s determination to subsidize the Kindle is coming at the expense of Authors&#8217;s and their Publishers: This asinine jockeying over electronic book prices has very little to do with what’s actually good or useful for anyone other than the manufacturer of a piece of hardware… who also happens [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Scalzi makes a clear case that <a href="http://whatever.scalzi.com/2010/01/30/a-quick-note-on-ebook-pricing/">Amazon&#8217;s determination to subsidize the Kindle is coming at the expense of Authors&#8217;s and their Publishers</a>:<br />
+<blockquote>This asinine jockeying over electronic book prices has very little to do with what’s actually good or useful for anyone other than the manufacturer of a piece of hardware… who also happens to be a book retailer.</p></blockquote>
+<p>Since this model is the same one as is used by cell phone providers, we come back to <a href="http://www.capitalgainsandgames.com/blog/stan-collender/1411/how-verizon-and-att-stopped-me-buying-new-phone">Stan Collender&#8217;s question of two weeks ago</a>:<br />
+<blockquote>That begs an interesting question about my existing phone and contract: Since my existing phone was paid for over the past 24 months, why doesn&#8217;t my current Verizon bill fall by the monthly amount that was priced in to my payment 2 years ago?  Isn&#8217;t that a rip-off as well?</p></blockquote>
+<p>Yes.  It&#8217;s called monopoly profits.</p>
+<p>UPDATE: Charlie Stross <a href="http://www.antipope.org/charlie/blog-static/2010/01/news-flash.html">correctly piles on</a>:<br />
+<blockquote>Amazon.com can kiss my ass. Shorter version: they&#8217;re engaging in monopolistic practices that damn well ought to be illegal, in an attempt to use their near-monopoly position to fuck over authors and bring publishers to heel.</p></blockquote>
+<p>Which is more concise than what I said below.  That&#8217;s why he gets, and earns, the Big Bucks (well, Quintessential Quid, in his case).</p>
+<p>UPDATE 2:  Via Felix&#8217;s Twitter feed, <a href="http://www.thebigmoney.com/blogs/goodnight-gutenberg/2010/01/30/what-henry-blodget-doesnt-understand-about-e-books?page=full">Marion Maneker at The Big Money corrects Henry Blodgett</a>:<br />
+<blockquote>Books are, within reasonable limits, demand-inelastic. Just as movies are. Demand comes from the quality or popularity of the book, not the price. We know this because the great transformation of the book business over the last two decades has been to shift readers from mass-market paperbacks to hardcovers sold at discounted but still higher prices. Readers have been paying more for James Patterson and Dan Brown, not waiting for the cheaper mass market paperbacks.</p>
+<p>Consumers trade money for time. And publishers should have the freedom to set their prices at what the market will bear, not what suits Amazon&#8217;s&#8211;or Apple&#8217;s&#8211;needs.</p>
+<p>The pricing pressure in books comes not from customer demand but from retailers fighting over market share. That&#8217;s what Barnes &#038; Noble (BKS) did to independent bookstores and Costco did to Barnes &#038; Noble. Now Amazon&#8217;s doing it Costco with the Kindle.</p></blockquote>
+<p>Via <a href="http://nielsenhayden.com/makinglight/archives/012148.html#012148">Patrick</a>, of course.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/cui-bono-the-kindle.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dean Baker Explains It All to You</title>
+		<link>./../../2008/09/dean-baker-explains-it-all-to-you.html</link>
+		<comments>./../../2008/09/dean-baker-explains-it-all-to-you.html#respond</comments>
+		<pubDate>Sat, 20 Sep 2008 16:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[price discovery]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/dean-baker-explains-it-all-to-you.html</guid>
+		<description><![CDATA[UPDATE: Krugman comes to the same conclusions, more concisely. (That&#8217;s why he gets paid the big bucks.) And Brad DeLong has modified his original position to the point where it&#8217;s got a good chance of working going forward. I started a &#8220;What is an Asset&#8221; post yesterday, which got sidetracked by Brad DeLong&#8217;s urging that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>UPDATE:  <a href="http://krugman.blogs.nytimes.com/2008/09/20/no-deal/">Krugman comes to the same conclusions, more concisely</a>.  (That&#8217;s why he gets paid the big bucks.)  And Brad DeLong has modified <a href="http://delong.typepad.com/sdj/2008/09/understanding-t.html">his original position</a> to the point where <a href="http://delong.typepad.com/sdj/2008/09/note-to-self-po.html">it&#8217;s got a good chance of working going forward</a>.</p>
+<p>I started a &#8220;<a href="http://angrybear.blogspot.com/2008/09/what-is-asset.html">What is an Asset</a>&#8221; post yesterday, which got sidetracked by Brad DeLong&#8217;s urging that the rewards for bad behavior be maintained while expecting a return to the &#8220;good&#8221; intertemporal equilibrium to be maintainable in the face of payoff-dominant strategies that, in his scenario, become equally risky and offer higher rewards.*</p>
+<p>For those who want to see where the post would have gone, let us pull two comments from  AnonCC to the fore:<br />
+<blockquote>&#8220;There are only a few problems, key of which is the title of this piece. Derivatives may have a value, but are they actually assets? Worse, if the Fed buys an asset, does it also have to buy all of the associated derivative contracts, one side of which may—by that simple—become worthless or become payable?&#8221;</p>
+<p>This is precisely what really scares me about Paulson&#8217;s description of the bailout plan. Hybrid and synthetic CDOs (which cover most CDOs issued from 2006 on) are definitely not assets! These monsters are insurance companies that will be seen to be severely underfunded when insurers like MBIA, Ambac and AIG fail to pay on their reinsurance policies. If Treasury buys these insurance obligations, it will become a financial insurer for subprime.</p>
+<p>(I should add that there are cash CDOs that are not insurance companies and can be fairly considered as assets. So all CDOs cannot be grouped in the same category.)</p>
+<p>I think we&#8217;re talking hundreds of billions paid up front for the privilege of providing this insurance, and trillions out the back door to hedge funds and the remaining investment banks over the next decade.</p></blockquote>
+<p>Dean Baker <a href="http://www.prospect.org/csnc/blogs/beat_the_press_archive?month=09&#038;year=2008&#038;base_name=questions_on_the_bush_bailout">takes  the question of the bailout to an even more elementary level</a>, having remembered that there is a market and therefore a &#8220;market value&#8221;:<br />
+<blockquote>The most obvious question: is how will paying market price for near worthless assets prevent the collapse of zombie institutions like Bear Stearns, Lehman Brothers and AIG? These institutions needed money. They won&#8217;t get it from selling mortgage backed securities, that are chock full of bad mortgages, at the market price. We already know this, because they already had the option to do so.</p>
+<p>The Bush proposal to throw out hundreds of billions of taxpayer dollars to buy up this debt will do little if anything to prevent another round of collapsing banks. We will again see desperate weekends with Treasury and Fed honchos running around trying to save the next major basket case.</p>
+<p>The other big question is: how will we get the banks to honestly describe the assets they throw into the auction?</p></blockquote>
+<p>Unless the Fed is planning to buy assets at <em>above</em> market value—that is, to directly subsidize those same bankers and firms with taxpayer dollars, with concomitantly to make those risky assets &#8220;less&#8221; risky in the market and still providing no route or incentive to return to the &#8220;good&#8221; equilibrium—the &#8220;bailout&#8221; as discussed with have no positive effect on the health of the firm(s).</p>
+<p>So what Henry Paulson is proposing has to be a direct subsidy to have any effect.</p>
+<p>As an isolated plan, it is a reward for bad behavior.  Only if it were combined with those items for which we &#8220;don&#8217;t have time&#8221;—say, <a href="http://economistsview.typepad.com/economistsview/2008/09/recapitalizatio.html">the plan suggested by Mark Thoma</a>—could it possibly be an economically viable plan:<br />
+<blockquote>First, in return for taking toxic assets off of a firms books at a price that is higher than the market rate, the government would get a share of any future profits the firm makes for some time period, say 10% for ten years, something like that. Administratively, it could come as an increased tax rate on profits and, if it helps politically, it could be earmarked for a particular cause. The government pays the firm a fair value for the assets plus an additional amount to help with recapitalization, and in return gets a claim on future profits for a period of time (I would also tie executive compensation directly to profits to help prevent gaming).</p></blockquote>
+<p>*As a result of this, and some unfelicitous phrasing, I am now in DeLong Coventry.  I can live with that.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/dean-baker-explains-it-all-to-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It&#8217;s not just housing&#8230;but you knew that.</title>
+		<link>./../../2008/07/its-not-just-housing-but-you-knew-that.html</link>
+		<comments>./../../2008/07/its-not-just-housing-but-you-knew-that.html#respond</comments>
+		<pubDate>Wed, 02 Jul 2008 12:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[price discovery]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/its-not-just-housing-but-you-knew-that.html</guid>
+		<description><![CDATA[Tom&#8217;s post yesterday about British housing (following Felix), where the volume was down significantly with the average slightly up, seemed rather intuitive if you buy the argument that the majority of house prices haven&#8217;t been cut enough, and won&#8217;t sell until they cut more.* But, courtesy of our fellow Gloom-and-Doom maven, Barry Ritholtz at The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tom&#8217;s post yesterday about British housing (following Felix), <a href="http://angrybear.blogspot.com/2008/07/top-o-bubble-to-you-england.html">where the volume was down significantly with the average slightly up</a>, seemed rather intuitive if you buy the argument that the majority of house prices haven&#8217;t been cut enough, and won&#8217;t sell until they cut more.*</p>
+<p>But, courtesy of our fellow <a href="http://angrybear.blogspot.com/2008/07/10-best-gloom-and-doom-sites.html">Gloom-and-Doom maven</a>, <a href="http://bigpicture.typepad.com/">Barry Ritholtz at The Big Picture</a>, we can see that prices rising as sales decline is <a href="http://bigpicture.typepad.com/comments/2008/07/ism-update.html">not unique to housing</a>:<br />
+<blockquote>Money quote from the ISM bossman: &#8220;When viewed from the manufacturer’s perspective, they are experiencing higher prices for their inputs while demand for their products is slowing.&#8221;**</p></blockquote>
+<p>Take the extra money now, guys. You&#8217;re going to need it as inventories accumulate.</p>
+<p>*I don&#8217;t buy that one completely, mainly because housing is <em>not</em> a liquid market unless it&#8217;s bubblicious.  Also, houses are not commodities: people react to them differently, and are more likely not to buy because of something other than price.</p>
+<p>**There is a formatting issue at TBP that implies this is a quote from the NYT. It&#8217;s not; it&#8217;s original to TBP.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/its-not-just-housing-but-you-knew-that.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Price Discovery (First of a Series)</title>
+		<link>./../../2008/05/price-discovery-first-of-a-series.html</link>
+		<comments>./../../2008/05/price-discovery-first-of-a-series.html#respond</comments>
+		<pubDate>Wed, 07 May 2008 17:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[markets]]></category>
+		<category><![CDATA[price discovery]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/price-discovery-first-of-a-series.html</guid>
+		<description><![CDATA[I want to talk about something of which I know nothing: Wireless Internet Access. We spent the weekend in pgl-land (NYC), at a friend&#8217;s apartment. Since he&#8217;s a rather prominent computer graphics designer, I assumed, incorrectly, that he would have some form of Internet access at home.* So I did what I always do: opened [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I want to talk about something of which I know nothing: Wireless Internet Access.</p>
+<p>We spent the weekend in pgl-land (NYC), at a friend&#8217;s apartment.  Since he&#8217;s a rather prominent computer graphics designer, I assumed, incorrectly, that he would have some form of Internet access at home.*</p>
+<p>So I did what I always do: opened the laptop and searched for an available wireless access point.</p>
+<p>At no time were there less than 15 indicated.  And while most of these were &#8220;Security-Enabled,&#8221; I get the impression that either (1) that has become the default setting for service in the past few years or (2) enough people have been persuaded by the <a href="http://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt">FUD</a> campaigns of MSFT and others that they read that part of the instruction manual.**</p>
+<p>I had kids to distract, so access to barbie.com or dailynoggin was important.  That is, I would have been willing to pay a few dollars for a weekend&#8217;s worth of access, or <a href="http://www.nytimes.com/2008/05/06/technology/06wifi.html?_r=1%26oref=slogin%26ref=business%26pagewanted=print">some equivalent thereof</a>.  If there were a market available.</p>
+<p>And, probably, at least a few of those 15 or so router-owners—badger or linksys or 5AMews—would have been willing to make a few dollars providing some of  their excess capacity to my 54.0Mbps laptop. If there were a market available.</p>
+<p>But there wasn&#8217;t.</p>
+<p>Or, more likely, there was, but the effort wasn&#8217;t worth it.  One of the key aspects of economic analysis is the assumption that markets (1) clear [both buyer and seller voluntarily agree on a price] and (2) are efficient [everyone involved in the market has all the information they need to make a rational decision on what the clearing price is/will be].</p>
+<p>In the real world, investment banks spend millions of dollars to attain that &#8220;efficiency.&#8221;*** Nor is anyone of the illusion that the terms of all transactions are completely voluntary on both sides.  But those are variations on the model, and the markets created from or supported by them, while not an economic ideal, can be analyzed as variations.</p>
+<p>What happens when there just is not a market?</p>
+<p>In the case here, I have no way of knowing who the local providers are or, more importantly, where they are.  Badger could be my next-door neighbor, or two floors away and at the other end of the building.  So I would have to spend time
+<ol>
+<li>knocking on doors, interrupting people (including some who have no capability themselves; there are many more than 15 apartments in the building),</li>
+<li>having discussions with some people who might have non-economic reasons not to agree to permit me access (including FUD),</li>
+<li>(c) finding people who really do use all of their capacity,****</li>
+<li>finding people who could provide access but with whom I cannot agree on a clearing price, and</li>
+<li>either
+<ol>
+<li>finally, finding someone with whom I can come to a market agreement or</li>
+<li>giving up and depending either on unguarded WAPs or finding an alternative.</li>
+</ol>
+<p></li>
+</ol>
+<p>In all scenarios, even 5(2), I have spent some portion of time, possibly significant, that must be included in the Full Cost of the Search.</p>
+<p>Which is probably why there is not an active secondary market in Wireless Internet Access in the United States.</p>
+<p>The consequences of this specific example are left as an exercise.  The consequences of the problems with Price Discovery are To Be Continued.</p>
+<p>UPDATE: Felix Salmon <a href="http://www.portfolio.com/views/blogs/market-movers/2008/05/06/how-to-monetize-free-wi-fi">wonders about the need for price discovery in commercial WiFi</a>:<br />
+<blockquote>If I&#8217;m looking for a wi-fi network, it&#8217;s easy to see which ones are encrypted and which are open. But of the open networks, it&#8217;s impossible to see which ones are genuinely open and which ones will take you only to a sign-on page which asks for a credit card number and which often doesn&#8217;t work&#8230;.A network which purports to offer free wi-fi should do just that: firewalled wi-fi should look different somehow.</p></blockquote>
+<p>*No DVD player, VCR, or television, either; not a keeping-the-kids-busy-without-touching-things place.</p>
+<p>**I am convinced that it&#8217;s not out of actual knowledge because several of the &#8220;secure&#8221; networks were still named linksys, Apple Network ######, or similar. It may not be true, but it is the way to bet.</p>
+<p>***As <a href="http://angrybear.blogspot.com/2008/05/quick-one-infaltionary-credit-recession.html#696959">cactus noted</a>, the EMH is of dubious value if there is a significant disconnect between the alignments of the financial markets and those of &#8220;main street.&#8221; But let&#8217;s pretend it works for the normal &#8220;markets&#8221; model.</p>
+<p>****Highly unlikely, for reasons to be discussed in another post.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/price-discovery-first-of-a-series.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

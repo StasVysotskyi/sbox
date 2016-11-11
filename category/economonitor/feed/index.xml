@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Economonitor &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Angry Bear contributor now at Economonitor</title>
+		<link>./../../2011/09/angry-bear-contributor-now-at-economonitor.html</link>
+		<comments>./../../2011/09/angry-bear-contributor-now-at-economonitor.html#respond</comments>
+		<pubDate>Sun, 25 Sep 2011 10:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Economonitor]]></category>
+		<category><![CDATA[Floyd Norris]]></category>
+		<category><![CDATA[NYT]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/angry-bear-contributor-now-at-economonitor.html</guid>
+		<description><![CDATA[Angry Bear contributor Rebecca Wilder has begun writing her own column, The Wilder View, at the internationally prestigious Economonitor (Nouriel Roubini). The Wilder View at Economonitor Europe: Why the One-Size-Fits-All Solution Won’t Work and Linking sovereign risk to corporate credit spreads in Europe &#8230;and is interviewed and quoted by Floyd Norris in the New York [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.angrybearblog.com/" target="_blank">Angry Bear</a> contributor <strong>Rebecca Wilder</strong> has begun writing her own column, <strong>The Wilder View</strong>, at the internationally prestigious <a href="http://www.economonitor.com/" target="_blank">Economonitor (Nouriel Roubini)</a>.</p>
+<p><strong>The Wilder View</strong> at <em><strong>Economonitor</strong></em> </p>
+<p><a href="http://www.economonitor.com/rebeccawilder/2011/09/20/europe-why-the-one-size-fits-all-solution-won%E2%80%99t-work-2/" target="_blank">Europe: Why the One-Size-Fits-All Solution Won’t Work</a> and</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/2011/09/24/linking-sovereign-risk-to-corporate-credit-spreads-in-europe/" target="_blank">Linking sovereign risk to corporate credit spreads in Europe</a></p>
+<p>&#8230;and is interviewed and quoted by Floyd Norris in the New York Times.</p>
+<p><a href="http://www.nytimes.com/2011/09/24/business/debt-numbers-alone-tell-little-about-fiscal-stability.html?_r=1" target="_blank">Government Debt Doesn&#8217;t Tell the Whole Story</a><br /><strong>New York Times</strong> by Floyd Norris</p>
+<blockquote><p>In Ireland, as in Spain, the government paid down debt while private sector grew,” said Rebecca Wilder, an economist and money manager whose blog at the &#8230;</p></blockquote>
+<p>You can follow her there in the sidebar feed for other blog contributions.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/angry-bear-contributor-now-at-economonitor.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

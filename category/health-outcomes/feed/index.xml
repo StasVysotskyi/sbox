@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>health outcomes &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Endogenous Economic Growth and Health</title>
+		<link>./../../2012/08/endogenous-economic-growth-and-health.html</link>
+		<comments>./../../2012/08/endogenous-economic-growth-and-health.html#respond</comments>
+		<pubDate>Thu, 09 Aug 2012 16:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[health outcomes]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/endogenous-economic-growth-and-health.html</guid>
+		<description><![CDATA[Repeat after me: H_(t+1)=E(H_t )+[G(B-φ(K))] × s_H Y This follows the work of Mokyr (1993) and is the final construct of Bishai and Kung.  Basically, H_t is the current health stock of the population, E is a decreasing function of health stock as an environmental contagion, G is the quality of health production technology, B [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Repeat after me:                <img src="file:/Users/mph01/Library/Caches/TemporaryItems/msoclip/0clip_image001.png">
+<div>
+<div>H_(t+1)=E(H_t )+[G(B-φ(K))] × s_H Y
+</p>
+</div>
+<div></div>
+<div>This follows the work of Mokyr (1993) and is the final construct of Bishai and Kung. </div>
+<div></div>
+<div>Basically, H_t is the current health stock of the population, E is a decreasing function of health stock as an environmental contagion, G is the quality of health production technology, B is the best available health technology in the area, and φ represents the gap between the best health technology and the actual health technology and is a decreasing function of capital. </div>
+<div></div>
+<div>What does this mean? Why should anyone care? </div>
+<div></div>
+<div>Simple&#8230;..</div>
+<div></div>
+<div>Any economy is dependent on the equation Y = f(K,L,H) with Y representing GDP, K equaling capital, L-labor, and H-health of the labor force.</div>
+<div></div>
+<div>What it means for the average reader? Well, investment in healthcare improvement by the government creates a positive feedback cycle where better health= better economic performance, which then becomes:</div>
+<div></div>
+<div>more health = more income= more health, etc. </div>
+<div></div>
+<div>Certainly there are also exogenous factors as demonstrated by the Preston Curve, and McKeown has documented these well, although not without criticism. But that is the subject of an entirely different post. </div>
+<p></div>
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/endogenous-economic-growth-and-health.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

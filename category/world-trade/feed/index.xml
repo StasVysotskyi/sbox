@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>world trade &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>World Trade</title>
+		<link>./../../2012/03/world-trade.html</link>
+		<comments>./../../2012/03/world-trade.html#respond</comments>
+		<pubDate>Sat, 24 Mar 2012 14:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[world trade]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/world-trade.html</guid>
+		<description><![CDATA[Mark J. Perry reports on the latest world trade data from The CPB Netherlands Bureau for Economic Policy Analysis.  He presents a graph from 2000 on showing that the levels of world trade and world industrial output have both reached new post-recovery highs. He takes this to be very good news, and draws some broad [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://seekingalpha.com/article/449311-world-trade-and-output-set-new-records-in-january?source=email_macro_view&#038;ifp=0">Mark J. Perry reports</a> on the latest world trade data from The <a href="http://www.cpb.nl/en/world-trade-monitor">CPB  Netherlands Bureau for Economic Policy Analysis.</a>    He presents a graph from 2000 on showing that the levels of world  trade and world industrial output have both reached new post-recovery  highs.</p>
+<p>He takes this to be very good news, and draws some broad conclusions.<br />
+<blockquote>Bottom  Line:     Both world trade volume and world industrial   output reached fresh  record monthly high levels in January.  Trade and  output are now far  above their pre-recession levels, providing evidence  that the global  economy has made a complete  recovery from the  2008-2009 recession.  For  the U.S., the annual growth rates for exports  (10%) and industrial  output (3.5%) reflect the underlying strength in  America&#8217;s manufacturing  sector. </p></blockquote>
+<p>The graph tells me rather a different story.  I went to the source, got the raw data back to 1991, and made my own graph.</p>
+<p>
+<div><a href="http://2.bp.blogspot.com/-KiwsodxVupA/T2urrPWkK4I/AAAAAAAAByA/PBmu_8oZ3L0/s1600/World+Trade.JPG"><img border="0" height="298" src="http://2.bp.blogspot.com/-KiwsodxVupA/T2urrPWkK4I/AAAAAAAAByA/PBmu_8oZ3L0/s400/World+Trade.JPG" width="400"></a></div>
+<p>It&#8217;s  true that there has been a V-shaped recovery from the staggering  decline that occurred during the 2008 financial crisis.  It&#8217;s also true  that there is a new post-recovery high.  But I tend to look at graphs of  time series data in terms of trends, and have decorated the graph  accordingly.</p>
+<p><a name="more"></a>The green straight line is a lower trend line boundary, approximately  connecting all the dips.  The yellow straight line is an upper trend  line boundary, connecting the tops.  The purple line is an exponential  best fit through the peaks, indicated with purple dots.  Of course, in a  finite universe, an exponential trend must eventually end.  Even a  straight line expanding envelope probably can&#8217;t go on forever.  </p>
+<p>Now,  it looks as if there might be a new top limit to growth.  The red line  connects the top just before the crash with the new top that Mr. Perry  finds so exciting.   If this holds, then going forward the data will be  contained in a collapsing envelope.</p>
+<p>Here&#8217;s a close up view of the crash and recovery.  I&#8217;ve added some  purple lines connecting detail level peaks during the recovery.</p>
+<p>
+<div><a href="http://3.bp.blogspot.com/-UUu4vwq-h2c/T2vdNmdXPHI/AAAAAAAAByI/gzXF9MR7Y7U/s1600/World+Trade+2.JPG"><img border="0" height="298" src="http://3.bp.blogspot.com/-UUu4vwq-h2c/T2vdNmdXPHI/AAAAAAAAByI/gzXF9MR7Y7U/s400/World+Trade+2.JPG" width="400"></a></div>
+<p>The  purple lines appear to be approaching the red line as an asymptote.   Alternatively, the metric these points represent might be rolling over  and approaching another decline.  Either way, there is a clear loss of  momentum as the recovery ages.  </p>
+<p>I don&#8217;t have a crystal  ball, and  I&#8217;m not going to make a prediction about the future of world  trade. But it&#8217;s clear that the historical trends no longer apply, and I  do not share Mr. Perry&#8217;s optimism.</p>
+<p>Cross-posted at <a href="http://jazzbumpa.blogspot.com/2012/03/world-trade.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/world-trade.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Be afraid on Labor Day</title>
+		<link>./../../2010/09/be-afraid-on-labor-day.html</link>
+		<comments>./../../2010/09/be-afraid-on-labor-day.html#respond</comments>
+		<pubDate>Mon, 06 Sep 2010 15:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[labor]]></category>
+		<category><![CDATA[unions]]></category>
+		<category><![CDATA[world trade]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/09/be-afraid-on-labor-day.html</guid>
+		<description><![CDATA[by Dan Crawford (Rdan) Business Insider offers one sort of opinion by Mike Shedlock&#8230; what I can gather from the short article are the implications that outsourcing over the globe is a consequence of unions, that we should be more like Louisiana, and there is no economic literature on labor to offer some alternative explanations. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Dan Crawford (Rdan)</p>
+<p>Business Insider offers <a target="_blank" href="http://www.businessinsider.com/heres-the-real-problem-with-labor-unions-2010-9#ixzz0ylUHWb1H">one sort of opinion</a> by Mike Shedlock&#8230; what I can gather from the short article are the implications that outsourcing over the globe is a consequence of unions, that we should be more like Louisiana, and there is no economic literature on labor to offer some alternative explanations.  And serves notice to public employee unions of what is next&#8230;you privileged workers are next after we finish off what is left of the private unions.  Really nice offering.</p>
+<p>Now this particular effort might reflect some lack of understanding on the unions part, but absolves any decision by Cessna management for stupid decisions it appears. Be afraid is the message. </p>
+<blockquote><p>Here&#8217;s  the deal. The Hises and the union in general appear ready willing and  able to &#8220;hurt the whole Wichita economy&#8221; if they do not get what they  want.</p>
+<p>I have to ask &#8220;How stupid is that?&#8221;</p>
+<p>The answer is &#8220;tremendously stupid&#8221;.</p>
+<p>It  is far better to have a good paying job and no job security than no job  at all and no prospects of a job. That&#8217;s what it boils down to, and  like it or not, that is the economic reality.</p>
+<p>I do not know what  salaries are, but a 10 year contract with only a 4.2% pay cut does not  strike me as a bad deal. Those who think otherwise need to compare it to  the alternative: seeing all the jobs go to Louisiana, Mississippi, or  outside the country.</p>
+<p>By the way, wouldn&#8217;t residents of Louisiana  and Mississippi be very grateful for those job, regardless of what the  salary was? I think so. So the bottom line is this mess, is the unions  would be to blame and only the unions to blame if Cessna moves  elsewhere. The union will also be <a itxtdid="24403337" target="_blank" href="http://www.businessinsider.com/heres-the-real-problem-with-labor-unions-2010-9#" classname="iAs">responsible</a> for wrecking the entire local economy if it happens.</p>
+<p>Take  the contract and run! It&#8217;s for 10 years! Because &#8230;. You Don&#8217;t Know  What You&#8217;ve Lost Till Its Gone, Then It&#8217;s Too Late. In this case, it  will be gone forever.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/09/be-afraid-on-labor-day.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Great Trade Collapse&#8230;VoxEU</title>
+		<link>./../../2009/11/the-great-trade-collapse-voxeu.html</link>
+		<comments>./../../2009/11/the-great-trade-collapse-voxeu.html#comments</comments>
+		<pubDate>Sat, 28 Nov 2009 02:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[trade deficits]]></category>
+		<category><![CDATA[trade imbalances]]></category>
+		<category><![CDATA[world trade]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/the-great-trade-collapse-voxeu.html</guid>
+		<description><![CDATA[Richard Baldwin at VoxEU introduces a new book on “great trade collapse” before the WTO meeting occurring shortly. Re-posted with attribution: The Great Trade Collapse World trade experienced a sudden, severe and synchronised collapse in late 2008 – the sharpest in recorded history and deepest since WWII. VoxEU today posts a new Ebook – written [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.voxeu.org/index.php?q=node/4299" target="_blank">Richard Baldwin</a> at VoxEU introduces a new book on “great trade collapse” before the WTO meeting occurring shortly.</p>
+<p>Re-posted with <a href="http://www.voxeu.org/index.php?q=node/4299" target="_blank">attribution</a>:</p>
+<p>The Great Trade Collapse</p>
+<p><i>World trade experienced a sudden, severe and synchronised collapse in late 2008 – the sharpest in recorded history and deepest since WWII. VoxEU today posts a new Ebook – written for the world&#8217;s trade ministers gathering for the WTO&#8217;s Trade Ministerial in Geneva – that presents the economics profession&#8217;s received wisdom on the collapse. Two dozen chapters, written by leading economists from across the planet, summarise the latest research on the causes of the collapse as well as the consequences and prospects for recovery.</i></p>
+<p>The world’s trade ministers gather at the WTO next week just as the world’s trade is starting to recover from the “great trade collapse” – the sharpest drop in recorded history and deepest since WWII.</p>
+<p>Vox has today posted an Ebook “The Great Trade Collapse: Causes, Consequences and Prospects” that aims to tell the world’s trade ministers what economists’ know about the trade collapse.</p>
+<p>The Ebook can be downloaded for free from http://www.voxeu.org/index.php?q=node/4297</p>
+<p>Hard copies of the book may be ordered by emailing Anil Shamdasani: AShamdasani@cepr.org.</p>
+<p>Establishing consensus on the cause</p>
+<p>The two dozen chapters establish a consensus on what caused the collapse. In a nutshell, it was caused by the sudden postponement of purchases, especially of durable consumer and investment goods. Trade fell far more than GDP, since the demand shock was amplified by “compositional” and “synchronicity” effects.<br /><a name="more"></a></p>
+<p>•“Compositional effect”: In the 4th quarter of 2008 and 1st quarter of 2009, the Lehman-induced ‘fear factor’ caused consumers and firms around the world – but especially in the US and EU – to freeze; expenditures were postponed until things became clearer. The sales/production of “postponeables” plummeted, dragging down GDP growth rates. However, since the composition of GDP places much lower weight on postponeables than the composition of trade, the same shock had a substantially larger impact on trade than it did on GDP; the lion’s share of trade takes place in manufactures, mostly final durable consumer and investment goods, and related parts and components.</p>
+<p>•“Synchronicity effect”: National drops in trade were large – many attaining post-war records – but the world trade drop was much larger than previous episodes, since almost every nation’s trade dropped sharply; there was no averaging out this time. The synchronisation was probably due to the global and instantaneous transmission of the ‘fear factor’, and partly due to the development of international supply chains that reacted “just in time” to the collapse in demand for postponeables.</p>
+<p>Other factors<br />Some of the chapters find evidence for supply-side factors, but other do not. The supply shocks considered include: the impact of the credit crunch on the specialised financial instruments that grease the gears of international trade (e.g. letters of credit), bankruptcy-induced disruptions of international supply chains, and protectionism.</p>
+<p>The best available evidence suggests that declines in global trade finance have not had a major impact on trade flows. Policy responses aimed at shoring up trade credit were early and massive; these may have prevented credit from being more of a problem than it was.</p>
+<p>There is no evidence that protectionism played a direct role so far; there has been plenty of new protection, but is has been applied to small trade flows.</p>
+<p>Finally, there is almost no evidence that supply chains have collapsed. Direct evidence from firm-level data shows that the exits of firms from trade relationships (i.e. the extensive margin) has not played an important role in this crisis.</p>
+<p>If the global economy recovers, the recovery of global trade – which seems to have started in mid-2009 – is likely to be rapid, with pre-crisis growth rates being reached next year. This could foster growing imbalances.</p>
+<p>Consequences<br />Several authors warn that the global imbalances are a problem for the trade system as well as for the macro and financial system. As unemployment in many nations is projected to rise, or at least remain high, pressures for a protectionist backlash could grow over the coming year or two. To avoid this, and to prevent laying the foundations for another global crisis down the road, the US, China and other nations with large trade imbalances should undertake the necessary macroeconomic adjustments, such as exchange rate realignments, and designing credible plans for long term fiscal sustainability.</p>
+<p>This article may be reproduced with appropriate attribution. See Copyright (below).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/the-great-trade-collapse-voxeu.html/feed/index.html</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Accurate Headline: After three years of U.S. recession, Canada looks East</title>
+		<link>./../../2008/10/accurate-headline-after-three-years-of-u-s-recession-canada-looks-east.html</link>
+		<comments>./../../2008/10/accurate-headline-after-three-years-of-u-s-recession-canada-looks-east.html#respond</comments>
+		<pubDate>Mon, 20 Oct 2008 13:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[free trade]]></category>
+		<category><![CDATA[my home not native land]]></category>
+		<category><![CDATA[US trade]]></category>
+		<category><![CDATA[world trade]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/accurate-headline-after-three-years-of-u-s-recession-canada-looks-east.html</guid>
+		<description><![CDATA[The WSJ wants to pretend that Barack Obama is responsible for Canada making a good decision: Prime Minister Stephen Harper and President Nicolas Sarkozy of France signed an agreement Friday to begin negotiations for a free trade pact between Canada and the European Union. A Canada-EU study released last week outlines the joint economic benefits [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The WSJ wants to pretend that Barack Obama is responsible for <a href="http://online.wsj.com/article/SB122445840565148489.html?mod=djemEditorialPage">Canada making a good decision</a>:<br />
+<blockquote>Prime Minister Stephen Harper and President Nicolas Sarkozy of France signed an agreement Friday to begin negotiations for a free trade pact between Canada and the European Union. A Canada-EU study released last week outlines the joint economic benefits of such a partnership, with two-way trade estimated to increase 22.9% by 2014.</p></blockquote>
+<p>I guess the WSJ is more impressed with Barry O&#8217;s G-D-like powers than I am.  Or maybe they <a href="http://www40.statcan.ca/l01/cst01/gblec02a.htm">just can&#8217;t read data</a>:</p>
+<p>Exports to the United States:<br />2002  347,051.8<br />2003  328,983.3<br />2004  350,576.3<br />2005  368,414.7<br />2006  361,440.4<br />2007  356,094.2</p>
+<p>Imports from the United States:<br />2002    255,232.5<br />2003  240,356.3<br />2004  250,038.3<br />2005  259,348.2<br />2006  265,023.0<br />2007  269,752.5</p>
+<p>Imports steadily rising, exports falling for the last three years (and basically flat to 2004), with 2008 probably not being great and 2009-2010 already looking dicey.</p>
+<p>It&#8217;s a great move for Canada, but any delusion that it is Obama-, not data-driven should be confined to the WSJ editorial page.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/accurate-headline-after-three-years-of-u-s-recession-canada-looks-east.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Quick One on Externalities of Foreign Trade</title>
+		<link>./../../2008/05/a-quick-one-on-externalities-of-foreign-trade.html</link>
+		<comments>./../../2008/05/a-quick-one-on-externalities-of-foreign-trade.html#respond</comments>
+		<pubDate>Thu, 29 May 2008 15:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[food]]></category>
+		<category><![CDATA[world trade]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/a-quick-one-on-externalities-of-foreign-trade.html</guid>
+		<description><![CDATA[I won&#8217;t pretend this is part of the Vladimir Masch discussion, or one of the traditional thorough-analysis Angry Bear posts. Just a data point on which we may need to work later, and a report that will be of interest to many who read here. UPDATE: As rdan notes in comments, this &#8220;links to testing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I won&#8217;t pretend this is part of the <a href="http://angrybear.blogspot.com/2008/05/problems-of-free-trade-and-vladimir.html">Vladimir Masch discussion</a>, or one of the traditional thorough-analysis Angry Bear posts. Just a data point on which we may need to work later, and a report that will be of interest to many who read here.</p>
+<p><strong>UPDATE</strong>: As <a href="http://www.haloscan.com/comments/angrybear/2267437700143372143/#700541">rdan notes in comments</a>, this &#8220;links to testing for mad [cow disease, or BSE] as well.&#8221;  And since I&#8217;m a week or so behind in my blog-reading, I&#8217;ll just refer everyone to this <a href="http://usfoodpolicy.blogspot.com/2008/05/banning-downer-cattle-allowing-tests.html">U.S. Food Policy post</a>, which used economic reasoning to come to a depressing but clear conclusion.***</p>
+<p>One of the ways in which externalities are created is with differing regulations on what should be the same product.  The quality of the Grade-A beef you buy that was raised in Texas should be the same as the Grade-A beef that was raised in Mexico and imported.  If the inspection processes are not the same, though, the chance of contamination is raised.</p>
+<p><em>I hasten to note that the probability of contamination in both cases is rather low, if you assume that the firm is an ongoing concern that plans to do business with you again.</em>*</p>
+<p>But what is the effect of contaminated meat slipping through?</p>
+<p>I&#8217;m glad you asked, and so is the USDA.</p>
+<p><a href="http://www.ers.usda.gov/Publications/ERR57/#2008-5-28"><br />Economic Impacts of Foreign Animal Disease</a> seeks to address the question. Though it deals specifically with foot-and-mouth disease, the report:<br />
+<blockquote>presents a quarterly livestock and crop modeling framework in which epidemiological model results are integrated with an economic model of the U.S. agricultural sector to estimate the economic impacts of outbreaks of foreign-source livestock diseases. The framework can be applied to many livestock diseases[.]</p></blockquote>
+<p>To what I trust is no one&#8217;s great surprise, the model predicts larger losses than just the animals slaughtered:<br />
+<blockquote>Model results show large trade-related losses for beef, beef cattle, hogs, and pork, even though relatively few animals are destroyed.</p></blockquote>
+<p>Even the bromide at the end (&#8220;The best control strategies prove to be those that reduce the duration of the outbreak.&#8221; Really??) doesn&#8217;t change the economic reality: the best way to ensure the highest return is to spend money on inspection.</p>
+<p>Anyone who has ever used the financial markets for hedging purposes could tell you that.  It&#8217;s good to see that the USDA has done the analysis to justify a uniform process of inspection of foreign meats; the only question is whether they realise that is what they have done.**</p>
+<p>*It is, for instance, common knowledge in some parts of Eastern Europe that, if you are offered lumber at a lower-than-market price, it probably comes from the Chernobyl area.</p>
+<p>**This appears to be noting new: here&#8217;s <a href="http://query.nytimes.com/mem/archive-free/pdf?_r=1&#038;res=9D00E1D61F3EE733A2575BC2A96F9C946797D6CF&#038;oref=slogin">a 1906 NYTimes article</a> (PDF) dealing with jurisdiction over testing meats. (That was, of course, the year after <a href="http://www.booksamillion.com/ncom/books?id=4119949291530&#038;isbn=1884365302"><em>The Jungle</em></a> was published. Even then, loopholes were the rule, not long-term sustainability.)</p>
+<p>***&#8221;Instead, the officials&#8217; actions seem to me most consistent with believing there are a handful of real cases of BSE out there in the beef cattle population, and that these cases will naturally die out without infecting new cattle over the next several years. Of course, if this were true, a handful of people would be subjected to risk of the deadly disease years after eating a cow whose infection was never discovered.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/a-quick-one-on-externalities-of-foreign-trade.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WTO Doha, agriculture, and values</title>
+		<link>./../../2008/01/wto-doha-agriculture-and-values.html</link>
+		<comments>./../../2008/01/wto-doha-agriculture-and-values.html#respond</comments>
+		<pubDate>Fri, 11 Jan 2008 17:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[agriculture]]></category>
+		<category><![CDATA[world trade]]></category>
+		<category><![CDATA[WTO]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/01/wto-doha-agriculture-and-values.html</guid>
+		<description><![CDATA[As I re-do templates for eventual updates to the site, I found this graphic on AB from the early days. I did misplace the link, sorry. But it appeared to be a great graphic for several thoughts: 1. The foundering of the Doha agreements was centered around agriculture protection. 2. Our beliefs about values are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://2.bp.blogspot.com/_RPTAaOI4RN8/R4efBSb_aWI/AAAAAAAAADA/Y24UqjUxiiA/s1600-h/dan.png"><img alt="" src="http://2.bp.blogspot.com/_RPTAaOI4RN8/R4efBSb_aWI/AAAAAAAAADA/Y24UqjUxiiA/s320/dan.png" border="0"></a>
+<div></div>
+<p>As I re-do templates for eventual updates to the site, I found this graphic on AB from the early days. I did misplace the link, sorry. But it appeared to be a great graphic for several thoughts:</p>
+<p>1. The foundering of the Doha agreements was centered around agriculture protection.</p>
+<p>2. Our beliefs about values are reflected where the money goes, perhaps. I think all of us agree certain government programs appear to be forever programs. But I would ask what drives it, and what are our values in letting it go on forever. Is it the private/government great divide, or does current mainstream economics as publicly descibed simply side step or cover the issue?</p>
+<p>3. Why is the issue described in a so-called neutral frame? Does my auto mechanic tell me where I can go or not? He/she helps to get there, wherever there is, but the philosophy of mechanical service is not the point of auto use for me.</p>
+<p>4. Are we being car-jacked, whether liberal and conservative? Without the media labels, how do we frame the issue without using the term class-warfare, which appears to simply close off discussion. If conservative, are you being car-jacked (many here can describe the left of center car-jacking)?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/01/wto-doha-agriculture-and-values.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WTO GATS and strategies of regional hubs Part 1</title>
+		<link>./../../2007/09/wto-gats-and-strategies-of-regional-hubs-part-1.html</link>
+		<comments>./../../2007/09/wto-gats-and-strategies-of-regional-hubs-part-1.html#respond</comments>
+		<pubDate>Wed, 26 Sep 2007 12:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[world trade]]></category>
+		<category><![CDATA[WTO]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2007/09/wto-gats-and-strategies-of-regional-hubs-part-1.html</guid>
+		<description><![CDATA[Now India is outsourcing outsourcing. One of the constants of the global economy has been companies moving tasks &#8211; and jobs &#8211; to India, where they could be done at lower cost. But rising wages for programmers here, a strengthening currency and companies&#8217; need for workers in their clients&#8217; time zones or for workers who [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.iht.com/articles/2007/09/24/business/outsource.php?page">Now India is outsourcing outsourcing.<br /></a><br />
+<blockquote>
+<p>One of the constants of the global economy has been companies moving tasks &#8211; and jobs &#8211; to India, where they could be done at lower cost. But rising wages for programmers here, a strengthening currency and companies&#8217; need for workers in their clients&#8217; time zones or for workers who speak languages other than English are challenging that model.<br />At the same time, India is facing increased competition from countries seeking to emulate its success as a back office for wealthier neighbors: China for Japan, Morocco for France and Mexico for the United States, for instance.<br />Looking to beat back these new rivals, leading Indian companies are opening back offices in those countries, outsourcing work to them before their current clients do.<br />Many executives in India now concede that outsourcing, having rained most heavily on India, will increasingly sprinkle tasks across the planet. The future of outsourcing, said Ashok Vemuri, an Infosys senior vice president, is &#8220;to take the work from any part of the world and do it in any part of the world.&#8221;<br />In May, Infosys&#8217;s Indian rival, Tata Consultancy Services, announced a new back office in Guadalajara, Mexico; it already has 5,000 staffers in Brazil, Chile and Uruguay. Cognizant Technology Solutions, with most of its operations in India, has now opened back offices in Phoenix, Arizona, and in Shanghai. Wipro, another Indian company, has outsourcing offices in Canada, China, Portugal, Romania and Saudi Arabia, among other locations.<br />Last month, Wipro said it was opening a software development center in Atlanta that would hire 500 programmers in three years.<br />In a poetic reflection of the new face of outsourcing, Wipro&#8217;s chairman, Azim Premji, told Wall Street analysts this year that he was considering hubs in Idaho and Virginia, in addition to Georgia, to take advantage of &#8220;states which are less developed,&#8221; Premji said.<br />Infosys is building an archipelago of back offices &#8211; in Mexico, the Czech Republic, Thailand and China, as well as in low-cost regions of the United States. The company wants to become a global matchmaker: Any time a company wants work done somewhere else, even just down the street, Infosys hopes to get the call.<br />&#8230;<br />&#8220;It&#8217;s the equivalent of a bachelor&#8217;s in computer science in six months,&#8221; said a trainee, Melissa Adams, 22. Adams graduated last spring from the University of Washington with a business degree and turned down Google for Infosys.<br />Still, even as outsourcing moves in new directions, old perceptions linger.<br />When Jeff Rand, 23, another American trainee, told his grandmother, &#8220;I&#8217;m going to be moving to India and working as a software engineer for the next six months, she said, &#8216;Maybe I&#8217;ll get to talk to you when I have a problem with my credit card.&#8217; &#8220;<br />&#8220;It took me about two or three weeks to explain to my grandma that I was not going to be working in a call center,&#8221; Rand said with a rueful chuckle.</p>
+</blockquote>
+<p>The value of cultural affinities and language are being put into the mix as companies compete through both WTO GATS and other agreements. Multi-lateral trade agreements and such are increasing as Doha negotiations have ground to a stop.   The same trend is being played out in Europe as US firms (finance, banks, lawyers) expand into that market.
+</p>
+<p>I believe the trend in countries cooperating in regional trading partner policies, for example the responses to de-pegging or considering de-pegging national currencies from the US dollar, will accelerate the process.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2007/09/wto-gats-and-strategies-of-regional-hubs-part-1.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

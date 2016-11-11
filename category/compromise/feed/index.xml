@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>compromise &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>James Wagner, President, Emory University op ed. for Sunday afternoon</title>
+		<link>./../../2013/02/james-wagner-president-emory-university-op-ed-for-sunday-afternoon.html</link>
+		<comments>./../../2013/02/james-wagner-president-emory-university-op-ed-for-sunday-afternoon.html#respond</comments>
+		<pubDate>Sun, 17 Feb 2013 21:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[compromise]]></category>
+		<category><![CDATA[political labels]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/james-wagner-president-emory-university-op-ed-for-sunday-afternoon.html</guid>
+		<description><![CDATA[James Wagner, President, Emory University has offered the idea that compromises for a &#8216;more perfect union&#8217; comes in many forms. The link presents Mr. Wagner&#8217;s reply to the storm of comment to the original, which follows. Here is an excerpt: One instance of constitutional compromise was the agreement to count three-fifths of the slave population [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.emory.edu/EMORY_MAGAZINE/issues/2013/winter/register/president.html" target="_blank">James Wagner, President, Emory University</a> has offered the idea that compromises for a &#8216;more perfect union&#8217; comes in many forms.  The link presents Mr. Wagner&#8217;s reply to the storm of comment to the original, which follows.  Here is an excerpt:</p>
+<blockquote><p>One instance of constitutional compromise was the agreement to count three-fifths of the slave population for purposes of state representation in Congress. Southern delegates wanted to count the whole slave population, which would have given the South greater influence over national policy. Northern delegates argued that slaves should not be counted at all, because they had no vote. As the price for achieving the ultimate aim of the Constitution—“to form a more perfect union”—the two sides compromised on this immediate issue of how to count slaves in the new nation. Pragmatic half-victories kept in view the higher aspiration of drawing the country more closely together.</p>
+<p>Some might suggest that the constitutional compromise reached for the lowest common denominator—for the barest minimum value on which both sides could agree. I rather think something different happened. Both sides found a way to temper ideology and continue working toward the highest aspiration they both shared—the aspiration to form a more perfect union. They set their sights higher, not lower, in order to identify their common goal and keep moving toward it.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/james-wagner-president-emory-university-op-ed-for-sunday-afternoon.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

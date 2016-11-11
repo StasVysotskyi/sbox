@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thanksgiving &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Thanks from a reader to Bears</title>
+		<link>./../../2012/11/thanks-from-a-reader-to-bears.html</link>
+		<comments>./../../2012/11/thanks-from-a-reader-to-bears.html#respond</comments>
+		<pubDate>Thu, 22 Nov 2012 15:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Thanksgiving]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/thanks-from-a-reader-to-bears.html</guid>
+		<description><![CDATA[Mr. Dan, When I started reading Angry Bear I was working as a technical editor (degree in English) and had zero knowledge of economics, but I was watching the (to me) economic weirdness going on in the 2000&#8217;s, and started reading economics blogs in a mostly vain attempt to discover what the heck was going [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Mr. Dan, </p>
+<p>When I started reading <em>Angry Bear</em> I was working as a technical editor (degree in English) and had zero knowledge of economics, but I was watching the (to me) economic weirdness going on in the 2000&#8217;s, and started reading economics blogs in a mostly vain attempt to discover what the heck was going on. <br />I liked Angry Bear because it had posts over a wide range of topics related to economics and current events, but had relatively little jargon, so that I could actually understand them. They generally made sense, and the comments frequently helped to clarify the posts. </p>
+<p>I read six or seven economics blogs fairly regularly, and have other favorites like Krugman and Mark Thoma, Crooked Timber and Noahpinion. Other blogs tend to have a a narrower focus than <em>Angry Bear</em>, and sometimes get so technical they go WAY over my head, not to mention the comments.</p>
+<p>I hit <i>Angry Bear</i> almost daily these days. Although your contributors and commenters have changed over the years, the blog remains (to me) interesting, accessible, and frequently entertaining, without being simplistic or excessively didactic, and the commenters usually add to the conversation. Either you don&#8217;t have any long-winded nit-picking, trolls (who can drive me nuts on other blogs) or you screen them out very effectively.<br /><em><br /></em><i>Angry Bear</i> is the most layman-friendly economics blog that I have found, although Krugman runs a close second, and has stayed so over the years. Does it need to evolve, when it was really good to begin with?<br />My personal opinion?</p>
+<p>Keep it up!</p>
+<p>Cynthianne</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/thanks-from-a-reader-to-bears.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Have a good Thanksgiving from the Bears</title>
+		<link>./../../2012/11/have-a-good-thanksgiving-from-the-bears.html</link>
+		<comments>./../../2012/11/have-a-good-thanksgiving-from-the-bears.html#respond</comments>
+		<pubDate>Thu, 22 Nov 2012 14:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Thanksgiving]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/have-a-good-thanksgiving-from-the-bears.html</guid>
+		<description><![CDATA[Have a good Thanksgiving from the Bears.]]></description>
+				<content:encoded><![CDATA[<p>Have a good Thanksgiving from the Bears.</p>
+<p><a href="http://2.bp.blogspot.com/-WteCOXpUct0/UK4vRH1RvhI/AAAAAAAABKM/usOn4nunWxk/s1600/Happy-Thanksgiving.jpg" imageanchor="1"><img border="0" height="301" src="http://2.bp.blogspot.com/-WteCOXpUct0/UK4vRH1RvhI/AAAAAAAABKM/usOn4nunWxk/s400/Happy-Thanksgiving.jpg" width="400"></a>
+<div><a href="http://2.bp.blogspot.com/-WteCOXpUct0/UK4vRH1RvhI/AAAAAAAABKM/usOn4nunWxk/s1600/Happy-Thanksgiving.jpg" imageanchor="1"><br /></a></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/have-a-good-thanksgiving-from-the-bears.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Europe &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Housing Bubbles: Less Frothy but Europe is Behind</title>
+		<link>./../../2012/03/housing-bubbles-less-frothy-but-europe-is-behind.html</link>
+		<comments>./../../2012/03/housing-bubbles-less-frothy-but-europe-is-behind.html#respond</comments>
+		<pubDate>Tue, 20 Mar 2012 02:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Europe]]></category>
+		<category><![CDATA[housing]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/housing-bubbles-less-frothy-but-europe-is-behind.html</guid>
+		<description><![CDATA[by Rebecca Wilder Housing Bubbles: Less Frothy but Europe is Behind Wolfgang Muenchau’s article in the Financial Times, There is no Spanish siesta for the Eurozone, inspired me to update my post on housing bubbles around the world (really just Europe and the US). He argues that Spain’s bubble was much more extreme, and that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a></p>
+<p>Housing Bubbles: Less Frothy but Europe is Behind</p>
+<p>Wolfgang Muenchau’s article in the Financial Times, <a href="http://www.ft.com/intl/cms/s/0/28a4cfdc-6f6b-11e1-9c57-00144feab49a.html#axzz1pZj3RU4S">There is no Spanish siesta for the Eurozone</a>, inspired me to update my post on <a href="http://www.newsneconomics.com/2009/05/housing-bubbles-around-world-looks.html">housing bubbles around the world</a> (really just Europe and the US). He argues that Spain’s bubble was much more extreme, and that the price adjustment is less mature compared to the others. I would add here that it’s European housing markets more broadly that look overvalued compared to that in the US, as measured by the price to rent ratio.</p>
+<p>The chart below illustrates the housing bubble, as measured by the house price to rent ratio, in the US, Spain, the UK, and Ireland that is normalized to Q1 1997 and through Q1 2011. The price to rent ratio can be compared to a price to earnings or a price to dividend ratio in finance. It measures the relative value of the asset: the price of the asset (purchase price of a home) divided by its flow of fundamental value (rental income earned or the value of having a roof over your head). As the price-rent ratio falls, the market home values moves closer to fundamental value.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/03/price_rent3.jpg"><img alt="" height="550" src="http://www.economonitor.com/rebeccawilder/files/2012/03/price_rent3.jpg" width="600"></a></p>
+<p><a name="more"></a><br />Spanning the years 2005 to Q4 2011 and indexed to 1997 Q1, home values peaked at roughly 1.7 times rent in the US, 1.8 times rent in Spain, and north of 2 time rent in Ireland and the UK. Since the peak, though, US home values have fallen to 1.0 times rent &#8211; a considerable reduction in asset prices toward fundamental value. In contrast, home values in Spain, the UK, and Ireland remain quite elevated to rents, 1.3 times, 1.6 times, and 1.4 times, respectively in Q4 2011. If 1.0 is deemed equilibrium, either home values in Spain, the UK, and Ireland must fall further <strong>and/or</strong> rents rise to normalize home values. That’s a tall order: rising rental values amid defficient and contracting domestic demand in Spain and possibly Ireland.</p>
+<p>The UK has more of a fighting chance, given its relatively easy monetary policy, compared to Ireland and Spain, where more accommodative monetary policy is very lagged amid fiscal contraction. Without growth, though, default is probably the only answer left to normalize housing markets in Spain and Ireland.</p>
+<p>originally published at <a href="http://www.economonitor.com/rebeccawilder/2012/03/19/housing-bubbles-less-frothy-but-europe-is-behind/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=housing-bubbles-less-frothy-but-europe-is-behind">The Wilder View&#8230;Economonitors</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/housing-bubbles-less-frothy-but-europe-is-behind.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

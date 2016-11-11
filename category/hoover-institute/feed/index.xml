@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hoover Institute &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Hoover Institution</title>
+		<link>./../../2009/08/the-hoover-institution.html</link>
+		<comments>./../../2009/08/the-hoover-institution.html#respond</comments>
+		<pubDate>Wed, 12 Aug 2009 09:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[Hoover Institute]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/the-hoover-institution.html</guid>
+		<description><![CDATA[by cactus For the last few decades, a many prominent conservatives and libertarians have been associated with the Hoover Institution. The Hoover of the Hoover Institution is Herbert Hoover, the guy who was president during the Crash of 1929 and under whom the Great Depression unfolded. Now, I&#8217;ve been thinking about how conservatives and libertarians [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by cactus</p>
+<p>For the last few decades, a many prominent conservatives and libertarians have been associated with the Hoover Institution.  The Hoover of the Hoover Institution is Herbert Hoover, the guy who was president during the Crash of 1929 and under whom the Great Depression unfolded.  Now, I&#8217;ve been thinking about how conservatives and libertarians demonize FDR and his economic policies.  And we all know that anyone who cares to look up real GDP per capita figures can confirm that the fastest real economic growth in US history (as far as back as the BEA has data, at least) took place under FDR, and that remains true even if you remove 1941 to 1945.  Hoover, of course, did the worst.</p>
+<p>A while back I graphed all the presidents by growth <a href="http://angrybear.blogspot.com/2008/10/ranking-presidents-on-real-economic.html">here</a>.  Not only is the fastest growth produced under Democratic administrations, the best performing Democratic administrations were also the big social experiment-types.   Obviously, that&#8217;s a tough one for conservatives and libertarians to swallow, and I doubt if New Deal or Great Society policies would get much credit from that crowd under any circumstances. </p>
+<p>But I wonder if less, perhaps a lot less, venom would be directed toward FDR, at least, if the Hoover Institution was not the Hoover Institution.  Maybe folks whose paycheck came from the Gerald Ford Institution would be less aggressive.  I&#8217;m also trying to think of what an equivalent would be for Democrats.  Carter certainly gets the ridicule, but even his economic performance is pretty good compared to that of most Republicans.  Even so, most conservatives and libertarians would probably not take seriously any economic work coming out of something called the Jimmy Carter Institute or Jimmy Carter Institution.  You might find the lefty equivalent of a Thomas Sowell (oy, now I gotta go wash my hands) at a Jimmy Carter Institute, but would the counterpart of a Gary Becker, much less the equivalent of Milton Friedman on the left let their name be associated with such a place?</p>
+<p>So what do you think?  Would the world look different if the Hoover Institution was called something else?  <br />__________________________________________<br />by cactus</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/the-hoover-institution.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

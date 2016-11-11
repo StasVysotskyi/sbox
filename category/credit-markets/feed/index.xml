@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>credit markets &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Default Events, Legal Contracts, Derivatives, and Greece</title>
+		<link>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html</link>
+		<comments>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html#respond</comments>
+		<pubDate>Fri, 02 Mar 2012 22:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CDS]]></category>
+		<category><![CDATA[credit markets]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[default]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[euro area]]></category>
+		<category><![CDATA[Greece]]></category>
+		<category><![CDATA[markets]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/default-events-legal-contracts-derivatives-and-greece.html</guid>
+		<description><![CDATA[Barry Ritholtz, who generally knows better, blew a gasket at ISDA for yesterday&#8217;s ruling that Greek bonds are not yet in default. Specifically, &#8220;The International Swaps and Derivatives Association said on Thursday that based on current evidence the Greek bailout would not prompt payments on the credit default swaps.&#8221; > Here is a question for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Barry Ritholtz, who generally knows better, <a href="http://www.ritholtz.com/blog/2012/03/isda-suckers-wanted/">blew a gasket at ISDA</a> for yesterday&#8217;s ruling that Greek bonds are not yet in default.  Specifically,<br />
+<blockquote>
+<blockquote>&#8220;The International Swaps and Derivatives Association said on Thursday that based on current evidence the Greek bailout would not prompt payments on the credit default swaps.&#8221;</p></blockquote>
+<p>></p>
+<p>Here is a question for the crowd: Exactly how brain damaged, foolish and stupid must a trader be to ever buy one of these embarrassingly laughable instruments called derivatives?</p>
+<p>The claim that Greece has not defaulted — despite refusing to make good on their obligations in full or on time — is utterly laughable.</p></blockquote>
+<p>Let&#8217;s sidebar the reality—that there is no true &#8220;market&#8221; for CDS in general, let alone Sovereign Debt CDS; Donald R. van Deventer of Kamakura Corporation has been all over this, both <a href="http://www.kamakuraco.com/Blog.aspx">on his blog</a> and especially <a href="https://twitter.com/#!/dvandeventer">on Twitter</a>—and just note that ISDA made the correct decision.</p>
+<p>Greece has not, to borrow Barry&#8217;s phrase, &#8220;refus[ed] to make good on their obligations in full or on time.&#8221; ISDA did not declare a Default Event yesterday because there has not yet been a Default Event.</p>
+<p>Default Event is a very specific term. The sample in <a href="http://www.tavakolistructuredfinance.com/index.html">Janet Tavakoli</a>&#8216;s <em><a href="http://www.booksamillion.com/product/9780471412663?id=4214424925428">Credit Derivatives and Synthetic Structures</a></em> (a book to which I <a href="http://www.angrybearblog.com/2010/02/in-other-news-larry-king-is-selling.html">have</a> <a href="http://www.angrybearblog.com/2008/09/roubinis-not-wrong-but.html">referred</a> <a href="http://www.angrybearblog.com/2011/01/third-time-someone-will-believe.html">before</a> and undoubtedly will again) runs pretty much three full pages (pp. 88-91).  But the general concept is straightforward: there is a minimum threshold (say, 10% of an issue), the principal or interest due of which the entity explicitly refuses to pay or fails to pay that then materially impacts the buyer of Credit Protection (CDS).</p>
+<p><a name="more"></a><br />Greece has not yet refused to pay anything.*</p>
+<p>There is a payment due on 20 March—19 days still in the future. The financial markets—heck, everyone who runs a diner in Queens—may well believe that no payment will be made on 20 March, but that hasn&#8217;t happened yet.  And the Greek government specifically has <em>not</em> said it won&#8217;t make the payment; it has said, &#8220;Hey, take these bonds instead.&#8221;</p>
+<p>It is true that, <em>cet. par.</em>, the market value of the bonds being offered is about 25% the supposed economic value of the current ones. So anyone taking the deal would have to be assuming that the <em>market</em> value of the current bonds is somewhere around 25, just as the French and German banks have them marked.</p>
+<p>The market may also agree that one of the reasons people may well accept the offer is that, otherwise, they expect that the Greeks <em>will</em> default on the current bonds.  </p>
+<p>But they haven&#8217;t yet, and this is not <a href="http://www.imdb.com/title/tt0181689/">Minority Report</a> (though we can all agree Phil Dick would recognize, if not approve of, the current financial world).</p>
+<p>So ISDA correctly ruled—the key phrase is &#8220;based on current evidence&#8221;—that there is not yet a Default Event.  If everyone says &#8220;we will tender our securities due 20 March for the exchange offered,&#8221; there will not be a default of those bonds.</p>
+<p>You, I, and Bill Gross can all agree that the likelihood of this happening is about equal to the chance that Rick Perry will be elected U.S. President this year.  But there has not been a Default Event.</p>
+<p>Wait two or three weeks.</p>
+<p>The thing Barry most overlooks is that yesterday&#8217;s ISDA ruling is, if anything, <em>good</em> for CDS buyers.</p>
+<p>What will be the economic difference of waiting to holders of the CDSes?  I don&#8217;t know for certain, but if you&#8217;re looking at the standard ISDA CDS contract, there&#8217;s a reasonable assumption that (1) the market price of the bond will not change for the better and (2) it is a certainty that the Accrued Interest on the bond will be greater when they declare a Default Event than it is now.</p>
+<p>Keep in mind: in a standard CDS, declaration of default <em>terminates the contract</em>. Accruals end, market pricing is to be determined by calling a few dealers, and the only thing left is to go through the pockets and look for loose change.**</p>
+<p>Yesterday&#8217;s ISDA ruling means the CDS buyers will be owed more Accrued Interest when (in two, or at most three, weeks) a Default Event is declared.</p>
+<p>What about the principal repayment due?  Recall again that the payment due is generally the net of the current market price <em>subtracted from</em> the initial principal amount (assumed to be par—100—but in any event greater than the current market value).</p>
+<p>I&#8217;m inclined to argue there is optimism in the current market that will not be there in two weeks: it&#8217;s not that liquid a market, there is a floor on the price of the economic equivalent of the new offer, and there is time value in the option to convert.***</p>
+<p>If ISDA had declared default yesterday—that is, assumed that Greece wasn&#8217;t just &#8220;mostly dead&#8221;****—they would have taken the current market price [P<sub>0</sub>]. Even before the delays and roundelays, that was likely to be greater than the market price of those bonds in a week or two[P<sub>1</sub>, when default is declared.</p>
+<p>That is, P<sub>0</sub> is greater than P<sub>1</sub>. And since the payment due is based on [100*****-P<sub>t</sub>], the principal amount due to CDS holders when default is declared will also be greater.</p>
+<p>ISDA followed the letter of the contract: the Greeks have not yet defaulted on an obligation, nor have they stated that they intend to do so.  When they do—there are few, if any, in the market who would treat the clause as a possible &#8220;If&#8221;—a Default Event will be declared and the CDS contracts will be expected to pay as they are due. And that payment will, in all likelihood, be higher than the payment that would have been due if ISDA had ruled differently yesterday.</p>
+<p>And if they don&#8217;t, then I&#8217;ll be agreeing with Barry that the whole thing was a scam from the start—though I would still argue that JPMorganChaseBear stealing more than $1,000,000,000 in customer funds from MF Global clients is a bigger one, which is something like saying that coprophagia is even worse in liquid form.</p>
+<p>When the CDS contracts actually have to be paid, then the fun will begin. If potential for insolvency is your idea of fun. But that&#8217;s another story.</p>
+<p>*They have seen S&#038;P downgrade their credit rating, but that&#8217;s a separate issue.</p>
+<p>**Obligatory reference.  It will pay off.</p>
+<p>***The Worst Case scenario is that you assume the new bonds are the only value in the transaction, and discount their value back over the cost of basically two-week money. The best case scenario is some combination of the price of the new bonds and expectations of either getting a better deal later and/or post-litigation gains.  The lattice may be ugly, but it yields an expected value higher than the Worst Case, and therefore higher than the market price of the bonds as the time to exercise approaches.</p>
+<p>****See ** above.</p>
+<p>*****Or the other initial contract price; in any case, a fixed value greater than P<sub>t</sub>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is This A Bad Thing? Sane Economists would say No.</title>
+		<link>./../../2011/10/is-this-a-bad-thing-sane-economists-would-say-no.html</link>
+		<comments>./../../2011/10/is-this-a-bad-thing-sane-economists-would-say-no.html#respond</comments>
+		<pubDate>Thu, 27 Oct 2011 15:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CDS]]></category>
+		<category><![CDATA[credit markets]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[sovereign debt]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/is-this-a-bad-thing-sane-economists-would-say-no.html</guid>
+		<description><![CDATA[Yes, I&#8217;m working with the null set again, but Peter Bockvar, chez Ritholtz, raises the most common objection to the Greek restructuring&#8217;s likely effect on the CDS market: [I]t will&#8230;potentially destroy [the sovereign CDS] market to the point where it will go away. The unintended consequence of what will be next will be those looking [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yes, I&#8217;m working with the null set again, but Peter Bockvar, chez Ritholtz, <a href="http://www.ritholtz.com/blog/2011/10/european-deal-and-what-next-with-cds/">raises the most common objection to the Greek restructuring&#8217;s likely effect on the CDS market</a>:</p>
+<blockquote><p>[I]t will&#8230;potentially destroy [the sovereign CDS] market to the point where it will go away. The unintended consequence of what will be next will be those looking to hedge sovereign exposure, mostly banks, will then have to short sovereign debt or outright cut credit to the region. EU officials better be careful what they wish for the holders of Greek CDS.</p></blockquote>
+<p>The English translation of this is that Mr. Bockvar suggests—I can&#8217;t swear that he believes, though I know which way to bet—that the current prices for sovereign debt are artificially high because of the existence of the Sovereign Debt CDS market.</p>
+<p>So, unless you are trading acvtively in both markets, as a buyer, you are being charged too much for sovereign debt.</p>
+<p>Wouldn&#8217;t it be better to know that up front?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/is-this-a-bad-thing-sane-economists-would-say-no.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wilder&#8217;s news on Euro area credit markets</title>
+		<link>./../../2011/07/wilders-news-on-euro-area-credit-markets.html</link>
+		<comments>./../../2011/07/wilders-news-on-euro-area-credit-markets.html#respond</comments>
+		<pubDate>Thu, 28 Jul 2011 11:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit markets]]></category>
+		<category><![CDATA[Eurozone]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/wilders-news-on-euro-area-credit-markets.html</guid>
+		<description><![CDATA[Rebecca takes note of credit growth in many of the Euro countries and notes indications of continued deteriorating macro economies in Newsneconomics: Today the ECB released details on monetary aggregates for the euro area. According to the statement on the asset side of the consolidated balance sheet of the euro area monetary financial institutions (MFIs): [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Rebecca takes note of credit growth in many of the Euro countries and notes indications of continued deteriorating macro economies in <a target="_blank" href="http://www.angrybearblog.com/"><strong>Newsneconomics</strong></a>:</p>
+<p>Today the ECB released details on monetary aggregates for the euro area. According to the statement on the asset side of the consolidated balance sheet of the euro area <a href="http://www.ecb.int/press/pdf/md/md1106.pdf">monetary financial institutions (MFIs)</a>:<br />
+<blockquote>the annual growth rate of total credit granted to euro area residents decreased to 2.6% in June 2011, from 3.1% in the previous month. The annual growth rate of credit extended to general government decreased to 4.6% in June, from 5.7% in May, while the annual growth rate of credit extended to the private sector decreased to 2.2% in June, from 2.5% in the previous month</p></blockquote>
+<p>Weak credit growth is entirely consistent with the deteriorating pace of the macroeconomy (see Edward Hugh&#8217;s <a href="http://www.economonitor.com/edwardhugh/2011/07/25/recession-warning-on-europes-periphery/">post here</a>). How does 2.2% annual credit growth compare to history?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/wilders-news-on-euro-area-credit-markets.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

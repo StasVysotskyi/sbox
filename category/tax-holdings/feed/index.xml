@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tax holdings &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>CORPORATE CASH HOLDINGS</title>
+		<link>./../../2010/07/corporate-cash-holdings.html</link>
+		<comments>./../../2010/07/corporate-cash-holdings.html#respond</comments>
+		<pubDate>Thu, 08 Jul 2010 13:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[corporations]]></category>
+		<category><![CDATA[tax holdings]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/corporate-cash-holdings.html</guid>
+		<description><![CDATA[Recently there has been a claim that corporations are holding large sums of cash rather than investing it because they are fearful of Obama&#8217;s &#8220;socialist policies&#8221;. But if you compare corporate retained earnings to the GDP GAP lagged one year it looks like the debate should be over why corporations are investing so much. This [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://1.bp.blogspot.com/_Zh1bveXc8rA/TDYp7XGbp4I/AAAAAAAABPI/8CMMHuUDrPg/s1600/Clipboard02+CASH.bmp"><br /></a><br />Recently there has been a claim that corporations are holding large sums of cash rather than investing it because they are fearful of Obama&#8217;s &#8220;socialist policies&#8221;.</p>
+<p><a href="http://2.bp.blogspot.com/_Zh1bveXc8rA/TDXVRTdNuCI/AAAAAAAABPA/V69CbwV4YAg/s1600/Clipboard01-invest.bmp"><img src="http://2.bp.blogspot.com/_Zh1bveXc8rA/TDXVRTdNuCI/AAAAAAAABPA/V69CbwV4YAg/s320/Clipboard01-invest.bmp" alt="" border="0"></a></p>
+<p>But if you compare corporate retained earnings to the GDP GAP lagged one year it looks like the debate should be over why corporations are investing so much.  This determinate of corporate retained earnings implies that corporations are actually holding much less cash than the traditional relationship implies they should be.</p>
+<p>Commenters are saying this analysis should use cash flow rather than retained earnings.<br />OK, here is a chart comparing corporate cash flow to retained earnings.</p>
+<p><a href="http://1.bp.blogspot.com/_Zh1bveXc8rA/TDYp7XGbp4I/AAAAAAAABPI/8CMMHuUDrPg/s1600/Clipboard02+CASH.bmp"><img src="http://1.bp.blogspot.com/_Zh1bveXc8rA/TDYp7XGbp4I/AAAAAAAABPI/8CMMHuUDrPg/s320/Clipboard02+CASH.bmp" alt="" border="0"></a><br />The net cash flow data shows essentially the same pattern as the retained earnings data. It<br />does not make any difference except at the last couple of observations where  the cash flow data is turning down. So the only difference really contradicts the argument that Obama is scaring corporations into hording cash even more than the retained earnings data does. It shows net  cash flow as a % of profits falling over the last two quarters &#8212; just the opposite of what would be the case  if Obama was scaring corporate decision makers.</p>
+<p>Both series show that corporate decision makers appear to be much less concerned than they were at a very comparable point in the Reagan administration when the GDP GAP was about the same.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/corporate-cash-holdings.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

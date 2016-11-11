@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gas shortages &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Spencer on Industrial Production Report</title>
+		<link>./../../2008/09/spencer-on-industrial-production-report.html</link>
+		<comments>./../../2008/09/spencer-on-industrial-production-report.html#respond</comments>
+		<pubDate>Mon, 15 Sep 2008 15:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[gas shortages]]></category>
+		<category><![CDATA[real gdp per capita]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/spencer-on-industrial-production-report.html</guid>
+		<description><![CDATA[I&#8217;m on vacation, but had time to notice with all that is going on in the financial markets nobody noticed that industrial production fell 1.1% in August. Moreover, the June and July data were revised down. This is another observation supporting the analysis that third quarter real GDP growth will be very weak and maybe [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m on vacation, but had time to notice with all that is going on in the financial markets nobody noticed that industrial production fell 1.1% in August.  Moreover, the June and July data were revised down.</p>
+<p><a href="http://4.bp.blogspot.com/_Zh1bveXc8rA/SM6B9OT_T9I/AAAAAAAAAZY/B_zh_R-g-lo/s1600-h/Clipboard01.jpg"><img src="http://4.bp.blogspot.com/_Zh1bveXc8rA/SM6B9OT_T9I/AAAAAAAAAZY/B_zh_R-g-lo/s320/Clipboard01.jpg" alt="" border="0"></a>This is another observation supporting the analysis that third quarter real GDP growth will be very weak and maybe even negative even though we have no trade data yet.  But with real personal consumption expenditures down in June and nominal retail sales down in July the third quarter is looking much weaker than the first half.</p>
+<p>P.S.  I read several blogs reporting on gas shortages and price gouging, but Saturday as I drove from Atlanta to Charleston I  bought gas at $4.23.  What am I missing?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/spencer-on-industrial-production-report.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

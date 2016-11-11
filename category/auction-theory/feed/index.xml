@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>auction theory &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Examining The Damage to the NYC-area Economy</title>
+		<link>./../../2009/06/examining-the-damage-to-the-nyc-area-economy.html</link>
+		<comments>./../../2009/06/examining-the-damage-to-the-nyc-area-economy.html#respond</comments>
+		<pubDate>Tue, 30 Jun 2009 22:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[auction theory]]></category>
+		<category><![CDATA[correlation]]></category>
+		<category><![CDATA[just life]]></category>
+		<category><![CDATA[market-clearing prices]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/06/examining-the-damage-to-the-nyc-area-economy.html</guid>
+		<description><![CDATA[Being a seven-hour drive away, I don&#8217;t have as much direct knowledge of the NYC economy as I did a year or so ago. So I have to rely on Different Metrics. Here is one DrektheUninteresting (see #6) (of Scatterplot and Total Drek fame) will love, when he resurfaces. For those who want a contemporary [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Being a seven-hour drive away, I don&#8217;t have as much direct knowledge of the NYC economy as I did a year or so ago.  So I have to rely on Different Metrics.</p>
+<p>Here is one <a target="_blank" href="http://totaldrek.blogspot.com/2006/03/because-you-asked-for-it.html">DrektheUninteresting (see #6)</a> (of <a target="_blank" href="http://scatter.wordpress.com/">Scatterplot</a> and <a target="_blank" href="http://totaldrek.blogspot.com/">Total Drek</a> fame) will love, when he <a target="_blank" href="http://totaldrek.blogspot.com/2009/06/sorry-but.html">resurfaces</a>.</p>
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/RraO_caEAVI/AAAAAAAAACY/Cywcc_i2QLk/s1600-h/Becoming+Jane.jpg"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/RraO_caEAVI/AAAAAAAAACY/Cywcc_i2QLk/s400/Becoming+Jane.jpg" border="0" alt=""></a>
+<p>For those who want a contemporary view of how bad things have gotten in the U.S. economy in general and NYC, just check out the result of <a target="_blank" href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&#038;item=270416271566">this eBay auction</a>.</p>
+<p>The winning bid was $10,250.  The last time this item was auctioned, <a target="_blank" href="http://www.ecorazzi.com/2008/12/08/anne-hathaway-auctions-off-charity-date-for-12000/">a mere six months ago (though in Los Angeles)</a>, it went for $12,000.</p>
+<p>And a mere three years ago, the item was sold, in NYC, to <a target="_blank" href="http://nymag.com/news/intelligencer/17134/">two separate bidders (it being relatively non-rival), for $20,000 each</a>.</p>
+<p>Forget housing prices.  If you want a metric to judge the decline of the NYC-area economy, just consider the decline in bidding even as the value of the underlying <a target="_blank" href="http://us.imdb.com/news/ns0000002/#ni0858013">has gone up</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/06/examining-the-damage-to-the-nyc-area-economy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

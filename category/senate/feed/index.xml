@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Senate &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Inadequate monitoring</title>
+		<link>./../../2012/07/inadequate-monitoring.html</link>
+		<comments>./../../2012/07/inadequate-monitoring.html#respond</comments>
+		<pubDate>Wed, 18 Jul 2012 12:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 elections]]></category>
+		<category><![CDATA[OCC]]></category>
+		<category><![CDATA[Senate]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/inadequate-monitoring.html</guid>
+		<description><![CDATA[The Washington Post carried a story on a Senate hearing on money laundering, one example being HSBC. The criticism was aimed at the OCC regulators who failed to pursue the issue.  Also notice the fuss is over a foreign bank. The U.S. affiliate of global banking giant HSBC was for years a haven for foreign [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.washingtonpost.com/business/economy/senate-report-criticizes-hsbc-for-money-laundering-inadequate-monitoring/2012/07/16/gJQABhqXpW_story.html" target="_blank">The Washington Post</a> carried a story on a Senate hearing on money laundering, one example being HSBC.  The criticism was aimed at the OCC regulators who failed to pursue the issue.  Also notice the fuss is over a foreign bank.</p>
+<blockquote><p>The U.S. affiliate of global banking giant HSBC was for years a haven for foreign money laundering, drug-trafficking money and potential terrorist financing activities, largely because of the bank’s woefully inadequate monitoring practices, according to a 340-page Senate report scheduled for release Tuesday. </p></blockquote>
+<blockquote><p>The report chastises the bank’s primary U.S. regulator, the Office of the Comptroller of the Currency, for failing to take more aggressive enforcement measures against the bank after the OCC became aware of illicit activities.</p></blockquote>
+<p>Please save us from a Senate that cut the budget for an agency, and specifically for its enforcement arm by the head of the agency (mainly John Dugan&#8217;s watch), and who vigorously pushed deregulation and  federalization over state rules concerning consumers&#8230;and then wonders out loud why the &#8216;bad&#8217; guys aren&#8217;t dealt justice.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/inadequate-monitoring.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New tax law signed by Pres. Obama, DADT passes Senate</title>
+		<link>./../../2010/12/new-tax-law-signed-by-pres-obama-dadt-passes-senate.html</link>
+		<comments>./../../2010/12/new-tax-law-signed-by-pres-obama-dadt-passes-senate.html#respond</comments>
+		<pubDate>Sat, 18 Dec 2010 22:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Senate]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/new-tax-law-signed-by-pres-obama-dadt-passes-senate.html</guid>
+		<description><![CDATA[MSNBC reports Obama signs tax cut bill into law : The Senate vote was 65-31. The House had passed an identical version of the bill, 250-175, on Wednesday. Link to S4023 as passed by the Senate today. Obama was expected to sign it next week, although the change wouldn&#8217;t take immediate effect. The legislation says [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.msnbc.msn.com/id/40715888/ns/politics-capitol_hill/?GT1=43001">MSNBC</a> reports <a title="http://firstread.msnbc.msn.com/_news/2010/12/17/5670562-obama-signs-tax-cut-bill-into-law-" href="http://obama/">Obama signs tax cut bill into law</a> :<br />
+<blockquote>
+<p>The Senate vote was 65-31. The House had passed an identical version of the bill, 250-175, on Wednesday.</p>
+</blockquote>
+<p>Link to <a href="http://www.gpo.gov/fdsys/pkg/BILLS-111s4023pcs/pdf/BILLS-111s4023pcs.pdf" target="_blank">S4023</a> as passed by the Senate today.<br />
+<blockquote>
+<p>Obama was expected to sign it next week, although the change wouldn&#8217;t take immediate effect. The legislation says the president and his top military advisers must certify that lifting the ban won&#8217;t hurt troops&#8217; fighting ability. After that, there&#8217;s a 60-day waiting period for the military. </p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/new-tax-law-signed-by-pres-obama-dadt-passes-senate.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>H1B &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>H-1B Database</title>
+		<link>./../../2008/10/h-1b-database.html</link>
+		<comments>./../../2008/10/h-1b-database.html#respond</comments>
+		<pubDate>Wed, 08 Oct 2008 01:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[H1B]]></category>
+		<category><![CDATA[immigration]]></category>
+		<category><![CDATA[market wages]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/h-1b-database.html</guid>
+		<description><![CDATA[Here&#8217;s what Happens When I Click a Link by Accident: Does anyone believe the market rate for taxi drivers in Maryland is $11.41 an hour? The base salary for an Assistant Professor of Economics is $115-120K for elite schools (well, Harvard and Stanford, but you get the idea).* Morgan Stanley offered $85,000 for an Analyst [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Here&#8217;s what Happens When I Click <a href="http://www.iq.harvard.edu/blog/sss/archives/2008/10/dol_visa_data_r.shtml">a Link</a> by Accident:
+<ol>
+<li>Does anyone believe the market rate for taxi drivers in Maryland is $11.41 an hour?</li>
+<li>The base salary for an Assistant Professor of Economics is $115-120K for elite schools (well, Harvard and Stanford, but you get the idea).*</li>
+<li>Morgan Stanley offered $85,000 for an Analyst in 2006.  No indication whether it was a bonus-<s>paying</s>eligible position (though presumably the answer would have been &#8220;yes&#8221;).</li>
+</ol>
+<p>Have fun with the database.  Sure to stun and amaze.</p>
+<p>*Columbia offered far less for next year: an Assistant Professor at the Medical Center campus for $90,000 in 2006, an Associate Professor at the main campus for $95,000 in 2007.  But not certain what the specialties are.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/h-1b-database.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

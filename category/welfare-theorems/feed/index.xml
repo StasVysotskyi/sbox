@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Welfare Theorems &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Health Affairs States the Obvious, So We Don&#8217;t Have To</title>
+		<link>./../../2009/11/health-affairs-states-the-obvious-so-we-dont-have-to.html</link>
+		<comments>./../../2009/11/health-affairs-states-the-obvious-so-we-dont-have-to.html#respond</comments>
+		<pubDate>Tue, 17 Nov 2009 02:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[gender equality]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[Pareto optimality]]></category>
+		<category><![CDATA[Welfare Theorems]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/health-affairs-states-the-obvious-so-we-dont-have-to.html</guid>
+		<description><![CDATA[Bob Somerby has been on a rant at The Daily Howler that &#8220;liberals&#8221; do not understand the Stupak Amendment. Unfortunately, claims he makes about Rachel Maddow and Keith Olbermann and their guests do not apply to Laurie Rubner. At the Health Affairs blog, Ms. Rubner is direct and to the point: From the very beginning, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Bob Somerby has been on a rant at <a target="_blank" href="http://dailyhowler.com/">The Daily Howler</a> that &#8220;liberals&#8221; do not understand the Stupak Amendment.</p>
+<p>Unfortunately, claims he makes about Rachel Maddow and Keith Olbermann and their guests do not apply to Laurie Rubner.  At the Health Affairs blog, <a target="_blank" href="http://healthaffairs.org/blog/2009/11/16/health-reform-and-abortion-the-stupak-amendment-hurts-women/">Ms. Rubner is direct and to the point</a>:<br />
+<blockquote>From the very beginning, a central tenet of health care reform was that no one would lose coverage they already have. That’s why so many women are outraged by the Stupak amendment to the health reform legislation recently passed by the House.  It goes against one of the fundamental tenets of health care reform: do not leave anyone worse off than they were before reform&#8230;.</p>
+<p>The Stupak amendment extends the group of women ineligible for abortion coverage far beyond its current breadth. It is essentially a middle-class abortion ban. The exchange would offer coverage to many of the 17 million women ages 18–64 who are uninsured, along with the 5.7 million women who are now purchasing coverage in the individual market. In addition, small employers are also likely to purchase their health insurance through the exchange where they may find more affordable options. Because the majority of health insurance plans in the private insurance market currently include abortion, many women will lose coverage that they already have in an exchange where abortion coverage is not permitted.</p></blockquote>
+<p>The Stupak Amendment is, among its other ills, <strong>not</strong> Pareto-optimal.</p>
+<p>I wait—patiently, of course—for <a target="_blank" href="http://capitalgainsandgames.com/">Andrew Samwick</a> or <a target="_blank" href="http://gregmankiw.blogspot.com/">Greg Mankiw</a> or even Sensible Centrist Economists such as <a target="_blank" href="http://delong.typepad.com/">Brad DeLong</a> and <a target="_blank" href="http://economistsview.typepad.com/">Mark Thoma</a> to denounce the Stupak Amendment as a violation of the <a target="_blank" href="http://en.wikipedia.org/wiki/First_welfare_theorem">First Welfare Theorem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/health-affairs-states-the-obvious-so-we-dont-have-to.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

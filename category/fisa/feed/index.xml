@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FISA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>A Civil Libertarian is a Congressperson who got Wiretapped</title>
+		<link>./../../2009/04/a-civil-libertarian-is-a-congressperson-who-got-wiretapped.html</link>
+		<comments>./../../2009/04/a-civil-libertarian-is-a-congressperson-who-got-wiretapped.html#respond</comments>
+		<pubDate>Fri, 24 Apr 2009 04:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[4th Amendment]]></category>
+		<category><![CDATA[Bush]]></category>
+		<category><![CDATA[congress]]></category>
+		<category><![CDATA[FISA]]></category>
+		<category><![CDATA[illegalities]]></category>
+		<category><![CDATA[immunity]]></category>
+		<category><![CDATA[rule of law]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[telephony]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/a-civil-libertarian-is-a-congressperson-who-got-wiretapped.html</guid>
+		<description><![CDATA[Greenwald on Harman. Read the whole thing. Sample: when the U.S. Government eavesdropped for years on American citizens with no warrants and in violation of the law, that was &#8220;both legal and necessary&#8221; as well as &#8220;essential to U.S. national security,&#8221; and it was the &#8220;despicable&#8221; whistle-blowers (such as Thomas Tamm) who disclosed that crime [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Greenwald on Harman. Read <a target="_blank" href="http://www.salon.com/opinion/greenwald/2009/04/21/harman/index.html">the whole thing</a>.</p>
+<p>Sample:<br />
+<blockquote>when the U.S. Government eavesdropped for years on American citizens with no warrants and in violation of the law, that was &#8220;both legal and necessary&#8221; as well as &#8220;essential to U.S. national security,&#8221; and it was the &#8220;despicable&#8221; whistle-blowers (such as Thomas Tamm) who disclosed that crime and the newspapers which reported it who should have been criminally investigated, but not the lawbreaking government officials.  But when the U.S. Government legally and with warrants eavesdrops on Jane Harman, that is an outrageous invasion of privacy and a violent assault on her rights as an American citizen, and full-scale investigations must be commenced immediately to get to the bottom of this abuse of power. [links in original omitted; emphasis his]</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/a-civil-libertarian-is-a-congressperson-who-got-wiretapped.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

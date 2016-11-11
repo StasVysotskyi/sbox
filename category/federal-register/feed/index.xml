@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>federal register &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Obama and Regulatory Uncertainty</title>
+		<link>./../../2011/09/obama-and-regulatory-uncertainty.html</link>
+		<comments>./../../2011/09/obama-and-regulatory-uncertainty.html#respond</comments>
+		<pubDate>Fri, 09 Sep 2011 14:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[federal register]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[Spencer England]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/obama-and-regulatory-uncertainty.html</guid>
+		<description><![CDATA[One of the current Republican talking point is that a major reason that firms are not hiring is regulatory uncertainty. Of course there is little or no evidence to support this argument and virtually every poll of business and especially small business shows that fear of regulation is a very minor factor in current business [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of the current Republican talking point is that a major reason that firms are not hiring is regulatory uncertainty.</p>
+<p>Of course there is little or no evidence to support this argument and virtually every poll of business and especially small business shows that fear of regulation is a very minor factor in current business decisions. The dominant factor in poll after poll is inadequate demand.</p>
+<p>ON 11 June 2004 Milton Friedman published an interesting article in the Wall Street Journal Editorial Page called &#8220;Freedom&#8217;s Friend&#8221; [reprint available <a href="http://www.hoover.org/publications/hoover-digest/article/7293">here</a>], where he proposed that the number of pages in the Federal Register could be used as a measure of government&#8217;s interference in people lives and a measure of freedom.<br /><a name="more"></a></p>
+<p>I&#8217;ve looked at this measure before, <a href="http://www.angrybearblog.com/2008/08/president-bush-and-federal-registery.html">back in 2008</a>. Given this new Republican talking point it seems a good time to revisit it, so I&#8217;ve updated the data to include the first two years of the Obama administration. The chart compares the average number of pages published in the Federal Register each year. This measure allows you to compare the number of pages in four-year and eight-year administrations, as well as the number in the first two years of the Obama administration. If you tried to chart the total number of pages published over an administration, you could not make this type of comparison very well.</p>
+<p>Milton Friedman wanted to use this approach to demonstrate that Reagan interfered in people freedom less than other presidents. He clearly made that point, and if you update the chart it shows that Bush II set the all time record for the number of pages in the Federal Register. Of course, the Republicans would deny that the record level of interference in people&#8217;s freedom by President Bush caused business to limit hiring.</p>
+<p>But in the first two years of the Obama administration the number of pages in the Federal Register averaged 75,875 as compared to and average of 75,894 under Bush. So far Obama appears to have published -0.02% fewer regulations than Bush. Of course, he still has time to move ahead of Bush. But as of yet this measure implies that there is actually less regulatory uncertainty under Obama than there was under Bush when the Republicans obviously made no claims about regulatory uncertainty restraining employment.</p>
+<p><a href="http://1.bp.blogspot.com/-Lj_kbvv0aQA/TmopJzTxxyI/AAAAAAAABuk/yLdofOoVlG4/s1600/Clipboard02.bmp"><img src="http://1.bp.blogspot.com/-Lj_kbvv0aQA/TmopJzTxxyI/AAAAAAAABuk/yLdofOoVlG4/s320/Clipboard02.bmp" alt="" border="0"></a></p>
+<p>I wonder if anyone in the press would pick up this point and actually question some Republican when they make this talking point.</p>
+<p>I clearly miss [the late] Mark Haines of CNBC, who would regularly call politicians or other fools on such talking points. This would clearly give someone else at CNBC the chance to pick up where Mark Haines left off.</p>
+<p>At least, I hope some other popular bloggers will spread this analysis.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/obama-and-regulatory-uncertainty.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Federal Register v. 2.0</title>
+		<link>./../../2010/08/federal-register-v-2-0.html</link>
+		<comments>./../../2010/08/federal-register-v-2-0.html#respond</comments>
+		<pubDate>Mon, 16 Aug 2010 18:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[federal register]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/federal-register-v-2-0.html</guid>
+		<description><![CDATA[Federal Register Improved version 2.0 is now available for use, and includes on some items a link to the that particular item that is open to comments at Regulations.gov.]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.federalregister.gov/">Federal Register Improved version 2.0</a> is now available for use, and includes on some items a link to the that particular item that is open to comments at Regulations.gov.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/federal-register-v-2-0.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

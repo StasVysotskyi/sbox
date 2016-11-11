@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>equilibrium &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Disease of the 21st Century…</title>
+		<link>./../../2012/07/the-disease-of-the-21st-century.html</link>
+		<comments>./../../2012/07/the-disease-of-the-21st-century.html#respond</comments>
+		<pubDate>Wed, 04 Jul 2012 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[equilibrium]]></category>
+		<category><![CDATA[jobs]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/the-disease-of-the-21st-century.html</guid>
+		<description><![CDATA[Via AlterNet, Lynn Parramore describes: Job Insecurity: It&#8217;s the Disease of the 21st Century &#8212; And It&#8217;s Killing Us A massive, Xanax-fueled public health crisis driven by chronic employment worry is headed our way. Remember Dilbert, the mid-level, white-collar Cubicle Guy of the &#8217;90s who could never seem to get ahead? In the 21st century, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://www.alternet.org/">AlterNet</a>, <a href="http://www.alternet.org/authors/11789/">Lynn Parramore</a> describes:</p>
+<p>Job Insecurity: It&#8217;s the Disease of the 21st Century &#8212; And It&#8217;s Killing Us<br />
+<blockquote>A massive, Xanax-fueled public health crisis driven by chronic employment worry is headed our way.<br /> Remember Dilbert, the mid-level, white-collar Cubicle Guy of the &#8217;90s who could never seem to get ahead? In the 21st century, his position looks almost enviable.<br />He has been replaced by Waiting-For-the-Other-Shoe-to-Drop Man.</p></blockquote>
+<p><img src="http://images.alternet.org/images/managed/storyimages_1341171312_jobstress.jpg_640x557_310x220"><br /><i><small>Photo Credit: shutterstock</small></i><br /><em>Editor&#8217;s Note: This is the first in an ongoing series on job insecurity. </em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/the-disease-of-the-21st-century.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

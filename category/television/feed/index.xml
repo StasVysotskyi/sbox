@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>television &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Weird Tom Disch Connection</title>
+		<link>./../../2008/07/weird-tom-disch-connection.html</link>
+		<comments>./../../2008/07/weird-tom-disch-connection.html#respond</comments>
+		<pubDate>Mon, 21 Jul 2008 02:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[sf]]></category>
+		<category><![CDATA[television]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/weird-tom-disch-connection.html</guid>
+		<description><![CDATA[Today at Readercon, my wife participated on a Necrology panel. (&#8220;Those we&#8217;ve lost this year&#8230;&#8221;) An audience member mentioned that Tom Disch wrote an episode of Miami Vice, featuring James Brown. Also appearing was Chris Rock, four years before New Jack City made him a movie star. Anyone who can tell me about the episode? [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today at Readercon, my wife participated on a Necrology panel. (&#8220;Those we&#8217;ve lost this year&#8230;&#8221;)</p>
+<p>An audience member mentioned that <a href="http://angrybear.blogspot.com/2008/07/not-painless-or-theres-no-way-i-could.html">Tom Disch</a> wrote <a href="http://us.imdb.com/title/tt0647099/">an episode of Miami Vice</a>, featuring James Brown.</p>
+<p>Also appearing was Chris Rock, four years before <a href="http://us.imdb.com/title/tt0102526/">New Jack City</a> made him a movie star.</p>
+<p>Anyone who can tell me about the episode?  If not, consider this an open thread.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/weird-tom-disch-connection.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

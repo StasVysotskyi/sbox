@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IDS &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>HEALTH CARE thoughts: Integration Speeds Forward</title>
+		<link>./../../2010/08/health-care-thoughts-integration-speeds-forward.html</link>
+		<comments>./../../2010/08/health-care-thoughts-integration-speeds-forward.html#respond</comments>
+		<pubDate>Wed, 04 Aug 2010 09:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health reform]]></category>
+		<category><![CDATA[IDS]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/health-care-thoughts-integration-speeds-forward.html</guid>
+		<description><![CDATA[by Tom aka Rusty Rustbelt HEALTH CARE thoughts: Integration Speeds Forward Among those who ponder the operational aspects of health care reform, there is strong sentiment for more use of Integrated Delivery Systems (IDS) in delivering health care. This is hardly a new concept, but it may well be the concept of the future. My [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Tom aka Rusty Rustbelt</strong></p>
+<p>HEALTH CARE thoughts: <strong>Integration Speeds Forward</strong></p>
+<p> Among those who ponder the operational aspects of health care reform, there is strong sentiment for more use of Integrated Delivery Systems (IDS) in delivering health care.</p>
+<p>This is hardly a new concept, but it may well be the concept of the future. </p>
+<p>My focus is largely on physician integration although there are other aspects, but the docs are the really big issue, as they drive admissions and order testing.</p>
+<p> The first big IDS wave occurred in the early to mid-90s, as physicians and hospitals tried various medical service organization (MSO) models; essentially the hospital owned the physician practices. Many of these deals were disasters, some worked, some evolved into something that worked.</p>
+<p>The idea is that if a central entity (an insurer, a hospital, or a hospital network) owns and coordinates services there will better care coordination and cost savings. </p>
+<p>The successful integrations so far have largely focused on family practice, internal medicine and ob-gyn (the OBs assistance with malpractice premiums and 24/7 coverage issues).</p>
+<p>An interesting change is surfacing, the acceptance of specialists and surgeons into IDS models. Historically there has been a great deal of friction between these docs and the hospitals.</p>
+<p>Why the change? Fear of dire economic consequences of staying in a traditional group practice model. Preliminary numbers from the 6/30/2010 residency class is that for the first time, a majority may opt for IDS employment rather than group practice. There are also reports that young docs are more concerned with life balance issues than previous generations.</p>
+<p> So, any problems?</p>
+<p>Hospitals are notoriously bad at managing physician practices, physician contracts must be structured carefully, physician productivity sometimes drops off with a steady paycheck, and the process of merging practices and/or converting ownership is a great deal of complex work at no small cost. Also, making this work in rural areas is tough.</p>
+<p>Biggest question, will IDS on a large scale really cut costs? Or just reshuffle the deck chairs?</p>
+<p>Tom aka Rusty Rustbelt</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/health-care-thoughts-integration-speeds-forward.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

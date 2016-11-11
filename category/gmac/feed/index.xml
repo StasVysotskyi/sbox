@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GMAC &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>What does the new GM have to say about trade??</title>
+		<link>./../../2010/11/what-does-the-new-gm-have-to-say-about-trade.html</link>
+		<comments>./../../2010/11/what-does-the-new-gm-have-to-say-about-trade.html#respond</comments>
+		<pubDate>Thu, 18 Nov 2010 20:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GMAC]]></category>
+		<category><![CDATA[trade policy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/what-does-the-new-gm-have-to-say-about-trade.html</guid>
+		<description><![CDATA[There is a lot of fanfare today about the success of GM to date as it turns around the bankruptcy of a couple years ago. Let&#8217;s look at the nature of this success, which may offer voters an insight into patterns of successful competition as it stands today. So, what does the new GM look [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There is a lot of fanfare today about the success of GM to date as it turns around the bankruptcy of a couple years ago.  Let&#8217;s look at the nature of this success, which may offer voters  an insight into patterns of successful competition as it stands today.</p>
+</p>
+<blockquote><p>So, what does the new GM look like? A few nuggets from the registration statement:
+</p>
+<ul>
+<li>33 percent of its sales come from North America;</li>
+<li>44.5 percent come from Asia-Pacific, South America, Russia, Eastern Europe, Africa and the Middle East, including a market-leading position in China;</li>
+<li>43% of its vehicles are manufactured in regions of the world where the &#8220;all-in&#8221; labor cost is under $15 an hour;</li>
+<li>Its U.S. pension plans remain underfunded by about $17.1 billion. </li>
+</ul>
+<p>Here&#8217;s wishing the new GM success.</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/what-does-the-new-gm-have-to-say-about-trade.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GMAC Flashback</title>
+		<link>./../../2008/12/gmac-flashback.html</link>
+		<comments>./../../2008/12/gmac-flashback.html#respond</comments>
+		<pubDate>Wed, 31 Dec 2008 06:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[GM]]></category>
+		<category><![CDATA[GMAC]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/gmac-flashback.html</guid>
+		<description><![CDATA[The whining has started, with most people (e.g., Chris Whalen at The Big Picture) making the obvious mistake of confusing GMAC with General Motors. In the interest of history, I quote myself from the Dark Ages (March 2007) at Tom&#8217;s Place: The next time GM explains that its pensioners need to take a hit, it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The whining has started, with most people (e.g., <a href="http://www.ritholtz.com/blog/2008/12/gmac-decision-by-the-fed-is-a-travesty/">Chris Whalen at The Big Picture</a>) making the obvious mistake of confusing GMAC with General Motors.</p>
+<p>In the interest of history, I quote myself from the Dark Ages (March 2007) <a href="http://atbozzo.blogspot.com/2007/03/buy-gm-cars-mortgage-market-needs-to-be.html">at Tom&#8217;s Place</a>:<br />
+<blockquote>The next time GM explains that its pensioners need to take a hit, it won&#8217;t be because car sales have fallen.</p>
+<p>It will be because of their subprime mortgage lending [original link expired]:<br />
+<blockquote>GMAC&#8217;s ResCap unit, which specializes in housing finance, reported $48 billion in subprime loans &#8212; about 76 percent of its mortgage portfolio as of year end.</p>
+<p>ResCap increased its allowance for loan losses to 2.17 percent at year-end from 1.55 percent a year earlier and reported a spike in nonperforming loans to 10.5 percent of its mortgage portfolio.</p></blockquote>
+<p>&#8230;<br />
+<blockquote>GMAC said it earned $1 billion in the fourth quarter of 2006, compared with $112 million a year earlier. The results included a $791 million tax benefit from its conversion to a limited liability company.</p></blockquote>
+<p>Translation: that&#8217;s another $791 million that GM pensioners and others will have to pay into the general fund.</p></blockquote>
+<p>Loaning to the auto industry may be dicey, but it pales compared to a mortgage portfolio that was 76% subprime at the end of 2006.</p>
+<p>GMAC may &#8220;need&#8221; to be bailed out, but that&#8217;s not because of its auto industry exposure.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/gmac-flashback.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

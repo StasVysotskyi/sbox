@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>micro foundations &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Krugman and Waldmann</title>
+		<link>./../../2012/03/krugman-and-waldmann.html</link>
+		<comments>./../../2012/03/krugman-and-waldmann.html#respond</comments>
+		<pubDate>Thu, 15 Mar 2012 13:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[micro foundations]]></category>
+		<category><![CDATA[New York Times]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/krugman-and-waldmann.html</guid>
+		<description><![CDATA[Paul Krugman notes Angry Bear Robert Waldmann in the micro/macro conversation in the New York Times: There has been an ongoing discussion in the econoblogosphere about the usefulness or lack thereof of “microfoundations” in macroeconomics, which in practice means trying to write down models in which aggregate behavior is justified in terms of the actions of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://krugman.blogs.nytimes.com/2012/03/13/microfoundations-micro-payoffs-wonkish/">Paul Krugman</a> notes Angry Bear Robert Waldmann in the micro/macro conversation in the New York Times: <br />
+<blockquote>There has been an ongoing discussion in the econoblogosphere about the usefulness or lack thereof of “microfoundations” in macroeconomics, which in practice means trying to write down models in which aggregate behavior is justified in terms of the actions of utility-maximizing individuals with rational expectations.<br /> &#8230; </p></blockquote>
+<blockquote><p>But bear in mind what we’ve actually seen in academic economics: the development of an ethos in which only microfounded models are considered “real” theory, in which it’s basically impossible to publish a paper unless it’s intertemporal optimization all the way. That’s the kind of dominance a theory is only entitled to if it produces dramatically better predictions than the theory it has crowded out<br />&#8230; </p></blockquote>
+<blockquote><p>Wren-Lewis says he disagrees, but as <a href="http://www.angrybearblog.com/2012/03/very-rude-comments.html">Robert Waldmann says</a>, his examples offer <a href="http://mainlymacro.blogspot.com/2012/03/what-have-microfoundations-ever-done.html">very thin gruel</a>. The failure of the commodity price shock to filter into wider inflation? Lots of people predicted this without any appeal to microfoundations, just the observation that wage contracts were no longer indexed and oil as a share of GDP was lower than in the 70s. </p></blockquote>
+<blockquote><p>The basic picture is that we’ve seen a more or less complete takeover of macro by an approach that hasn’t remotely earned the right to that kind of dominance.</p></blockquote>
+<p><a href="http://noahpinionblog.blogspot.com/2012/03/thursday-roundup-3152012.html" target="_blank">Noah Smith</a> at <i>Noahpinion</i> has an impressive listing on Thursday&#8217;s Roundup of the many involved in the conversation:</p>
+<blockquote><p>This week in econ: A bunch of people are talking about philosophy-of-macroeconomics, which I like&#8230;things like microfoundations, rational expectations, bounded rationality, learning, and untested hypotheses. This is just my kind of nerdery! Elsewhere, people are arguing about monetary policy even more than usual. It&#8217;s another day in the ER&#8230;er&#8230;econosphere.. </p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/krugman-and-waldmann.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

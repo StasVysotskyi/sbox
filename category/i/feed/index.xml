@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>I &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>MISLEADING HEADLINES?</title>
+		<link>./../../2009/06/misleading-headlines.html</link>
+		<comments>./../../2009/06/misleading-headlines.html#respond</comments>
+		<pubDate>Wed, 24 Jun 2009 11:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[I]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/06/misleading-headlines.html</guid>
+		<description><![CDATA[By Spencer In today&#8217;s New York Times business section I read this headline: Weak Dollar Helps Send Profit Down at Oracle As I read the article I found this statement: The company attributed the declines to the effects of a stronger dollar, which makes deals done in other currencies worth less. I wonder which statement [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Spencer</p>
+<p>In today&#8217;s New York Times business section I read this headline:</p>
+<p>Weak Dollar Helps Send Profit Down at Oracle</p>
+<p>As I read the article I found this statement:</p>
+<p>The company attributed the declines to the effects of a stronger dollar, which makes deals done in other currencies worth less.</p>
+<p>I wonder which statement is correct.</p>
+<p>In general, the best relationship between the dollar  and earnings growth is a negative relationship between the change in the dollar lagged about one year.</p>
+<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/SkIvaDcuAjI/AAAAAAAAAys/DV-ynnd1IJY/s1600-h/Clipboard01.jpg"><img src="http://3.bp.blogspot.com/_Zh1bveXc8rA/SkIvaDcuAjI/AAAAAAAAAys/DV-ynnd1IJY/s320/Clipboard01.jpg" alt="" border="0"></a>P.S.   Earlier chart updated to show last year.  Thanks Greg.</p>
+<p>Note, despite all the headlines about the weak dollar, in May the dollar was 15% above its year    ago level.  Like bonds, late last year when the markets feared a depression scenario the dollar rallied strongly, and the recent weakness looks more like a return to normal than anything else.</p>
+<p><a href="http://1.bp.blogspot.com/_Zh1bveXc8rA/SkIZJM94A4I/AAAAAAAAAyk/_7WIp4X1aME/s1600-h/Clipboard02.jpg"><img src="http://1.bp.blogspot.com/_Zh1bveXc8rA/SkIZJM94A4I/AAAAAAAAAyk/_7WIp4X1aME/s320/Clipboard02.jpg" alt="" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/06/misleading-headlines.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

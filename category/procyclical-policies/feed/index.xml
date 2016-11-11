@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>procyclical policies &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Which Economy Is Pursuing Procyclical Fiscal Policy?</title>
+		<link>./../../2012/02/which-economy-is-pursuing-procyclical-fiscal-policy.html</link>
+		<comments>./../../2012/02/which-economy-is-pursuing-procyclical-fiscal-policy.html#respond</comments>
+		<pubDate>Mon, 06 Feb 2012 20:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[procyclical policies]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/which-economy-is-pursuing-procyclical-fiscal-policy.html</guid>
+		<description><![CDATA[by  Rebecca Wilder Which Economy Is Pursuing Procyclical Fiscal Policy? Today the BLS reported that the US unemployment rate dropped to 8.3% in January 2012. This is the lowest measured rate since February 2009 – a local trough. Also this week, Eurostat reported that the Euro area (EA) unemployment rate stabilized in December at 10.4%. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by  <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a> </p>
+<p><strong>Which Economy Is Pursuing Procyclical Fiscal Policy?</strong></p>
+<p>Today the <a href="http://bls.gov/news.release/empsit.nr0.htm">BLS reported </a>that the US unemployment rate dropped to 8.3% in January 2012. This is the lowest measured rate since February 2009 – a local trough. Also this week, <a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/3-31012012-AP/EN/3-31012012-AP-EN.PDF">Eurostat reported </a>that the Euro area (EA) unemployment rate stabilized in December at 10.4%. This is the highest level since inception of the euro – a global peak (so far).</p>
+<p>It’s pretty easy to see through relative labor performance which economy is pursuing procyclical fiscal policy, namely deficits rise when the economy is booming and fall when the economy is contracting: the EA.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/02/urate_chart1.jpg"><img alt="" height="400" src="http://www.economonitor.com/rebeccawilder/files/2012/02/urate_chart1.jpg" width="600"></a></p>
+<p>originally published at <a href="http://www.economonitor.com/rebeccawilder/">The Wilder View&#8230;Economonitors</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/which-economy-is-pursuing-procyclical-fiscal-policy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

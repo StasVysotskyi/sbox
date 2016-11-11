@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Buce &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Random Notes 3 June 2011</title>
+		<link>./../../2011/06/random-notes-3-june-2011.html</link>
+		<comments>./../../2011/06/random-notes-3-june-2011.html#respond</comments>
+		<pubDate>Fri, 03 Jun 2011 17:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[asset values]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Buce]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[housing]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[Income redistribution]]></category>
+		<category><![CDATA[meta]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/random-notes-3-june-2011.html</guid>
+		<description><![CDATA[Buce has been on fire recently, so I&#8217;ll probably have to do a post about why this post is so off-target, though his conclusion is correct (short version: he&#8217;s been misled). If I&#8217;m reading this morning&#8217;s SIFMA Brief correctly, Moody&#8217;s—whose rating skills Robert has discussed at length—(1) may downgrade US debt if we spend too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<ol>
+<li><a href="http://underbelly-buce.blogspot.com/">Buce</a> has been on fire recently, so I&#8217;ll probably have to do a post about why <a href="http://underbelly-buce.blogspot.com/2011/05/can-taxpayers-thank-eliot-spitzer-for.html">this post</a> is so off-target, though his conclusion is correct (short version: he&#8217;s been misled).</p>
+</li>
+<li>If I&#8217;m reading this morning&#8217;s <a href="http://www.smartbrief.com/servlet/encodeServlet?issueid=B7FCF69E-7215-4E6D-AC62-53F6A3532773&#038;sid=4da1e808-6b9f-4d1d-bfb8-caea93b4c6d8">SIFMA Brief</a> correctly, Moody&#8217;s—whose rating skills Robert has discussed at length—(1) may downgrade US debt <a href="http://r.smartbrief.com/resp/cVvhCcmoBhBZAweeXXqh">if we spend too much </a>and (2) will downgrade US banks <a href="http://r.smartbrief.com/resp/cVvhCcmoBhBZAweltoih">unless we spend too much on them</a>.  Oh, and the banks object to regulation because it would <a href="http://r.smartbrief.com/resp/cVvhCcmoBhBZAweBelfW">&#8220;artificially&#8221; reduce asset values</a> (presumably, many of the same ones Moody&#8217;s wants protected).
+</li>
+<li>Relatedly, James Salt (probably h/t Felix) notes that &#8220;generous&#8221; UK banks are <a href="http://blogs.reuters.com/jim-saft/2011/06/02/beware-generous-uk-banks/">playing reporting games</a>.  (The US version is to deny the rework and leave the asset marked at unsustainable levels.)
+</li>
+<li>That <a href="http://holykaw.alltop.com/school-superintendent-requests-school-be-turn">this is spot-on</a> would make me sadder if I thought we still lived in anything resembling a meritocracy, or even a developing economy.
+</li>
+<li>If we needed further evidence of that, the state with the best secondary eduction system in the country is pushing forward with <a href="http://schoolfinance101.wordpress.com/2011/06/03/the-offensively-defensive-ideology-of-charter-schooling/">privatize-the-gains</a>.
+</li>
+<li>I&#8217;m more and more convinced that China &#8220;is different,&#8221; but very much not certain the differences will make an ultimate difference.  Daniel Gross <a href="http://finance.yahoo.com/blogs/daily-ticker/bear-china-shop-163217166.html">is inclined to think not</a>.  More on this as I finally finish my review of <a href="http://www.amazon.com/Boombustology-Spotting-Financial-Bubbles-Before/dp/0470879467/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1305207274&#038;sr=1-1"><em>BoomBustOlogy</em></a>, which you should expect to see some time before the apocalypse.
+</li>
+<li>I assume everyone has already seen <a href="http://www.stanford.edu/group/scspi/cgi-bin/facts.php">this</a>.  Just in case, <a href="http://www.stanford.edu/group/scspi/cgi-bin/facts.php">check out the facts</a>, stylised or not.
+</li>
+<li>Oh, and Felix is wrong <a href="http://blogs.reuters.com/felix-salmon/2011/05/31/the-stocks-housing-disconnect/">here</a>.  But that&#8217;s a post that will probably never be written by me.  Someone else want to send it in?</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/random-notes-3-june-2011.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

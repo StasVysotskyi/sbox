@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Daily Writ &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Even The Tragicomical Newly-Released Supreme Court ‘Cert. Grant’ Statistics Don’t Reveal The Worst Of It</title>
+		<link>./../../2013/01/even-the-tragicomical-newly-released-supreme-court-cert-grant-statistics-dont-reveal-the-worst-of-it.html</link>
+		<comments>./../../2013/01/even-the-tragicomical-newly-released-supreme-court-cert-grant-statistics-dont-reveal-the-worst-of-it.html#respond</comments>
+		<pubDate>Thu, 10 Jan 2013 17:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[cert. petitions]]></category>
+		<category><![CDATA[Daily Writ]]></category>
+		<category><![CDATA[Supreme court]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/even-the-tragicomical-newly-released-supreme-court-cert-grant-statistics-dont-reveal-the-worst-of-it.html</guid>
+		<description><![CDATA[From a website called Daily Writ today, in a post called “Likelihood of a Petition Being Granted”: There are a lot of numbers thrown out about the likelihood of a cert. petition being granted. The number I’ve always heard is 1%, but I sometimes hear numbers as high as 5%. According to statistics from the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div dir="ltr">From a website called Daily Writ today, in a post called “<a href="http://dailywrit.com/2013/01/likelihood-of-a-petition-being-granted/">Likelihood of a Petition Being Granted</a>”:</div>
+<div dir="ltr">There are a lot of numbers thrown out about the likelihood of a cert. petition being granted. The number I’ve always heard is 1%, but I sometimes hear numbers as high as 5%.</div>
+<div dir="ltr"></div>
+<div dir="ltr">According to <a href="http://www.supremecourt.gov/orders/journal/jnl11.pdf">statistics</a> from the Supreme Court, between June 30, 2011 and July 2, 2012, the Court disposed of 7,654 appeals and granted 63 for oral argument (.862%). That doesn’t count GVRs, but with those, it is safe to say the rate of grant is about 1% for all cert. petitions.</div>
+<div dir="ltr"></div>
+<div dir="ltr">If you want to break up petitions into paid and IFP petitions — the most obvious division among all appeals filed at the Court — the following table provides a breakdown of the cases disposed of and granted during a twelve-month period between June 2011 and July 2012:</div>
+<div dir="ltr"></div>
+<div dir="ltr">
+<table>
+<colgroup></colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>
+<div dir="ltr">Paid</div>
+</td>
+<td>
+<div dir="ltr">IFP</div>
+</td>
+<td>
+<div dir="ltr">Total</div>
+</td>
+</tr>
+<tr>
+<td>
+<div dir="ltr">Disposed</div>
+</td>
+<td>
+<div dir="ltr">1564</div>
+</td>
+<td>
+<div dir="ltr">6090</div>
+</td>
+<td>
+<div dir="ltr">7654</div>
+</td>
+</tr>
+<tr>
+<td>
+<div dir="ltr">Granted</div>
+</td>
+<td>
+<div dir="ltr">59</div>
+</td>
+<td>
+<div dir="ltr">7</div>
+</td>
+<td>
+<div dir="ltr">66</div>
+</td>
+</tr>
+<tr>
+<td>
+<div dir="ltr">Percentage</div>
+</td>
+<td>
+<div dir="ltr">3.77%</div>
+</td>
+<td>
+<div dir="ltr">.114%</div>
+</td>
+<td>
+<div dir="ltr">.862%</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>
+<div dir="ltr">Of course, last year was a slight aberration because the Court decided fewer cases after oral argument than it had in at least the past twenty years. But data from the previous year confirms that the past year was only a slight deviation from the norm. During the previous twelve-month period, the Court granted 76 of 1580 paid petitions (4.8%), 14 of 6245 IFP petitions (.224%), and 90 of 7825 all petitions filed (1.15%). Here are averages of the past 10 years:</div>
+<div dir="ltr"></div>
+<div dir="ltr">
+<table>
+<colgroup></colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>
+<div dir="ltr">Paid</div>
+</td>
+<td>
+<div dir="ltr">IFP</div>
+</td>
+<td>
+<div dir="ltr">Total</div>
+</td>
+</tr>
+<tr>
+<td>
+<div dir="ltr">Disposed</div>
+</td>
+<td>
+<div dir="ltr">1674.3</div>
+</td>
+<td>
+<div dir="ltr">6384.6</div>
+</td>
+<td>
+<div dir="ltr">8058.9</div>
+</td>
+</tr>
+<tr>
+<td>
+<div dir="ltr">Granted</div>
+</td>
+<td>
+<div dir="ltr">71.8</div>
+</td>
+<td>
+<div dir="ltr">11</div>
+</td>
+<td>
+<div dir="ltr">82.8</div>
+</td>
+</tr>
+<tr>
+<td>
+<div dir="ltr">Percentage</div>
+</td>
+<td>
+<div dir="ltr">4.29%</div>
+</td>
+<td>
+<div dir="ltr">.172%</div>
+</td>
+<td>
+<div dir="ltr">1.03%</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div dir="ltr">If you need to tell someone how likely it is that a petition will be granted, here is a cheat sheet:</div>
+<p>
+<ul>
+<li dir="ltr">
+<div dir="ltr">Overall: 1%</div>
+</li>
+<li dir="ltr">
+<div dir="ltr">Paid petition: 4%</div>
+</li>
+<li dir="ltr">
+<div dir="ltr">IFP petition: .1%</div>
+</li>
+</ul>
+<p>But even those bald statistics don’t accurately indicate what’s happening.  “IMP” stands for “in forma pauperis.”  In order to be permitted to file a Supreme Court “cert. petition” (a petition asking the Court to hear your case in  order to consider reversing the lower appellate court’s ruling against you, on some issue of federal law) without paying the filing fee&#8211;or, for that matter, in order to be permitted to file any lawsuit or appeal at any level of the state or federal court system, without paying the filing fee to do so&#8211;you have to demonstrate that you do not have the filing fee.  
+<div>The filing fee for a cert. petition is $300, which actually is $155 less than the fee to file an appeal in a lower federal appellate court (called a “circuit” court).  And since almost all federal lawsuits filed by ordinary individuals are systematically dismissed by the trial-court-level judge (knows as the “district judge”) shortly after they’re filed, and you have only 21 days in which to file a notice of appeal and pay the filing fee, you have to pay lay out about $800 within a very short period of time in order to have some chance to actually litigate your lawsuit.  </p>
+<p>The cost of filing a cert. petition&#8211;the term “cert. is shorthand for “certiorari,” and is used only to refer to U.S. Supreme Court petitions&#8211;actually is roughly $5,000 to $7,000.  That’s because the Supreme Court’s Rules require the submission of an “original” and 39 (39!) copies of the cert. petition, which, the Rules require, must be submitted in “booklet” form.  “Booklet” form being a term of art: a prescribed size paper, which, suffice it to say, you can’t buy at Staples, card-stock covers of that same prescribed size (not available at Staples either), and a specific type of (expensive, actual-book-style) binding.  Only (I believe) three printing companies in the country specialize in this.  The petition itself is limited to 30 pages, but the Appendix&#8211;relevant court documents and exhibits in the case&#8211;must be included in the “booklet” or printed in its own separate “booklet.”  Only IFP petitioners can avoid this; they can file just an original and nine copies, on standard-size photocopy paper.  </p>
+<p>So unless you literally don’t have  $300 (many prisoners don’t, of course), and you don’t have $5,000 to $7,000 at your disposal to spend on a lottery ticket, you can’t file a cert. petition at all, unless you’re able to get some nonprofit organization; there are a number of rightwing ones that will litigate for you and pay the expenses, but only the ACLU, to my knowledge, on the left.  Good luck, unless you have a real estate “takings” case, a gun-ownership-rights case, a freedom-of-religion/government-discrimination-against-religion case, or a reverse-race-discrimination case. </p>
+<p>But I digress.  The subject of this post is the number of <i>filed</i> cert. petitions the Court grants.  And whose filed cert. petitions the Court grants.  And the statistics reflected in the Court’s new report give only part of that story, because a large percentage of the petitions the Court grants each year are those filed by governments&#8211;sometimes the federal government, but more often state governments (usually formally in the name of a state government employee or official such as a prison warden, thanks to a peculiarity in constitutional law), or local governments or an official or employee of one, e.g., a police officer.  These petitions are counted as “paid” petitions in the Court’s statistics.</p>
+<p>And a large percentage of the remainder of the “paid” petitions that the Court grants are indeed very highly paid petitions.  They bear, on the petition cover, the name of a member of a tiny cadre of Supreme Court lobbyists&#8211;er, extremely highly-paid Supreme Court “specialists”&#8211;whose actual specialty is getting the Chamber of Commerce contingent on the Court to read the petition.  And, with the exception of very wealthy individuals such as Conrad Black and Jeffrey Skilling,* persons of the non-corporate variety need not, or more accurately, <i>cannot</i> apply.</p>
+<p>So, here’s how I illustrate to people of the human type the reality of the clownish formal and <i>de facto</i> rules and customs of this clownish institution: I advise them to take their $6,000 and buy actual lottery tickets with it.  Or travel to Las Vegas and have some fun.  Or just throw it into the closest large body of water.  The Great Lakes here in the upper Midwest would work just fine.</p>
+<p>&#8212;-<br />*The Supreme Court granted both Black’s and Skilling’s cert. petitions, filed on their respective behalfs by members of that cadre, commonly known as “the elite Supreme Court bar.”  Elite here being a legal term of art meaning “wayyy out the price range of ordinary folk.”  Their petitions challenged as unconstitutionally vague a federal criminal statute upon which parts of their indictments were based.  They won.  In unanimous opinions, if I recall correctly, the Court ruled the statute unconstitutionally vague.  And with good reason: it was.  But countless others before them surely had challenged that statute as unconstitutionally vague, to no avail.  This follows an absolutely institutionalized pattern in that Court.</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/even-the-tragicomical-newly-released-supreme-court-cert-grant-statistics-dont-reveal-the-worst-of-it.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

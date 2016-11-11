@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rupert Murdoch &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Gun Control, and the Debate</title>
+		<link>./../../2012/12/gun-control-and-the-debate.html</link>
+		<comments>./../../2012/12/gun-control-and-the-debate.html#respond</comments>
+		<pubDate>Mon, 17 Dec 2012 05:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Rupert Murdoch]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/gun-control-and-the-debate.html</guid>
+		<description><![CDATA[by Mike Kimel Whether you favor more gun control or less, via the less famous Roger Ailes, a story in Australian SkyNews on one of the very few things that can change the entire dynamic of the debate: Media mogul Rupert Murdoch has called on United Stateslawmakers to ban automatic weapons following the Connecticut schoolmassacre, alluding to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p>Whether you favor more gun control or less, via <a href="http://rogerailes.blogspot.com/2012/12/terrible-news-today.html">the less famous Roger Ailes</a>, a story in Australian <a href="http://www.skynews.com.au/national/article.aspx?id=826861"> Sky<br />News</a> on one of the very few things that can change the entire dynamic of the debate:<br />
+<blockquote>Media mogul Rupert Murdoch has called on United States<br />lawmakers to ban automatic weapons following the Connecticut school<br />massacre, alluding to Australia&#8217;s response to the Port Arthur<br />massacre.</p>
+<p>The News Corp chairman used the social media platform Twitter to<br />express frustration at the easy availability of automatic and<br />semi-automatic guns in his adopted country.</p>
+<p>&#8216;Terrible news today,&#8217; he tweeted. &#8216;When will politicians find courage<br />to ban automatic weapons? As in Oz after similar<br />tragedy.&#8217;</p></blockquote>
+<p>Murdoch&#8217;s statement  <a href="http://www.latimes.com/entertainment/tv/showtracker/la-et-st-newtown-shooting-gun-rights-talk-shows-20121216,0,2067431.story">may</a> <a href="http://www.latimes.com/entertainment/tv/showtracker/la-et-st-newtown-shooting-gun-rights-talk-shows-20121216,0,2067431.story">be starting to have an effect</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/gun-control-and-the-debate.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

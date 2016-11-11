@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Feldstein &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Unforced Error, or How Well Has That Worked Out for You, BarryO?</title>
+		<link>./../../2011/06/unforced-error-or-how-well-has-that-worked-out-for-you-barryo.html</link>
+		<comments>./../../2011/06/unforced-error-or-how-well-has-that-worked-out-for-you-barryo.html#respond</comments>
+		<pubDate>Wed, 22 Jun 2011 20:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic recovery]]></category>
+		<category><![CDATA[federal deficit]]></category>
+		<category><![CDATA[Feldstein]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[Payroll Taxes]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/unforced-error-or-how-well-has-that-worked-out-for-you-barryo.html</guid>
+		<description><![CDATA[PGL, in the process of an optimistic piece, points us to Martin Feldstein ringing in 2011. Apparently, the reason is this: The most substantial potential boost to spending comes from a temporary reduction of the payroll tax, lowering the rate paid by employees on income up to about $100,000 from 6.2 per cent to 4.2 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>PGL, in the process of <a href="http://econospeak.blogspot.com/2011/06/payroll-taxes-as-stimulus-speaker.html">an optimistic piece</a>, points us to <a href="http://www.business-standard.com/india/news/martin-feldstein-whats-good-about-us-tax-package/420128/#">Martin Feldstein ringing in 2011</a>. Apparently, the reason is this:<br />
+<blockquote>The most substantial potential boost to spending comes from a temporary reduction of the payroll tax, lowering the rate paid by employees on income up to about $100,000 from 6.2 per cent to 4.2 per cent. But, while the decline in tax payments will be about 0.8 per cent of GDP, it is not clear how much of this will translate into additional consumer spending and how much into additional saving. Because this tax cut will take the form of lower withholding from weekly or monthly wages, it may seem more permanent than it really is, and therefore has a greater impact on spending than households’ very feeble response to the previous temporary tax changes.</p></blockquote>
+<p>Feldstein attempts a free-finesse with &#8220;it may seem more permanent than it really is.&#8221; This is like playing the seven to the Queen when you&#8217;re only other holding is 10-x and expecting it to work.</p>
+<p>It&#8217;s six months later. The crowd jewel of BarryO&#8217;s deficit-saving agreement, per Feldstein, was a low-impact change that was mostly (if my paycheck is any indication) neutralized by other factors (such as increases in health insurance costs). So the payroll cut is going to UHC or Aetna, or BCBS, or some other place where the money multiplier will be significantly less than one.</p>
+<p>Even more interesting is that, just three paragraphs before, Feldstein understood that workers are still engaged in balance-sheet repair, and the likely consequences of same:<br />
+<blockquote>Even for those taxpayers who had feared a tax increase in 2011 and 2012, it is not clear how much the lower tax payments will actually boost consumer spending. The previous temporary tax cuts in 2008 and 2009 appear to have gone largely into saving and debt reduction rather than increased spending.</p>
+<p>It is surprising, therefore, that forecasters raised their GDP growth forecasts for 2011 significantly on the basis of the tax agreement.</p></blockquote>
+<p>But Feldstein did see some good in the greater tax deal—it would temper deficit fears:<br />
+<blockquote>Obama wanted to continue the 2010 tax rates permanently for all taxpayers except those with annual incomes over $250,000&#8230;.By agreeing to limit the current tax rates for just two years, the tax package reduces the projected national debt at the end of the decade (relative to what it would have been with the Obama Budget) by some $2 trillion or nearly 10 per cent of GDP in 2020.</p>
+<p>That reduction in potential deficits and debt can by itself give a boost to the economy in 2011 <em>by calming fears that an exploding national debt</em> would eventually force the Federal Reserve to raise interest rates — perhaps sharply if foreign buyers of US Treasuries suddenly became frightened by the deficit prospects.</p></blockquote>
+<p>There can be only one remaining question:</p>
+<p>When will Martin Feldstein <a href="http://www.lawyersgunsmoneyblog.com/2011/06/wrongness-you-can-count-on">endorse Jon Hunstman for President</a>?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/unforced-error-or-how-well-has-that-worked-out-for-you-barryo.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

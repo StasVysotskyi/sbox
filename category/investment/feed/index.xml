@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>investment &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Public and Private Investment</title>
+		<link>./../../2012/09/public-and-private-investment.html</link>
+		<comments>./../../2012/09/public-and-private-investment.html#respond</comments>
+		<pubDate>Thu, 13 Sep 2012 23:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[investment]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[private investment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/public-and-private-investment.html</guid>
+		<description><![CDATA[One not particularly cute graph; no analysis, explanation, nor editorializing. GDPI is gross domestic private investment. NDGIC96 is Real Federal Nondefense Gross Investment. SLINVC96 is Real State &#038; Local Government Gross Investment. Source page at FRED. Note that private investment runs at about 7 times the total of government investment at all levels. Make of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One not particularly cute graph; no analysis, explanation, nor editorializing.</p>
+<p>GDPI is gross domestic private investment.</p>
+<p>NDGIC96 is Real Federal Nondefense Gross Investment.</p>
+<p>SLINVC96 is Real State &#038; Local Government Gross Investment.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=aEG"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=aEG" width="400"></a></div>
+<p><a href="http://research.stlouisfed.org/fred2/graph/?g=aEG">Source page at FRED</a>.</p>
+<p>Note that private investment runs at about 7 times the total of government investment at all levels.</p>
+<p>Make of it what you will.</p>
+<p>H/T to <a href="http://krugman.blogs.nytimes.com/2012/09/12/public-investment-in-the-slump/">PK</a>. </p>
+<p>Cross posted at <a href="http://jazzbumpa.blogspot.com/2012/09/public-and-private-investment.html">Retirement Blues</a>.</p>
+<p>UPDATE: In comments, Art raises the valid but trivial point that this graph compares <i>nominal</i> GPDI to <i>real</i> govt investment.  Oversight on my part.</p>
+<p>Here is is again, with GPDI adjusted by the implicit GDP Deflator, indexed to 100 in 2005.  This brings the GPDI line down a bit relative to government investment.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=aGp" imageanchor="1"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=aGp" width="400"></a></div>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/public-and-private-investment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>High profit margins, debt, money flows, investment</title>
+		<link>./../../2012/05/high-profit-margins-debt-money-flows-investment.html</link>
+		<comments>./../../2012/05/high-profit-margins-debt-money-flows-investment.html#respond</comments>
+		<pubDate>Thu, 10 May 2012 16:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[capital]]></category>
+		<category><![CDATA[cash]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[profits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/high-profit-margins-debt-money-flows-investment.html</guid>
+		<description><![CDATA[Financial Times takes a look at the question of how high profit margins are obtained in a high unemployment and high debt economy: The key to the first question is US profit margins, which are still at or around record highs. At some point, logic suggests they will start reverting to the mean. And, aside [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.ft.com/intl/cms/s/0/14aa464e-95de-11e1-a163-00144feab49a.html#axzz1u6p1AaOF" target="_blank">Financial Times</a> takes a look at the question of how high profit margins are obtained in a high unemployment and high debt economy:<br />
+<blockquote>The key to the first question is US profit margins, which are still at or around record highs. At some point, logic suggests they will start reverting to the mean. And, aside from events in the eurozone and elsewhere, wringing out more productivity is a finite process. There is only so much juice in the lemon.   In the long run, lack of investment must surely take its toll. According to Smithers &#038; Co, official figures show the proportion of US domestic corporate cash flow devoted to capital investment at record lows of about 57 per cent. This compares with an average of 77 per cent over the past 60 years.   So where has the cash gone? To shareholders, mainly. In the second half of last year, dividends and buybacks by US corporations came to almost exactly the same as capital investment, at just over $2tn.   As recently as the early 1990s, spending on investment was four times the amount handed to shareholders. The ratio has been dropping steadily ever since&#8230;  &#8230;it is worth noting that even credit analysts these days tend to measure debt in relation to cash flow rather than assets. If corporate margins are indeed under threat, that is self-deluding.  &#8230;The money will have come from their own immense cash piles. But US companies still have net debt – after deducting that cash – equal to perhaps 40 per cent of their equity.</p></blockquote>
+<p> Any thoughts?            <br /><a name="more"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/high-profit-margins-debt-money-flows-investment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

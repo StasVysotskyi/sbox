@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AD &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Why There&#8217;s Little Inflation, In One Easy Graphic</title>
+		<link>./../../2011/02/why-theres-little-inflation-in-one-easy-graphic.html</link>
+		<comments>./../../2011/02/why-theres-little-inflation-in-one-easy-graphic.html#respond</comments>
+		<pubDate>Thu, 17 Feb 2011 22:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AD]]></category>
+		<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[economic ideology]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Keynes]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/why-theres-little-inflation-in-one-easy-graphic.html</guid>
+		<description><![CDATA[Ex-food and energy, inflation is at 0.9% for the past twelvemonth. Even if you include those in the longer measure, annual inflation has been 1.7%. (Recall that we paid an average of more than $3.00/gallon for most of the Spring of 2010, for instance.) There is a simple reason &#8220;everyone&#8221; expected higher numbers: they were [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ex-food and energy, inflation is at 0.9% for the past twelvemonth. Even if you include those in the longer measure, <a href="http://economix.blogs.nytimes.com/2011/02/17/putting-the-inflation-report-in-perspective/">annual inflation has been 1.7%</a>. (Recall that we paid an average of more than $3.00/gallon <a href="http://www.eia.doe.gov/oil_gas/petroleum/data_publications/wrgp/mogas_history.html">for most of the Spring of 2010</a>, for instance.)</p>
+<p>There is a simple reason &#8220;everyone&#8221; expected higher numbers: they were looking at money supply, not circulation.</p>
+<p>As Jim Hamilton <a href="http://www.econbrowser.com/archives/2011/02/money_and_reser.html">notes</a>, money is only supply when its being circulated.</p>
+<p>The &#8220;intermediaries&#8221; aren&#8217;t intermediates; they&#8217;re <a href="http://en.wikipedia.org/wiki/Single_point_of_failure">SPOFs</a>. Hamilton&#8217;s graphic tells all:
+<p><a href="http://3.bp.blogspot.com/-fprm5aqHizY/TV2WieaWN2I/AAAAAAAAAeM/UcGGyEhAhmY/s1600/reserves_feb_11.gif"><img src="http://3.bp.blogspot.com/-fprm5aqHizY/TV2WieaWN2I/AAAAAAAAAeM/UcGGyEhAhmY/s320/reserves_feb_11.gif" border="0" alt=""></a></p>
+<p>All that &#8220;extra&#8221; money is being kept in mattresses. Financial-Institution-shaped mattresses, but mattresses nonetheless. The velocity of monetary reserves is 0. So the weighted-average velocity of money is much less than the standard formula would imply.</p>
+<p>There is inflation out there. For instance, China, whose &#8220;stimulus&#8221; was <a href="http://www.theatlantic.com/business/archive/2011/02/the-political-failure-of-keynesian-economics/71363/">an impossible 17% of its GDP</a> (h/t <a href="http://agonyin8fits.blogspot.com/2011/02/let-my-stimulus-go.html">Susan of Texas</a>, of course), is seeing inflation.</p>
+<p>The U.S. needs to deal with financial institution mattress stuffing before it can have such problems.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/why-theres-little-inflation-in-one-easy-graphic.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

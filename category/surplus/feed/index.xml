@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>surplus &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Not Scarcity, But Surplus is the Problem</title>
+		<link>./../../2011/07/not-scarcity-but-surplus-is-the-problem.html</link>
+		<comments>./../../2011/07/not-scarcity-but-surplus-is-the-problem.html#respond</comments>
+		<pubDate>Fri, 15 Jul 2011 14:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic fundamentals]]></category>
+		<category><![CDATA[scarcity]]></category>
+		<category><![CDATA[surplus]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/not-scarcity-but-surplus-is-the-problem.html</guid>
+		<description><![CDATA[Not Scarcity, But Surplus is the Problem (Just as Dismal, though) by Noni Mausa, lifted from comments at Economist&#8217;s View They were discussing scarcity last week at Economist&#8217;s View. But to my mind scarcity isn&#8217;t our core problem. I wrote (and then edited a bit for this post): ======= Yes, scarcity of resources is fundamental [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Not Scarcity, But Surplus is the Problem</strong> (Just as Dismal, though)</p>
+<p>by <strong>Noni Mausa</strong>, lifted from comments at Economist&#8217;s View</p>
+<blockquote><p>They were discussing scarcity last week at <a target="_blank" href="http://economistsview.typepad.com/economistsview/2011/07/whats-the-point-of-economic-growth.html#comments">Economist&#8217;s View</a>.  But to my mind scarcity isn&#8217;t our core problem.  I wrote (and then edited a bit for this post):</p>
+<p>=======</p>
+<p>Yes, scarcity of resources is fundamental to econ theory, and it&#8217;s a real concern, not just an abstract factor for calculations.</p>
+<p>But less often mentioned is the truism that human beings, working in concert, produce surplus. Generally this is very great surplus. In any society beyond the most desperately poor, this surplus is sufficient at least to support the 1/3 to 1/2 of the population who cannot support themselves&#8211; children, and the elderly and disabled&#8230;</p>
+<p>This surplus &#8230; inevitably leads to the specialized class we would call the wealthy. This clan has existed as far back as we have written records. They may be more useful, or less useful, to their host societies, but they can only exist when those societies produce large surplus.</p>
+<p>Economics talks about managing scarcity, but &#8230; our real problem is managing the surplus.</p></blockquote>
+<p>Sandwichman takes a stab at <a target="blank" href="http://ecologicalheadstand.blogspot.com/2011/07/tenacity-of-textbook-truism.html">Ecological Headstand</a> with Tenacity of Textbook Truism.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/not-scarcity-but-surplus-is-the-problem.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

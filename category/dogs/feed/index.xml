@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dogs &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Off-topic again: All dogs go to heaven</title>
+		<link>./../../2012/10/off-topic-again-all-dogs-go-to-heaven.html</link>
+		<comments>./../../2012/10/off-topic-again-all-dogs-go-to-heaven.html#respond</comments>
+		<pubDate>Sat, 27 Oct 2012 19:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bella]]></category>
+		<category><![CDATA[dogs]]></category>
+		<category><![CDATA[heaven]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/off-topic-again-all-dogs-go-to-heaven.html</guid>
+		<description><![CDATA[On Wednesday I posted here about Bella, my friend’s daughter’s three-year-old German shepherd/collie mix who suddenly started experiencing severe pain near the back of her spine last weekend and a day later became paraplegic.  A wonderful lady who’s active in animal shelter work took Bella this morning to see a highly-regarded vet who works closely [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>On Wednesday I posted here about Bella, my friend’s daughter’s three-year-old German shepherd/collie mix who suddenly started experiencing severe pain near the back of her spine last weekend and a day later became paraplegic.  A wonderful lady who’s active in animal shelter work took Bella this morning to see a highly-regarded vet who works closely with one of the shelters this lady is involved with.  The lady planned to keep Bella at her home indefinitely, until a permanent home could be found for her.
+</p>
+</div>
+<div></div>
+<div>But the injury to Bella’s spine caused damage to her kidneys.  I don’t fully understand it; my friend was crying when she was telling me about it.  But the vet said Bella would die within a few days.  So, at the vet’s recommendation, the lady (my friend’s daughter had signed papers this morning relinquishing the doggie) agreed to have Bella put to sleep.
+</p>
+</div>
+<div></div>
+<div>But all dogs go to heaven.  All dog lovers know that.
+</p>
+</div>
+<div></div>
+<div>Thank you to everyone who responded to my earlier post.  It was much appreciated. 
+</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/off-topic-again-all-dogs-go-to-heaven.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

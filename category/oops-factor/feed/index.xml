@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>oops factor &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Did your Starbuck&#8217;s card go to zero??</title>
+		<link>./../../2012/12/did-your-starbucks-card-go-to-zero.html</link>
+		<comments>./../../2012/12/did-your-starbucks-card-go-to-zero.html#respond</comments>
+		<pubDate>Tue, 11 Dec 2012 12:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[oops factor]]></category>
+		<category><![CDATA[technological progress]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/did-your-starbucks-card-go-to-zero.html</guid>
+		<description><![CDATA[Update:  oooops.  Slow computer the problem, and the manager probably meant the APPs.  My bad&#8230;sorry Starbucks. While I don&#8217;t go to Starbuck&#8217;s, Ms, Rdan does on the way to work, and was told her card had $0 balance this morning.  She had credited $40.00 last week&#8230; it is hard to get a $0 balance right [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Update:  oooops.  Slow computer the problem, and the manager probably meant the APPs.  My bad&#8230;sorry Starbucks.</p>
+<p>While I don&#8217;t go to Starbuck&#8217;s, Ms, Rdan does on the way to work, and was told her card had $0 balance this morning.  She had credited $40.00 last week&#8230; it is hard to get a $0 balance right on the money without either forking over cash for the balance (as a reminder to power up so to speak) or having odd cash amounts on the card.  The manager told her there are customers reporting card problems.</p>
+<p>Anyone else?   (Comments after your coffee gladly accepted).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/did-your-starbucks-card-go-to-zero.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

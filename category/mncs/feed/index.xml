@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MNCs &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Matching Obsessions</title>
+		<link>./../../2008/11/matching-obsessions.html</link>
+		<comments>./../../2008/11/matching-obsessions.html#respond</comments>
+		<pubDate>Mon, 03 Nov 2008 02:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic development]]></category>
+		<category><![CDATA[FDI]]></category>
+		<category><![CDATA[MNCs]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[my home not native land]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/11/matching-obsessions.html</guid>
+		<description><![CDATA[It is no secret that the only movie I&#8217;m waiting to see this year is Quantum of Solace, even if they did have the poor taste not to use Janelle. Well, Paul McAuley saw it more than two weeks ago, and confirmed it is everything viewers of the recent Casino Royale would expect. So far [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It is no secret that the only movie I&#8217;m waiting to see this year is Quantum of Solace, even if they did have the poor taste not to use <a href="http://seulementpenseesdeux.blogspot.com/2008/04/770-busted.html">Janelle</a>.</p>
+<p>Well, Paul McAuley <a href="http://unlikelyworlds.blogspot.com/2008/10/quantum-of-solace.html">saw it more than two weeks ago</a>, and confirmed it is everything viewers of the recent <em>Casino Royale</em> would expect.</p>
+<p>So far this wouldn&#8217;t fit on an economics blog.  But see the comments to the movie:<br />
+<blockquote>I&#8217;m somewhat boggled by the concept of a secret international organisation corrupting third-world countries for profit when the World Banks does a perfectly good job of that already&#8230;</p></blockquote>
+<p>to which the only possible response was:<br />
+<blockquote>This is a super-secret world bank &#8211; but yes, their methods are somewhat similar.</p></blockquote>
+<p>Wonder if <a href="http://rodrik.typepad.com/dani_rodriks_weblog/">Dani Rodrik</a> would agree. On a possibly-related note:<br />
+
+</p>
+<p>Consider this an open thread discussing international development and &#8220;aid.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/11/matching-obsessions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

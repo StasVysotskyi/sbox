@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mhalasy &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Guest post: Massachussetts leads the way!</title>
+		<link>./../../2011/04/guest-post-massachussetts-leads-the-way.html</link>
+		<comments>./../../2011/04/guest-post-massachussetts-leads-the-way.html#respond</comments>
+		<pubDate>Tue, 19 Apr 2011 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health reform]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[healthcare spending]]></category>
+		<category><![CDATA[mhalasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/guest-post-massachussetts-leads-the-way.html</guid>
+		<description><![CDATA[Guest post by Michael Halasy Practicing Emergency Medicine PA, Health Policy Analyst, and Health Services Researcher Massachussetts leads the way We have talked about bundled payments here, and getting rid of the antiquated and inefficient fee for service model. It looks like Massachussetts is on board suggests The Washington Post. Blue Cross is not alone. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Guest post by <strong>Michael Halasy</strong>  Practicing Emergency Medicine PA, Health Policy Analyst, and Health Services Researcher</p>
+<p><strong>Massachussetts leads the way</strong></p>
+<p>We have talked about bundled payments <a target href="http://www.angrybearblog.com/search?q=bundled+payments">here</a>, and getting rid of the antiquated and inefficient fee for service model. It looks like Massachussetts is on board <a target="_blank" href="http://www.washingtonpost.com/national/massachusetts-pioneer-of-universal-health-care-now-may-try-new-approach-to-costs/2011/04/07/AFDrunkD_story_1.html">suggests The Washington Post</a>.</p>
+<blockquote><p>Blue Cross is not alone. At Partners HealthCare, the famous Boston-based medical system that dominates health care here, Massachusetts General Hospital has been conducting a Medicare experiment in which nurses are assigned to coordinate care for about 2,500 older patients with multiple ailments. The experiment, which began five years ago, so far has reduced hospital re-admissions by one-fifth and cut medical spending by 7 percent.</p></blockquote>
+<p>They will be the first to implement integrated care organizations (really, a version of ACO’s) and a new bundled payment mechanism. </p>
+<p>With 98% of the population insured, Massachussetts saw their costs soaring, at about 15% above the national average. The markets have already begun to respond, and some, like Partners, are already ahead of the curve.<br /><a name="more"></a></p>
+<p>At Partners HealthCare, the famous Boston-based medical system that dominates health care here, Massachusetts General Hospital has been conducting a Medicare experiment in which nurses are assigned to coordinate care for about 2,500 older patients with multiple ailments. The experiment, which began five years ago, so far has reduced hospital re-admissions by one-fifth and cut medical spending by 7 percent.</p>
+<p>Massachussetts was bracing for this for some time. Last year, the insurance commissioner took on the health insurance companies for raising rates too rapidly. He rejected many of them outright. This was an important political maneuver, that really set the stage for the current willingness and cooperation of the insurers, providers, and hospitals. </p>
+<p>As he says:<br /> “We are preparing ourselves to grapple with a certain amount of constructive disruption in the industry,” Patrick said in a lengthy interview. “It’s a journey.”<br />Clayton Christensen would argue that it is JUST that disruption which is so sorely needed.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/guest-post-massachussetts-leads-the-way.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

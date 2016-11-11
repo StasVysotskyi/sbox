@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TANF &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Elain Kamarck on Welfare Reform: a Critique</title>
+		<link>./../../2011/09/elain-kamarck-on-welfare-reform-a-critique.html</link>
+		<comments>./../../2011/09/elain-kamarck-on-welfare-reform-a-critique.html#respond</comments>
+		<pubDate>Wed, 21 Sep 2011 17:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[TANF]]></category>
+		<category><![CDATA[welfare]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/elain-kamarck-on-welfare-reform-a-critique.html</guid>
+		<description><![CDATA[Elaine Kamarck wrote an article in The Washington Monthly&#8217;s blog &#8220;Ten Miles Square&#8221; entitled &#8220;NO Time to Go Wobbly on Welfare Reform&#8221; Briefly for those who have not clicked the link, the article stresses that TANF (aka welfare) is a very small component of the social welfare safety net (as was AFDC before welfare reform). [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Elaine Kamarck wrote an article in The Washington Monthly&#8217;s blog &#8220;Ten Miles Square&#8221; entitled <a href="http://www.washingtonmonthly.com/ten-miles-square/2011/09/no_time_to_go_wobbly_on_welfar032288.php#">&#8220;NO Time to Go Wobbly on Welfare Reform&#8221;</a></p>
+<p>Briefly for those who have not clicked the link, the article stresses that TANF (aka welfare) is a very small component of the social welfare safety net (as was AFDC before welfare reform). Kamarck argues that one would not have such a negative view of welfare reform if one considered the whole poverty assistance system. She presents data on the poverty rate and discusses its change over time. Then mixing political strategy and policy analysis, she argues that it would be very politically costly for Democrats to question welfare reform.</p>
+<p>I agree entirely with the first claim, which is not related to the rest of the article (which discusses policy not politics and reality not the median voters&#8217; perception of reality).</p>
+<p>The article contains factual errors. They are not minor.</p>
+<p><a name="more"></a></p>
+<p>1) Kamarck shows a graph of total EITC and AFDC/TANF benefits and writes &#8220;As the following chart illustrates, spending on the EITC took off just as welfare reform was adopted.&#8221; This claim is false. As the graph shows, spending on the EITC took off in 1993 following the passage of the Clinton recovery bill (tax increase for rich people, .7 cent a gallon gas tax and massive expansion of the EITC). This was three years before the welfare reform bill signed in 1996. Kamarck asserts 1993=1996. In fact 1993<br />2) Kamarck writes &#8220;the welfare rolls, which, by supporting mothers only if they weren’t working and weren’t married.&#8221; In fact in 1996 (and earlier) some married women and some employed women received AFDC benefits. In 1996 AFDC was available to married couples with children (subject to availability for work rules) in 25 states. It is just not true that only unmarried women received AFDC (it is true that few married couples with children were poor enough to qualify but that is a fact about income distribution and not about the program in those 25 states). Also AFDC was available to women who worked but had very low incomes (benefits would be zero for someone who worked year round full time for the minimum wage). IIRC the effective marginal tax rate was around 70%. However, for Kamarck&#8217;s claim to be true, it would have to be infinite at labour income =0. </p>
+<p>Now both of Karmack&#8217;s claims about AFDC are uncontroversial &#8212; they are something which everyone thinks he or she knows. They are also false. I think they should be corrected.</p>
+<p>In addition to the two very important (central to the article) errors of fact mentioned above, Kamarck makes very serious errors of omission. She notes that Clinton vetoed an earlier welfare reform bill which converted food stamps to a block grant. She neglects to mention that the bill he signed massively cut food stamps. The projected savings from the bill were overwhelmingly due to the food stamps cuts not the transition from AFDC to TANF. </p>
+<p>I suspect (just a guess not a claim) that the actual ex post cuts in the 90s were more than 100% due to the cuts in food stamps &#8212; the AFDC was an entitlement without a fixed budget so spending would have fallen during the late 90s boom. The federal TANF contribution is a block grant which does not depend on how many people are needy so it didn&#8217;t fall in the 90s. I guess that in the first years after welfare reform TANF cost the Federal Government more than AFDC would have cost.</p>
+<p>But the cuts to the food stamps program were severe dwarfing the cuts to AFDC/TANF spending. </p>
+<p>It is not at all possible to evaluate the effect of welfare reform on the poor by looking at the poverty rate. For one thing food stamps are not counted as income in the calculation of the poverty rate. The program and the massive cuts in 1996 just don&#8217;t appear in the headline data on poverty.</p>
+<p>Much more importantly, neither TANF nor AFDC is designed to reduce the poverty rate. AFDC and TANF benefits are not high enough to bring income over the poverty line. The purpose of the programs is to prevent severe poverty while keeping the long long term unemployed poor so that they have an incentive to seek work. </p>
+<p>The poverty rate is just one statistic which gives us some information about poverty. It would be the whole story only if a household with income one cent before the poverty line suffered as much as a household with 0 income. To find possible costs due to welfare reform, one has to consider the distribution of income among households below the poverty line. One easily available statistic is the severe poverty rate (also called the deep poverty rate) the fraction of people in households with income below half the poverty line. </p>
+<p>Data on severe poverty rate only go back to 1975. The current level is the highest on record. The ratio of the severe poverty rate to the poverty rate has increased since welfare was reformed. The sever poverty rate and this ratio are useful if one wishes to determine whether welfare reform may have hurt the poor by making them severely poor and not just poor. Kamarck considers only the poverty rate. This is a serious conceptual error.</p>
+<p>I believe that her article contains false claims of fact which should be corrected and that it makes a contribution to the discussion of no value whatsoever.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/elain-kamarck-on-welfare-reform-a-critique.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

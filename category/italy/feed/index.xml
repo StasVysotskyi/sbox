@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Italy &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Policy transmission mechanism: Broken in Italy, better in Spain</title>
+		<link>./../../2012/09/policy-transmission-mechanism-broken-in-italy-better-in-spain.html</link>
+		<comments>./../../2012/09/policy-transmission-mechanism-broken-in-italy-better-in-spain.html#respond</comments>
+		<pubDate>Tue, 04 Sep 2012 17:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Italy]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+		<category><![CDATA[Spain]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/policy-transmission-mechanism-broken-in-italy-better-in-spain.html</guid>
+		<description><![CDATA[by Rebecca Wilder Policy transmission mechanism: Broken in Italy, better in SpainYesterday, the Financial Times reported that borrowing costs for small businesses in the periphery were rising relative to the core using the ECB’s release of July MFI interest rate data. I highlighted this point exactly on August 1 following Draghi’s now famous London speech, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a></p>
+<p>Policy transmission mechanism: Broken in Italy, better in Spain<br />Yesterday, <a href="http://www.ft.com/intl/cms/s/0/60ae47cc-f5e5-11e1-a6c2-00144feabdc0.html#axzz25VANEnVy">the Financial Times </a>reported that borrowing costs for small businesses in the periphery were rising relative to the core using the ECB’s release of July MFI interest rate data. <a href="http://www.economonitor.com/rebeccawilder/2012/08/01/evidence-on-clogged-transmission-channel-of-monetary-policy-in-the-euro-area/">I highlighted this point exactly on August 1</a> following Draghi’s now famous London speech, where he cautioned that monetary transmission mechanism is ‘hampered’.</p>
+<p>As opposed to the FT, though, I would argue that the transmission mechanism is at least not getting worse in Spain and Portugal, and worsening in Italy. Italy is the only periphery economy (where data is made available) where the corporate borrowing costs are higher since the peak of corporate lending rates in the Euro area in July 2011.</p>
+<p>The FT is wrong. It takes Spain as the case study and uses the incorrect corporate lending rate information. Specifically, <a href="http://www.ft.com/intl/cms/s/0/60ae47cc-f5e5-11e1-a6c2-00144feabdc0.html#axzz25VANEnVy">according to the FT</a> (bolded by RW):<br />
+<blockquote><em>The interest rate charged by banks on a<strong> corporate loan of up to €1m lasting between one and five years – which would typically be taken out by a small business</strong> – was 6.5 per cent in July in Spain, according to the ECB figures.</em></p></blockquote>
+<p>True, the rate on new business loans up to and including €1 mn with maturity of 1-5 years did see an average <a href="http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=124.MIR.M.ES.B.A2A.I.R.0.2240.EUR.N">borrowing rate of 6.5%</a> in July. However, corporate loans up to and including €1 mn with maturity of greater than 5 years saw a <a href="http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=124.MIR.M.ES.B.A2A.J.R.0.2240.EUR.N">drop in borrowing costs of 1.4% in July to 5.17%</a> . The 5.17% rate is the rate that should be quoted, rather than the 6.5% rate.</p>
+<p><a name="more"></a></p>
+<p>The 2012 Euro area stock of outstanding debt shows clearly that 57% of corporate loans had been made with maturity of greater than 5 years – the ECB provides no breakdown of loan data by maturity at the country level, so the FT must have been referring to the ECB’s Euro area data as the ‘typical loan’.<br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/09/stock_loans.jpg"><img alt="" height="291" src="http://www.economonitor.com/rebeccawilder/files/2012/09/stock_loans.jpg" width="483"></a><br />As demonstrated in the chart below, the story is much more complicated than the FT curtly portrays – it’s not just ‘Spain’ versus ‘Germany’. French corporate borrowing costs barely budged since July 2011. Furthermore, the corporate borrowing rates in Spain are improving rather materially compared to those in Italy and Portugal.<br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/09/nfc_rate_bar.jpg"><img alt="" height="379" src="http://www.economonitor.com/rebeccawilder/files/2012/09/nfc_rate_bar.jpg" width="476"></a><br />Italian corporate borrowing are up 0.67% since the peak of EA corporate lending rates in July 2011 (the <a href="http://www.ecb.int/stats/monetary/rates/html/index.en.html">ECB hiked its policy rate on July 13</a>). Spanish corporates, on the other hand, saw corporate borrowing costs fall the most of all the periphery economies, -1.35% since July 2011.<br />As demonstrated in the illustration below, the core is benefiting largely from ECB rate cuts compared to the periphery (chart 1 below). However, on a 3-month moving average (the rates moves are pretty choppy in Spain), the transmission mechanism in Spain is improving relative to that Italy and Portugal (chart 2 below). Using the correct data, the FT should have included this information in their article.<br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/09/time_series_1.jpg"><img alt="" height="338" src="http://www.economonitor.com/rebeccawilder/files/2012/09/time_series_1.jpg" width="507"></a><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/09/time_series_2.jpg"><img alt="" height="338" src="http://www.economonitor.com/rebeccawilder/files/2012/09/time_series_2.jpg" width="507"></a><br /><em><strong>Rebecca Wilder</strong></em><br /><a href="http://www.economonitor.com/rebeccawilder/2012/09/04/policy-transmission-mechanism-broken-in-italy-better-in-spain">The Wilder View&#8230;Economonitors</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/policy-transmission-mechanism-broken-in-italy-better-in-spain.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economists don&#8217;t endorse candidates, because elections don&#8217;t matter…a note from Italy</title>
+		<link>./../../2012/08/economists-dont-endorse-candidates-because-elections-dont-mattera-note-from-italy.html</link>
+		<comments>./../../2012/08/economists-dont-endorse-candidates-because-elections-dont-mattera-note-from-italy.html#respond</comments>
+		<pubDate>Sun, 19 Aug 2012 14:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Italy]]></category>
+		<category><![CDATA[political economics]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/economists-dont-endorse-candidates-because-elections-dont-mattera-note-from-italy.html</guid>
+		<description><![CDATA[Lifted from Robert&#8217;s Stochaistic thoughts is a post that comments on Italian political/economists and government policy.  There are some &#8216;in the know&#8217; names for US readers: Simon Wren-Lewis asks. I answer. In real authentic East of the English Channel Europe, economists don&#8217;t endorse candidates, because elections don&#8217;t matter.  Neither do they endorse gymnasts, because our [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lifted from Robert&#8217;s Stochaistic thoughts is a post that comments on Italian political/economists and government policy.  There are some &#8216;in the know&#8217; names for US readers:</p>
+<p>Simon Wren-Lewis <a href="http://mainlymacro.blogspot.it/2012/08/why-do-european-economists-write.html">asks</a>. I answer. In real authentic East of the English Channel Europe, economists don&#8217;t endorse candidates, because elections don&#8217;t matter.<br />      <br />Neither do they endorse gymnasts, because our Democracy is about as decorative as the Olympics. </p>
+<p>Quick pop quiz explain the policy differences between the Berlusconi government and the Center left governments ? If your answer is that Berlusconi&#8217;s governments try to eliminate the independence of the magistratura (judiciary plus prosecutors) I say &#8220;Bicamerale.&#8221; If your answer is that Berlusconi will ignore any law and any court rather than take frequencies from Berlusconi I say &#8220;La Sette.&#8221; If you argue that Seniore Bunga Bunga has no respect for fiscal restraint or rectitude, I say Tremonti.</p>
+<p>The fact is that Italian public policy has been based on the twin principles that the very rich are above the law and that budgets must be (roughly) balanced, since I arrived here in 1989 (or at least since 1992). There was, in theory, an historic election (the second in a row) in 1996 when the new majority included the Communists (not just the ex Communists but the proudly still Communists). It was so radical that the budget was communicated to the cabinet responsible to this majority a few days before they made it public. It was written by civil servants at the Treasury Ministry and included no significant changes.</p>
+<p><a name="more"></a><br />Wren-Lewis knows how to identify the policy making establishment in Europe (also including the UK). He notes that the establishment is New Keynesian because central banks use New Keynesian models. Note that he doesn&#8217;t claim that candidates for elective office use such models. Because they don&#8217;t matter much.     <br />OK. over there (West of the Channel) the last election made a difference. Also maybe maybe it will matter that for the first time in human history that French Socialists have a President and an absolute majority in both houses of Parliament (not that the Communists held Mitterand back much &#8212; but that was long ago).<br />    <br />I think that over in the USA the very serious villager consensus is powerful. But over here it is just about everything. Sacrificing one&#8217;s reputation in order to have a tiny possible effect on an election is absurd here. European economists don&#8217;t do anything that disreputable, because policy influence is based on reputation and not anything done by vulgar voters.</p>
+<p>This has its advantages. Europe doesn&#8217;t dive into huge unnecessary deficits because of an election. Policy doesn&#8217;t depend on butterfly ballots and hanging chads. </p>
+<p>But the second recession in 4 years hitting before 2008 real GDP is surpassed has no noticeable effect on the policy debate either. </p>
+<p>It was decided in the 1990s that reducing budget deficits was, is, and always will be the paramount aim of public policy. </p>
+<p>Democracy is messy, but a sober, disciplined well ordered march over a cliff isn&#8217;t ideal either.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/economists-dont-endorse-candidates-because-elections-dont-mattera-note-from-italy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Italian Economy Is Sliding</title>
+		<link>./../../2012/06/the-italian-economy-is-sliding.html</link>
+		<comments>./../../2012/06/the-italian-economy-is-sliding.html#respond</comments>
+		<pubDate>Tue, 12 Jun 2012 09:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[Italy]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/the-italian-economy-is-sliding.html</guid>
+		<description><![CDATA[by Rebecca Wilder The Italian Economy Is Sliding Today I.Stat released the breakdown of Q1 2012 real GDP for the Italian economy. Weak external demand plus a precipitous drop in private sector spending dragged the headline real gross domestic product (GDP) 0.8% over the quarter (3.2% at an annualized rate). The highlights are the following: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Rebecca Wilder</p>
+<p>The Italian Economy Is Sliding</p>
+<p>Today <a href="http://www.istat.it/en/archive/64561">I.Stat released </a>the breakdown of Q1 2012 real GDP for the Italian economy. Weak external demand plus a precipitous drop in private sector spending dragged the headline real gross domestic product (GDP) 0.8% over the quarter (3.2% at an annualized rate). The highlights are the following:
+<ul>
+<li>Gross fixed capital formation (investment net of inventory formation) fell 3.6% over the quarter, or 13.7% at an annualized rate. This was the fastest quarterly rate of decline since Q1 2009 when GFCF fell 5% over the quarter. </li>
+<li>Private consumption dropped 1.0% over the quarter, or 3.9% at an annualized rate </li>
+<li>Imports fell 3.6%, or 13.6% at an annualized rate </li>
+<li>Exports fell 0.6%, or 2.2% at an annualized rate </li>
+<li>The only positive contribution to domestic spending was government consumption, which increased 0.4% over the quarter, or 1.4% at an annualized rate.</li>
+</ul>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/06/gdp_italy.jpg"><img alt="" height="398" src="http://www.economonitor.com/rebeccawilder/files/2012/06/gdp_italy.jpg" width="595"></a></p>
+<p><a name="more"></a></p>
+<p>Italy’s real GDP is only 1.1% higher than its lowest point during the recession (Q2 2009). Furthermore, gross fixed capital formation has dropped at an increasing rate for four consecutive quarters. Hope for stabilization eludes, as the current business confidence survey continues its decent – IStat manufacturing confidence was 86.2 in May, which was the second lowest level since the outset of the EMU and well below the 100 average since 2000. Broadly speaking, the economy is imploding.</p>
+<p><strong>Don’t pin your hopes on exports.</strong> The contribution of exports to real GDP growth has dropped for two consecutive quarters, bucking a trend of positive contribution since the middle of 2009. The only reason that the net export contribution was positive in Q1 was due to the +1% contribution coming from a sharp decline in imports. This cannot be sustained, as the crisis of confidence has begun.<br />(Note: In the chart below, if real import growth is positive, then the contribution is negative; and if the real import growth is negative, then the contribution is positive.)</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/06/trade_cont_italy.jpg"><img alt="" height="398" src="http://www.economonitor.com/rebeccawilder/files/2012/06/trade_cont_italy.jpg" width="595"></a></p>
+<p>This is a product of failed policy at the Euro area level, and something needs to be done to break the positive feedback loop.<br /><em><strong><br /></strong></em><br /><em><strong>Rebecca Wilder</strong></em><br /><em><strong><br /></strong></em><br />crossposted with   <a href="http://www.economonitor.com/rebeccawilder/2012/06/11/the-italian-economy-is-sliding/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-italian-economy-is-sliding">The Wilder View&#8230;Economonitors</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/the-italian-economy-is-sliding.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>European Policy Makers Don’t Understand But Markets Do</title>
+		<link>./../../2011/11/european-policy-makers-dont-understand-but-markets-do.html</link>
+		<comments>./../../2011/11/european-policy-makers-dont-understand-but-markets-do.html#respond</comments>
+		<pubDate>Thu, 10 Nov 2011 13:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[IMF]]></category>
+		<category><![CDATA[Italy]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/european-policy-makers-dont-understand-but-markets-do.html</guid>
+		<description><![CDATA[By Rebecca Wilder European Policy Makers Don’t Understand But Markets Do So here we are: the Italian yield curve is flat at above 7%; the government institution is in question; and the ECB is using its SMP purchase program as a carrot to drive austerity implementation in and Berlusconi out. Some would argue that the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a> </p>
+<p>European Policy Makers Don’t Understand But Markets Do
+<p>So here we are: the Italian yield curve is flat at above 7%; the government institution is in question; and the ECB is using its SMP purchase program as a carrot to drive austerity implementation in and Berlusconi out. Some would argue that the ‘market is irrational’ – Italy faces a liquidity not solvency crisis. That’s the IMF’s line, and I don’t buy it.</p>
+<p>See Italy’s situation is simple: given the Italian debt profile and initial conditions, the Italian sovereign should be able to stabilize its debt levels &#8211; even at 8% interest rate (borrowing costs) – PROVIDED (1) it grows, and (2) the sovereign increases its primary surplus (Italy is 1 of just 2 G7 countries expected to run a primary surplus in 2011, according to the IMF). The problem is, that (1) Italy’s contracting, and (2) a higher primary surplus is more likely than not going to aggravate the recession. Something has to change to break the link – this is where I encourage you to read <a href="http://www.economonitor.com/nouriel/2011/11/09/eurozone-crisis-well-at-least-we-have-options/">Nouriel Roubini’s latest</a>.</p>
+<p>In my view, the market is behaving very rationally. The Troika (ECB+EU+IMF) adapted the standard IMF model to the European sovereign debt crisis as a means to regain market confidence amid a sovereign liquidity crisis. The plan is to enhance fiscal discipline and become more ‘competitive’ (usually that means coincident with currency devaluation).</p>
+<p> <a name="more"></a>
+<p>So fiscal discipline + new competitiveness = market confidence. Right? Wrong.</p>
+<p>Italy’s solvency is now under question amid current IMF-style bureaucratic policy in Europe. Why they haven’t figured out the following is beyond me: austerity and competitiveness gains only works if monetary policy is easy and/or the global economy is expanding, and that’s with nominal devaluation.</p>
+<p><strong>Either the IMF model will fail or the Euro area will</strong></p>
+<p>Here’s the problem with the IMF model:</p>
+<p>1. None of the program countries are unequivocally more competitive. Devaluation would help here, but no Euro area (EA) economy can devalue unless they exit the EA.</p>
+<p>The table below illustrates the gains in competitiveness by key EA markets since the beginning of the peak of the last cycle, Q1 2008. Competitiveness here is broadly measured by shifts in the real exchange rate, as calculated by relative prices, relative unit labor costs, and relative GDP deflators. The red cells highlight country real exchange rate gains/losses that undercut Germany.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2011/11/competitiveness_table.jpg"><img alt="" src="http://www.economonitor.com/rebeccawilder/files/2011/11/competitiveness_table.jpg" width="413" height="421"></a></p>
+<p>Broadly speaking, no country except Ireland trumps Germany in two out of three measures of real depreciation. At best, the results on which country has indeed gained competitiveness against the <a href="http://www.economonitor.com/rebeccawilder/2011/09/29/this-competitiveness-thing-is-a-scam/">6th most competitive country </a>in the world, Germany, is mixed. Furthermore, Europe as a whole is cutting labor costs, not just the program countries, and dragging domestic demand of the EA as a whole.</p>
+<p>Ireland is the only country to have experienced broad depreciation across all three measures and against Germany. But I would argue this: they had further to go. The chart below illustrates the CPI-based real effective exchange rate. Spanning the period January 2007 to April 2008 (the peak), the Irish real exchange rate appreciated 10% against its major trading partners. As such, the 13.6% real depreciation since April 2008 is more reflective of mean reversion rather than competitiveness gains.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2011/11/cpi_rer.jpg"><img alt="" src="http://www.economonitor.com/rebeccawilder/files/2011/11/cpi_rer.jpg" width="600" height="400"></a></p>
+<p>2. The second part of any IMF program (first, really) is controlling fiscal balances through ‘austerity’; but this is not possible if the private sector is simultaneously deleveraging and external demand is not sufficient. Spain and Ireland seem to be on track at this point – but they won’t be for long. The inevitable EA recession will increase the required ‘cuts’ to facilitate the reduced revenues; this is both logistically and nationalistically difficult. Global monetary easing is likely to help, but it’s too late for Europe.</p>
+<p>Eventually the population will appeal to the economic malaise that is the disintegrating labor markets in program countries and fight against reform.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2011/11/unemployment_europe.jpg"><img alt="" src="http://www.economonitor.com/rebeccawilder/files/2011/11/unemployment_europe.jpg" width="600" height="450"></a></p>
+<p>The divergence in economic performance is quickly turning into convergence, as the sovereign debt crisis inflicts the <a href="http://www.economonitor.com/rebeccawilder/2011/10/19/dont-hold-out-for-a-lasting-german-economic-rebound/">core economic performance</a>. Shoot, even the ECB has acquiesced and is now calling for a ‘mild recession’.</p>
+<p><strong>Markets understand what policy makers in Europe do not: the European IMF-style model is not and cannot work under these conditions.</strong> Monetary policy is too tight, the global rebound has dissipated, and fiscal austerity is killing aggregate demand.</p>
+<p>And here I get to my favorite quote of the day. From Bank of America’s Athanasios Vamvakidis (no link), a former IMF economist:</p>
+<blockquote><p><em>“In our view, there are two ways for a country to bolster market confidence in its economic policy: either through the intervention and support of an international institution, or through effective commitment to reform.”</em></p>
+</blockquote>
+<p>Italy <a href="http://www.economonitor.com/blog/2011/11/germany-must-do-it-not-china/">doesn’t need foreign capital</a>, nor does it need effective commitment to reform. It needs a credible path of adjustment. And this involves all EA members, not just Italy. See <a href="http://www.google.com/url?q=http://www.ft.com/cms/s/0/3ba2f7c4-ee76-11e0-a2ed-00144feab49a.html&#038;sa=U&#038;ei=NdK6TtylK6Hd0QG9kOXXCQ&#038;ved=0CB4QFjAA&#038;usg=AFQjCNFEswaebCYKfYmTXuBM8d9ZbcH0aA">Martin Wolf’s FT article</a> from October 5, and <a href="http://www.economonitor.com/nouriel/2011/11/09/eurozone-crisis-well-at-least-we-have-options/">Nouriel Roubini’s article </a>today on EconoMonitor.</p>
+<p>originally published at The Wilder View&#8230;Economonitors </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/european-policy-makers-dont-understand-but-markets-do.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Worries About Italy: Growth and Politics</title>
+		<link>./../../2011/11/worries-about-italy-growth-and-politics.html</link>
+		<comments>./../../2011/11/worries-about-italy-growth-and-politics.html#respond</comments>
+		<pubDate>Fri, 04 Nov 2011 04:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[euro; bond; debt; Eurozone]]></category>
+		<category><![CDATA[Italy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/worries-about-italy-growth-and-politics.html</guid>
+		<description><![CDATA[By Rebecca Wilder Worries About Italy: Growth and Politics< Current bond market pricing implies a 6.17% yield on a 10-yr Italian government bond, or 430 basis points (%/100) over a like German government bond. I’d call this distressed levels for Italian debt, especially for an economy that is very likely contracting as we speak. Today [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a></p>
+<p>Worries About Italy: Growth and Politics<  
+</p>
+<p>Current bond market pricing implies a 6.17% yield on a 10-yr Italian government bond, or 430 basis points (%/100) over a like German government bond. I’d call this distressed levels for Italian debt, especially for an economy that is very likely contracting as we speak. Today <a href="http://economistsview.typepad.com/economistsview/2011/11/links-for-2011-11-03.html">Mark Thoma </a>points us to Kash Mansori’s article on “Italy’s future”. In the article, <a href="http://streetlightblog.blogspot.com/2011/11/italys-future.html">Kash points out that </a>the [market] “<em><strong>is worried </strong>about Italian debt dynamics <strong>simply and purely because of skyrocketing interest rate </strong>expenses that the Italian government is now facing thanks to the eurozone debt crisis.</em>”</p>
+<p>I disagree and comment that his argument is circular in nature. See, the market is pricing in Italian solvency risk by way of a rising risk premium, which then portends more solvency risk as borrowing costs rise. But the market is not pricing in solvency risk <em>because of the risk premium, </em>rather the risk premium is rising due to (1) terrible growth dynamics in Italy, and (2) heightened political risk in Italy.</p>
+<p>(<em>click to enlarge)</em></p>
+<p><img alt="" src="http://www.economonitor.com/rebeccawilder/files/2011/11/italy_pmis-300x222.jpg" width="300" height="222"></p>
+<p> <a name="more"></a>
+<p>The PMI’s illustrate the likely recession in Italy – <a href="http://www.roubini.com/analysis/165315.php">Roubini Global Economics</a> is pointing to negative growth starting in Q3 2011. Those countries that issue debt in a foreign currency (since Italy does not <em>own</em> the euro rather it <em>uses </em>the euro) are subject to market constraints. And with negative growth comes higher government deficits; but the market is not satisfied with the high Italian public debt levels.  Therefore, bond investors push for ‘fiscal discipline’ via a rising risk premium.</p>
+<p>Another driver of the increasing Italian risk premium is political risk. You can see this in the spread between Italian 10yr bond yields and the Spanish 10yr bond yields, which has collapsed since the summer and is now trading at -70 bps. That means the Spanish sovereign is borrowing at a 10yr yield that is 70 bps cheap to Italy, where it used to pay a premium. Something idiosyncratic is going on with Italy.</p>
+<p>(<em>click to enlarge)</em></p>
+<p><img alt="" src="http://www.economonitor.com/rebeccawilder/files/2011/11/spain_italy_10yr-300x222.jpg" width="300" height="222"></p>
+<p>The beginning of July corresponds with the outset of a<a href="http://www.economist.com/node/18867308"> political rift </a>that brought the credibility of Berlusconi, as it pertains to Tremonti’s deficit targets, into question. Berlusconi now has only a slim majority in the Parliament, so passing future legislation tied to fiscal austerity is fraught with risk. Despite the fact that Italy is forecast to run a 2011 primary surplus (just <a href="http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2009&#038;ey=2016&#038;scsm=1&#038;ssd=1&#038;sort=country&#038;ds=.&#038;br=1&#038;c=156%2C158%2C132%2C112%2C134%2C111%2C136&#038;s=GGXONLB_NGDP&#038;grp=0&#038;a=&#038;pr1.x=66&#038;pr1.y=11">one of two just G7 economies</a>), the recessionary outlook requires added fiscal discipline and reform. <a href="http://www.bloomberg.com/news/2011-11-03/berlusconi-arrives-at-g-20-empty-handed-after-vowing-revamp.html">To date, we’ve seen </a>no such legislation, just promises on the reform front. Implementation risk is high in Italy, thus the risk premium rises.</p>
+<p>So interest rates are rising as a consequence of the deteriorating economic fundamentals and questionable politics; that’s what the market is <em>worried about</em>. I do agree with Kash, though, that austerity is not the answer. But that’s how the Germans are rolling. This idea of fiscal austerity and gaining competitiveness is the <a href="http://en.wikipedia.org/wiki/Euro_Plus_Pact">new mantra for Europe </a>&#8211; a mantra that will probably make or break the EA. I refer you to an<a href="http://www.google.com/url?q=http://www.ft.com/cms/s/0/3ba2f7c4-ee76-11e0-a2ed-00144feab49a.html&#038;sa=U&#038;ei=DdOyTojZGOjj0QHX17i7BA&#038;ved=0CBsQFjAA&#038;usg=AFQjCNELDitVAfJX2cdfse6dHErkJ2sV6w">excellent article by Martin Wolf </a>that lays out the Euro area adjustment challenges clearly and succinctly.</p>
+<p>Filed under: <a href="http://www.economonitor.com/rebeccawilder/category/debt-crisis/">Debt Crisis</a>, <a href="http://www.economonitor.com/rebeccawilder/category/euro-area/">Euro area</a>, <a href="http://www.economonitor.com/rebeccawilder/category/italy/">Italy</a></p>
+<p>originally published at <a target="_blank" href="http://www.economonitor.com/rebeccawilder/2011/11/03/worries-about-italygrowth-and-politics/">The Wilder View…Economonitors</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/worries-about-italy-growth-and-politics.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is Happening In Italian Politics ?</title>
+		<link>./../../2010/08/what-is-happening-in-italian-politics.html</link>
+		<comments>./../../2010/08/what-is-happening-in-italian-politics.html#respond</comments>
+		<pubDate>Mon, 02 Aug 2010 15:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Italy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/what-is-happening-in-italian-politics.html</guid>
+		<description><![CDATA[Robert Waldmann This will be a long post as it is not easy to explain how Italian politics got this way to foreigners. First I will discuss recent developments. Later I will discuss the characters in the commedia and history. Until this week, Silvio Berlusconi was, on paper, a very powerful Prime minister with a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>This will be a long post as it is not easy to explain how Italian politics got this way to foreigners.  First I will discuss recent developments.  Later I will discuss the characters in the commedia and history.</p>
+<p>Until  this week, Silvio Berlusconi was, on paper, a very powerful  Prime minister with a large majority consisting of only two parties – the racist regionalist Lega Nord and the PDL a new party formed from the ex-post fascists and Forza Italia (yaaaay Italy) founded by Berlusconi.   The PDL doesn’t exist any more.   Berlusconi just expelled the cofounder – Gianfranco Fini last general secretary of an openly neofascist party and now President of the Camera de deputati (lower house of Parliament from now on “Camera”).   This is not a return to the past as Berlusconi has kept more than half of the ex-neo-fascists.    At the moment, Fini, however, has enough followers in the Camera to give the opposition a majority if he wants.  On paper a no confidence motion should pass. </p>
+<p>So what will happen next ?   </p>
+<p><a name="more"></a></p>
+<p>Well first everyone will go to the beach.  It’s August, Parliament doesn’t meet in August.  The breakup was scheduled to give a month of contrasting confident predictions before there is any actual vote.   There will be a lot of conflicting press releases.   </p>
+<p>So what will happen in September ?  One possibility is that Berlusconi will be able to win the support of enough members of Parliament to have a new small majority.   He has announced the creation of 6 new positions of undersecretary with the obvious aim of offering them to MPs from tiny parties and MPs who have already switched party since being elected.  The resulting struggle in parliament will be difficult for Berlusconi.  It doesn’t help that to play against the referee and Fini can use his office to make the schedule as inconvenient as possible for Berlusconi.  Since the laws on which they disagree serve no purpose except to protect Berlusconi and friends from judicial investigations, Fini should enjoy heated debate.   </p>
+<p>Berlusconi’s aim is to get the President of the Republic to call early elections.   It is reasonably likely that he and his remaining allies would win such elections.  Fini’s new mini-party “Futuro e …&#8221;  I have to check uhm … does not have any name recognition, and the number of Berlusconi haters willing to vote for an ex post neo-fascist is tiny.  The issue will be whether the Parliament should serve Berlusconi’s personal interests.  This has been the issue for decades and Berlusconi has won more elections than he has lost.   I have no idea why people vote for his parties – I have never heard anyone admit to have done so.    It’s just a fact that with a clear choice between Berlusconi and the law and the constitution, about half of Italians choose Berlusconi.</p>
+<p>Berlusconi’s problem is that the President of the Republic is not quite like the Queen of England.  He is supposed to be non-partisan, but is not expected to obey the Prime Minister.  In particular, The President is supposed to call early elections only if it is absolutely impossible to find a majority in Parliament.  The current President, Giorgio Napolitano is a terminally moderate mild mannered ex-communist.   He has quarreled less with Berlusconi than either of the other Presidents who had to deal with him as Prime minister, but he sure won’t deviate a bit from the Constitution to help Berlusconi.  </p>
+<p>Berlusconi, being Berlusconi, is likely to demand early elections and demand that he be caretaker prime minister during the campaign (this is what he did the last time he lost his majority in Parliament, although he also said the Parliament didn’t have the authority to fire him, because the constitution was rendered obsolete by a law passed in Parliament – I promise you I am not exaggerating or removing necessary context).    Berlusconi is not capable of pretending to respect the constitution or the principle of division of power.  In his struggle to get to an early election, he will make it absolutely clear that no Italian who gives a damn about the constitution, division of power, the Democratic tradition or elementary logic could possibly vote for him.  However, this has been absolutely clear for decades and he often wins elections.</p>
+<p>My guess is that sooner or later, Berlusconi will get angry and resign – demanding that he be made caretaker prime minister and that there be early elections.   Since he still has a majority in the Senate, he will be able to make it impossible for anyone else to be Prime minister.  My guess is that he gets his early elections and the issues are how much contempt for constitutional democracy will he show while demanding them (probably lots) and how many Italians share that contempt (not an absolute majority but probably a plurality).  </p>
+<p>Some politicians in the center left, including Bersani the general secretary of the Democratic Party (which makes the US Democratic party seem to be well organized) and Massimo d’Alema (a former prime minister) have made it clear that they will attempt to patch together a new majority in order to avoid an election.  This would require an agreement with the xenophobic, regionalist extremist Lega Nord whose leader just responded to a reporter’s question on the constitutional reform by showing his middle finger.   The proposed deal is to have a short lived majority which will change the electoral law back to a proportional system so there will never be a strong majority in Parliament and leaders of little parties with almost no support (or regional support like the Lega) will be able to block everything again.   I’m pretty sure that very few Italians find this effort less disgusting than I do and it makes me feel sick.   I will discuss why the hell these people are discussing obscene deals in public after I regain my composure (in my next post).</p>
+<p>So why did Fini do it ?  Technically, Berlusconi broke with Fini expelling his followers from their joint party. However, this was clearly inevitable for months as Fini openly criticized Berlusconi.   Elisabetta Addis argues that the issue is who will lead the right after Berlusconi dies (note no hope that his political career will end before his life).   Slavishly following Berlusconi works fine (for those who can stand the humiliation) while he is alive, but is not the way to position oneself as a leader.   Fini has shown some dignity  and spine (also respect for his constitutional role but I’d guess that the center right voters are willing to forgive that).  However, the pile of ex allies of Berlusconi on the ash heap of Italian politics is very high (Dini, Mastella, Pievetti, Casini (more or less)).   </p>
+<p>My personal guess is that it is very very hard for anyone with any self respect to deal with Berlusconi.  Berlusconi doesn’t hide the fact that he considers himself the boss.  He demands that everyone repeat his absurd lies about how he is not a crook, and it’s just that investigating magistrates all over Italy are out to get him.  </p>
+<p>It is important that Berlusconi has been trying to use the parliament to protect himself and his friends from the latest judicial investigations of their many crimes  (I note I am writing this in Italy so it would be libel if I could not prove my accusation.  However, I would have no problem proving that Berlusconi has committed many  crimes just by referring to official sentences many of which conclude he is not to be declared guilty because of the statue of limitations, an amnesty, or the fact that he had earlier parliaments change the laws he broke after he broke them.  Please please sue me Silvio).</p>
+<p>The President of the Camera (and the President of the Senate) are supposed to defend the constitutional prerogatives of those legislative bodies.  Berlusconi spits on constitutional prerogatives and makes it hard for Presidents of houses of Parliament to avoid totally humiliating themselves or breaking with him.  Notably the last time Berlusconi lost a majority in Parliament, the then President of the Camera Irene Pivetti was an early leader of the back bench and presidium revolt.    </p>
+<p>The Presidents of the Camera or the Senate who have not broken with Berlusconi are incredibly spineless shameless worms even by the standards of followers of Berlusconi (dear judge, I mean that metaphorically and don’t claim that I can actually prove they are helminths, although in the case of Scongnamiglio  I’d be willing to try).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/what-is-happening-in-italian-politics.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

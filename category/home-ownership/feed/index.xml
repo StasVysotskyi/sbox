@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>home ownership &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Massachusetts Home Seizures Threatened in Loan Case: Mortgages</title>
+		<link>./../../2012/02/massachusetts-home-seizures-threatened-in-loan-case-mortgages.html</link>
+		<comments>./../../2012/02/massachusetts-home-seizures-threatened-in-loan-case-mortgages.html#respond</comments>
+		<pubDate>Tue, 21 Feb 2012 21:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[home ownership]]></category>
+		<category><![CDATA[MA Supreme Court]]></category>
+		<category><![CDATA[MERS issues]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/massachusetts-home-seizures-threatened-in-loan-case-mortgages.html</guid>
+		<description><![CDATA[Yves at Naked Capitalism  comments on this Bloomberg article about the Eaton v. Federal National Mortgage Association case before the MA Supreme Court in the article  Massachusetts Home Seizures Threatened in Loan Case: Mortgages: This is super important &#8230; The highly respected Massachusetts Supreme Judicial Court is going to rule on whether the mortgage (the lien) can be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.nakedcapitalism.com/2012/02/links-22112.html">Yves at <i>Naked Capitalism</i></a>  comments on this Bloomberg article about the <i>Eaton v. Federal National Mortgage Association</i> case before the MA Supreme Court in the article  <a href="http://news.businessweek.com/article.asp?documentKey=1376-LZKAUN0D9L3501-5TCTU8KVHPVUOQ034TMUOK0029">Massachusetts Home Seizures Threatened in Loan Case: Mortgages</a>:  <br />
+<blockquote>This is super important &#8230; The highly respected Massachusetts Supreme Judicial Court is going to rule on whether the mortgage (the lien) can be separated from the note (the borrower IOU). Since the US Supreme Court over 100 years ago said the lien was a mere accessory to the mortgage, the odds are high they will say no. That means they might invalidate the foreclosure at issue, putting many other FCs under a cloud (but even if they rule for the borrower, I’d expect them to award damages rather than undo the FC; there is a lot of other law that treats sales out of bankruptcies and foreclosures as final). But a ruling in favor of the borrower would also deliver a fatal blow to MERS. </p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/massachusetts-home-seizures-threatened-in-loan-case-mortgages.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

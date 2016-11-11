@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Moody&#8217;s Analytics &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Does Romney Even Know What the Word “Plan” MEANS?</title>
+		<link>./../../2012/08/does-romney-even-know-what-the-word-plan-means.html</link>
+		<comments>./../../2012/08/does-romney-even-know-what-the-word-plan-means.html#respond</comments>
+		<pubDate>Thu, 02 Aug 2012 20:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Greg Sargent]]></category>
+		<category><![CDATA[Mark Hopkins]]></category>
+		<category><![CDATA[Mitt Romney]]></category>
+		<category><![CDATA[Moody's Analytics]]></category>
+		<category><![CDATA[Washington Post]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/does-romney-even-know-what-the-word-plan-means.html</guid>
+		<description><![CDATA[Romney released a new middle class economic plan [today].  [The] plan is called: “Mitt Romney’s new plan for a stronger middle class.” It contains ideas we’ve heard before: more access to domestic energy resources; cutting taxes and capping spending; repealing Obamacare. Mark Hopkins at Moody’s Analytics tells me that it is mostly a set of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>Romney released a new middle class economic plan [today].  [The] plan is called: “Mitt Romney’s new plan for a stronger middle class.” It contains ideas we’ve heard before: more access to domestic energy resources; cutting taxes and capping spending; repealing Obamacare.
+</p>
+</div>
+<div></div>
+<div>Mark Hopkins at Moody’s Analytics tells me that it is mostly a set of assertions about <i>outcomes</i> Romney wants, rather than a set of policies on how to achieve them.
+</p>
+</div>
+<div></div>
+<div>“There aren’t enough specifics here to evaluate the plan,” Hopkins said. “It’s not clear in most cases what specific policies underlie the assertions of outcomes he wants.”
+</p>
+</div>
+<div>&#8212; Greg Sargent, Washington Post, <a href="http://www.washingtonpost.com/blogs/plum-line/post/the-obama-campaigns-real-game-plan/2012/08/02/gJQA2vC8RX_blog.html?hpid=z2">today</a>
+</p>
+</div>
+<div></div>
+<div>Indeed.  Hopefully Obama and more members of the media will point out the distinction between a stated <i>plan</i> and a mere statement of claimed outcomes of an unspecified plan.  Romney and his wife say that the public has all the information it “needs” about his finances in order to take his word for it that his finances have all been on the up-and-up, and he makes essentially the same claim about his planned economic policies: All the public needs to know is, Romney says so.
+</p>
+</div>
+<div></div>
+<p>Which in a way is true—if you get my point.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/does-romney-even-know-what-the-word-plan-means.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

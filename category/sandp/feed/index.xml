@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SandP &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Stock Market Valuation</title>
+		<link>./../../2009/08/stock-market-valuation.html</link>
+		<comments>./../../2009/08/stock-market-valuation.html#respond</comments>
+		<pubDate>Mon, 17 Aug 2009 02:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[earnings]]></category>
+		<category><![CDATA[PE]]></category>
+		<category><![CDATA[SandP]]></category>
+		<category><![CDATA[statistics]]></category>
+		<category><![CDATA[Stock Market]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/stock-market-valuation.html</guid>
+		<description><![CDATA[By Spencer, At month end the S&#038;P 500 PE on trailing operating earnings was around 24. In my model that is expensive, but not massively so. Except in the irrational exuberance market of the 1990s, a PE of over 20 has never been sustained and always signaled a major bear market. Trailing earnings does include [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Spencer,</p>
+<p>At month end the S&#038;P 500 PE on trailing operating earnings was around 24.  In my model that is expensive, but not massively so.</p>
+<p><a href="http://2.bp.blogspot.com/_Zh1bveXc8rA/SojBJrchKsI/AAAAAAAAA2U/vbz86Mpcqk8/s1600-h/Clipboard01.jpg"><img src="http://2.bp.blogspot.com/_Zh1bveXc8rA/SojBJrchKsI/AAAAAAAAA2U/vbz86Mpcqk8/s320/Clipboard01.jpg" alt="" border="0"></a>Except in the irrational exuberance market of the 1990s, a PE of over 20 has never been sustained and always signaled a major bear market.</p>
+<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/SojADQTbAKI/AAAAAAAAA2M/2nIhV8QJJ50/s1600-h/Clipboard01.jpg"><img src="http://3.bp.blogspot.com/_Zh1bveXc8rA/SojADQTbAKI/AAAAAAAAA2M/2nIhV8QJJ50/s320/Clipboard01.jpg" alt="" border="0"></a><br /><!--[if gte mso 10]> 
+<style>  /* Style Definitions */  table.MsoNormalTable  {mso-style-name:"Table Normal";  mso-tstyle-rowband-size:0;  mso-tstyle-colband-size:0;  mso-style-noshow:yes;  mso-style-parent:"";  mso-padding-alt:0in 5.4pt 0in 5.4pt;  mso-para-margin:0in;  mso-para-margin-bottom:.0001pt;  mso-pagination:widow-orphan;  font-size:10.0pt;  font-family:"Times New Roman";  mso-ansi-language:#0400;  mso-fareast-language:#0400;  mso-bidi-language:#0400;} </style>
+
+ <![endif]-->Trailing earnings does include the fourth quarter when EPS was minus $0.09 and as the low 2008 earnings roll out of the comparisons the PE could fall while the market rises as it did in 1993. But 1993 appears to be an exception to the rule that the market generally moves in the same direction as its&#8217; PE. The correlation between the change in the market and the change in earnings is essentially zero, and one of the most dangerous times in the market is when EPS growth first turns positive.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/stock-market-valuation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

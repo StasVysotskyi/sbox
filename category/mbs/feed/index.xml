@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MBS &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The 30-Year Amortizing Mortgage is a Win-Win (Part 1 of a Series)</title>
+		<link>./../../2011/07/the-30-year-amortizing-mortgage-is-a-win-win-part-1-of-a-series.html</link>
+		<comments>./../../2011/07/the-30-year-amortizing-mortgage-is-a-win-win-part-1-of-a-series.html#respond</comments>
+		<pubDate>Fri, 22 Jul 2011 02:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GSEs]]></category>
+		<category><![CDATA[MBS]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/the-30-year-amortizing-mortgage-is-a-win-win-part-1-of-a-series.html</guid>
+		<description><![CDATA[Even the normally level-headed Buce—who knows better and lets us know he knows better—tries to give Tyler Cowen’s broadside at Fannie and Freddie the benefit of some (contrived) doubt.  I’ve already screamed about the legerdemain of Cowen’s post elsewhere, so let’s go for the philosophical underpinnings. Let’s give some ground first.  Buce is spot-on with: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Even the normally level-headed Buce—who knows better and lets us know he knows better—<a href="http://underbelly-buce.blogspot.com/2011/07/tyler-on-fanniefreddie.html" target="_blank">tries to give Tyler Cowen’s broadside at Fannie and Freddie the benefit of some (contrived) doubt</a>.  I’ve already screamed about the legerdemain of Cowen’s post <a href="http://delong.typepad.com/sdj/2011/07/hoisted-from-comments-risk-controls-at-fannie-mae-during-the-mid-2000s.html" target="_blank">elsewhere</a>, so let’s go for the philosophical underpinnings.
+<p>Let’s give some ground first.  Buce is spot-on with:</p>
+<blockquote><p>One is the question whether Fannie/Freddie misbehaved in the years leading up to the pop.  On that point, I don&#8217;t think anybody can quarrel that Fannie (at least) has an appalling record of institutional misbehavior: rapacious and corrupt and willing to do whatever it could to pervert the lawful structure of good government&#8211;<strong>in short, they behaved like a money center bank. </strong>[emphasis mine]</p>
+</blockquote>
+<p>I can and will quarrel that it depends on how you define “misbehaved.”  As <a href="http://delong.typepad.com/sdj/2011/07/hoisted-from-comments-bakho-on-how-fannie-and-freddie-should-always-have-been-arms-of-the-treasury.html" target="_blank">Bakho notes chez DeLong</a>:</p>
+<p> <a name="more"></a><br />
+<blockquote>
+<p>Freddie/Fannie responded to the housing bubble once they started losing market share. The pressure on the private F/F was to regain market share.</p>
+<p>Would a fully public F/F be under the same pressure to increase market share? No. The pressure would have been for a public institution to not compete with the private sector and only write those loans the private sector was unwilling to write.</p>
+</blockquote>
+<p>Again, I’ll quibble that last sentence—it should read “loans the private sector could not make profitably,” but that’s part of the argument below and generally the phrases should mean the same. But if you believe the risk is being managed properly by the money center and investment banks, there’s no reason <em>ex ante</em> to believe that Fannie and Freddie misbehaved.  The “non-conforming” products all fill a consumer need, though some have <strong>very </strong>limited markets that are truly appropriate. </p>
+<p>Balloon mortgages, floating-rate mortgages with (and without) long-term caps,  or even IO mortgages make sense for a small subset of people. For balloon mortgages, think people who receive regular, annual bonuses.  The second is a yield-curve play for the borrower: either the upfront cost of the cap charged to the borrower gives the bank a cushion or the risk of high rates remains with the borrower. (The latter is a bad idea for anyone at risk of being liquidity-constrained.) The third is more difficult to justify—partially because it should carry a higher interest rate—but might be appropriate for second-home mortgages and the like.</p>
+<p>Even I won’t try to defend negative-amortization purchase loans. Any bank or firm that believed—and certainly those that still believe—that such a product has any reason to exist should be closed with prejudice, since its managers and directors clearly have no clue how to run a mortgage-related business.</p>
+<p>(Exception noted: reverse mortgages are philosophically reasonable, though I personally don’t believe they are either reasonable or valuable as they are currently sold, especially if you consider all of the non-economic reasons. But reverse mortgages do not have the same risk profile for the bank that reverse-amortization loans do, so the argument is more over demand than supply.)</p>
+<p>So there might be a market for all of the products that got headlines in the early and mid-Noughts. The problem is that—even with the size of the U.S. housing market—those niche products are likely to be unprofitable, given the fixed costs, reporting requirements, and back-office operations needed to manage and evaluate the products.</p>
+<p>To no one’s great surprise (I trust), the first thing that went was conformance to those reporting and management requirements.</p>
+<p>But that still wasn’t enough, especially in the case of the Bubble, so people who might have survived bullet loans or even amortizing floaters with or without caps ended up getting, er, encouraged to take loans that had a worse profile for them.  Buce carps:</p>
+<blockquote><p>[The GSEs] were willing to make the right noises about serving  public purpose but at the end of the day they had no more interest in the larger public good than Stan O&#8217;Neal, Dick Fuld or Jimmie Cayne.</p>
+</blockquote>
+<p>That may have been true at the top—my view of Daniel “acts like Harry” Mudd’s guidance of Fannie is no secret—but the risk controls at Fannie were far superior to the controls Jimmy Cayne enabled. Don’t believe me?  Ask <a href="http://www.rgm.com/articles/fortune3.html" target="_blank">Paul Friedman</a>:</p>
+<blockquote><p>&#8220;It took two or three weeks to mark,&#8221; explained Friedman. &#8220;It literally took a dozen people on the mortgage desk night and day, and a bunch of our research people night and day and weekends, three weeks to value this stuff, which tells you just how illiquid it was.&#8221;</p>
+<p>By the time they did figure out what most of it was worth, the firm had miscalculated badly. &#8220;We thought there was $400 million-ish of cushion, and in fact, as it turned out, we missed by like $1 billion out of $1.5 billion,&#8221; says Friedman. &#8220;It was not even close. You would think you could get it to the nearest billion, and a lot of it was the market deteriorating dramatically in that five or six weeks. But it was just a guess to begin with.&#8221;</p>
+</blockquote>
+<p>Don’t get me wrong: I consider this the equivalent of the Bancroft family getting all uppity about how Rupert “ruined their brand” or whatever. Instead of paying for projects and systems that could do that work, Bear upper management—not excluding Paul Friedman—took the cash home every year and budgeted their IT department(s) for the next year. The man who controls the purse strings and prioritization complaining about the system inadequacies may well be the 21st century equivalent of the obligatory teen who kills both her parents and pleads for mercy because she’s an orphan.</p>
+<p>But, taking Paul Friedman at his word, his systems couldn’t do in 2007 what Fannie Mae’s could do in 2001.  And if the risk cannot be evaluated properly, the price isn’t going to be right. Doesn’t mean it’s too high or too low, just that it’s not going to be right.</p>
+<p>So when those “bridge securitizations” (as it were)—mortgages purchased to securitize—become “pier loans” because no one wants to buy the security, you better have priced the loan appropriately, because it’s all going on your books and against your capital.</p>
+<p>From what I can tell, what made Bear—and very probably Lehmann—different from all others is that they had their own mortgage origination units.  So after all the other “private label issuers” (read: non-GSEs) stopped buying mortgages for MBSes around Hallowe’en of 2006, Bear was still buying from its own pipeline for another two or three months.  (By February of 2007, even Bear wasn’t buying.)</p>
+<p>Note therefore, that </p>
+<p>And any economists can tell you what happens when Q<sub>s</sub> > Q<sub>d</sub>.  But Buce has more fun:</p>
+<blockquote><p>Or, they wanted that until they didn’t want it, which is to say until they started pouring gasoline on a bonfire.</p>
+</blockquote>
+<p>I suspect that’s not exactly true.  Looking at the flows, it appears more that the Mudd Dynasty (and a poke or two from the Bush Administration) resulted in the GSEs being basically the only Origination game in town—“extend and pretend” started early.  As I* have often noted, by August of <strong>2007</strong>, both Lehmann and Bear were issuing debt—and, <a href="http://blogs.reuters.com/felix-salmon/files/2011/07/aaa.jpg" target="_blank">with due respects to Felix</a> (and <a href="http://www.angrybearblog.com/2008/11/credit-rating-game.html" target="_blank">Robert</a> <a href="http://www.angrybearblog.com/2010/05/quote-of-day.html" target="_blank">multiple</a> <a href="http://www.angrybearblog.com/2009/09/rating-agency-incentives.html" target="_blank">times</a> <a href="http://www.angrybearblog.com/2010/05/no-one-could-have-predicted.html" target="_blank">etc.</a>)—the market (as I have <a href="http://www.angrybearblog.com/2008/09/roubinis-not-wrong-but.html" target="_blank">noted before</a>) knew that <a href="http://www.bloomberg.com/apps/news?pid=newsarchive&#038;sid=aFbRONWfpjU8" target="_blank">all was not well</a> and any investor who was truly “rational” was paying attention to spreads.  (The rest were running “<a href="http://latimesblogs.latimes.com/money_co/2008/09/the-credit-cris.html" target="_blank">money market funds</a>.”*) </p>
+<p>So if you want to argue that the GSEs extended the crisis, you’ll get no argument from me (so long as you note that, even there, they had help from the Administration and its allies).</p>
+<p>So where am I quibbling?  Try <a href="http://underbelly-buce.blogspot.com/2011/07/tyler-on-fanniefreddie.html" target="_blank">here</a>:</p>
+<blockquote><p>I do think that defenders of Fannie/Freddie get a bit ahead of their skis sometimes, and I suspect the reason is that they fear for the institutions <i>per se</i>; the defenders  see their enemies as wanting to put Fannie/Freddie out of business and they don&#8217;t want Fannie/Freddie to go.  Me, I&#8217;m still on the fence on that issue.  It&#8217;s not obvious to me that we need  government-sponsored mortgage market makers.  I can see you don&#8217;t want to terminate tonight&#8211;or there would be no lending <i>at all</i>.  But schedule departure for five, ten years down the road, could be a good idea.</p>
+</blockquote>
+<p>Uh, “our enemies” <em>do </em>want “to put Fannie/Freddie out of business.” They have said so. So the quibble is whether it is “obvious we need  government-sponsored mortgage market makers.” And the evidence of that—remember the past, live the present—is clear that we do.</p>
+<p>But that’s the next post.</p>
+<p> </p>
+<p>*Only someone as deliberately clueless as Tim Geithner acts, or an economist, could believe that just because something calls itself a “money market fund” means it cannot “break the buck.” The number of the Deliberately Clueless has been expanding in recent months.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/the-30-year-amortizing-mortgage-is-a-win-win-part-1-of-a-series.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Telling the Right Story, or Economists Catching Up Round One</title>
+		<link>./../../2011/06/telling-the-right-story-or-economists-catching-up-round-one.html</link>
+		<comments>./../../2011/06/telling-the-right-story-or-economists-catching-up-round-one.html#respond</comments>
+		<pubDate>Thu, 09 Jun 2011 00:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[deregulation]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[Housing Prices]]></category>
+		<category><![CDATA[income]]></category>
+		<category><![CDATA[MBS]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/telling-the-right-story-or-economists-catching-up-round-one.html</guid>
+		<description><![CDATA[Anyone who was in the MBS market and not working for a primary originator can tell you that the MBS securitization market ended around Halloween 2006. (Those of us who were at places with origination go a few more months, but had no flow by February.) Only economists were fooled by what I&#8217;ve been calling [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Anyone who was in the MBS market and not working for a primary originator can tell you that the MBS securitization market ended around Halloween 2006.  (Those of us who were at places with origination go a few more months, but had no flow by February.)</p>
+<p>Only economists were fooled by what I&#8217;ve been calling a <a href="http://streetlightblog.blogspot.com/2011/06/supply-side-factors-and-soft-patch.html">Xmas Miracle</a>, and even they (via <a href="http://economistsview.typepad.com/economistsview/2011/06/our-lost-half-decade-and-its-not-over-yet.html">Mark Thoma</a>) are <a href="http://www.freakonomics.com/2011/06/08/were-halfway-to-a-lost-decade/">starting to wise up</a>:<br />
+<blockquote>The blue line is the usual measure of GDP, which is obtained by adding up total spending. When you read the newspapers, this is the number they report. But the Fed’s Jeremy Nailewaik has convincingly shown that red line—which is the sum of all income—is the more reliable measure.  In theory the two lines should be identical—one person’s spending is another’s income—but in practice, the measurements differ. I’ve also plotted the peak, trough, and latest reading of each measure.<br />Focus on the red line, and you’ll see that the recession began in the final quarter of 2006, not the end of 2007.</p></blockquote>
+<p>You can sustain a bubble as long as more funds are coming into the system. Sell the 1BR on the West Side, reinvest the profits on the 2BR in Park Slope while that seller reinvests in 2,600 square feet in Summit or Hasting-on-Hudson who&#8230;</p>
+<p>Until the incomes stop moving—transaction costs slow the margin, generally just after a few of the easier lenders demonstrate the flaws of their &#8220;business model&#8221; and the infrastructures have been built up at other firms based on those chimeric profits, when fixed costs and narrowing margins make better and better firms look worse and worse.</p>
+<p>Economics has caught up with finance.  What will they think of next?</p>
+<p>Note: Subtitle added as I realized this may become a series. &#8211; klh, 10 June 2011</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/telling-the-right-story-or-economists-catching-up-round-one.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8230;abandon claims that they had been sold trash</title>
+		<link>./../../2011/01/abandon-claims-that-they-had-been-sold-trash.html</link>
+		<comments>./../../2011/01/abandon-claims-that-they-had-been-sold-trash.html#respond</comments>
+		<pubDate>Fri, 14 Jan 2011 16:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MBS]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[securitization]]></category>
+		<category><![CDATA[Tim Geithner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/abandon-claims-that-they-had-been-sold-trash.html</guid>
+		<description><![CDATA[Via Benzinga, L. Randall Wray notes more of the same for socializing the costs of our financial woes: In truly depressing news, Secretary Treasury Geithner announced he was funneling $2.8 billion more bail-out funds to Bank of America. In the deal, Fannie and Freddie would agree to abandon claims that they had been sold trash [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via Benzinga, <a target="_blank" href="http://www.benzinga.com/news/buybacks/11/01/775535/timmy-does-bailouts-geithner-shovels-more-bail-out-money-to-bank-of-ameri#ixzz1B1dN3sUU">L. Randall Wray notes</a> more of the same for socializing the costs of our financial woes:<br />
+<blockquote>In truly depressing news, Secretary Treasury Geithner announced he was funneling $2.8 billion more bail-out funds to Bank of America. In the deal, Fannie and Freddie would agree to abandon claims that they had been sold trash in fraudulent “mortgage backed securities” by the BofA. (A similar deal was provided to Ally Financial.) </p>
+<p>As I have written, holders of the securities have gradually realized that the securitizations did not meet the “reps and warranties” asserted by the banks that pooled mortgages. A growing number of investors have demanded that the originating banks take back the fraudulent securities, including Fannie and Freddie, as well as the NYFed and PIMCO. But true to form, Timmy prefers to backstop the control fraud banks rather than forcing them to bear the costs of their frauds. </p>
+<p>The actual losses that Freddie and Fannie will take on the toxic waste sold to them by Countrywide (absorbed by Bank of America, which is now responsible for the put-backs) will undoubtedly be much larger than the $2.8 billion they received in the settlement. And guess who will suffer that extra loss? You betcha: Uncle Sam. As always, Geithner instinctively socializes losses to protect Wall Street&#8217;s private bonuses.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/abandon-claims-that-they-had-been-sold-trash.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flashback: How Donald Luskin Earned His Title</title>
+		<link>./../../2010/10/flashback-how-donald-luskin-earned-his-title.html</link>
+		<comments>./../../2010/10/flashback-how-donald-luskin-earned-his-title.html#respond</comments>
+		<pubDate>Fri, 29 Oct 2010 22:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[hedge funds]]></category>
+		<category><![CDATA[MBS]]></category>
+		<category><![CDATA[present value]]></category>
+		<category><![CDATA[securitization]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/flashback-how-donald-luskin-earned-his-title.html</guid>
+		<description><![CDATA[Max Sawicky, on his Twitter feed, sends us to this classic piece from Donald Luskin Believe me, if we raise taxes on hedge-fund managers we&#8217;ll get fewer hedge-fund managers. Today, with lots of hedge-fund managers trading all the time and keeping markets efficient, stocks are at record highs around the globe and markets are deeper, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Max Sawicky, on <a href="http://twitter.com/#!/maxbsawicky">his Twitter feed</a>, sends us to <a href="http://www.smartmoney.com/investing/stocks/higher-hedge-fund-taxes-would-hurt-little-guys-too-21571/">this classic piece from Donald Luskin</a><br />
+<blockquote>Believe me, if we raise taxes on hedge-fund managers we&#8217;ll get fewer hedge-fund managers. Today, with lots of hedge-fund managers trading all the time and keeping markets efficient, stocks are at record highs around the globe and markets are deeper, more liquid and less volatile. With fewer hedge-fund managers, markets would shrink, become more volatile and more costly, and tumble from their present highs.</p></blockquote>
+<p>The date on the piece is 20 July 2007.  Just over three months later—pretty much exactly three years ago—the IB-sponsored MBS origination market effectively died, having taken much more value than was produced by the underlying property and placed it firmly into the pockets of traders and originators who knew that the present value they were claiming was—let us be nice—overoptimistic.</p>
+<p>Does anyone wonder why Brad DeLong designated Donald Luskin &#8220;<a href="http://www.google.com/search?q=%22Donald+Luskin%22+%22Stupidest+Man+Alive%22+site:delong.typepad.com&#038;hl=en&#038;num=10&#038;lr=&#038;ft=i&#038;cr=&#038;safe=images">the Stupidest Man Alive Emeritus</a>&#8220;?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/flashback-how-donald-luskin-earned-his-title.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Gift that Keeps on Giving</title>
+		<link>./../../2010/08/the-gift-that-keeps-on-giving.html</link>
+		<comments>./../../2010/08/the-gift-that-keeps-on-giving.html#respond</comments>
+		<pubDate>Thu, 19 Aug 2010 17:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CMBS]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[MBS]]></category>
+		<category><![CDATA[recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/the-gift-that-keeps-on-giving.html</guid>
+		<description><![CDATA[During the discussions about the Fannie Mae project I still regret having turned down, one of the topics was which security would be better for a portfolio (assuming their risk-adjusted prices provided the same value): a four-year-old MBS or a seven-year-old MBS? I noted that the four-year-old MBS provided more potential upside but came gradually [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>During the discussions about <a href="http://www.angrybearblog.com/2010/08/interlude-self-indulgent-advt.html">the Fannie Mae project I still regret having turned down</a>, one of the topics was which security would be better for a portfolio (assuming their risk-adjusted prices provided the same value): a four-year-old MBS or a seven-year-old MBS?</p>
+<p>I noted that the four-year-old MBS provided more potential upside but came gradually to agree that the seven-year-old security was preferable: an MBS that is that &#8220;seasoned&#8221; is effectively a generic amortizing bond.  There shouldn&#8217;t be any surprises—in either direction—so a portfolio manager would prefer it.</p>
+<p>As usual, The Old Firm manges to prove that what <em>should</em> be correct for an MBS <a href="http://www.reuters.com/article/idUSWNA817520100819">isn&#8217;t necessarily so for a CMBS</a>:<br />
+<blockquote>Standard &#038; Poor&#8217;s Ratings Services today lowered its ratings on<br />three classes of commercial mortgage pass-through certificates from Bear<br />Stearns Commercial Mortgage Securities Trust 2002-TOP6, a U.S. commercial<br />mortgage-backed securities (CMBS) transaction&#8230;.</p>
+<p>The downgrade of class M to &#8216;D&#8217; follows a principal loss sustained by the<br />class, which was detailed in the August 2010 remittance report&#8230;.</p>
+<p>The principal loss and corresponding credit support erosion resulted from the<br />liquidation of an asset&#8230;.The Nortel Networks asset is a 281,758-sq.-ft. office<br />property in Richardson, Texas. The asset had a total exposure of $28.6<br />million. The asset was transferred to the special servicer in September 2009<br />and became real estate owned (REO) in March 2010. The trust incurred a $12.0<br />million realized loss when the asset was liquidated during the August<br />reporting period&#8230;[T]he loss severity for this asset was 44.2%</p></blockquote>
+<p>As <a href="http://www.calculatedriskblog.com/2010/08/jingle-mail-from-hyatt-hotels.html">corporations are increasingly using &#8220;jingle mail</a>,&#8221; the prospect for the future of CMBSes—even those that went through several good years. Or for the concept of an &#8220;ongoing concern,&#8221; or a strong recovery. (That latter concept seems to fade with <a href="http://macromarketmusings.blogspot.com/2010/08/its-happening-aggregate-demand.html">each</a> <a href="http://robertreich.org/post/953941192/forget-a-double-dip-were-still-in-one-long-big">passing</a> <a href="http://economistsview.typepad.com/economistsview/2010/08/initial-claims-for-unemployment-increase-to-500000.html">day</a>.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/the-gift-that-keeps-on-giving.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

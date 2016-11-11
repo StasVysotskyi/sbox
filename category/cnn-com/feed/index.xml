@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CNN.com &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>David Gergen’s Beautiful Essay Today on CNN.com.</title>
+		<link>./../../2013/01/david-gergens-beautiful-essay-today-on-cnn-com.html</link>
+		<comments>./../../2013/01/david-gergens-beautiful-essay-today-on-cnn-com.html#respond</comments>
+		<pubDate>Thu, 24 Jan 2013 14:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Barack Obama]]></category>
+		<category><![CDATA[CNN.com]]></category>
+		<category><![CDATA[David Gergen]]></category>
+		<category><![CDATA[Inaugural speech]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/david-gergens-beautiful-essay-today-on-cnn-com.html</guid>
+		<description><![CDATA[It sums up this week and what it means. I think, and dearly hope.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.cnn.com/2013/01/23/opinion/gergen-obama-history/index.html?eref=igoogledmn_topstories">It</a> sums up this week and what it means.  I think, and dearly hope.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/david-gergens-beautiful-essay-today-on-cnn-com.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

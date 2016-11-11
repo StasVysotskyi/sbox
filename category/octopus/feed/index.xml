@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>octopus &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Eat Your Heart Out PZ Myers</title>
+		<link>./../../2011/06/eat-your-heart-out-pz-myers.html</link>
+		<comments>./../../2011/06/eat-your-heart-out-pz-myers.html#respond</comments>
+		<pubDate>Wed, 08 Jun 2011 13:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[octopus]]></category>
+		<category><![CDATA[PZ Meyers]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/eat-your-heart-out-pz-myers.html</guid>
+		<description><![CDATA[by Mike Kimel Eat Your Heart Out PZ Myers Now that is what you call an octopus. Eat your heart out PZ Myers.]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong> Eat Your Heart Out PZ Myers</strong></p>
+<p><a href="http://3.bp.blogspot.com/-_2sHyIaVBog/Te99L4AKnzI/AAAAAAAAAos/bWLdOsWSG1g/s1600/Octopus_2.jpg"><img src="http://3.bp.blogspot.com/-_2sHyIaVBog/Te99L4AKnzI/AAAAAAAAAos/bWLdOsWSG1g/s320/Octopus_2.jpg" border="0" alt=""></a></p>
+<p>Now that is what you call an octopus.  Eat your heart out <a href="http://scienceblogs.com/pharyngula/2011/06/brains_eaten_gotta_sleep.php">PZ Myers</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/eat-your-heart-out-pz-myers.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>incentives &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>New Report Highlights Flaws of North Carolina Mega-Incentives</title>
+		<link>./../../2012/06/new-report-highlights-flaws-of-north-carolina-mega-incentives.html</link>
+		<comments>./../../2012/06/new-report-highlights-flaws-of-north-carolina-mega-incentives.html#respond</comments>
+		<pubDate>Mon, 04 Jun 2012 12:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[incentives]]></category>
+		<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[tax subsidies]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/new-report-highlights-flaws-of-north-carolina-mega-incentives.html</guid>
+		<description><![CDATA[by Kenneth Thomas New Report Highlights Flaws of North Carolina Mega-Incentives My new report for the North Carolina Budget and Tax Center, Special Deals, Special Problems&#8211;An Analysis of North Carolina&#8217;s Legislature-Approved Economic Development Incentives, has just been published. It covers a range of issues I&#8217;ve emphasized here before as well as some basic considerations reporters [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Kenneth Thomas</p>
+<p>New Report Highlights Flaws of North Carolina Mega-Incentives </p>
+<p>My <a href="http://www.blogger.com/blogger.g?blogID=5048766">new report</a> for the North Carolina Budget and Tax Center, <i>Special Deals, Special Problems&#8211;An Analysis of North Carolina&#8217;s Legislature-Approved Economic Development Incentives</i>, has just been published. It covers a range of issues I&#8217;ve emphasized here before as well as some basic considerations reporters really need to pay more attention to.    </p>
+<p>North Carolina has some of the best economic development practices in the country, in terms of <a href="http://www.blogger.com/blogger.g?blogID=5048766">online transparency</a>, <a href="http://www.blogger.com/blogger.g?blogID=5048766">performance requirements</a>, <a href="http://www.blogger.com/blogger.g?blogID=5048766">use of clawbacks</a> for non-performance by companies, sunset clauses for tax expenditures, hard caps for many tax credit programs (see my report on these points), etc. The state publishes an <a href="http://www.blogger.com/blogger.g?blogID=5048766">economic development inventory</a> I consider to be of very high quality and consistent with international definitions of a subsidy. The most recent edition shows that in the 2008-9 fiscal year the state spent about $1.2 billion on economic development, enough to hire 24,000 people at $50,000 a year in wages and benefits.    </p>
+<p>At the same time, however, the state has persistently had problems in overvaluing potential investments and consequently offering wildly excessive subsidies for them. The best known case is <a href="http://www.blogger.com/blogger.g?blogID=5048766">Dell in 2004</a>, when Virginia offered the company a $37 million incentive package, while the state and local bid from North Carolina came to almost $300 million on a nominal basis ($174 million present value). Other deals discussed in the report are Google ($260 million nominal value, $140 million present value), Apple ($321 million over 30 years nominal value, no present value calculation available), and a provision in a 2011 special incentives bill to allow Alex Lee Inc. to keep $2 million it should have forfeited for not keeping job promises. This last case illustrates how special legislative deals weaken the state&#8217;s performance requirements; this case will make future companies think that there may be no penalty for non-performance.    </p>
+<p>Reporters take note! This publication describes useful techniques for comparing the size of incentive packages regardless of project size or payout period of the incentive. From the European Union I borrow the term &#8220;aid intensity,&#8221; which measures the size of the incentive relative to the amount of the investment or the number of jobs created. The idea is that a $1 million incentive would be large for a call center but a rounding error for an automobile assembly plant. As a result, we need a standardized way of comparing incentives.    </p>
+<p><a name="more"></a></p>
+<p>While in this country one can sometimes find cost per job analyzed for some subsidy packages, the EU actually uses the subsidy/investment metric as its primary measure of aid intensity. <a href="http://www.blogger.com/blogger.g?blogID=5048766">In my last post</a> I discussed a mall redevelopment which could conceivably have an aid intensity of 96%. For comparison purposes, we should note that the highest aid intensity allowed for large firms anywhere in the European Union, is 50%, and that is only allowed in the poorest regions of the EU, mainly in eastern Europe. (Richer regions have lower allowable maxima.) A region&#8217;s maximum is cut by half for large projects over 50 million euro, and by 66% for spending over 100 million euro.    </p>
+<p>The other important concept is present value, a familiar one to accountants and economists, but not widely understood among the general public. The basic idea is simple: receiving a dollar today is worth more than receiving a dollar next year, which is worth more than receiving a dollar in two years, etc. Since incentive packages can pay out immediately (with a cash grant) or over a period of 30 or more years, we need to use present value to properly compare the size of incentives with different payout periods. This requires finding a a &#8220;discount rate&#8221; by which to reduce future payments. We then use the present value as the numerator in calculating aid intensity to be able to compare across different sizes of projects.    </p>
+<p>Using Google as an example, this $600 million project will receive $260 million over 30 years and create 210 jobs. As mentioned above, this is its nominal cost, before discounting the future dollars. Following the practice of a 1990s study by the Organization for Economic Cooperation and Development to compare subsidies among its then 23 members, I used a discount rate equal to the 10-year Treasury bond yield to come up with a present value of $140.6 million. Then the aid intensity is $140.6 million/$600 million, or 23%, and the cost per job at present value is $669,489.</p>
+<p>We can then use these two measures of aid intensity to compare the incentive to that given for other projects and inform our judgment of whether it was a better or worse deal than other states have made, in the current context where states make such deals all the time. Of course, I believe there should be limits placed on state and local governments so we can sharply reduce net incentive spending, which has few national benefits&#8211;but that is a long time in the future.    </p>
+<p>North Carolina provides an intriguing case study because it does so much right in economic development, but it makes special deals outside its statutory incentive programs. The result is high costs and weakened bargaining position in the future. It&#8217;s a case we can learn a lot from. </p>
+<p>crossposted with <a href="http://www.blogger.com/%3Ca%3Ehttp://middleclasspoliticaleconomist.blogspot.com/2012/06/new-report-highlights-flaws-of-north.html%3C/a%3E" target="_blank">Middle Class Political Economist</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/new-report-highlights-flaws-of-north-carolina-mega-incentives.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GOP wants to repeal Dodd-Frank: instead they should listen to Nassim Taleb</title>
+		<link>./../../2011/11/gop-wants-to-repeal-dodd-frank-instead-they-should-listen-to-nassim-taleb.html</link>
+		<comments>./../../2011/11/gop-wants-to-repeal-dodd-frank-instead-they-should-listen-to-nassim-taleb.html#respond</comments>
+		<pubDate>Sun, 13 Nov 2011 14:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bank regulations]]></category>
+		<category><![CDATA[Dodd-Frank]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[Linda Beale (Tax law)]]></category>
+		<category><![CDATA[long tail events]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/gop-wants-to-repeal-dodd-frank-instead-they-should-listen-to-nassim-taleb.html</guid>
+		<description><![CDATA[by Linda Beale GOP wants to repeal Dodd-Frank: instead they should listen to Nassim Taleb Nassim Taleb, the author of the book on long-tail events, suggests in a Nov. 6, 2011 op-ed in the New York Times that &#8220;it is only a matter of time before private risktaking leads to another giant bailout like the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Linda Beale</p>
+<p>GOP wants to repeal Dodd-Frank: instead they should listen to Nassim Taleb
+<p>Nassim Taleb, the author of the book on long-tail events, suggests in a Nov. 6, 2011 op-ed in the New York Times that &#8220;it is only a matter of time before private risktaking leads to another giant bailout like the ones the United States was forced to provide in 2008.&#8221; </p>
+<p>That&#8217;s pretty strong language, and should be cause for worry among those GOP debaters who have been in a pissing contest over how much legislation they can suggest for repeal, like Dodd-Frank, health care reform, and environmental protection.  Instead of defending big banks, the GOP should start thinking about how to break them up.  Instead of suggesting that we need to repeal Dodd-Frank and end regulation of banks, Taleb says we do need  regulation but can&#8217;t depend on it alone: &#8220;Supervision, regulation, and other forms of monitoring are necessary, but insufficient.&#8221;</p>
+<p> <a name="more"></a>
+<p>And instead of defending risk-taking bankers as innovators and entrepreneurs, Congress should be considering measures to undo the incentives for risk taking.  Taleb says&#8211;<a href="http://www.nytimes.com/2011/11/08/opinion/end-bonuses-for-bankers.html">End Bonuses for Bankers</a>.</p>
+<blockquote><p>[I]t&#8217;s time for a fundamental reform:  Any person who works for a company that, regardless of its current financial health, would require a taxpayer-financed bailout if it failed, should not get a bonus, ever.  In fact, all pay at systemically important financial institutions&#8211;big banks, but also some insurance companies and even huge hedge funds&#8211;should be strictly regulated.</p>
+<p>***</p>
+<p>Bonuses are particularly dangerous because they invite bankers to game the system by hiding the risks of rare and hard-to-predict but consequential blow-ups, which I have called &#8216;black swan&#8217; events. </p>
+</blockquote>
+<p>Seems like sound advice.  Bonuses encourage risktaking, and risktaking encourages breakdowns of TBTF banks.  Breakdowns lead to taxpayer bailouts.  To break the chain, deny the bonuses.</p>
+<blockquote><p>The asymmetric nature of the bonus (an incentive for success without a corresponding disincentive for failure) causes hidden risks to accmumlate in the financial system and become a catalyst for disaster.  This violates the fundamental rules of capitalism:  Adam Smith himself was wary of the effect of limiting liability, a bedrock principle of the modern corporation.</p>
+</blockquote>
+<p>Here Taleb touches on a factor in the expanding risk of our economy&#8211;and the expanding immunity of the manager class from the risk they cause.  Corporations provide limited liability to their owners.  And innovations over the last few decades have expanded limited liability to almost all investors even in pass-through entities that pay no entity-level tax, through the limited liability company and the limited liability partnerships. That is one of the reasons I have argued for Congress to enact legislation to restrain the availability of tax-free mergers and reorganizations.  The combination of easily attained limited liability plus easily attained consolidation of entities has been a factor in the growth of the corporatist state.</p>
+<p>Taleb has a good point about the incidence of bonuses in the US market system as well.</p>
+<blockquote><p>We trust military and homeland secrutiy personnel with our lives, yet we don&#8217;t give them lavish bonuses.  They get promotions and the honor of a job well done if they succeed, and the severe disincentive of shame if they fail.  For bankers, it is the opposite: a bonus if they make short-term profits and a bailout if they go bust.</p>
+</blockquote>
+<p> Eliminating bonuses would make banking boring again, like it was before the repeal of the Glass-Steagall Act.  Boring, in this case, is good.  Congress should consider what kind of legislation could be designed to make bonuses in banking less likely, through tax disincentives or other means.</p>
+<p> </p>
+<p><a href="http://ataxingmatter.blogs.com/tax/2011/11/gop-wants-to-repeal-dodd-frank-maybe-they-should-listen-to-nassim-taleb-.html">http://ataxingmatter.blogs.com/tax/2011/11/gop-wants-to-repeal-dodd-frank-maybe-they-should-listen-to-nassim-taleb-.html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/gop-wants-to-repeal-dodd-frank-instead-they-should-listen-to-nassim-taleb.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Guest post: Prometheus and Bundled Payments</title>
+		<link>./../../2011/03/guest-post-prometheus-and-bundled-payments.html</link>
+		<comments>./../../2011/03/guest-post-prometheus-and-bundled-payments.html#respond</comments>
+		<pubDate>Wed, 23 Mar 2011 16:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[healthcare spending]]></category>
+		<category><![CDATA[incentives]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/guest-post-prometheus-and-bundled-payments.html</guid>
+		<description><![CDATA[As an extension of one of my posts, Global payment system, as the current buzz in healthcare reform, Michael Halasy points us to one of his choices for a plan. Guest post by Michael Halasy, Practicing Emergency Medicine PA, Health Policy Analyst, and Health Services Researcher Prometheus and Bundled Payments So, one of the more [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>As an extension of one of my posts, <a href="http://www.angrybearblog.com/2011/02/medical-costs-are-going-up-we-have-to.html" target="_blank">Global payment system</a>, as the current buzz in healthcare reform, Michael Halasy points us to one of his choices for a plan.</p>
+<p>Guest post by <strong>Michael Halasy</strong>, Practicing Emergency Medicine PA, Health Policy Analyst, and Health Services Researcher</div>
+<div>Prometheus and Bundled Payments</div>
+<p>So, one of the more intriguing propositions in the midst of health reform is to reform payments. Make no mistake this has been tried before, and many physicians and hospital administrators remember the days of capitation and DRG’s with Medicare.</p>
+<p>I attend a lot of health policy meetings and symposia, and the common theme on the priorities coming out of these meetings centers around bundled payments, and payment reform. The thought of course being, that as you change the payment system, other changes will be more palatable, and easier to enact. We’ve had some discussion of the ACO concept here, and make no mistake, bundled payments tied to outcome measurements will be one of the chief indicators of the ACO model success, and/or, it’s demise. </p>
+<p>The problem is, that the current fee for service model is broken. Almost everyone knows this. It encourages fragmentation, volume over value, and quantity over quality. This is not sustainable, and is one of the main drivers in some respects of healthcare cost increases. </p>
+<p><a name="more"></a>
+<div>Prometheus happens to be one of the most studied, and well known of the new payment models (and yes, also a Titan who was condemned to watch his liver being eaten every day by an eagle). </div>
+<p>Prometheus was first developed under a Robert Wood Johnson grant in 2006 in Rockford, Illinois, but has shown a great deal of promise for expansion. The initial premise behind it was to hold physicians and hospitals accountable for the care that they provide, but only for those outcomes that were within their control. They termed these PAC’s, or Potentially Avoidable Complications. </p>
+<p>There has been some work that shows that these PAC’s may account for about 22% of all private sector expenditures. Reducing not only the occurrence of these incidents through incentives, but also through payment mechanisms has the potential to save a lot of money.</p>
+<p>This data on Prometheus was retrieved from <a href="http://healthpolicyandreform.nejm.org/?p=1514" target="_blank">this article</a> </p>
+<div>  </div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/guest-post-prometheus-and-bundled-payments.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La cupidité</title>
+		<link>./../../2010/02/la-cupidite.html</link>
+		<comments>./../../2010/02/la-cupidite.html#respond</comments>
+		<pubDate>Sun, 14 Feb 2010 20:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[greed]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[Stiglitz]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/la-cupidite.html</guid>
+		<description><![CDATA[If I&#8217;m reading this link from my usual news source correctly, Joseph Stiglitz&#8217;s new book Freefall: America, Free Markets, and the Sinking of the World Economy is being sold in France under the title Le triomphe de la cupidité (The Triumph of Greed). The sole B&#038;N customer review so far is a confused jumble: If [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If I&#8217;m reading <a href="http://www.lemonde.fr/economie/article/2010/02/12/la-machine-stiglitz_1304793_3234.html">this link</a> from <a href="http://twitter.com/alea_">my usual news source</a> correctly, Joseph Stiglitz&#8217;s new book <em><a href="http://search.barnesandnoble.com/Freefall/Joseph-E-Stiglitz/e/9780393075960/?itm=1&#038;usri=freefall+america+free+markets+and+the+sinking">Freefall: America, Free Markets, and the Sinking of the World Economy</a></em> is being sold in France under the title <em><a href="http://www.amazon.fr/gp/product/2918597058/ref=s9_simh_gw_p14_t1?pf_rd_m=A1X6FK5RDHNB96&#038;pf_rd_s=center-1&#038;pf_rd_r=0CM659C5FEDBRRY3Q3YS&#038;pf_rd_t=101&#038;pf_rd_p=463375513&#038;pf_rd_i=405320">Le triomphe de la cupidité (The Triumph of Greed)</a></em>.</p>
+<p>The sole B&#038;N customer review so far is a confused jumble:<br />
+<blockquote>If you take away the authors attempts to sell the need for big government and socialism it is a excellent book on present problems in the financial markets. He shows how we are living beyond our means and that in the future our living standard will probably go down. He does a excellent job at examining the large banks failures and the need for regulations to protect the public from the large banks greed.</p></blockquote>
+<p>If you take away the need for big government, you get the need for more regulation. If you take away the need to control large bank failures, you get large bank failures produced by excess risk (&#8220;living beyond our means&#8221; = &#8220;privatize the profits, socialize the risks&#8221;).</p>
+<p>Fifteen years ago, everyone coming out of Business School was talking about how they learned about &#8220;risk.&#8221;  While it is true that those people are not running large financial institutions, they are starting to reach upper management levels. So it&#8217;s possible that &#8220;<a href="http://www.nytimes.com/2009/10/14/opinion/14trillin.html?_r=2&#038;ref=opinion&#038;pagewanted=print">smart guys started working on Wall Street</a>&#8221; won&#8217;t be the problem next time. (h/t <a href="http://norris.blogs.nytimes.com/2009/10/14/too-many-brains/">Floyd Norris</a>, again)</p>
+<p>They might get it right the next time.</p>
+<p>Is that the way to bet?</p>
+<p>Happy <s>cupidité</s> Valentine&#8217;s Day.</p>
+<p>*For the record, I was still six years away from entering it, eight from graduation.  Never let it be said I was a First Mover.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/la-cupidite.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eagles Update</title>
+		<link>./../../2010/02/eagles-update.html</link>
+		<comments>./../../2010/02/eagles-update.html#respond</comments>
+		<pubDate>Wed, 03 Feb 2010 22:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[football]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/eagles-update.html</guid>
+		<description><![CDATA[For those who missed it yesterday, Palace defeated the Wolves at Selhurst Park last night, 3-1 (only a goal in the 90th minute breaking the shutout) behind a hat trick from defenseman-moved-forward Danny Butterfield, who played a similar role in Saturday&#8217;s 2-0 win over Peterborough. Most interesting is this observation from Palace manager Neil Warnock: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For those who missed it yesterday, Palace defeated the Wolves at Selhurst Park last night, 3-1 (only a goal in the 90th minute breaking the shutout) behind a hat trick from defenseman-moved-forward Danny Butterfield, who played a similar role in Saturday&#8217;s 2-0 win over Peterborough.</p>
+<p>Most interesting is <a href="http://www.guardian.co.uk/football/2010/feb/03/fa-cup-crystal-palace-notts-county">this observation from Palace manager Neil Warnock</a>:<br />
+<blockquote>&#8220;Transfer deadline day was a long day for me. I think Fulham offered £30,000 for three of our academy players, and Chelsea came in for some too. That&#8217;s disgusting. And everybody knows that [the full-back Nathaniel] Clyne almost went to Wolves yesterday, and I was disappointed with the offer we accepted for him. But he turned them down and the money we would have got for him we&#8217;ll get from this Cup run now.&#8221;</p></blockquote>
+<p>Fire sales rarely make economic sense if you&#8217;re caretaking a Going Concern and willing to provide bridge financing.  That <a href="http://www.guardian.co.uk/football/2010/feb/02/crystal-palace-loan-players-wages-agilo">the latter was secured</a> the day after the Transfer Deadline may not be coincident.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/eagles-update.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Transfer Deadline Day and Poor Incentive Alignment</title>
+		<link>./../../2010/02/transfer-deadline-day-and-poor-incentive-alignment.html</link>
+		<comments>./../../2010/02/transfer-deadline-day-and-poor-incentive-alignment.html#respond</comments>
+		<pubDate>Mon, 01 Feb 2010 23:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[football]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/transfer-deadline-day-and-poor-incentive-alignment.html</guid>
+		<description><![CDATA[The big news of Transfer Deadline Day was that Nathaniel Clyne turned down a move from The Eagles to The Wolves.*  As The Guardian noted: [This] will please everyone at Crystal Palace who isn&#8217;t an administrator. Let’s look at the timeline and the reality. Palace was ninth in the Premier Championship [thanks to Tim in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The big news of <a href="http://www.guardian.co.uk/football/2010/feb/01/transfer-deadline-day-live" target="_blank">Transfer Deadline Day</a> was that Nathaniel Clyne turned down a move from The Eagles to The Wolves.*  As The Guardian noted:<br />
+<blockquote>
+<p>[This] will please everyone at Crystal Palace who isn&#8217;t an administrator.</p>
+</blockquote>
+<p>Let’s look at the timeline and the reality.
+<ol>
+<li>Palace was ninth in the <s>Premier</s> Championship [thanks to Tim in comments] League at the time they were put into Administration. (Owners could not pay bills.)</li>
+<li>Being put into Administration carries with it a <strong>10-point</strong> penalty <em>on the team.</em> This moved them from ninth to twentieth—from in contention for <s>the FA Cup</s> Coca Cola Championship playoffs [ibid. to Tim] and possible Promotion to the borderline of Relegation.
+<p>UPDATE 2: The Eagles&#8217;s current FA Cup matchup—being one of five remaining Championship League teams in the Round of 16—is a replay today (3:00pm EST) with&#8230;the Wolves.  Yes, the same team to which Clyne declined a transfer. Looking at <a href="http://www.thisislondon.co.uk/standard-sport/football/article-23801512-neil-warnock-is-banking-on-fa-cup-cash-to-keep-crystal-palace-afloat.do">the economics of today&#8217;s game</a> (h/t My Loyal Reader), there is 90,000 quid to get through to the next round, and an expectation of 247,500 in additional revenues from that round. So the proposed 1.5MM transfer fee for Clyne and Moses has to be adjusted by the decrease in probability (from positive to virtually zero) of receiving that 337,500.  Even if you assume only a 40% chance of winning at home, that&#8217;s an immediate 135,000 quid—9%—decline in the value of the sale.</p>
+</li>
+<li>Note that the team itself did not change in the least at that point.</li>
+<li>This puts two factors into play: a relegated Eagles squad would be worth less, but the Administrators are looking for short-term cash flow that can best be achieved by selling top players. (We should call this a “borrowing constraint,” perhaps, save that it was the lack of an initial borrowing constraint and the resultant overextension that led to the situation in the first place, so perhaps it is a resource allocation issue.) </li>
+</ol>
+<p>The strange thing is that, without the penalty, the incentives of the Administrators would be better-aligned with the long-term goals of the team: putting the best possible product on the field and selling an attractive commodity.**
+<p>Note, however, that the previous owners suffer no incremental reputational risk as the team is sold, even though they failed to prepare the <strike>firm</strike> team for those next steps. (Think Sandy Weill and The Big C or Neutron Jack and the DoD-subsid[iar]y/mortgage lender.) The damage after their departure is borne solely by the players.  In this particular case, Nathaniel Clyne’s move of support for the Eagles should be a stronger symbol for potential acquirers of the F.C. than the 1.5 million quid would have been.</p>
+<p>*Dissent on this point from <a href="http://en.wikipedia.org/wiki/Robbie_Keane" target="_blank">Tottenham</a> supporters is understandable, if wrong.  Yes, it was a boring day on the transfer front.</p>
+<p>**This doesn’t mean that they might not still be trying to sell players, just that there wouldn’t be a “Fire Sale” sign on their foreheads, which should produce marginally better deals, i.e., those that are <em>more closely</em> aligned with the longer-term interests of the team.</p>
+<p>UPDATE 1: Tim in comments notes, correctly, that Administration does, at least, pay the players, leaving transfer fees a possibility. The purpose of Administration remains, however, (1) keeping the League orderly and (2) being able to sell the franchise to other buyers for as much as possible.  Since transfer fees are based on negotiation, and Administration (&#8220;fire sale&#8221;) prices seem by definition to be below those that would be negotiated if it were One&#8217;s Own Money.</p>
+<p>So assuming one expects the Eagles to remain a Going Concern—that is, that Selhurst Park next season won&#8217;t be being developed into a Harrod&#8217;s—taking the transfer fee upfront is at best a wash, and more likely a reduction in the franchise&#8217;s value. Especially in a case where there is risk of Relegation.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/transfer-deadline-day-and-poor-incentive-alignment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mark Cuban Makes the Key Point</title>
+		<link>./../../2009/08/mark-cuban-makes-the-key-point.html</link>
+		<comments>./../../2009/08/mark-cuban-makes-the-key-point.html#respond</comments>
+		<pubDate>Tue, 18 Aug 2009 20:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[economic development]]></category>
+		<category><![CDATA[fair tax policy]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[investments]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/mark-cuban-makes-the-key-point.html</guid>
+		<description><![CDATA[Ken Houghton remembers that Warren Buffett famously groused that he pays a lower percentage of his income in taxes than his secretary. Or the person who will come up with an actual cure for a cancer. Mark Cuban takes this one step further, pointing out the obvious: if we want to promote investment, &#8220;we should [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ken Houghton remembers that Warren Buffett famously groused that he pays a lower percentage of his income in taxes than his secretary.  Or the person who will come up with an actual cure for a cancer.</p>
+<p>Mark Cuban takes this one step further, <a target="_blank" href="http://blogmaverick.com/2009/08/18/some-thoughts-on-the-economy/">pointing out the obvious</a>: if we want to promote investment, &#8220;we should tax the trader/speculator more heavily than the investor.[emphasis his]&#8221;</p>
+<p>When you make the tax rate the same for short-term investment as long-term—and lower than that on income—you create the perverse incentive to taking profits in the short-term, making the &#8220;capital&#8221; investment equivalent to a Demand Deposit account.  If you want to reward capital investment, it needs to be truly treated as capital. Cuban notes:<br />
+<blockquote>The government should raises taxes significantly on profits from short term capital gains on the sale of public stocks, indexes, commodities, futures held for 24 hours or less and extend the length of time required to qualify for Long Term capital gains and reduce the tax rate on Long Term gains.</p></blockquote>
+<p>It might be difficult to reduce the already-less-than-minimal tax rate on long-term gains. (Last time I checked, the capital gain on a five-year investment is taxed at 8%.) But it would be no problem at all raising the rate on short-term trades back to where it should be—above that of ordinary income tax rates.  And even a budget-balancing approach would leave plenty of room to lower the rate for legitimately long-term holdings.</p>
+<p>Cuban makes the connection: one of the reasons the tax incentives need to be moved is the perversion they have made of Corporate Governance:<br />
+<blockquote>[Raising taxes on short-term trades and lowering them on long-term investments] will also reward companies that act in the financial interests of long term holders and their employers. I think the impact on the economy would be far fewer layoffs as CEOs find themselves with more shareholders who think long term rather than short term. Believe it or not, there are shareholders who are fine with companies not beating their numbers if the company is making progress towards a clearly defined goal&#8230;.Taxation can change the focus on public companies and stock trading. That would be a great thing for the economy.</p></blockquote>
+<p>Cuban notes that there is still the major problem of misaligned incentives in Executive Compensation (economist&#8217;s version <a target="_blank" href="http://www.nber.org/papers/w15165">here</a> [PDF, subscription required]):<br />
+<blockquote>CEOs&#8230;are so focused on marking to market their own personal stock portfolios, they emphasize stock performance over doing the right thing for the company.</p></blockquote>
+<p>Amazingly, this is exactly the problem that standard economic theory claims &#8220;professional&#8221; management solved.  I hope this one makes it into <a target="_blank" href="http://www.google.com/search?hl=en&#038;as_q=&#038;as_epq=Refuted+economic+doctrines&#038;as_oq=&#038;as_eq=&#038;num=10&#038;lr=&#038;as_filetype=&#038;ft=i&#038;as_sitesearch=crookedtimber.org&#038;as_qdr=all&#038;as_rights=&#038;as_occt=any&#038;cr=&#038;as_nlo=&#038;as_nhi=&#038;safe=images">John Quiggin&#8217;s book</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/mark-cuban-makes-the-key-point.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The TARP-May-Produce-a-Profit Meme can now be laid to rest</title>
+		<link>./../../2009/02/the-tarp-may-produce-a-profit-meme-can-now-be-laid-to-rest.html</link>
+		<comments>./../../2009/02/the-tarp-may-produce-a-profit-meme-can-now-be-laid-to-rest.html#respond</comments>
+		<pubDate>Fri, 06 Feb 2009 18:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/the-tarp-may-produce-a-profit-meme-can-now-be-laid-to-rest.html</guid>
+		<description><![CDATA[Duff and Phelps, which tends to be the rating agency you go to if S&#038;P or Moody&#8217;s won&#8217;t rate you highly enough, provides a convenient evaluation table (p. 22 of this report) for the marvelous negotiating techniques and acquisition skills of the previous Administration. Since the current Administration is now threatening to continue with the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Duff and Phelps, which tends to be the rating agency you go to if S&#038;P or Moody&#8217;s won&#8217;t rate you highly enough, provides a convenient evaluation table (p. 22 of <a target="_blank" href="http://cop.senate.gov/documents/cop-020609-report-dpvaluation.pdf">this report</a>) for the marvelous negotiating techniques and acquisition skills of the previous Administration.
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SYxtiQtRjGI/AAAAAAAAAQc/wgTGjeIYkDg/s1600-h/TARP+Assets.JPG"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SYxtiQtRjGI/AAAAAAAAAQc/wgTGjeIYkDg/s400/TARP+Assets.JPG" border="0" alt=""></a></p>
+<p>Since the current Administration is now threatening to continue with the same effort, any cause for optimism is sadly misplaced.</p>
+<p>(h/t <a href="http://www.philly.com/philly/blogs/inq-phillydeals/How_TARP_ripped_off_taxpayers_report.html">Joseph N. DiStefano</a>)</p>
+<p>Update: DOLB<br />I apologize if Ken minds me adding this, but Elizabeth Warren talked about exactly this last night on Rachel Maddow&#8217;s show.</p>
+<div>
+<p>Visit msnbc.com for <a href="http://www.msnbc.msn.com/">Breaking News</a>, <a href="http://www.msnbc.msn.com/id/3032507">World News</a>, and <a href="http://www.msnbc.msn.com/id/3032072">News about the Economy</a></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/the-tarp-may-produce-a-profit-meme-can-now-be-laid-to-rest.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Election Story Interlude</title>
+		<link>./../../2008/10/election-story-interlude.html</link>
+		<comments>./../../2008/10/election-story-interlude.html#respond</comments>
+		<pubDate>Wed, 29 Oct 2008 20:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[income]]></category>
+		<category><![CDATA[taxation]]></category>
+		<category><![CDATA[voter turnout]]></category>
+		<category><![CDATA[voting]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/election-story-interlude.html</guid>
+		<description><![CDATA[In contrast to Mankiw&#8217;s attitude (see cactus&#8217;s post below*), my favorite election story of the year comes from Ms. Mochi_tsuki: So they started explaining to me what an absentee ballot is and how to fill one out. I pointed out that I&#8217;d spent 11 years of my adult life overseas and was very familiar with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In contrast to Mankiw&#8217;s attitude (see <a href="http://angrybear.blogspot.com/2008/10/mankiws-incentives.html">cactus&#8217;s post below</a>*), my favorite election story of the year comes from <a href="http://mochi-tsuki.livejournal.com/160690.html">Ms. Mochi_tsuki</a>:<br />
+<blockquote>So they started explaining to me what an absentee ballot is and how to fill one out. I pointed out that I&#8217;d spent 11 years of my adult life overseas and was very familiar with the process. One of them pointed to the other and said, &#8220;He&#8217;s been overseas as well. He&#8217;s a retired Admiral.&#8221; WTF?</p>
+<p>You may know this, but by law, there are never more than about 200 Admirals in service. Really rare creatures, those. This one? Retired last month. And he&#8217;s spending his weekends working on the GOTV effort in rural Virginia.</p></blockquote>
+<p>But I guess retired Admirals don&#8217;t need the motivations that economics professors do.</p>
+<p>*In fairness to Mankiw, he knows his numbers are b.s.  The <a href="http://gregmankiw.blogspot.com/2008/10/blog-post.html">giveaway</a>: &#8220;In a sense, putting the various pieces of the tax system together, I would be facing a marginal tax rate of 93 percent. [italics mine]&#8221;  Not to mention the corporate tax free finesse, and the assumption that r=0.10, but lets sidebar those.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/election-story-interlude.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wells Fargo: the FDIC didn&#8217;t blink, so Paulson intervened?</title>
+		<link>./../../2008/10/wells-fargo-the-fdic-didnt-blink-so-paulson-intervened.html</link>
+		<comments>./../../2008/10/wells-fargo-the-fdic-didnt-blink-so-paulson-intervened.html#respond</comments>
+		<pubDate>Mon, 06 Oct 2008 02:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/wells-fargo-the-fdic-didnt-blink-so-paulson-intervened.html</guid>
+		<description><![CDATA[Stormy noted that Wells Fargo&#8217;s bill is based in part on &#8220;exploiting a presumed tax loophole.&#8221; I forgot to ask the question one should always ask when confronted with a Chess Ending problem, &#8220;What was the move before?&#8221; In this case, we know (from A C Shareholder&#8217;s comment) that Wells had been discussions to purchase [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Stormy noted that Wells Fargo&#8217;s bill is based in part on &#8220;<a href="http://angrybear.blogspot.com/2008/10/wachovia-citigroup-wells-fargo.html">exploiting a presumed tax loophole</a>.&#8221;</p>
+<p>I forgot to ask the question one should always ask when confronted with a Chess Ending problem, &#8220;What was the move before?&#8221;</p>
+<p>In this case, we know (from <a href="http://angrybear.blogspot.com/2008/10/pulled-from-comments-other-half-of.html">A C Shareholder&#8217;s comment</a>) that Wells had been discussions to purchase &#8220;WalkAllOverYa&#8221; last weekend.  But they didn&#8217;t commit then, while, suddenly, Friday, they did, in what the Wall Street Journal editorial page <a href="http://online.wsj.com/article/SB122307417911703781.html">would like us to believe is an example of free-market capitalism coming to the rescue</a>:<br />
+<blockquote>A better canary in the cyclone is Thursday night&#8217;s news that Wells Fargo has agreed to buy Wachovia for $15.4 billion and without any government involvement. Only Sunday night, Wells Fargo had backed out of a similar deal for a higher price.</p></blockquote>
+<p>Without any government involvement? Marcy Gordon of BusinessWeek (h/t <a href="http://economistsview.typepad.com/economistsview/2008/10/will-a-tax-cut.html">Mark Thoma</a>) <a href="http://www.businessweek.com/ap/financialnews/D93JA4K83.htm">sets the record straight</a>:<br />
+<blockquote>On Tuesday, the Internal Revenue Service issued guidance boosting banks&#8217; ability to offset the losses from loans and other bad debts held by other banks they acquire. The guidance allows banks to take larger tax write-offs against future profits&#8230;.</p>
+<p>Before the IRS ruling this week, there were limits on the amount of certain losses that an acquiring bank could write off against post-combination profits. Now those limits have been suspended, said Jeff Harte, an analyst at Sandler O&#8217;Neill.</p>
+<p>With banks suffering billions in losses from soured mortgage-related assets, the IRS move &#8220;potentially increases buyers&#8217; ability to realize tax benefits from bank acquisitions,&#8221; Harte wrote in a note issued Friday. The change &#8220;could spur significant bank industry consolidation,&#8221; he said.</p>
+<p>&#8220;We suspect that the new IRS guidance allowed Wells Fargo to place a higher bid for Wachovia today than it might have been willing to a few days ago,&#8221; Harte said.</p></blockquote>
+<p>And who was responsible for the IRS announcement?  Mark Sunshine, <a href="http://economix.blogs.nytimes.com/2008/10/04/will-paulsons-two-plans-unplug-the-liquidity-trap/">guest-blogging at the NYT Economix blog</a>, suggests it was Secretary of the Treasury Paulson:<br />
+<blockquote>But Mr. Paulson’s fiscal-stimulus work didn’t end with the bailout bill.</p>
+<p>With hardly anyone noticing, on Wednesday he pushed through very technical and obscure changes to tax regulations that provide a &#8220;tax subsidy&#8221; for acquirers of troubled banks. Just as automakers stimulate car sales through rebate checks, the Treasury is providing a form of tax rebate to acquirers of troubled banks. Everyone can thank Hank Paulson and his stealth tax-driven fiscal stimulus for the astonishing news that Wachovia was being acquired by Wells Fargo and not Citigroup. It was Mr. Paulson’s tax subsidy to Wells Fargo that provided the fiscal grease to make this deal happen. Pundits who point to the deal and proclaim that the &#8220;free markets work without government help&#8221; don’t understand the motivating effect of several billion dollars of tax benefits to Wells Fargo. </p></blockquote>
+<p>Couldn&#8217;t have said that last better myself.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/wells-fargo-the-fdic-didnt-blink-so-paulson-intervened.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

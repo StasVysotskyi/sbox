@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pwa &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>PWA &#038; WPA: Make work? Or war winning infrastructure?</title>
+		<link>./../../2009/01/pwa-wpa-make-work-or-war-winning-infrastructure.html</link>
+		<comments>./../../2009/01/pwa-wpa-make-work-or-war-winning-infrastructure.html#comments</comments>
+		<pubDate>Fri, 23 Jan 2009 20:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic stimulus]]></category>
+		<category><![CDATA[pwa]]></category>
+		<category><![CDATA[wpa]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/pwa-wpa-make-work-or-war-winning-infrastructure.html</guid>
+		<description><![CDATA[There has been a great deal of recent discussion insisting that the various New Deal programs did not get this country out of the Depression, only World War II did that. And no one that I know of argues that the level of unemployment right through the 30&#8217;s was not unacceptably high. But I want [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There has been a great deal of recent discussion insisting that the various New Deal programs did not get this country out of the Depression, only World War II did that. And no one that I know of argues that the level of unemployment right through the 30&#8217;s was not unacceptably high. But I want to turn the question around, could we have won the war without the infrastructure built by the PWA (Public Works Administration) and the WPA (Works Progress Administration) in the previous decade? Or was this what allowed us to be landing troops in Morocco by Nov. of 1942 (Operation Torch) and winning the Battle of Midway in June of 1942? As I get some time I will update this post with some of the major projects produced by both. But for now here is a little overview:</p>
+<p><a target="_blank" href="http://www.nps.gov/archive/elro/glossary/pwa.htm">Public Works Administration</a><br />
+<blockquote>More than any other New Deal program, the PWA epitomized the Rooseveltian notion of &#8220;priming the pump&#8221; to encourage economic growth. Between July 1933 and March 1939, the PWA funded the construction of more than 34,000 projects, including airports, electricity-generating dams, and aircraft carriers; and seventy percent of the new schools and one third of the hospitals built during that time. It also electrified the Pennsylvania Railroad between New York and Washington, D.C. Its one big failure was in quality, affordable housing, building only 25,000 units in four and a half years.</p>
+<p>The PWA spent over $6 billion, but did not succeed in returning the level of industrial activity to pre-depression levels. Nor did it significantly reduce the unemployment level or help jump-start a widespread creation of small businesses</p></blockquote>
+<p>Clearly not a panacea, on the other hand both of those carriers (the Enterprise and the Yorktown) fought in and helped win the Battle of Midway, which many would concede was the turning point of the Pacific War.</p>
+<p><a target="_blank" href="http://www.nationmaster.com/encyclopedia/Works-Progress-Administration">Works Progress Administration</a><br />
+<blockquote>About 75 percent of employment and 75 percent of WPA expenditures went to public facilities such as highways, streets, public buildings, airports, utilities, small dams, sewers, parks, libraries, and recreational fields. The WPA built 650,000 miles of roads, 78,000 bridges, 125,000 buildings, and 700 miles of airport runways. Seven percent of the budget was allocated to arts projects, presenting 225,000 concerts <img src="https://s.w.org/images/core/emoji/2/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> to audiences totaling 150 million, and producing almost 475,000 artworks.</p></blockquote>
+<p>Could we have ramped up production after 1939 in the way we did without the transportation infrastructure represented here?</p>
+<p>The proposed stimulus package may not work miracles. But it will produce lots of paychecks and public goods. Goods that will continue to provide utility long after the economy recovers. The beginning of a list of PWA and WPA projects starts under the fold, feel free to add more in comments.<br />WPA<br />Camp David<br />Federal One<br />Federal Writers&#8217; Project<br />Historical Records Survey<br />Federal Theatre Project<br />Federal Art Project<br />Federal Music Project<br />Mathematical Tables Project<br />Houston City Hall<br />Lapham Peak<br />Mendocino Woodlands State Park<br />Timberline Lodge, Mount Hood, Oregon<br />Lake Afton Kansas<br />Dealey Plaza Dallas, Texas<br />National Guard Armory of Columbia, Missouri</p>
+<p>PWA<br />The Yorktown<br />The Enterprise<br />Bonneville Dam<br />completion of Hoover Dam<br />Triborough Bridge<br />Lake Shore Drive Chicago<br />various TVA projects</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/pwa-wpa-make-work-or-war-winning-infrastructure.html/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

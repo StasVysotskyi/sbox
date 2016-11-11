@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WMD &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>WMD? YMMV.</title>
+		<link>./../../2010/01/wmd-ymmv.html</link>
+		<comments>./../../2010/01/wmd-ymmv.html#comments</comments>
+		<pubDate>Sat, 09 Jan 2010 02:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[media]]></category>
+		<category><![CDATA[terrorism]]></category>
+		<category><![CDATA[WMD]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/wmd-ymmv.html</guid>
+		<description><![CDATA[In the news over the past couple of days, I have heard the concealed explosives of the Undiebomber described as &#8220;weapons of mass destruction.&#8221; To me, this didn&#8217;t sound quite right &#8212; in fact, it sounded like a naming convention the Bush administration might have used. To check whether this was just me, I first [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In the news over the past couple of days, I have heard the concealed explosives of the Undiebomber described as &#8220;weapons of mass destruction.&#8221;</p>
+<p>To me, this didn&#8217;t sound quite right &#8212; in fact, it sounded like a naming convention the Bush administration might have used.</p>
+<p>To check whether this was just me, I first stopped in at Wikipedia, where I found:<br />
+<blockquote>A weapon of mass destruction (WMD) is a weapon that can kill large numbers of humans and/or cause great damage to man-made structures (e.g. buildings), natural structures (e.g. mountains), or the biosphere in general. The scope and application of the term has evolved and been disputed, often signifying more politically than technically. Coined in reference to aerial bombing with chemical explosives, it has come to distinguish large-scale weaponry of other technologies, such as chemical, biological, radiological, or nuclear. This differentiates the term from more technnical ones such as chemical, biological, radiological, and nuclear weapons (CRBN).</p></blockquote>
+<p>Now, knocking down an airplane with an explosive is a major act of destruction, but does it qualify as deployment of a WMD?  I wouldn&#8217;t think so.</p>
+<p>Taking down four planes, two enormous buildings and part of a third building is a huge act of destruction, but there aren&#8217;t any WMDs involved there either, unless you count the two towers themselves, the dust from which has yielded distinctly WMD-like effects.</p>
+<p>So who then made the decision to call the PETN, as destructive as it undoubtedly is, a WMD,  and up the terrorism ante from failed airplane bomber to a wielder of thunderbolts?<a name="more"></a></p>
+<p>I found a December 25th CNN article comparing Richard Reid (another plane bomb failure, eight years ago) to Abdulmutallab, and using the term WMD. Checking further using Google News, I found this graph:</p>
+<p><a href="http://4.bp.blogspot.com/_MSuZ1riS9qU/S0fkASKlGmI/AAAAAAAAAYg/T_sP6sWLsh4/s1600-h/wmd+timeline.jpg"><img src="http://4.bp.blogspot.com/_MSuZ1riS9qU/S0fkASKlGmI/AAAAAAAAAYg/T_sP6sWLsh4/s400/wmd+timeline.jpg" border="0" alt=""></a></p>
+<p>It looks like my intuition  is right and the WMD usage was indeed a Bush hangover, though the term itself originated years previous to the run-up to the Iraq war.</p>
+<p>Perhaps the media should be more careful, since WMDs are generally held to be biological, chemical or nuclear weapons, not common items like PETN, used in small caliber ammunition, land mines and shells, and as the explosive core of detonation cord.</p>
+<p>A better phrase might be &#8220;weapon.&#8221;  Or, for extreme cases,  &#8220;big weapon.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/wmd-ymmv.html/feed/index.html</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+		</item>
+	</channel>
+</rss>

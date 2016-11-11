@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tax fraud &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Pulled from Comments</title>
+		<link>./../../2008/10/pulled-from-comments.html</link>
+		<comments>./../../2008/10/pulled-from-comments.html#respond</comments>
+		<pubDate>Wed, 22 Oct 2008 12:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Palin]]></category>
+		<category><![CDATA[tax fraud]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/pulled-from-comments.html</guid>
+		<description><![CDATA[at Erin&#8217;s place. Tom puts an end to the &#8220;oh, they were just mistakes&#8221; tax argument: The thing about [Sarah Palin taking her spouse and especially her kids with her on business trips]&#8230;is that the attempt to edit the terms of the trips after the fact could be seen as evidence of intent to commit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>at <a href="http://erin-obrien.blogspot.com/2008/10/show-of-hands-please.html">Erin&#8217;s place</a>.</p>
+<p>Tom puts an end to the &#8220;oh, they were just mistakes&#8221; tax argument:<br />
+<blockquote>The thing about [Sarah Palin taking her spouse and especially her kids with her on business trips]&#8230;is that the attempt to edit the terms of the trips after the fact could be seen as evidence of intent to commit of federal income tax fraud—the tax-law bloggers are in agreement that the Palins&#8217; tax returns incorrectly treated those reimbursements, which generally have to be treated as taxable income, and a question is whether the error was an innocent mistake—and/or defraud the Alaskan taxpayer more directly.</p></blockquote>
+<p>In this case, it really <strong><em>is</em></strong> the cover-up that Reveals Preferences.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/pulled-from-comments.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

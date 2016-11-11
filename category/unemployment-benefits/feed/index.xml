@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>unemployment benefits &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Guest post: U.S. has 18th best unemployment benefits in OECD</title>
+		<link>./../../2012/04/guest-post-u-s-has-18th-best-unemployment-benefits-in-oecd.html</link>
+		<comments>./../../2012/04/guest-post-u-s-has-18th-best-unemployment-benefits-in-oecd.html#respond</comments>
+		<pubDate>Sat, 14 Apr 2012 12:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[safety net]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/guest-post-u-s-has-18th-best-unemployment-benefits-in-oecd.html</guid>
+		<description><![CDATA[Guest post by Kenneth Thomas of Middle Class Political Economist U.S. has 18th best unemployment benefits in OECD; also trails 13 non-OECD countries Tim Vlandas at EU Welfare States flags some important recent International Monetary Fund data on the generosity of a number of countries&#8217; unemployment benefits. The metric used is the gross replacement rate [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Guest post by Kenneth Thomas of <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/04/us-has-18th-best-unemployment-benefits.html">Middle Class Political Economist</a></p>
+<p>U.S. has 18th best unemployment benefits in OECD; also trails 13 non-OECD countries</p>
+<p>  Tim Vlandas at <a href="http://euwelfarestates.blogspot.com/2012/04/world-ranking-in-unemployment-benefit.html">EU Welfare States</a> flags some important recent International Monetary Fund data on the generosity of a number of countries&#8217; unemployment benefits. The metric used is the gross replacement rate (GRR) the ratio of unemployment benefits to a worker&#8217;s previous wages. </p>
+<p>The United States gives, on average, a miserly 27.5% of previous wages in unemployment benefits, behind 17 OECD members, though ahead of 11 others (no data was given for OECD members Iceland, Luxembourg, Mexico, Slovak Republic, and Slovenia). Not only that, the U.S. falls behind 13 non-OECD members, including Algeria, Taiwan, and Ukraine, all of which have at least double the replacement rate of the U.S.    </p>
+<p>Why is this important? As Vlandas points out,<br />
+<blockquote>A high replacement rate&#8230;ensures that the negative effects of rising unemployment on aggregate demand are mitigated. It also prevents workers from falling into poverty when they lose their jobs.</p></blockquote>
+<p>Furthermore, the generosity of unemployment insurance interacts with the state of other employment protections. As regular readers of this blog will recall, <a href="http://middleclasspoliticaleconomist.blogspot.com/2011/09/labor-day-us-has-weakest-employment.html">the United States has the absolute worst employment protections in the OECD</a>, by a large margin compared to most other members. As commenter Norm Breyfogle rightly noted in response to that post, if your protection from both individual and mass firings are weak, you really need good unemployment insurance. As the data here show, however, U.S. workers are not well-protected with unemployment insurance.  </p>
+<p><a name="more"></a><br />I won&#8217;t reproduce Vlandas&#8217; <a href="http://euwelfarestates.blogspot.com/2012/04/world-ranking-in-unemployment-benefit.html">entire table</a>, but I will highlight the leaders and some other significant countries.  </p>
+<div><a href="http://1.bp.blogspot.com/-6_Ap4ewe6lA/T4lw7NVNN2I/AAAAAAAAA1Y/gi-DFoJnZJg/s1600/unempluyment.PNG" imageanchor="1"><img border="0" height="220" src="http://1.bp.blogspot.com/-6_Ap4ewe6lA/T4lw7NVNN2I/AAAAAAAAA1Y/gi-DFoJnZJg/s320/unempluyment.PNG" width="320"></a></div>
+<p>To compare it in another way, according to an <a href="http://www.imf.org/external/pubs/ft/wp/2011/wp11154.pdf">IMF working paper</a> (Figure 1, p. 21), the average GRR for high-income countries in 2005 was about 38%, compared to the United States&#8217; 27.5%. U.S. workers get relatively low unemployment benefits compared to other industrialized countries.  <br />Moreover, as I showed in February, the length of unemployment is at its longest since record-keeping started in 1947. The following FRED graph gives both the mean and median length of unemployment, both of which hit double their previous record in the current jobs recession.<br />  <br /><img alt="FRED Graph" height="384" src="http://research.stlouisfed.org/fred2/graph/fredgraph.png?&#038;id=LNU03008275,LNU03008276&#038;scale=Left,Left&#038;range=Max,Max&#038;cosd=1948-01-01,1967-07-01&#038;coed=2012-03-01,2012-03-01&#038;line_color=%230000ff,%23ff0000&#038;link_values=false,false&#038;line_style=Solid,Solid&#038;mark_type=NONE,NONE&#038;mw=4,4&#038;lw=1,1&#038;ost=-99999,-99999&#038;oet=99999,99999&#038;mma=0,0&#038;fml=a,a&#038;fq=Monthly,Monthly&#038;fam=avg,avg&#038;fgst=lin,lin&#038;transformation=lin,lin&#038;vintage_date=2012-04-14,2012-04-14&#038;revision_date=2012-04-14,2012-04-14" width="640"><br /><img alt="Loading ..." src="http://research.stlouisfed.org/fred2/graph/images/loading.gif"><br />Loading &#8230;<br />Thus, in a country where employment protections are weaker than in any comparable nation, and which is still just below postwar records for length of unemployment, we face the additional problem of low unemployment benefits, a factor which exerts an additional drag on growth.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/guest-post-u-s-has-18th-best-unemployment-benefits-in-oecd.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Social Security as you know it, it&#8217;s over, forget about it.</title>
+		<link>./../../2012/02/social-security-as-you-know-it-its-over-forget-about-it.html</link>
+		<comments>./../../2012/02/social-security-as-you-know-it-its-over-forget-about-it.html#respond</comments>
+		<pubDate>Sat, 25 Feb 2012 06:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Democratic Party]]></category>
+		<category><![CDATA[financialization]]></category>
+		<category><![CDATA[Payroll Taxes]]></category>
+		<category><![CDATA[risk aversion]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[screwed]]></category>
+		<category><![CDATA[social safety net]]></category>
+		<category><![CDATA[social security]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/social-security-as-you-know-it-its-over-forget-about-it.html</guid>
+		<description><![CDATA[I caught a bit of Jennifer Granholm&#8217;s The War Room for 2/23/12.  She was talking gasoline prices and had Ron Klain on for his ideas. He is a past chief of staff for Gore and Biden as VP&#8217;s. Mr. Klain also published his thought at Bloomberg2/20/12. This post is not about solving the rising gasoline [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>I caught a bit of Jennifer Granholm&#8217;s <a href="http://current.com/shows/the-war-room/videos/fired-up-gas-prices-are-soaring-but-who-should-take-the-blame">The War Room for 2/23/12.</a>  She was talking gasoline prices and had Ron Klain on for his ideas.  He is a past chief of staff for Gore and Biden as VP&#8217;s.  Mr. Klain also published <a href="http://www.bloomberg.com/news/2012-02-21/defusing-political-peril-of-surging-gas-prices-commentary-by-ron-klain.html">his thought at Bloomberg2/20/12</a>.    </div>
+<div></div>
+<div>This post is not about solving the rising gasoline costs.  This post is about the further screwing of the 99% by further reducing their security from the risk of life and living.   </div>
+<div></div>
+<div>Let&#8217;s cut to the chase: </div>
+<div></div>
+<blockquote><div>One idea might be a “pocketbook protection” plan, which would work as follows: If the average price of gas exceeds $4 a gallon, an additional, automatic payroll tax cut of 1 percent would kick in, as much as $50 per month, per person. The cut would stay in place for at least 90 days; it would disappear when the price fell below $4.00 per gallon.  </div>
+<div></div>
+<div>There are three advantages to this approach. First, because the plan is of limited duration and is capped at $50 a month, its cost is relatively modest &#8212; about $5 billion a month, or $20 billion total, assuming the usual four-month gas-price surge. Second, because it isn’t a reduction in gas taxes, it doesn’t weaken any incentives for fuel conservation or efficiency: All workers get $50 to soften the blow of higher gas prices, but the less fuel they use, the more money they save. And third, the relief provides the greatest relative help to lower-income workers who need gas to commute and feel the price pinch the hardest. </div>
+</blockquote>
+<div></div>
+<div>I have to assume our Colberly&#8217;s head has just popped.  What Mr. Klain has proposed is the exact danger  many have warned about regarding the use of SS as a means to make up for what is a major functional problem of our current economy:<i> lack of share of income to the masses. </i>  </div>
+<div></div>
+<p><a name="more"></a>
+<div>I have pointed out many times that we can not make up for the $1.1 to $1.4 trillion per year of income no longer in the hands of the 99% that is in the hands of the 1% with tax reductions.  It can not be done. With that fact, considering taxation reduction in any form as a method to address this specific issue is nothing more than the continuation of the false economy that financialization created as observed from the position of those in the labor part of the economy.  It quite literally is the government now using the mathematical gymnastics pioneered by Wall Street to trick the masses into believing that home equity was the same as earned income.  Getting a tax cut anywhere is not the same as receiving a greater share of the nation&#8217;s income.  It is money, by the way, that you are more than justified to receive because you helped to create it.  The rich used to have an opportunity to relearn this lesson every time there was a major strike, say the NY City trash collectors going on strike.    </div>
+<div></div>
+<div>People,  I hope we have learned that one&#8217;s home, your house has a more important roll to play in your life other than that of asset appreciation.  The home is one of the foundations used to reduce the risk of living, of having a life: shelter.  Social Security is another one of those life&#8217;s risk reducing foundations: longevity.  I have asked often here: How many times to do we have to relearn a lesson?</div>
+<div></div>
+<div> </div>
+<div>Using SS as a means to offset the results created over the long term from bad policy is the polluting of a very good policy.  We can look at the housing crisis as another already experienced pollution.  The good policy was promoting home ownership.  The bad policy was setting up an economy that changed the perception of home ownership from a life risk reduction activity to an asset building activity.  Now that SS  has been used once as a solution to an unrelated problem and extended once in a manor that moves it further from the original purpose (reduction of risk of living), with Mr. Klain&#8217;s proposal, the use of SS as a back stop for non-related policy results has become an unquestioned and considered reasonable use.   </div>
+<div></div>
+<div>Mr. Klain&#8217;s proposal so exemplifies what our politico&#8217;s now consider acceptable for SS&#8217;s use that he even proposes to pay for it via a general funding solution: </div>
+<div></div>
+<blockquote><div>The plan could be almost entirely paid for with a modest, no-loopholes surcharge on corporate taxes on profit derived from the higher gas prices. The administration would be able to avoid pejorative terms such as “windfall” or “excess” profit tax, because the tax is neither confiscatory nor punitive. With higher gas prices, oil companies will make record profit &#8212; and a partial surcharge will still leave that profit at record high levels. In other words, the plan isn’t vulnerable to suggestions of creeping, soak-the-rich redistribution. It would leave in place all incentives for oil companies to increase production, do more research and development, and explore alternative fuels. But a modest surcharge would help fund at least a partial pocketbook protection program to make sure the cost of the oil companies’ gain isn’t excessive pain for the rest of us.  </div>
+</blockquote>
+<div></div>
+<div>Just to be clear, that Mr. Klain proposes using SS for anything other than SS is the problem.  The only difference in such action compared to the housing crisis which was tied to the removal of specific banking regulation is that it took us 10 year or so to experience<a href="http://draft.blogger.com/goog_1597648086"> the warning of Senator Byron Dorgan.</a></div>
+<p><a href="http://billmoyers.com/content/a-senators-prophetic-words-then-and-now/"></a>
+<div></div>
+<div>For those warning about the proverbial slippery slope phenomenon of using SS as a back stop for bad policy results leading to furthering the destruction of SS,  it&#8217;s only been about 3 years since this application of SS first became a reality.  This use is now acceptable.  Social Security has now officially been changed from a purpose specific funded program to an general revenue program.  The establishment is so comfortable within this frame of use for SS we get a proposal such as Mr. Klain&#8217;s.    We also have on the record a warning in the vein of Senator Dorgan&#8217;s <a href="http://www.huffingtonpost.com/2012/02/17/payroll-tax-cut-tom-harkin_n_1284334.html"> from Senator Harkin</a>:   </div>
+<div></div>
+<blockquote><div>&#8220;This Congress will be making a grave mistake &#8212; a grave mistake &#8212; and reinforcing a dangerous precedent,&#8221; Harkin said in a dramatic Senate floor speech late Thursday.</div>
+</blockquote>
+<div></div>
+<div>Mr. Klain freely proposing another application of a SS tax cut is proof of the truth to Senator Harkin&#8217;s warning.  The precedent stands.  It is &#8220;codified&#8221;.    And, with this precedent the conservative/monied movement has neutralized another barrier protecting SS and it&#8217;s status as the end-all be-all of the New Deal: the Democratic Party.    </div>
+<div></div>
+<div>The Movement has also successfully completed the instillation of it&#8217;s virus known as Financialization into the nervous system of our government.  Social Security no longer thinks as the mind of one living in a labor economy; as the 99%.   It thinks as the mind of one living in a money from money economy; as the 1%.</div>
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/social-security-as-you-know-it-its-over-forget-about-it.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unemployment insurance only for grads?</title>
+		<link>./../../2012/01/unemployment-insurance-only-for-grads.html</link>
+		<comments>./../../2012/01/unemployment-insurance-only-for-grads.html#respond</comments>
+		<pubDate>Sun, 08 Jan 2012 11:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/unemployment-insurance-only-for-grads.html</guid>
+		<description><![CDATA[Off the charts blog via Mark Thoma For legislation to extend the payroll tax cut through the end of 2012, House Republicans are expected to push for a provision on unemployment insurance (UI) that is appalling even by current Washington standards. Neither President Obama nor Congress should accept any payroll-tax legislation that includes it. Here’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.offthechartsblog.org/an-appalling-idea-even-by-washington-standards/">Off the charts blog</a> via <a target="_blank" href="http://economistsview.typepad.com/economistsview/">Mark Thoma</a>
+</p>
+<blockquote><p>For legislation to extend the payroll tax cut through the end of 2012, House Republicans are expected to push for a provision on unemployment insurance (UI) that is <a href="http://www.cbpp.org/cms/index.cfm?fa=view&#038;id=3652">appalling even by current Washington standards</a>.  Neither President Obama nor Congress should accept any payroll-tax legislation that includes it.  Here’s why:</p>
+<p>The provision, part of a full-year payroll-tax bill that the House passed in December, would deny UI benefits to any<em> </em>worker who lacks a high school diploma or GED and is not enrolled in classes to get one or the other — regardless of how long the person worked or whether he or she has access to adult education, which itself has been subject to significant budget cuts in the past few years and is heavily oversubscribed.</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/unemployment-insurance-only-for-grads.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GOP&#8217;s payroll tax cut bill (with a lot of other stuff)</title>
+		<link>./../../2011/12/gops-payroll-tax-cut-bill-with-a-lot-of-other-stuff.html</link>
+		<comments>./../../2011/12/gops-payroll-tax-cut-bill-with-a-lot-of-other-stuff.html#respond</comments>
+		<pubDate>Thu, 15 Dec 2011 14:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Linda Beale (Tax law)]]></category>
+		<category><![CDATA[Payroll Taxes]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/12/gops-payroll-tax-cut-bill-with-a-lot-of-other-stuff.html</guid>
+		<description><![CDATA[Dan here&#8230;Linda Beale writes on the intent and passage of these bills. Whether the use of the payroll tax has political and budget consequences for people&#8217;s perceptions of Social Security and its future remains a question previously discussed at Angry Bear here. by Linda Beale (Update from Linda: Payroll Tax Extension Passes) GOP&#8217;s payroll tax [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dan here&#8230;Linda Beale writes on the intent and passage of these bills.  Whether the use of the payroll tax has political and budget consequences for people&#8217;s perceptions of Social Security and its future remains a question previously discussed at Angry Bear <a target="_blank" href="http://www.angrybearblog.com/2011/10/arithmetic-matters.html">here</a>. </p>
+<p>by Linda Beale</p>
+<p>(Update from Linda: <a target="_blank" href="http://ataxingmatter.blogs.com/tax">Payroll Tax Extension Passes</a>)</p>
+<p><a href="http://ataxingmatter.blogs.com/tax/2011/12/gops-unemployment-compensation-and-payroll-tax-cut-up-for-vote-on-tuesday.html">GOP&#8217;s payroll tax cut bill (with a lot of other stuff) up for vote on Tuesday</a>
+<p>[edited 2 pm 12/13 to provide additional links to news coverage of some of the changes]</p>
+<p>Congress has been playing politics as usual over the few policies that are on the table that have a real chance of assisting, to some degree, the plight of ordinary Americans and perhaps even the slow recovery that is still trying to gain steam&#8211;extension of the reduction in payroll taxes (from 6.2% to 4.2%) and extension of unemployment compensation.</p>
+<p> <a name="more"></a>
+<p>The Republicans have refused to pay for these common sense tax reductions for ordinary Americans with a similarly common sense tax increase on the wealthiest Americans who have continued to capture all the productivity gains in the economyt.  Republicans in the House think that these kinds of provisions should be offset by more goodies for the &#8220;uberclass&#8221;&#8211;at least as evidenced by the <a href="http://rules.house.gov/Media/file/PDF_112_1/legislativetext/HR_1209.pdf">H.R. 3630</a>, the bill introduced by Dave Camp (R-MI) and to be voted on today at about 4:30 pm. </p>
+<ul>
+<li>It would restructure unemployment compensation in ways that add hurdles and make it less likely that unemployed Americans will qualify&#8211;providing more state flexibility and experimentation (including paying employers to cover part of cost of wages exceeding the recipient&#8217;s prior benefit level), permitting demeaning drug testing of all unemployment compensation recipients (section 2127), and requiring a high school diploma or participation in state &#8220;reemployment services&#8221; for which recipients may be charged up to $5 weekly out of their unemployment compensation.  It would severely curtail the total number of weeks for which federal unemployment assistance is available&#8211;moving to a 59-week limit from a 99-week limit.  Methinks I see Scrooge here&#8230;.. </li>
+<li>It will interfere with the Environmental Protection Agency&#8217;s ability to regulate, letting corporations continue to harm the environment at the expense of ordinary Americans.   See Subtitle B.  Section 1102(b) lists rules that are &#8220;stayed&#8221; by the legislation and provides that no new rules can have an effective date earlier than 5 years out and requires consideration of various factors in determining that date.  Further, it requires adoption of the laxer 2000 definitions for certain key terms and the imposition of the &#8220;least burdensome&#8221; among potential regulatory alternatives.  This is a key cave-in to corporate polluters.  </li>
+<li>It will expedite the KeystoneXL pipeline by requiring a permit to be issued within 60 days unless within that time the President determines that the pipeline will not serve the national interest (in which case within 15 days the President must provide various committees and members of Congress a report justifying that conclusion from various perspectives).  It indicates that the environmental impact statement from August will be treated as satisfactory for environmental and historical preservation purposes and shall not have to be supplemented if there are modifications to the plan  and no further federal environmental review shall be allowed.  This is a clearly ideologically driven provision, failing to give due regard to the potential longterm environmental impact on drinking water aquifers or historical preservation impact.  </li>
+<li>It would provide yet another tax reduction for US corporations that have paid less and less taxes over the last decade, with a renewal of the ill-advised 100% expensing provision in section 168(k)(5) (along with the alternative of accelerating AMT credits) </li>
+<li>it makes further changes to medicare such as applying a cap to hospital outpatient therapy services and reversing part of the Health Reform Act passed earlier, by permitting new doctor-owned hospitals and permitting existing ones to expand, even though it has been shown that such hospitals spend more on testing and procedures (and profit more from them).  See, e.g., Pear, <a href="http://www.nytimes.com/2011/12/13/health/policy/republican-tax-and-unemployment-bill-would-help-hospitals-owned-by-doctors.html">G.O.P. Bill Would Benefit Doctor Owned Hospitals</a>, New York Times at A24, Dec. 13, 2011. </li>
+<li>it would continue funding for the &#8220;healthy marriage and responsible fatherhood&#8221; initiative, see <a href="http://www.law.cornell.edu/uscode/usc_sec_42_00000603----000-.html">42 U.S.C. section 603(a)(2)</a>  (the cynic in me suspects that these funds primarily go to programs supported by religious institutions and that they proselytize more than they teach reasonable relationship skills) </li>
+<li>it includes an extensive section remaking flood insurance provisions, including, in section 3005, lifting the cap for premium increases for flood insurance from 10% to 20% (an apparent boon to insurers), and another section prohibiting the administration from &#8220;disregarding&#8221; any levee or floodwall, even if it is not accredited.  <strong>The goal, made clear in section 3009, is privatization of the national flood insurance program</strong>. </li>
+<li>It includes extensive broadband spectrum auction provisions in Title IV, Subtitle A, reallocating spectrum from federal to nonfederal use.  These provisions, among many detailed ones, e.g., <strong>permit private administrators of state public safety networks to use the public spectrum for private purposes as well as the public safety  purpose</strong>and prevent states from denying requests for modifications of existing wireless towers that do not substantially change the physical dimensions thereof. </li>
+<li>It increases the guarantee fees charged by Fannie Mae and Freddie Mac. </li>
+<li>It requires a social security number for the refundable child credit</li>
+<li>It provides in section 5895 a 100% tax on &#8220;excess unemployment benefits&#8221; that go to millionaires (unemployment compensation is reduced proportionately as the adjusted gross income increases from $750,000 to $1 million)&#8211;The Times today has an article on the bill and notes that the number of millionaires receiving unemployment compensation is very small, but that their participation is predicated on the fact that the unemployment compensation program is a type of insurance into which payments are made to cover payouts.  <strong>Means testing such insurance programs is in sync with the right-wing goal of means-testing as a prelude to privatizing and/or eliminating all federally administered social welfare insurance programs, such as medicare and Social Security (and, see above, national flood insurance).</strong></li>
+<li>It increases pension contributions from longterm federal workers by .5% a year for 2012-2014 and for those &#8220;secure annuity employees&#8221; with less than five years of service, by more than 10% a year and using 5 year average pay rather than 3 year average pay, sets annuity amounts, and ends the annuity supplement for post-2012 retirees. </li>
+<li>it extends the general freeze on federal pay for another year</li>
+<li>It increases the premiums for Medicare Part B and Part D for those making $80,000 or more (for those making $200,000 or more, the applicable percentage is 90%)&#8211;this again appears to move these national social welfare insurance programs towards more means-testing that will facilitate privatization or eventual elimination.  </li>
+<li><strong>It sets up a number of procedural hurdles in the Senate, which is already hogtied by the ease with which a minority of its members can filibuster and thus stop legislation that is supported by a solid majority of its members.  For examples,</strong>
+<ul>
+<li><strong>it requires a 2/3 vote in the Senate to amend the dates for section 601(c) of the <a href="http://www.gpo.gov/fdsys/pkg/BILLS-111hr4853enr/pdf/BILLS-111hr4853enr.pdf">2010 Tax Relief Act</a>&#8211;that&#8217;s the temporary employee payroll tax cut;</strong></li>
+<li><strong>it provides that a point of order by any Senator against an emergency designation in a bill eliminates that designation and makes it impossible to bring the designation through a floor amendment unless there is a supermajority 3/5 vote in favor of doing so (limiting debate to 1 hour)&#8211;thus one right-wing Senator intent on obstructionism can make it very unlikely that an important provision can pass by preventing even reasonable debate about the importance of the provision!</strong></li>
+</ul>
+</li>
+</ul>
+<p>The GOP, of course, touts its bill as creating jobs.   While the Keystone pipeline may create some short-term jobs (the New YorkTimes reports estimates from Transcanada itself  and the State Department of only about 6500 temporary construction jobs  and maybe 50 permanent new jobs&#8211;see <a href="http://www.nytimes.com/2011/12/13/opinion/keystone-claptrap.html">Keystone Claptrap</a>, Editorial, New York Times at A34, Dec. 13, 2011), the potential negative impact on aquifers could be life-threatening.  Most of the other provisions are Scrooge-like additions of hurdles and caps on social welfare provisions or attempts to roll back the social welfare insurance provisions into means-tested ones that will be even more susceptible to the derogatory and inflamatory class-action warfare that the right has increasingly unleashed on anything that doesn&#8217;t give a break to the wealthy and corporate clients of the all-powerful Washington lobbies. </p>
+<p>On lobbies, just read the New York Times article about the wealth that online educators are getting from state and federal taxpayer dollars for delivering no or sub-standard education, and the amount of taxpayer money being spent on lobbying to ensure the continuous flow of that wealth.  See Saul, <a href="http://www.nytimes.com/2011/12/13/education/online-schools-score-better-on-wall-street-than-in-classrooms.html">Profits and Problems at Online Charter Schools</a>, New York Times, Dec. 12, 2011.  It&#8217;s obvious that the corporatist agenda sees no problem with siphoning off taxpayer dollars for private benefit with little public good created, but complains mightily about any siphoning off of exorbitant corporate profits&#8211;that tend to go to wasteful excess managerial compensation or portfolio enhancement&#8211;for taxes intended for public benefit.</p>
+<p>The inclusion of the Keystone and other right-wing-rhetoric-driven items in a bill to provide the payroll tax cut and a limited unemployment extension (with hurdles) demonstrates the absurd level of ideological partisanship engaged in by the House Republicans.  Senate Majority Leader Reid characterized the bill as loaded with &#8220;ideological candy&#8221; that the Senate would reject.  Sloan &#038; Rubin, <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/12/13/bloomberg_articlesLW5T8C6K50Z4.DTL">House to Vote on Payroll Bill as senate Eyes Tax Sweeteners</a>, Bloomberg.com (Dec. 13, 2011).    Of course, most of the sweeteners that Reid proposes adding are components of the right-wing corporate-friendly agenda&#8211;like the R&#038;D credit that rewards what companies do anyway; the active financing exception for big banks, insurers and other financial institutions that lets them defer taxation on their financing income earned overseas; and accelerated depreciation for restaurants and motorsports tracks that provide special tax subsidies to particular industries!</p>
+<p>Also read more:</p>
+<p><a href="http://ataxingmatter.blogs.com/tax/environment-and-taxes/">Environment and Taxes</a>, <a href="http://ataxingmatter.blogs.com/tax/insurance/">Insurance</a>, <a href="http://ataxingmatter.blogs.com/tax/job-creation/">Job creation</a>, <a href="http://ataxingmatter.blogs.com/tax/payroll-taxes/">Payroll Taxes</a>, <a href="http://ataxingmatter.blogs.com/tax/regulation/">Regulation</a>, <a href="http://ataxingmatter.blogs.com/tax/tax_in_the_news/">Tax in the News</a>, <a href="http://ataxingmatter.blogs.com/tax/tax_legislation/">Tax Legislation</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/12/gops-payroll-tax-cut-bill-with-a-lot-of-other-stuff.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The social safety net encourages&#8230;?</title>
+		<link>./../../2011/11/the-social-safety-net-encourages.html</link>
+		<comments>./../../2011/11/the-social-safety-net-encourages.html#respond</comments>
+		<pubDate>Mon, 28 Nov 2011 15:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[medic]]></category>
+		<category><![CDATA[social safety net]]></category>
+		<category><![CDATA[unemployment]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/the-social-safety-net-encourages.html</guid>
+		<description><![CDATA[Mark Thoma responds to the meme that the social safety net encourages bad behavior overall: The idea that the unemployment problem is due to lack of effort on behalf of the unemployed rather than a lack of demand is convenient for the moralists, but inconsistent with the facts. The problem is lack of demand, not [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://economistsview.typepad.com/economistsview/2011/11/social-insurance-and-unemployment-do-people-deserve-poverty.html">Mark Thoma</a> responds to the meme that the social safety net encourages bad behavior overall:<br />
+<blockquote>
+<p>The idea that the unemployment problem is due to lack of effort on behalf of the unemployed rather than a lack of demand is convenient for the moralists, but inconsistent with the facts. The problem is lack of demand, not the means through which we smooth the negative consequences of recessions.</p>
+<p>But what really irks me is the implicit moralizing, the idea that people deserve to be thrown into poverty. Someone who gets up every day and goes to a job day after day, often a job they don&#8217;t like very much, to support their families can suddenly become unemployed in a recession through no fault of their own. They did nothing wrong &#8212; it&#8217;s not their fault the economy went into a recession and they certainly couldn&#8217;t be expected to foresee a recession that experts such as Casey Mulligan missed entirely. <a name="more"></a> They had no reason to believe they had chosen the wrong place to go to work, but unemployment hit them anyway. And since one of the biggest causes of foreclosure is an event like unemployment, it&#8217;s entirely possible that this household would lose its home, be forced to declare bankruptcy, etc., and end up in severe poverty if there were no social services to rely upon.</p>
+<p>What moral lesson is being taught here? <!-- more --&gt  Why does this household deserve to be punished for their bad decisions? It did nothing wrong. I understand that people should suffer the consequences of their own bad choices, but that's not what happens in recessions. People who have done nothing to deserve it are nevertheless hit by severe negative shocks. That's what social insurance is for, to smooth the path for such unfortunate households, to avoid sending people into poverty who have done nothing to deserve it (see "<a href="http://economistsview.typepad.com/economistsview/2005/04/_the_need_for_s.html">The Need for Social Insurance</a>"). It is not an attempt to reward bad behavior and most programs do their best to avoid giving benefits to people who have made bad choices (for example, the system is far from perfect but in most states unemployment insurance can only be obtained if you lose your job through no fault of your, e.g. if you quit or get yourself fired it is not available). The extent to which we should distinguish between deserving and undeserving households for social insurance programs is debatable and depends upon the type of program, but the idea that all households are undeserving is, in my view, simply wrong. I would apply the social safety net widely myself -- I think the benefit of the doubt should go to compassion, not harshness and moralizing -- but in any case I'd dispute the idea that "safety-net generosity" is too high. If anything, we are not generous enough.</p>
+
+  
+<p><strong>Update</strong>: Karl Smith <a href="http://modeledbehavior.com/2011/11/28/if-the-safety-net-is-so-good-why-is-the-economy-so-bad/">comments</a> on this topic.</p>
+
+  </blockquote>
+
+
+</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/the-social-safety-net-encourages.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unemployment, Unemployment Benefits and Severance Packages: A Modest Thought Experiment</title>
+		<link>./../../2011/08/unemployment-unemployment-benefits-and-severance-packages-a-modest-thought-experiment.html</link>
+		<comments>./../../2011/08/unemployment-unemployment-benefits-and-severance-packages-a-modest-thought-experiment.html#respond</comments>
+		<pubDate>Wed, 17 Aug 2011 17:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[labor]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/unemployment-unemployment-benefits-and-severance-packages-a-modest-thought-experiment.html</guid>
+		<description><![CDATA[by Mike Kimel Most economists believe that unemployment benefits increase the unemployment rate. The idea is that even having a relatively small income coming in (from unemployment) can encourage people to stay jobless just a little while longer. And no doubt there are people who play the unemployment compensation game fairly well. Now, consider severance [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p>Most economists believe that unemployment benefits increase the unemployment rate.  The idea is that even having a relatively small income coming in (from unemployment) can encourage people to stay jobless just a little while longer.  And no doubt there are people who play the unemployment compensation game fairly well.</p>
+<p>Now, consider severance packages.  These days they aren&#8217;t uncommon.  There are differences in how different states treat severance packages, but as I understand it, in general, if a jobless worker received a severance package equivalent to X weeks of pay in lump sum form, that makes the worker ineligible to receive unemployment benefits for what would otherwise be the first X weeks worth of claims.  Which, would imply that for an unemployed worker, there is zero incentive to be jobless during the first X weeks of unemployment, but a jump in the incentive to be jobless beginning in week X + 1.  One presumes, therefore, a greater probability of people turning down proffered job offers in weeks X-1 or X (when unemployment benefits are imminent) than in week 1 or 2 (when there is a much longer wait to get unemployment benefits).  </p>
+<p>If this solves the problem of anyone looking for a thesis topic at a Freshwater school, your thanks are all the payment I need but I do appreciate cookies.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/unemployment-unemployment-benefits-and-severance-packages-a-modest-thought-experiment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>16 Weeks &#8211; Old Enough to Drive, not Working</title>
+		<link>./../../2011/07/16-weeks-old-enough-to-drive-not-working.html</link>
+		<comments>./../../2011/07/16-weeks-old-enough-to-drive-not-working.html#respond</comments>
+		<pubDate>Thu, 21 Jul 2011 13:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[employment report]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/16-weeks-old-enough-to-drive-not-working.html</guid>
+		<description><![CDATA[Will those who are claiming that the economy is recovering and things are better please explain why, as of today, we have sixteen straight weeks of &#8220;seasonally adjusted&#8221; UI claims above 400,000? I&#8217;m now convinced that there will be no troop reductions in Afghanistan, Iraq, Libya, or any of the other places where we&#8217;re conducting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Will those who are claiming that the economy is recovering and things are better please explain why, as of today, we have <a href="http://www.dol.gov/opa/media/press/eta/ui/current.htm">sixteen straight weeks</a> of <a href="http://delong.typepad.com/sdj/2011/07/new-unemployment-insurance-claims.html">&#8220;<em>seasonally adjusted</em>&#8221; UI claims</a> above 400,000?</p>
+<p>I&#8217;m now convinced that there will be no troop reductions in Afghanistan, Iraq, Libya, or any of the other places where we&#8217;re conducting unpaid-for, possibly illegal, wars between now and late 2012 if only because those soldiers would come home and raise the unemployment rate.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/16-weeks-old-enough-to-drive-not-working.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wealthy people hire people? I didn’t know that</title>
+		<link>./../../2010/12/wealthy-people-hire-people-i-didnt-know-that.html</link>
+		<comments>./../../2010/12/wealthy-people-hire-people-i-didnt-know-that.html#respond</comments>
+		<pubDate>Fri, 03 Dec 2010 02:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[unemployment]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/wealthy-people-hire-people-i-didnt-know-that.html</guid>
+		<description><![CDATA[by Beverly Mann Wealthy people hire people? I didn’t know that.Crossposted with the Annarborist &#8220;Unemployed people hire people? Really? I didn&#8217;t know that. The truth is the unemployed will spend as little of that money as they possibly can.&#8221;(here)—Rep. John Shadegg of Arizona and Economics Nobel Prize laureate Actually, of course, since Shadegg is right [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Beverly Mann</strong></p>
+<p><a href="http://annarborist.blogspot.com/2010/12/wealthy-people-hire-people-i-didnt-know.html" target="_blank">Wealthy people hire people? I didn’t know that.</a><br />Crossposted with the <strong>Annarborist</strong></p>
+<blockquote><p>&#8220;Unemployed people hire people? Really? I didn&#8217;t know that. The truth is the unemployed will spend as little of that money as they possibly can.&#8221;(<a target="_blank" href="http://thinkprogress.org/2010/11/30/shadegg-scoffs/">here</a>)<br />—<a href="http://en.wikipedia.org/wiki/John_Shadegg" target="_blank">Rep. John Shadegg of Arizona</a> and Economics Nobel Prize laureate</p></blockquote>
+<p>Actually, of course, since Shadegg is right that the unemployed will spend as little of that money as they possibly can, and since as little of that money as they possibly can is, for most of the unemployed, all of the unemployment compensation they receive, unemployed people who receive unemployment compensation, unlike unemployed people who don’t, do hire people. Or at least prevent the layoffs of people.<br />Shadegg might want to consult the waitress at the coffee shop he stops at in the morning. Or better yet, the real estate agent who’s trying to sell that house down the street from his that isn’t quite yet in foreclosure.<br />Shadegg’s economics theory, of course, would make a perfect subject for our president to use as an object lesson for the public about the Republicans—and as a call to action, or rather anger, by the public. But then, he’d have to actually speak to the public about policy. And since that’s not in his repertoire of things he thinks a president should do, or is not in his repertoire of things he’ll trouble himself to do, Shadegg &#038; Friends will win, on the policy itself and politically; when the economy begins to collapse again, no one will know why, and even then Obama won’t explain or remind them.<br />I would so love to see a Howard Dean-type Dem come out of the blue and challenge Obama for the 2012 nomination—and start now to educate the public and vociferously push back against the Republicans by turning the tide of public opinion. This Dem also could make the Afghanistan-war bottomless money-and-lives pit a hot topic, too.<br />This uninterrupted rightwing monologue we’ve endured throughout the last 20 months or so will continue uninterrupted until a countervailing force of that sort emerges.<br />Any takers?<br />Oh, and as for wealthy people: They hire people? I didn’t know that.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/wealthy-people-hire-people-i-didnt-know-that.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unemployment extensions end soon</title>
+		<link>./../../2010/11/unemployment-extensions-end-soon.html</link>
+		<comments>./../../2010/11/unemployment-extensions-end-soon.html#respond</comments>
+		<pubDate>Tue, 16 Nov 2010 12:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[unemployment]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/unemployment-extensions-end-soon.html</guid>
+		<description><![CDATA[NELP (National Employment Law Project) notes: For administrative reasons, states need to shut down their extended unemployment programs in advance of the federal government’s Nov. 30 cut-off. NELP estimates that 800,000 people will lose unemployment benefits in the coming weeks and 2 million workers will lose their benefits by December if Congress fails to act. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.unemployedworkers.org/sites/unemployedworkers/index.php" target="_blank">NELP</a> (National Employment Law Project) notes:<br />
+<blockquote>For administrative reasons, states need to shut down their extended unemployment programs in advance of the federal government’s Nov. 30 cut-off. NELP estimates that 800,000 people will lose unemployment benefits in the coming weeks and 2 million workers will lose their benefits by December if Congress fails to act.</p></blockquote>
+<p><a href="http://www.dispatchpolitics.com/live/content/local_news/stories/2010/11/15/copy/its-that-time-again-jobless-benefits-to-end.html?adsec=politics&#038;sid=101" target="_blank">The Columbus Dispatch</a> puts the ending of benefits another way:<br />
+<blockquote>Nearly 40 percent of Ohioans receiving jobless benefits will exhaust their unemployment by the end of December unless Congress agrees to continue funding extended benefits.</p></blockquote>
+<p><a href="http://unemployedworkers.org/sites/unemployedworkers/index.php/site/blog_entry/main_street_alliance_why_get_a_job_any_job_is_bad_policy_for_businesse" target="_blank">Main Street Alliance</a> small business owners write:<br />
+<blockquote>“Get a job – any job. Don’t wait for a good one, take anything you can get.” So goes the refrain. But that advice denies the reality of this recession and its impact on the job market. And it obscures the realities of how employers go about hiring people.</p>
+<p>There simply aren’t enough jobs out there for the vast majority of the unemployed. There are so few jobs available that even if someone could wave a magic wand and instantly fill every job opening with someone who is unemployed, four out of five of the jobless would still be out of work.</p>
+<p>Equally important, those telling the unemployed to “get a job, any job” fail to grasp the realities of hiring. Employers want the most qualified candidate for the job, not the most over-qualified candidate&#8230;The costs associated with employee turnover are significant and businesses, especially small businesses, can’t afford to waste resources on another job search and training someone yet again.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/unemployment-extensions-end-soon.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

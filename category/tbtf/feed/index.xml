@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TBTF &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>There&#8217;s an election in 2012</title>
+		<link>./../../2010/07/theres-an-election-in-2012.html</link>
+		<comments>./../../2010/07/theres-an-election-in-2012.html#respond</comments>
+		<pubDate>Mon, 12 Jul 2010 19:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[financial reform]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[TBTF]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/theres-an-election-in-2012.html</guid>
+		<description><![CDATA[Went to Massacghusetts for the weekend, where I learned that Martha Coakley supports child rapists* and Scott Brown (R-MA Sen.) is a decent legislator who stands by his convictions, including his opposition to the Financial Services Reform Act, which principled action he takes because the act institutionalizes Too Big to Fail. (This is also Russ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Went to Massacghusetts for the weekend, where I learned that Martha Coakley supports child rapists* and Scott Brown (R-MA Sen.) is a decent legislator who stands by his convictions, including his opposition to the Financial Services Reform Act, which principled action he takes because the act institutionalizes Too Big to Fail.  (This is also Russ Feingold&#8217;s argument against the bill, I believe.)</p>
+<p>Up until then, the only thing I had heard about Mr. Brown&#8217;s opinion of the bill was that the $19 billion in taxes on TBTF institutions—which would be a drop in the bucket, but at least a marginal disincentive to some &#8220;Great Recession&#8221;-causing activities—was removed to make it more palatable to him.</p>
+<p>If, instead, it were true that Mr. Brown&#8217;s opposition was principles, he would stand by his conviction that the bill would do more harm to the economy than good, instead of accepting a reduced cost to BofA and a greater if-a-crisis-occurs cost for MA taxpayers.</p>
+<p><a href="http://www.cnbc.com/id/38206969">Oops.</a></p>
+<p>Ah, well. Martha Coakley railroaded Louise Woodward** and <a href="http://en.wikipedia.org/wiki/Fells_Acres_Day_Care_Center_preschool_trial#Post_trial">reached a similar type of agreement with Cheryl Amirault LeFave</a>.</p>
+<p>UPDATE: Linda Beale, in a post that will eventually appears here as well, <a href="http://ataxingmatter.blogs.com/tax/2010/07/doddfrank-bill-closer-to-passage-as-republicans-sign-on.html">sums up the reality of Brown&#8217;s position</a>:<br />
+<blockquote>Brown&#8217;s vote was a costly one.  He was one who fought to permit banks to own hedge funds&#8211;essentially a decision to allow them to continue to gamble with other people&#8217;s money.  And he nixed the proposal to have the banks pay for the cost of increased regulation due to their risky behavior.  Why in the world shouldn&#8217;t the banks pay?  I suppose they must have contributed a good deal to Brown&#8217;s campaign chest.  There&#8217;s no other reason for failing to assess the banks their fair share of the added monitoring costs.</p></blockquote>
+<p>Brown (Senator-<s>BofA</s>State Street [correction h/t <a href="http://ataxingmatter.blogs.com/tax/2010/06/financial-regulation-bank-lobbies-won-on-derivatives-auto-dealer-lobbies-got-special-treatment.html">Linda Beale</a>]) it is.</p>
+<p>*This is apparently because the grand jury she empaneled <a href="http://www.boston.com/yourtown/melrose/articles/2010/01/06/some_saw_coakley_as_lax_on_05_rape_case?mode=PF">chose not to indict Keith Winfield</a>, at the time a police officer in Somerville.</p>
+<p>**Oops. Sorry.  This was not an objection raised by my correspondent. Whether the evidence of innocence is rather clearer here than in the Amirault cases is left as an exercise.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/theres-an-election-in-2012.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

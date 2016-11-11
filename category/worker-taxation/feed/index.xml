@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>worker taxation &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Corporate taxes down, workers&#8217; taxes up&#8211;that&#8217;s America today</title>
+		<link>./../../2012/08/corporate-taxes-down-workers-taxes-up-thats-america-today.html</link>
+		<comments>./../../2012/08/corporate-taxes-down-workers-taxes-up-thats-america-today.html#respond</comments>
+		<pubDate>Fri, 31 Aug 2012 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[corporate taxation]]></category>
+		<category><![CDATA[Linda Beale (Tax law)]]></category>
+		<category><![CDATA[worker taxation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/corporate-taxes-down-workers-taxes-up-thats-america-today.html</guid>
+		<description><![CDATA[by Linda Beale Corporate taxes down, workers&#8217; taxes up&#8211;that&#8217;s America today Corporate taxes used to constitute a significant portion of federal revenues, almost a third in 1950.  Payroll taxes from workers were considerably less&#8211;around 10% in 1950.  Andrew Leonard, Who Really Pays Taxes? Salon.com (Aug. 28, 2012).The times have changed.  Corporate taxes have declined steeply [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Linda Beale</p>
+<p><a href="http://ataxingmatter.blogs.com/tax/2012/08/corporate-taxes-down-workers-taxes-up-thats-america-today.html">Corporate taxes down, workers&#8217; taxes up&#8211;that&#8217;s America today</a></p>
+<p>Corporate taxes used to constitute a significant portion of federal revenues, almost a third in 1950.  Payroll taxes from workers were considerably less&#8211;around 10% in 1950.  Andrew Leonard, <a href="http://www.salon.com/2012/08/28/who_really_pays_taxes/">Who Really Pays Taxes?</a> Salon.com (Aug. 28, 2012).<br />The times have changed.  Corporate taxes have declined steeply in the 21st century as a percent of GDP, while <a href="http://ataxingmatter.blogs.com/tax/2012/07/tax-policy-center-on-cutting-tax-preferences-to-lower-tax-rates-aka-romneys-plan.html">payroll taxes</a> paid by workers have become a significant part of tax revenues&#8211;more than a third in 2007.</p>
+<p>That is one cause of the inordinate inequality of income and wealth that this country now endures&#8211;an inequality that has dire consequences for the economy and for the well-being or the vast majority of ordinary Americans.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/corporate-taxes-down-workers-taxes-up-thats-america-today.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

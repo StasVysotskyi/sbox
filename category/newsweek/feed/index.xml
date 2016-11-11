@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Newsweek &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Unethical Commentary, Newsweek Edition</title>
+		<link>./../../2012/08/unethical-commentary-newsweek-edition.html</link>
+		<comments>./../../2012/08/unethical-commentary-newsweek-edition.html#respond</comments>
+		<pubDate>Thu, 23 Aug 2012 02:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Newsweek]]></category>
+		<category><![CDATA[Niall Ferguson]]></category>
+		<category><![CDATA[Paul Krugman]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/unethical-commentary-newsweek-edition.html</guid>
+		<description><![CDATA[ I don&#8217;t usually pass along a Krugman piece, but the ACA is familiar territory for AB. By Paul Krugman, The New York Times21 August 12here are multiple errors and misrepresentations in Niall Ferguson&#8217;s cover story in Newsweek &#8211; I guess they don&#8217;t do fact-checking &#8211; but this is the one that jumped out at me. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p> I don&#8217;t usually pass along a Krugman piece, but the ACA is familiar territory for AB. </p>
+<p>By Paul Krugman, The New York Times<br />21 August 12<br /><img border="0" src="http://readersupportednews.org/images/stories/alphabet/rsn-T.jpg">here are multiple errors and misrepresentations in Niall Ferguson&#8217;s <a href="http://www.thedailybeast.com/newsweek/2012/08/19/niall-ferguson-on-why-barack-obama-needs-to-go.html">cover story in Newsweek</a> &#8211; I guess they don&#8217;t do fact-checking &#8211; but this is the one that jumped out at me. Ferguson says:</p>
+<blockquote><p><em>The president pledged that health-care reform would not add a cent to the deficit. But the CBO and the Joint Committee on Taxation now estimate that the insurance-coverage provisions of the ACA will have a net cost of close to $1.2 trillion over the 2012-22 period.</em></p></blockquote>
+<p>Readers are no doubt meant to interpret this as saying that CBO found that the Act will increase the deficit. But anyone who actually read, or even skimmed, the <a href="http://cbo.gov/sites/default/files/cbofiles/ftpdocs/121xx/doc12119/03-30-healthcarelegislation.pdf">CBO report</a> (pdf) knows that it found that the ACA would reduce, not increase, the deficit &#8211; because the insurance subsidies were fully paid for.</p>
+<p>Now, people on the right like to argue that the CBO was wrong. But that&#8217;s not the argument Ferguson is making &#8211; he is deliberately misleading readers, conveying the impression that the CBO had actually rejected Obama&#8217;s claim that health reform is deficit-neutral, when in fact the opposite is true.<br />…<br />We&#8217;re not talking about ideology or even economic analysis here &#8211; just a plain misrepresentation of the facts, with an august publication letting itself be used to misinform readers. The Times would require an abject correction if something like that slipped through. Will Newsweek?</p>
+<p><strong>See Also:</strong> <a href="http://www.businessinsider.com/niall-fergusons-embarrassing-response-to-paul-krugman-2012-8">Niall Ferguson Publishes Embarrassing Defense Of Newsweek Article</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/unethical-commentary-newsweek-edition.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

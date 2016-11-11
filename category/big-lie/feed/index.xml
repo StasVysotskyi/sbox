@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>big lie &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Barry Ritholtz Eviscerates the Big Lie</title>
+		<link>./../../2011/11/barry-ritholtz-eviscerates-the-big-lie.html</link>
+		<comments>./../../2011/11/barry-ritholtz-eviscerates-the-big-lie.html#respond</comments>
+		<pubDate>Sat, 26 Nov 2011 16:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Barry Ritholtz]]></category>
+		<category><![CDATA[big lie]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/barry-ritholtz-eviscerates-the-big-lie.html</guid>
+		<description><![CDATA[by Mike Kimel Barry Ritholtz looks at the Big Lie. The big lie of the financial crisis, of course, is that troubling technique used to try to change the narrative history and shift blame from the bad ideas and terrible policies that created it. In particular, Barry is interested in this: Take for example New [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p><a href="http://www.ritholtz.com/blog/2011/11/examining-the-big-lie-how-the-facts-of-the-economic-crisis-stack-up/">Barry Ritholtz looks at the Big Lie</a>.<br />
+<blockquote>The big lie of the financial crisis, of course, is that troubling technique used to try to change the narrative history and shift blame from the bad ideas and terrible policies that created it.</p></blockquote>
+<div></div>
+<p>In particular, Barry is interested in this:
+<div>
+<blockquote>Take for example New York Mayor Michael Bloomberg’s statement that it was Congress that forced banks to make ill-advised loans to people who could not afford them and defaulted in large numbers. He and others claim that caused the crisis. Others have suggested these were to blame: the home mortgage interest deduction, the Community Reinvestment Act of 1977, the 1994 Housing and Urban Development memo, Fannie Mae and Freddie Mac, Rep. Barney Frank (D-Mass.) and homeownership targets set by both the Clinton and Bush administrations.</p></blockquote>
+<p>He then goes on to a very exhaustive look at the evidence.  Read the whole thing at Barry&#8217;s place.</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/barry-ritholtz-eviscerates-the-big-lie.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

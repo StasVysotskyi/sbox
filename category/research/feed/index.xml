@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>research &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>GDP Revisions</title>
+		<link>./../../2012/01/gdp-revisions.html</link>
+		<comments>./../../2012/01/gdp-revisions.html#respond</comments>
+		<pubDate>Mon, 16 Jan 2012 17:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GDP]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/gdp-revisions.html</guid>
+		<description><![CDATA[This is just a short post to illustrate the magnitude of GDP revisions. I downloaded quarterly GDP data from BEA in June 2011. I went back to BEA this morning to update the file. Forgetting about GDP revisions, I thought I&#8217;d be adding 2 or three more quarters of data, but discovered that all the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This is just a short post to illustrate the magnitude of GDP revisions.  I downloaded quarterly GDP data from <a href="http://www.bea.gov/national/nipaweb/TableView.asp?SelectedTable=5&#038;ViewSeries=NO&#038;Java=no&#038;Request3Place=N&#038;3Place=N&#038;FromView=YES&#038;Freq=Qtr&#038;FirstYear=1947&#038;LastYear=2011&#038;3Place=N&#038;Update=Update&#038;JavaBox=no#Mid">BEA</a> in June 2011.  I went back to BEA this morning to update the file. Forgetting about GDP revisions, I thought I&#8217;d be adding 2 or three more quarters of data, but discovered that all the numbers since Q2 2003 had been revised.  Prior values are unchanged.   Plotted below is the difference between the June, 2011 numbers and what I found this morning.</p>
+<p>
+<div><a href="http://3.bp.blogspot.com/-Vqi7cs3qVdk/TxRSAx62yVI/AAAAAAAABvg/w9F0695K7KQ/s1600/GDP+Revisions.JPG" imageanchor="1"><img border="0" height="298" src="http://3.bp.blogspot.com/-Vqi7cs3qVdk/TxRSAx62yVI/AAAAAAAABvg/w9F0695K7KQ/s400/GDP+Revisions.JPG" width="400"></a></div>
+<p>The depth of the trough in Q3 2009 was $194 Billion worse than we thought just a few months ago.  I was surprised to see the revisions go back a full 9 years.</p>
+<p>Tyler Cowan got one thing right.  We are poorer than we think we are.</p>
+<p>Cross-posted at <a href="http://jazzbumpa.blogspot.com/2012/01/gdp-revisions.html">Retirement Blues </a><br /><a name="more"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/gdp-revisions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Presimetrics Review</title>
+		<link>./../../2011/10/presimetrics-review.html</link>
+		<comments>./../../2011/10/presimetrics-review.html#respond</comments>
+		<pubDate>Sat, 22 Oct 2011 18:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[book reviews]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/presimetrics-review.html</guid>
+		<description><![CDATA[Noted for the record: author Piaw Na reviews Mike Kimel&#8216;s Presimetrics at Piaw&#8217;s Blog: This is a great book to read if you&#8217;ve got a statistical bent and are willing to follow the data rather than your pre-conceived notions&#8230;.Many people like to say that they&#8217;re data-driven, but most people actually have prejudices that lead them [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Noted for the record: <a href="http://books.piaw.net/">author Piaw Na</a> reviews <a href="http://presimetrics.com/">Mike Kimel</a>&#8216;s <a href="http://www.amazon.com/Presimetrics-Facts-Presidents-Measure-Issues/dp/1579128351/ref=sr_1_1?s=books&#038;ie=UTF8&#038;qid=1319308574&#038;sr=1-1">Presimetrics</a> at <a href="http://piaw.blogspot.com/">Piaw&#8217;s Blog</a>:</p>
+<blockquote><p>This is a great book to read if you&#8217;ve got a statistical bent and are willing to follow the data rather than your pre-conceived notions&#8230;.Many people like to say that they&#8217;re data-driven, but most people actually have prejudices that lead them to believe what they believe, as opposed to actually looking into data and correlations. This book goes a long way towards providing those who want data the actual data with which to base their beliefs on&#8230;.This is the kind of book that deserves to sell better than it does. Highly Recommended.</p></blockquote>
+<p>I left out all the good parts, so <a href="http://piaw.blogspot.com/2011/10/review-presimetrics.html">Go Read the Whole Thing</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/presimetrics-review.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prostate Cancer Advance, and Europeans Free Riding on American Research</title>
+		<link>./../../2011/09/prostate-cancer-advance-and-europeans-free-riding-on-american-research.html</link>
+		<comments>./../../2011/09/prostate-cancer-advance-and-europeans-free-riding-on-american-research.html#respond</comments>
+		<pubDate>Mon, 26 Sep 2011 21:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[foreign country health]]></category>
+		<category><![CDATA[Health Care]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[socialized medicine]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/prostate-cancer-advance-and-europeans-free-riding-on-american-research.html</guid>
+		<description><![CDATA[by Mike Kimel There&#8217;s a story going around in the news about a new prostate cancer drug. Here&#8217;s press release: A life-extending new drug to treat patients with advanced prostate cancer, developed by The Institute of Cancer Research (ICR) and The Royal Marsden Hospital, has received its UK license. Abiraterone acetate, marketed by Janssen under [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://presimetrics.com/">Mike Kimel</a></p>
+<p>There&#8217;s a story going around in the news about a new prostate cancer drug.  Here&#8217;s  <a href="http://www.icr.ac.uk/press/press_archive/press_releases_2011/21643.shtml">press release</a>:</p>
+<blockquote><p>A life-extending new drug to treat patients with advanced prostate cancer, developed by The Institute of Cancer Research (ICR) and The Royal Marsden Hospital, has received its UK license.</p>
+<p>Abiraterone acetate, marketed by Janssen under the trade name ZYTIGA®, has been shown in clinical trials to prolong survival for men with advanced prostate cancer. An estimated 10,500 men in the UK have advanced prostate cancer that has become resistant to standard hormone treatments.</p>
+<p>The once-daily pill officially launches in the UK today after the European Commission earlier this month approved it for the treatment of metastatic prostate cancer. Abiraterone acetate was licensed for use in combination with the steroids prednisone or prednisolone, by men whose disease has developed resistance to conventional hormone therapies and docetaxel-based chemotherapy.</p>
+<p>Abiraterone acetate is a new type of treatment for prostate cancer that works by blocking the synthesis of testosterone in all tissues including the tumour itself, not just the testes. This testosterone would otherwise continue to fuel prostate cancer growth and spread. Abiraterone was discovered at the ICR in what is now the Cancer Research UK Cancer Therapeutics Unit and further developed at the ICR and The Royal Marsden.*</p>
+<p>The ICR&#8217;s Chief Executive Professor Alan Ashworth says: “This drug was discovered in the UK at The Institute of Cancer Research. Its launch is the culmination of immense hard work and dedication by scientists and clinicians here and around the world. To have reached the point where thousands of prostate cancer patients will be able to benefit from this life-extending treatment is hugely rewarding.”</p>
+<p>Royal Marsden Chief Executive Cally Palmer says: “The development of abiraterone by The Royal Marsden and the ICR highlights the national importance of funding pioneering cancer research. We are delighted our patients at The Royal Marsden have been among the first to benefit from the very latest in drug development.”</p></blockquote>
+<p>Another quote:</p>
+<blockquote><p>Results of a major international Phase III trial of almost 2,000 men jointly led by Professor Johann de Bono from the ICR and The Royal Marsden showed that patients given abiraterone acetate lived on average 15.8 months compared to 11.2 months for men taking a placebo. Pain also eased for a higher proportion of patients taking abiraterone, while side effects were easily manageable and reversible.</p></blockquote>
+<p>From the footnotes:  </p>
+<blockquote><p>Cancer Research Technology assigned abiraterone acetate to BTG International Ltd, who in turn licensed it to Cougar Biotechnology Inc., now a member of the Janssen Pharmaceutical Companies.</p></blockquote>
+<p>Now, I&#8217;m not that familiar with British entitites, but as I understand it, a publicly funded university and its research hospital developed a new wonder-drug using grants from the public, a charity, and a formerly government owned but now private company.  Commercialization rights eventually ended up with Janssen, a company owned by Johnson &#038; Johnson.</p>
+<p>How long will it be before Zytiga gets trotted out as an example of the European healthcare system free-riding on American research and who will be the first pundit to make that argument?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/prostate-cancer-advance-and-europeans-free-riding-on-american-research.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>McKinsey Thought-Experiment: What If They Are Correct?</title>
+		<link>./../../2011/06/mckinsey-thought-experiment-what-if-they-are-correct.html</link>
+		<comments>./../../2011/06/mckinsey-thought-experiment-what-if-they-are-correct.html#respond</comments>
+		<pubDate>Fri, 17 Jun 2011 15:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[administrative costs]]></category>
+		<category><![CDATA[Health care costs]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/mckinsey-thought-experiment-what-if-they-are-correct.html</guid>
+		<description><![CDATA[I&#8217;m not going to do this with graphics (at least for now), but the finger exercise seems intuitive. Assume—against all evidence—that the &#8220;once we educated them, 30% said they would stop offering health insurance to their lowest-paid employees&#8221; study is accurate. How does that, as John Boehner declares, cost America jobs? From Boehner&#8217;s site: At [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m not going to do this with graphics (at least for now), but the finger exercise seems intuitive.</p>
+<p>Assume—<a href="http://www.whitehouse.gov/blog/2011/06/08/getting-insurance-work">against</a> <a href="http://krugman.blogs.nytimes.com/2011/06/17/mckinseygate/">all</a> <a href="http://health.newamerica.net/blogposts/2011/questioning_the_mckinsey_study_someone_should_ask_bowen_garrett-53161">evidence</a>—that the &#8220;once we educated them, 30% said they would stop offering health insurance to their lowest-paid employees&#8221; study is <em>accurate</em>.</p>
+<p>How does that, <a href="http://www.speaker.gov/Blog/?postid=245058">as John Boehner declares</a>, cost America jobs?</p>
+<p>From Boehner&#8217;s site:<br />
+<blockquote>At least 30 percent of employers would gain economically from dropping coverage even if they completely compensated employees for the change through other benefit offerings or higher salaries.</p></blockquote>
+<p>This should be intuitive. If the company is paying $1,000 a month for my family&#8217;s health care along with my $800 a month,* it can raise my paycheck by $1,000 a month—employee compensation is employee compensation—<em>and</em> cut back on its health care administration. If I&#8217;m not a health-care administrator, it&#8217;s win-win.**<br />
+<blockquote><strong>Aside</strong>: Reality <em>will</em> interfere. If we make the Baumolian assumption that cost of health insurance will continue to grow faster than GDP—at a slower rate, probably, but still faster—I&#8217;ll give you odds that the labor share of revenues will decline, <em>cet. par.</em> over time. But we&#8217;re talking about jobs, not profits.***</p></blockquote>
+<p>Any economist worth her salt should know that lower costs of employment increase overall employment (assuming there is not a demand-side problem).</p>
+<p>If the McKinsey &#8220;study&#8221; were accurate—again, not the way to bet—we should expect overall employment to <em>increase</em>. As with the <a href="http://scholar.google.com/scholar?q=Earned+Income+Tax+Credit&#038;hl=en&#038;as_sdt=1%2C33">Earned Income Tax Credit</a>, the expansion of HIEs will benefit firms, allowing them to reallocate capital into more useful areas.</p>
+<p>The follow-on effects in that universe: more people joining the HIEs than expected, improvements in the measurement of &#8220;real&#8221; wage growth, greater transparency in the current health-insurance system, and arguably a larger contingency of workers demanding something closer to a single-payer solution,**** all improve efficiency and provide opportunity for economic expansion.</p>
+<p>Which is supposed to mean more jobs, not fewer.</p>
+<p>If the McKinsey presentation accurately reflects what companies will do given the opportunity—think the <a href="http://www.thirdworldtraveler.com/Corporate_Welfare/WalMart_Welfare.html">Wal-Mart Effect</a> Writ Large—then the prospects for employment will be, if anything, increased.</p>
+<p>Greater political pressure for cost-reduction that leads to single-payer becoming more politically viable is just lagniappe.</p>
+<p>*Not the real numbers, of course.</p>
+<p>**If I&#8217;m a Benefits Coordinator, I don&#8217;t lose my job, and I get to spend more time working on ensuring that the firm is competitive in other areas. If I were doing an economic model of this against employment, I would bet that the coefficient would be small but positive, so let&#8217;s be generous and assume it&#8217;s equivalent to zero, i.e., no effect on employment supply.</p>
+<p>As an aside, this was in part the reasoning behind the Bear Stearns &#8220;bag of rubber bands, box of paper clips, go buy all your own supplies&#8221; thinking. It didn&#8217;t necessarily save on corporate expenses directly, but it meant not having to manage that area of inventory.</p>
+<p>***If anything, the extra profits, <em>cet. par.</em>, facilitate business expansion and more hiring. That the multiplier effect will not be 1:1 simply reflects what a poor social investment private corporations are.</p>
+<p>****More people forced to use the HIEs=> more people demanding similar plans across state lines => more demand for a larger uniform baseline (especially as families move from state to state) => more interest in cost controls => greater need to control Administrative expenses => disequilibrium in service demand and supply => demand for service efficiencies that result in either single-payer or, at worst, unified Servicer processing.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/mckinsey-thought-experiment-what-if-they-are-correct.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Health Care FYI</title>
+		<link>./../../2011/02/health-care-fyi.html</link>
+		<comments>./../../2011/02/health-care-fyi.html#respond</comments>
+		<pubDate>Thu, 17 Feb 2011 16:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Health Care]]></category>
+		<category><![CDATA[innovation]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/health-care-fyi.html</guid>
+		<description><![CDATA[The quality of the posts at Disruptive Women in Health Care(r) varies widely, but their special issues bring out the best and leave most of the chaff behind. Their latest eBook is Innovation Nation: Recognizing the Benefits of Innovation in Health Care. The PDF (direct link here) collects a series of posts from December, and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The quality of the posts at <a href="http://www.disruptivewomen.net/">Disruptive Women in Health Care</a>(r) varies widely, but their special issues bring out the best and leave most of the chaff behind.</p>
+<p>Their <a href="http://www.disruptivewomen.net/2011/02/17/innovation-e-book/">latest eBook is <em>Innovation Nation: Recognizing the Benefits of Innovation in Health Care</em></a>. The PDF (direct link <a href="http://www.disruptivewomen.net/wp-content/uploads/2011/02/FINAL.pdf">here</a>) collects a series of posts from December, and includes references and research links that formed the basis of their posts and ancillary material dealing with innovation and research in both the specifics of health care/medicine and general research.</p>
+<p>Worth a look to see how people who work in the field view their future.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/health-care-fyi.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Following the Taylor Rule would have led to President Kerry</title>
+		<link>./../../2011/01/following-the-taylor-rule-would-have-led-to-president-kerry.html</link>
+		<comments>./../../2011/01/following-the-taylor-rule-would-have-led-to-president-kerry.html#respond</comments>
+		<pubDate>Tue, 04 Jan 2011 19:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cursive-Z recession]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/following-the-taylor-rule-would-have-led-to-president-kerry.html</guid>
+		<description><![CDATA[The Reserve Bank of New Zealand released a paper by Nicolas Groshenny last month—I&#8217;m behind on planning for Chanukkah; that I got to a paper from New Zealand about U.S. monetary policy this soon is, er, probably one of the reasons why—in which he evaluates the counterfactual of following the &#8220;Taylor Rule&#8221; from 2002 to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Reserve Bank of New Zealand released a paper by <a href="http://ideas.repec.org/f/pgr282.html">Nicolas Groshenny</a> last month—I&#8217;m behind on planning for Chanukkah; that I got to a paper from New Zealand about U.S. monetary policy this soon is, er, probably one of the reasons why—in which he evaluates the counterfactual of following the &#8220;<a href="http://en.wikipedia.org/wiki/Taylor_rule">Taylor Rule</a>&#8221; from 2002 to 2006.</p>
+<p>Groshenny <a href="http://www.rbnz.govt.nz/research/discusspapers/dp10_14.pdf">finds</a> (link is PDF):<br />
+<blockquote>[T]his paper estimates a New Keynesian model with unemployment and performs a counterfactual experiment where monetary policy strictly follows a Taylor rule over the period 2002:Q1 &#8211; 2006:Q4. The paper finds that <em>such a policy would have generated a sizeable increase in unemployment and resulted in an undesirably low rate of inflation</em>. Around mid-2004, when the counterfactual deviates the most from the actual series, the model indicates that the probability of an unemployment rate greater than 8 percent would have been as high as 80 percent, while the probability of an inflation rate above 1 percent would have been close to zero.</p></blockquote>
+<p>Several obvious questions:
+<ol>
+<li>The period in question includes Alan Greenspan&#8217;s last hurrah as Chair of the FRB.  If he had followed the Taylor Rule then, would his legacy be so fondly remembered by his champions?</li>
+<li>If the Taylor Rule would have done that much damage then, why is it getting <a href="http://www.tradersnarrative.com/the-taylor-rule-rates-should-be-much-higher-4-3805.html">such</a> <a href="http://www.businessinsider.com/the-taylor-rule-a-simple-tool-for-predicting-fed-policy-2010-3">vehement</a> <a href="http://johnbtaylorsblog.blogspot.com/2010/01/from-woodford-to-delong-on-monetary.html">advocacy</a> now (with only Scott Sumner—whose model has the virtue of being consistent—<a href="http://www.themoneyillusion.com/?p=3894">throwing out cautionary notes from the conservative side</a>)?*</li>
+<li>Is the NAIRU for post-2001 U.S. U-3 closer to 8% than anyone in their right mind currently believes?</li>
+<li>Most of the period covered by the paper is when we had a, uh, <a href="http://en.wikipedia.org/wiki/John_W._Snow">relatively inexperienced crony capitalist</a> running the U.S. Treasury Department.  How much cover should that give to the FRB?</li>
+</ol>
+<p>I&#8217;m certain there are other, better questions. Feel free to mention them below. And, while we&#8217;re at it, let&#8217;s see if we can answer the question of why 8% unemployment with less than a 1% inflation rate was unaccepted to the Bush-Cheney Administration but is perfectly fine with the Summers/Geithner &#8220;<a href="http://delong.typepad.com/sdj/2011/01/i-am-now-and-have-for-eighteen-years-been-a-rubinite.html">Rubinites</a>&#8220;-with-Obama crowd.</p>
+<p>*I&#8217;m still trying to figure out if <a href="http://seekingalpha.com/article/209596-the-mankiw-rule-with-quantitative-easing-why-is-the-fed-so-tight">Andy Harless</a> is on Sumner&#8217;s side or playing both sides against a middle that may not exist, but I suspect he should be included in Sumner&#8217;s camp.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/following-the-taylor-rule-would-have-led-to-president-kerry.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Everything Old is New Again, Part 1934-1937</title>
+		<link>./../../2010/10/everything-old-is-new-again-part-1934-1937.html</link>
+		<comments>./../../2010/10/everything-old-is-new-again-part-1934-1937.html#respond</comments>
+		<pubDate>Sat, 23 Oct 2010 15:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic history]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/everything-old-is-new-again-part-1934-1937.html</guid>
+		<description><![CDATA[I have (vainly, I suspect, in both senses of the phrase), tried to start a meme on Twitter, #ifTimGeithnerrantheEmergencyRoom. “The defibrillator would only charge to 30 to prevent scarring; anything more and you’re on your own” probably isn’t winning friends or influencing people, but it does make me feel better. It also makes me look [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have (vainly, I suspect, in both senses of the phrase), tried to start a meme on Twitter, #ifTimGeithnerrantheEmergencyRoom. “The defibrillator would only charge to 30 to prevent scarring; anything more and you’re on your own” probably isn’t winning friends or influencing people, but it does make me feel better.
+<p>It also makes me look back at the histories written of the time.  A detailed analysis of Keynes’s discussion of Goldman Sachs’s antics in the late 1920s, which echo their trading in middle 2000s, is left to someone else. (Suffice it to say, one never quite listens to John Denver’s “Take Me Home, Country Roads” the same way again after reading about Blue Ridge and Shenandoah.)</p>
+<p>It’s the macro monetary moves that abide, and the lessons of history. Years ago, people failed to notice that money whose multiplier is 1 is not inflationary—most especially when you have one of the so-called “balance sheet recessions” where assets are being carried at a value significantly higher than can be realized even in Edward C. Prescott’s or Thomas M. Hoenig’s most lurid fantasies.  To wit:</p>
+<blockquote><p>Over time, Fed officials became increasingly concerned about substantial increases in bank reserves, especially excess reserves. During 1934 and 1935, gold inflows of some $3 billion contributed to a doubling of member bank total reserves (from $2.76 billion in January 1934 to $5.72 billion in December 1935) and more than a tripling of excess reserves (from $866 million to $2.98 billion; Board of Governors of the Federal Reserve System 1943, 371). The buildup of excess reserves alarmed Fed officials, who feared that these “idle” balances might permit a wave of speculation and inflation.</p>
+<p>Using its traditional tools the Fed would have reduced reserves (or slowed their rate of growth) by selling securities and raising the discount rate. But this was not feasible in the mid-1930s. A discount rate increase would have had no effect on reserves since discount-window borrowing already was trivial, even at a discount rate of just 1.5 percent. Similarly, by mid-1935, member bank excess reserves alone equaled the Fed’s total security holdings, leaving the Fed unable to slow significantly the growth of total reserves through open market sales….</p>
+</blockquote>
+<p><a href="http://lh6.ggpht.com/_wM5Pj6NF0jA/TMMDoG6WoaI/AAAAAAAAAdU/JQHmqwtIbH8/s1600-h/excresns2008201009%5B6%5D.png"><img title="excresns2008201009" height="148" alt="excresns2008201009" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/TMMDongFTmI/AAAAAAAAAdY/YRkr8YHtP8U/excresns2008201009_thumb%5B4%5D.png?imgmax=800" width="244" border="0"></a></p>
+<p>And the result, Basel III-like, of ignoring that the accounting Fantasies of Solvency were dwarfing the lending realities: </p>
+<blockquote><p>Alarmed at the sharp increase in excess reserves that had taken place since 1933, and viewing it as potentially inflationary, the Board of Governors increased required reserve ratios in August 1936, and again in March and May 1937. In total, the reserve requirements on time deposits were increased from 3 percent to 6 percent. Requirements on demand deposits were increased from 7, 10, and 13 percent to 14, 20, and 26 percent for country, reserve city, and central reserve city banks, respectively. The increases, according to the Annual Report of the Board of Governors for 1936, were intended to eliminate those excess reserves the board deemed ‘‘superfluous for prospective needs of commerce, industry, and agriculture, and, if permitted to become the basis of a multiple expansion of bank credit, might have resulted in an injurious credit expansion” (14).</p>
+</blockquote>
+<p>If “those who forget the past may be condemned to repeat it,” are those who remember it and still fail to do anything are just condemned to be economists?</p>
+<p>All quotes from Charles W. Calmoris and David C. Wheelock, “Was the Great Depression a Watershed for American Monetary Policy,” 1996-1998, as published in Bordo, Goldin, and White eds., <em>The Defining Moment, </em>NBER Press, 1998</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/everything-old-is-new-again-part-1934-1937.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Thinking about Research</title>
+		<link>./../../2010/10/thinking-about-research.html</link>
+		<comments>./../../2010/10/thinking-about-research.html#respond</comments>
+		<pubDate>Thu, 21 Oct 2010 17:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AGW]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[EMH]]></category>
+		<category><![CDATA[Health Care]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/thinking-about-research.html</guid>
+		<description><![CDATA[Chris Blattman highlights the latest version of Janet Currie and Reed Walker’s research on a positive externality of the shift to E-Z Pass (PDF link). From the Abstract: We find that reductions in traffic congestion generated by E-ZPass reduced the incidence of prematurity and low birth weight among mothers within 2km of a toll plaza [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://chrisblattman.com/2010/10/21/e-zpass-saves-babies/" target="_blank">Chris Blattman</a> highlights the latest version of Janet Currie and Reed Walker’s research on <a href="http://www.econ.yale.edu/seminars/labor/lap10/currie-101008.pdf" target="_blank">a positive externality of the shift to E-Z Pass</a> (PDF link). From the Abstract:<br />
+<blockquote>
+<p>We find that reductions in traffic congestion generated by E-ZPass reduced the incidence of prematurity and low birth weight among mothers within 2km of a toll plaza by 6.7-9.1% and 8.5-11.3% respectively, with larger effects for African-Americans, smokers, and those very close to toll plazas. There were no immediate changes in the characteristics of mothers or in housing prices in the vicinity of toll plazas that could explain these changes, and the results are robust to many changes in specification. The results suggest that traffic congestion is a significant contributor to poor health in affected infants. Estimates of the costs of traffic congestion should account for these important health externalities.</p>
+</blockquote>
+<p>The interesting thing is that I read this paper a while ago—earlier this year, or even late last.  Well, maybe not <em>this version</em> of  the paper, but an earlier version of it which also showed significant positive results.  And it gets me thinking about how we deal with research.</p>
+<p> Because the past six months or so—since the previous version—are six months in which this information apparently didn’t get disseminated to the Chris Blattmans and <a href="http://motherjones.com/kevin-drum/2010/10/living-near-fumes" target="_blank">Kevin Drums</a> of this world, six months during which uninformed people have bought houses near non-EZ-Pass toll plazas, six months during which <a href="http://www.nytimes.com/2010/10/21/us/politics/21climate.html?pagewanted=print" target="_blank">every Republican candidate for the House or Senate not named Mark Kirk</a> has spoken as if since climate change is not real, and therefore there are no possible reasons to reduce emissions. (As an aside, that the glorious liberal days of IN-9 are when Lee Hamilton seat for as long as he wanted it is an indicator of discourse shift, as this blog’s pretense to being “left of center” makes clear.)</p>
+<p>In a limited sense, that’s probably as it should be.  People who knew about the paper read it, sent comments to the authors, asked questions, suggested changes and the refinements.  I’m certain the current version is a better paper than the one I read, with better details.</p>
+<p>But there is likely someone who, in the past six months, bought a house near a toll plaza that doesn’t have E-Z Pass exits, thinking she was going to raise her soon-to-be-born child in a better environment than an apartment who would have liked to have known about this study, instead of ending up with &#8220;Buyer’s Remorse&#8221; in a real—not just an economic or psychological—sense.</p>
+<p>As long as research is delayed by details and false narratives remain information-free, markets will remain inefficient. And people will have what economists gracefully call “suboptimal outcomes.”  Such as “<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa0706475" target="_blank">prematurity</a> and <a href="http://www.mitpressjournals.org/doi/abs/10.1162/003355305774268228" target="_blank">low birth weight</a>,” neither of which is a positive indicator for future success and earnings.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/thinking-about-research.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Job Creation Follow Up</title>
+		<link>./../../2010/07/job-creation-follow-up.html</link>
+		<comments>./../../2010/07/job-creation-follow-up.html#respond</comments>
+		<pubDate>Thu, 22 Jul 2010 19:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[employment]]></category>
+		<category><![CDATA[Job creation]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/job-creation-follow-up.html</guid>
+		<description><![CDATA[For those interested in more information on job creation in the Employment Dynamics database these three article provide very good information. Cordelia Okolie, “Why Size Class Methodology Matters in Analyses of Net and Gross Job Flows.” July 2004 Monthly Labor Review Jessica Helfand, Akbar Sadeghi and David Talan, “Employment Dynamics: Small and Large Firms Over [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For those interested in more information on job creation in the Employment Dynamics data<br />base these three article provide very good information.</p>
+<p>Cordelia  Okolie, <a href="http://www.bls.gov/opub/mlr/2004/07/art1full.pdf">“Why Size  Class Methodology Matters in Analyses of Net and Gross Job Flows.”</a> July 2004  <i>Monthly Labor Review</p>
+<p></i>
+</p>
+<p>Jessica  Helfand, Akbar Sadeghi and David Talan, <a href="http://www.bls.gov/opub/mlr/2007/03/contents.htm">“Employment Dynamics:  Small and Large Firms Over the Business Cycle.”</a> March 2007 <i>Monthly Labor  Review
+</p>
+<p></i></p>
+<p>Tim Kane, <i><a href="http://www.kauffman.org/uploadedFiles/firm_formation_importance_of_startups.pdf">The Importance of Startups in Job Creation and Job Destruction</a></i> (PDF from the Kauffman Foundation Research Series, July, 2010)</p>
+<p>All three are pdf files and for the second article the link takes you to the Monthly Labor Review where you can directly access the article.</p>
+<p>The subject is more complex than generally thought as different methodologies can create significantly different results.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/job-creation-follow-up.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Say It Ain&#8217;t So</title>
+		<link>./../../2010/02/say-it-aint-so.html</link>
+		<comments>./../../2010/02/say-it-aint-so.html#respond</comments>
+		<pubDate>Wed, 17 Feb 2010 20:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[NBER]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[securitization]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/say-it-aint-so.html</guid>
+		<description><![CDATA[NBER paper of the day: We analyze asset-backed commercial paper conduits which played a central role in the early phase of the financial crisis of 2007-09. We document that commercial banks set up conduits to securitize assets while insuring the newly securitized assets using credit guarantees. The credit guarantees were structured to reduce bank capital [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>NBER <a href="http://www.nber.org/papers/w15730">paper of the day</a>:<br />
+<blockquote>We analyze asset-backed commercial paper conduits which played a central role in the early phase of the financial crisis of 2007-09. We document that commercial banks set up conduits to securitize assets while insuring the newly securitized assets using credit guarantees. The credit guarantees were structured to reduce bank capital requirements, while providing recourse to bank balance sheets for outside investors. Consistent with such recourse, we find that banks with more exposure to conduits had lower stock returns at the start of the financial crisis; that during the first year of the crisis, asset-backed commercial paper spreads increased and issuance fell, especially for conduits with weaker credit guarantees and riskier banks; and that losses from conduits mostly remained with banks rather than outside investors. These results suggest that banks used this form of securitization to concentrate, rather than disperse, financial risks in the banking sector while reducing their capital requirements.</p></blockquote>
+<p>UPDATE: <s>If anyone knows of</s> Tom points us to <a href="http://pages.stern.nyu.edu/~sternfin/pschnabl/acharya_schnabl_suarez.pdf">an &#8220;ungated&#8221; version</a> from three weeks ago<s>, please mention it in comments or e-mail</s>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/say-it-aint-so.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

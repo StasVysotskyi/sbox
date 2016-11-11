@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>business &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Where Has All The Money Gone, Pt I, Corporate Profits</title>
+		<link>./../../2012/01/where-has-all-the-money-gone-pt-i-corporate-profits.html</link>
+		<comments>./../../2012/01/where-has-all-the-money-gone-pt-i-corporate-profits.html#respond</comments>
+		<pubDate>Tue, 17 Jan 2012 19:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[business]]></category>
+		<category><![CDATA[corporate profits]]></category>
+		<category><![CDATA[income]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/where-has-all-the-money-gone-pt-i-corporate-profits.html</guid>
+		<description><![CDATA[INTRODUCTION 1) Rethug Speaker of the House John Boehner says that as a nation, &#8220;we&#8217;re broke&#8220;; Rethug presidential candidate Ron Paul claims America &#8220;should declare bankruptcy.&#8221;  I say these two are liars, and at least one of them is crazy. 2) Tyler Cowan says &#8220;we are poorer than we think we are,&#8221; due to mis-measurement [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><u>INTRODUCTION</u></p>
+<p>1) Rethug Speaker of the House John Boehner says that as a nation, <a href="http://www.huffingtonpost.com/robert-creamer/no-mr-boehner-america-is_b_823304.html">&#8220;we&#8217;re broke</a>&#8220;; Rethug presidential candidate Ron Paul claims America &#8220;<a href="http://www.mediaite.com/tv/rep-ron-paul-america-should-declare-bankruptcy/">should declare bankruptcy</a>.&#8221;  I say these two are liars, and at least one of them is crazy.</p>
+<p>2) Tyler Cowan says &#8220;<a href="http://conhomeusa.typepad.com/bigideas/2011/02/tyler-cowen-.html">we are poorer than we think we are</a>,&#8221; due to mis-measurement of value, which might be true.  I believe his prescription for recovery is generally very bad, though.</p>
+<p>3) In comments to <a href="http://www.angrybearblog.com/2012/01/matt-stoller-former-senior-policy.html">my previous Angry Bear post</a>, Bob McManus directed us to the writings of Michael Hudson, where we find his post <a href="http://michael-hudson.com/2011/12/democracy-and-debt/">Democracy and Debt</a>.   This is must reading.  The relevant point here is that the increasing  capture of wealth, as rents, by a creditor class impoverishes society in  general, and this eventually leads to severe repression, major social  upheaval, or both.  <a href="http://jazzbumpa.blogspot.com/2011/04/brute-economics-of-slavery.html">I whole-heartedly agree</a>.</p>
+<p>4) Jon Hammond&#8217;s <a href="http://www.angrybearblog.com/2012/01/guest-post-does-lower-corporate-tax.html">guest post at Angry Bear </a>shows that a more-or-less continuous decrease in real investment has occurred during the post WW II era.</p>
+<p>In  this series of posts, I intend to show that we are a wealthy nation,  but that our wealth  has been increasingly captured by elite creditors,  who, in my opinion, are strangling the economy by 1) extracting  excessive rents and 2) diverting this wealth to financial tail chasing,  rather than real investment.</p>
+<p><a name="more"></a><u>WHERE THE MONEY HASN&#8217;T GONE </u></p>
+<p>Here is a look at average hourly earnings, the typical income of a working stiff, presented on a log scale.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=4ks"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=4ks" width="400"></a></div>
+<p>Like almost every time series you can imagine, <a href="http://research.stlouisfed.org/fred2/graph/?g=4kt">including GDP</a>,  it exhibits a break near 1980.   The break is always to lower growth.   But, compared to most other data series, this break is especially sharp.</p>
+<p>Hear  is the same series compared to GDP, an approximate measure of the  income of the nation, on a linear scale.  For this graph, each is  normalized to a value of 100 in Q1, 1965.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=4kr"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=4kr" width="400"></a></div>
+<p>While earnings have grown less than 8 times in 47 years, GDP has grown more than 20 times.</p>
+<p>Clearly,  the money has not gone to compensation of the workers whose labor  actually creates the wealth of the nation.  That might explain some of <a href="http://krugman.blogs.nytimes.com/2012/01/12/be-vewy-vewy-quiet/">the alleged envy</a>.</p>
+<p><u>CORPORATE PROFITS</u></p>
+<p>As a first step in  finding where the money has gone, let&#8217;s consider the growth of corporate  after-tax profits since about 1950.  You can see it in <a href="http://research.stlouisfed.org/fred2/graph/?g=4j9">this FRED graph</a>.    It&#8217;s on a log scale, so constant growth would be a straight line.   There are lots of wiggles, but I see an increasing slope over time, and  it&#8217;s not an optical illusion.</p>
+<p>
+<div><a href="http://1.bp.blogspot.com/-0RbG_1gQUYM/Tw3ddKHUaoI/AAAAAAAABvQ/Q_Yy2WdP7TU/s1600/Corp+Profits+Jan+2012.JPG"><img border="0" height="298" src="http://1.bp.blogspot.com/-0RbG_1gQUYM/Tw3ddKHUaoI/AAAAAAAABvQ/Q_Yy2WdP7TU/s400/Corp+Profits+Jan+2012.JPG" width="400"></a></div>
+<p>There  are a lot of ways to parse this.  One is to connect the dip bottoms  with straight lines.  I&#8217;ve done that with alternating red and blue to  show the slope increasing over time.  The problem is selecting which  bottoms to connect.  Some alternate choices are indicated in yellow.   The yellow lines define times of above normal profit growth: 1970 to  1980, 1986 to 1998, and 2001 through 2007.  Each of them leads to a  correction, indicated by a purple line across the top of the decline.</p>
+<p>After  I did all that, it occurred to me to let Excel throw an exponential  best fit line on the data set, and you can see that as well.</p>
+<p>I  see now that I could have included another yellow line from 1961 to  1967.  Notice that with each yellow line, the data set advances above  the exponential best fit line before a sideways correction takes it  below again.  After the correction is complete, profits increase again  until the best fit curve is breached.  Or, they did until now.</p>
+<p>Remember  that on a log scale constant growth rate is represented by a straight  line, and that the growth compounds, so that the underlying increase is  exponential.  Sooner or later, that has to end.  Nothing in the real  word can go to infinity.  Here we see an exponential curve on a log  scale.  This demonstrates an increasing growth rate.  Therefore, the  underlying increase is greater than exponential.  If exponential growth  is unsustainable, what would you say about greater than exponential  growth?</p>
+<p>In fact, the whole trend might now be falling  apart, as the last blue line has a much lower slope.  Also, for the  first time following a correction, profits have stayed below the trend  line, and the gap is increasing.</p>
+<p>To show the extent of  national income capture by corporations, here is a graph of corporate  profits as a percentage of GDP.   I&#8217;ve divided the set into two  segments: 1951 to 1979, and 1980 on, and had Excel place a linear trend  line on each.  This division is somewhat arbitrary, but almost every  economic time series you can find has a break point within a few years  of 1980.  Division between &#8217;79 and &#8217;80 is the least favorable to my  point that Profits/GDP had no trend in the post WW II Golden Age, but  have trended sharply upward during the Great Stagnation period.</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-0DQTBTXwI3M/Tw3lMSmUMDI/AAAAAAAABvY/FMm1xzEdTNE/s1600/Corp+Prof+by+GDP.JPG"><img border="0" height="298" src="http://4.bp.blogspot.com/-0DQTBTXwI3M/Tw3lMSmUMDI/AAAAAAAABvY/FMm1xzEdTNE/s400/Corp+Prof+by+GDP.JPG" width="400"></a></div>
+<p>Profit/GDP  growth was unusually poor from 1980 through 1986.  Then from late 2001  through early 2006 it exhibited the greatest growth ever.  But remember  the denominator effect.  <a href="http://research.stlouisfed.org/fred2/graph/?g=4jc">Nominal GDP growth</a> increased rapidly following the &#8217;80-&#8217;82 double recession; while GDP  growth in this century has been generally slow.  The financial melt-down  of 2008 caused a dip that was sharp and brief, but the rebound has not  gone to a new high.  But even now, in the midst of anemic recovery,  profit/GDP is hovering in the 9 to 10% range, far above historical  norms. </p>
+<p><u>CONCLUSION</u></p>
+<p>The  corporate profit growth picture looks unsustainable, and that is  troubling.  What it means for the future is anybody&#8217;s guess.  But, what  we get from it is the first partial answer to the question, &#8220;Where has  all the money gone?&#8221;</p>
+<p>Gone to profits, everyone.</p>
+<p>A slightly different version is posted at <a href="http://jazzbumpa.blogspot.com/2012/01/where-has-all-money-gone-pt-i-corporate.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/where-has-all-the-money-gone-pt-i-corporate-profits.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Netflix Toasts Itself</title>
+		<link>./../../2011/09/netflix-toasts-itself.html</link>
+		<comments>./../../2011/09/netflix-toasts-itself.html#respond</comments>
+		<pubDate>Mon, 19 Sep 2011 18:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[business]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[movies]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/netflix-toasts-itself.html</guid>
+		<description><![CDATA[I was going to write something about Reed Hastings&#8217;s inane email, but Wired covered the main point, even if they did bury the lede: However, it’s impossible to see how the split itself benefits customers. The price and plan changes that flustered many of them months ago remain in place, but the company now directs [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was going to write something about Reed Hastings&#8217;s inane email, but <em>Wired</em> covered the main point, even if <a href="http://www.wired.com/epicenter/2011/09/netflix-quickster-separate/">they did bury the lede</a>:<br />
+<blockquote>However, it’s impossible to see how the split itself benefits customers. The price and plan changes that flustered many of them months ago remain in place, but the company now directs them to two web sites with two search indexes, two completely separate sets of recommendations, two entries on their credit card statements, and so forth.</p></blockquote>
+<p><a name="more"></a><br />When Erik Loomis (now known as the sane political blogger at LG&#038;M) noted the issues with Netflix splitting the company <a href="http://www.lawyersgunsmoneyblog.com/2011/07/on-netflix">way back in July</a>, there were some objections from the Twitterati that his post didn&#8217;t address any of the reasons Netflix <em>had</em> to make the change,* apparently ignoring that markets have to have both a buyer and a seller to function.  As &#8220;Divorced One Like Bush&#8221; <a href="http://www.angrybearblog.com/2011/09/this-is-reality-of-real-small-business.html">recently noted</a>, there are business strategies you can use, and there are business strategies that work against you.</p>
+<p>But rarely does one see a company deliberately opt for a business strategy that works against them.**</p>
+<p>*One of the more prominent of those is now staunchly defending the company&#8217;s latest CF, but did have the decency to quote a respondent: &#8220;I admire the umbrage your taking on behalf of netflix and their ungrateful customers.&#8221;</p>
+<p>**Well, <a href="http://www.angrybearblog.com/2011/09/this-is-reality-of-real-small-business.html">maybe not so rarely</a>, but at least Tyco management made no secret that it was determined to enrich itself at the expense of the companies it acquired and is now spinning off.</p>
+<p><em>cross-posted from <a href="http://www.angrybearblog.com/xnerg.blogspot.com">Skippy, the Bush Kangaroo</a></em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/netflix-toasts-itself.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Supreme Court rulings and the Roberts Court</title>
+		<link>./../../2010/12/supreme-court-rulings-and-the-roberts-court.html</link>
+		<comments>./../../2010/12/supreme-court-rulings-and-the-roberts-court.html#respond</comments>
+		<pubDate>Tue, 21 Dec 2010 20:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[business]]></category>
+		<category><![CDATA[Supreme court]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/supreme-court-rulings-and-the-roberts-court.html</guid>
+		<description><![CDATA[The NYT makes note of the US chamber of Commerce and litigation: The chamber now files briefs in most major business cases. The side it supported in the last term won 13 of 16 cases. Six of those were decided with a majority vote of five justices, and five of those decisions favored the chamber’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.nytimes.com/2010/12/19/us/19roberts.html?_r=1&#038;partner=rss&#038;emc=rss">The NYT</a> makes note of the US chamber of Commerce and litigation:</p>
+<blockquote><p>The chamber now files briefs in most major business cases. The side it supported in the last term won 13 of 16 cases. Six of those were decided with a majority vote of five justices, and five of those decisions favored the chamber’s side. One of the them was <a href="http://www.law.cornell.edu/supct/html/08-205.ZS.html">Citizens United</a>, in which the chamber successfully <a href="http://www.cuvfec.com/documents/case-08-205/Supplemental_Amicus_Brief_US_Chamber_of_Commerce.pdf">urged</a> the court to guarantee what it called “free corporate speech” by lifting restrictions on campaign spending. <br /><a name="more"></a><br />The chamber’s success rate is but one indication of the Roberts court’s leanings on business issues. A new <a href="http://epstein.law.northwestern.edu/research/RobertsBusiness.html">study</a>, prepared for The New York Times by scholars at Northwestern University and the University of Chicago, analyzed some 1,450 decisions since 1953. It showed that the percentage of business cases on the Supreme Court docket has grown in the Roberts years, as has the percentage of cases won by business interests. </p>
+<p>The Roberts court, which has completed five terms, ruled for business interests 61 percent of the time, compared with 46 percent in the last five years of the court led by Chief Justice William H. Rehnquist, who died in 2005, and 42 percent by all courts since 1953. </p>
+<p>Those differences are statistically significant, the study found. It was prepared by Lee Epstein, a political scientist at Northwestern’s law school; William M. Landes, an economist at the University of Chicago; and Judge Richard A. Posner, who serves on the federal appeals court in Chicago and teaches law at the University of Chicago.</p></blockquote>
+<p><a href="http://1.bp.blogspot.com/_8UVGnCIfOVk/TQ5b_4l9e7I/AAAAAAAAAeg/M5Jn1YffnM8/s1600/roberts-graphic2.jpg"><img src="http://1.bp.blogspot.com/_8UVGnCIfOVk/TQ5b_4l9e7I/AAAAAAAAAeg/M5Jn1YffnM8/s320/roberts-graphic2.jpg" border="0" alt=""></a><br /><a href="http://2.bp.blogspot.com/_8UVGnCIfOVk/TQ5b_shTgMI/AAAAAAAAAeY/jz882BoWvvA/s1600/roberts-graphic.jpg"><img src="http://2.bp.blogspot.com/_8UVGnCIfOVk/TQ5b_shTgMI/AAAAAAAAAeY/jz882BoWvvA/s320/roberts-graphic.jpg" border="0" alt=""></a></p>
+<p>(<s>Dan here:  I am am between flights but must maintain conversation with family or else find new home&#8230;hoping MG can find the link for us</s>) UPDATE: Links added.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/supreme-court-rulings-and-the-roberts-court.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dr. Black asks, AngryBear Answers</title>
+		<link>./../../2009/10/dr-black-asks-angrybear-answers.html</link>
+		<comments>./../../2009/10/dr-black-asks-angrybear-answers.html#respond</comments>
+		<pubDate>Thu, 29 Oct 2009 16:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[business]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[loans]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/dr-black-asks-angrybear-answers.html</guid>
+		<description><![CDATA[The question: How much was credit being funneled away from all other sectors in the economy? The answer: Very little if any. Neither the general consumer lending: nor the specific Real Estate lending: appears to run in a different direction that Business Loans, except possibly, in the latter case, in late 2003 and early 2004. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.eschatonblog.com/2009/10/question.html">The question</a>:<br />
+<blockquote>How much was credit being funneled away from all other sectors in the economy?</p></blockquote>
+<p>The answer: Very little if any.  Neither the general consumer lending:
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SunJGSkTrPI/AAAAAAAAATQ/KIqyBhrYJ0c/s1600-h/consandbusloanchanges.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SunJGSkTrPI/AAAAAAAAATQ/KIqyBhrYJ0c/s400/consandbusloanchanges.JPG" border="0" alt=""></a></p>
+<p>nor the specific Real Estate lending:</p>
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SunJ52E3G_I/AAAAAAAAATY/7sMdnLk3fUc/s1600-h/busandREloanchanges.JPG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SunJ52E3G_I/AAAAAAAAATY/7sMdnLk3fUc/s400/busandREloanchanges.JPG" border="0" alt=""></a></p>
+<p>appears to run in a different direction that Business Loans, except possibly, in the latter case, in late 2003 and early 2004.</p>
+<p>Looking at the absolute numbers, while there is a significant negative correlation with consumer lending for the period, that is more than offset by the significant positive correlation with Real Estate lending over the period.*</p>
+<p>So the statement probably made a good soundbite, but the reality is that all lending generally increased during the peak of the bubble.  There does not appear to be evidence of &#8220;crowding out&#8221; of Business Loans.</p>
+<p>*Real Estate lending for the period averages more than four times greater than consumer lending (2.73 trillion v. 680 billion), so the net result over the period is positive to business lending.</p>
+<p>By contrast, a regression of the changes over the same period and there is virtually no support for the idea; Adjusted R^2 was slightly negative, and the coefficients both include 0 in a 95% confidence interval.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/dr-black-asks-angrybear-answers.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Update: Real world business</title>
+		<link>./../../2009/07/update-real-world-business.html</link>
+		<comments>./../../2009/07/update-real-world-business.html#respond</comments>
+		<pubDate>Fri, 17 Jul 2009 18:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[business]]></category>
+		<category><![CDATA[financialization]]></category>
+		<category><![CDATA[floral business]]></category>
+		<category><![CDATA[flower shop]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/07/update-real-world-business.html</guid>
+		<description><![CDATA[by divorced one like Bush Time for an update on real world business. I posted back in 12/08 about the costs of a flower shop being in a wire service. The costs should matter, as it is what happens when one buys on line from a non-real florist. It is also a lesson as to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by divorced one like Bush</p>
+<p>Time for an update on real world business.  I posted back <a href="http://angrybear.blogspot.com/2008/12/real-world-business-for-economic-buffs.html">in 12/08</a> about the costs of a flower shop being in a wire service.  The costs should matter, as it is what happens when one buys on line from a non-real florist.  It is also a lesson as to what a real small business is dealing with.  Sales are off 25% for the year on top of 8% for last year.</p>
+<p>This morning my sweetie stated that &#8220;they&#8221; are screwing up health care for us.  Her concern was that we would now have to be offering insurance for our employees.  I informed her that the cut off was 25 employees.  We are safe regarding this issue.  Unfortunately, nothing proposed will help with our health care costs (currently $7800for insurance and $4028 out of pocket with an additional $3500 still owed to the hospital and the need for cataract surgery and about $1500 in dental for the daughter).</p>
+<p>So, here is what has happened regarding the wire service aspect of our business.<br />June&#8217;s Teleflora statement.<br />Total value of in and out orders: $974.78</p>
+<p>Processing costs (membership, Dove, Quality program, Sending fee): $301.15<br />Advertising (directory, Co-op): $206.00<br />Publications: $3.75<br />Commissions due (orders in 27%, orders out 80%): $455.46<br />Total paid to Teleflora: $966.36</p>
+<p>Balance of order value &#8211; costs: $8.42</p>
+<p>Total value of orders to be filled: $614.78  That is, I had $8.42 to work with to fill orders that valued $614.78.  In a nutshell, this is how it is that bigger business have via financialization, sucked money up hill from the smaller business.</p>
+<p>Percent of order value out to orders in 59% June 09.  (Year to date: 50%,  Last year to date: 60%)<br />Compared last year to date incoming value down 14%, outgoing value down 42%.</p>
+<p>I can&#8217;t convince the sweetie to drop at least one of the wire services as she sees it as work and thus a cash flow perspective verses an accrual.  Overall regarding our net profit as of the end of the first half of the year, (you know, money in the pocket) on a cash flow basis, we are off 43.9% on an accrual basis we are off 88.1.  Far cry from Goldman Sachs No?  </p>
+<p>And, we are now in the slow period of the flower business cycle.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/07/update-real-world-business.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>UnReal Business Cycle</title>
+		<link>./../../2009/05/unreal-business-cycle.html</link>
+		<comments>./../../2009/05/unreal-business-cycle.html#respond</comments>
+		<pubDate>Fri, 22 May 2009 19:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[economic ideology]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/05/unreal-business-cycle.html</guid>
+		<description><![CDATA[Via Dr. Black, those RBC models may be missing a variable or two: In April, the rate in the United States rose to 8.9 percent. When the European figures are compiled, it seems likely that the American rate will be higher for the first time since Eurostat began compiling the numbers in 1993&#8230;. First, it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a target="_blank" href="http://www.eschatonblog.com/2009/05/stabilization.html">Dr. Black</a>, those RBC models <a target="_blank" href="http://www.nytimes.com/2009/05/23/business/economy/23charts.html?hp">may be missing a variable or two</a>:<br />
+<blockquote>In April, the rate in the United States rose to 8.9 percent. When the European figures are compiled, it seems likely that the American rate will be higher for the first time since Eurostat began compiling the numbers in 1993&#8230;.</p>
+<p>First, it appears that the safety nets in many Western European economies made it easier for people to keep their jobs as the economy declined. In Germany, programs allow companies to get government help in paying workers, for example, keeping them employed. If the recession becomes severe enough and long enough, of course, it could turn out those programs do not so much avoid the pain as defer it.</p></blockquote>
+<p>Because the alternatives are either direct government unemployment benefits on top of a decrease in GDP or a decline in social welfare with generational implications.<br />
+<blockquote>Another factor may be the lack of an economic boom in many European countries, which has left them less vulnerable to recession-related cutbacks.</p></blockquote>
+<p>Ah, pure RBC theory: the seeds of the next recession are sown in the economic growth that preceded it, even if that growth was somewhat enhanced by long-term liabilities:
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/Shb5wrAf9pI/AAAAAAAAASQ/Z2kPhmKbXb8/s1600-h/Fed+and+Hhold+Debt+since+2001.JPG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/Shb5wrAf9pI/AAAAAAAAASQ/Z2kPhmKbXb8/s400/Fed+and+Hhold+Debt+since+2001.JPG" border="0" alt=""></a></p>
+<p>Interesting, not unrelated, notes:</p>
+<blockquote><p>Then, the United States had an unemployment rate of 4.7 percent, lower than all but three of the 15 European Union countries — Denmark, the Netherlands and Ireland — and equal to that of a fourth, Luxembourg.</p>
+<p>As the graphic shows, the March rate for the United States was higher than the rates of 11 of the 15. The exceptions were Portugal, which has the same rate, and Spain, Ireland and France.</p></blockquote>
+<p>The Irish story was truly a country-wide &#8220;<a target="_blank" href="http://conservablogs.com/theconservativecrawfish/2007/05/01/matt-lauer-leaves-out-truth-in-irish-miracle/">miracle</a>,&#8221; now featuring both higher highs and lower lows than even the U.S.<br />
+<blockquote>Spain and Ireland, two of the highest unemployment countries in Western Europe, suffered housing booms and busts that were comparable to the cycle in the United States.</p></blockquote>
+<p>Spanish banks hit the news <a target="_blank" href="http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSLJ8401420090519">earlier this week</a>. U.S. banks are evermore heavily subsidized by the U.S. taxpayer (or that taxpayer&#8217;s debt; see above).  Or, <a target="_blank" href="http://www.amazon.com/Conversations-Economists-Classical-Controversy-Macroeconomics/dp/0865981558/ref=sr_1_7?ie=UTF8&#038;s=books&#038;qid=1243020864&#038;sr=1-7">as Robert Lucas told Arjo Klamer in May of 1982</a>:<br />
+<blockquote>But I don&#8217;t think unemployment is at the center of the story [of the Great Depression]. For those who do think it is the center, I can see why they don&#8217;t look to me for enlightment.</p></blockquote>
+<p>What a difference 27 years makes.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/05/unreal-business-cycle.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Doing Business, World Bank ranking</title>
+		<link>./../../2007/10/doing-business-world-bank-ranking.html</link>
+		<comments>./../../2007/10/doing-business-world-bank-ranking.html#respond</comments>
+		<pubDate>Thu, 04 Oct 2007 15:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[business]]></category>
+		<category><![CDATA[ranking]]></category>
+		<category><![CDATA[world bank]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2007/10/doing-business-world-bank-ranking.html</guid>
+		<description><![CDATA[Just a little break from the usual. Did you know you can pay your taxes easier in Iraq than in the US? I stumbled across this today. It is the World Bank page on Doing Business. It ranks 178 countries on 10 topics. You can resort the order depending on 3 different settings. When you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Just a little break from the usual. Did you know you can pay your taxes easier in Iraq than in the US?</p>
+<p>I stumbled across this today. It is the <a href="http://www.doingbusiness.org/economyrankings/?IncomeId=0">World Bank page on Doing Business</a>. It ranks 178 countries on 10 topics. You can resort the order depending on 3 different settings. When you initially open the page you see the overall order.</p>
+<p>Interestingly, the US with it&#8217;s over all ranking of 3, under ease of paying taxes: 76th. Iraq ranked 37 under this topic and is not even at the bottom over all! It even ranks 40th on registering property. But it is 164th on starting a business and once you start it, you probably can&#8217;t close it as that topic ranks 178 (the bottom).</p>
+<p>Have fun.</p>
+<p>Update: There is a report that goes along with this. <a href="http://rru.worldbank.org/Documents/DoingBusiness/DB-2005-Overview.pdf"> Doing Business in 2005</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2007/10/doing-business-world-bank-ranking.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

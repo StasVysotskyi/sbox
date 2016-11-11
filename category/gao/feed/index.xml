@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GAO &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>2008 Financial Report of the United States</title>
+		<link>./../../2008/12/2008-financial-report-of-the-united-states.html</link>
+		<comments>./../../2008/12/2008-financial-report-of-the-united-states.html#respond</comments>
+		<pubDate>Tue, 23 Dec 2008 05:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GAO]]></category>
+		<category><![CDATA[social security]]></category>
+		<category><![CDATA[united states budget]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/2008-financial-report-of-the-united-states.html</guid>
+		<description><![CDATA[by Bruce Webb 2008 Financial Report of the United States Government (Report) provides the President, Congress, and the American people a comprehensive view of the Federal Government’s finances, i.e., its financial position and condition, its revenues and costs, assets and liabilities, and other obligations and commitments. The Report also discusses important financial issues and significant [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb</p>
+<blockquote><p><a href="http://www.gao.gov/financial/fy2008/08frusg.pdf">2008 Financial Report of the United States Government (Report)</a>  provides the President, Congress, and the American people a comprehensive view of the Federal Government’s finances, i.e., its financial position and condition, its revenues and costs, assets and liabilities, and other obligations and commitments. The Report also discusses important financial issues and significant conditions that may affect future operations.  This year&#8217;s Report gives particular emphasis to two key issues: The Government&#8217;s response in recent months to the financial market crisis, and the Government&#8217;s capacity to sustain the funding and pay the benefits of key social insurance programs, such as Social Security and Medicare.</p></blockquote>
+<p> Andrew Biggs once again tips us off to the release of valuable new Reports at his blog <a href="http://andrewgbiggs.blogspot.com/">Notes on Social Security Reform</a>. As it turns out the link was a little off, but anyone interested in Social Security owes it to themselves to read what Andrew has to say on the topic, if only to get a corrective to what you get here from me and Dale Coberly.</p>
+<p>I have yet to read the Report and at this point in the evening am not likely too, still less comment on it. But here you have the GAOs 194 pg statement on the financial health of the United States including but not limited to Social Security/Medicare. Among other things it helps to understand some of the terminology used in budget discussions. In short this document gives you the economic world as the Bush Administration would have you see it. I present it to you unfiltered.</p>
+<p>See you in comments.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/2008-financial-report-of-the-united-states.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GAO Report on Corporate Tax Liabilities</title>
+		<link>./../../2008/08/gao-report-on-corporate-tax-liabilities.html</link>
+		<comments>./../../2008/08/gao-report-on-corporate-tax-liabilities.html#respond</comments>
+		<pubDate>Wed, 13 Aug 2008 20:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GAO]]></category>
+		<category><![CDATA[taxing corporations]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/08/gao-report-on-corporate-tax-liabilities.html</guid>
+		<description><![CDATA[A new GAO report [PDF] has made some news by reporting that large fractions of both U.S.-controlled and foreign-controlled corporations report no liabilities under the federal corporate income tax. In 2005, 25% of &#8220;large&#8221; U.S.-controlled corporations and 67% of all U.S.-controlled corporations reported no tax liability; foreign-controlled corporations reported no tax liability at roughly similar [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A new <a href="http://www.gao.gov/new.items/d08957.pdf">GAO report</a> [PDF] has made some news by reporting that large fractions of both U.S.-controlled and foreign-controlled corporations report no liabilities under the federal corporate income tax.  In 2005, 25% of &#8220;large&#8221; U.S.-controlled corporations and 67% of all U.S.-controlled corporations reported no tax liability; foreign-controlled corporations reported no tax liability at roughly similar rates (slightly higher overall for GAO&#8217;s study period).</p>
+<p>There can be good reasons for this — some corporations, e.g. startups, may not even manage to earn a gross profit in some periods, and many others may (and do) fail to earn net profits after common deductible expenses such as salaries, depreciation, and interest expenses.</p>
+<p>Since the headline results may nevertheless be incendiary, there&#8217;s been a fair amount of commentary providing bad reasons why the GAO&#8217;s findings might not be problematic.  One non-explanation concerns &#8220;S&#8221; corporations, where corporate income is passed through to shareholders who then pay taxes on the income through the individual tax system:
+</p>
+<blockquote><p>An outside tax expert, Chris Edwards of the libertarian Cato Institute in Washington, said increasing numbers of limited liability corporations and so-called “S” corporations pay taxes under individual tax codes.</p>
+<p>“Half of all business income in the United States now ends up going through the individual tax code,” Edwards said.</p>
+<p>The GAO study did not investigate why corporations weren’t paying federal income taxes or corporate taxes and it did not identify any corporations by name. It said companies may escape paying such taxes due to operating losses or because of tax credits.  [<a href="http://www.commondreams.org/archive/2008/08/12/10949/">Via</a>.]</p>
+</blockquote>
+<p>The GAO&#8217;s analysis encompasses &#8220;S&#8221;-corp returns, which not surprisingly rarely show corporate tax liabilities, but the headline figures are for corporations filing returns for non-pass-through corporate forms.  (Nor are pass-through forms inherently non-problematic.  As David Cay Johnston reported in <i>Perfectly Legal</i>, audit rates for &#8220;S&#8221;-corps are low, and had been reduced amid the 1990s War on Tax Enforcement; there are ways of turning income into corporate expenses  among other things especially when the IRS isn&#8217;t looking too closely.)</p>
+<p>Another bad explanation in reasonable clothing comes from the a Tax Foundation economist quoted by the <a href="http://www.nytimes.com/2008/08/13/business/13tax.html">NYT</a>:
+</p>
+<blockquote><p>Joshua Barro, a staff economist at the Tax Foundation, a conservative research group, said that&#8230; [t]he vast majority of the large corporations that did not pay taxes had net losses&#8230; and thus no income on which to pay taxes. “The notion that there is a large pool of untaxed corporate profits is incorrect.”</p></blockquote>
+<p>The general point that corporations need to have taxable net income to be subject to income tax is correct enough, but not all corporations without taxable income arrive there the same way.  Transfer pricing abuse (paying inflated or deflated prices to related entities for tax avoidance purposes) is a widely acknowledged problem that GAO explicitly did not address in its analysis.  The extent of the problem would not only encompass firms who eliminated their taxable income through transfer pricing abuse, but also firms seeking &#8220;merely&#8221; to shave off the tops of their reported income.  The amount of untaxed corporate profits also depends on the actual, and seemingly considerable, extent of abusive tax-sheltering practices — also beyond the GAO report&#8217;s scope.</p>
+<p>What&#8217;s most grabbing about the report is that for corporations reporting positive gross income but zero taxable income, an opaque &#8220;other deductions&#8221; line is the most common one where zero taxable income is established — about 30% across the board of firm sizes and ownership types (the next &#8220;culprits&#8221; are non-officer employee compensation and interest payments).   That line is below the deductions for rank-and-file wages and salaries, officer compensation, rent, interest, depreciation, and many other common deductible expense items.  So you might take that as a measure of the extent of esoteric tax preferences, loopholes, and other income-avoidance methods in the corporate tax code or maybe otherwise.  It does not obviously help make the case for a healthy corporate tax system.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/08/gao-report-on-corporate-tax-liabilities.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DoD and the GAO</title>
+		<link>./../../2008/03/dod-and-the-gao.html</link>
+		<comments>./../../2008/03/dod-and-the-gao.html#respond</comments>
+		<pubDate>Tue, 11 Mar 2008 20:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[defense spending]]></category>
+		<category><![CDATA[DoD]]></category>
+		<category><![CDATA[GAO]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/dod-and-the-gao.html</guid>
+		<description><![CDATA[CORRESPONDENCEStatus of Selected Aspects of the Coast Guard&#8217;s Deepwater Program. GAO-08-270R, March 11 http://www.gao.gov/cgi-bin/getrpt?GAO-08-270R LETTER REPORTJoint Strike Fighter: Recent Decisions by DOD Add to Program Risks. GAO-08-388, March 11http://www.gao.gov/cgi-bin/getrpt?GAO-08-388Highlights &#8211; http://www.gao.gov/highlights/d08388high.pdf TESTIMONYDefense Management: DOD Needs to Reexamine Its Extensive Reliance on Contractors and Continue to Improve Management and Oversight. GAO-08-572T, March 11http://www.gao.gov/cgi-bin/getrpt?GAO-08-572THighlights &#8211; http://www.gao.gov/highlights/d08572thigh.pdf Joint [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>CORRESPONDENCE<br />Status of Selected Aspects of the Coast Guard&#8217;s Deepwater Program. GAO-08-270R, March 11 <a href="http://www.gao.gov/cgi-bin/getrpt?GAO-08-270R">http://www.gao.gov/cgi-bin/getrpt?GAO-08-270R</a></p>
+<p>LETTER REPORT<br />Joint Strike Fighter: Recent Decisions by DOD Add to Program Risks. GAO-08-388, March 11http://www.gao.gov/cgi-bin/getrpt?GAO-08-388<br />Highlights &#8211; <a href="http://www.gao.gov/highlights/d08388high.pdf">http://www.gao.gov/highlights/d08388high.pdf</a></p>
+<p>TESTIMONY<br />Defense Management: DOD Needs to Reexamine Its Extensive Reliance on Contractors and Continue to Improve Management and Oversight. GAO-08-572T, March 11http://www.gao.gov/cgi-bin/getrpt?GAO-08-572T<br />Highlights &#8211; <a href="http://www.gao.gov/highlights/d08572thigh.pdf">http://www.gao.gov/highlights/d08572thigh.pdf</a></p>
+<p>Joint Strike Fighter: Impact of Recent Decisions on Program Risks. GAO-08-569T, March 11http://www.gao.gov/cgi-bin/getrpt?GAO-08-569T<br />Highlights &#8211; <a href="http://www.gao.gov/highlights/d08569thigh.pdf">http://www.gao.gov/highlights/d08569thigh.pdf</a></p>
+<p>These and other GAO products are available from the &#8220;Reports and Testimonies&#8221;section of GAO&#8217;s Internet site,</p>
+<p>http://www.gao.gov./</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/dod-and-the-gao.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GAO report on the Great Lakes</title>
+		<link>./../../2008/01/gao-report-on-the-great-lakes.html</link>
+		<comments>./../../2008/01/gao-report-on-the-great-lakes.html#respond</comments>
+		<pubDate>Wed, 23 Jan 2008 21:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GAO]]></category>
+		<category><![CDATA[Great Lakes]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[water]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/01/gao-report-on-the-great-lakes.html</guid>
+		<description><![CDATA[The GAO reports on the inability to measure small amounts of toxins in the Great Lakes that can cause harm. The same is true, as described in other posts, for unborns and babies. Is this a worthy function of government to oversee, water and babies being crucial also to us? How would a free market [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.gao.gov/new.items/d08312t.pdf">The GAO</a> reports on the inability to measure small amounts of toxins in the Great Lakes that can cause harm. The same is true, as described in other posts, for unborns and babies.   Is this a worthy function of government to oversee, water and babies being crucial also to us?  How would a free market handle this? </p>
+<p>&#8220;In 1990, following a series of binational agreements aimed at improving<br />environmental conditions in the Great Lakes Basin, the Congress passed<br />the Great Lakes Critical Programs Act. This act, which amended the Clean<br />Water Act, required the Environmental Protection Agency (EPA) to<br />publish water quality guidance on minimum water quality standards and<br />antidegradation policies for protecting existing water quality. In response,<br />in 1995, EPA published the Final Water Quality Guidance for the Great<br />Lakes System, otherwise known as the GLI, to control over 100 toxic<br />pollutants and protect aquatic life, wildlife, and human health. Through the<br />GLI, EPA established stringent water quality criteria—numeric values to<br />be used by states to set pollutant discharge limits for point sources—for 9<br />BCCs and 20 other pollutants found in the basin. In addition, the GLI<br />established methodologies that the states are to use in developing criteria<br />for the remaining pollutants. Meeting the criteria established by GLI<br />requires sensitive analytical methods that allow measurement of pollutant<br />concentrations at or below the level established by GLI water quality<br />&#8230;<br />The ability to accurately and reliably measure pollutant concentrations is<br />vital to successfully implementing GLI water quality criteria. Without this<br />ability, it is difficult for states to determine if a facility’s discharge is<br />exceeding GLI water quality criteria and if a discharge limits are required.<br />For example, because chlordane has a water quality criterion of 0.25<br />nanograms per liter but can only be measured down to a level of 14<br />nanograms per liter, it cannot always be determined if the pollutant is<br />exceeding the criterion. As we reported in 2005, developing the analytical<br />methods needed to measure pollutants at the GLI water quality criteria<br />level is a significant challenge to fully achieving GLI goals. Although<br />methods have been developed for the nine BCCs for which GLI water<br />quality criteria have been established, EPA has only approved the methods<br />to measure mercury and lindane below GLI’s stringent criteria levels.<br />Analytical methods for the other BCCs either have not received EPA<br />approval or cannot be used to reliably measure to GLI criteria levels.<br />criteria.&#8221;</p>
+<blockquote><p>Table 1: Status of BCC Analytical Methods<br /><strong>BCC</strong> Status of method to measure GLI water quality criteria<br /><strong>Chlordane</strong> Measures above the GLI criterion<br /><strong>Dieldrin</strong> Measures above the GLI criterion<br /><strong>DDT</strong> Measures at the GLI criterion but not yet approved by EPAa<br /><strong>Hexachlorobenzene</strong> Measures above the GLI criterion<br /><strong>Lindane </strong>Measures below the GLI criterion and approved by EPA<br /><strong>Mercury</strong> Measures below the GLI criterion and approved by EPA<br /><strong>PCBs</strong> Measures above the GLI criterion<br /><strong>2,3,7,8-TCDD </strong>Measures above the GLI criterion<br /><strong>Toxaphene</strong> Measures above the GLI criterion<br />Source: GAO analysis of EPA information.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/01/gao-report-on-the-great-lakes.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

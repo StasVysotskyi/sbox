@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economic decline &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Debt and Growth</title>
+		<link>./../../2012/10/debt-and-growth.html</link>
+		<comments>./../../2012/10/debt-and-growth.html#respond</comments>
+		<pubDate>Thu, 11 Oct 2012 17:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[debt]]></category>
+		<category><![CDATA[economic decline]]></category>
+		<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[great stagnation]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/debt-and-growth.html</guid>
+		<description><![CDATA[Art at The New Arthurian Economics and I are looking at the relationship between debt and economic growth.  Art started with an observation of two FRED series, total credit market debt owed (TCMDO) and Gross Domestic Product (GDP,  nominal or GDPC1, inflation adjusted &#8211; take your pick.) Graph 1, from FRED, shows these data series.  [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Art at <a href="http://newarthurianeconomics.blogspot.com/">The New Arthurian Economics</a> and I are looking at the relationship between debt and economic  growth.  Art started with an observation of two FRED series, total  credit market debt owed (TCMDO) and Gross Domestic Product (GDP,   nominal or GDPC1, inflation adjusted &#8211; take your pick.)</p>
+<p>Graph 1, from FRED, shows these data series.  I&#8217;ve chosen nominal GDP and, for reference, also included the total Federal Debt.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=bIb"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=bIb" width="400"></a></div>
+<div> Graph 1 TCMDO, GDP and Total Federal Debt</div>
+<p>In  1950, TCMDO was about 1.3 times GDP, but growing a bit more quickly.   By 1980, the ratio was 1.6, and by 1987 it was greater than 2.  Now that  ratio is approaching 4.  Note that TCMDO is also close to 4 times  greater than total public debt.  This is why Art and I agree that  private, not public debt is the problem that needs to be addressed, but  is largely ignored.</p>
+<p>Linked here are Art&#8217;s posts with graphs of YoY growth in both factors, <a href="http://newarthurianeconomics.blogspot.com/2012/10/three-decades-2.html">pre 1980</a> and <a href="http://newarthurianeconomics.blogspot.com/2012/10/three-decades.html">post-1980</a>.   Pre 1980, their moves are similar in magnitude, and pretty well  coordinated. Post 1980 there is still some occasional similarity of  motion, but the coordination breaks down and debt growth is generally  quite a bit higher than GDP growth.  The 80&#8217;s in particular stand out as  being starkly different from the previous period.</p>
+<p>Graph 2 shows the entire data set, since 1952.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=bId"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=bId" width="400"></a></div>
+<div>Graph 2 YoY % Growth in TCMDO and GDP </div>
+<p>These observations led Art to the reasonable hypothesis that, &#8220;Output growth slowed  when debt became excessive.&#8221;  This, in fact, might explain the great stagnation.</p>
+<p>I suggested, and Art accepted two corollaries to his hypothesis.</p>
+<p>1) There is a non-excessive amount of debt.  Let&#8217;s call it &#8220;just right.&#8221;<br />2) Below the &#8220;just right&#8221; amount, there might also be &#8220;not enough.&#8221;</p>
+<p>Actually,  there is a lower level hypothesis, to which Art&#8217;s is corollary:  That  there is a functional relationship between debt and growth, in which  growth is the dependent variable.</p>
+<p>This is what I will explore in this post. </p>
+<p>Graph  3 is a scatter plot of GDP vs TCMDO YoY % change for each, FRED  quarterly data from Q4, 1952 through Q2, 2012, with a best fit straight  line included.</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-ltbCeg6PZGc/UHY4w91szJI/AAAAAAAACAM/VbLR0ePCKS4/s1600/GDP+vs+TCMDO.jpg"><img border="0" height="272" src="http://4.bp.blogspot.com/-ltbCeg6PZGc/UHY4w91szJI/AAAAAAAACAM/VbLR0ePCKS4/s400/GDP+vs+TCMDO.jpg" width="400"></a></div>
+<div>Graph 3 GDP vs TCMDO, YoY % Change</div>
+<p>The  relationship is quite clearly positive.  The R^2 value at .39 is rather  low, but not terrible.  There is quite a bit of scatter in the data.   Note the circle of data points around the left end of the line.  More on  that later.</p>
+<p>Next, I divided the data by decades, frex,  1961-1970.  This admittedly simplistic data parsing reveals that the  slope and R^2 values are strongly variable over time.  Graph 4 shows the  scatter plot along with the slope and R^2 values for each decade.   These data values are arranged in the chart in chronological order and  color matched with the corresponding data points.</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-gZ9PGJtwBss/UHbTvxUjDZI/AAAAAAAACAg/mMeq9Tfd_RQ/s1600/GDP+vs+TCMDO+2.jpg"><img border="0" height="262" src="http://4.bp.blogspot.com/-gZ9PGJtwBss/UHbTvxUjDZI/AAAAAAAACAg/mMeq9Tfd_RQ/s400/GDP+vs+TCMDO+2.jpg" width="400"></a></div>
+<div> Graph 4 GDP vs TCMDO, YoY % Change by Decade</div>
+<p>I&#8217;ve  added a brown line connecting the dots for the first decade of this  century.  The chronology proceeds from a cluster near the center of the  graph into a clockwise circular spiral.</p>
+<p>Graph 5 shows how the slope and R^2 vary over time.</p>
+<div><a href="http://2.bp.blogspot.com/-c90pTkiBAJs/UHbwlp5aIlI/AAAAAAAACA0/jfF0132hGl0/s1600/GDP+vs+TCMDO+Slope+Over+Time.jpg"><img border="0" height="250" src="http://2.bp.blogspot.com/-c90pTkiBAJs/UHbwlp5aIlI/AAAAAAAACA0/jfF0132hGl0/s400/GDP+vs+TCMDO+Slope+Over+Time.jpg" width="400"></a></div>
+<div> Graph 5 Slope and R^2 Over Time for GDP vs TCMDO</div>
+<p>After  the 60&#8217;s, the slope plummets, and by the 80&#8217;s R^2 is a laughable  0.035.  Though the slope has remained low, R^2 has since recovered to  0.38, which is near the whole data set value of 0.39, and only slightly  less than the 0.40 to 0.44 of the first three decades.</p>
+<p>The  slope changes can be interpreted as generally less GDP bang for the  TCMDO buck, as the TCMDO/GDP ratio increases.  This is totally  consistent with Art&#8217;s hypothesis.</p>
+<p>I have more to say about the GDP -TCMDO relationship, but this post is getting long, so I&#8217;ll save it for a follow-up.</p>
+<p>For now, I&#8217;ll close with a few questions.</p>
+<p>1) Do you think we&#8217;re on to something?<br />2) What do you think of the methodology?<br />3) &#8220;Excessive debt&#8221; is suggestive, but non-specific.  How should this concept be quantized?<br />4) How should I go at exploring corollaries 1 and 2 mentioned after Graph 2?<br />5) Any thoughts on what was there about the 80&#8217;s that blew up the prior debt &#8211; GDP relationship?<br />6) Is there such a thing as productive vs non-productive debt, and how would they be characterized?</p>
+<p>I look forward to your constructive comments.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/debt-and-growth.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It&#8217;s Not that the White House Lies Even to Itself&#8230;</title>
+		<link>./../../2011/08/its-not-that-the-white-house-lies-even-to-itself.html</link>
+		<comments>./../../2011/08/its-not-that-the-white-house-lies-even-to-itself.html#respond</comments>
+		<pubDate>Thu, 04 Aug 2011 17:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic decline]]></category>
+		<category><![CDATA[human capital]]></category>
+		<category><![CDATA[Obama]]></category>
+		<category><![CDATA[Politics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/its-not-that-the-white-house-lies-even-to-itself.html</guid>
+		<description><![CDATA[It&#8217;s that they are so bad at it. At least they made clear that Glenn Greenwald was correct when he said the deal is exactly what Obama wanted: Fact: President Obama laid out key priorities that had to be part of any deal. Those priorities are reflected in this compromise.&#8230;the initial down payment on deficit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s that they are so <em>bad</em> at it.</p>
+<p>At least they made clear that <a href="http://www.salon.com/news/opinion/glenn_greenwald/2011/08/01/debt_ceiling/index.html">Glenn Greenwald was correct</a> when he said the deal is <a href="http://www.whitehouse.gov/blog/2011/08/03/myths-and-facts-about-debt-ceiling-compromise">exactly what Obama wanted</a>:<br />
+<blockquote><strong>Fact: President Obama laid out key priorities that had to be part of any deal. Those priorities are reflected in this compromise.</strong>&#8230;the initial down payment on deficit reductions does not cut low-income and safety-net programs such as Medicare, Medicaid, and Social Security. Third, we set up a path forward that will put pressure on Congress to adopt a balanced approach. And finally, we raised the debt ceiling until 2013, ensuring that House Republicans could not use the threat of default in just a few months to force severe cuts in Social Security, Medicare, and Medicaid. [emphasis theirs]</p></blockquote>
+<p>Uh, yeah, about that &#8220;<a href="http://www.lawyersgunsmoneyblog.com/2011/08/nobody-could-have-predicted-4">we protect Medicare shtick</a>.&#8221; Maybe you should try actually saying that <em>in public</em>, or <em>in negotiations</em>.</p>
+<p>And they play with straw men:<br />
+<blockquote><strong>when push came to shove, Republicans backed down on their key demands.</strong> For months, Republicans called for a budget that would have ended Medicare as we know it, made catastrophic cuts to Medicaid, or cut investments in education by 25 percent, clean energy by 70 percent and infrastructure spending by 30 percent. As if that wasn’t enough, they also demanded that we repeat this debt-ceiling crisis, just a few months from now.</p></blockquote>
+<p>Gosh, I feel so &#8220;protected&#8221; now. Instead, the White House agreed to cut <a href="http://money.cnn.com/2011/08/01/news/economy/debt_ceiling_students/index.htm">education</a> <a href="http://www.businessweek.com/ap/financialnews/D9OSOUMO0.htm">loans</a>, <a href="http://www.guardian.co.uk/commentisfree/cifamerica/2011/aug/03/epa-republicans-tea-party">sidebarred the EPA discussion until they can lose that</a> (h/t Mark Thoma) (having already <a href="http://www.nytimes.com/2010/03/26/science/earth/26climate.html">surrendered on a &#8220;market-based&#8221; energy solution</a>), and had Goolsbee lying to Jon Stewart last night about how there will be a <a href="http://www.thedailyshow.com/watch/wed-august-3-2011/exclusive---austan-goolsbee-extended-interview-pt--2?xrs=share_copy">National Infrastructure Alliance</a> that will <a href="http://research.stlouisfed.org/fredgraph.png?g=1pm">work in the same manner as TARP</a>.</p>
+<p>With friends like this, who needs enemies?</p>
+<p>In a related aside, <a href="http://www.lawyersgunsmoneyblog.com/2011/08/but-the-confidence-fairy-the-bond-vigilantes">Dow 3,600</a> anyone?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/its-not-that-the-white-house-lies-even-to-itself.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A fable: The Guitar Player who sold his gear or, Bruce Henderson vs. Gordon Moore</title>
+		<link>./../../2009/09/a-fable-the-guitar-player-who-sold-his-gear-or-bruce-henderson-vs-gordon-moore.html</link>
+		<comments>./../../2009/09/a-fable-the-guitar-player-who-sold-his-gear-or-bruce-henderson-vs-gordon-moore.html#respond</comments>
+		<pubDate>Sun, 13 Sep 2009 20:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic decline]]></category>
+		<category><![CDATA[economic development]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[outsourcing]]></category>
+		<category><![CDATA[Richard J. Elkus Jr.]]></category>
+		<category><![CDATA[trade policy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/a-fable-the-guitar-player-who-sold-his-gear-or-bruce-henderson-vs-gordon-moore.html</guid>
+		<description><![CDATA[by divorced one like Bush Gather all around the camp fire and enjoy your marsh mellow toasting as I tell you the fable of the “The Guitar Player who sold his gear”. Long ago in a far away land of rock and roll there was a young man who played well. Not great, wasn&#8217;t going [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by divorced one like Bush</p>
+<p><em>Gather all around the camp fire and enjoy your marsh mellow toasting as I tell you the fable of the “The Guitar Player who sold his gear”.  Long ago in a far away land of rock and roll there was a young man who played well.  Not great, wasn&#8217;t going to necessarily be a guitar hero, but who knows?  He had the gear, the amp to make your ears ring for days, the gold top Les Paul, couple pedals, cables&#8230;all he needed.  And he played.  Jammed, earned some money on the side.  Life was good.  But, along came another desire.  He needed some money and the playing was becoming less as life with the loved one became more.  So, he sold it.  All of it.  He had maybe $1 thousand in gear.  He got $500 for it.  It seemed good at the time.  He had gotten his use of it all, made some bucks but it really was just money sitting there it seemed.  </p>
+<p>A few years pass, the kids grow up and the man has some spare time.  He has been dabbling on a folk guitar for years, so when he hears that a friend is jamming on Thursday nights, he gets an urge.  That potential just sitting there to be tapped, but&#8230;no gear.  No problem, he&#8217;ll just buy some.  The only problem is, when he first goes to practice and sees the friends  2 Les Pauls and a jazz box, 2 ear killing amps and bottoms, a full board of pedals worth what he sold his gear for, he wonders how the friend did it and thus how is he going to do it.  It was thousands in gear.  The friend answers: I never sell any of my music equipment because it is part of my life activities, it makes me who I am, it helps me think and you never know what will come up for an opportunity.</em></p>
+<p>Such a fable is common among those who used to play music.</p>
+<p>I have written at AB that my thoughts about when the flash point was for our change to a focus on making money from money was the first Reagan election.  I do believe this is the case however, having finished reading Richard J Elkus&#8217; book, <em><strong>Winner Take All</strong></em>, I now have learned of a perspective as to why it flashed and why we are bailing out finance with more money and fewer questions than bailing out the auto industry.  I also see just how back ass-ward this bailing out concern is.</p>
+<p>You see, the thought that the purpose of business is to make money was not always the winner in the argument.  The argument has been back and forth for ages.  It is part of the class war.  In fact, there was a movie in 1954 with William Holden looking at this issue called <a href="http://www.tcm.com/tcmdb/title.jsp?stid=3001">Executive Suite</a>. <br />
+<blockquote>&#8230;McDonald Walling, who oversees the company&#8217;s manufacturing plant and is preparing to test a new molding process&#8230; process did not go well in his absence. On the way home, he complains to his wife Mary that financial analyst Loren Phineas Shaw focuses on the bottom line at the expense of the company&#8217;s creativity&#8230;McDonald speaks passionately about the company, condemning Shaw&#8217;s short-sighted emphasis on quick profits as &#8220;a lack of faith in the future.&#8221; After McDonald outlines his vision for restoring the company to its former high standards, the board unanimously elects him president.</p></blockquote>
+<p>We have not always thought that the purpose of business is just to make money.</p>
+<p>Mr. Elkus&#8217; (MBA) thesis is that in the 60&#8217;s, two laws of economic process were formalized and presented that were the guiding thoughts influencing economic development.  Both lines of thinking came from viewing the same show: semiconductors.  One is by Mr. Bruce Henderson (engineer and MBA degrees) the other by Mr. Gordon Moore (PhD chemistry).  Both addressed the relationship of costs and production.  I note the degrees of each just as a curiosity.  </p>
+<p>Mr. Henderson, watching Texas Instrument, came up with the <a href="http://en.wikipedia.org/wiki/Experience_curve_effects">Experience Curve</a>.  In it&#8217;s simplest form it states that unit cost goes down over time as experience increases.</p>
+<p>But, this was just the bases for a broader concept, a “strategy” for guiding business development: <a href="http://en.wikipedia.org/wiki/Growth-share_matrix">Stars, Cash Cows and Dogs</a>.<br />
+<blockquote>As a particular industry matures and its growth slows, all business units become either cash cows or dogs. The natural cycle for most business units is that they start as question marks, then turn into stars. Eventually the market stops growing thus the business unit becomes a cash cow. At the end of the cycle the cash cow turns into a dog.</p>
+<p>The overall goal of this ranking was to help corporate analysts decide which of their business units to fund, and how much; and which units to sell.</p></blockquote>
+<p>This was and appears to still be a very big concept.  Big as in influential.  Via Wiki:<br />
+<blockquote>The Economist magazine stated that Henderson did more to change the way business is done in the United States than any other man in American business history. Well known to many now is the famous Growth Share Matrix (&#8216;cash cow&#8217;) and the &#8216;Experience curve&#8217;. His books were published in 27 languages.</p></blockquote>
+<p>Huge influence.  Taught throughout our business schools according to Mr. Elkus and Wiki.  Came about in 1970.  </p>
+<p>Mr. Moore, being a founder of semiconductor manufacturing businesses, namely Intel, came up with <a href="http://en.wikipedia.org/wiki/Moore's_law">Moore&#8217;s Law</a>.  In it&#8217;s simplest form, it states that there would be <em>“a doubling  of computing power per given area of silicon every year at basically the same cost&#8230;”</em>  <br />Mr. Elkus&#8217;s thesis is that both describe models, ultimately truths regarding making money.  Both are used as strategies for basing an economy upon.  Only one is truly sustainable and makes all of America&#8217;s dreams possible.  Japan picked that one.   </p>
+<p>He comes to this by way of his involvement with Ampex.  Ampex owned video recording <em>“&#8230;controlling nearly 100 percent of the world&#8217;s video recording patents and more than 70 % of the market”</em>.  Mr. Elkus literally introduced the first video recorder for home use, September 2, 1970 in NY.  In the next few days, Ampex stock climbed 50%.  Only one VP attended, no other top/senior management.  <em>“It was not a good sign.”</em>  His lesson from the event: <em>“The introduction of Instavideo set in motion a long chain of events, resulting not only in the explosion of consumer electronics into nearly every facet of daily life but in a global shift in economic power to Asia.”</em></p>
+<p>In the same year, he saw a presentation of high definition video by Japan&#8217;s  “primary” broadcasting company, NHK.  It is at this point in the story Mr. Elkus relays the concept of convergence of technology.  The ability to record video on a consumer level scale represented the ability to store and process massive amounts of data.  This ability converging with digital video presentation meant that the entire information economy would be exponentially growing based on Moore&#8217;s Law.  Mr. Henderson&#8217;s potential Star.  Moore&#8217;s law also meant that as the ability to process ever larger amounts of data on ever smaller media, the cost would be ever greater.  Mr. Henderson&#8217;s potential Dog.  What to do?</p>
+<p>Mr. Elkus knew Ampex needed a partner that could take the technology to the consumer.  Coming up with the technology, he recognized is only part of the expertise and cost, the other is the ability to manufacture it such that technology, in short, is dummy proof in the hands of the consumer.  It is an ability all of it&#8217;s own.  Mr. Elkus wanted Magnavox or Motorola as partners; keep it in the country.  The boss said no, feared competition so went with Toshiba.  This gets us to the next part of Mr. Elkus&#8217; thesis: Infrastructure.  Which gets to the final cog in the process: investment.</p>
+<p>Using his experience with Ampex&#8217;s Instavideo, Mr. Elkus presents the counter to Mr. Henderson&#8217;s Stars, Cash Cow&#8217;s and Dogs:  Investment, Convergence and Infrastructure.  A relational model that follows the production law of Moore.  </p>
+<p>What the thesis of Investment, Convergence and Infrastructure means to a nation is presented in the tracing of the loss of our manufacturing base to initially Japan and ultimately to all of Asia.  It is the counter to Mr. Henderson&#8217;s model which is basically just focusing on the money.  It is the movie Executive Suite for real only for us, the story ending is looking different.  </p>
+<p>The relationship of Investment, Convergence and Infrastructure is presented early in the book via Zenith.  There was a fight for control of the board as reported by the <a href="http://www.nytimes.com/1988/11/24/business/company-news-zenith-criticizes-dissident-group.html">AP 11/1988</a>.  A couple Wall Streeters wanted Zenith to dump the <em>“money-losing television business”.  </em>The dog.  The article also noted: <em>“for an outsider, jumping into the TV business would be like trying to hop onto a speeding train&#8230;”</em> In the end, Zenith a company that <em>“helped establish the standards for high definition television in the US,&#8230; contributing significant technology for the potential development of the industry”</em> was gone by 1996 to LG of Korea <em>“for a fraction of what it now costs to build a single display manufacturing facility”.  </em>We lost our infrastructure and thus the advantage of economic growth based on convergence and all the knowledge that is the result there of because of our focus on cash flow as the bases for deciding on where to invest.  </p>
+<p>Using a simpler example:<br />
+<blockquote>In 1964, one year before Gordon Moore wrote his prophetic article, semiconductor sales reached $1 billion.  Today sales are in excess of $260 billion, it is projected that in a dozen years the number may reach $1 trillion.  And growth in revenue has occurred while prices have dropped at an average compound rate of 29 % annually&#8230;But that is really chump change when you realize that $260 billion of silicon makes possible a $2 trillion electronic systems industry today&#8230;So it is possible to imagine an electronic systems market  approaching $4 trillion to $5 trillion in the next twelve to fifteen years—an amount equal to the current GDP of Japan&#8230;</p></blockquote>
+<p>The error of US having followed Henderson, which if I understand Elkus properly, I conclude has lead to NAFTA, outsourcing jobs and ultimately the fight over whether to save our auto industry (which I noted is the last “infrastructure” we have that uses “convergence” via “investment”) verses little questioning to save the banks is summarized thusly:<br />
+<blockquote>The common denominator driving the world of information and its communications infrastructure was the need to store, process  and distribute extraordinary amounts of digital information.  [Store = Ampex.  Process = Intel.  Distribute = Zenith.]  If one understands HDTV as the result of learning how to process massive amounts of digital information, as both a convergence and catalyst in the digital revolution, then it should be easy to see that the need to process that information is not limited to the HDTV display and a pretty picture&#8230;. </p></blockquote>
+<p>It now costs upward of $10 billion to build just one semiconductor manufacturing plant.  $3 billion to build a single display fabrication facility.  Zenith was sold for $350 million.  Based on <a href="http://www.measuringworth.com/calculators/compare/">Measuring Worth</a>, 1996 to 2008 these money minds following Henderson, sold Zenith for 1/6th the cost required to build just one display panel plant in 2008.  This number differential is the total fallacy in Henderson.  How do you know?  How do you know what really is the next big thing?  How can you be sure that nothing else will come of what you have?  It is the &#8220;The Guitar Player&#8221;.  But worst of all as shown in the example of selling Zenith, is just how short sighted Henderson&#8217;s thinking and thus American business thinking is in general.  If I may, Henderson&#8217;s thinking is analogous to watching your rear view mirror while driving forward as you decide whether to turn or drive straight.  Henderson&#8217;s thinking is the point of thought that began the money from money economy.  It is the thought that lead us to a purposeless existence of no substance because it leaves unanswered the question of why do we want to earn money or create wealth, for what purpose.  </p>
+<p>Mr. Elkus gave a <a href="http://fora.tv/2008/09/03/Richard_Elkus_Competitiveness_Shapes_the_Fate_of_Nations">talk at The Commonwealth Club</a> in California on 9/3/08.  It covers a time line of what he is writes in his book.  It is one hour long, but well worth the time, especially <a href="http://fora.tv/2008/09/03/Richard_Elkus_Competitiveness_Shapes_the_Fate_of_Nations#chapter_15">the question at the end</a> regarding Apple&#8217;s business arrangement regarding it&#8217;s Iphone as the questioner brings up “competitive advantage” and money from royalties.  You know, that information/service economy model that has gotten us to the point that the biggest service sector (finance) took down the economy and the next largest is unaffordable(health care).</p>
+<p>The most profound comment by Mr. Elkus during this lecture is: <strong><em>If you don&#8217;t have the infrastructure, then you don&#8217;t know what&#8217;s possible.</em></strong></p>
+<p>How far reaching is this persepctive of Investment, Convergence and Infrastructure?  Mr. Elkus suggests that even our <a href="http://www.theglobalist.com/StoryId.aspx?StoryId=7285">education system</a> is influenced by it.<br />
+<blockquote>When a nation’s politics and economics fall out of step with its education system, the cost of reengagement is extraordinarily high. </p>
+<p>Therefore any attempt to explain the plight of education in America must look first at the country’s current political and economic attitudes. They are directly linked. </p>
+<p>Eventually, because of the exponential acceleration in convergence, infrastructure, and investment, there’s a cascading effect, and the loss of one industry begins to threaten the stability of others. </p>
+<p>These events are noticed by the educational community, which must provide a measure of career guidance for its student population and thus looks to political, economic, and business leaders for answers.</p></blockquote>
+<p>We have Intel fortunately, but we don&#8217;t have the infrastructure of Zenith which would have been using Intels output to market Ampex&#8217;s technology which lead to the Iphone.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/a-fable-the-guitar-player-who-sold-his-gear-or-bruce-henderson-vs-gordon-moore.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The disconnect of my economy with the money economy</title>
+		<link>./../../2009/04/the-disconnect-of-my-economy-with-the-money-economy.html</link>
+		<comments>./../../2009/04/the-disconnect-of-my-economy-with-the-money-economy.html#respond</comments>
+		<pubDate>Mon, 27 Apr 2009 22:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[crisis]]></category>
+		<category><![CDATA[Dow]]></category>
+		<category><![CDATA[economic decline]]></category>
+		<category><![CDATA[Stock Market]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/the-disconnect-of-my-economy-with-the-money-economy.html</guid>
+		<description><![CDATA[by Divorced one like Bush The Yahoo Financial page has had this headline from the AP up for a while today:Top StoriesInvestors are cautious as swine flu cases increase- APThis is the first line: The swine flu gave Wall Street a reason to turn cautious. The Dow Jones industrial average gave up a midday recovery [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Divorced one like Bush</p>
+<p>The Yahoo Financial page has had this headline from the AP up for a while today:<br />Top Stories<br /><strong>Investors are cautious as swine flu cases increase- AP</strong><br />This is the first line:<br />
+<blockquote>The swine flu gave Wall Street a reason to turn cautious.  The Dow Jones industrial average gave up a midday recovery and retreated about 0.6 percent Monday as the swine flu&#8217;s death count in Mexico grew to about 150 people from 100.</p></blockquote>
+<p> Really?  Swine flu is the reason one should be getting out of the market.  Not any of these:<br /><strong>Whirlpool 1Q profit drops on weakening demand</strong>  &#8211; 1 hour, 4 minutes ago<br />&#8211; AP<br />
+<blockquote>Whirlpool Corp., the world&#8217;s largest maker of stoves, refrigerators and other major home appliances, said Monday its <strong>first-quarter profit fell 28 percent</strong> on slumping sales, softening consumer demand and the stronger dollar. </p></blockquote>
+<p><strong>Boeing CEO calls slump &#8216;once-in-a-lifetime&#8217; event</strong> &#8211; AP &#8211; 1 hour, 5 minutes ago<br />
+<blockquote>Boeing Co. Chairman and Chief Executive Jim McNerney assured shareholders Monday that the company is in strong shape to ride out the &#8220;once-in-a-lifetime&#8221; <strong>downturn that has walloped its profits</strong>, jetliner orders and stock price.</p></blockquote>
+<p><strong>GM to cut 21,000 US factory jobs, shed Pontiac</strong> &#8211; AP &#8211; 2 hours, 39 minutes ago<br />
+<blockquote>General Motors Corp. could be majority owned by the federal government under a massive restructuring plan laid out Monday that <strong>will cut 21,000 U.S. factory jobs</strong> by next year and phase out the storied Pontiac brand.</p></blockquote>
+<p>Or this from a few days ago:<br /><strong><a href="http://www.progressiverailroading.com/news/article.asp?id=20192">Retail import volume at U.S. container ports </a>to decline at least through summer, report says</strong><br />
+<blockquote>Import cargo volume at major U.S. retail container ports fell again in March after dropping below the 1 million twenty-foot-equivalent (TEU) mark in February, <strong>the first time in seven years the total had fallen that low</strong>. And the volume declines should continue for at least a few more months, according to an IHS Global Insight-National Retail Federation (NRF) report issued Wednesday.</p>
+<p>U.S. ports will handle an estimated 987,371 TEUs in April, <strong>which would represent a 22 percent drop compared with the same 2008 period</strong>, after handling an estimated 930,142 TEUs in March, a 19.7 percent decline compared with March 2008’s total, according to the IHS Global Insight-NRF monthly Port Tracker report.</p></blockquote>
+<p>Swine flue is what&#8217;s doing it for you hey?  Not that workers are being shed, profits are down, container traffic is down.  I mean come-on, what could a company not making a profit or selling less stuff while shedding jobs in a down economy that was 70% consumer driven have to do with you making money off of their stock.  Nothing I guess.</p>
+<p>Nothing has changed.  There are still two economies and only one of them is a concern.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/the-disconnect-of-my-economy-with-the-money-economy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Larger, greater than expected&#8230;Declines</title>
+		<link>./../../2008/10/larger-greater-than-expected-declines.html</link>
+		<comments>./../../2008/10/larger-greater-than-expected-declines.html#respond</comments>
+		<pubDate>Sun, 19 Oct 2008 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[analysis]]></category>
+		<category><![CDATA[economic decline]]></category>
+		<category><![CDATA[unexpected decline]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/larger-greater-than-expected-declines.html</guid>
+		<description><![CDATA[by Divorced one like Bush US Initial jobless claims decline larger than expected in May 31 week (6/5/08) Mortgage finance giant suffers much larger-than-expected loss due to reserves for credit losses and slashes its dividend to preserve capital. (8/8/08) Factory orders decline more than expected in August (10/2/08) Retail sales for September posted its steepest [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Divorced one like Bush</p>
+<p>US <a href="http://www.fxstreet.com/news/forex-news/article.aspx?StoryId=f8fb1a00-153a-4bbd-bb8e-dc170a0de231">Initial jobless claims </a><strong>decline larger</strong> than expected in May 31 week  (6/5/08)</p>
+<p><a href="http://money.cnn.com/2008/08/08/news/companies/fannie_results/index.htm">Mortgage finance giant</a> suffers much <strong>larger-than-expected </strong>loss due to reserves for credit losses and slashes its dividend to preserve capital.  (8/8/08)</p>
+<p><a href="http://www.ibtimes.com/articles/20081002/factory-orders-decline-more-than-expected-in-august.htm">Factory orders</a> <strong>decline more than expected </strong>in August (10/2/08)</p>
+<p><a href="http://forexroom.wordpress.com/2008/10/16/recession-fears-buoy-jpy/">Retail sales </a>for September posted its steepest fall in 3 years, down by 1.2%, <strong>larger than the expected 0.7% decline</strong>&#8230;The New York Fed manufacturing index plunged to a record low for October, <strong>sharply worse than expectations </strong>to -24.62&#8230;Meanwhile producer prices climbed <strong>higher than forcast</strong>&#8230;(10/16/08)</p>
+<p>The University of Michigan <a href="http://forexroom.wordpress.com/2008/10/18/us-data-slumps-fx-calms/">consumer sentiment </a>survey posted its steepest drop on record, collapsing <strong>far more than expected </strong>to 57.7 in October&#8230; (10/18/08)</p>
+<p>A <strong>larger than expected decline </strong>in <a href="http://www.livenews.com.au/Articles/2008/09/30/Decline_in_building_approvals_bigger_than_expected">building approvals</a> reflects continued investor caution due to high interest rates, economists say. (Australia, 9/30/08. )</p>
+<p>So, what does it say when we read headlines that start with “Larger than expected decline”?   Really.</p>
+<p>What world, because it is a world phenomenon as shown with the Australia opening news line, are these people living in such that what they read in the data surprises them?   Should we not be concerned that those who are being relied on to manage our economy have not expected what they are now seeing?   Reading  many articles starting off with that phrase “Larger” or “bigger” or “greater” “than expected decline” does not bode well for all the analysis that has been relied on by the managers (would this include investors?) of our economy.   I mean, I posted here in comments some time ago that my flower shop has been seeing a steady decline since August 1996.   I noted when the first quarter reports for this year came out, based on my flower shop, that we would see some good numbers, but it would only be a burp of pent up desire to spend and should not be considered positive because of the major drop in April and May (usually one of the largest months for flowers).  </p>
+<p>Do you remember the commentary on how the rising oil prices would not hurt the economy because it was still “relatively” cheap?   Was the talk that if oil got back down to $70/barrel then we would know the pricing was speculation?   Well?   What, are we not concerned now to know if the oil price rise was speculation or not?   Or is this another “larger than expected decline”?    </p>
+<p>Yet, here we are reading commentary that, if we are honest and real, should be giving us great pause as congress formulates policy.   Such commentary of surprise as numbers are reported should be raising questions such as: Are we monitoring relevant data for our purpose?   Are our theories of what is significant regarding our economic intent valid?   Is the data an accurate description of what is happening in our economy?   And, the most basic: Why are we surprised?  Why were our expectations wrong?   Should we be looking for a different school of economic thought than the one that has dominated?   (Some time ago, here in RIland an economist from URI thought that tolls collected for the Newport Bridge was a good indicator for our state economy.   He found that he was correct.)  </p>
+<p><strong>Is now the time to broaden the discussion or are we going to wait for more unexpected surprises?</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/larger-greater-than-expected-declines.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

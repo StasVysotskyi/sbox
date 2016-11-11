@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>credit cards &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Hoisted from the Economics Literature: Credit Card Pricing and Market Failures</title>
+		<link>./../../2009/05/hoisted-from-the-economics-literature-credit-card-pricing-and-market-failures.html</link>
+		<comments>./../../2009/05/hoisted-from-the-economics-literature-credit-card-pricing-and-market-failures.html#respond</comments>
+		<pubDate>Wed, 27 May 2009 11:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit cards]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/05/hoisted-from-the-economics-literature-credit-card-pricing-and-market-failures.html</guid>
+		<description><![CDATA[by Tom Bozzo Mike at Rortybomb tries to make some sense of the apparently negative option value of revolving credit card debt and is left scratching his head: Now interfluidity points out that people are willing to pay a yearly fee for a transaction card – let’s say $100. Now if you are a business [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo</p>
+<p>Mike at Rortybomb tries to make some sense of the <a href="http://rortybomb.wordpress.com/2009/05/24/credit-card-reform-more-thoughts-on-rates/">apparently negative option value</a> of revolving credit card debt and is left scratching his head:<br />
+<blockquote>Now interfluidity points out that people are willing to pay a yearly fee for a transaction card – let’s say $100. Now if you are a business and get a revolving line of debt, you are going to have to pay significant fees to keep it. And since the “revolving debt” option of a credit card is an option you choose to exercise, a credit card should cost more to have than a transaction card. Checking my mailbox, there are a lot of credit card offers with no yearly fees. In fact, they are incredibly rare. So:</p>
+<p>Transaction Card + Option to Revolving Transactional Debt = Credit Card<br />($100) + ($?) <br />There&#8217;s actually an old but pretty good paper bearing on this very subject: &#8220;The Failure of Competition in the Credit Card Market&#8221; by Larry Ausubel (American Economic Review, March 1991; pdf kindly provided by the author <a href="http://www.ausubel.com/creditcard-papers/aerlow.pdf">here</a>).  From the abstract:<br />
+<blockquote>The failure of the competitive model appears to be partly attributable to consumers making credit card choices without taking account of the very high probability that they will pay interest on their outstanding balances.</p></blockquote>
+<p>In short, the option value of revolving may be negative because banks correctly regard &#8220;freeloaders&#8221; who pay their bills as likely to reveal their inner revolver.</p>
+<p>More below the jump.</p>
+<p>Ausubel was writing before a lot of industry consolidation — and before the industry got around to sending billions of pieces of mail a year dangling low switching costs before consumers (temporarily juicing the finances of the U.S. Postal Service; another story).  He conducted a survey of credit card issuers that strongly suggested that individuals lie when asked by other surveys whether they revolve their balances.  Shocking, I know.  The wrinkle of credit-card users underestimating the probability that they&#8217;ll pay significant finance charges after low-transaction-cost balance transfers with low teaser rates is not at all a major leap.</p>
+<p>Ausubel in fact anticipated many of the credit card features that the recently-passed legislation seeks to rein in:<br />
+<blockquote>Banks only face adverse selection [i.e. having customers who are bad credit risks select into their products] when they compete on the credit-sensitive portions of prices; they do not&#8230; when they unilaterally improve the terms facing customers [who do not revolve].  This would seem to be a powerful explanation why essentially all large issuers offer a&#8230; grace period&#8230; hardly ever impose transaction charges&#8230; small&#8230; annual fees&#8230; At the same time, issuers may install punitive prices for bad credit risks.</p></blockquote>
+<p>So non-revolvers are more-or-less rationally insensitive to pricing terms because they don&#8217;t anticipate being subject to the array of interest rates and/or punitive fees.  The information asymmetry for everyone else suggests a couple of outcomes: the old-style world where almost every revolver pays 19.8 percent interest — the &#8220;sticky rate&#8221; world that was Ausubel&#8217;s main focus — or the present one where there is (or was) more interest rate competition but banks defend their profits from bad credit risks through stiff fees and penalty rates.  (A more recent working paper [<a href="http://www.ausubel.com/creditcard-papers/ausubel-dawsey-penalty-interest-rates.pdf">pdf</a>] also implicates competition to collect from borrowers with increased default risk as an additional motivator for universal default and other repricing terms.)</p>
+<p>This does suggest that a possible outcome is that responsible revolvers will pay somewhat higher average interest rates, which is not obviously a bad thing if they get a lower variance of rates and fees in return.  Poor risks could be denied credit at the margin, though a feature of the old-style market was that plenty of cards were issued (maybe to people with thin credit histories more than poor ones) with relatively low credit lines.</p>
+<p>Meanwhile transactional users are unlikely to get screwed.  As <a href="http://rortybomb.wordpress.com/2009/05/22/credit-card-reform-will-my-rewards-disappear/">Rortybomb&#8217;s Mike observes in another post</a>, fee waivers and rewards are not really subsidized, at least for that group on average. Looking back to the original model for the credit card industry&#8217;s excess profits, encouraging transactional users to give up credit cards for debit cards or transactional-credit cards would additionally reduce the probability of converting those users to occasional revolvers and kill off a nontrivial source of profit.</p>
+<p>Mike also makes the excellent point that in an apparent failure of competition, interchange fees have been at best nondecreasing even as interchange costs surely have decreased from the days — as recent as the late-eighties (at which point small merchants had dial-up charge terminals pushed on them with the carrot of non-trivial breaks in interchange fees) — when interchange involved pushing handwritten paper charge slips, so the stream of net fees from transactional users is not obviously diminished by more generous rewards than prevailed in the eighties and early nineties.  He also ties in the related collective action problem (or is it a behavioral economics problem?), which is that society would be better off in a world where interchange fees were driven down to costs but rewards-maximizers gave up their &#8220;perks.&#8221;</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/05/hoisted-from-the-economics-literature-credit-card-pricing-and-market-failures.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tina Fey gets a little backup&#8230;AMEX promises nothing to cactus</title>
+		<link>./../../2008/03/tina-fey-gets-a-little-backup-amex-promises-nothing-to-cactus.html</link>
+		<comments>./../../2008/03/tina-fey-gets-a-little-backup-amex-promises-nothing-to-cactus.html#respond</comments>
+		<pubDate>Tue, 11 Mar 2008 00:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit cards]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/tina-fey-gets-a-little-backup-amex-promises-nothing-to-cactus.html</guid>
+		<description><![CDATA[Tina Fey or John MacEnroe over at AMEX should give cactus a call. Is this related to the change in bankruptcy law on Chapter 7 escape clauses? Less backup for the customer. Keep posted. Naked Capitalism might be exposing the economic model prior to the credit crunch still being implemented. As wards of the state [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://home.americanexpress.com/home/mt_personal.shtml">Tina Fey or John MacEnroe</a> over at AMEX should give cactus a call. Is this related to the change in bankruptcy law on Chapter 7 escape clauses? Less backup for the customer. Keep posted. <a href="http://www.nakedcapitalism.com/2008/03/banks-clamp-down-harder-on-credit-card.html">Naked Capitalism</a> might be exposing the economic model prior to the credit crunch still being implemented.</p>
+<p>As wards of the state will the new owners (of banks, funds, and credit card companies) allow such a law to prevent massive exceptions? (Smiley face)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/tina-fey-gets-a-little-backup-amex-promises-nothing-to-cactus.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Non-Violent Offenders and Incarceration</title>
+		<link>./../../2008/03/non-violent-offenders-and-incarceration.html</link>
+		<comments>./../../2008/03/non-violent-offenders-and-incarceration.html#respond</comments>
+		<pubDate>Mon, 10 Mar 2008 15:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit cards]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/non-violent-offenders-and-incarceration.html</guid>
+		<description><![CDATA[Regular readers are aware that my wife and I are currently having to deal with both identity fraud and an unrelated dispute over a very large credit charge, both at the same time. And that got me to thinking&#8230; one of the arguments you often hear to support the charge that the US incarcerates too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Regular readers are aware that my wife and I are currently having to deal with both <a href="http://angrybear.blogspot.com/2008/03/correspondence-with-american-express.html">identity fraud</a> and an unrelated <a href="http://angrybear.blogspot.com/2008/03/correspondence-with-american-express.html">dispute over a very large credit charge</a>, both at the same time.</p>
+<p>And that got me to thinking&#8230; one of the arguments you often hear to support the charge that the US incarcerates too many people is the high proportion of people in prison who are non-violent offenders. Now, I can understand that sentiment when it comes to pot-smokers or prostitutes or the like. But as to perpetrators of fraud&#8230; well, given the experience we&#8217;re going through right now, I&#8217;d rather have gotten beaten up the street and gotten a broken arm or leg than go through this. It would have caused much less aggravation and misery. And there are only so many people that a thug can beat up on a given day, whereas those who perpetrate frauds can cause all sorts of misery to a lot more people.</p>
+<p>Nobody will ever give us back the time we lost for this mess or make up for the aggravation we&#8217;ve been put through. As far as I&#8217;m concerned, people who commit identity theft should pay a price that is much greater than the one they inflicted on others.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/non-violent-offenders-and-incarceration.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Correspondence With American Express &#8211; Where is the Common Sense?</title>
+		<link>./../../2008/03/correspondence-with-american-express-where-is-the-common-sense.html</link>
+		<comments>./../../2008/03/correspondence-with-american-express-where-is-the-common-sense.html#respond</comments>
+		<pubDate>Mon, 10 Mar 2008 05:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit cards]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/correspondence-with-american-express-where-is-the-common-sense.html</guid>
+		<description><![CDATA[Since I&#8217;m going to be suing one of the parties discussed in this post, I decided to take the post down to avoid laying out the entire case.]]></description>
+				<content:encoded><![CDATA[<p>Since I&#8217;m going to be suing one of the parties discussed in this post, I decided to take the post down to avoid laying out the entire case.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/correspondence-with-american-express-where-is-the-common-sense.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

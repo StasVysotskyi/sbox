@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fairness &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Kleinbard: Tax Fairness and Fairness in Tax Data Reporting</title>
+		<link>./../../2012/08/kleinbard-tax-fairness-and-fairness-in-tax-data-reporting.html</link>
+		<comments>./../../2012/08/kleinbard-tax-fairness-and-fairness-in-tax-data-reporting.html#respond</comments>
+		<pubDate>Tue, 07 Aug 2012 23:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[fairness]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/kleinbard-tax-fairness-and-fairness-in-tax-data-reporting.html</guid>
+		<description><![CDATA[From TaxProf blog: Kleinbard: Tax Fairness and Fairness in Tax Data Reporting Following up on yesterday&#8217;s post, WSJ: Taxing the Rich &#8212; The Facts:  Huffington Post:  Tax Fairness and Fairness in Tax Data Reporting, by Edward D. Kleinbard(USC):  The impetus for this little paper was an op-ed by Ari Fleischer in the Wall Street Journal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://taxprof.typepad.com/taxprof_blog/2012/08/kleinbard-.html">From TaxProf blog</a>:</p>
+<blockquote><p>Kleinbard: <em>Tax Fairness and Fairness in Tax Data Reporting</em></p>
+<p>Following up on yesterday&#8217;s post, <a href="http://taxprof.typepad.com/taxprof_blog/2012/08/wsj-taxing-the-.html">WSJ: Taxing the Rich &#8212; The Facts</a>:  Huffington Post:  <a href="http://www.huffingtonpost.com/edward-d-kleinbard/tax-fairness-and-fairness_b_1733059.html">Tax Fairness and Fairness in Tax Data Reporting</a>, by <a href="http://lawweb.usc.edu/contact/contactInfo.cfm?detailID=68912">Edward D. Kleinbard</a>(USC): </p>
+<blockquote><p>The impetus for this little paper was an op-ed by Ari Fleischer in the Wall Street Journal a couple of weeks ago [<a href="http://taxprof.typepad.com/taxprof_blog/2012/07/president-obama.html">The Latest News on Tax Fairness</a>] that unfairly claimed that the <a href="http://taxprof.typepad.com/taxprof_blog/2012/07/cbo-the-.html">Congressional Budget Office had demonstrated</a> that the most affluent Americans were &#8220;overtaxed.&#8221; That op-ed contained  many rhetorical tricks and incomplete statements that are a staple of the current political right, and I felt it important both to defend the honor of the CBO and to offer readers a more balanced presentation of the underlying issues. Editorials like Fleischer&#8217;s simply polarize discussion and distract from the real questions of fiscal policy, which are the appropriate role of government in contemporary society and the best modes of financing it, and as to which reasonable people can come to somewhat different conclusions.</p></blockquote>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/kleinbard-tax-fairness-and-fairness-in-tax-data-reporting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

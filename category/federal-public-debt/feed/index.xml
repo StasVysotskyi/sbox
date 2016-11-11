@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>federal public debt &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The United States long term debt problem</title>
+		<link>./../../2013/03/the-united-states-long-term-debt-problem.html</link>
+		<comments>./../../2013/03/the-united-states-long-term-debt-problem.html#respond</comments>
+		<pubDate>Sat, 16 Mar 2013 14:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[federal deficit]]></category>
+		<category><![CDATA[federal public debt]]></category>
+		<category><![CDATA[long term debt problem]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/the-united-states-long-term-debt-problem.html</guid>
+		<description><![CDATA[Michael Linden from Center for American Progress addresses one aspect of using CBO projections, especially the June 2012 report. Best to walk it through with him based on the June report and subsequent reports&#8230;good for several posts more is how the current situation is still improving on the debt to GDP ratio so much talked [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Michael Linden from <i>Center for American Progress</i> addresses one aspect of using CBO projections, especially the June 2012 report.  Best to walk it through with him based on the June report and subsequent reports&#8230;good for several posts more is how the current situation is still improving on the debt to GDP ratio so much talked about( and remind people to keep in mind the differences between federal deficit and public debt).  Based on going over there to read the walk through, I will post his conclusions only:</p>
+<p><a blank="" href="http://www.americanprogress.org/issues/budget/news/2013/03/11/56048/the-united-states-long-term-debt-problem-isnt-as-bad-as-you-thought/" target="">The United States long term debt problem</a></p>
+<blockquote><p>Does this mean our long-term debt problem is solved? No, it doesn&#8217;t. Debt at 97 percent of GDP is still a serious challenge. But it’s a much more manageable and less intractable challenge than if the debt was actually on track to hit nearly 200 percent of GDP. With only a little additional deficit reduction, we can stabilize the long-term debt-to-GDP ratio at a reasonable level. Implementing an average of about 0.5 percent of GDP in additional annual programmatic spending cuts or tax increases—or some combination of the two—would keep the debt level essentially stable for the next 25 years, reducing it to about 71 percent of GDP in 2037. This 0.5 percent of GDP would amount to about $1 trillion saved over the next 10 years.</p>
+<p>&#8230;</p>
+<p>The conventional wisdom in Washington is that we have a huge long-term debt problem. But we rarely recognize that much of the expected run up in debt is derived not from out-of-control entitlement spending but rather from the assumption that future Congresses will make our budget challenges much worse by enacting new tax cuts and new spending increases without paying for them. Take that assumption away, add in the deficit reduction we’ve already enacted, and factor in the recent slowdown in the growth of health care costs, and the debt projection falls by more than 100 percentage points of GDP. That doesn&#8217;t mean the long-term budget picture is suddenly rosy, but it does mean that we may not need to hyperventilate quite so much.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/the-united-states-long-term-debt-problem.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

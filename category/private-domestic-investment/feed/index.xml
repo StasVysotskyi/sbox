@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>private domestic investment &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Bill McBride on private domestic investment</title>
+		<link>./../../2012/12/bill-mcbride-on-private-domestic-investment.html</link>
+		<comments>./../../2012/12/bill-mcbride-on-private-domestic-investment.html#respond</comments>
+		<pubDate>Wed, 26 Dec 2012 22:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bill McBride]]></category>
+		<category><![CDATA[pce]]></category>
+		<category><![CDATA[private domestic investment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/bill-mcbride-on-private-domestic-investment.html</guid>
+		<description><![CDATA[Bill McBride offers: A little holiday cheer &#8230; Discussions of the business cycle frequently focus on consumer spending (PCE: Personal consumption expenditures), but the key is to watch private domestic investment, especially residential investment. Even though private investment usually only accounts for around 15% of GDP, the swings for private investment are significantly larger than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Bill McBride offers:</p>
+<blockquote><p>A little holiday cheer &#8230;</p>
+<p>Discussions of the business cycle frequently focus on consumer spending (PCE: Personal consumption expenditures), but the key is to watch private domestic investment, especially residential investment. Even though private investment usually only accounts for around 15% of GDP, the swings for private investment are significantly larger than for PCE during the business cycle, so private investment has an outsized impact on GDP at transitions in the business cycle. </p>
+<p>The first graph shows the real annualized change in GDP and private investment since 1960 (this is a 3 quarter centered average to smooth the graph).</p>
+<p>GDP has fairly small annualized changes compared to the huge swings in investment, especially during and just following a recession. This is why investment is one of the keys to the business cycle.  (Worth a visit to view the graphs)<br />&#8230;<br />The key downside risk for the US economy in 2013 is too much austerity, too quickly.   However, barring a policy mistake (I expect a fiscal agreement), it seems unlikely there will be a sharp decline in private investment in 2013.   This is because residential investment is already near record lows as a percent of GDP and will probably increase further in 2013, and  that suggests the US will avoid a new recession in 2013.<br />Read more at <a target="_blank" href="http://www.calculatedriskblog.com/#cOy5iv4lJPpOPE8Y.99">Calculated Risk</a> </p></blockquote>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/bill-mcbride-on-private-domestic-investment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

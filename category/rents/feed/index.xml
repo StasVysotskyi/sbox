@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rents &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Health Care Costs &#8212; Paying More for the Same Services</title>
+		<link>./../../2010/11/health-care-costs-paying-more-for-the-same-services.html</link>
+		<comments>./../../2010/11/health-care-costs-paying-more-for-the-same-services.html#respond</comments>
+		<pubDate>Tue, 23 Nov 2010 21:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Health care costs]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[rents]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/health-care-costs-paying-more-for-the-same-services.html</guid>
+		<description><![CDATA[The International Federation of Health Plans released its 2010 report today. (PDF here.) The good news is that the problem is clear: Americans pay too much for the same services. The bad news is (1) we&#8217;ve known that for years and (2) the factions who are gaining these excessive rents want to keep their sinecures. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The International Federation of Health Plans released its 2010 report today. (PDF <a href="http://www.ifhp.com/documents/IFHPPricereportfinal.pdf">here</a>.)</p>
+<p>The good news is that the problem is clear: Americans pay too much <em>for the same services</em>.  The bad news is (1) we&#8217;ve known that for years and (2) the factions who are gaining these excessive rents want to keep their sinecures.</p>
+<p>But I&#8217;ve said this <a href="http://www.angrybearblog.com/2010/10/obamacare-is-working-thats-why-its.html">before</a>.  That it remains true is as true as &#8220;that which cannot go on will not go on.&#8221;</p>
+<p>How it ends—its <a href="http://www.angrybearblog.com/2010/10/eschatology.html">eschaton</a>, as it were—is what is being discussed.  Hint to doctors:  You are the farmers of the 2010s; you will lose either way. (Think 1994 all over again, this time with a vengeance.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/health-care-costs-paying-more-for-the-same-services.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Labor market rents can cause business cycles</title>
+		<link>./../../2009/10/labor-market-rents-can-cause-business-cycles.html</link>
+		<comments>./../../2009/10/labor-market-rents-can-cause-business-cycles.html#respond</comments>
+		<pubDate>Wed, 07 Oct 2009 01:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[labor]]></category>
+		<category><![CDATA[labor markets]]></category>
+		<category><![CDATA[rents]]></category>
+		<category><![CDATA[wages]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/labor-market-rents-can-cause-business-cycles.html</guid>
+		<description><![CDATA[Robert Waldmann I&#8217;m not sure whether (more likely wherE) this has been noted in the literature, but wage differentials not due to differences in workers&#8217; skill are enough to generate a business cycle. A verbal &#8220;model&#8221; after the jump. update: additional model with fixed capital added. The key reference from which this is not quite [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>I&#8217;m not sure whether (more likely wherE) this has been noted in the literature, but wage differentials not due to differences in workers&#8217; skill are enough to generate a business cycle.  A verbal &#8220;model&#8221; after the jump.</p>
+<p>update: additional model with fixed capital added.</p>
+<p>The key reference from which this is not quite obvious is <a href="http://www.jstor.org/pss/1831884">Kevin Murphy Andrei Shleifer and Robert Vishny (1989) &#8220;Industrialization and the Big Push&#8221; Journal of Political Economy vol 97 pp 1003-</a> which contains three models only one of which is The Big Push.  Another discusses wage differentials not due to worker characteristics.  Since Murphy is one of the authors, they are assumed to be compensating differentials not labor market rents but it doesn&#8217;t matter (except for welfare analysis).</p>
+<p>OK the problem:  Assume that workers all have the same skill yet different wages are paid in different industries.  Can this imply multiple Pareto ranked steady states ? Can this imply that there are sunspot equilibria in which GNP changes just because people expect it to change ?   </p>
+<p>To make the problem hard, assume that everyone is rational, that there is perfect competition (except for the wage differentials) and that all goods are non durable so consumption must equal production and the real interest rate just makes aggregate demand equal aggregate supply.</p>
+<p>The last assumption is needed, because a model with two sectors can have a sunspot equilibrium due to the effect of (spontaneous just because people expect it) sectoral shifts on the real interest rate (Boldrin and Rusticchini in Econometrica).  I find models which rely on the effect of changes in the real interest rate on the rate of growth of aggregate consumption or labor supply to be unconvincing as there is almost exactly no sign of such effects in the data (that criticism applies to 3 published papers with my name on them).</p>
+<p>OK the &#8220;model.&#8221;    Time is continuous.  People are free to borrow and save at interest rate r.  They have a rate of time preference rho</p>
+<p>There is no capital.  There are two non-durable goods produced with labor alone.  There is nothing odd about good 1.  One unit of it is produced with 1 unit of labor. </p>
+<p>1) C_1 = L_1</p>
+<p>where C_1 is consumption of good 1 and L_1 is employment in the sector which produces good 1.</p>
+<p>The price of good 1 is normalized to 1.  There is perfect competition so w_1 (the wage paid in sector 1) is equal to 1.</p>
+<p>One unit of labor is needed to produce good 2</p>
+<p>2) C_2 = L_2</p>
+<p>total labor supply is fixed L_1+L_2 = L</p>
+<p>However for some reason (it&#8217;s ok except for the welfare analysis if its a comepensating differential, that is it is more unpleasant to work in sector 2) </p>
+<p>3) w_2= a > 1</p>
+<p>there is perfect competition so the price of good 2 P_2 = a.</p>
+<p>update 5: I am assuming that each individual worker moonlights working in both sectors and that they all spend the same fraction of their time in each sector.  In other words I am making assumptions so that all individuals have exactly the same income.  This is silly but makes things simpler.</p>
+<p>Now a knife edge very special case for clarity.  The goods are perfect substitutes</p>
+<p>U = aC_2+C_1</p>
+<p>This means that any C_2+C_1 = L can be a steady state equilibrium.  </p>
+<p>Welfare equals (L + (a-1)C_2)/rho = (aL-(a-1)C_1).</p>
+<p>For this knife edge special case, there are a continuum of Pareto ranked steady state equilibria.  People are better off if they work in sector 2.  Any number can work in sector 2.</p>
+<p>Well that&#8217;s an extreme example.  Now how about this one Good_1 is an inferior good.  This means that for fixed relative prices (and relative prices must be fixed) there is an interval of total consumption over which consumption of good 1 declines.   </p>
+<p>update 3:  I think I was totally confused here <strike><br />update:  Assumption immediately below is a correction of the assumption in an earlier version.  Sad to say the new assumption is the assumption which I hate.</p>
+<p>Consumption/permanent income decreases as the interest rate increases </strike></p>
+<p>permanent income is the expected discounted value of the flow of income.  Call it pY.</p>
+<p>Oh no now I need a graph.</p>
+<p>Figure 1</p>
+<p><a href="http://smg.photobucket.com/albums/v296/rjw88/?action=view&#038;current=YC_1.jpg" target="_blank"><img src="http://img.photobucket.com/albums/v296/rjw88/YC_1.jpg" border="0" alt="figure 1"></a></p>
+<p>Consider possible steady states.  Consider income and consumption of good 1.  The line shows income as a function of consumption (and production) of good 1 . The curve shows consumption of good 1 as a function of pY.</p>
+<p>Note there are two steady states and one is Pareto better than the other (C_2 is higher).</p>
+<p>OK now figure 2 shows Y as a function of pY.  </p>
+<p><a href="http://smg.photobucket.com/albums/v296/rjw88/?action=view&#038;current=YpY.jpg" target="_blank"><img src="http://img.photobucket.com/albums/v296/rjw88/YpY.jpg" border="0" alt="figure 2"></a></p>
+<p>Define total consumption as C = C_1+aC_2</p>
+<p>So there are two steady states one with high output Yg and the other with low output which I will call Yb.  </p>
+<p>What&#8217;s more the economy can jump from one to the other.  let&#8217;s say it switches according to a poisson alarm clock with the sunspot causing a switch arriving at rate p.  Or hell let&#8217;s say time is discrete and they switch each period with probability p.</p>
+<p>In each steady state consumption equals to income so that the identity C=Y and the equations which give C_1 and C_2 as a function of y (for P_2 fixed and equal to a from the supply side) and Y as a function of C_1 and C_2 both hold.</p>
+<p>Furthermore the economy can jump stochastically from one to the other.  How ?  Well lets say we are in the good state.  The national income identity means C=Y.  However individuals are free to borrow and save at interest rate r.  They decide consumption given permanent income.  This means that r can&#8217;t equal rho.  They know that their income might fall so if y=Yg all agents will try to save if r=rho.  They can&#8217;t.  we must have C=Y because there is no way to invest.  </p>
+<p>So r must be lower than rho.  This means that they are satisfied if the expected marginal utility of consumption increases.  It does it jumps up to the higher marginal utility of consumption in the bad steady state with rate p.  For any p r can be calculated so that people neither want to borrow nor save if they are currently at the good steady state.</p>
+<p>Similarly at the bad steady state.  Here r must be greater than rho since income and consumption might jump up.  </p>
+<p>update 4:  Now I add capital to the model.  The model above is very strange as there is no fixed capital or trade so consumption must always be equal to production.  Also one of the stylized facts about wages, and, in particular, wages which are surprisingly high given worker characteristics is that they are high in industries with a high capital labor ratio.  In the model above, both industries have a capital labor ratio of 0.</p>
+<p>So now there is a third good K in addition to C_1 and C_2.  At any given time total capital equals K = K_1+K_2 where K_i is capital used in sector i. Y_1 and Y_2 are production of each type of good no longer equal to C_1 and C_2.  Y = Y_1+Y_2 and C=C_1+C_2</p>
+<p>The assumption about wages becomes</p>
+<p>5) w_2 = (w_1)a</p>
+<p>since now wages depend on the capital labor ratio.</p>
+<p>I will assume that the share of capital is constant and the same in each industry.  This means that the relative prices of the goods will be constant.  For further simplicity I am going to make assumptions so that constant is 1 so P_2 = P_1.  This is all for tractability and is not realistic.  In fact not only is K/L high in high wage industries but so is the share of capital (capital income)/wL which will be just rK/wL here.  But I assume that rK/wL = alpha in both sectors cause it makes things easier.  I equations I assume</p>
+<p>5) y_1 = A(L_1)^(1-alpha)(K_1)^alpha</p>
+<p>and</p>
+<p>6) Y_2 = A(aL_2)^(1-alpha)(K_2)^alpha</p>
+<p>So both sectors have similar Cobb-Douglas production functions.  For the same amount spent on labor and capital (which means fewer physical hours of work in industry 2 since each gets a higher wage) the sectors have the same output so the two goods are sold for the same price which I set to 1.   This makes everything relatively simple and means that the crude definitions like Y = Y_1+Y_2 make sense.</p>
+<p>I want to keep things simple so I will assume that you can create 2 units of K from 1 unit of good 1 and one unit of good 2.  This is an absolutely rigid no substitution allowed leontief type function.  capital depreciates at rate delta.     so </p>
+<p>5) dK/dt = -deltaK + 2min(Y_1-C_1,Y_2-C_2)</p>
+<p>This means that </p>
+<p>6) dK/dt = -deltaK + (Y-C)</p>
+<p>and the price of one unit of capital is 1, that is equal to the price of one unit of consumption good 1 which is equal to the price of one unit of consumption good 2.</p>
+<p>I assume that delta is high enough that no one ever wants to convert K back to consumption goods (or that they can do that which is silly but standard).  Also I assume either that delta is high enough that no one ever wants to take capital from sector 1 and add it to sector 2 or that this is possible.  Again silly but standard.</p>
+<p>Note that a shift of labor from sector 1 to sector 2 will increase demand for capital and will give a higher marginal product of capital r for the same total amount of capital K.</p>
+<p>Finally I will make an assumption about tastes.  For p_1/p_2 = 1 (which it must be given the supply side) C_1 and C_2 as a function of total consumption are given by figure 3.  As C goes up from zero the ratio C_2/C_1 is constant for a while, then C_2/C_1 increases then it is constant with a higher C_2/C_1.  </p>
+<p>In the regions where C_2/C_1 doesn&#8217;t change with total consumption C, this model behaves just like a standard Solow model.  However, when C_2/C_1 is higher it is as if there has been labor augmenting technological progress since labor is more productive in sector 2. </p>
+<p>Recall I am assuming all workers divide their time and work in both sectors and have equal identical income.  I also they are the saver/ investors and all have equal wealth so everyone always has the same income. Silly but standard in macro.</p>
+<p>This means that, for the right a and assumptions about tastes, there can be two steady states again.  In each steady state the real interest rate is equal to the rate of time preference r=rho, but in the good steady state C_2/C_1 is higher than in the bad steady state so the K/L needed to make r=rho is higher and output is higher and consumption is higher so, given tastes the ratio C_2/C_1 is higher.<br />Define the two steady state levels of capital as Kg and Kb with Kg>Kb and may use the subscripts the same way for other variables.</p>
+<p>It is no longer possible to jump from one steady state to another.  K is a state variable and changes slowly.  C can jump.</p>
+<p>There is a sunspot equilibrium where the economy spends much of it&#8217;s time near one of the steady states.</p>
+<p>If K is just above the good steady state K (Kg) then r<rho so the expected change in consumption must be negative. this happens equilibrium way. it is constant unless poisson alarm clock rings. if rings then jumps down that c region with a low c_2 means value of marginal utility rises as required r>rho.</p>
+<p>If it jumps the economy finds itself on the path of dC/dt and dK/dt which leads to a point with K just below bad steady state K.  Once it gets real close to this point, the sunspot begins giving a jump up signal which arrives at rate p again.  This makes consumption remain constant if the jump up signal doesn&#8217;t arrive at a point where r>rho so K below Kb.</p>
+<p>If the jump up signal arrives then C jumps up to the region with high constant C_2/C_1 to exactly the point where the dC/dt and dK/dt equations lead it to the original point with K a little bit greater than Kb.</p>
+<p>Also now the economy can have much more complicated dynamics.  It is possible to make an equilibrium in which it can jump at any time and not just when close to a steady state.</p>
+<p>update 3: I think everything below is totally confused</p>
+<p><strike></p>
+<p>Note again two steady states.  Also note that for the Pareto better steady state (with higher Y) dY/dpY >1.  This means that this steady state is a stable steady state with Y = Yg (for good).  if Y starts slightly above steady Yg then it will converge to steady Yg.  This means that there is a sunspot equilibrium in which Y bounces around Yg just because people expect it too (rational animal spirits).</p>
+<p>update 2:  The assumption which I hate that, given permanent income, consumption decreases in the interest rate is not needed for there to be a stable steady state and sunspot equilibria.  It is just needed so that the good steady state is stable.  If, in contrast, consumption increases in the interest rate for given permanent income, then the bad steady state is stable.  There is a very general result that when you pass from zero steady states to two (as in the figure) then one of the steady states is stable and one is unstable.</p>
+<p>I will attempt to discuss the dynamics of Y near a steady state.  I will use linear approximations (I have to do this to have any hope of writing out the explanation with plain ascii.  That approximation is not necessary for the result.</p>
+<p>There are two steady states Yg defined above and the one with lower Y which I now name Yb.  </p>
+<p>I will try to find the time derivative of Y, dY/dt for Y near a steady state.  If d(dY/dt)/dY is negative then when Y is above the steady state Y falls down to the steady state. This means that the steady state is a sink, it is stable.  It means that there are sunspot equilibria where the economy bounces around the steady state.</p>
+<p>I will make an assumption about the utility function.  First define total consumption</p>
+<p>C = C_1+aC_2</p>
+<p>note that C=Y.</p>
+<p>Given the relative price P_2 = 2P_1, C_1 and C_2 are functions of C.  </p>
+<p>I assume that<br />the marginal utility of consumption of good 1 is equal to </p>
+<p>4) U_1(C_1,C_2) = C^(-sigma) </p>
+<p>This must be equal to (1/a) times the marginal utility of consumption of good 2.</p>
+<p>Now consider the real interest rate r.  Even though there is no saving and investment, there is a market clearing r such that no one wants to save or borrow.<br />Equation 4 implies that </p>
+<p>5) (dC/dt)/C = (r-rho)/sigma  = (dY/dt)/Y</p>
+<p>(recall the national accounts identity is just C=Y).</p>
+<p>now consider constant r (just for now)</p>
+<p>permanent income at t (pY_t) is the integral as s goes from zero to infinity of exp(-rs)Y_(t+s)ds</p>
+<p>Given 5 that equals the integral as s goes from zero to infinity of</p>
+<p>exp(s(r(1-sigma)-rho)/sigma)Y_t so  </p>
+<p>6) pY_t = Y_t(-sigma/(r(1-sigma)-rho))= Y_t(sigma/(rho+(sigma-1)r)</p>
+<p>if r = rho then pY_t = Y_t(sigma/sigma) = Y_t</p>
+<p>if sigma is greater than 1, then pY_t/Y_t decreases in r.  If sigma is less than one then pY_t/Y_t increases in r.  Let&#8217;s assume that sigma>1 (the assumption I like).  This means that Yb is a stable steady state.</p>
+<p>OK so that wasn&#8217;t very hard, but the problem is that r_t changes as Y_t changes. </p>
+<p>I&#8217;m working on it (update 3.1 not any more.  I realize I was assuming that there was some way to save.  <br /></strike></p>
+<p></rho></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/labor-market-rents-can-cause-business-cycles.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

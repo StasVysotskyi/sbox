@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kudlow &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>More Kudlow</title>
+		<link>./../../2008/04/more-kudlow.html</link>
+		<comments>./../../2008/04/more-kudlow.html#respond</comments>
+		<pubDate>Wed, 09 Apr 2008 00:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Kudlow]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/more-kudlow.html</guid>
+		<description><![CDATA[Another day, another load from Kudlow. I needed a break so I took a look: And by the way, despite the current slowdown, during the five years of the Iraq war the U.S. economy has performed remarkably well. Real GDP has increased by 16 percent, or 3 percent annually. The unemployment rate has hovered below [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Another day, another load from <a href="http://corner.nationalreview.com/post/?q=Yjc2ZGUyNGU5YzMzZTI2MzJhMjEzY2U0Y2NiNzI4N2M=">Kudlow</a>.  I needed a break so I took a look:</p>
+<p>
+<blockquote>And by the way, despite the current slowdown, during the five years of the Iraq war the U.S. economy has performed remarkably well. Real GDP has increased by 16 percent, or 3 percent annually. The unemployment rate has hovered below a historically low 5 percent for quite some time. Nearly 10 million jobs have been created. Household net worth has increased by $20 trillion. Industrial production has expanded by 13.5 percent.  Even home prices, despite the current correction, have increased by 20 percent.</p></blockquote>
+<p>Honestly, at this point, whenever I see numbers by Kudlow, my first reaction is to assume they&#8217;re wrong.  You can find data on real GDP  (since that&#8217;s what he wants to use) at the <a href="http://www.bea.gov/national/xls/gdplev.xls">BEA</a>.</p>
+<p>I challenge you to show that real GDP increased by 16 percent &#8220;during the five years of the Iraq war.&#8221;  As I do the numbers, from 2003 to 2007, the economy grew by 12.29%, or 2.9% a year.  Maybe he meant 2002?  Then, the economy grew by 15.1%, or 2.85% a year.  2001?  16.9%, and 2.6% a year. </p>
+<p>Where Kudlow pulled this from I&#8217;ll probably never know.  But moving on&#8230; let&#8217;s assume he meant 2003 to 2007&#8230; that 2.9% is sufficiently close to his &#8220;3 percent annually.&#8221;  So let&#8217;s go with that.  Now, Kudlow calls that performing remarkably well.  The BEA provides data on real GDP from 1929 to 2007, the last year for which there is data.  So&#8230; its a simple matter to look at how many five year periods ending between between 1933 and 2000 (i.e., before GW took office) performed at least as well as this last five year period.</p>
+<p>By my count, 43 times, out of 68 such periods.  In other words, 63% of the time, the economy performed better than &#8220;remarkably well.&#8221;  I would think that would make &#8220;remarkably&#8221; quite a bit less remarkable to most people.  Not to Kudlow, though.</p>
+<p>Moving on:  &#8220;Nearly 10 million jobs have been created.&#8221;  Apparently, by nearly, he means &#8220;off by quite a bit.&#8221;  In March, 2003, the <a href="http://research.stlouisfed.org/fred2/series/CE16OV/downloaddata?cid=12">civilian employment</a> was at 137,434,000.  In March of &#8217;08, it was 145,969,00.  Where I sit, that&#8217;s 8.535 million jobs created, but then I don&#8217;t make what Kudlow makes. </p>
+<p>But let&#8217;s unpack that number a bit, those 8.535 million jobs created over 61 months.  Is that big?  Is it small?  Who knows?  It lacks context.  That said, given that Kudlow mentions job creation as if its impressive, I think its safe to assume its actually a small number.  </p>
+<p>Operating under that assumption, let&#8217;s look at a different 61 month long period.    Right now the <a href="http://www.census.gov/compendia/statab/tables/08s0003.xls">US population exceeds 300 million</a>.   In 1968, the <a href="http://www.census.gov/compendia/statab/tables/08s0002.xls">US population first cracked 200 million people</a>.   It turns out that the 61 month period ending in December of 1968 &#8211; almost thirty years ago, with the population about a third smaller than it is now, 8.565 million jobs were created.  That&#8217;s right&#8230;  GW&#8217;s impressive period produced less jobs than a similar period when LBJ was still President.  Not so impressive in that context, is it? </p>
+<p>I can go on, but why bother?  Nobody cares.  People who believe Kudlow will continue to believe him, regardless of what happens. I gotta get back to work.</p>
+<p>&#8212;</p>
+<p>Correction &#8211; I had the wrong figures for March 03 employment when first published. Thanks to vtcodger for pointing it out.</p>
+<p>Addition &#8211; in comments, Ken Houghton shows how Kudlow got a 16% growth rate:</p>
+<blockquote><p>&#8230;since the war started in late q1 of 2003, if you count from q4 of 2002 to q4 of 2007 (five years), in chained values, the increase is 15.65%, which is 16% if you&#8217;re a television economist without an economics degree.</p></blockquote>
+<p>END</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/more-kudlow.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

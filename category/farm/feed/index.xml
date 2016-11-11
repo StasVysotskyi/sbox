@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>farm &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Friend of small business??? Not!!!</title>
+		<link>./../../2008/03/friend-of-small-business-not.html</link>
+		<comments>./../../2008/03/friend-of-small-business-not.html#respond</comments>
+		<pubDate>Tue, 04 Mar 2008 19:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[farm]]></category>
+		<category><![CDATA[subsidies]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/friend-of-small-business-not.html</guid>
+		<description><![CDATA[The NYT carries this article. (Hat tip to dmarek) IF you’ve stood in line at a farmers’ market recently, you know that the local food movement is thriving, to the point that small farmers are having a tough time keeping up with the demand.But consumers who would like to be able to buy local fruits [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.nytimes.com/2008/03/01/opinion/01hedin.html?_r=1&#038;em&#038;ex=1204520400&#038;en=1850d11a7a2d5f01&#038;ei=5087%0A&#038;oref=slogin">The NYT</a> carries this article. (Hat tip to dmarek)</p>
+<blockquote><p>IF you’ve stood in line at a farmers’ market recently, you know that the local food movement is thriving, to the point that small farmers are having a tough time keeping up with the demand.<br />But consumers who would like to be able to buy local fruits and vegetables not just at farmers’ markets, but also in the produce aisle of their supermarket, will be dismayed to learn that the federal government works deliberately and forcefully to prevent the local food movement from expanding. And the barriers that the United States Department of Agriculture has put in place will be extended when the farm bill that House and Senate negotiators are working on now goes into effect.<br />As a small organic vegetable producer in southern Minnesota, I know this because my efforts to expand production to meet regional demand have been severely hampered by the Agriculture Department’s commodity farm program. As I’ve looked into the politics behind those restrictions, I’ve come to understand that this is precisely the outcome that the program’s backers in California and Florida have in mind: they want to snuff out the local competition before it even gets started.<br />&#8230;<br />Who pays the price for this senselessness? Certainly I do, as a Midwestern vegetable farmer. But anyone trying to do what I do on, say, wheat acreage in the Dakotas, or rice acreage in Arkansas would face the same penalties. Local and regional fruit and vegetable production will languish anywhere that the commodity program has influence.<br />Ultimately of course, it is the consumer who will pay the greatest price for this — whether it is in the form of higher prices I will have to charge to absorb the government’s fines, or in the form of less access to the kind of fresh, local produce that the country is crying out for.<br />Farmers need the choice of what to plant on their farms, and consumers need more farms like mine producing high-quality fresh fruits and vegetables to meet increasing demand from local markets — without the federal government actively discouraging them.</p></blockquote>
+<p><strong>Update:</strong>  MG points out I missed this part of the article&#8230;I did in my scanning.  Thanks.</p>
+<blockquote><p>&#8220;The commodity farm program effectively forbids farmers who usually grow corn or the other four federally subsidized commodity crops (soybeans, rice, wheat and cotton) from trying fruit and vegetables. Because my watermelons and tomatoes had been planted on “corn base” acres, the Farm Service said, my landlords were out of compliance with the commodity program. </p>
+<p>I’ve discovered that typically, a farmer who grows the forbidden fruits and vegetables on corn acreage not only has to give up his subsidy for the year on that acreage, he is also penalized the market value of the illicit crop, and runs the risk that those acres will be permanently ineligible for any subsidies in the future. (The penalties apply only to fruits and vegetables — if the farmer decides to grow another commodity crop, or even nothing at all, there’s no problem.)&#8221;</p></blockquote>
+<p><strong>Update 2</strong>:  Hat tip to Noni in the comment section as well under cactus&#8217;s children post.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/friend-of-small-business-not.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

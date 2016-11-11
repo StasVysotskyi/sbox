@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vanity Fair &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Was Romney’s Bain-Era IRA Tactic Really Legal In That Circumstance? [with UPDATE from Business Insider]</title>
+		<link>./../../2012/07/was-romneys-bain-era-ira-tactic-really-legal-in-that-circumstance-with-update-from-business-insider.html</link>
+		<comments>./../../2012/07/was-romneys-bain-era-ira-tactic-really-legal-in-that-circumstance-with-update-from-business-insider.html#respond</comments>
+		<pubDate>Thu, 12 Jul 2012 18:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bain Capital]]></category>
+		<category><![CDATA[IRA accounts]]></category>
+		<category><![CDATA[Mitt Romney]]></category>
+		<category><![CDATA[Steve Hamlin]]></category>
+		<category><![CDATA[Vanity Fair]]></category>
+		<category><![CDATA[Wall Street Journal]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/was-romneys-bain-era-ira-tactic-really-legal-in-that-circumstance-with-update-from-business-insider.html</guid>
+		<description><![CDATA[In a comment to my post yesterday titled “Romney’s VERY Private Equity,” which asked how Romney was able to metasticze his Bain-era IRA account to accumulate more than $100 million—Investment in Apple stock?  In precious-metals funds?  A quiet Louvre heist? I asked—reader Steve Hamlin wrote: Beverly, Re: Romney&#8217;s IRA contributions, there was a WSJ article [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>In a comment to my post yesterday titled “Romney’s VERY Private Equity,” which asked how Romney was able to metasticze his Bain-era IRA account to accumulate more than $100 million—Investment in Apple stock?  In precious-metals funds?  A quiet Louvre heist? I asked—reader Steve Hamlin wrote:
+</p>
+</div>
+<div></div>
+<div>Beverly,</p>
+<p>Re: Romney&#8217;s IRA contributions, there was a WSJ article in the past several days that talked about them &#8211; they were often a special share class of the PE deals that Bain invested in, where the majority of the value of the company was assigned to the other share class. There are examples of these &#8220;low-value class&#8221; shares making 600% in several years.</p>
+<p>The tax strategy (made sense at the time, less so now) was to put these high(?)-risk, high-reward share classes in your IRA, and your mandatory allocation of the other (lower risk, lower reward) share class in to your taxable brokerage account.</p>
+<p>The article quotes tax professionals who question the aggressiveness of the Bain share class valuations.</p>
+<p>Source: http://professional.wsj.com/article/SB10001424052970204062704577223682180407266.html?mg=reno-wsj
+</p>
+</div>
+<div></div>
+<div>I wrote up a reply to Steve’s comment, but the Comments function won’t let me post it there because the comment is too long.  So, here it is:
+</p>
+</div>
+<div></div>
+<div></div>
+<div>Thanks, Steve.  When I read your comment, I remembered reading something about this in the Vanity Fair article (which I read only once, on Jul. 3), and just went back and reread that part of it.  Here’s what it says:
+</p>
+</div>
+<div></div>
+<div>The Romneys won’t say, but Mark Maremont, writing in <i>The Wall Street Journal</i>, uncovered a likely explanation. When Bain Capital bought companies, it would create two classes of shares, named A and L. The A shares were risky common shares, to which they would assign a very low value. The L shares were preferred shares, paying a high dividend but with the payoff frozen, and most of the value was assigned to them. Bain employees would then put the exciting A shares in their I.R.A. accounts, where they grew tax-free. With all the risk of the deal, the A shares stood to gain a lot or collapse. But if the deal succeeded, the springing value could be stunning: Bain employees saw their A shares from one particularly fruitful deal grow 583-fold, 16 times faster than the underlying stock.
+</p>
+</div>
+<div></div>
+<div>The Romneys won’t tell us how, or even if, they assigned super-low values to the A shares, but there are a couple of ways to do it. One is to use standard options models to price the shares—then feed inappropriate assumptions into those models. Romney could alternatively have used a model called liquidation valuation, which Kleinbard [Ed Kleinbard, a USC tax law professor whom the author contacted in researching the issue] says would have been “completely inappropriate.” Without seeing the assumptions used on Romney’s tax returns from the years when those lowball A shares were squirted into his I.R.A., we cannot know how he did it. Whatever methods he used, however, the valuations were, according to Andrew Smith, of Houlihan Capital in Chicago, “pushing the envelope.” (Andrea Saul retorts, “Why should successful investments be criticized?”)
+</p>
+</div>
+<div></div>
+<div>I remembered that when I read those paragraphs last week, I said to myself in answer to Saul’s rhetorical question: “The relevant question here is not whether successful investments should be criticized, but instead whether <i>illegal</i>investments should be criticized.”  The investments themselves weren’t illegal, but the classification of the stock into two arbitrarily-divided classifications in order to give falsely low valuations on one class in order to create huge nontaxable profits, sure as hell sounds to me like it <i>was</i>illegal.
+</p>
+</div>
+<div></div>
+<div>Krugman says there possible legal ways that the IRA gains could have been so huge.  But the way described in the Vanity Fair article and in the WSJ article doesn’t appear to be legal in Romney’s instance, even though this tactic would be legal in other instances—i.e., when there is some actual tangible difference between the risk and value of the two classes of stocks, and when the stock placed in the IRA is given a legitimate, rather than fraudulently low, value.
+</p>
+</div>
+<div></div>
+<div>The relevant paragraphs of the WSJ article read:
+</p>
+</div>
+<div></div>
+<div>The tax-deferral opportunity stemmed from the way Bain often chose to structure the shares of companies after taking them over.
+</p>
+</div>
+<div></div>
+<div>Even if the companies had only one share class, Bain frequently gave them two classes, usually called Class L and Class A, according to former employees, Bain internal documents and securities filings. Because Bain controlled the companies, it had flexibility in assigning values to the classes.
+</p>
+</div>
+<div></div>
+<div><a href="http://www.blogger.com/blogger.g?blogID=5048766" name="U603582489550YDF"></a>Class L shares, akin to preferred stock, were safer and had a higher initial value. They had priority if the company paid dividends, and holders of these shares were the first to receive proceeds from a sale or liquidation. The shares also accrued interest, often at 10% to 12%.
+</p>
+</div>
+<div><a href="http://www.blogger.com/blogger.g?blogID=5048766" name="U603582489550J0D"></a>Bain assigned a much lower value to Class A shares, which were riskier but potentially more profitable.
+</p>
+</div>
+<div></div>
+<div><a href="http://www.blogger.com/blogger.g?blogID=5048766" name="U603582489550SJB"></a>If Bain sold or liquidated a company it had taken over for less than was owed to Class L shareholders, the Class A shares lost all of their value.
+</p>
+</div>
+<div></div>
+<div><a href="http://www.blogger.com/blogger.g?blogID=5048766" name="U603582489550NSB"></a>But once Class L shareholders got their money, Class A shareholders received the bulk of additional gains, often as much as 90% of them, according to the documents and former employees. In successful deals, the A shares could skyrocket.
+</p>
+</div>
+<div></div>
+<div>Can it really be that all that was legally necessary was to simply separate objectively identically-valuable stocks from a single company into two classes of stocks whose only difference is the arbitrary value that the company assigns the stocks, rather than the actual tangible value of the stocks?</p>
+<p>
+<div>&#8212;-
+</p>
+</div>
+<div></div>
+<div>UPDATE: To my utter knock-me-over-with-a-feather astonishment, Business Insider’s Henry Blodget posted <a href="http://www.businessinsider.com/what-romney-is-hiding-2012-7#ixzz20RvRBcV8">an article </a>early this morning based partly on, and linking to, um … um … my “Romney’s VERY Private Equity” post from yesterday.  The link to my post is in the sentence “This ‘structuring’ has also likely taken advantage of offshore accounts, the contribution of <a href="http://www.businessinsider.com/romneys-very-private-equity-2012-7">hard-to-value securities at low valuations to Romney&#8217;s IRA (whereupon they exploded in value)</a>, ….” 
+</p>
+</div>
+<div></div>
+<div>Cool! Thanks, Mr. Blodget! 
+</p>
+</div>
+<div></div>
+<div>Then this afternoon, he posted a follow-up titled “<a href="http://www.businessinsider.com/how-mitt-romney-made-money-2012-7">Wait—MaybeTHIS Is How Mitt Romney Got So Rich&#8230;</a>,” in he explains (based on the surprising revelation in the Boston Globe article that during the period of 1999 to 2002Romney owned 100% of Bain stock), how Romney’s IRA account might actually have acquired so much money legally. 
+</p>
+</div>
+<div></div>
+<div>Since Blodget may well have figured out how that IRA came to be worth so much, without even having to channel Sherlock Holmes, I thought I should let readers know.  Although I think he may be wrong and that Bain really did stage a quiet Louvre heist.  Has anyone noticed whether Mona Lisa looks slightly more like a Bain CEO than she used to?</div>
+<div></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/was-romneys-bain-era-ira-tactic-really-legal-in-that-circumstance-with-update-from-business-insider.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

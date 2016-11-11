@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>data &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Silencing the Science on Gun Research</title>
+		<link>./../../2012/12/silencing-the-science-on-gun-research.html</link>
+		<comments>./../../2012/12/silencing-the-science-on-gun-research.html#respond</comments>
+		<pubDate>Mon, 24 Dec 2012 19:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bi-patisan politics]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[fire arms]]></category>
+		<category><![CDATA[guns]]></category>
+		<category><![CDATA[US data]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/silencing-the-science-on-gun-research.html</guid>
+		<description><![CDATA[There is still a lot of headline material concerning the role of guns in our lives, and a lot of anecdotal material and thoughts abound. Also I seem to note an increase in the reporting of police in Lakewood, Washington and firemen in Webster, NY murders by gun makes the news as well. We are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There is still a lot of headline material concerning the role of guns in our lives, and a lot of anecdotal material and thoughts abound.  Also I seem to note an increase in the reporting of <a target="_blank" href="http://usnews.nbcnews.com/_news/2012/12/24/16125861-4-volunteer-firefighters-shot-2-killed-in-apparent-trap?lite">police in Lakewood, Washington</a> and <a target="+_blank" href="http://usnews.nbcnews.com/_news/2012/12/24/16125861-4-volunteer-firefighters-shot-2-killed-in-apparent-trap?lite">firemen in Webster, NY</a> murders by gun makes the news as well.  We are a site that also values data to help in policy decisions as we try to govern ourselves. Hence this article from JAMA caught my attention on the apparent lack of more specific data on injuries and deaths from media.</p>
+<p><a href="http://jama.jamanetwork.com/article.aspx?articleid=1487470" title="http://jama.jamanetwork.com/article.aspx?articleid=1487470">The Journal of the American Medical Association</a> notes in <i>Silencing the Science on Gun Research</i> that basic gahering and reporting data was defunded and/or forbidden by government agencies including the Center for Disease Control and Prevention, National Institute on Alcohol Abuse and Alcoholism, Hational Institute of Health, and other Department of Health agencies. The following is an excerpt:<br />(hat tip reader Tom B.)</p>
+<blockquote><p>The nation might be in a better position to act if medical and public health researchers had continued to study these issues as diligently as some of us did between 1985 and 1997. But in 1996, pro-gun members of Congress mounted an all-out effort to eliminate the National Center for Injury Prevention and Control at the Centers for Disease Control and Prevention (CDC). Although they failed to defund the center, the House of Representatives removed $2.6 million from the CDC&#8217;s budget—precisely the amount the agency had spent on firearm injury research the previous year. Funding was restored in joint conference committee, but the money was earmarked for traumatic brain injury. The effect was sharply reduced support for firearm injury research.</p>
+<p>To ensure that the CDC and its grantees got the message, the following language was added to the final appropriation: “none of the funds made available for injury prevention and control at the Centers for Disease Control and Prevention may be used to advocate or promote gun control.”<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-4">4</a></sup></p>
+<p>Precisely what was or was not permitted under the clause was unclear. But no federal employee was willing to risk his or her career or the agency&#8217;s funding to find out. Extramural support for firearm injury prevention research quickly dried up. Even today, 17 years after this legislative action, the CDC&#8217;s website lacks specific links to information about preventing firearm-related violence.</p>
+<p>When other agencies funded high-quality research, similar action was taken. In 2009, Branas et al<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-5">5</a></sup> published the results of a case-control study that examined whether carrying a gun increases or decreases the risk of firearm assault. In contrast to earlier research, this particular study was funded by the National Institute on Alcohol Abuse and Alcoholism. Two years later, Congress extended the restrictive language it had previously applied to the CDC to all Department of Health and Human Services agencies, including the National Institutes of Health.<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-6">6</a></sup></p>
+<p><a name="more"></a></p>
+<p>The US military is grappling with an increase in suicides within its ranks. Earlier this month, an article by 2 retired generals—a former chief and a vice chief of staff of the US Army— asked Congress to lift a little-noticed provision in the 2011 National Defense Authorization Act that prevents military commanders and noncommissioned officers from being able to talk to service members about their private weapons, even in cases in which a leader believes that a service member may be suicidal.<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-9">9</a></sup><br /><sup></sup>…<br />Given the chance, could researchers achieve similar progress with firearm violence? It will not be possible to find out unless Congress rescinds its moratorium on firearm injury prevention research. Since Congress took this action in 1997, at least 427 000 people have died of gunshot wounds in the United States, including more than 165 000 who were victims of homicide.<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-1">1</a></sup> To put these numbers in context, during the same time period, 4586 Americans lost their lives in combat in Iraq and Afghanistan.<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-10">10</a></sup></p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/silencing-the-science-on-gun-research.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Data Integrity Requires Personal Integrity and Vetting</title>
+		<link>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html</link>
+		<comments>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html#respond</comments>
+		<pubDate>Tue, 10 May 2011 15:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[analysis]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[Obama Administration]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/data-integrity-requires-personal-integrity-and-vetting.html</guid>
+		<description><![CDATA[Anyone who has ever worked with data knows that making certain the information is &#8220;clean&#8221; is much more important than what you do with it. Brilliant analysis of inaccurate data may make heroes (Chamley, Prescott, etc.), but it doesn&#8217;t make sensible policy. Witness the release of &#8220;public&#8221; data from the state of Texas. Jeremy once [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Anyone who has ever worked with data knows that making certain the information is &#8220;clean&#8221; is much more important than what you do with it.  Brilliant analysis of inaccurate data may make heroes (Chamley, Prescott, etc.), but it doesn&#8217;t make sensible policy. Witness the release of &#8220;public&#8221; data from the state of Texas.</p>
+<p><a href="http://scatter.wordpress.com/">Jeremy</a> once commented that the transition from a public to a private university was the choice between everyone knowing your earnings(public data) and everyone knowing your student reviews.</p>
+<p>What happens when (1) everyone knows your salary but (2) <a href="http://chronicle.com/article/U-of-Texas-Faculty-Fret-That/127450/">what they know isn&#8217;t true</a>:<br />
+<blockquote>&#8220;My salary on the spreadsheet is $30,000 higher than my annual contract salary,&#8221; a lecturer in the University of Texas system wrote in an e-mail message. He did not want to be named because of his status as a non-tenure-track employee. &#8220;Other details are correct, but the number 99 percent of people will want to see is not. The spreadsheet says that it&#8217;s me, but it is not me.&#8221;</p></blockquote>
+<p>So why would this happen?  Because public universities in Texas aren&#8217;t allowed to treat their data as if they are private companies:<br />
+<blockquote>System officials said the decision to release the data even though it was in draft form and included many gaps resulted from receiving multiple requests for it from news-media outlets under the state&#8217;s open-records laws. After noting the data&#8217;s shortcomings, in a disclaimer cautioning that the information was &#8220;incomplete and has not been fully verified or cross-referenced,&#8221; the system released it &#8220;in the spirit of openness and transparency&#8221; because much of the data was already public anyway, said Anthony P. de Bruyn, director of public affairs.</p></blockquote>
+<p>Except, of course, that the data <em>wasn&#8217;t</em> already public.  Public data is vetted; this had not been.  So why was it released?<br /><a name="more"></a><br /> Apparently, because no one asked what the legal consequences would be if they made certain it was accurate first:<br />
+<blockquote>Thomas Kelley, a spokesman for the Texas attorney general&#8217;s office, said in an e-mail that the state&#8217;s Public Information Act &#8220;applies to records available on the date of request,&#8221; even if the university system thought the records being requested were incomplete. Mr. Kelley said system officials had two options: release the data available at the time or request a ruling from the attorney general&#8217;s office about whether the incomplete data must be released.</p></blockquote>
+<p>And what was wrong?  Well, almost anything:<br />
+<blockquote>Mr. de Bruyn said the data, which spans the system&#8217;s nine academic campuses, was collected mostly at the institutional level. Yet professors have noticed some mistakes in the data that seem to point to a more-distant process.</p>
+<p>For instance, Renee Rubin, an associate professor in the department of language, literacy, and intercultural studies at the University of Texas at Brownsville, said she and her department chair <em>were listed in the wrong department</em>. &#8220;So then you begin to wonder what else is wrong,&#8221; Ms. Rubin says. [emphasis mine]</p></blockquote>
+<p>Is it more worrisome if Mr. de Bruyn is correct, or if he is not?</p>
+<p>I&#8217;m think about this more intensely now in part because of the pending end of the publication of the invaluable <a href="http://www.census.gov/compendia/statab/">Statistical Abstract of the United States</a>. As Kieran Healy <a href="http://crookedtimber.org/2011/04/15/the-statistical-abstract-of-the-united-states/">noted</a>, &#8220;When it comes to the United States, the print and online versions of the SA are a peerless source of information for all your bullshit remediation needs.&#8221;</p>
+<p>Unlike the Texas imbroglio, the Statistical Abstract has <a href="http://bookstore.gpo.gov/collections/statistical_abstract.jsp">a 133 year publication history</a> and well-established reputation for accuracy.  Destroying that reputation would have taken only one major incident; will anyone ever trust public data released in Texas again?</p>
+<p>But the Obama Administration&#8217;s &#8220;<a href="http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/">transparency initiatives</a>&#8221; appear to be <a href="http://capwiz.com/ala/callalert/index.tt?alertid=37054501">failing here</a> as well, as an Unforced Error.  (paging <a href="http://www.google.com/search?hl=en&#038;lr=&#038;q=unforced+errors+site%3Adelong.typepad.com&#038;aq=f&#038;aqi=&#038;aql=&#038;oq=">Brad DeLong</a>)  And the consequence will be something that more resembles the Texas debacle than accurate, independent policy analysis.</p>
+<p>Unless the Administration considers providing peacemeal, unstandardized information to be a feature, it appears to be a substantive bug.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>In Which I Worry about the swimming pools of Casey Mulligan and Greg Mankiw</title>
+		<link>./../../2010/08/in-which-i-worry-about-the-swimming-pools-of-casey-mulligan-and-greg-mankiw.html</link>
+		<comments>./../../2010/08/in-which-i-worry-about-the-swimming-pools-of-casey-mulligan-and-greg-mankiw.html#respond</comments>
+		<pubDate>Thu, 12 Aug 2010 20:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Economic Principals]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/in-which-i-worry-about-the-swimming-pools-of-casey-mulligan-and-greg-mankiw.html</guid>
+		<description><![CDATA[Tim Duy takes a gracious lead pipe to silly analysis: It really makes one understand why the public often dismisses academics as out of touch in their ivory towers. One has to imagine that neither Mulligan nor Mankiw ever held a real summer job. Nor, apparently, have they looked at any other nonseasonally adjusted data. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tim Duy <a href="http://economistsview.typepad.com/economistsview/2010/08/it-such-a-silly-analysis.html">takes a gracious lead pipe to silly analysis</a>:<br />
+<blockquote>It really makes one understand why the public often dismisses academics as out of touch in their ivory towers. One has to imagine that neither Mulligan nor Mankiw ever held a real summer job. Nor, apparently, have they looked at any other nonseasonally adjusted data. Nor do they appear to have much understanding of the basic ebb and flow of US economic activity over the course of the year&#8230;.</p>
+<p>It seems to entirely escape them that aggregate demand has a very predictable season pattern &#8211; a seasonal pattern that exists in a recession or expansion.</p>
+<p>These seasonal patterns in demand activity are not new. Indeed, I imagine that if the data existed, we would see the pattern has remained virtually unchanged since the dawn of human existence, as least in parts of the world where seasonal weather patterns govern economic life. Indeed, it is the reason we have an influx of teenage labor in the summer. It is a throwback to the days of America&#8217;s agricultural past, when the DEMAND for additional labor in the summer months necessitated closing schools for the summer.</p>
+<p>As sure as the sun rises each day and winter turns to spring, sales spike at the end of the year as the holiday season approaches, collapse at the beginning of the year, rise in the summer, and then decline in the fall&#8230;</p>
+<p>You can set your clock to this trend. Every retail analyst knows this trend. Every teenager who has ever held a summer job knows this trend. And a huge swath of data follows similar trends, albeit usually without the pronounced end of year impact. Building activity, waste disposal, tourism, you name it, it has a seasonal demand pattern. I only have to look out my ivory tower to see it &#8211; stuff grows faster in the summer, and the city hires crews of teenagers to cut it back. The pool down the road is open and staffed by teenage lifeguards only in the summer. Not because the lifeguards are available, but because there is no demand for an outdoor pool most of the year in Eugene.</p></blockquote>
+<p>Read <a href="http://economistsview.typepad.com/economistsview/2010/08/it-such-a-silly-analysis.html">the whole thing</a>. Especially you, <a href="http://www.marginalrevolution.com/marginalrevolution/2010/08/the-mulligan-and-mankiw-challenge-to-extreme-keynesians.html">Tyler</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/in-which-i-worry-about-the-swimming-pools-of-casey-mulligan-and-greg-mankiw.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CBO data on taxes and income</title>
+		<link>./../../2010/07/cbo-data-on-taxes-and-income.html</link>
+		<comments>./../../2010/07/cbo-data-on-taxes-and-income.html#respond</comments>
+		<pubDate>Sat, 03 Jul 2010 17:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[cbo projections]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/cbo-data-on-taxes-and-income.html</guid>
+		<description><![CDATA[CoRev asks if anyone wants to discuss the justifications of the beneficiaries of the different parties policies. So I though this gives me an opportunity to present some recently publishedCBO data on income and tax that could give people something to tie the discussion to. Republican policy has been to favor the more affluent in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/TC96XnP3o4I/AAAAAAAABOs/9Dj35HmcKqQ/s1600/Clipboard01-cbo.bmp"><br /></a>CoRev  asks if anyone wants to discuss the justifications of the beneficiaries of the different parties policies.  So I though this gives me an opportunity to present some recently published<br />CBO data  on income and tax that could give people something to tie the discussion to.</p>
+<p>Republican policy has been to favor the more affluent in our society and justifies it with the claim that increasing the wealth and/or income of the &#8220;investor class&#8221; will make everyone better off &#8212; a rising tide lifts all boats.  If this worked I would strongly support such policies.</p>
+<p>But look at what this data shows has happened between 1979 and 2007.  This is a good set of dates for comparisons because it is essentially a peak to peak comparison from just prior to the 1980-1982 double recession and the current recession.  Moreover, it is an era dominated by the Republican policy of tax cutting and the investment boom of the 1990.</p>
+<p>First, as everyone knows this has been an era of a great surge of income inequality driven both by natural economic forces &#8212; the winner take all economy &#8212;  and tax policy.</p>
+<p><a href="http://1.bp.blogspot.com/_Zh1bveXc8rA/TC93YRYaZmI/AAAAAAAABN8/my6qS56aZHY/s1600/Clipboard01.bmp"><img src="http://1.bp.blogspot.com/_Zh1bveXc8rA/TC93YRYaZmI/AAAAAAAABN8/my6qS56aZHY/s320/Clipboard01.bmp" alt="" border="0"></a>The net product of this 30 year era was a shift of about ten percentage points of the economic pie from the bottom four quintiles to the top quintile.</p>
+<p><a href="http://1.bp.blogspot.com/_Zh1bveXc8rA/TC93oXmmIDI/AAAAAAAABOE/BYY7qqLu0SI/s1600/Clipboard02.bmp"><img src="http://1.bp.blogspot.com/_Zh1bveXc8rA/TC93oXmmIDI/AAAAAAAABOE/BYY7qqLu0SI/s320/Clipboard02.bmp" alt="" border="0"></a><br />This shift in the share of income share by the top quintile has also generated a significant<br />increase in the share of taxes paid by the top quintile.</p>
+<p><a href="http://1.bp.blogspot.com/_Zh1bveXc8rA/TC94M1IAyyI/AAAAAAAABOU/y0M8zTLl_KM/s1600/Clipboard03.bmp"><img src="http://1.bp.blogspot.com/_Zh1bveXc8rA/TC94M1IAyyI/AAAAAAAABOU/y0M8zTLl_KM/s320/Clipboard03.bmp" alt="" border="0"></a><br />But the shift in the distribution of the tax burden is due entirely to the growth in income<br />rather than a shift in tax policy as the average effective tax rate paid by each quintile has fallen. Actually, on a proportional basis the lowest quintile had the largest drop in its tax burden.</p>
+<p><a href="http://1.bp.blogspot.com/_Zh1bveXc8rA/TC94cs3hBzI/AAAAAAAABOc/6YjPhyeFkVw/s1600/Clipboard04.bmp"><img src="http://1.bp.blogspot.com/_Zh1bveXc8rA/TC94cs3hBzI/AAAAAAAABOc/6YjPhyeFkVw/s320/Clipboard04.bmp" alt="" border="0"></a><br />The federal tax burden is quite progressive as the last chart shows.  But in general state and local taxes such as sales taxes and property taxes are much more regressive, so the total tax burden is much less progressive than this chart implies.</p>
+<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/TC96XnP3o4I/AAAAAAAABOs/9Dj35HmcKqQ/s1600/Clipboard01-cbo.bmp"><img src="http://3.bp.blogspot.com/_Zh1bveXc8rA/TC96XnP3o4I/AAAAAAAABOs/9Dj35HmcKqQ/s320/Clipboard01-cbo.bmp" alt="" border="0"></a></p>
+<p>If this shift in income to the top quintile had generated the increase in savings and investment and generated widely shared prosperity it would be a good thing, and the<br />greater income inequality would be a fair trade-off for greater growth.</p>
+<p>But the actual results since the early 1980s has been a significant slowing of economic growth  and a drop in private savings&#8211; just the opposite of what republicans and economic theory says would happen.  Rather the results has been that since the early 1980s the US has increasingly lived beyond it means and ran up a major foreign debt to finance this consumption binge.  The two major drives behind this shift in the US has been the Reagan and Bush tax cuts.</p>
+<p>So I&#8217;ll take on CoRev and argue that the reason I oppose Republican policies is that they have been a complete and utter failure to deliver the results they promise.  They have just ran up a massive foreign debt to finance our living beyond our means and now blame Obama because he has failed to reverse the adverse impact of the failed republican policies.</p>
+<p>Supporting the republican &#8220;starve the beast&#8221; strategy reminds me of the comment I use to make back in the early 1970s that if Arthur Burns &#8212; the Fed Chairman &#8212; was a friend of business, business did not need any enemies.<br /><a name="more"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/cbo-data-on-taxes-and-income.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More Detail on Working the Refs</title>
+		<link>./../../2010/03/more-detail-on-working-the-refs.html</link>
+		<comments>./../../2010/03/more-detail-on-working-the-refs.html#respond</comments>
+		<pubDate>Tue, 02 Mar 2010 05:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[Calculated Risk]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/03/more-detail-on-working-the-refs.html</guid>
+		<description><![CDATA[So there are several comments to my previous post. Ignoring the a good one from Dr. DeLong, several people are taking umbrage at my unsubtle suggestion that the effect on employment being suggested is, to be polite about it, rather creative. kharris begins, &#8220;So let me see if I have this right. If anybody tries [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So there are several comments to <a href="http://www.angrybearblog.com/2010/02/working-refs.html">my previous post</a>. Ignoring the a good one from Dr. DeLong, several people are taking umbrage at my unsubtle suggestion that the effect on employment being suggested is, to be polite about it, rather creative.</p>
+<p>kharris begins, &#8220;So let me see if I have this right.  If anybody tries to figure out what the impact of snow on economic data might be, they are big fat liars?  But those who know that the economy is in bad shape, without reference to actual events, is a stand-up kind of hack?&#8221;</p>
+<p>Following is an expansion of my comment in that thread, with data:</p>
+<p>To the second question, well, I may be a hack, but my stand-up days are in the past. But given the choice between believing that the recovery is in full swing and that long-term unemployment is getting worse and jobs are not and will not be created, well, I&#8217;ll take <a href="http://www.cbo.gov/ftpdocs/108xx/doc10871/BudgetOutlook2010_Jan.cfm">the CBO projection</a> as the baseline:<br />
+<blockquote>CBO expects the unemployment rate to average a little over 10 percent for the first half of 2010, and it will probably not dip below 9 percent until 2012.</p></blockquote>
+<p>and note that if we&#8217;re calling that a recovery, our definitions have become Very Generous.  So bold claims of recovery need to be tempered by the prospect of worse headline unemployment (U-3) for the next five months (including February) and no significant recovery for the eighteen after all.</p>
+<p>Sorry I&#8217;m not doing handstands that GDP might be slightly positive for a few quarters of sub-replacement level employment increases, but I didn&#8217;t cheer the &#8220;recovery&#8221; of 2002 either, so at least I&#8217;m a consistent hack.</p>
+<p>To the first: Not at all; trying to figure out the effect is fair game and perfectly reasonable.  But the declarations so far are all running in one direction: we believe the economy is better than the data will be, so we need to wait if it looks bad.  (See <a href="http://www.calculatedriskblog.com/2010/02/auto-sales-blame-it-on-snow-and-toyota.html">Ms. Caldwell as quoted by CR</a> or <a href="http://economix.blogs.nytimes.com/2010/02/26/snowmageddon-still-has-time-to-kill-health-care-reform/">Catherine Rampell</a>, for example.)  Rampell:<br />
+<blockquote>That report will probably be very, very ugly. I have seen some forecasters project job losses as high as 100,000.</p>
+<p>The main culprit behind the expected jobs plunge is the blizzard, which closed businesses and kept people from going to work or even seeking work for days and sometimes weeks. These work stoppages probably occurred precisely when the government was collecting data for its February jobs report.</p></blockquote>
+<p>So the current estimates are all that (1) demand was down and (2) employment was down.</p>
+<p>And (3) deliveries were down: see <a href="http://blogs.wsj.com/economics/2010/03/01/ism-manufacturing-index-shows-impact-of-snow/">the ISM data</a>.<br />
+<blockquote> Put it all together, and you can tell a story of heavy snow snarling shipments to and from manufacturers, slowing down production growth.</p></blockquote>
+<p>But at least in this case, we have a clear indicator: the increase in backlogged orders.</p>
+<p>Finally, (4)<a href="http://blogs.wsj.com/economics/2010/03/01/after-the-tape-new-frugality-not-so-fast/">savings</a>.<br />
+<blockquote>The reasons for the stall are twofold: For one, rebounding wealth since the recession’s depths has helped provide some support for consumer spending. Secondly, weak income growth has left other consumers with little choice but to spend proportionally more of their incomes, particularly in light of [5] still-tight credit conditions.</p></blockquote>
+<p>So demand, supply, savings, credit, and employment are all down.  The first and second are aberrations of snow (and equilibrium), the second and third abide.</p>
+<p>Which leaves employment, which is discussed in more detail than most sane people would want below the fold.</p>
+<p><a name="more"></a><br />Now, it is clear that people who are employed did not work in the week. But they are not likely to have reported themselves as &#8220;unemployed&#8221; or (except in a very literal sense) &#8220;out of work.&#8221;  True, they did not produce—but what they would have produced was not bought, and hence there is a backlog of orders.</p>
+<p>But companies that now have backlogs of orders know that this was because they did not have their current workforce.  Accept an order to produce, say, 200 units (which takes a month to produce) and lose five to eight business days and you&#8217;ll be 50-80 units behind.</p>
+<p><strong><em>But you&#8217;re not going to go out and hire a new person to fill the backlog.</em></strong></p>
+<p>Yes, there was an effect on production and sales. But the idea that 100-200K jobs went unfulfilled solely because of weather conditions that were aberrant primarily in the mid-Continent is either (1) rather optimistic or (2) ignoring that the excess snow effect was mostly in the areas that are least underemployed. (See  <a href="http://economix.blogs.nytimes.com/2010/03/01/underemployment-state-by-state/">this nice map from Catherine Rampell</a>)</p>
+<p>So in the best case scenario, the recovery was muted because things were not delivered or sold—though money (savings) was (were) spent.  And the only reason firms didn&#8217;t hire was the snowstorm that closed D.C. and delayed Philadelphia. (Though there was no snow in NYC and, as noted, nothing unusual about the fallings in the Midwest.)</p>
+<p>The worst case scenario is that demand wasn&#8217;t filled solely because supply wasn&#8217;t available because existing workers could not produce.  Working on the &#8220;nine women pregnant for a month don&#8217;t produce a baby and you have a real problem eight months thereafter&#8221; rule, employers will (generally correctly) view their February backlog as a result of existing labor not working, not as a need to hire new workers. </p>
+<p>If you&#8217;re balancing the effects of those two—standard <a href="http://en.wikipedia.org/wiki/Slutsky_equation">Slutsky analysis</a>, as it were—there is a high likelihood that hiring will be dampened <em>going forward</em> by the snowstorm as firms underestimate actual demand.  It is less likely that actual hiring was significantly reduced by it.</p>
+<p>But that&#8217;s not the way the discussion is going. So a bad (negative) number has excuses, a poor number (positive, but less than replacement rate) has excuses and should be seen as &#8220;good,&#8221; and a good number (replacement rate or better) will mean &#8220;all ahead full.&#8221;</p>
+<p>So I tried looking at ancillary data.  Looking at <a href="http://www.eia.doe.gov/cneaf/electricity/epm/epm_sum.html">power usage</a>, for instance, indicates a major decline that would correspond to less activity(Table 1.6.b; Commercial usage YOY down 3.6%; Industrial usage YOY down 5.6% with declines in all areas; total usage down 4.3% YOY [Table 1.1])—but that&#8217;s only through November.</p>
+<p>Maybe the past three months have been part of a miraculous recovery.  But it&#8217;s not in employment, its not in the available energy usage data, and it doesn&#8217;t follow from the ISM data, which indicates slow growth at best.</p>
+<p>Those who want to claim the economy is recovered have been, as noted, &#8220;working the refs.&#8221; So a bad number (by Rampell&#8217;s apparent reasoning) will kill health care reform, but not mean that we need a second stimulus—even though <a href="http://blogs.wsj.com/economics/2010/02/26/state-budgets-still-falling-like-its-2008/">the states are hemorrhaging money and, soon, jobs</a>. (Teachers, police and fire&#8211;you know, all the nonessential personnel.)</p>
+<p>It&#8217;s a heads-we-win-tails-we-win-more situation being set up.</p>
+<p>If we pretend that all of the argument are true: that the snowstorm was a once-in-a-lifetime event and that it really did produce a major skew though, we might want to look at what happened the last time a &#8220;once-in-a-lifetime event&#8221; occurred near the end of a recession.
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/S4x-KNz4RjI/AAAAAAAAAZc/ut-apaACICQ/s1600-h/Emply20012002.png"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/S4x-KNz4RjI/AAAAAAAAAZc/ut-apaACICQ/s400/Emply20012002.png" border="0" alt=""></a></p>
+<p>The vertical lines are at September and December of 2001.  For a week in September, everyone—and this time I mean <em>everyone</em>, not just the bottom third of the Bos-Wash corridor—stopped shopping for a week.  As predicted above, the employment effects abided for at least the next few months. (Recall, after all, that that recession <a href="http://www.nber.org/cycles/cyclesmain.html">officially</a> ended in November.)</p>
+<p>Given the choice between (1) assuming that there will be a one-off decline in employment due to the snow and that everything will return to recovery next month or (2) that there will be a lingering, negative employment effect from the snowstorm and attendant business slowdowns, there appears to be only one way to bet, given the data and the history.</p>
+<p>Yet the calls right now—absent evidence—are going the other way.</p>
+<p>If we&#8217;re working from anecdotal evidence, then certainly there is a recovery. It&#8217;s the extant data that doesn&#8217;t support any recovery that is not also described as &#8220;jobless and uncertain.&#8221; That may change on Friday.  But it&#8217;s not the way to bet, no matter how much the refs are worked.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/03/more-detail-on-working-the-refs.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Working the Refs</title>
+		<link>./../../2010/02/working-the-refs.html</link>
+		<comments>./../../2010/02/working-the-refs.html#respond</comments>
+		<pubDate>Mon, 01 Mar 2010 04:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Calculated Risk]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/working-the-refs.html</guid>
+		<description><![CDATA[So there was this big snowstorm that hit the East Coast a couple of weeks ago. (Not the one this weekend, that dumped about 2&#8242; of snow on Upstate New York and a little more than a foot here in suburban New Jersey; the one that wiped out D.C. and gave the Party of No [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So there was this big snowstorm that hit the East Coast a couple of weeks ago.  (Not the one this weekend, that dumped about 2&#8242; of snow on Upstate New York and a little more than a foot here in suburban New Jersey; the one that wiped out D.C. and gave the Party of No an excuse to do nothing.)</p>
+<p>Snow in February.  What a surprise!  Clearly, <a href="http://instaputz.blogspot.com/2010/02/its-snowing-in-february.html">not something that happens every year</a>.</p>
+<p>My high school classmates and others in the Midwest see the notice and say, &#8220;Yeah, gosh, sounds like <a href="http://www.crh.noaa.gov/ind/f6-decode_ind.php">January</a> and <a href="http://www.theindychannel.com/weather/22599784/detail.html">February</a> here.&#8221;</p>
+<p>But <em>This One is Different</em>.  Maybe because it gave the U.S. press <a href="http://www.huffingtonpost.com/dr-mark-hyman/haiti-weather-report-most_b_479319.html">an excuse to pay no attention to Haiti</a>.  Maybe because closing down D.C. meant that all the pundits <a href="http://agonyin8fits.blogspot.com/2010/02/libertarian-crises-management.html">got to whine</a> and <a href="http://agonyin8fits.blogspot.com/2010/02/die-hard.html">reveal their suffering</a>.</p>
+<p>And, just maybe, because it has become the all-purpose excuse for the February Employment Report.  Or any other hint that the world is not perfect, and those &#8220;green shoots&#8221; haven&#8217;t been eaten by starving deer who were then shot by Big Bank Hunters.</p>
+<p>The Usual Suspects are <a href="http://delong.typepad.com/sdj/2010/02/what-does-the-great-east-coast-snowstorm-mean-for-the-march-5-employment-report.html">already out in force</a>.* And <a href="http://www.calculatedriskblog.com/2010/02/auto-sales-blame-it-on-snow-and-toyota.html">the hedging (not in the risk management sense) has begun</a>:<br />
+<blockquote>&#8220;We will have to wait until March to see if February is an aberration or a fundamental sign that the recovery in sales will be more subdued than hoped,&#8221; [Jessica Caldwell, Edmunds&#8217; director of industry analysis said].</p></blockquote>
+<p>So anything that can be marginally interpreted as positive will be The Crest of a Wave, while anything that makes those legendary shoots look as if they were artificial flowers will get the rousing &#8220;Wait Until March!&#8221; cry.</p>
+<p>All we really know is that—thanks to Senator Bunning and <a href="http://crooksandliars.com/susie-madrak/filibuster-sen-jim-bunning-bucks-unem">a pliant Democratic &#8220;leadership&#8221;</a>—March, not April, is the Cruelest Month for <a href="http://www.calculatedriskblog.com/2010/02/12-million-to-lose-unemployment.html">about 1.2 million normally-working Americans</a>.</p>
+<p>But, gosh, the job gains for February might be understated by 5-8% of that total.  So let&#8217;s not do anything hasty.</p>
+<p>*Yes, it&#8217;s &#8220;pick on Brad DeLong day.&#8221;  Didn&#8217;t you get the memo?  (Also, I can&#8217;t find discussion of the topic at any of the <a href="http://econospeak.blogspot.com/">Other</a> <a href="http://economistsview.typepad.com/economistsview/">Usual</a> <a href="http://www.econbrowser.com/">Suspects</a>, though I haven&#8217;t checked The Big Picture.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/working-the-refs.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bleg of the Day, or Noted for the Record</title>
+		<link>./../../2009/09/bleg-of-the-day-or-noted-for-the-record.html</link>
+		<comments>./../../2009/09/bleg-of-the-day-or-noted-for-the-record.html#respond</comments>
+		<pubDate>Fri, 11 Sep 2009 21:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[data]]></category>
+		<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[just life]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/bleg-of-the-day-or-noted-for-the-record.html</guid>
+		<description><![CDATA[So I ran DataFerret in Batch mode. (I&#8217;m using other data and thought I would be nice. Never again, apparently.) Got the popup that said, &#8220;We&#8217;re gonna do it, dude. You can pick it up later at URL.&#8221; And the URL was (1) complicated and (2) not copyable from the popup. Haven&#8217;t gotten an e-mail [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I ran DataFerret in Batch mode. (I&#8217;m using other data and thought I would be nice.  Never again, apparently.)</p>
+<p>Got the popup that said, &#8220;We&#8217;re gonna do it, dude.  You can pick it up later at URL.&#8221;</p>
+<p>And the URL was (1) complicated and (2) <em>not</em> copyable from the popup.</p>
+<p>Haven&#8217;t gotten an e-mail saying the data is ready, and haven&#8217;t been able to duplicate the URL.</p>
+<p>Anyone who can tell me if I just have to Start Over, or if there is a way to find it?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/bleg-of-the-day-or-noted-for-the-record.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

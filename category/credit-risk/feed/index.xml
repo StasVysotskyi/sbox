@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>credit risk &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Paul Krugman is Very, Very Wrong</title>
+		<link>./../../2012/04/paul-krugman-is-very-very-wrong.html</link>
+		<comments>./../../2012/04/paul-krugman-is-very-very-wrong.html#respond</comments>
+		<pubDate>Sat, 21 Apr 2012 00:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[money supply]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/paul-krugman-is-very-very-wrong.html</guid>
+		<description><![CDATA[by Mike Kimel Update &#8230;Since this post has gotten a lot of attention, jump here for myfinal word on this topic. I&#8217;m sure I&#8217;m missing something here, because Paul Krugman is so often extremely perceptive, but I think here he is very, very wrong. He writes: The naive (or deliberately misleading) version of Fed policy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://presimetrics.com/">Mike Kimel</a></p>
+<p>Update &#8230;Since this post has gotten a lot of attention, jump here for <a href="http://www.angrybearblog.com/2012/04/they-also-serve-who-only-stand-and.html">my<br />final word</a> on this topic.</p>
+<p>I&#8217;m sure I&#8217;m missing something here, because Paul Krugman is so often extremely perceptive, but I think <a href="http://krugman.blogs.nytimes.com/2012/04/20/plutocrats-and-printing-presses/">here</a> he is very, very wrong.  He writes:<br />
+<blockquote>The naive (or deliberately misleading) version of Fed policy is the claim that Ben Bernanke is “giving money” to the banks. What it actually does, of course, is buy stuff, usually short-term government debt but nowadays sometimes other stuff. It’s not a gift.</p>
+<p>To claim that it’s effectively a gift you have to claim that the prices the Fed is paying are artificially high, or equivalently that interest rates are being pushed artificially low. And you do in fact see assertions to that effect all the time. But if you think about it for even a minute, that claim is truly bizarre.</p></blockquote>
+<p>Um, I dunno.  Perhaps on specific day to day operations Ben B. is not giving money to the banks, but things look very different with a 30,000 foot view.  (I suspect &#8220;the banks&#8221; most people mean if they say there are  giveaways going on are not all banks but rather a small subset of basket cases.) Remember the toxic asset purchase?  When the Fed spends over a trillion bucks paying the face value for securities whose real worth has declined to a fraction of that face value, to me that is both an expansion of the money supply and a give-away to those from whom one &#8220;purchases&#8221; those assets.  There have been any number of similar, er, programs the Fed has run in the last few years which have had the same purpose:  injecting money into a small number of entities that made extremely bad lending decisions in ways that specifically avoid making those entities pay any sort of market or reasonable price for that money.  </p>
+<p>That isn&#8217;t the only error in Krugman&#8217;s post.  He also tells us this:</p>
+<blockquote><p>Furthermore, Fed efforts to do this probably tend on average to hurt, not help, bankers. Banks are largely in the business of borrowing short and lending long; anything that compresses the spread between short rates and long rates is likely to be bad for their profits. And the things the Fed is trying to do are in fact largely about compressing that spread, either by persuading investors that it will keep short rates at zero for a longer time or by going out and buying long-term assets. These are actions you would expect to make bankers angry, not happy — and that’s what has actually happened.</p></blockquote>
+<p>Yes, the Fed is sending a message that it well keep short rates at zero for a while longer.  But which short rates and which long rates is Krugman talking about?  Because banks can borrow at one rate &#8211; the effective federal funds rate, and they loan money to the public at a number of other rates. </p>
+<p>I wandered over to FRED, the economic database of the St. Louis Fed and downloaded the <a href="http://research.stlouisfed.org/fred2/series/FF/downloaddata?cid=118">Effective Federal Funds rate</a> and the <a href="http://research.stlouisfed.org/fred2/series/MORTGAGE30US/downloaddata?cid=114">Average 30-Year Mortgage rate</a>, which should be a good representation of a long rate used in loans by banks to the public.</p>
+<p>The thirty-year mortgage is first reported on 5/7/1976 and is reported weekly thereafter.  The FF tends to be reported a day or two earlier or later depending on the week, holiday schedules, and the like.  Here&#8217;s what the 30-year Mortgage less the Fed Funds rate looks going back that far:</p>
+<p><a href="http://3.bp.blogspot.com/-OUdCp7RhdLw/T5H7FSkCmgI/AAAAAAAAA8M/UDbjyZG5ahE/s1600/Krugman%2BPost%252C%2BFigure%2B1.jpg"><img alt="" border="0" src="http://3.bp.blogspot.com/-OUdCp7RhdLw/T5H7FSkCmgI/AAAAAAAAA8M/UDbjyZG5ahE/s320/Krugman%2BPost%252C%2BFigure%2B1.jpg"></a></p>
+<p>As is evident from the graph, whatever the Fed has been doing since the recession began in December of 2007, it isn&#8217;t compressing the spread between the 30-year mortgage rate and the Fed Funds rate.  </p>
+<p>Perhaps things might look different if the Fed followed more of a Banco do Brasil model, where the public could borrow directly from the Central Bank.  But as things stand, pace Krugman, the Fed&#8217;s interventions since the recession began have only increased the spread between the rate at which banks can borrow and the rate at which they can loan out money.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/paul-krugman-is-very-very-wrong.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Default Events, Legal Contracts, Derivatives, and Greece</title>
+		<link>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html</link>
+		<comments>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html#respond</comments>
+		<pubDate>Fri, 02 Mar 2012 22:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CDS]]></category>
+		<category><![CDATA[credit markets]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[default]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[euro area]]></category>
+		<category><![CDATA[Greece]]></category>
+		<category><![CDATA[markets]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/default-events-legal-contracts-derivatives-and-greece.html</guid>
+		<description><![CDATA[Barry Ritholtz, who generally knows better, blew a gasket at ISDA for yesterday&#8217;s ruling that Greek bonds are not yet in default. Specifically, &#8220;The International Swaps and Derivatives Association said on Thursday that based on current evidence the Greek bailout would not prompt payments on the credit default swaps.&#8221; > Here is a question for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Barry Ritholtz, who generally knows better, <a href="http://www.ritholtz.com/blog/2012/03/isda-suckers-wanted/">blew a gasket at ISDA</a> for yesterday&#8217;s ruling that Greek bonds are not yet in default.  Specifically,<br />
+<blockquote>
+<blockquote>&#8220;The International Swaps and Derivatives Association said on Thursday that based on current evidence the Greek bailout would not prompt payments on the credit default swaps.&#8221;</p></blockquote>
+<p>></p>
+<p>Here is a question for the crowd: Exactly how brain damaged, foolish and stupid must a trader be to ever buy one of these embarrassingly laughable instruments called derivatives?</p>
+<p>The claim that Greece has not defaulted — despite refusing to make good on their obligations in full or on time — is utterly laughable.</p></blockquote>
+<p>Let&#8217;s sidebar the reality—that there is no true &#8220;market&#8221; for CDS in general, let alone Sovereign Debt CDS; Donald R. van Deventer of Kamakura Corporation has been all over this, both <a href="http://www.kamakuraco.com/Blog.aspx">on his blog</a> and especially <a href="https://twitter.com/#!/dvandeventer">on Twitter</a>—and just note that ISDA made the correct decision.</p>
+<p>Greece has not, to borrow Barry&#8217;s phrase, &#8220;refus[ed] to make good on their obligations in full or on time.&#8221; ISDA did not declare a Default Event yesterday because there has not yet been a Default Event.</p>
+<p>Default Event is a very specific term. The sample in <a href="http://www.tavakolistructuredfinance.com/index.html">Janet Tavakoli</a>&#8216;s <em><a href="http://www.booksamillion.com/product/9780471412663?id=4214424925428">Credit Derivatives and Synthetic Structures</a></em> (a book to which I <a href="http://www.angrybearblog.com/2010/02/in-other-news-larry-king-is-selling.html">have</a> <a href="http://www.angrybearblog.com/2008/09/roubinis-not-wrong-but.html">referred</a> <a href="http://www.angrybearblog.com/2011/01/third-time-someone-will-believe.html">before</a> and undoubtedly will again) runs pretty much three full pages (pp. 88-91).  But the general concept is straightforward: there is a minimum threshold (say, 10% of an issue), the principal or interest due of which the entity explicitly refuses to pay or fails to pay that then materially impacts the buyer of Credit Protection (CDS).</p>
+<p><a name="more"></a><br />Greece has not yet refused to pay anything.*</p>
+<p>There is a payment due on 20 March—19 days still in the future. The financial markets—heck, everyone who runs a diner in Queens—may well believe that no payment will be made on 20 March, but that hasn&#8217;t happened yet.  And the Greek government specifically has <em>not</em> said it won&#8217;t make the payment; it has said, &#8220;Hey, take these bonds instead.&#8221;</p>
+<p>It is true that, <em>cet. par.</em>, the market value of the bonds being offered is about 25% the supposed economic value of the current ones. So anyone taking the deal would have to be assuming that the <em>market</em> value of the current bonds is somewhere around 25, just as the French and German banks have them marked.</p>
+<p>The market may also agree that one of the reasons people may well accept the offer is that, otherwise, they expect that the Greeks <em>will</em> default on the current bonds.  </p>
+<p>But they haven&#8217;t yet, and this is not <a href="http://www.imdb.com/title/tt0181689/">Minority Report</a> (though we can all agree Phil Dick would recognize, if not approve of, the current financial world).</p>
+<p>So ISDA correctly ruled—the key phrase is &#8220;based on current evidence&#8221;—that there is not yet a Default Event.  If everyone says &#8220;we will tender our securities due 20 March for the exchange offered,&#8221; there will not be a default of those bonds.</p>
+<p>You, I, and Bill Gross can all agree that the likelihood of this happening is about equal to the chance that Rick Perry will be elected U.S. President this year.  But there has not been a Default Event.</p>
+<p>Wait two or three weeks.</p>
+<p>The thing Barry most overlooks is that yesterday&#8217;s ISDA ruling is, if anything, <em>good</em> for CDS buyers.</p>
+<p>What will be the economic difference of waiting to holders of the CDSes?  I don&#8217;t know for certain, but if you&#8217;re looking at the standard ISDA CDS contract, there&#8217;s a reasonable assumption that (1) the market price of the bond will not change for the better and (2) it is a certainty that the Accrued Interest on the bond will be greater when they declare a Default Event than it is now.</p>
+<p>Keep in mind: in a standard CDS, declaration of default <em>terminates the contract</em>. Accruals end, market pricing is to be determined by calling a few dealers, and the only thing left is to go through the pockets and look for loose change.**</p>
+<p>Yesterday&#8217;s ISDA ruling means the CDS buyers will be owed more Accrued Interest when (in two, or at most three, weeks) a Default Event is declared.</p>
+<p>What about the principal repayment due?  Recall again that the payment due is generally the net of the current market price <em>subtracted from</em> the initial principal amount (assumed to be par—100—but in any event greater than the current market value).</p>
+<p>I&#8217;m inclined to argue there is optimism in the current market that will not be there in two weeks: it&#8217;s not that liquid a market, there is a floor on the price of the economic equivalent of the new offer, and there is time value in the option to convert.***</p>
+<p>If ISDA had declared default yesterday—that is, assumed that Greece wasn&#8217;t just &#8220;mostly dead&#8221;****—they would have taken the current market price [P<sub>0</sub>]. Even before the delays and roundelays, that was likely to be greater than the market price of those bonds in a week or two[P<sub>1</sub>, when default is declared.</p>
+<p>That is, P<sub>0</sub> is greater than P<sub>1</sub>. And since the payment due is based on [100*****-P<sub>t</sub>], the principal amount due to CDS holders when default is declared will also be greater.</p>
+<p>ISDA followed the letter of the contract: the Greeks have not yet defaulted on an obligation, nor have they stated that they intend to do so.  When they do—there are few, if any, in the market who would treat the clause as a possible &#8220;If&#8221;—a Default Event will be declared and the CDS contracts will be expected to pay as they are due. And that payment will, in all likelihood, be higher than the payment that would have been due if ISDA had ruled differently yesterday.</p>
+<p>And if they don&#8217;t, then I&#8217;ll be agreeing with Barry that the whole thing was a scam from the start—though I would still argue that JPMorganChaseBear stealing more than $1,000,000,000 in customer funds from MF Global clients is a bigger one, which is something like saying that coprophagia is even worse in liquid form.</p>
+<p>When the CDS contracts actually have to be paid, then the fun will begin. If potential for insolvency is your idea of fun. But that&#8217;s another story.</p>
+<p>*They have seen S&#038;P downgrade their credit rating, but that&#8217;s a separate issue.</p>
+<p>**Obligatory reference.  It will pay off.</p>
+<p>***The Worst Case scenario is that you assume the new bonds are the only value in the transaction, and discount their value back over the cost of basically two-week money. The best case scenario is some combination of the price of the new bonds and expectations of either getting a better deal later and/or post-litigation gains.  The lattice may be ugly, but it yields an expected value higher than the Worst Case, and therefore higher than the market price of the bonds as the time to exercise approaches.</p>
+<p>****See ** above.</p>
+<p>*****Or the other initial contract price; in any case, a fixed value greater than P<sub>t</sub>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Game for the Weekend</title>
+		<link>./../../2011/08/game-for-the-weekend.html</link>
+		<comments>./../../2011/08/game-for-the-weekend.html#respond</comments>
+		<pubDate>Sat, 06 Aug 2011 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[asset values]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[investments]]></category>
+		<category><![CDATA[ratings]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[US Rating]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/game-for-the-weekend.html</guid>
+		<description><![CDATA[Find a set of Mortgage-Backed Securities that are (1) still rated AAA by S&#038;P, (2) have a WAL the same as (close to) an on-the-rin US Treasury, and (3) still have a Factor within 5% of the expectation of a generic MBS of that maturity  (that is, are not clearly impaired). Post the CUSIP(s) in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Find a set of Mortgage-Backed Securities that are (1) still rated AAA by S&#038;P, (2) have a WAL the same as (close to) an on-the-rin US Treasury, and (3) still have a Factor within 5% of the expectation of a generic MBS of that maturity  (that is, are not clearly impaired).
+<p>Post the CUSIP(s) in comments, along with that of the reference UST, and let&#8217;s track relative values on a regular basis for the next several months.</p>
+<p>Anyone betting on where the relative value will be?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/game-for-the-weekend.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FICO Scores and Mortgage Payment Performance</title>
+		<link>./../../2010/02/fico-scores-and-mortgage-payment-performance.html</link>
+		<comments>./../../2010/02/fico-scores-and-mortgage-payment-performance.html#respond</comments>
+		<pubDate>Sat, 13 Feb 2010 16:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[econometrics]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[subprime]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/fico-scores-and-mortgage-payment-performance.html</guid>
+		<description><![CDATA[I had an informal discussion with a manager in an MBS IT area last month. Just a general conversation about the field and the data people check.  He mentioned FICO scores and I noted that I’m not fond of using them to evaluate a mortgage, especially for first-time homebuyers. Part of this is simple: it’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I had an informal discussion with a manager in an MBS IT area last month. Just a general conversation about the field and the data people check.  He mentioned FICO scores and I noted that I’m not fond of using them to evaluate a mortgage, especially for first-time homebuyers.</p>
+<p>Part of this is simple: it’s relatively easier—even in the densely-populated metropolitan areas (e.g., NYC, SF), and certainly in sub- and exurban areas—to maintain a good credit rating if you don’t own a residence.  No property taxes, no major repairs, no appliance replacement, no general maintenance, no landscaping, no snow shoveling.  And it’s very easy, especially the first time, to underestimate just how much those expenses will be.  Looking at just the cost of commuting, renting, storage, parking, etc. makes homeownership appear to be a better economic decision than it is.*</p>
+<p>Well, the Federal Reserve Bank of New York recently released some data on mortgage payments by type. It’s not directly comparable—the subprime and Alt-A loans have a more granular level of data, most especially with respect to late and current payments—but there are some interesting relationships.</p>
+<p>I looked at the data for States where the subprime loans are current for either (1) more than 55% of the borrowers or  (2) less than 45% of the borrowers, which includes 24 states and the District of Columbia.  The overall breakdown was 16 states in the first group and eight states and the District of Columbia in the second.</p>
+<p>Of the six states that have more than 100,000 subprime loans outstanding, three—Illinois, Florida, and California—are in the More Delinquent category, while only one (Texas) is in the “so far, so good” realm.**<br /><a name="more"></a><br />So I ran a regression on those states and the District, using as factors the percent of the subprime loans that were not Owner-Occupied, the Average FICO score for the state, the percent of subprime loans issued to borrowers with a FICO below 600, and the percent of subprime loans issued to borrowers with a FICO score above 660.  The result was<br />
+<blockquote>PctwithCurrPymt = –1.18*(FICO>660) + .292*(FICO<600) + .266*(Average FICO Score) –0.9*(Pct Not Owner-Occupied) –93.66
+<p>R-squared = 0.4213  (Adjusted R-squared= .3056) F = 3.64  (Prob > F = 0.0220)</p>
+</blockquote>
+<p>However, none of the coefficients passes the <a href="http://en.wikipedia.org/wiki/Student's_t-test">t-test</a>.</p>
+<p>If we assume that there is a solid distinction between a FICO score below 600 and one above 660, then we must note that the signs of this regression are <em>precisely the opposite</em> of what we should expect.  The more loans with an initial FICO score above 660, the fewer the number of households that are expected to be current in their payment. Conversely, the more households with a FICO score below 600, the better the Current Payment Performance should be expected to be.
+<p>This would seem to be a Very Bad Regression—both methodologically, since it takes two separate sets of data and treats them as if they are part of the same set and intuitively, since it produces results that are not compatible with rational assumptions—but that may not be so.</p>
+<p>California, for instance, has the third-highest percentage of Owner-Occupied Properties, the highest Average FICO Score, the lowest percentage of subprime loans to borrowers with FICO scores below 600 and the highest percentage of subprime loans to borrowers with a FICO score above 660.  But it falls into the group where fewer than 45.0% of the borrowers are current.***</p>
+<p>Which means that, were you to use FICO scores as an input to your model for buying Whole Loans to securitize, you would likely have bought more currently-dicey CA paper than not.</p>
+<p>But, as noted, we may believe this to be a Very Bad Regression. The greatest likelihood is that there is/are (an) excluded variable(s) in the equation.  If we consider the entire set of data, this becomes clearer.  The regression equation for all of the states and the District of Columbia is:</p>
+<blockquote><p>PctwithCurrPymt = <strong>–1.019*(FICO>660)</strong> <strong>+ .6118*(FICO<600)</strong> + .7685*(Average FICO Score) –0.38*(Pct Not Owner-Occupied) –422.80
+<p>R-squared = 0.1471  (Adjusted R-squared= .0730) F = 1.98  (Prob > F = 0.1128)</p>
+</blockquote>
+<p>The signs remain consistent—and counterintuitive—but there is a much lower explanatory power and it is much more likely that the regression fails the F-test.  And again, none of the coefficients passes a t-test.
+<p>Adding variables whose signs are more likely to produce indeterminate results—the Average Age and the Average Interest Rate of the Loans—corrects the two original signage issues, but produced a third (and possibly a fourth):</p>
+<blockquote><p>PctwithCurrPymt = 1.375546*(FICO>660) –1.639*(FICO<600) <strong>&#8211; 1.3423*(Average FICO Score)</strong> –0.223*(Pct Not Owner-Occupied) <strong>+ 16.5340 AvgInterestRate</strong> + 0.2632 AvgLoanAge + 775.9700</p>
+<p>R-squared = 0.4661  (Adjusted R-squared= .3991) F = 6.40  (Prob > F = 0.0001)</p>
+</blockquote>
+<p>The additional variables have significantly raised the explanatory power of the model, and we now see that the FICO scores point in the intuitive directions. But the Average FICO score has ceased to be a positive contributor to the model, and the Average Interest Rate—the only variable that passes a t-test for significance—indicates that the higher the rate, the higher the likelihood of payment.</p>
+<p>So we are left suspecting that the initial FICO score does not significantly affect the ability of the borrower to keep their loan payment(s) current.  This also seems intuitive, since a FICO score is a stock variable, while mortgage payments are flow variables.</p>
+<p>But, as with credit ratings, good FICO scores can only go downward.  And it is very rare—especially in an environment in which there is downward pressure on wages—for a good FICO score to go upward.  Indeed, dropping the positive FICO score and the Average FICO score as a variables makes for a better regression:<br />
+<blockquote>PctwithCurrPymt = –0.663*(FICO<600)  –0.238*(Pct Not Owner-Occupied) + 15.4976 AvgInterestRate + 0.1469 AvgLoanAge – 47.325
+<p>R-squared = 0.4466  (Adjusted R-squared= .3985) F = 9.28  (Prob > F = 0.0000)</p>
+</blockquote>
+<p>While the Average Interest Rate still has a counterintuitive sign, we should note that the Averages range from 6.69 to 8.66%—even the high end is neither an overwhelming burden for subprime borrowers nor a level from which it is likely to have been worth refinancing. Additionally, while AvgInterestRate remains the only coefficient that completely passes a t-test, both FICO<600 (-3.17) and the constant (-2.54) are negative for all values within a 95% confidence interval.
+
+Dropping Non-Owner-Occupied from the equation sharpens matters even more:
+<blockquote>PctwithCurrPymt = –0.6747*(FICO<600)  + 15.7738 AvgInterestRate + 0.1400 AvgLoanAge – 50.7117
+<p>R-squared = 0.4407  (Adjusted R-squared= .4050) F = 12.34  (Prob > F = 0.0000)</p>
+</blockquote>
+<p>With the t-values for both FICO<600 (-3.25) and the constant (-2.83) now both more than 99% probable and, again, the values being negative for the entirety of a 95% confidence interval.
+
+In summary, the use of FICO scores as a predictor of mortgage repayments appears to be questionable at best, for the same reason that “junk” bonds tended to outperform high-grade securities on a risk-adjusted basis: it is much easier for a rating to decline than it is for it to improve.  The value of a FICO score as a predictor of loan performance appears to be much more for lower scores than it is for higher ones.  Whether there is greater value on a risk-adjusted basis, as there legendarily has been for corporate bonds, is left for further, more detailed research.
+
+*None of which is to suggest that the non-economic reasons aren’t valid.  But credit scores deal with how you manage credit, and how you manage credit has to do with the options you have as much as the choices you make.  Homeowners have fewer options on the allocation of funds to lodging than renters do.
+
+**New York State and Ohio are in the middle range.with 46.8% and 52.0% current, respectively.
+
+***Only Hawaii had tighter FICO standards than California—and they have the second-highest (worst) level of non Owner-Occupied Subprime loans (and the worst of any area with more than 10,000 subprime loans outstanding), while California is fifth-best (lowest) in that metric.
+</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/fico-scores-and-mortgage-payment-performance.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WAPO on AIG III</title>
+		<link>./../../2008/12/wapo-on-aig-iii.html</link>
+		<comments>./../../2008/12/wapo-on-aig-iii.html#respond</comments>
+		<pubDate>Wed, 31 Dec 2008 06:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/wapo-on-aig-iii.html</guid>
+		<description><![CDATA[Robert Waldmann ended my last post 5 minutes ago wishing for part III of the saga and here it is !The final act for AIG by Robert O&#8217;Harrow Jr. and Brady Dennis The collapse was, of course, quick when it came. One interesting fact is that AIG Financial Products (AIGFP) stopped writing new CDSs in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann </p>
+<p>ended my last post 5 minutes ago wishing for part III of the saga and here it is !<br /><a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/12/30/AR2008123003431.html?hpid=topnews">The final act for AIG by  Robert O&#8217;Harrow Jr. and Brady Dennis</a></p>
+<p>The collapse was, of course, quick when it came.  One interesting fact is that AIG Financial Products (AIGFP) stopped writing new CDSs in 2005.  Another is that, until then, they had little idea what they were doing.</p>
+<blockquote><p>In fall 2005, Eugene Park was asked to take over Alan Frost&#8217;s responsibilities at Financial Products. Frost had done exceedingly well in marketing the credit-default swaps to Wall Street, and was getting a promotion. He would now report to Cassano directly on other strategic projects.</p>
+<p>Park &#8230;was worried about the subprime component of the CDO market. He had examined the annual report of a company involved in the subprime business. He was stunned, he told his colleagues at the time.</p></blockquote>
+<p>What a fascinating new idea &#8212; how about examining the annual report of a firm whose securities one insures.  I mean not all of them (what a bore) but just one.  </p>
+<p>From this passage it seems that AIGFP just assumed that mortgages were what they had been in the past.  I mean it&#8217;s not their problem.  The non bank mortgage lenders were loaning all they could, because they figured they could pass on the risk (well sometimes risk sometimes certainty of default) to people making CDOs who could pass it on to people buying CDOs who could pass it on to AIGFP which doesn&#8217;t seem to have wondered what they were insuring.</p>
+<p>I give you a hint.  If you tell the world that you are glad to bear all of some vaguely defined kind of risk, then it will get riskier.</p>
+<p>AIG was a major factor in the market: </p>
+<blockquote><p>Financial Products had $2.7 trillion worth of swap contracts and positions; 50,000 outstanding trades; 2,000 firms involved on the other side of those trades; and 450 employees in six offices around the world.</p></blockquote>
+<p>That&#8217;s $ 6 billion in exposure per employee!</p>
+<p>Obviously AIGFP had decided that to write CDSs on AAA rated securities was to get money for nothing.  They couldn&#8217;t possibly examine the securities they were insuring.  Notice how Frost&#8217;s role was described: &#8220;Frost had done exceedingly well in marketing the credit-default swaps to Wall Street.&#8221;  You can do very well at selling something if you are charging too low a price.</p>
+<p>I guess they can blame the credit rating agencies.  In fact they do, but not for rating toxic sludge AAA but for rating them AA.  The final words &#8220;There was no system in place to account for the fact that the company might not be a Triple A forever.&#8221;</p>
+<p>In fact AIG hasn&#8217;t paid out on CDSs, they ran $150 billion short of ready cash, because they had to post collateral: &#8216;If additional downgrades occurred, either in AIG&#8217;s credit rating or in the CDO ratings, Financial Products would have to come up with tens of billions of dollars in collateral it did not have.&#8217;</p>
+<p>AIG was downgraded from AAA to AA when Eliot &#8220;socks on&#8221; Spitzer caught him cooking the books.  </p>
+<blockquote><p>On March 14, 2005, Greenberg stepped down amid allegations about his involvement in a questionable deal and accounting practices at AIG. The next day, the Fitch Ratings service downgraded AIG&#8217;s credit rating to AA. The two other major rating services, Moody&#8217;s and Standard &#038; Poor&#8217;s, soon followed suit.</p></blockquote>
+<p>I guess that explains why he didn&#8217;t go after anyone with a pitchfork.</p>
+<p>Back to my usual anti CDS rant after the jump.</p>
+<p>I&#8217;d say that was crazy.  Given AIGs exposure they shouldn&#8217;t have been rated AA.  I ask for the nth time, what is the point of a CDS ?  Why can&#8217;t AIG issue AIG bonds and use the proceeds to buy assets rather than insuring them ?  I think it is clear. If AIG had issued 3 trillion in debt they wouldn&#8217;t be rated AA.   CDSs written appear on the balance sheet at market value.  This is nonsense.  In the long run, the two actions (write a CDS on assets or sell debt and buy those assets) have the same impact on AIG&#8217;s book equity, in the short run the only difference is that AIG can be forced to post collateral (which can be seized in full even if it is in chapter 11 and mere bond-holders have to wait and get cents on the dollar) if it writes CDSs.  </p>
+<p>I think that it is strictly better for bondholders if AIG issues debt and buys assets than if it insures those assets (I am considering the premia paid on CDSs).  I think the only reason to do it with CDSs is to trick regulators and ratings agencies about AIGs liabilities. </p>
+<p>On a basically different topic, I cut some boring stuff out of one of my posts and put it here.</p>
+<p>Now I think it is fairly likely that, if they they had stuck to CDSs on corporate bonds, AIGFP would have done very well just as they would have done issuing AAA bonds of their own and buying AA bonds.</p>
+<p>My guess is that, at first, the money was there to be made because of excessively prudent rules and regulations.  It is also there, because prudential regulations do not consider covariances so a diversified pool of AAA bonds is treated as if it is as risky as one AAA bond.  This is necessary as there was no covariance rating agency which was worthy of the trust earned by the credit rating agencies.  Thus the only variable which was independently estimated with some reliability (back then in 1998) was the risk of default of a single instrument.  </p>
+<p>My current view is that this would be a reasonable approach to prudential regulation if there weren&#8217;t firms like AIG financial products.  The entities subject to the rules and regulations are large enough that they can diversify their portfolio at a very modest cost.  They don&#8217;t bear risk for the fun of it.  It is safe to assume that they will diversify without being specifically required to do so &#8230; unless there is a financial engineering industry which sets up special purpose entities with diversified portfolios and issues single securities whose ratings are high because of that diversification.  This means that the diversification (by the SPE) suddenly relaxes the prudential requirement.  </p>
+<p>By pre-diversifying the financial engineers reduce the further reduction in risk available from diversification.  The limiting case would be reached if all securities were put in a huge pool which was cut into tranches.  At that point, the risk of default on any portfolio of, say all existing AA securities would be as high as the risk of default on a single security, because there would only be one AA security.  Thus for the same prudential regulations, banks would be allowed to bear much more risk.  </p>
+<p>This is not socially useful.  If prudential regulations are optimally adjusted to take into account the increased correlation of different assets, then nothing is accomplished.  Otherwise the regulations are effectively changed by agents who can pocket the expected value of future public bailouts.  </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/wapo-on-aig-iii.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WAPO on AIG</title>
+		<link>./../../2008/12/wapo-on-aig.html</link>
+		<comments>./../../2008/12/wapo-on-aig.html#respond</comments>
+		<pubDate>Tue, 30 Dec 2008 04:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/wapo-on-aig.html</guid>
+		<description><![CDATA[Robert Waldmann Over at the Washington Post, Robert O&#8217;Harrow Jr. and Brady Dennis have a fairly interesting first of 3 articles on what went wrong at AIG. Of course, they tend to stress personalities and personal conflicts, but they do slip in some good points about economics. I&#8217;d say the key bit was that AIG [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Over at the Washington Post, Robert O&#8217;Harrow Jr. and Brady Dennis have a fairly interesting first of 3 articles on what went wrong at AIG.  Of course, they tend to stress personalities and personal conflicts, but they do slip in some good points about economics.</p>
+<p>I&#8217;d say the key bit was that AIG made a deal and only later noticed that they had made a suboptimal choice of incentive structures.</p>
+<blockquote><p>Under the joint-venture agreement, Financial Products received its profits upfront, even if the transactions took 30 years to play out. AIG would be on the hook if something went wrong down the road, not Sosin and his team, who took their pay immediately. </p></blockquote>
+<p>Could that cause problems ?  Naaahh no way efficient markets imply that short term profits are just like long term profits (impossible).</p>
+<p>The rest of my thoughts on the first third of the long sad story comes after the jump.</p>
+<blockquote><p>Greenberg was proud and protective of his company&#8217;s AAA credit rating, one of only a handful in the world.</p>
+<p>The AAA, awarded after an examination by the bond-rating firms, sent a resounding signal to clients that they could always sleep well at night, that AIG was in no danger of failing. The more secure a company, the more cheaply it could borrow money &#8212; a fact that would be pivotal to Financial Products&#8217; success.  </p></blockquote>
+<p>This is, I think, a large part of the problem right there.  An AAA rating is very valuable and any firm well into AAA territory has unused credibility which can be sold by borrowing at AAA rates and buying risky assets.  The rating was just worth too much to leave sitting there, so it was destroyed.</p>
+<blockquote><p>Sosin and Rackson hoped that everyone would get rich, but they had their sights set on something more. They wanted to tear down walls they saw as impediments to innovation, the &#8220;fiefdoms&#8221; that were standard practice at other Wall Street firms. Their vision required a collaborative culture and a computer system that no one else had. For six months, the group worked on constructing &#8220;the position analysis and storage system,&#8221; or PASS. They called it simply &#8220;the system.&#8221;</p>
+<p>It enabled Financial Products to bring a rare discipline to complex trades. By maintaining market, accounting and transaction details in one place, Sosin (Howard Sosin founder of &#8220;Financial products&#8221;which was a joint venture with AIG and eventually brought the firm down) and his people could track the constantly changing value of a trade&#8217;s components in a way no other firm could. </p></blockquote>
+<p>The advantages of this approach are clear &#8212; only by keeping track of such data in one place can a firm estimate the risk of its portfolio.  The (by then long obsolete) very old approach effectively valued assets based on their own risk not their firm portfolio betal.  However, the disadvantage should also be clear.  An accounting &#8220;Fiefdom&#8221; mgiht also be called keeping the accountants independent from the traders.  The unification elminates oversight.  I can see how a trader might trust himself to manage risk too and consider separate departments a waste of resources.  I can also see how Greenberg might agree as explained by O&#8217;Hara and Denis&#8217;s version of the negotiations with Sosin on the joint venture (their quotation marks)</p>
+<blockquote><p>Greenberg had little extra time for the nuts-and-bolts details that Sosin sought to negotiate. &#8220;I don&#8217;t really know much about this,&#8221; he told Matthews. &#8220;You go talk to these people.&#8221;</p></blockquote>
+<p>Greenberg did notice that he had a problem</p>
+<blockquote><p>Greenberg&#8217;s love of his joint venture&#8217;s revenue could not overcome his desire for greater control. He chafed at the deal, worrying that he had given Sosin too much freedom.</p>
+<p>One detail in particular nagged at Greenberg. Under the joint-venture agreement, Financial Products received its profits upfront, even if the transactions took 30 years to play out. AIG would be on the hook if something went wrong down the road, not Sosin and his team, who took their pay immediately. </p></blockquote>
+<p>Ooops.   This is just dumb dumb dumb.  If the managers of &#8220;Financial Products&#8221; understand that the gap in the market which they discovered and monopolized is now full of competitors *and* see a bubble coming, the sharp thing to do is to ride the bubble getting short term profits safely in the bank.  Paying based Mark to market profits is little better than paying on and mark to model (made up) profits.  I think this mistake requires the influence of market fundamentalists who assume that there can&#8217;t possibly be bubbles.  </p>
+<p>The full argument is that bubbles are against investors rational self interest, and if asset prices are largely determined by delegated managers like Sosin, then contracts must have been written to align their interests with, in this case, AIGs shareholders so there is no need to worry that incentive contract encourage money managers to buy into bubbles because bubbles can&#8217;t exists because &#8230; Ah yes the argument is clearly circular nonsense.  </p>
+<p>So Greenberg broke with Sosin (who stopped being a genius when he didn&#8217;t have access to an AAA rating) and solved the problem by handling financial products (minus a 150 million golden parachute also). </p>
+<blockquote><p>Savage, a 44-year-old Midwestern math whiz, had just been named the new president of Financial Products. With the honor came explicit expectations, which Greenberg made clear: &#8220;You guys up at FP ever do anything to my Triple A rating, and I&#8217;m coming after you with a pitchfork.&#8221;</p></blockquote>
+<p>My advice ?  Buy pitchfork futures.  </p>
+<p>&#8220;With a PhD from Claremont Graduate University in California, Savage&#8221;</p>
+<blockquote><p>Greenberg also wanted to change the way Financial Products&#8217; employees divvied up its share of the profits. Under the previous arrangement, Sosin and his crew had the right to book immediate profits on the long-term deals. Greenberg thought there was a powerful incentive to go after millions of dollars in short-term gains while leaving AIG and its shareholders responsible for potential losses for years to come.</p>
+<p>Savage agreed with Greenberg that Financial Products employees should defer half of their compensation for several years, depending on the length of the deals being done </p></blockquote>
+<p>Problem solved. Instant access to merely 15% of booked profits on megadeals couldn&#8217;t distort anyone&#8217;s incentives.  I mean half of a gigantic conflict of interests is still a gigantic conflict of interests.  </p>
+<blockquote><p>Savage said. &#8220;Hank Greenberg&#8217;s a great man. And I&#8217;m willing, when I talk to him, to say, you know, I&#8217;m in the presence of a great man and that&#8217;s worth something.&#8221;</p></blockquote>
+<p>I don&#8217;t want to know how much dealing with such a great financial genius was worth to Savage.</p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/wapo-on-aig.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

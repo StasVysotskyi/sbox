@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alea &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Pound&#8217;s Not Sinking, The Yen&#8217;s Not Keeping Up&#8230;</title>
+		<link>./../../2010/12/the-pounds-not-sinking-the-yens-not-keeping-up.html</link>
+		<comments>./../../2010/12/the-pounds-not-sinking-the-yens-not-keeping-up.html#respond</comments>
+		<pubDate>Sat, 01 Jan 2011 04:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Alea]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[current account]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[European Union]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/the-pounds-not-sinking-the-yens-not-keeping-up.html</guid>
+		<description><![CDATA[Spent the past few minutes reading Alea. jck notes that, over the past five years, the Pound has grown in importance at the expense of the yen and that the Euro has done the same against the dollar. If this goes against your memory, you&#8217;re not part of the IMF. Even better is when jck [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Spent the past few minutes reading <a href="http://www.aleablog.com/">Alea</a>.  jck notes that, over the past five years, the Pound has grown in importance at the expense of the yen and that the Euro has done the same against the dollar.</p>
+<p>If this goes against your memory, you&#8217;re <a href="http://www.aleablog.com/quinquennial-sdr-rebalancing-dollar-share-drops-to-41-9/">not part of the IMF</a>.</p>
+<p>Even better is when jck gets his funny on.  For those screaming about PIIGS, he <a href="http://www.aleablog.com/spain-economic-outlook/">presents the evidence</a>:<br />
+<blockquote>Note: Banks and government debt rollovers amount to €210 bln for 2011, €15 bln lower than in 2010, you would never guess that reading the funny (pink) papers.</p></blockquote>
+<p>Somewhere, an FT editor is reading that and cheering that they&#8217;re on holiday until the 4th.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/the-pounds-not-sinking-the-yens-not-keeping-up.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

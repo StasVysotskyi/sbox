@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>inflation expectation hypothesis &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>More on the adaptive inflation expectations hypothesis</title>
+		<link>./../../2013/02/more-on-the-adaptive-inflation-expectations-hypothesis.html</link>
+		<comments>./../../2013/02/more-on-the-adaptive-inflation-expectations-hypothesis.html#respond</comments>
+		<pubDate>Mon, 25 Feb 2013 18:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[inflation expectation hypothesis]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/more-on-the-adaptive-inflation-expectations-hypothesis.html</guid>
+		<description><![CDATA[This post will be long, fairly wonky, and confused.  I am typing, because I just have  to stop playing with FRED and write something.   My claim is that expected inflation over the next 5 (and 10 and 20) years is very similar to actual inflation over the past year.  I think the data generally [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This post will be long, fairly wonky, and confused.  I am typing, because I just have  to stop playing with <a href="http://research.stlouisfed.org/fred2/">FRED</a> and write something.   My claim is that expected inflation over the next 5 (and 10 and 20) years is very similar to actual inflation over the past year.  I think the data generally fit the crudest most mechanical adaptive expectations hypothesis.</p>
+<p>This would be interesting for two reasons. </p>
+<p>First, the adaptive expectations hypothesis has been treated with utter contempt for roughly 4 decades.  It is considered an example of the sort of thing which economists must utterly reject.  The effort to replace it has lead to a lot of mildly interesting math and highly implausible assumptions. </p>
+<p>Second, there is a huge and very vigorous discussion of forward guidance by the Fed Open Market (FOMC) Committee.  It has been argued that even when the Federal Funds rate is essentially zero, the FOMC can stimulate the economy by causing higher expected inflation.  It is generally agreed that the FOMC has been convinced by this argument.  I think this implies that there should be anonalous increases in expected inflation on the dates when the FOMC began to try to cause higher expected inflation &#8212; roughly the announcements of QE 1-4, operation twist and of forward guidance of how long it will keep the Federal Funds rate extremely low.  An excellent fit of expected inflation using only lagged inflation creates serious difficulty for those who think the FOMC always could and finally has promoted higher expected inflation.</p>
+<p>I think I will put the actual post after the jump.</p>
+<p><a name="more"></a></p>
+<p>I will show time series and scatter graphs of two time series one of which should be lagged inflation and one of which should correspong roughly to expected inflation.  Here&#8217;s a graph before the reader gets too bored.</p>
+<p>
+<div><a href="http://2.bp.blogspot.com/-ueK70-TT-w8/USuN9vZaYpI/AAAAAAAAAkQ/imx2h5Xkcl4/s1600/cpiadapt.JPG" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/-ueK70-TT-w8/USuN9vZaYpI/AAAAAAAAAkQ/imx2h5Xkcl4/s640/cpiadapt.JPG" height="387" width="640"></a></div>
+<p>My variables for lagged inflation are the percent increase in the consumer price index (CPI) (blue)  and CPI excluding food an energy (green).  My variable for expected inflation is the 5 year constant maturity TIPS breakeven (in red explained below).  Notably all three variables fluctuate, but the breakeven is usually between the two measures of past inflation or very near the closer of the two.  The exception is during the total freakout late 2008 and early 2009.</p>
+<p>I should stress that this is not all information available to market participants.  The price indices are reported monthly.  The price index for a month is reported during the next month.  I will look at asset prices the month of the prices and not after the prices are reported.  I think this is a minor problem, since the prices of ordinary goods and services are sticky and I am using changes over a full year.  I did it because it is quick and easy. </p>
+<p>My variable for expected inflation is the 5 year constant maturity TIPS breakeven.  I have taken the monthly average of the daily series so the frequency is the same as the freequency of measured past inflation.  It is the difference beteen the return on regular nominal treasuries which pay dollars in 5 years compared to the Fed staff&#8217;s estimate of the real 5 year return on Treasury inflation protected securities (TIPS) which pay a multiple of the CPI (that is are bonds indexed to the CPI).  Both series are constructed by fitting a yield curve to the market prices of bonds.  This is especially problematic for the TIPS real interest rate series, because there are rather few different TIPS.   The 5 year constant maturity series involves some fairly heroic interpolation. </p>
+<p>Fed staff (among others) stress that the TIPS breakeven is not equal to market particpants expected inflation.  The reason is that regular nominal Treasuries are more liquid and their price includes a liquidity premium.  The expected return on TIPS is generally higher, so the breakeven is general lower than expected inflation.  During the period of total panic and desperate quest for ready cash or equivalent, the liquidity premium appears to have become huge.  TIPS became very cheap compared to regular tresuries and the breakeven became negative.  I don&#8217;t deal with this, but just consider the months of blind terror to be exceptional.  I assume they were September 2008 through May 2009.</p>
+<p>OK another graph.  Here I use a weighted average of the two series for lagged inflation.  The green line is<br />core CPI inflation times 0.75 plus CPI inflation times 0.25.  The weight was chosen by eyeballing and trying to make the green line look like the red line.</p>
+<div><a href="http://4.bp.blogspot.com/-UUcDkrWLsTo/USuQcd_QGlI/AAAAAAAAAkc/FubkM5q_wNU/s1600/cpiadapt2.JPG" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/-UUcDkrWLsTo/USuQcd_QGlI/AAAAAAAAAkc/FubkM5q_wNU/s640/cpiadapt2.JPG" height="384" width="640"></a></div>
+<p>I think the series are dramatically similar (except for the panic period late 2008 through early 2009). </p>
+<p>To check more (I apologise for the graphs &#8212; I am having computer trouble and made them in excel) I look at the scatter.  In the first scatter I have the 5 year constant maturity breakeven on the y axis and the weighted average past year inflation on the x axis.  I have connected the dots to show that the ones with very low breakevens all occured at roughly the same time.</p>
+<div><a href="http://2.bp.blogspot.com/-_8w9Ab_YoZg/USuSXy68x1I/AAAAAAAAAko/nj_x0WX6Vt4/s1600/cpiadapt3.JPG" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/-_8w9Ab_YoZg/USuSXy68x1I/AAAAAAAAAko/nj_x0WX6Vt4/s640/cpiadapt3.JPG" height="402" width="640"></a></div>
+<p>except for the 8 funny months (September 2008 through April 2009) that is an amazing scatter.  I stress that it shouldn&#8217;t be that way &#8212; there is little useful information in the month to month fluctuations in inflation in the past 12 months.  Also there is almost no room for the effects of QE and other forward guidance.</p>
+<p>I can&#8217;t resist two more graphs.  One shows the same variables for the period May 2009 through January 2013.  The scatter is very compact.  The slope is slightly under one.  There does seem to be less impact of lagged inflation over 2% on expected inflation.
+<div><a href="http://4.bp.blogspot.com/-sBKNHtuuEVE/USuUAHvBuaI/AAAAAAAAAkw/FLLLSV8Vi-w/s1600/cpiadapt4.JPG" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/-sBKNHtuuEVE/USuUAHvBuaI/AAAAAAAAAkw/FLLLSV8Vi-w/s640/cpiadapt4.JPG" height="466" width="640"></a></div>
+<p>Now the graph which amazes me the most.  This shows data from before the fall of the house of Lehman.  This was during the great moderation.  the Fed aimed roughly to target inflation at about 2% and keep unemployment pretty low.  More importantly, it was generally believed that the Fed could achieve its aims.  Yet the breakeven fluctuated with lagged inflation.  The slope is again slightly under one (zero would correspond more closely to prevailing theory). </p>
+<div><a href="http://3.bp.blogspot.com/-Y_sZT85fEV8/USuU_Ih3yTI/AAAAAAAAAk4/O3L39XmJJF8/s1600/cpiadapt5.JPG" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/-Y_sZT85fEV8/USuU_Ih3yTI/AAAAAAAAAk4/O3L39XmJJF8/s640/cpiadapt5.JPG" height="440" width="640"></a></div>
+<div></div>
+<div>I think the much ridiculed adaptive expectations hypothesis is pretty much what&#8217;s in the data.  Also I challenge anyone to find the months of the FOMC&#8217;s much ballyhood announcements in the scatters.</div>
+<div></div>
+<div></div>
+<div>OK one last graph.  Here I add the 20 year constant maturity breakeven (blue).   This should be totally different from the 5 year breakeven (for one thing no one imagines that Bernanke can inform us about monetary policy in the 2030s).  But it is about the same (recall the heroic interpolation the 5 year and 20 year series are constructed from the same fairly few prices).</div>
+<div></div>
+<div><a href="http://2.bp.blogspot.com/-x8BNKd_ODqo/USuZabX_B8I/AAAAAAAAAlA/jNAdgqODySs/s1600/cpiadapt6.JPG" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/-x8BNKd_ODqo/USuZabX_B8I/AAAAAAAAAlA/jNAdgqODySs/s640/cpiadapt6.JPG" height="382" width="640"></a></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/more-on-the-adaptive-inflation-expectations-hypothesis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

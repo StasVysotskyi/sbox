@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ordinary income &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>More on Greg Mankiw&#8217;s weak arguments for the Bain capital gains preference</title>
+		<link>./../../2012/03/more-on-greg-mankiws-weak-arguments-for-the-bain-capital-gains-preference.html</link>
+		<comments>./../../2012/03/more-on-greg-mankiws-weak-arguments-for-the-bain-capital-gains-preference.html#respond</comments>
+		<pubDate>Mon, 19 Mar 2012 10:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[capital gains]]></category>
+		<category><![CDATA[Linda Beale (Tax law)]]></category>
+		<category><![CDATA[ordinary income]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/more-on-greg-mankiws-weak-arguments-for-the-bain-capital-gains-preference.html</guid>
+		<description><![CDATA[by Linda Beale More on Greg Mankiw&#8217;s weak arguments for the Bain capital gains preference A few days ago, I commented on the weak arguments Greg Mankiw had put forth in his op-ed to support the preferential treatment of compensation for private equity and real estate partnership &#8220;profits&#8221; partners. He points out the categorization problem&#8211;that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Linda Beale</p>
+<p><a href="http://ataxingmatter.blogs.com/tax/2012/03/more-on-greg-mankiws-weak-arguments-for-the-bain-capital-gains-preference.html">More on Greg Mankiw&#8217;s weak arguments for the Bain capital gains preference</a></p>
+<p>A few days ago, I commented on the weak arguments Greg Mankiw had put forth in his op-ed to support the preferential treatment of compensation for private equity and real estate partnership &#8220;profits&#8221; partners. He points out the categorization problem&#8211;that it is not always easy to be sure what is a &#8220;capital gain&#8221; and what is &#8220;ordinary income&#8221;. I concluded along the lines of arguments I have repeatedly made on this blog: the main thing the categorization problem teaches us is that we should eliminate categorization problems that create inevitable inequitable differentiations by eliminating the category difference.</p>
+<p>Get rid of the preferential rate for capital gains (and with it the need to distinguish capital gains from ordinary income), and you will in one stroke simplify corporate and partnership and individual taxation tremendously. Much of the Code is invested in trying to prevent smart tax lawyers from using tax alchemy to convert one type of income into another. See, e.g., section 1059 (extraordinary dividends to corporate shareholders), section 304 (sales between affliated corporations treated as redemptions), section 302 (providing tests that, if not satisfied, treat redemptions as dividends if there is e&#038;p), etc.</p>
+<p><a name="more"></a><br />Uwe Reinhardt makes a similar argument in the Economix blog carried by the New York Times. See <a href="http://economix.blogs.nytimes.com/2012/03/16/capital-gains-vs-ordinary-income/">Capital Gains vs. Ordinary Income</a>, New York Times Economix Blog (Mar. 16, 2012). Reinhardt uses Mankiw&#8217;s own introductory textbook in microeconomics to make the tax equity argument that many have been making about carried interest&#8211;it is unfair to tax a money manager at a preferential rate compared to firemen, postal inspectors, college professors, school teachers and neurosurgeons.</p>
+<blockquote><p>In his popular textbook “<a href="http://www.swlearning.com/economics/mankiw/mankiw3e/micro/mankiw3e_micro.html">Principles of Microeconomics</a>,” Professor Mankiw teaches students that “horizontal equity states that taxpayers with similar ability to pay should contribute the same amount.” Well put.</p>
+<p>Consider now a person who bought a vacation home for $500,000 and two years later, during one of our recurrent real-estate bubbles, sells it for $1.5 million. That $1 million profit is now taxed at a rate of only 15 percent. If the home had been the principal residence of this person and his or her spouse, half of the $1 million profit <a href="http://www.bankrate.com/finance/real-estate/capital-gains-home-sale-tax-break-a-boon-for-owners-1.aspx">would not be taxed</a> at all.</p>
+<p>Suppose next that this tax-favored person’s neighbor were a busy neurosurgeon whose many hours of hard, physical and intellectual work earned him or her a net practice income of $1 million during those same two years. That neurosurgeon would pay the ordinary income-tax rate on that income (on average a bit less than 35 percent, because only income over $388,350 a year is <a href="http://www.forbes.com/sites/moneybuilder/2011/09/30/2012-federal-income-tax-brackets-irs-tax-rates/">taxed at 35 percent</a>).</p>
+<p>By what definition of the term would can one call the glaringly differential tax treatment of the real estate investor and of the neurosurgeon horizontally equitable?</p></blockquote>
+<p>Reinhardt goes on to make another of the arguments that I have been pressing for months in this blog&#8211;that the assertion that preferential rates are necessary for stock market transactions because they are rewarding investment in the corporations is baloney&#8211;most reported gains on securities are from secondary market trades, not from direct investments in corporations.</p>
+<blockquote><p>[T]he proponents of lower capital-gains taxation conjure up an image of, say, Jones purchasing shares of stock directly from the issuing corporation, which then invests the proceeds in new structures and equipment.</p>
+<p>More typically, however, sales and purchases of corporate common stock take place among parties quite outside of the issuing corporation. For example, Jones may buy the stock from Chen, who may have reaped a capital gain from once buying and now selling the stock. Chen may have bought the stock from another person not related to the issuing company.</p>
+<p>When Jones pays Chen, it is anybody’s guess what Chen does with the money. For all we know, Chen will spend it on a luxury car. Why, then, should any gain Chen enjoys on his or her investment in that stock be granted a tax preference? No new capital formation was supported by this trade in a stock sold by the company years ago.</p></blockquote>
+<p>The ugly truth about the insistence on the capital gains preference is that it rewards people at the top of the income and wealth distribution and serves to maintain the status quo of the allocation of resources. This is what is really meant by &#8220;fiscal conservatism&#8221; these days&#8211;ensuring that resources remain inequitably distributed to the very wealthy who are the &#8220;shakers and movers&#8221; of society through the influence their money can buy. The right-leaning Supreme Court has made that even more inevitable than it was before, through the Citizens United decision upholding the right of corporations to contribute any amount to influence political campaigns, based on the laughable assertion that such &#8220;super-PAC&#8221; rights undergird free speech.</p>
+<p>crossposted with <a href="http://ataxingmatter.blogs.com/tax/2012/03/more-on-greg-mankiws-weak-arguments-for-the-bain-capital-gains-preference.html" title="http://ataxingmatter.blogs.com/tax/2012/03/more-on-greg-mankiws-weak-arguments-for-the-bain-capital-gains-preference.html">ataxingmatter</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/more-on-greg-mankiws-weak-arguments-for-the-bain-capital-gains-preference.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

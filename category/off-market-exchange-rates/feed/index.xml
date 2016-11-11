@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>off-market exchange rates &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Knzn gives new definition to &#034;infrastructure&#034;</title>
+		<link>./../../2008/07/knzn-gives-new-definition-to-infrastructure.html</link>
+		<comments>./../../2008/07/knzn-gives-new-definition-to-infrastructure.html#respond</comments>
+		<pubDate>Tue, 08 Jul 2008 16:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[off-market exchange rates]]></category>
+		<category><![CDATA[substitution effect]]></category>
+		<category><![CDATA[tax relief]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/knzn-gives-new-definition-to-infrastructure.html</guid>
+		<description><![CDATA[For those who don&#8217;t want to try to read about John McCain&#8217;s 2 &#8211; 1 = 7 calculations, a couple of interesting links. It&#8217;s missing the appropriate equations, so I suspect a few of the simplifying assumptions are skewed, and he doesn&#8217;t mention that the industry in question has always been at the forefront of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For those who don&#8217;t want to try to <a href="http://angrybear.blogspot.com/2008/07/mccains-claim-of-balancing-budget-dont.html">read about John McCain&#8217;s 2 &#8211; 1 = 7 calculations</a>, a couple of interesting links.</p>
+<p>It&#8217;s missing the appropriate equations, so I suspect a few of the simplifying assumptions are skewed, and he doesn&#8217;t mention that the industry in question has always been at the forefront of new-technology which enabled it to reap this benefit, but the <a href="http://knzn.blogspot.com/2008/07/porn-and-transportation-are-substitutes.html">Substitution Effect discussed here</a> is almost as interesting as the <a href="http://www.sundayherald.com/international/shinternational/display.var.2381313.0.0.php">heroin/Kalishnikov exchange rate</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/knzn-gives-new-definition-to-infrastructure.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

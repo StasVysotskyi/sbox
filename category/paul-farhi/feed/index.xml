@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paul Farhi &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Sixty-Eight Years Ago This Week</title>
+		<link>./../../2013/02/sixty-eight-years-ago-this-week.html</link>
+		<comments>./../../2013/02/sixty-eight-years-ago-this-week.html#respond</comments>
+		<pubDate>Thu, 21 Feb 2013 22:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Joe Rosenthal]]></category>
+		<category><![CDATA[Marine Staff Sgt. Bill Genaust]]></category>
+		<category><![CDATA[Norm Hatch]]></category>
+		<category><![CDATA[Paul Farhi]]></category>
+		<category><![CDATA[The Battle of Iwo Jima]]></category>
+		<category><![CDATA[The Washington Post]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/sixty-eight-years-ago-this-week.html</guid>
+		<description><![CDATA[I’m a WWII buff, and also a journalism buff, and so this story by Paul Farhi in today’s Washington Post made my heart race a bit, especially since, well, I already knew some of it&#8211;the part about the charge that the iconic Joe Rosenthal photo of the raising of the flag on Iwo Jima, shot [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’m a WWII buff, and also a journalism buff, and so <a href="http://www.washingtonpost.com/lifestyle/style/iwo-jima-photo-and-the-man-who-saw-it-shot/2013/02/21/ee11ab6c-77af-11e2-aa12-e6cf1d31106b_story_2.html">this story</a> by Paul Farhi in today’s Washington Post made my heart race a bit, especially since, well, I already knew some of it&#8211;the part about the charge that the iconic Joe Rosenthal photo of the raising of the flag on Iwo Jima, shot for the Associated Press but distributed by the Marines, was staged after the fact, and that film footage later developed verified that the photo was shot as the event occurred.  I’m mentioning the article here mainly as a personal indulgence&#8211;after all, it has nothing to do with the sequester, or the Republicans, or Obama, or the Supreme Court&#8211;but also because I thought that any AB readers who might be interested in it shouldn’t miss reading it.  </p>
+<p>The story notes that the video photographer, Marine Staff Sgt. Bill Genaust, who shot the footage, died at Iwo Jima.  </p>
+<p>Semper fi. </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/sixty-eight-years-ago-this-week.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

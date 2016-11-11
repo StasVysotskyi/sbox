@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>max baucus &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Are the Health Care Exchanges and Public Option Walled Off?</title>
+		<link>./../../2009/09/are-the-health-care-exchanges-and-public-option-walled-off.html</link>
+		<comments>./../../2009/09/are-the-health-care-exchanges-and-public-option-walled-off.html#respond</comments>
+		<pubDate>Fri, 18 Sep 2009 16:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[hr3200]]></category>
+		<category><![CDATA[max baucus]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/are-the-health-care-exchanges-and-public-option-walled-off.html</guid>
+		<description><![CDATA[by Bruce Webb (Update. A tech problem currently prevents me from responding to comments, though not from updating the post. Keep those questions coming and maybe I can address them in a later post.) With the release of the Baucus Chairman&#8217;s Mark it became apparent that there are some profound misconceptions floating around the existing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb (Update. A tech problem currently prevents me from responding to comments, though not from updating the post. Keep those questions coming and maybe I can address them in a later post.)</p>
+<p>With the release of the Baucus Chairman&#8217;s Mark it became apparent that there are some profound misconceptions floating around the existing legislation represented by HR3200 and the HELP Bill in relation to the scope of the Exchanges and the Public Option. So profound that some people are claiming the Baucus Markup, no matter egregious its faults is at least on this front an advance. Well not on my reading.</p>
+<p>One misconception out there is that the Public Option is only available to those without insurance. The other which got highlighted Wednesday by Ezra Klein was that the Exchanges themelves, within which the Public Option resides are only open to individuals and employers with less than 20 employees. Either if true would eliminate the ability of the PO to develop in the direction of Universal Coverage.</p>
+<p>Starting with Ezra. He put up the following on Wednesday <a target="_blank" href="http://voices.washingtonpost.com/ezra-klein/2009/09/the_baucus_plan_and_the_exchan.html">The Baucus Plan and the Exchanges</a> he starts off with:<br />
+<blockquote>Color me impressed. I&#8217;ve argued before that the Health Insurance Exchanges are the most important piece of health-care reform, and they&#8217;re being unacceptably weakened and constrained. The House bill, for instance, specifically allows businesses with only 20 or fewer people to join.</p>
+<p>Baucus goes quite a bit further. He begins by mandating that businesses with up to 50 employees be allowed to buy into the exchanges. If states want, they can expand that to businesses with 100 employees.</p></blockquote>
+<p> After a couple of sentences about risk adjustment he closes with this:<br />
+<blockquote>So far, so good. This, however, is where the Baucus plan takes that crucial next step: &#8220;In 2017, states must develop and submit to the Secretary a phase-in schedule (not to exceed five years), including applicable rating rules, for incorporating firms with 50 or more (or 100 or more for those states that already included firms with 51-100 employees) into the state exchanges.&#8221;</p>
+<p>In other words, by 2022, the Health Insurance Exchanges will be open to all businesses of all sizes. That&#8217;s a huge deal. And the first place where I&#8217;ve seen the Baucus bill go substantially further than the other bills</p></blockquote>
+<p>Well I can only draw three possible conclusions from this. One Ezra just biffed in his reading of Sec 202 of the bill. Or I did. Or that it was inexplicably changed in all three House Committee markups.</p>
+<p>I&#8217;ll let you all be the judge. Relevant text under the fold.</p>
+<p>The following is a direct cut and paste from my comment to Ezra, with some formatting that the WaPo site strips out.<br />
+<blockquote>&#8220;The House bill, for instance, specifically allows businesses with only 20 or fewer people to join.&#8221;</p>
+<p>It does? Where? I am working from the Ed&#038;Labor version, which I believe represents the Tri-Committee Bill PRIOR to markup. So maybe something got taken out. I don&#8217;t see why that would be, but on a plain reading the above assertion is simply a misreading.</p>
+<p>The relevant section is: SEC. 202. EXCHANGE-ELIGIBLE INDIVIDUALS AND EMPLOYERS. starting on pg. 73. &#8216;Employers&#8217; are categorized in 202 (e)(1-3) starting on pg. 79 into &#8216;Smallest&#8217; or 10 employees or fewer, &#8216;Smaller&#8217; or 20 employees or fewer, and &#8220;Larger&#8217;. The rules for these latter are spelled out in 202 (e) (3) as follows:</p>
+<p>(3) LARGER EMPLOYERS.— <br />(A) IN GENERAL.—Beginning with Y3, the Commissioner may permit employers not described in paragraph (1) or (2) to be Exchange eligible employers. <br />(B) PHASE-IN.—In applying subparagraph (A), the Commissioner may phase-in the application of such subparagraph based on the number of full-time employees of an employer and such other considerations as the Commissioner deems appropriate.</p>
+<p>This last bit seems to mean that mega-employers can&#8217;t dump all their workers on Exchange Plans all at once.</p>
+<p>The confusion may come from Sec 202 (c) starting on pg. 74<br />(c) TRANSITION.—Individuals and employers shall only be eligible to enroll or participate in the Health Insurance Exchange in accordance with the following transition schedule: <br />(1) FIRSTYEAR.—In Y1 (as defined in section 100(c))— {i.e. 2013}<br />(A) individuals described in subsection (d)(1), including individuals described in paragraphs (3) and (4) of subsection (d); and <br />(B) smallest employers described in subsection (e)(1). <br />(2) SECOND YEAR.—In Y2— {2014}<br />(A) individuals and employers described in paragraph (1); and <br />(B) smaller employers described in subsection (e)(2). <br />(3) THIRD AND SUBSEQUENT YEARS.—In Y3 {2015} and subsequent years— <br />(A) individuals and employers described in paragraph (2); and <br />(B) larger employers as permitted by the Commissioner under subsection (e)(3).</p>
+<p>Unless 202 (c)(3) and 202 (e)(3) were deleted during markup in all three Committees it would appear that all employers will become Exchange Eligible starting on Jan 1, 2015 subject only to phasing requirements for the largest companies. A process that surely would be accomplished well before the 2022 in the Baucus markup.</p>
+<p>What did I miss?</p></blockquote>
+<p>A plain reading (or as plain as you can get reading legislative language) is that the Exchanges will be open to employers of all sizes starting on Jan 1, 2015 or seven years EARLIER than the date touted by Ezra as a &#8220;huge deal&#8221;.</p>
+<p>The related assertion that only people who are uninsured are eligible for the Public Option is similarly misguided. There are fairly strict limits on who can opt out of an employer paid plan, and for good reason (a discussion for another time) but there are no barriers for someone currently in the individual market cancelling their private plan or letting it expire and signing up in the PO. In fairness there is a tiny bit of ambiguity in the language.</p>
+<blockquote><p>SEC. 202. EXCHANGE-ELIGIBLE INDIVIDUALS AND EMPLOYERS. </p>
+<p>(a) ACCESS TO COVERAGE.—In accordance with this section, all individuals are eligible to obtain coverage through enrollment in an Exchange-participating health benefits plan offered through the Health Insurance Exchange unless such individuals are enrolled in another qualified health benefits plan or other acceptable coverage.</p></blockquote>
+<p>&#8216;acceptable coverage&#8217; mostly means another government run and paid for plan such as Medicare, Medicaid, VA, Tri-Care. And almost everyone in &#8216;another qualified health benefits plan&#8217; would be in one offered by an employer. I don&#8217;t read this to mean that individuals dissatisfied with current private insurance cannot shift to another insurer in the exchange which includes the Public Option. But in general I am going with &#8220;all individuals are eligible to obtain coverage&#8221;.</p>
+<p>Getting this right is crucially important. If the Exchanges and the Public Option were in fact crippled in the way Ezra and others  on the Left think they are there is no wonder that they think the whole thing is a sham and a simple give-away to the insurers rather than the Public Option being a very real alternative and potential replacement to private insurance for individuals and most medium to small employers.</p>
+<p>So to repeat my question to Ezra. What did I miss?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/are-the-health-care-exchanges-and-public-option-walled-off.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Baucus &#8216;Plan&#8217; Released</title>
+		<link>./../../2009/09/baucus-plan-released.html</link>
+		<comments>./../../2009/09/baucus-plan-released.html#respond</comments>
+		<pubDate>Mon, 07 Sep 2009 14:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[max baucus]]></category>
+		<category><![CDATA[Senate Finance]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/baucus-plan-released.html</guid>
+		<description><![CDATA[by Bruce Webb HOLD THE PRESSES. I am deleting this post. It is not clear that the document posted on the Finance Committee website actually reflects Baucus&#8217;s new proposal. Why they chose to put an older document up this morning is a mystery. Until I get it figured out this will have to be a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb</p>
+<p>HOLD THE PRESSES.</p>
+<p>I am deleting this post. It is not clear that the document posted on the Finance Committee website actually reflects Baucus&#8217;s new proposal. Why they chose to put an older document up this morning is a mystery. Until I get it figured out this will have to be a Emily Letilla moment: &#8220;Never mind!&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/baucus-plan-released.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

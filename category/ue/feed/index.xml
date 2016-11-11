@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ue &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Good Cop/Bad Cop or Tit for Tat ?</title>
+		<link>./../../2009/03/good-copbad-cop-or-tit-for-tat.html</link>
+		<comments>./../../2009/03/good-copbad-cop-or-tit-for-tat.html#respond</comments>
+		<pubDate>Fri, 20 Mar 2009 06:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ue]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/03/good-copbad-cop-or-tit-for-tat.html</guid>
+		<description><![CDATA[Robert Waldmann The bill passed by the House of Representatives which imposes a 90% tax on bonuses paid to people who earn over 250,000/year by firms which received TARP funds makes the hair on Noam Scheibers neck stand up.He writes As for the consequences we can&#8217;t foresee, most of them relate to the precedent of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>The bill passed by the House of Representatives which imposes a 90% tax on bonuses paid to people who earn over 250,000/year by firms which received TARP funds <a href="http://blogs.tnr.com/tnr/blogs/the_stash/archive/2009/03/19/house-passes-bonus-tax-hair-on-my-neck-stands-up.aspx">makes the hair on Noam Scheibers neck stand up.</a><br />He writes </p>
+<blockquote><p>As for the consequences we can&#8217;t foresee, most of them relate to the precedent of taxing income retroactively, which seems to introduce a level of arbitrariness that can&#8217;t be good for economic growth. </p>
+<p>My only hope is that there&#8217;s a hidden genius at work here&#8211;a kind of unintentional good cop/bad cop routine. That is, maybe the House&#8217;s efforts will get the AIG derivatives-meisters to cough up their bonuses, which will appease the public a bit and make the new law moot. </p></blockquote>
+<p>Via<a href="http://www.prospect.org/csnc/blogs/ezraklein_archive?month=03&#038;year=2009&#038;base_name=evening_question"> Ezra Klein.</a></p>
+<p>I prefer an analogy based on the other side, not the problem of the cops who want to make suspects talk but the problem of the suspects who don&#8217;t want the other guy to squeal, that is, the prisoners dilemma.  After the jump I explain why I think the current situation is a prisoners dilemma.  Here I just note that calmly thinking of the future is not optimal behavior if one is in a prisoner&#8217;s dilemma, a reputation for vindictiveness is very useful in this case.  Thus my view of the long run effects of the event is very much the opposite of Scheiber&#8217;s.</p>
+<p>Before the jump, I&#8217;d like to thank Wallace Gromit whose comments on <a href="http://www.haloscan.com/comments/angrybear/8806602307272905952/">an earlier post </a>mostly stimulated my thought.  Sad to say, I don&#8217;t know how to link to a comment (search the page for Wallace or Gromit) so I link to Scheiber&#8217;s somewhat inferior expression of the position.  After the jump I basically expand on this discussion</p>
+<p>update:  After writing the post (honest) I read a comment by Wallace Gomit which perfectly expresses the view which I contest.  I quote from comments.</p>
+<blockquote><p>me: I wonder why you think acting in anger would be counterproductive.  I think that in this case it will be very useful. [snip]  </p>
+<p>Wallace Gomit: The reason that I think that acting in anger could be counterproductive is that I think the way that congress and the media is approaching this situation is 100% reactive.  Nobody is thinking through the consequences of their actions.  Due process is out the window. [snip]</p></blockquote>
+<p>At first, I will focus only on the long run incentive effects of the tax including effects via expectations of future actions by Congress.  Only at the end will I argue that such a pragmatic approach to the issue is reasonable as there are no questions of constitutionality or human rights involved.</p>
+<p>Scheiber reflexively makes an argument which is often very valid and the key to reasonable tax policy &#8220;which seems to introduce a level of arbitrariness that can&#8217;t be good for economic growth.&#8221;  Indeed.  After people have invested in any way, it would often increase average welfare to take the product of their efforts.  The problem is that people in the future would expect the products of their efforts to be taken and this would be a disaster.  Basically, ex poste we want to take from the rich, but doing so is breaking an implicit promise which is key to economic growth &#8212; thus it is like finking in a prisoners dilemma.</p>
+<p>Similarly AIG managers had a choice between their interests and the public interests.  They could gamble under heads I win, tails I win too because having damanged the financial system I can threaten to damage it more unless I am given public money.  Or they could avoid such gambles.  They chose to gamble and hurt humanity a lot.  Thus, they have, in effect, finked in a prisoners dilemma.</p>
+<p>The good outcome is bankers avoid bankruptcy even though they will have to bear little (or none) of the costs and we tax them at a reasonable rate and especially don&#8217;t change the tax code for a year in the middle of that year.</p>
+<p>My view is that they finked and now Congress is finking back.</p>
+<p>In a sense the rational thing is to let bygones be bygones and look to the future in which the money is tiny compared to the cost of the bailout and not worth the bother (this is not at all Scheiber&#8217;s argument).  The sense is that this would be a Nash equilibrium stategy in a supergame.  The folk theorem states that in infinitely repeated games just about anything can be rationalized.</p>
+<p>However, it is easy to see if it is optimal to look to the future and consider only our own score in a finitely repeated prisoners dilemma.  The result is not optimal.  Instead a tit for tat player who mechanically punishes last period&#8217;s misbehavior by the other player by finking after the other player finks and who mechanically rewards last periods good behavior after the other player cooperates by cooperating will end up with a higher score than a player who rationally maximizes his score and doesn&#8217;t care about the past. </p>
+<p>Thus a player who calmly and rationaly maximizes his score given the current situation ends up with a lower score than a player motivated by vindictiveness and gratitute (or a sense of shame over breaking an implicit promise).</p>
+<p>This surprising result obtains, because the optimal strategy for a player who can pre-commit is not subgame perfect.  In macro this is called &#8220;dynamic inconsistency&#8221; for some reason.  A classic example of temptation to fink in public policy is the desire to soak the rich.  This is, I think, what Scheiber has in mind.</p>
+<p>I think he is totally wrong.  In the optimal strategy with pre-commitment one does not pre-commit to always cooperating.  One pre-commits to tit for tat.</p>
+<p>The executives of TARP assisted firms have clearly finked.  In a poll 57% of people described AIG bonuses as &#8220;outrageous.&#8221;  Thus the bill is seen to be tit for tat, a stategy better than &#8220;always cooperate&#8221; in a prisoners dilemma.</p>
+<p>Here it is crucial that people sincerely honestly think that AIG-FP managers have finked.  Thus the effect on expectations of future taxes is &#8220;If we do something that most people think is outrageous, we will pay.&#8221; that is a good and useful lesson.</p>
+<p>There might be a temptation to pretend that we think rich people have misbehaved so we can grab their money.  That would be finking when they haven&#8217;t finked.  The lesson would be costly.</p>
+<p>The effects of the bill depend on whether it is perceived to be arbitrary &#8212; that is if people considering investments of money or effort think that the House pretended to be playing tit for tat when the House was just finking.  I think there can be no doubt about perceptions here.  Even people who think that managers of TARP assisted firms didn&#8217;t fink know that most of the public is outraged.  They also know this happens rarely and only for particular reasons which, even if you don&#8217;t agree with them, you must recognise are comprehensible and thus predictable (and I repeat rare).</p>
+<p>Scheiber argues that soaking the bankers is fun but not optimal strategy in a repeated game.  I think he is completely exactly wrong on precisely that point.  A precommitment to always cooperating is a terrible strategy in a prisoner&#8217;s dilemma, yet that is the strategy that Scheiber advocates.</p>
+<p>OK so what about rights ? One might argue that retroactive taxes are wrong not becaues they are bad for growth but because they violate human rights which include property rights.  Personally I don&#8217;t believe that human rights include property rights and think that we should let the rich remain rich only for pragmatic repeated game reasons.  This is a question in pure ethics and can&#8217;t be solved by argument or evidence.</p>
+<p>Now some people who did their jobs very well will be taxed heavily.  This means that the incentive effects will not be exactly optimal.  The best should not be the enemy of the good.  In questions of rights it is not acceptable to violate some people&#8217;s rights in cases where other people have earned a punishment.  However, the bill is a tax not a punishment.  I think we don&#8217;t have the right to pay less than 90% income taxes, so consideration of targetting the tax should be pragmatic and concern the balance of the incentive effects. </p>
+<p>What about the Constitution ? Is this a &#8220;bill of attainder&#8221; or &#8220;ex poste facto law&#8221; ?  Well the Constitution is not what it used to be &#8212; it has been amended.  In particular the 16th amendment gives congress the power to tax income.  </p>
+<blockquote><p><a href="http://www.law.cornell.edu/constitution/constitution.amendmentxvi.html">Amendment XVI</a>The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several states, and without regard to any census or enumeration. </p></blockquote>
+<p>It does not say that income earned before the tax bill passes is protected.  It does not say that all income must be taxed at the same rate (notice no one argued that the bill to reduce taxation of dividend income was unconstitutional &#8212; no one has ever argued that the 16th amendment implicitely reads &#8220;&#8230; taxes on incomes, from whatever source derived all at the same rate, without regard &#8230;&#8221; (I think I&#8217;m the only person who has considered this possibility).</p>
+<p>Changes in taxes which apply to the current year are quite common and clearly constitutional.</p>
+<p>There is no problem. </p>
+<p>Finally the bill would take money from rich people (only applies ot people with incomes over $ 250,000).  This would normally be desirable except for the terrible incentive effects.  In this case I think the incentive effects are good.  In particular I think, as argued at length above, the incentive effects via expected future changes in the tax code are good.  So what&#8217;s the problem ?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/03/good-copbad-cop-or-tit-for-tat.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

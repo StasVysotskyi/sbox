@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>humbleness &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Static News.com</title>
+		<link>./../../2008/06/static-news-com.html</link>
+		<comments>./../../2008/06/static-news-com.html#respond</comments>
+		<pubDate>Sun, 01 Jun 2008 10:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[gracious readers]]></category>
+		<category><![CDATA[Humanity]]></category>
+		<category><![CDATA[humbleness]]></category>
+		<category><![CDATA[lessons in admitting error publicly]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/06/static-news-com.html</guid>
+		<description><![CDATA[Update: rdan makes big mistake on static news. Static News by Wm Hallowell is a new site and is aimed at the age 13-30 year old group. It is my impression this younger group is generally not a part of our regular readership, with a few notable exceptions. Angry Bear is listed with some of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Update:  rdan makes big mistake on static news.</p>
+<p><a href="http://static-news.com/">Static News</a> by Wm Hallowell is a new site and is aimed at the age 13-30 year old group.  It is my impression this younger group is generally not a part of our regular readership, with a few notable exceptions.</p>
+<p>Angry Bear is listed with some of the Big Guys on the leftie side of the bloglists.  The younger group is mostly who I deal with in other parts of my life, so I was glad to see this happening.  How we might respond to a younger group is unclear to me (well, way younger perhaps) but I find it intriguing.</p>
+<p>When I hear even the young side of boomers worry about Soc. Sec. not &#8216;being there&#8217; for them, but then start to explain the math and such, they now simply laugh and run away (affectionately, but with no qualms).</p>
+<p>I will be hoping to explore the links (and design if changes are made in consequence) at some point with our group of eleven and of course readers.  Maybe for now bedtime reading can be switched to laptops and spencer&#8217;s pictures?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/06/static-news-com.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

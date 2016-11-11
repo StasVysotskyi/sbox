@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MA foreclosure requirements &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Foreclosure, mortgage and promissory notes in MA</title>
+		<link>./../../2012/06/foreclosure-mortgage-and-promissory-notes-in-ma.html</link>
+		<comments>./../../2012/06/foreclosure-mortgage-and-promissory-notes-in-ma.html#respond</comments>
+		<pubDate>Mon, 25 Jun 2012 16:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[MA foreclosure requirements]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/foreclosure-mortgage-and-promissory-notes-in-ma.html</guid>
+		<description><![CDATA[Via Firedoglake&#8217;s David Dayen comes this post of the &#8216;ambiguity&#8217; of a State Supreme Court ruling on one case of foreclosure action and the requirements to &#8216;own&#8217; a property. Based on my conversations, the ruling does not allow Fannie Mae to foreclose. It remands the case back to the lower court for them to decide [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://news.firedoglake.com/2012/06/22/dont-believe-everything-you-read-dept-foreclosure-case-in-massachusetts-gives-new-protections-to-homeowners/">Via Firedoglake&#8217;s David Dayen</a> comes this post of the &#8216;ambiguity&#8217; of a State Supreme Court ruling on one case of foreclosure action and the requirements to &#8216;own&#8217; a property.</p>
+<blockquote><p>Based on my conversations, the ruling does not allow Fannie Mae to foreclose. It remands the case back to the lower court for them to decide how to proceed. And while the case is prospective, meaning that it only applies to foreclosure actions from this point forward, as <a href="http://www.cbsnews.com/8301-505247_162-57458916/mass-foreclosure-ruling-disappoints-advocates/">Adam Levitin explains</a> there are still some added protections for homeowners granted. In the case, Eaton v. Fannie Mae and Green Tree Servicing, the homeowner argued that a lender cannot foreclose unless they hold both the mortgage and the promissory note. And the high court in Massachusetts agreed with that.</p>
+<p>Georgetown University Law Professor Adam Levitin, who wrote a friend-of-the-court brief supporting Eaton’s position, said the decision makes clear that lenders who do not hold both the mortgage and the promissory note do not have the right to foreclose, an area of state law that until now has been ambiguous.</p>
+<blockquote><p>“It’s not an outright victory. The court was definitely concerned that if it applied the ruling retroactively, that it would cloud title for a lot of real estate in Massachusetts. They avoided that,” Levitin said.<br />“However, for people who are currently in foreclosure or worried that foreclosure will happen in the future, this rule matters quite a bit because the mortgage industry was, frankly, sloppy about its paperwork.<br />“If you lost your house in foreclosure, you’re not getting it back because of this, but overall, it means homeowners have pretty good protections, namely, you can’t be thrown out of your house unless the lender can absolutely prove they have the right to do so.”</p></blockquote>
+</blockquote>
+<p>Update:  (hat tip rjs) under the fold on <a target href="http://abigailcfield.com/?p=1379">Abigail Field&#8217;s</a> post on the decision.</p>
+<p><a name="more"></a></p>
+<blockquote><p><a href="http://stopforeclosurefraud.com/2012/06/22/eaton-vs-fannie-mae-massachusetts-supreme-judicial-holding-the-mortgage-and-also-either-holding-the-mortgage-note-or-acting-on-behalf-of-the-note-holder/">Eaton v. Fannie Mae</a> decision by the Massachusetts Supreme Judicial Court is not a huge banking industry win going forward. In fact, if the Legislature lets it stand, it’s a huge homeowner win. Forget the part about the decision applying in the future only; while I think it is wrong, it was doctrinally reasonable and arguably protects many innocent third parties.</p>
+<p>Going forward, the really big deal is that the Court has taken the “show me the note” defense and made it “show me the note owner.”  </p></blockquote>
+<blockquote><p>“Show me the note owner” is really hard to do in an era of mass <a href="http://abigailcfield.com/?p=882" title="Securitization Fail, What It Means If the Servicer Settlement “Cures” It &#038; Why NY Can’t Sign">securitization fail</a>. Securitization fail means the trust doesn’t own the loans. And if the trust doesn’t own the loans, then the servicer isn’t the agent of the note owner and can’t foreclose non-judicially. Moreover, as this Court’s earlier <a href="http://www.scribd.com/doc/46471786/Ibanez-Case"><em>Ibanez</em> decision</a> revealed, securitization <a href="http://www.dailyfinance.com/2011/01/07/massachusetts-ruling-slams-bank-foreclosure-practices/" title="My take on Ibanez for DailyFinance">fail may have occurred more often in Massachusetts</a> than elsewhere.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/foreclosure-mortgage-and-promissory-notes-in-ma.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>industrial production &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Euro Area ‘Hard Data’ Catching Up with the ‘Soft Data’ – Industrial Production</title>
+		<link>./../../2012/06/euro-area-hard-data-catching-up-with-the-soft-data-industrial-production.html</link>
+		<comments>./../../2012/06/euro-area-hard-data-catching-up-with-the-soft-data-industrial-production.html#respond</comments>
+		<pubDate>Thu, 14 Jun 2012 14:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[industrial production]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/euro-area-hard-data-catching-up-with-the-soft-data-industrial-production.html</guid>
+		<description><![CDATA[by Rebecca Wilder Euro Area ‘Hard Data’ Catching Up with the ‘Soft Data’ – Industrial Production Euro area industrial production (ex construction) declined 0.8% in the month of April. Across the major sectors, the largest decline occurred in capital goods; however, the trend in consumer and intermediate goods is worse than that of capital goods. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a></p>
+<p>Euro Area ‘Hard Data’ Catching Up with the ‘Soft Data’ – Industrial Production</p>
+<p><a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/4-13062012-AP/EN/4-13062012-AP-EN.PDF"><img alt="" height="186" src="http://www.economonitor.com/rebeccawilder/files/2012/06/ip_sector-300x186.jpg" width="300"></a></p>
+<p>Euro area industrial production (ex construction) declined 0.8% in the month of April. Across the major sectors, the largest decline occurred in capital goods; however, the trend in consumer and intermediate goods is worse than that of capital goods.</p>
+<p>The regional divergence is clear, as the two-month trend in industrial production – I use the two month trend since this series is quite volatile month-to-month – is strongest in Luxembourg, Slovakia, Slovenia, and Ireland, and weakest in the Netherlands, Spain, Estonia, and Greece.  (much more below the fold)</p>
+<p><a name="more"></a></p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/06/ip_country.jpg"><img alt="" height="468" src="http://www.economonitor.com/rebeccawilder/files/2012/06/ip_country.jpg" width="530"></a></p>
+<p>Another way to look at the divergence is to plot German production against the rest of Europe. It’s evident that Germany, with its large 35% weight in this index, is propping up the average. German industrial production is 10% above 2005 levels, while the Euro area ex Germany’s industrial production is 8% below levels in 2005. That’s an 18 ppt divergence.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/06/ip_europe_ex1.jpg"><img alt="" height="321" src="http://www.economonitor.com/rebeccawilder/files/2012/06/ip_europe_ex1.jpg" width="516"></a></p>
+<p>Finally, a comparison to the US is illustrative. The US industrial sector is outperforming that in Europe, as production continues its positive trend with relatively easy fiscal and monetary policy accommodating the private sector’s desire to save. The US production base is 2% above that in 2005, while that in the euro area (including Germany) is 2% below.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/06/ip_ea_us.jpg"><img alt="" height="321" src="http://www.economonitor.com/rebeccawilder/files/2012/06/ip_ea_us.jpg" width="516"></a></p>
+<p>In all, the euro area April industrial production release points to further divergence in growth prospects and a very weak start to the second quarter of 2012. The ‘hard data’ seems to be catching up with the weak ‘soft data’, like the PMIs (see <a href="http://www.economonitor.com/edwardhugh/2012/06/03/global-manufacturing-growth-shudders-towards-a-halt/">Edward Hugh’s summary </a>on the Euro area PMI).<br /><strong><em><br /></em></strong><br /><strong><em>Rebecca Wilder</em></strong><br /><strong><em><br /></em></strong><br />crossposted with  <a href="http://www.economonitor.com/rebeccawilder/2012/06/13/euro-area-hard-data-catching-up-with-the-soft-data-industrial-production/">The Wilder View&#8230;Economonitors</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/euro-area-hard-data-catching-up-with-the-soft-data-industrial-production.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

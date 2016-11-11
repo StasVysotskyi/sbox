@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>econblogging &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Which (macro)-economists are worth listening to?</title>
+		<link>./../../2012/08/which-macro-economists-are-worth-listening-to.html</link>
+		<comments>./../../2012/08/which-macro-economists-are-worth-listening-to.html#respond</comments>
+		<pubDate>Fri, 10 Aug 2012 09:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econblogging]]></category>
+		<category><![CDATA[economic policy]]></category>
+		<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[Jonathon Portes]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/which-macro-economists-are-worth-listening-to.html</guid>
+		<description><![CDATA[One could add a few names, and people did in comments.  One could also add a couple more thoughts  to Jonathon&#8217;s criterion, two of which could be admitting to mistakes and fixing parts of the model one is using if missed called, and a caveat around whether an economist could explain his/her model well and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>One could add a few names, and people did in comments.  One could also add a couple more thoughts  to Jonathon&#8217;s criterion, two of which could be admitting to mistakes and fixing parts of the model one is using if missed called, and a caveat around whether an economist could explain his/her model well and clearly after the biggest financial event in the world and history occurred (maybe not paying public attention?).</div>
+<p>Jonathon Portes (micro) at  <i>Not the Treasury View</i> asks:<br />
+<blockquote><a href="http://notthetreasuryview.blogspot.co.uk/2012/07/which-macro-economists-are-worth.html">Which (macro)-economists are worth listening to?</a><br />This post relates to the ongoing blog debate on &#8220;the state of macroeconomics&#8221;, which I contributed to<a href="http://notthetreasuryview.blogspot.co.uk/2012/06/macroeconomics-what-is-it-good-for.html"> here</a>, and which has drawn in a whole host of economics bloggers who know far more about modern macroeconomic theory than I do.  However, here I want to address a related, more mundane question, but one which is perhaps more relevant to most non-economists&#8217; concerns.   That is,  when economists argue about the correct stance of policy, who should we (policymakers, commentators, and the general public) listen to?</p>
+<p>This question was prompted by a recent exchange I had with Ed Vaizey and Simon Hughes on the BBC&#8217;s Daily Politics: I pointed out that not only was the government&#8217;s decision in 2010 to cut the deficit too quickly doing considerable economic damage, but that this was both predictable and predicted by economists such as <a href="http://krugman.blogs.nytimes.com/2010/06/06/lost-decade-here-we-come/">Paul Krugman </a>and <a href="http://www.ft.com/cms/s/0/fc8d1dd4-78b6-11df-a312-00144feabdc0.html#axzz21NXABN3e">Martin Wolf</a>. Their response was essentially &#8220;how were we to know which economists to listen to? Others were saying the opposite&#8221;.</p>
+<p>This is a fair question.  My answer to it is that policymakers and the public should listen to economists who fulfill two critera: first, they have made empirically testable predictions (conditional or unconditional &#8211; see Krugman <a href="http://krugman.blogs.nytimes.com/2012/07/28/types-of-prediction/">here</a>) that have proved, by and large, to be broadly consistent with the data; and second, they base those predictions on an analytic framework (not necessarily a formal model) that is persuasive.  In other words, getting it right alone is not enough; it should be possible to show your workings &#8211; to explain why you got it right. Otherwise, your predictions may be interesting, but they tell you little about how to formulate policy.  (bolding mine&#8230;Rdan)<a name="more"></a><br />My shortlist (apologies in advance to those I&#8217;ve omitted) of economists commenting on macroeconomic policy who I think qualify is something like the following:
+<ul>
+<li><a href="http://krugman.blogs.nytimes.com/2009/05/02/liquidity-preference-loanable-funds-and-niall-ferguson-wonkish/">Krugman</a>, <a href="http://www.ft.com/cms/s/0/f74bb844-9369-11df-bb9a-00144feab49a.html#axzz222aqYe17">Delong</a> and Wren-Lewis on fiscal policy when interest rates are at the zero lower bound;</li>
+</ul>
+<ul>
+<li>Adam <a href="http://www.bankofengland.co.uk/publications/Documents/speeches/2010/speech449.pdf">Posen</a> on monetary policy when interest rates are at the zero lower bound;</li>
+</ul>
+<ul>
+<li><a href="http://www.bloomberg.com/news/2010-05-13/euro-has-no-future-without-a-political-union-commentary-by-paul-de-grauwe.html">Paul de Grauwe</a> on sovereign and eurozone debt;</li>
+</ul>
+<ul>
+<li><a href="http://www.ft.com/cms/s/0/fc8d1dd4-78b6-11df-a312-00144feabdc0.html#axzz21NXABN3e">Martin Wolf</a> on private sector savings and public sector deficits (the financial balance approach);</li>
+</ul>
+<ul>
+<li><a href="http://www.businessinsider.com/richard-koo-recession-2010-4?op=1">Richard Koo</a> on the implications of a &#8220;balance sheet recession&#8221;</li>
+</ul>
+</blockquote>
+<p><a href="http://www.blogger.com/blogger.g?blogID=5048766" name="more"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/which-macro-economists-are-worth-listening-to.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Does economic blogging matter?? Part one</title>
+		<link>./../../2012/02/does-economic-blogging-matter-part-one.html</link>
+		<comments>./../../2012/02/does-economic-blogging-matter-part-one.html#respond</comments>
+		<pubDate>Sat, 18 Feb 2012 06:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econblogging]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/does-economic-blogging-matter-part-one.html</guid>
+		<description><![CDATA[Angry Bear was started by its namesake in the latter part of 2003, and continued publishing through the editorial efforts of Mike Kimel and Dan Crawford over the last six years (see About page).  Mark Thoma at Economist View approaches the role of econblogs through pointing to the disconnect between academics and public use of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Angry Bear was started by its namesake in the latter part of 2003, and continued publishing through the editorial efforts of Mike Kimel and Dan Crawford over the last six years (see About page).  <br /><a href="http://economistsview.typepad.com/economistsview/2011/11/the-public-mission-of-economics-overcoming-the-great-disconnect.html" target="_blank">Mark Thoma at Economist View</a> approaches the role of econblogs through pointing to the disconnect between academics and public use of the language of economics in an article published by <a href="http://publicsphere.ssrc.org/initiative-academia-public-sphere/">Academia and the Public Sphere</a> titled <a href="http://publicsphere.ssrc.org/thoma-new-forms-of-communication-and-the-public-mission-of-economics/" target="_blank">New Forms of Communication and the Public Mission of Economics: Overcoming the Great Disconnect</a>:<br />
+<blockquote>Fortunately, however, the “Great Disconnect”[3] with the non-academic community is being reversed with the development of new information technology. Economics blogs in particular have played a key role in turning things around.<br /><a href="http://www.nakedcapitalism.com/2011/11/matt-stoller-naked-capitalism-%E2%80%93-your-anti-lobbyist.html"></a></p></blockquote>
+<p><a href="http://www.nakedcapitalism.com/2011/11/matt-stoller-naked-capitalism-%E2%80%93-your-anti-lobbyist.html">Matt Stoller</a> at Naked Capitalism suggests:  <br />
+<blockquote>But something odd happened in 2008, during and in the wake of the crisis. Capitol Hill staffers and members of both parties began looking for expertise on how finance actually worked. And they began reading financial blogs. Lobbyists just didn’t or couldn’t help them understand how to deal with the massive systemic failures; they knew in some sense that the information they were getting was rigged. They just didn’t know how. The financial blogs began to tell them.</p>
+<p><a name="more"></a><br />Over the course of the next few years, the financial blogs became a new alternative system which delivered one of the most valuable commodities that previously had been monopolized by financial lobbyists and institutions like the Fed – credible information. That’s why there was an actual debate during Dodd-Frank over reining in the size of banking institutions, and auditing the Fed. Instead of second order industry shills distributing information they have been fed by the PR departments of big banks, communities of end-users of finance began to talk directly to lawmakers through mediated forums on the internet.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/does-economic-blogging-matter-part-one.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Elizabeth Warren begins her campaign</title>
+		<link>./../../2011/09/elizabeth-warren-begins-her-campaign.html</link>
+		<comments>./../../2011/09/elizabeth-warren-begins-her-campaign.html#respond</comments>
+		<pubDate>Fri, 23 Sep 2011 14:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[current economic policy]]></category>
+		<category><![CDATA[econblogging]]></category>
+		<category><![CDATA[political economics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/elizabeth-warren-begins-her-campaign.html</guid>
+		<description><![CDATA[Elizabeth Warren begins her campaign for the Senate seat in Massachusetts with: (h/t Mark Thoma) Also on MSNBC(h/t reader eric)]]></description>
+				<content:encoded><![CDATA[<p>Elizabeth Warren begins her campaign for the Senate seat in Massachusetts with:</p>
+<p>(h/t Mark Thoma)</p>
+<p>Also on <a target="_blank" href="http://www.msnbc.msn.com/id/3036789/vp/44607826#44607826">MSNBC</a><br />(h/t reader eric)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/elizabeth-warren-begins-her-campaign.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>S. Korean Econoblogger Jailed for Getting it Right</title>
+		<link>./../../2009/01/s-korean-econoblogger-jailed-for-getting-it-right.html</link>
+		<comments>./../../2009/01/s-korean-econoblogger-jailed-for-getting-it-right.html#respond</comments>
+		<pubDate>Sat, 24 Jan 2009 20:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econblogging]]></category>
+		<category><![CDATA[patriot act]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/s-korean-econoblogger-jailed-for-getting-it-right.html</guid>
+		<description><![CDATA[by Bruce Webb(UPDATE: this piece was not drawing any attention so I decided to move it under the fold and save some screen space. But the headline tells the story. He predicted the global slowdown and some specific events in S. Korea and got hauled away in handcuffs. Details below.)Prescient Young Blogger Did What S. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb<br />(UPDATE: this piece was not drawing any attention so I decided to move it under the fold and save some screen space. But the headline tells the story. He predicted the global slowdown and some specific events in S. Korea and got hauled away in handcuffs. Details below.)<br /><a target="_blank" href="http://www.washingtonpost.com/wp-dyn/content/article/2009/01/23/AR2009012303506.html?hpid=topnews">Prescient Young Blogger Did What S. Korea Couldn&#8217;t &#8212; Foresee Global Financial Crisis</a><br />
+<blockquote>He had been a so-so student who studied communications at a so-so junior college in a backwater town south of Seoul. Thirty-one years old and single, he spent much of his time alone in his room. As his father noted, &#8220;He can&#8217;t even get a job.&#8221;</p>
+<p>But he knew a global economic smack-down when he saw one.</p>
+<p>Minerva saw it coming last fall, far earlier and with far more acuity than the South Korean government, which his blog has humiliated and angered.</p>
+<p>Besides getting mad, the government got even. In a move widely perceived by the public as a chilling echo of the 1970s, when a military dictatorship ruled South Korea, the government detained Park this month, invoking a seldom-used telecommunications law that charges him with harming the public by spreading &#8220;false rumors.&#8221;</p>
+<p>Yet Minerva (no one knew him as Park until police raided his house Jan. 7) made his reputation by spreading rumors that turned out to be all too true.</p>
+<p>He predicted the collapse of Lehman Brothers five days before it happened. He predicted a sharp decline in the value of South Korea&#8217;s currency a few days before the won imploded against the dollar.</p>
+<p>By the time he was taken away from his computer in handcuffs, he was a cyber-sensation. His blog had garnered more than 40 million page views (there are 48 million people in this well-wired country). He was lionized in the South Korean news media as the &#8220;online oracle&#8221; and the &#8220;Internet president of the economy.&#8221;</p></blockquote>
+<p>Well I doubt that any Angry Bear needs to fear being locked up.  On the other hand for the paranoids among us I follow up on this with a <a target="_blank" href="http://bruceweb.blogspot.com/2009/01/it-cant-happen-here.html">blog post</a> at my site. Because Sec 802 of the Patriot Act if read broadly enough can criminalize pretty much anything.  Dean Baker needs to watch his back.</p>
+<p>(Memo to Dan. Being widely read and piling up page views doesn&#8217;t always pay. At least not in &#8216;democratic&#8217; S. Korea.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/s-korean-econoblogger-jailed-for-getting-it-right.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

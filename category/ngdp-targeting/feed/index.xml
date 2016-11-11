@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NGDP targeting &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>A Simple Question about NGDP Targeting</title>
+		<link>./../../2011/12/a-simple-question-about-ngdp-targeting.html</link>
+		<comments>./../../2011/12/a-simple-question-about-ngdp-targeting.html#respond</comments>
+		<pubDate>Wed, 07 Dec 2011 12:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[NGDP targeting]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+		<category><![CDATA[the fed]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/12/a-simple-question-about-ngdp-targeting.html</guid>
+		<description><![CDATA[by Mike Kimel A Simple Question about NGDP Targeting It seems that a big part of the econosphere these days talks about NGDP targeting. Translating this into English, a number of economists believe the Fed should be adjusting monetary policy to achieve a desired level of nominal GDP in any given year. To be very [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p>A Simple Question about NGDP Targeting</p>
+<p>It seems that a big part of the econosphere these days talks about NGDP targeting.  Translating this into English, a number of economists believe the Fed should be adjusting monetary policy to achieve a desired level of nominal GDP in any given year.  To be very precise, both the economese and the English should be adjusted slightly to explain what is really meant:  the Fed should be adjusting monetary policy to achieve a given desired rate of nominal GDP in any given year</p>
+<p>To me there are two very obvious problems with this.  The first should be evident to anyone who ever spent time in South America in the 1970s or 1980s, or has so much as heard of, say, Zimbabwe or the Weimar Republic:  why should the Fed or anyone else care about nominal growth rates?  Nominal figures are useful for <a href="http://www.angrybearblog.com/2007/01/in-my-opinion-thomas-sowell-is-hack.html">Sowellizing</a>, which apparently can be very profitable, but in the end, only inflation adjusted figures tells us whether we&#8217;re better off or not.  </p>
+<p>But there is a second problem, <a name="more"></a>  and the easiest way to state it is by analogy.  Think of the Fed as the quarterback on an American football team.  I don&#8217;t much like American football, but it is evident that the goal of a quarterback is not to throw a specific number of completed passes, or even to get certain score the board.  The goal is to do what it takes to win the game.  Getting 28 points doesn&#8217;t help you if the other team walks away with 35.  On the other hand, 28 to 21 achieves the quarterback&#8217;s goal nicely.  (And of course, whether 28 points looks impressive or not depends on a number things, including the condition of your teammates and the other team&#8217;s defense.)  For a good quarterback, winning the game sometimes means mostly staying out of the way, while at other times it means taking charge.  But specific measurable numbers mean nothing in the end. </p>
+<p>Now, the Fed has a dual mandate (imposed by law):  set policy to maximize employment and keep prices stable.  Of course, the two goals conflict to some extent.  Stable prices means keeping inflation rates at about zero, which nobody advocates as it would generate slow economic growth (and thus low levels of employment).  Maximizing employment could be accomplishing economic growth rates, but the Fed often tries to slow down growth rates in order to prevent the onset of inflation.  </p>
+<p>The Fed is left with something that loosely translates as this:  &#8220;try to get the economy to grow as quickly as possible without setting off too much inflation.&#8221;  It accomplishes that goal to a greater or lesser extent at different times.  </p>
+<p>But given the number of moving parts out there, that seems to be a much easier, and much more logical approach than saying:  let&#8217;s shoot for a 3% increase in nominal GDP this year.  </p>
+<p>&#8212;</p>
+<p>Lest this post be seen as a defense of the way the Fed does its job, I should note:  I personally think the Fed has been doing a very poor job for quite a while, and some of my earliest posts are criticisms of the Fed.  I&#8217;m especially horrified by the Fed&#8217;s approach to the economic mess we&#8217;re in &#8211; as I&#8217;ve been noting since 2008, ensuring that institutions with insane and harmful business models survive to engage in more spectacularly bad behavior is no way to help the economy, and that is true whether one has NGDP targets or not.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/12/a-simple-question-about-ngdp-targeting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

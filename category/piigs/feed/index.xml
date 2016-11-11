@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PIIGS &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Quote of the Day: What Reputation for Competence?</title>
+		<link>./../../2010/02/quote-of-the-day-what-reputation-for-competence.html</link>
+		<comments>./../../2010/02/quote-of-the-day-what-reputation-for-competence.html#respond</comments>
+		<pubDate>Mon, 08 Feb 2010 02:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[EMU]]></category>
+		<category><![CDATA[PIIGS]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/quote-of-the-day-what-reputation-for-competence.html</guid>
+		<description><![CDATA[The Guardian on the PIIGS: By the time Black Wednesday was over in September 1992, Soros had reputedly pocketed £1bn and the reputation of the government of John Major for economic competence was in tatters. Meanwhile, datacharmer at Bluematter gets to the core of the matter: I&#8217;m wondering what the shorters&#8217; game is. As I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Guardian <a href="http://www.guardian.co.uk/business/2010/feb/07/bond-market-greece-pigs">on the PIIGS</a>:<br />
+<blockquote>By the time Black Wednesday was over in September 1992, Soros had reputedly pocketed £1bn and the reputation of the government of John Major for economic competence was in tatters.</p></blockquote>
+<p>Meanwhile, datacharmer at Bluematter <a href="http://bluematter.blogspot.com/2010/02/message-to-all-piigs-shorters-out-there.html">gets to the core of the matter</a>:<br />
+<blockquote>I&#8217;m wondering what the shorters&#8217; game is. As I said before, there is no real possibility of default in an EMU country. In fact, the very notion of an EMU country folding with 120% or even 150% debt to GDP ratio is laughable, not only because it&#8217;s very, very easy to fix the situation (the PIIGS governments announce a 5% cut in public sector pay, or a rise of 2% in VAT) but also because healthier EMU countries have a lot to lose by letting the PIIGS go down, both politically and economically. Worst case scenario, Germany says &#8216;enough&#8217;, and the whole thing just blows over.</p></blockquote>
+<p>Playing Moral Hazard games when the House has an unlimited bankroll is for fools.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/quote-of-the-day-what-reputation-for-competence.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>New Deal Democrat &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Mixed Messages on employment situation</title>
+		<link>./../../2012/08/mixed-messages-on-employment-situation.html</link>
+		<comments>./../../2012/08/mixed-messages-on-employment-situation.html#respond</comments>
+		<pubDate>Sun, 05 Aug 2012 16:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[employment situation]]></category>
+		<category><![CDATA[New Deal Democrat]]></category>
+		<category><![CDATA[pgl]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/mixed-messages-on-employment-situation.html</guid>
+		<description><![CDATA[Some other insights on the data in addition to Angry Bear Spencer England: Mixed Message on the Labor Front BLS released its Employment Situation Summary for July. The payroll survey showed an increase in employment of $163 thousand but that unemployment rate rose to 8.3%. So what was the deal from the household survey? Actually [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Some other insights on the data in addition to <a href="http://www.angrybearblog.com/2012/08/the-employment-situation.html">Angry Bear Spencer England</a>:</p>
+<p><a href="http://econospeak.blogspot.com/2012/08/mixed-message-on-labor-front.html">Mixed Message on the Labor Front</a>
+</p>
+<blockquote><p><a href="http://bls.gov/news.release/empsit.nr0.htm">BLS</a> released its Employment Situation Summary for July. The payroll survey showed an increase in employment of $163 thousand but that unemployment rate rose to 8.3%. So what was the deal from the household survey? Actually the labor force participation rate fell from 63.8% to 63.7% so the small rise in the unemployment rate masks the fact that the employment to population rate fell from 58.6% to 58.4%. The household survey indicates that employment dropped by 195 thousand last month. So I’m sure the political hacks will have lots to debate on this news. But one thing is crystal clear – we are still far below full employment. This Administration and the Federal Reserve need to do a lot more in terms of stimulus. Of course the Republicans are proposing even more fiscal austerity. Go figure! <br /><a href="http://www.blogger.com/profile/03790826995006015721">run75441</a> said&#8230; <br />PGL:       <br />Truly this is not good news. If U# goes up, Particpation Rate increases because people started looking for work again. What you are saying is U3 went up at the same time Participation Rate dropped (more people quit looking).  August 3, 2012 10:20 PM</p></blockquote>
+<p><a href="http://bonddad.blogspot.co.uk/2012/07/initial-jobless-claims-and-onset-of_27.html">At Bonndad, New Deal Democrat</a> points to the data suggesting new unemployment claims as a leading indicator is much diminished.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/mixed-messages-on-employment-situation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

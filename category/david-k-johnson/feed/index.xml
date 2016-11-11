@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>David K Johnson &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>David Cay Johnston on the Child-Care Credit</title>
+		<link>./../../2010/11/david-cay-johnston-on-the-child-care-credit.html</link>
+		<comments>./../../2010/11/david-cay-johnston-on-the-child-care-credit.html#respond</comments>
+		<pubDate>Tue, 09 Nov 2010 15:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[child care tax credit]]></category>
+		<category><![CDATA[David K Johnson]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/david-cay-johnston-on-the-child-care-credit.html</guid>
+		<description><![CDATA[by Linda Beale David Cay Johnston on the Child-Care Credit crossposted with Ataxingmatter David Cay Johnston, former tax reporter for the New York Times, now does a column in the weekly Tax Notes called &#8220;Johnston&#8217;s Take.&#8221;  This week, he examines Alan Viard&#8217;s claim that the child-care credit is a boon for working parents.   Download Who [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Linda Beale</strong>  </p>
+<p><a target="_blank" href="http://ataxingmatter.blogs.com/tax/2010/11/david-cay-johnston-on-the-child-care-credit.html"><strong>David Cay Johnston on the Child-Care Credit</strong></a> <br />crossposted with <strong>Ataxingmatter</strong>
+<p>David Cay Johnston, former tax reporter for the New York Times, now does a column in the weekly Tax Notes called &#8220;Johnston&#8217;s Take.&#8221;  This week, he examines Alan Viard&#8217;s claim that the child-care credit is a boon for working parents.   <a href="http://ataxingmatter.blogs.com/files/who-benefits-from-child-care-credit.110810.pdf">Download Who Benefits from child-care credit.110810</a></p>
+<p>Viard is an <a href="http://en.wikipedia.org/wiki/American_Enterprise_Institute">American Enterprise Institute </a>economist/scholar in residence, joining Paul Wolfowitz, Lynne Cheney and other prominent names from the Bush right-wing support squad.  He has touted the child care tax credit and gotten some supporters.  For example,  legislation was introduced in the House this spring to increase the credit and remove the income limitation, so that even well-to-do couples could get the full credit (current law limits credit to $600 for familes with income above $43,000).  See Martin Vaughn, <a href="http://online.wsj.com/article/SB10001424052748704250104575238531602862848.html">House Plan Targets Child Care Tax Credit</a>, Wall St. Journal, May 11, 2010.</p>
+<p>Johnston argues that the incidence of the child tax credit, like the corporate income tax, is uncertain.  (The corporate tax may be borne by shareholders, but it may also be passed off to employees, vendors or customers.  That, of course, is if there is any tax paid at all&#8230;.)  The credit is not so obviously a benefit to those who ostensibly receive its benefit.  Johnston works through some simple formulas to show how wages decline with the availability of the credit&#8211;both because employers can pay less (since the government is in effect picking up part of the tab) and more employees come into the labor market because of the credit (which lowers wages because of the increased supply of labor).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/david-cay-johnston-on-the-child-care-credit.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>credit unions &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Moved your money</title>
+		<link>./../../2011/11/moved-your-money.html</link>
+		<comments>./../../2011/11/moved-your-money.html#respond</comments>
+		<pubDate>Sat, 05 Nov 2011 04:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[banks]]></category>
+		<category><![CDATA[credit unions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/moved-your-money.html</guid>
+		<description><![CDATA[Think Progress points us to …the Credit Union National Association (CUNA) reports that a whopping 650,000 Americans have joined credit unions since Sept. 29 — the date that Bank of America announced it would start charging a $5 monthly debit fee, a move it backed down on this week. To put that in perspective, there [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://thinkprogress.org/special/2011/11/03/360804/650000-americans-credit-unions/">Think Progress</a> points us to<br />
+<blockquote>
+<p>…the Credit Union National Association (CUNA) reports that a <a href="http://www.americanbanker.com/issues/176_214/customers-flee-for-credit-unions-1043783-1.html?zkPrintable=true">whopping 650,000 Americans have joined credit unions</a> since Sept. 29 — the date that Bank of America announced it would start charging a $5 monthly debit fee, a move <a href="http://inagist.com/rob_sheridan/131449581878779904/?utm_source=inagist&#038;utm_medium=rss">it backed down</a> on this week.</p>
+<p>To put that in perspective, there were <a href="http://opcashback.wordpress.com/2011/11/03/650000-new-members-have-joined-credit-unions-via-anonops_/">only 600,000</a> new members for credit unions in all of 2010.</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/moved-your-money.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

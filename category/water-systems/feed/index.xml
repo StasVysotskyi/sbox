@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>water systems &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>40 feet of rain a year, struggle for potable water</title>
+		<link>./../../2013/03/40-feet-of-rain-a-year-struggle-for-potable-water.html</link>
+		<comments>./../../2013/03/40-feet-of-rain-a-year-struggle-for-potable-water.html#respond</comments>
+		<pubDate>Wed, 13 Mar 2013 11:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[water economics]]></category>
+		<category><![CDATA[water systems]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/40-feet-of-rain-a-year-struggle-for-potable-water.html</guid>
+		<description><![CDATA[A New York Times reporter Gardner Harris describes an issue that might jar some of our perceptions about access to potable water: Almost no place on Earth gets more rain than this small hill town. Nearly 40 feet falls every year — more than 12 times what Seattle gets. Storms often drop more than a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A <a href="http://www.nytimes.com/2013/03/13/world/asia/rains-or-not-india-is-falling-short-on-drinkable-water.html?emc=tnt&#038;tntemail1=y&#038;_r=0" title="http://www.nytimes.com/2013/03/13/world/asia/rains-or-not-india-is-falling-short-on-drinkable-water.html?emc=tnt&#038;tntemail1=y&#038;_r=0">New York Times reporter Gardner Harris</a> describes an issue that might jar some of our perceptions about access to potable water:</p>
+<blockquote><p>Almost no place on Earth gets more rain than this small hill town. Nearly 40 feet falls every year — more than 12 times what Seattle gets. Storms often drop more than a foot a day. The monsoon is epic.</p>
+<p>Water containers are lined up at a community tap in Cherrapunji. Some people must walk long distances to get water. </p>
+<p>But during the dry season from November through March, many in this corner of India struggle to find water. Some are forced to walk long distances to fill jugs in springs or streams. Taps in Shillong, the capital of Meghalaya State, spout water for just a few hours a day. And when it arrives, the water is often not drinkable. <br />That people in one of the rainiest places on the planet struggle to get potable water is emblematic of the profound water challenges that India faces. Every year, about 600,000 Indian children die because of <a href="http://health.nytimes.com/health/guides/symptoms/diarrhea/overview.html?inline=nyt-classifier">diarrhea</a> or <a href="http://health.nytimes.com/health/guides/disease/pneumonia/overview.html?inline=nyt-classifier">pneumonia</a>, often caused by toxic water and poor hygiene, according to <a href="http://topics.nytimes.com/top/reference/timestopics/organizations/u/united_nations_childrens_fund/index.html?inline=nyt-org">Unicef</a>. </p>
+<p>&#8230;</p>
+<p>Some water problems stem from India’s difficult geography. Vast parts of the country are arid, and India has just 4 percent of the world’s fresh water shared among 16 percent of its people. </p>
+<p>But the country’s struggle to provide water security to the 2.6 million residents of Meghalaya, blessed with more rain than almost any place, shows that the problems are not all environmental. </p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/40-feet-of-rain-a-year-struggle-for-potable-water.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

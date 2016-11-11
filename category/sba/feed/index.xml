@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SBA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Small Business topic</title>
+		<link>./../../2009/08/small-business-topic.html</link>
+		<comments>./../../2009/08/small-business-topic.html#respond</comments>
+		<pubDate>Fri, 21 Aug 2009 09:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic stimulus]]></category>
+		<category><![CDATA[loans]]></category>
+		<category><![CDATA[SBA]]></category>
+		<category><![CDATA[small business]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/small-business-topic.html</guid>
+		<description><![CDATA[rdan H/T Naked Capitalism for this New York Times article concerning the loan program established in May to help small businesses as part of the stimulus program. With $255 million, the program is prepared to make about 10,000 loans of up to $35,000 each. As of Monday, the agency reported that only 1,127 loans, totaling [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>rdan</p>
+<p><a href="http://www.nakedcapitalism.com/2009/08/banks-turn-up-noses-at-lending-to-small.html" target="_blank">H/T Naked Capitalism</a> for this <a href="http://www.nytimes.com/2009/08/13/business/smallbusiness/13small.html?_r=1&#038;ref=business" target="_blank">New York Times article</a> concerning the loan program established in May to help small businesses as part of the stimulus program.</p>
+<p>
+<blockquote>With $255 million, the program is prepared to make about 10,000 loans of up to $35,000 each. As of Monday, the agency reported that only 1,127 loans, totaling $36.8 million, had been extended.</p>
+<p>While the agency maintains that the program is on track, some in the banking industry say the banks are moving slowly because they have little incentive. “There’s not a lot of profit motive in a $35,000 loan stretched over six years,” said Paul Merski, chief economist for the Independent Community Bankers of America, a trade association.</p>
+<p>Bob Seiwert, of the Center for Commercial Lending and Business Banking at the American Bankers Association, says “stringent underwriting standards” will require as much work as larger loans, making these even less economical.</p></blockquote>
+<p>Rdan here. What is a small business? is discussed <a href="http://angrybear.blogspot.com/2009/07/small-business-is-and-who-speaks-for.html" target="_blank">here at Angry Bear</a> and Small Business link is <a href="http://www.sba.gov/" target="_blank">here</a>,</p>
+<p><a target="_blank" href="http://angrybear.blogspot.com/2008/07/small-business-administrationloans-to.html">SBA loans to big box stores</a> ,</p>
+<p>small business as an <a target="_blank" href="http://angrybear.blogspot.com/2008/07/small-business-is-american-dream-as.html">American dream</a> ,</p>
+<p>and the <a href="http://angrybear.blogspot.com/2009/07/update-real-world-business.html" target="_blank">real world of small businesses</a> ,</p>
+<p>and gov intervention discourages <a href="http://angrybear.blogspot.com/2008/03/friend-of-small-business-not.html" target="_blank">local agricultural development</a>.</p>
+<p>Update: kharris points us to <a target="_blank" href="http://www.grameenfoundation.org/">Grameens Foundation</a>.  Especially for the really small business.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/small-business-topic.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

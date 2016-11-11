@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Critical Thinking &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Debt, Recession, and That Ol&#8217; Devil Denominator</title>
+		<link>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html</link>
+		<comments>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html#respond</comments>
+		<pubDate>Thu, 23 Aug 2012 18:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Critical Thinking]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[Paul Krugman]]></category>
+		<category><![CDATA[Recessions]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/debt-recession-and-that-ol-devil-denominator.html</guid>
+		<description><![CDATA[Krugman recently presented this graph, showing household debt as a percentage of GDP. and made this comment. Second, a dramatic rise in household debt, which many of us now believe lies at the heart of our continuing depression. There are those who seem to believe that if Krugman says it, it must be wrong.   Here [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Krugman recently <a href="http://krugman.blogs.nytimes.com/2012/07/18/thirty-troubling-years/">presented this graph</a>, showing household debt as a percentage of GDP.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AK"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AK" width="400"></a></div>
+<p>and made this comment.</p>
+<blockquote><div>Second, a dramatic rise in household debt, which many of us now believe lies at the heart of our continuing depression. </div>
+</blockquote>
+<p>There are those who seem to believe that if Krugman says it, it must be wrong.   Here is Scott Sumner&#8217;s<a href="http://www.themoneyillusion.com/?p=15389"> reaction</a>.</p>
+<blockquote><p>What do you see?  I suppose it’s in the eye of the beholder, but I see  three big debt surges:  1952-64, 1984-91, and 2000-08.  The first debt  surge was followed by a golden age in American history; the boom of  1965-73.  The second debt surge was followed by another golden age, the  boom of 1991-2007.  And the third was followed by a severe recession.   What was different with the third case?  The Fed adopted a tight money  policy that caused NGDP growth to crash, which in turn sharply raised  the W/NGDP ratio.  <a href="http://krugman.blogs.nytimes.com/2012/07/17/nominally-legal/" target="_blank">Krugman has another recent post</a> that shows further evidence of the importance of sticky wages.  Forget about debt and focus on NGDP.  It’s NGDP instability that creates problems, not debt surges.</p></blockquote>
+<p>Bold emphasis is provided by Marcus Nunes, who <a href="http://thefaintofheart.wordpress.com/2012/07/18/to-really-understand-the-depression-we-have-to-stop-pulling-red-herrings-from-the-hat/">goes on to say:</a></p>
+<blockquote><p>Why does the share of debt rise? I believe it reflects peoples  “optimism” about future prospects. In the chart below I break down  Krugman´s chart and separate mortgage and non-mortgage household debt as  a share of NGDP. I also add the behavior of the stock market (here  represented by the Dow-Jones Index).</p></blockquote>
+<p>[See the linked Nunes post for his chart.] </p>
+<p><a name="more"></a></p>
+<p>Eye of the beholder, indeed.  Nunes makes an expectations-based argument, and adds:<br />
+<blockquote>Non-mortgage debt remains relatively stable after 1965, fluctuating in the range of 17% to 22% of NGDP. No problem there. </p></blockquote>
+<p>But the reality is that non-mortgage debt has grown quasi-exponentially in the post WW II period.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9Dw"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9Dw" width="400"></a></div>
+<p>Sumner, as always, beats the NGDP drum.  </p>
+<p>My friend Art <a href="http://newarthurianeconomics.blogspot.com/2012/07/marcus-debt-is-red-herring.html">takes a jaundiced view of the Sumner-Nunes interpretation</a>.   He gets it exactly right.  To see why, let&#8217;s go back and have a look at  the data.  Here is straight CMDEBT (Household Credit Market Debt  Outstanding,) presented as YoY percent change &#8211; not distorted by a GDP  divisor.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AN"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AN" width="400"></a></div>
+<p>Sumner  sees a debt surge from 1952 to 1964.  I see a secular decrease in the  YoY rate of debt growth from over 15% to under 5% by about 1966.</p>
+<p>Sumner  sees a debt surge from 1984 to 1991.  I see a decrease in the YoY rate  of debt growth from over 15% to about 5% over that same span. </p>
+<p>Sumner  sees a debt surge from 2000 to 2008.  I see a modest rise into a broad  peak between 2003 and 2006, with a net decrease in the rate of debt  growth over the 2000 to 2007 period.  In CY 2008 debt growth goes  negative.  Here&#8217;s a close-up view.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AO"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AO" width="400"></a></div>
+<p>So much for optimism-fueled debt growth.  </p>
+<p>Between  the non-existent debt surges Sumner sees a golden age from 1965 to  1973.  I&#8217;m a bit puzzled by a golden age boom that straddles one  recession and leads directly into another; though I will admit that  average GDP growth then looks impressive compared to the GDP growth of  the last decade.  But the thing that Sumner misses within his &#8220;golden  age&#8221; is the big debt surge from 1971 to 1974.  </p>
+<p>By my reckoning, Sumner is incapable of identifying either a debt surge or an economic boom.   </p>
+<p>So  what is going on here?  Sumner and Nunes either fail to realize or  deliberately ignore that the quantity CMDEBT/GDP has a denominator.   Let&#8217;s look at GDP.  Here is YoY GDP growth over the post WW II period.   And, of course, this is NGDP &#8211; not inflation adjusted &#8211; the very  quantity to which Sumner ascribes so much gravitas.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AP"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AP" width="400"></a></div>
+<p>The average GDP growth over the period 1948 to 2007 is 7.04%<br />The average over the &#8220;debt surge&#8221; period 1952 to 1964 is 5.35%<br />The average over the  &#8220;debt surge&#8221; period 1984 to 1991 is 6.85%<br />The average over the  &#8220;debt surge&#8221; period 2000 to 2007 is 5.24%</p>
+<p>What  we have are three periods of below average GDP growth, two of them  substantially so.  The middle one is only slightly below average, but  that is misleading since there is a steep decline in GDP growth over the  period.</p>
+<p>Consider C = A/B.  If B is small or  decreasing, it will tend to make C large or increasing.  To ascribe all  of the changes in C to changes in A is to ignore that Ol&#8217; Devil  Denominator.   </p>
+<p>Sumner does bring up NGDP growth late  in the passage quoted above, but I don&#8217;t get his point.  If I&#8217;m reading  him correctly, he claims that NGDP growth crashed between 2000 and 2008,  and that caused the Debt/GDP ratio to rise.  But NGDP growth was  sharply up from 2001 to 2003, relatively steady through 2006, and never  crashed until 2008.  If there is any sense in his argument, somebody  will have to explain it to me.    </p>
+<p>What actually  happened was a real debt surge &#8211; but it was between 1997 and 2004.   Meanwhile, GDP growth both before and after the 2000-2003 dip was around  6 to 7%.  Then, in 2006, household debt growth and GDP growth both  started to slump, and in 2008 took a nose dive together.</p>
+<p>Sumner  and Nunes have made a very fundamental error &#8211; not so much in the math  itself as in the application of logic.  This is sloppy thinking, and any  conclusions drawn from it must be highly suspect.</p>
+<p>To get a handle on what is really going on, let&#8217;s look at debt growth and GDP growth together.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9C6"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9C6" width="400"></a></div>
+<p>  <br />They  don&#8217;t move in lock-step, but the similarity is striking.  Specifically,  every recession except 2001 corresponds exactly to a minimum in debt growth.  So Sumner&#8217;s advice to &#8220;<i>forget about debt</i>&#8221;  looks like it&#8217;s missing something very important &#8211; specifically that  the household component of spending [aka GDP growth] has been debt  financed.  To put it in context, have a look at Krugman&#8217;s first graph in  the article linked above.   It shows what we all know, but some chose  to ignore &#8211; that median wages have stagnated for 40 years.</p>
+<p>In  my narrative, the reason household debt grew to almost 100% of GDP is  that stagnating incomes have not been able to support the cost of the  American life style &#8211; due to decades of inflation, but probably largely  driven by the costs of health care and education.  Remember &#8211; contra the  prevailing view of economists today &#8211; spending, and therefore GDP  growth, <a href="http://www.angrybearblog.com/2012/04/another-look-at-wealth-and-consumption.html">is directly dependent on income, not on wealth</a>.  </p>
+<p>Debt  is a useful tool that develops into a problem when it becomes too  burdensome to service.  Looking at debt as a percentage of GDP provides a  clue as to how serviceable the debt is.  When you also consider that  all of the GDP growth over several decades has gone to the top income  earners, you can see that the debt servicing problem is made that much  worse for the average person.  </p>
+<p>Nunes thinks debt rises  when people are optimistic about the future, and he weaves a narrative  based on that idea.  He then blames the 2008 collapse on bad policy,  including a contractionary Fed.   He appears to want spending growth,  but refuses to recognize the exhausted ability of ordinary people to  spend.</p>
+<p>In my view &#8211; and I think the data supports it &#8211;  Krugman and Art have this exactly right.  And, as is nearly always the  case, those who disagree with PK on what is happening in the real word  have to invent a fantasy-world explanation &#8211; or, if I can borrow an  especially tortured metaphor from Nunes,  <i>pull a red herring out of a hat</i>.</p>
+<p>Cross-posted at <a href="http://jazzbumpa.blogspot.com/2012/08/debt-recession-and-that-ol-devil.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why marrying a good speller is important</title>
+		<link>./../../2011/03/why-marrying-a-good-speller-is-important.html</link>
+		<comments>./../../2011/03/why-marrying-a-good-speller-is-important.html#respond</comments>
+		<pubDate>Thu, 03 Mar 2011 04:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Critical Thinking]]></category>
+		<category><![CDATA[spelling]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/why-marrying-a-good-speller-is-important.html</guid>
+		<description><![CDATA[The times are tense and tempers fray&#8230;I found this little snippet funny in a way that fits the times. I don&#8217;t know where it came from, but would love to know.]]></description>
+				<content:encoded><![CDATA[<p>The times are tense and tempers fray&#8230;I found this little snippet funny in a way that fits the times.  I don&#8217;t know where it came from, but would love to know.  </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/why-marrying-a-good-speller-is-important.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Only Human Crisis</title>
+		<link>./../../2009/12/the-only-human-crisis.html</link>
+		<comments>./../../2009/12/the-only-human-crisis.html#comments</comments>
+		<pubDate>Sun, 13 Dec 2009 10:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[crisis]]></category>
+		<category><![CDATA[Critical Thinking]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/the-only-human-crisis.html</guid>
+		<description><![CDATA[Various pundits have been putting forward candidates for the big human crisis confronting us. They all agree that something is, but can’t settle on one or another. Throw a dart. Is it human rights? Terrorism? How about “the economy?” Not many people talking about the fisheries, though you could make a good case for a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://3.bp.blogspot.com/_MSuZ1riS9qU/SyRphlSG2NI/AAAAAAAAAXw/XsR4UoGjRVo/s1600-h/HotDogRoast.jpg"><img src="http://3.bp.blogspot.com/_MSuZ1riS9qU/SyRphlSG2NI/AAAAAAAAAXw/XsR4UoGjRVo/s320/HotDogRoast.jpg" alt="" border="0"></a>Various pundits have been putting forward candidates for the big human crisis confronting us.  They all agree that something is, but can’t settle on one or another.</p>
+<p>Throw a dart.   Is it human rights? Terrorism?  How about “the economy?”  Not many people talking about the fisheries, though you could make a good case for a collapse of the ocean biosphere.  Or how about one that effects us all &#8212; climate change?</p>
+<p>The crisis facing humanity is not any of those.  The crisis is “waking up.”</p>
+<p>We have slept over the past thousands of years, with our little dreams, our amateur class plays of wars and histories and arts.  While all this went on, our mother earth uncomplainingly fed and washed and cleaned up after us.</p>
+<p>So long as the “house” was big enough and we were small enough so our messes could be absorbed, we have had a lot of room to do what children do – learn and grow and break things.  (I have a theory that breaking, burning and cutting things is a indispensable part of childhood.  How else can you learn the properties of materials like sticks and vases and your little sister’s hair?)</p>
+<p>Well, the clumsy, drooling baby stage is over.  The kid’s gotten to be big and strong, destructive, creative, with the flashes of insight and compassion that presage adulthood.  The baby is now a teen.   Be afraid.</p>
+<p>The teen years are the time of maximum health and energy, combined with intelligence, ingenuity, and the tendency to make disastrous decisions.  Research has shown that the human brain doesn&#8217;t really come fully online until the early 20s.  We’re not there yet, believe me.</p>
+<p>Luckily, although our species as a whole shows many teen-like qualities at the moment, quite a number of individuals have progressed into adulthood.  We know what it looks like.  This goes for nations also.  In particular, the Scandinavian countries seem to have a grip on the concept of adulthood.</p>
+<p>Don&#8217;t kid yourself that we will evolve out of this teen stage.  As a species, biologically we have scarcely chipped our way out of the eggshell.   Instead, the genius of our species is to devise and put in place social structures that preserve a shared memory and channel us towards some behaviors and preferences, and away from others.  This genius, unfolding some 40,000 years ago, has allowed us to blanket the world with our species in every niche in every continent except the Antarctic.  It&#8217;s the equivalent of the baby growing up into a teen who can raid the fridge and enjoy the entire house, coming and going as he pleases.<br /><a name="more"></a><br />The last step to adulthood has nothing to do with claiming the privileges of adulthood while still assuming that mom will keep the freezer full and your clothes washed and folded.  As we have gotten bigger, mom has got littler.  Compared to us, she&#8217;s so shrunken now she can hardly keep up with our messes – and man, we have gotten messy.</p>
+<p>Here’s our challenge.  We need to grow up, and grow up fast, and it has to be done through social structures, ideas, and vigilant consciousness of all the ways it can go wrong.  It will require embracing limits and looking far into the future.  It will require wars, of some sort, to keep the juvenile delinquents from taking over the house, eating all the pizza and burning the place down in an angst-ridden snit. It will require seeing truly, acting ruthlessly, and living modestly.  And damned if I know how we will manage it.</p>
+<p>Moving our species smoothly into adulthood will mostly look boring.  But taking the path of perpetual teenhood, though it would be very exciting indeed, can easily leave us with no home, just a smoking ruin without even any hot dogs or marshmallows.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/the-only-human-crisis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+		<item>
+		<title>Thinking on Health care funding. It&#8217;s getting wacky!</title>
+		<link>./../../2009/07/thinking-on-health-care-funding-its-getting-wacky.html</link>
+		<comments>./../../2009/07/thinking-on-health-care-funding-its-getting-wacky.html#respond</comments>
+		<pubDate>Thu, 02 Jul 2009 15:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Critical Thinking]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[Olympia Snowe]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/07/thinking-on-health-care-funding-its-getting-wacky.html</guid>
+		<description><![CDATA[by Divorced one like Bush So, American&#8217;s put an intellectual in the president&#8217;s seat. It&#8217;s been called pragmatism. We cheer the return of science and thus critical thinking to our politics. Yet, here we are at the cusp of the next great societal character development issue since we figured out after the depression there was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Divorced one like Bush</p>
+<p>So, American&#8217;s put an intellectual in the president&#8217;s seat.   It&#8217;s been called pragmatism.  We cheer the return of science and thus critical thinking to our politics.  Yet, here we are at the cusp of the next great societal character development issue since we figured out after the depression there was class war in the US and we get this:<br />&#8220;If you establish a public option at the forefront that goes head-to-head and competes with the private health insurance market &#8230; the public option will have significant price advantages,&#8221; she said.<br />Yes, Maine&#8217;s finest: Olympia Snowe as she argues against making the public option available at the get go.  </p>
+<p>But, this concept is not new.  It dates back to 2006 when the <a href="http://www.cahi.org/cahi_contents/resources/pdf/CAHI_Medicare_Admin_Final_Publication.pdf">Council for Affordable Health Insurance</a> presented a 17 page report suggesting the same thing.  And!, now we have the <a href="http://www.heritage.org/research/healthcare/wm2505.cfm">Heritage foundation</a> dittoing the same report.  (More on that coming at AB by the other bloggers here.) </p>
+<p>But, never fear, Sam&#8217;s got you covered.  He explains the appropriateness of Olympia&#8217;s thinking.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/07/thinking-on-health-care-funding-its-getting-wacky.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

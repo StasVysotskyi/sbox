@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>stocks. government &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Robert Waldmann&#8217;s &#034;How to Solve Many Problems,&#034; This Time with a Question Mark</title>
+		<link>./../../2011/05/robert-waldmanns-how-to-solve-many-problems-this-time-with-a-question-mark.html</link>
+		<comments>./../../2011/05/robert-waldmanns-how-to-solve-many-problems-this-time-with-a-question-mark.html#respond</comments>
+		<pubDate>Fri, 27 May 2011 11:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[stocks. government]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/robert-waldmanns-how-to-solve-many-problems-this-time-with-a-question-mark.html</guid>
+		<description><![CDATA[by Mike Kimel Robert Waldmann&#8217;s &#8220;How to Solve Many Problems,&#8221; This Time with a Question Mark The other day I noted that the S&#038;P 500 leads the economy. A few days before that, my colleague, Robert Waldmann suggested that perhaps it might make sense for the government to issue bonds and use the proceeds to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>Robert Waldmann&#8217;s &#8220;How to Solve Many Problems,&#8221; This Time with a Question Mark</strong> </p>
+<p>The other day I noted that the <a href="http://www.angrybearblog.com/2011/05/historical-relationship-between-s-500.html">S&#038;P 500 leads the economy</a>.  A few days before that, my colleague, Robert Waldmann suggested that perhaps it might make sense <a href="http://www.angrybearblog.com/2011/05/how-to-solve-many-problems.html">for the government to issue bonds and use the proceeds to buy risky assets</a>, such as stocks.<br /><a name="more"></a></p>
+<p>Leaving aside the question of whether the government can pick winners, or whether most investors can either (not to mention the government&#8217;s recent willingness to swap good debt for bad debt held by banks, which amounts to a very dumb version of what Robert suggested), does the fact that the S&#038;P seems to lead the economy provide a reason for the government to follow Robert Waldman&#8217;s prescription?  And if the government did get into that business, would the correlation between the S&#038;P 500 and economic activity go away?  Or might this even be a more efficient or effective way to conduct monetary policy than buying and selling securities from a small group of banks (and where the purchases and sales are telegraphed so the folks on the other side can game the system), which is how things are done even when times are good?</p>
+<p>This was written on the fly in less than five minutes, including finding the old links, so I haven&#8217;t thought any of it through, but&#8230; what am I missing here?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/robert-waldmanns-how-to-solve-many-problems-this-time-with-a-question-mark.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

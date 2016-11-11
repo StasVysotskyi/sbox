@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>standards of living &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Cowen and truck driving jobs in North Dakota</title>
+		<link>./../../2011/08/cowen-and-truck-driving-jobs-in-north-dakota.html</link>
+		<comments>./../../2011/08/cowen-and-truck-driving-jobs-in-north-dakota.html#respond</comments>
+		<pubDate>Sun, 28 Aug 2011 14:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[labor markets]]></category>
+		<category><![CDATA[labor study]]></category>
+		<category><![CDATA[market wages]]></category>
+		<category><![CDATA[standards of living]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/cowen-and-truck-driving-jobs-in-north-dakota.html</guid>
+		<description><![CDATA[by Mike Kimel Tyler Cowen has a post on truck driving jobs in North Dakota: My poking around showed that some of them start at 75k a year, though with raises for good performance. The implication, of course &#8211; why don&#8217;t unemployed people move to North Dakota and drive trucks for good wages rather than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p>Tyler Cowen has a post on <a href="http://marginalrevolution.com/marginalrevolution/2011/08/claims-about-north-dakota.html">truck driving jobs in North Dakota</a>:</p>
+<blockquote><p>My poking around showed that some of them start at 75k a year, though with raises for good performance. </p></blockquote>
+<p>The implication, of course &#8211; why don&#8217;t unemployed people move to North Dakota and drive trucks for good wages rather than stick around and collect unemployment?</p>
+<p>I&#8217;ve got a theory:</p>
+<p><a href="http://3.bp.blogspot.com/-SrYYFirCoRQ/TlpM-7ff9VI/AAAAAAAAAsM/uhQdntf7mxI/s1600/wages.jpg"><img border="0" alt="" src="http://3.bp.blogspot.com/-SrYYFirCoRQ/TlpM-7ff9VI/AAAAAAAAAsM/uhQdntf7mxI/s320/wages.jpg"></a>Figure 1<br />
+<br />Screenshot from <a href="http://www.ndworkforceconnection.com/occprofiledata.asp?1=2&#038;ff_occprofile_section_controls=1&#038;ff_occprofile_display_type_numeric=1&#038;context=incontextlmi&#038;session=jobmarkettrends&#038;geo=3801000000&#038;geotype=&#038;city=&#038;zip=&#038;radius=&#038;onetcode=53303200">Job Service North Dakota</a>, run by the State Gov&#8217;t of North Dakota.</p>
+<p>Advertised wages for light truck drivers are quite a bit lower ($21,736 for entry level).<br />
+<br /><a name="more"></a><br />
+<br />More generally, I imagine there is a reason why unemployed relatively unskilled people, in, say, Lincoln, Nebraska don&#8217;t go through the expense of moving their families to Bismark and taking the coursework needed to get certified in order to get a job paying $32K a year or to do the equivalent to become a roughneck at a gas boomtown, even ignoring the fact that the jobs pay less than outsiders believe and the costs of taking them are greater. See&#8230; we&#8217;ve been through this before many times. </p>
+<p>The boom in the new skillset often ends before the new entrants can recoup their investment in gaining the skillset. And not just for the unskilled. Ask the folks who flocked to Silicon Valley in the 1990s for those great jobs as programmers. I&#8217;m sure you can find someone who drove out to Palo Alto in 1996 who is still programming and making north of $175K to boot but I&#8217;m guessing those people are huge outliers, not the trendline.</p>
+<p>Disclosure. I&#8217;m now currently looking for a full time job. Given the severance package I accepted from my previous employer and since I have some consulting work to do, I&#8217;m pretty sure I&#8217;m neither eligible for unemployment benefits nor able to move to North Dakota to train for an exciting new career hauling cargo.<br /></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/cowen-and-truck-driving-jobs-in-north-dakota.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

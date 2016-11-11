@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>neoclassical economics &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Economics an Almost Social Science</title>
+		<link>./../../2012/07/economics-an-almost-social-science.html</link>
+		<comments>./../../2012/07/economics-an-almost-social-science.html#respond</comments>
+		<pubDate>Mon, 23 Jul 2012 14:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Behavioral Economics]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+		<category><![CDATA[neoclassical economics]]></category>
+		<category><![CDATA[Peter Dorman]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/economics-an-almost-social-science.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak discusses problems with microfoundations, and in a more thorough paper at Association Economique politique explores the Political Econonomic Outlook for Capitalism. Mark Thoma had pointed to this Business/behavioral science can help guide economic-policy view notion of looking at incentives in an empirical way.]]></description>
+				<content:encoded><![CDATA[<p>Peter Dorman at <a href="http://econospeak.blogspot.com/2012/07/the-problem-with-microfoundations-bad.html" target="_blank">Econospeak</a> discusses problems with microfoundations, and in a more thorough paper at <a href="http://www.assoeconomiepolitique.org/political-economy-outlook-for-capitalism/wp-content/uploads/2012/06/Economics-an-Almost-Social-Science.pdf" target="_blank">Association Economique politique</a> explores the <i>Political Econonomic Outlook for Capitalism.</i></p>
+<p>Mark Thoma had pointed to this <a href="http://www.nytimes.com/2012/07/08/business/behavioral-science-can-help-guide-policy-economic-view.html?emc=tnt&#038;tntemail1=y" target="_blank">Business/behavioral science can help guide economic-policy view</a> notion of looking at incentives in an empirical way.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/economics-an-almost-social-science.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

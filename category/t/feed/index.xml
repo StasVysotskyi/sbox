@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>T &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Ignorance, Fake Turing Tests, and Bads</title>
+		<link>./../../2011/06/ignorance-fake-turing-tests-and-bads.html</link>
+		<comments>./../../2011/06/ignorance-fake-turing-tests-and-bads.html#respond</comments>
+		<pubDate>Thu, 23 Jun 2011 02:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[T]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/ignorance-fake-turing-tests-and-bads.html</guid>
+		<description><![CDATA[by Mike Kimel Ignorance, Fake Turing Tests, and Bads I don&#8217;t think Bryan Caplan realized he was advocating ignorance as a strategy for passing this non-Turing test. But it actually got me thinking. I may soon be spending a bit of time on a small project that some years ago I might have tackled by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>Ignorance, Fake Turing Tests, and Bads</strong></p>
+<p>I don&#8217;t think Bryan Caplan realized he was advocating <a href="http://www.angrybearblog.com/2011/04/it-takes-village-scarcity-ncaas-and.html">ignorance</a>  <a href="http://www.angrybearblog.com/2010/11/proposed-bet-for-professors-bryan.html">as</a> <a href="http://www.angrybearblog.com/2010/10/unanticipating-great-depression-and.html">a</a>  <a href="http://www.angrybearblog.com/2010/10/empirical-look-at-us-economy-from.html">strategy</a> for passing this  <a href="http://econlog.econlib.org/archives/2011/06/the_ideological.html">non-Turing test</a>.   </p>
+<p>But it actually got me thinking.  I may soon be spending a bit of time on a small project that some years ago I might have tackled by trying to build some adaptive behavior into a piece of software, though I&#8217;m older and (I hope) wiser now, so if the project goes forward, the software will rely more on script and less on what some people erroneously call artificial intelligence.  (I don&#8217;t like that term.  Machines don&#8217;t learn and machines don&#8217;t think.  It may happen some day but we&#8217;re a long way from that now and I don&#8217;t think there&#8217;s anyone out there who has any idea how it might happen, if it ever does.)  </p>
+<p>We live in a world where a surprising amount of the public put an astounding amount of time and effort into keeping track of the affairs of other people who don&#8217;t actually do very much.  I discovered the other day that not just did I, a guy who rarely watches tv, have knowledge of a show called Jersey Shore and can even recognize three of its cast members.  How this, er, information got into my brain I&#8217;ll never know, but if anyone can tell me how to remove it I&#8217;d be most appreciative.   </p>
+<p>So&#8230;  could it be that the optimal strategy for building a program that can pass a Turing test is filling it with information about useless stuff?  Which leads to another question  &#8211; is it possible that we consume a lot of things that are harmful to the economy&#8217;s long run health?  Not because they generate externalities, but because they are really &#8220;bads&#8221; rather than &#8220;goods&#8221;?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/ignorance-fake-turing-tests-and-bads.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

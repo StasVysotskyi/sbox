@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Political Repression &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Greece is not Argentina</title>
+		<link>./../../2011/04/greece-is-not-argentina.html</link>
+		<comments>./../../2011/04/greece-is-not-argentina.html#respond</comments>
+		<pubDate>Fri, 01 Apr 2011 17:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[Banking Crisis]]></category>
+		<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[Political Repression]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/greece-is-not-argentina.html</guid>
+		<description><![CDATA[I politely disagree with the conclusions of the article written by my Angry Bear colleague, Kash, where he envisages Greece defaulting in 2011 similarly to Argentina in 2001. I do agree, that the macroeconomic initial conditions in Greece scream default (actually, if you focus just on the measurable factors, like the current account, debt levels, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I politely disagree with the conclusions of <a href="http://www.angrybearblog.com/2011/03/greece-this-decades-argentina.html">the article written by my Angry Bear colleague, Kash</a>, where he envisages Greece defaulting in 2011 similarly to Argentina in 2001.</p>
+<p>I do agree, that the macroeconomic initial conditions in Greece scream default (actually, if you focus just on the measurable factors, like the current account, debt levels, or fiscal imbalances, Greece is much worse than Argentina in 2001 &#8211; <a href="http://www.imf.org/external/pubs/ft/wp/2008/wp08224.pdf">see Table 4</a> of this IMF paper to see Argentina&#8217;s initial conditions and compare them to Greece in 2009 using the <a href="http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/index.aspx">IMF World Economic Outlook Database</a>).</p>
+<p>Where I disagree, arguing that Greece is not like Argentina, is that the debt crisis in Argentina didn&#8217;t bring down the banking system of Latin America overall. In contrast, the default of Greece has the potential to do just that in Europe.</p>
+<p>Update:  see David Beckworth&#8217;s <a target="_blank" href="http://macromarketmusings.blogspot.com/2011/04/how-would-ecb-easing-help-eurozone.html">Macro Market Musings</a> includes Rebecca&#8217;s thoughts on ECB<br /><a name="more"></a><br />In Argentina, the Latin American banking system (and sovereign bonds, for that matter) was quite resilient in the face of the sovereign default in Argentina. Uruguay was the exception, whose two largest private banks, Banco Galicia Uruguay(BGU) and Banco Comercial (BC), which account for 20% of the country&#8217;s total, saw near-term liquidity pressure and an ensuing banking crisis in 2002 (see this <a href="http://www.imf.org/external/pubs/ft/wp/2008/wp08224.pdf">IMF paper </a>for a history of banking crises). All else equal, the IMF reports <a href="http://www.imf.org/external/pubs/ft/weo/2002/01/pdf/chapter1.pdf">only minor impact to the region as a whole</a>:<br /><em> <br />
+<blockquote>With the possible exception of Uruguay, economic and financial spillovers from the Argentine crisis appear to have been generally limited to date—as indicated, for example, by the muted reactions of bond spreads in most other regional economies and their declining correlation with those of Argentina, together with other favorable trends in financial market access and the general stability of exchange rates over recent months.</p></blockquote>
+<p></em><br />In contrast, the European banking system is highly interconnected. For example, according to the <a href="http://www.bundesbank.de/statistik/statistik_banken_tabellen.en.php">German Bundesbank</a>, Germany&#8217;s bank exposure to Spain was roughly 136 bn euro in December 2010, where most of it is held in the form of Spanish bank paper, 56.4 bn euro, and Spanish enterprises, 58.3 bn euro; the rest is in sovereign debt. Furthermore, German banks are sitting atop 25 bn euro in (worthless) Greek paper, primarily in the form of sovereign debt. Euro area countries are exposed to other banks AND the sovereign; but more importantly, the ones that save (run current account surpluses) are the ones holding the worthless (in some cases) bank and government debt. (read more after the jump)<!-- more --></p>
+<p>Bank risk is a big risk in Europe. Based on the consolidated banking data at the <a href="http://www.bis.org/statistics/consstats.htm">Bank for International Settlements </a>(BIS), German banks hold 22% of the Greek external debt load i.e., bank debt + sovereign debt + corporate debt), while French banks hold 32% (see Tables below). Furthermore, German banks accumulated 20% of all Irish external debt, 14% of Italy&#8217;s, and 21% of Spain&#8217;s.</p>
+<p>So the question is, not what will happen if Greece defaults, per se; but will a Greek default set off a chain reaction liquidity crunch that challenges asset valuations in the other Euro area banking systems (for bank paper and sovereign paper)? I suspect that it will, since the European banks are still building their capital buffers.</p>
+<p>My point is, the Germans are partial to NOT letting Greece default. All fiscal austerity aside, the Germans have demonstrated that <a href="http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ec/120296.pdf#page=22">they&#8217;d rather write a check </a>than take the writedowns, at this time. Therefore, from this perspective, I find it very unlikely that Greece defaults this year (or next, really).</p>
+<p>Now, you&#8217;re probably thinking: well, it&#8217;s in Greece&#8217;s best interest to default. Willem Buiter calls <a href="http://www.nber.org/~wbuiter/DoN.pdf">Greece leaving the Euro area &#8216;irrational&#8217;</a>. An irrational chain of events must be put in place in order to presage such a disorderly default (see <a href="http://www.nber.org/~wbuiter/DoN.pdf">8. &#8216;Break-Up Scenarios for the euro area&#8217; in the publication</a>). We&#8217;re not there yet, since Greece is still in <a href="http://blogs.wsj.com/deals/2011/03/23/greece-for-sale-want-to-buy-a-state-railroad/">asset-selling austerity mode</a>.</p>
+<p>It&#8217;s political repression.</p>
+<p><strong>BIS data representation I: in Shares of external debt outstanding (<em>click to enlarge</em>)</strong> </p>
+<p><a href="http://3.bp.blogspot.com/-8YTlsHH3bHI/TZYFfOByAVI/AAAAAAAADkE/BHjbOEUhVPQ/s1600/BIS_data_share.JPG"><img alt="" src="http://3.bp.blogspot.com/-8YTlsHH3bHI/TZYFfOByAVI/AAAAAAAADkE/BHjbOEUhVPQ/s400/BIS_data_share.JPG" border="0"></a> </p>
+<p><strong>BIS data representation II: in levels of external debt outstanding (<em>click to enlarge</em>)</strong> </p>
+<p><a href="http://2.bp.blogspot.com/-MZN92a14BAU/TZYFfAHFq3I/AAAAAAAADj8/R7Y5JnTKuJA/s1600/BIS_data_levels.JPG"><img alt="" src="http://2.bp.blogspot.com/-MZN92a14BAU/TZYFfAHFq3I/AAAAAAAADj8/R7Y5JnTKuJA/s400/BIS_data_levels.JPG" border="0"></a> </p>
+<p><em><strong>Rebecca Wilder</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/greece-is-not-argentina.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

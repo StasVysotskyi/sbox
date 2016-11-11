@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>service industry &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Capital, Labor, and Modernization</title>
+		<link>./../../2011/01/capital-labor-and-modernization.html</link>
+		<comments>./../../2011/01/capital-labor-and-modernization.html#respond</comments>
+		<pubDate>Wed, 19 Jan 2011 22:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[capital labor ratio]]></category>
+		<category><![CDATA[service industry]]></category>
+		<category><![CDATA[UK]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/capital-labor-and-modernization.html</guid>
+		<description><![CDATA[Many years ago, I had a Cultural Anthropology professor who discussed the glories of the mechanical cherry-picker. The only catch was that (1) it had upfront and maintenance costs and (2) it performs less well than experienced cherry-pickers. In short, it would be useful if you have a shortage of labor and an excess of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Many years ago, I had a Cultural Anthropology professor who discussed the glories of the mechanical cherry-picker. The only catch was that (1) it had upfront and maintenance costs and (2) it performs less well than experienced cherry-pickers. In short, it would be useful if you have a shortage of labor and an excess of capital, but not—as is common in cherry-picking areas—the reverse.</p>
+<p>Roy Mayall at The London Review of Books blog notes <a href="http://www.lrb.co.uk/blog/2011/01/19/roy-mayall/model-of-a-modern-royal-mail/">that the same type of conceit is being used by the Royal Mail</a>:<br />
+<blockquote>Walk-sequencing machines sort the letters into the order that they are going to be delivered in. The old walk-sorting machines only organised the post into rounds: postal workers had to do the final sorting. Under the old system, all the post was in the delivery office by 7.15 and we were usually out on our rounds by 9.00. Under the new system, the last lorry arrives at 9.15 and sometimes we don’t get out until after 11.00. It’s quite normal for a postal worker to finish work at 3.30 these days, and for posties doing rural rounds still to be delivering letters as late as four in the afternoon. The machines also have a tendency to break down, as we&#8217;ve just discovered, so on some days no post is delivered at all. <em>But they are central to the Royal Mail’s &#8216;modernisation&#8217; programme.</em> [italics mine]</p></blockquote>
+<p>And, as with newspaper deliveries in the United States, the emphasis on capital over labor has collateral costs to both:<br />
+<blockquote>The Royal Mail have scrapped all the bikes in Milton Keynes and replaced them with vans. Vans are obviously much more modern than bikes. They are also more expensive. Not only do they cost several thousand pounds to buy, they cost several hundred pounds a year to tax and insure&#8230;.</p>
+<p>Vans are also slower and less versatile than bikes. They are quicker along the road, but once on your round you have to get out and walk, pulling the post behind you on a trolley. It’s awkward. After a while it puts a strain on your back. And you can’t read the envelopes as you’re walking, which slows things down even more. Rounds that used to take three and a half hours to complete are now taking up to five. Whoever devised this method has obviously never delivered a letter in their life.</p></blockquote>
+<p>There&#8217;s a possibility that the shift to cars allows you to downsize labor. (It also means you cannot deliver the post without a driver&#8217;s licence.) But the cost of labor is virtually never the primary cost in a service industry, and it is unlikely to be cost-saving when you go from spending nothing on petrol to <a href="http://www.decc.gov.uk/en/content/cms/statistics/source/prices/prices.aspx">buying a commodity whose cost increased 9.9% in the past year</a>, and which <a href="http://www.decc.gov.uk/media/viewfile.ashx?filepath=statistics/source/prices/weeklyfuel.xls&#038;filetype=4&#038;minwidth=true">is currently running about 1.30 per litre</a>. When your Fixed Cost of &#8220;0&#8221; becomes a Variable Cost much larger than zero, those &#8220;savings&#8221; disappear rather quickly.</p>
+<p>As Mr. Mayall summarizes:<br />
+<blockquote>&#8216;Modernising&#8217; the Royal Mail means replacing a tried and tested method that’s been good for more than a hundred years with one that is more tiring, more polluting, slower and more expensive.</p></blockquote>
+<p>If the goal were optimal processing, he would be correct. If, instead, the idea is to exploit a difference in net pricing between capital and labor and leave the consequences and externalities to the future, then the Royal Mail becomes just a contemporary example of bad economic policies leading to poor social outcomes.</p>
+<p>In that context, it&#8217;s not even especially noteworthy. Just ask, say, <a href="http://dealbook.nytimes.com/2011/01/14/jpmorgans-fourth-quarter-profits-rise-47-to-4-8-billion/">Jaime Dimon</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/capital-labor-and-modernization.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Healthcare is So Expensive Part MMDCLVI</title>
+		<link>./../../2010/12/why-healthcare-is-so-expensive-part-mmdclvi.html</link>
+		<comments>./../../2010/12/why-healthcare-is-so-expensive-part-mmdclvi.html#respond</comments>
+		<pubDate>Tue, 21 Dec 2010 22:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Health Care]]></category>
+		<category><![CDATA[Health care costs]]></category>
+		<category><![CDATA[service industry]]></category>
+		<category><![CDATA[William Baumol]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/why-healthcare-is-so-expensive-part-mmdclvi.html</guid>
+		<description><![CDATA[by Tom Bozzo, cross-posted from Marginal Utility Competition in (increasing) service quality doesn’t reduce costs: Dane County’s two hospitals that deliver babies are each spending close to $40 million to spruce up maternity units and related facilities for a simple reason: Young women are key health care consumers, often deciding where their families will seek [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo, cross-posted from <a href="http://atbozzo.wordpress.com/">Marginal Utility</a></p>
+<p>Competition in (increasing) service quality <a href="http://host.madison.com/wsj/news/local/health_med_fit/article_2c8ab9ea-0c98-11e0-90d1-001cc4c03286.html">doesn’t reduce costs</a>:<br />
+<blockquote>Dane County’s two hospitals that deliver babies are each spending close to $40 million to spruce up maternity units and related facilities for a simple reason: Young women are key health care consumers, often deciding where their families will seek medical services for decades.</p>
+<p>“If you don’t cater to women, you lose your market share,” said Kathy Kostrivas, Meriter’s assistant vice president of women’s health.</p>
+<p>Many pregnant women tour both hospitals before choosing where to give birth, some bringing birth plans for each step of labor and delivery, said Holly Halberslaben, director of St. Mary’s family care suites.</p>
+<p>“They really do their homework,” Halberslaben said. “It can be their first time in a hospital. You want to retain them.”</p></blockquote>
+<p>The somewhat buried exculpatory case for these investments is that the facilities have been operating near capacity, and the Madison area is the fastest-growing part of Wisconsin apart from some areas in the Twin Cities’ exurban fringe.  Nevertheless, the hospitals fairly evenly split a market of just over 7,000 annual births, so $80 million is not an insubstantial cost to recover.</p>
+<p>I wonder how many expecting moms really are cross-shopping the facilities for compatibility with birth “plans.”[*] Many if not most of the births sort into the two hospitals on the basis of affiliations that send participants in several of the major local health insurance plans to one hospital or the other.  So even a modest amount of gold-plating can represent a large cost per birth on the contestable margin.  Granted, in addition to some Cadillac plan participants, the uninsured population has (Hobson’s?) choice as to where to give birth.  Though it’s messed up in a whole different way if the hospitals’ business plans would seek to recover a significant share of costs incurred to attract well-to-do moms to these facilities from the uninsured.</p>
+<p>[*] When John was born, the plan was to have a healthy baby, which turned out to be the plan that was robust to complications that would have mooted any other plans.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/why-healthcare-is-so-expensive-part-mmdclvi.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

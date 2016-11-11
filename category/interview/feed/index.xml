@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>interview &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Interview Notre Dame finance Professor Richard Sheehan</title>
+		<link>./../../2008/09/interview-notre-dame-finance-professor-richard-sheehan.html</link>
+		<comments>./../../2008/09/interview-notre-dame-finance-professor-richard-sheehan.html#respond</comments>
+		<pubDate>Wed, 24 Sep 2008 22:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[finance professor]]></category>
+		<category><![CDATA[interview]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/interview-notre-dame-finance-professor-richard-sheehan.html</guid>
+		<description><![CDATA[By Divorced one like Bush Just thought I would pass this along. He sounds like a reasonable thinker on the subject of our &#8220;crisis&#8221;. He makes understanding what is and has happened easy for those feeling lost in the discussions. The big thing I got out of it is we really do not have to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Divorced one like Bush</p>
+<p>Just thought I would <a href="http://www.salon.com/opinion/greenwald/radio/2008/09/23/sheehan/index.html">pass this along</a>.  He sounds like a reasonable thinker on the subject of our &#8220;crisis&#8221;.  He makes understanding what is and has happened easy for those feeling lost in the discussions.  The big thing I got out of it is we really do not have to act like this is a fire alarm going off.  I did not detect any particular sound bites or memes.  Glenn Greenwald questions him about the more common ones but not in a &#8220;gotcha&#8221; framing.</p>
+<p>Scroll down to the dark blue bar and click on the arrow.  It is about 20 minutes. Enjoy.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/interview-notre-dame-finance-professor-richard-sheehan.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

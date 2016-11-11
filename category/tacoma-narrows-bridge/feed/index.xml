@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tacoma narrows bridge &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Now for something completely different</title>
+		<link>./../../2008/12/now-for-something-completely-different.html</link>
+		<comments>./../../2008/12/now-for-something-completely-different.html#respond</comments>
+		<pubDate>Mon, 01 Dec 2008 18:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[tacoma narrows bridge]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/now-for-something-completely-different.html</guid>
+		<description><![CDATA[Kevin Drum incidentally mentioned the Nov 1940 collapse of &#8216;Galloping Gertie&#8217;, otherwise known as the Tacoma Narrows Bridge, in a post about a new technique about generating electricity from river or ocean currents. Which led me to pull up some footage and figure out how to embed it. (No it is not hard. But Old [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Kevin Drum incidentally mentioned the Nov 1940 collapse of &#8216;Galloping Gertie&#8217;, otherwise known as the Tacoma Narrows Bridge, in a post about a new technique about generating electricity from river or ocean currents. Which led me to pull up some footage and figure out how to embed it. (No it is not hard. But Old Dog/New Trick). I had not previously seen a color version. The whole thing is 5:56.<br />Update: Originally I thought this had nothing to do with economics but then realized it is not a bad visual metaphor for the current economic (hopefully only near) collapse. Hoocoodanode? Everybody knew the bridge swayed in high winds, hence the nickname. But no one it seems imagined it would literally encounter the perfect storm and shake itself to bits. RE speculators in Vegas and Riverside stirred up a storm that ended up freezing markets around the world. Hoocoodanode indeed.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/now-for-something-completely-different.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

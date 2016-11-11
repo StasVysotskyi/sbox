@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>deportees &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>France? Ireland? Begium? Mauritania? And now Italy</title>
+		<link>./../../2009/12/france-ireland-begium-mauritania-and-now-italy.html</link>
+		<comments>./../../2009/12/france-ireland-begium-mauritania-and-now-italy.html#comments</comments>
+		<pubDate>Wed, 02 Dec 2009 04:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[deportees]]></category>
+		<category><![CDATA[human rights]]></category>
+		<category><![CDATA[rule of law]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/france-ireland-begium-mauritania-and-now-italy.html</guid>
+		<description><![CDATA[No, not the 2010 World Cup draw. Countries that have more faith in the ability of people paid to protect them than the United States: Since 2002, more than 550 detainees have departed Guantanamo Bay for other destinations, including Albania, Algeria, Afghanistan, Australia, Bangladesh, Bahrain, Belgium, Bermuda, Chad, Denmark, Egypt, France, Iran, Iraq, Ireland, Jordan, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, not the 2010 World Cup draw.  Countries that have <a href="http://www.justice.gov/opa/pr/2009/November/09-ag-1286.html">more faith in the ability of people paid to protect them than the United States</a>:<br />
+<blockquote>Since 2002, more than 550 detainees have departed Guantanamo Bay for other destinations, including Albania, Algeria, Afghanistan, Australia, Bangladesh, Bahrain, Belgium, Bermuda, Chad, Denmark, Egypt, France, Iran, Iraq, Ireland, Jordan, Kuwait, Libya, Maldives, Mauritania, Morocco, Pakistan, Palau, Portugal, Russia, Saudi Arabia, Spain, Sweden, Sudan, Tajikistan, Turkey, Uganda, United Kingdom and Yemen.</p></blockquote>
+<p>Several others have departed for Bagram and other secret prisons and torture chambers, but let&#8217;s assume the DOJ isn&#8217;t double-counting here.</p>
+<p>(h/t to <a href="http://twitter.com/ggreenwald">Glenn Greenwald&#8217;s Twitter feed</a>)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/france-ireland-begium-mauritania-and-now-italy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rational &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Should We Worry about Tyler Cowen?</title>
+		<link>./../../2008/07/should-we-worry-about-tyler-cowen.html</link>
+		<comments>./../../2008/07/should-we-worry-about-tyler-cowen.html#respond</comments>
+		<pubDate>Mon, 07 Jul 2008 13:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[chess]]></category>
+		<category><![CDATA[economic ideology]]></category>
+		<category><![CDATA[rational]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/should-we-worry-about-tyler-cowen.html</guid>
+		<description><![CDATA[Tim Harford (h/t Mark Thoma) presents the old trade-off between Rationality and Cooperation, with a curious parenthetic: Except, nobody really thinks this is the way players would behave in reality. The optimal strategy seems sociopathic; isn’t it worth playing cooperatively in the hope that the other player will do the same thing? (Unlike much real [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blogs.ft.com/undercover/2008/07/field-centipedes-and-the-perils-of-rationality/">Tim Harford</a> (h/t <a href="http://economistsview.typepad.com/economistsview/2008/07/links-for-200-6.html">Mark Thoma</a>) presents the old trade-off between Rationality and Cooperation, with a curious parenthetic:<br />
+<blockquote>Except, nobody really thinks this is the way players would behave in reality. The optimal strategy seems sociopathic; isn’t it worth playing cooperatively in the hope that the other player will do the same thing? (Unlike much real human interaction, standard game theory does not accomodate the “hope” that someone else will play suboptimally: optimal play is to be expected at all times. )</p>
+<p>But Ignacio Palacios-Huerta&#8230;and Oscar Volij gave the centipede game to skilled chess players. They found that the chess players were far more likely to play optimally; grandmasters always played optimally and took the $4. Hyper-rationality can be a disadvantage. (Or did the experiment discover something else: that chess grandmasters are sociopaths?) Palacios-Huerta and Volij don’t speculate. My guess is that they have discovered something about the rationality rather than morality or empathy of chess players, but I may be wrong. [emphasis mine; parenthetic link about real football omitted]</p></blockquote>
+<p>They should run the same experiment with <a href="http://d-squareddigest.blogspot.com/2007/09/freakiology-yes-folks-its-part-4-of.html">Tour de France riders</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/should-we-worry-about-tyler-cowen.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>45 trillion credit swap market&#8230;how big is that?</title>
+		<link>./../../2008/04/45-trillion-credit-swap-market-how-big-is-that.html</link>
+		<comments>./../../2008/04/45-trillion-credit-swap-market-how-big-is-that.html#respond</comments>
+		<pubDate>Thu, 03 Apr 2008 14:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[model validation]]></category>
+		<category><![CDATA[rational]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/45-trillion-credit-swap-market-how-big-is-that.html</guid>
+		<description><![CDATA[The ABX.HE index, which is based on credit default swaps on different tranches of subprime mortgage-backed securities. (Federal Reserve Bank of Cleveland) Hat tip to Jim Satterfield for this link to Marketplace public radio. Bob Moon is the Senior Business Correspondent. MOON: OK, I&#8217;m about to unload some numbers on you here, so I&#8217;ll speak [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://4.bp.blogspot.com/_RPTAaOI4RN8/R_Tt8URkFzI/AAAAAAAAAIA/1qsdRpxtyJg/s1600-h/20080401_credit_default_swaps_chart_18.jpg"><img src="http://4.bp.blogspot.com/_RPTAaOI4RN8/R_Tt8URkFzI/AAAAAAAAAIA/1qsdRpxtyJg/s320/20080401_credit_default_swaps_chart_18.jpg" border="0" alt=""></a><br />The ABX.HE index, which is based on credit default swaps on different tranches of subprime mortgage-backed securities. (Federal Reserve Bank of Cleveland)</p>
+<p>Hat tip to Jim Satterfield for this link to <a href="http://marketplace.publicradio.org/display/web/2008/04/01/credit_default_swaps_q/">Marketplace</a> public radio.  Bob Moon is the Senior Business Correspondent.</p>
+<blockquote><p>MOON: OK, I&#8217;m about to unload some numbers on you here, so I&#8217;ll speak slowly so you can follow this.</p>
+<p><strong>The value of the entire U.S. Treasuries market: $4.5 trillion.</p>
+<p>The value of the entire mortgage market: $7 trillion.</p>
+<p>The size of the U.S. stock market: $22 trillion.</p>
+<p>OK, you ready?</p>
+<p>The size of the credit default swap market last year: $45 trillion</strong>.</p>
+<p>&#8230;</p>
+<p>RYSSDAL: OK, I&#8217;m with you, but let me ask you this. We just had the secretary of the Treasury yesterday with a big policy announcement. If these things are so bad, what&#8217;s being done about it?</p>
+<p>MOON: The irony here is that the former Fed Chairman Alan Greenspan, a couple of years ago he called credit default swaps &#8220;probably the most important instrument in finance,&#8221; because they were supposed to spread risk around and stabilize the market. Well, critics now say that they&#8217;ve had exactly the opposite effect. One of the leading critics of these things is Christopher Whalen. He&#8217;s an expert on financial risk at Institutional Risk Analytics. And he told me that this is nothing more than government-guaranteed gambling:</p>
+<p>CHRISTOPHER WHALEN: They are the most hideous kind of speculation. To have a federally insured bank like JPMorgan as the largest dealer in this market, to me says we don&#8217;t know what we&#8217;re doing anymore, and we don&#8217;t understand the difference between real work &#8212; real economic activity &#8212; and something that&#8217;s essentially wasting.</p>
+<p>MOON: And Whalen points out that Bear Stearns had more than $2.5 trillion in credit default swaps. He suspects that that&#8217;s why JPMorgan came to the rescue, so it didn&#8217;t get pulled down.</p></blockquote>
+<p>Update:  Do you know what notational means?  Comments are a must read.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/45-trillion-credit-swap-market-how-big-is-that.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

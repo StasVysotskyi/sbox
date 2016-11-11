@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tax court &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tax Court Rejects Geithner/Turbo Tax Defense</title>
+		<link>./../../2012/09/tax-court-rejects-geithnerturbo-tax-defense.html</link>
+		<comments>./../../2012/09/tax-court-rejects-geithnerturbo-tax-defense.html#respond</comments>
+		<pubDate>Thu, 06 Sep 2012 14:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[tax court]]></category>
+		<category><![CDATA[Tim Geithner]]></category>
+		<category><![CDATA[turbotax]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/tax-court-rejects-geithnerturbo-tax-defense.html</guid>
+		<description><![CDATA[From Tax Prof blog: Tax Court Rejects Geithner/Turbo Tax Defense Bartlett v. Commissioner, T.C. Memo. 2012-254 (Sept. 4, 2012): Petitioner admits that her income was misreported and that her taxable income was underreported. She maintains that she reported all of her income and that the mistakes made were &#8220;honest mistakes&#8221; resulting from her lack of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From <a href="http://taxprof.typepad.com/taxprof_blog/2012/09/tax-court-rejects-geithnerturbo-tax-defense.html">Tax Prof blog</a>:</p>
+<p>Tax Court Rejects Geithner/Turbo Tax Defense</p>
+<p><a href="http://www.ustaxcourt.gov/InOpHistoric/BartlettMemo.TCM.WPD.pdf">Bartlett v. Commissioner</a>, T.C. Memo. 2012-254 (Sept. 4, 2012):  <br />
+<blockquote>Petitioner admits that her income was misreported and that her taxable income was underreported. She maintains that she reported all of her income and that the mistakes made were &#8220;honest mistakes&#8221; resulting from her lack of familiarity with the TurboTax program. Petitioner claims she used the audit portion of the TurboTax program, believing the audit portion would catch any mistakes she otherwise might make. &#8230;<br />It is apparent that a portion of the information petitioner entered into the TurboTax program was incorrect; hence the mistakes made (which resulted in the underpayment) were made by petitioner, not TurboTax. TurboTax is only as good as the information entered into its software program. See <a href="http://www.ustaxcourt.gov/InOpHistoric/Bunney.TC.WPD.pdf">Bunney v. Commissioner</a>, 114 T.C. 259, 267 (2000). Simply put: garbage in, garbage out.</p></blockquote>
+<p>You can find a history of links to posts on the issue at Tax Prof.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/tax-court-rejects-geithnerturbo-tax-defense.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

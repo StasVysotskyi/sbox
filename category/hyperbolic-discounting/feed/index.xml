@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hyperbolic Discounting &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Hello My Name is Robert Waldmann</title>
+		<link>./../../2008/07/hello-my-name-is-robert-waldmann.html</link>
+		<comments>./../../2008/07/hello-my-name-is-robert-waldmann.html#respond</comments>
+		<pubDate>Mon, 07 Jul 2008 20:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Behavioral Economics]]></category>
+		<category><![CDATA[Hyperbolic Discounting]]></category>
+		<category><![CDATA[Intertemporal choice]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/hello-my-name-is-robert-waldmann.html</guid>
+		<description><![CDATA[Hi I am Robert Waldmann. rdan has very kindly invited me to guest post here some. I have a blog of my own (to which he kindly linked in the announcement). I am officially an economist, but tend to blog about politics at my home blog. Here I will try to fit the interest in, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hi I am Robert Waldmann.  rdan has very kindly invited me to guest post here some.  I have a blog of my own (to which he kindly linked in the announcement).  I am officially an economist, but tend to blog about politics at my home blog.  Here I will try to fit the interest in, you know economics.</p>
+<p>I wasn&#8217;t always like this.  Until age 25 I was a biologist.  I currently live in Rome Italy.  I am irrational and like to write about irrationality.  I am also egalitarian.</p>
+<p>My latest effort, which is a joint paper with Emanuele Millemaci is about relatively rational people who have dynamically inconsistent preferences.  It is strictly empirical.  Our hypothesis is that people with more severe dynamic inconsistency would hold less of their wealth as checking account balances, because it is too easy to spend.</p>
+<p>This appears to actually be true (Oh I love to blatantly split infinitives)</p>
+<p>Dynamically Inconsistent Preferences and Money Demand</p>
+<p>Emanuele Millemaci and Robert J. Waldmann</p>
+<p>This research wouldn&#8217;t have been possible without CentER at the University of<br />Tilburg which designed the survey and collected the the data.</p>
+<blockquote><p>This paper focuses on two main issues. First, we find that, on average,<br />households&#8217; discount rates decline. This implies dynamically inconsistent<br />preferences. Second, we calculate an indicator of the degree of dynamic<br />inconsistency that may help us to understand how households overcome their<br />self-control problems. We use a micro dataset containing households&#8217; reports<br />on the compensation for receiving hypothetical rewards with delays. We find<br />that individuals with more severely dynamically inconsistent preferences on<br />average hold a statistically significantly lower share of their total wealth<br />in checking accounts. A possible interpretation is that subjects use<br />precommitment strategies to limit their temptation to consume immediately.<br />(JEL classification: D11, D12, D90)</p></blockquote>
+<p>Comments very welcome.  If you want the pdf ask in comments.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/hello-my-name-is-robert-waldmann.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

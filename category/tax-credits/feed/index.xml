@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tax credits &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tax credits are not Government Spending?</title>
+		<link>./../../2011/04/tax-credits-are-not-government-spending.html</link>
+		<comments>./../../2011/04/tax-credits-are-not-government-spending.html#respond</comments>
+		<pubDate>Sun, 10 Apr 2011 10:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Supreme court]]></category>
+		<category><![CDATA[tax credits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/tax-credits-are-not-government-spending.html</guid>
+		<description><![CDATA[The Tax Policy Center The Supreme Court Says Tax Expenditures aren&#8217;t Goverbment Spending points us to a notable decision by the Supreme Court that has been lost in the federal budget fracas. Ever since Stanley Surrey popularized the concept of tax expenditures nearly half a century back, economists have argued that many tax breaks are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Tax Policy Center <a href="http://taxvox.taxpolicycenter.org/2011/04/07/the-supreme-court-says-tax-expenditures-aren%E2%80%99t-government-spending/">The Supreme Court Says Tax Expenditures aren&#8217;t Goverbment Spending</a> points us to a notable decision by the Supreme Court that has been lost in the federal budget fracas.    </p>
+<blockquote><p>Ever since Stanley Surrey popularized the concept of <a target="_blank" href="http://www.taxpolicycenter.org/taxtopics/Tax_Expenditures.cfm">tax expenditures</a> nearly half a century back, economists have argued that many tax breaks are equivalent to government spending. Virtually any spending program can be transformed into a tax expenditure that directs money in the same way.</p>
+<p>This week the Supreme Court rejected that equivalence, ruling that an Arizona tax credit differed enough from a comparable direct spending program to deny taxpayers the right to sue on the basis that the credit represented an unconstitutional government activity. The Court’s decision suggests that while the majority in this decision may be great lawyers, they are lousy economists.<br /><a name="more"></a></p>
+<p>Some background: In 1968, the Court ruled that citizens may sue to stop the government from spending that violates the Constitution, in the specific case supporting religious activity (<a target="_blank" href="http://scholar.google.com/scholar_case?case=2671670739885027028&#038;hl=en&#038;as_sdt=2&#038;as_vis=1&#038;oi=">Flast v. Cohen</a>). Citizens had standing to sue, the Court concluded, because the challenged spending directly affected taxpayers who fund government programs.</p>
+<p>The current case, <a target="_blank" href="http://www.supremecourt.gov/opinions/10pdf/09-987.pdf"><em>Arizona Christian School Tuition Organization v. Winn et al., </em></a> involves not direct government spending on an unconstitutional activity but rather a tax credit that serves the same purpose as a spending program. Arizona allows taxpayers to claim a non-refundable credit of $500 a year ($1,000 for couples) for donations to qualified school tuition organizations (STOs), which then use the funds to support tuition payments to private schools. The original suit claimed that STOs violated the First Amendment’s prohibition of government activities promoting the “establishment of religion” because tuition payments could go to parochial schools.</p>
+<p>In a 5-4 decision, the Court ruled that the challenged tax credit was not government spending and therefore the claimants lacked the standing to sue allowed in Flast. Unlike spending, the majority argued, tax expenditures do not necessarily affect the tax bills of others; that is, the government won’t necessarily raise taxes to cover the revenue cost of a tax credit. In fact, the opinion claimed, “the purpose of many governmental … tax benefits is ‘to spur economic activity, which in turn increases government revenues.’” And further, private school tuition assistance might induce some students to switch from public to private schools, thus reducing government costs. Since tax expenditures thus don’t necessarily harm taxpayers, they have no right to sue.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/tax-credits-are-not-government-spending.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

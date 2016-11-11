@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nick Rowe &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Econo blogging</title>
+		<link>./../../2012/11/econo-blogging.html</link>
+		<comments>./../../2012/11/econo-blogging.html#respond</comments>
+		<pubDate>Thu, 29 Nov 2012 14:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[marginal costs]]></category>
+		<category><![CDATA[modeling]]></category>
+		<category><![CDATA[Nick Rowe]]></category>
+		<category><![CDATA[Worthwhile Canadian Initiative]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/econo-blogging.html</guid>
+		<description><![CDATA[I have written several posts pointing to the role economics blogs play in the media, and am sorting out strengths and weakness to be addressed at Angry Bear in our own content. Nick Rowe  at Worthwhile Canadian Initiative posts Four MC curves and two PPFs.  The comments flesh out the ideas involved in a beginning econ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have written several posts pointing to the role economics blogs play in the media, and am sorting out strengths and weakness to be addressed at Angry Bear in our own content.</p>
+<p><a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2012/11/four-mc-curves-and-two-ppfs.html" target="_blank">Nick Rowe</a>  at Worthwhile Canadian Initiative posts <i>Four MC curves and two PPFs.  </i>The comments flesh out the ideas involved in a beginning econ class, and provide a bit of the human side of teaching economic concepts of marginal cost, average cost, real world and the smoothing from economics modeling aggregates.  Of course I read him and Frances regularly.</p>
+<p> On the other hand, as Steven Colbert (representing common sentiment) responded to Warren Buffet&#8217;s explanation of his position on taxes and tax code the other night, &#8220;Why do I find this interesting and yet am so bored?&#8221;  I get this sort of reaction sometimes in my own circles, as people run to the exits .  It forces me to consider my own social skills as well as what to offer readers.  <img src="https://s.w.org/images/core/emoji/2/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p> Our own Steve Roth is sorting out <a href="http://www.angrybearblog.com/2012/11/modeling-wealth-income-and-saving.html" target="_blank">his own understanding of models</a> with Nick Rowe in a manner I find refreshing to the extent that  bloggers can add to our understanding in a back and forth manner without shouting out the truth of things.  Thanks guys.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/econo-blogging.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nick Rowe asks if new Keynsian models make sense</title>
+		<link>./../../2010/06/nick-rowe-asks-if-new-keynsian-models-make-sense.html</link>
+		<comments>./../../2010/06/nick-rowe-asks-if-new-keynsian-models-make-sense.html#respond</comments>
+		<pubDate>Fri, 11 Jun 2010 01:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[models]]></category>
+		<category><![CDATA[Nick Rowe]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/nick-rowe-asks-if-new-keynsian-models-make-sense.html</guid>
+		<description><![CDATA[Robert Waldmann Nick Rowe asks a very interesting question. After the jump I attempt an answer Please read Rowe&#8217;s post first. The following will make no sense at all if you don&#8217;t (note reading Rowe&#8217;s post is a necessary not a sufficient condition for it to make sense). The short explanation is that Rowe finds [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Nick Rowe asks <a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2010/06/new-keynesian-macroeconomics-doesnt-make-sense-to-me-any-more.html">a very interesting question</a>.  After the jump I attempt an answer</p>
+<p><a name="more"></a></p>
+<p>Please <a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2010/06/new-keynesian-macroeconomics-doesnt-make-sense-to-me-any-more.html">read Rowe&#8217;s post first</a>. The following will make no sense at all if you don&#8217;t (note reading Rowe&#8217;s post is a necessary not a sufficient condition for it to make sense).</p>
+<p>The short explanation is that Rowe finds a contradiction.  I think he finds a contradiction with new Keynesian models, because he assumes that the central bank can achieve any real interest rate that it wants.  I don&#8217;t think all real interest rates are achievable in Nash equilibrium in new Keynesian models.</p>
+<p>I know nothing about new Keynesian models (well I know about old New Keynesian models from around 20-25 years ago).  So consider this a totally fresh look.</p>
+<p>In your example, everything is real.  How odd since nominal rigidities are central.  I think the key is that in new Keynesian models, the central bank can&#8217;t set the real interest rate to any level it wants.  You quickly moved from setting nominal to real interest rates.  Now one might imagine that a central bank can forecast inflation (they have rational expectations too) and then add say 5%.  However, since private sector agents have rational expectations, their behavior depends on the central bank’s policy.  It&#8217;s not like there is an inflation rate which is given no matter what the central bank does.  The question becomes, is there a Nash equilibrium in which the Central bank gets r=5% (presumed to be its only goal) and private agents maximize their utility given the monetary policy rule, tastes, technology and nominal rigidities (or menu technology if you insist).  I think the answer is that there is one and only one such equilibrium and that is the tinkerbell equilibrium with production equal to production in the flexible price steady state.</p>
+<p>Now the economy can be elsewhere with, say, output below that level (because prices are too high because &#8230; well I just assumed they are at the beginning of time cause no way am I going to model any uncertainty).  I think that, in that case, the central bank can’t achieve r=5% always, that there is no such Nash equilibrium.  In other words, for any nominal interest rate rule, the real interest rate will not be 5%.</p>
+<p>I think the contradiction is between new Keynesian models and your assumption that the central bank can achieve any real interest rate which it wants.</p>
+<p>I will try to invent a simple new Keynesian model on the spot.</p>
+<p>Producers are self employed.  Their marginal cost in units of consumption is the marginal disutility of work divided by the marginal utility of consumption.  T.his declines if they work less and consume less (disutility of work convex utility of consumption concave).</p>
+<p>They make different goods with a constant elasticity of substitution (all consumers have Dixit Stiglitz preferences) so their utility is maximized if they set a price equal to one plus a constant markup times their marginal cost.  </p>
+<p>OK a nominal rigidity.  They are on a circle and a clock hand goes around say once a month.  When the hand points at me, I can adjust my price.  Otherwise it stays the same.  </p>
+<p>Is there an equilibrium with r = 5% and consumption less than the flexible price consumption (for a steady state with r = 5%) ?  It seems that if I am working less and consuming less than in the flexible price steady state, then I want to lower my relative price, that is set a price lower than the average price over the next month.  So there can&#8217;t be an equilibrium with a constant price level.</p>
+<p>I will assume that my loss from having other than the best price is quadratic in log price (just because I want to and new Keynesians always do stuff like that)</p>
+<p>How about one with a constant deflation rate of 1% per month ?  Well then I forecast the average log(price) will fall 1% over the month so will be on average 0.5% lower than when I set my price.  so I set my price *below* the current average price minus 0.5%.  Prices as set fall 1% a month, so, when the hand pints at me, my price is 0.5% higher than the average price (I am making a linear approximation to an exponential here).  so I cut my price by more than 1% so deflation is more than 1%.  </p>
+<p>So if I assume that deflation is 1% per month, then it is more than 1% per month.  There is no equilibrium with r=5% and consumption below the flexible price steady state.</p>
+<p>I haven&#8217;t proved it, but it seems to me that this happens for prices being any function of time. </p>
+<p>One last example (here the r=5% actually matters).  If the deflation rate is <br />exp(-(constant)t) so it goes to zero exponentially.  Then if I lower my price according to the deflation rate it will be lower than the average over the next month (since later price adjustments will be smaller than mine).  So I do get a price lower than the average over the month of my average competitor&#8217;s price.  However, this difference gets smaller and smaller <br />(it shrinks just like exp(-(constant(t))).  This is only optimal if my consumption is getting closer and closer to flexible price steady state consumption.  So there are equilibria, but in those equilibria consumption grows till it converges to FPSS consumption (what you call full employment consumption).  </p>
+<p>This can&#8217;t happen if r=5%, because r=5% implies constant consumption.  I think this means there is no sticky price equilibrium with consumption below FPSS consumption and r=5% always.  There is no way the central bank can make r=5% always no matter what it does with nominal interest rates.</p>
+<p>To repeat maybe:<br />I think this means that if current consumption is below the flexible price steady state, then the central bank can&#8217;t keep r=5%.  I think it means that the economy has to converge to the flexible price steady state (which means r must be greater than 5% if consumption is now below flexible price steady state consumption)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/nick-rowe-asks-if-new-keynsian-models-make-sense.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

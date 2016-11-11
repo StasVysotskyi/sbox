@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Moody &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Moody doesn&#8217;t like the US</title>
+		<link>./../../2008/01/moody-doesnt-like-the-us.html</link>
+		<comments>./../../2008/01/moody-doesnt-like-the-us.html#respond</comments>
+		<pubDate>Fri, 11 Jan 2008 19:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Moody]]></category>
+		<category><![CDATA[US Rating]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/01/moody-doesnt-like-the-us.html</guid>
+		<description><![CDATA[From the latest Financial Times:Moody’s says spending threatens US rating The US is at risk of losing its top-notch triple-A credit rating within a decade unless it takes radical action to curb soaring healthcare and social security spending, Moody’s, the credit rating agency, said on Thursday. In its annual report on the US, Moody’s signalled [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From the latest <a href="http://www.ft.com/cms/s/0/40f3a2be-bfa9-11dc-8052-0000779fd2ac.html?nclick_check=1">Financial Times</a>:<br /><strong>Moody’s says spending threatens US rating</strong><br />
+<blockquote>The US is at risk of losing its top-notch triple-A credit rating within a decade unless it takes radical action to curb soaring healthcare and social security spending, Moody’s, the credit rating agency, said on Thursday.</p></blockquote>
+<p>
+<blockquote>
+<p>In its annual report on the US, Moody’s signalled increased concern that rapid rises in Medicare and Medicaid – the government-funded healthcare programmes for the old and the poor – would “cause major fiscal pressures” in years to come.</p>
+<p>Steven Hess, Moody’s lead analyst for the US, told the Financial Times that in order to protect the country’s top rating, future administrations would have to rein in healthcare and social security costs.<br />“If no policy changes are made, in 10 years from now we would have to look very seriously at whether the US is still a triple-A credit,” he said.</p>
+</blockquote>
+<p>Cut them taxes baby! Yeah!</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/01/moody-doesnt-like-the-us.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

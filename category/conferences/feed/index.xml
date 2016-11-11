@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>conferences &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Future of the Fed</title>
+		<link>./../../2011/04/the-future-of-the-fed.html</link>
+		<comments>./../../2011/04/the-future-of-the-fed.html#respond</comments>
+		<pubDate>Wed, 27 Apr 2011 17:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[conferences]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[the fed]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/the-future-of-the-fed.html</guid>
+		<description><![CDATA[Spent the morning at this event: presentations and discussion by Joe Stiglitz, Yves Smith, Mike Konczal, Joe Gagnon, Matt Yglesias, Tom Palley, and many others. Mike K. tole me he expects that video will be available this evening, at least of the speakers&#8217;s presentations. I plan to post at more length later; meanwhile, you can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Spent the morning at <a href="http://www.rooseveltinstitute.org/future-federal-reserve">this event</a>: presentations and discussion by <a href="http://www.time.com/time/specials/packages/article/0,28804,2066367_2066369_2066440,00.html">Joe Stiglitz</a>, <a href="http://www.nakedcapitalism.com/">Yves Smith</a>, <a href="http://rortybomb.wordpress.com/">Mike Konczal</a>, <a href="http://delong.typepad.com/sdj/2011/04/hey-obama-recess-appoint-somebody-to-kevin-warshs-and-to-peter-diamonds-seats-on-the-federal-reserve-board-already.html">Joe Gagnon</a>, <a href="http://yglesias.thinkprogress.org/">Matt Yglesias</a>, <a href="http://www.thomaspalley.com/">Tom Palley</a>, and many others.</p>
+<p>Mike K. tole me he expects that video will be available this evening, at least of the speakers&#8217;s presentations. I plan to post at more length later; meanwhile, you can review the real-time commentary on Twitter by @NewDeal2.0 and others with the #FutureofFed hashtag. (Some of my early Tweets went out as #FedFuture before I &#8220;got with the program&#8221; and surrendered that 1.4% of TweetSpace to the Greater Good.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/the-future-of-the-fed.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>socially respomsiblity &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Wired’s Embarrassing Whitewash of Foxconn</title>
+		<link>./../../2012/02/wireds-embarrassing-whitewash-of-foxconn.html</link>
+		<comments>./../../2012/02/wireds-embarrassing-whitewash-of-foxconn.html#respond</comments>
+		<pubDate>Thu, 09 Feb 2012 16:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[global economies]]></category>
+		<category><![CDATA[multi-national business]]></category>
+		<category><![CDATA[socially respomsiblity]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/wireds-embarrassing-whitewash-of-foxconn.html</guid>
+		<description><![CDATA[Yves comments on Wired’s Embarrassing Whitewash of Foxconn : But Johnson admits he’s a tech toy writer who apparently has no knowledge of manufacturing …. Yet he’s remarkably uninhibited in using his fantasies and abject ignorance as a basis for making sweeping generalizations about the Taiwanese powerhouse.…I find this little chart (hat tip Richard Smith) from [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yves comments on <a href="http://www.nakedcapitalism.com/2012/02/wireds-embarrassing-whitewash-of-foxconn.html">Wired’s Embarrassing Whitewash of Foxconn</a> :<br />
+<blockquote>But Johnson admits he’s a tech toy writer who apparently has no knowledge of manufacturing …. Yet he’s remarkably uninhibited in using his fantasies and abject ignorance as a basis for making sweeping generalizations about the Taiwanese powerhouse.<br /><strong>…</strong><br />I find this little chart (hat tip Richard Smith) from <a href="http://ninety9.tumblr.com/post/16997979949">ninety9</a> via<a href="http://alea.tumblr.com/post/17025694873/foxconn"> Alea</a> (who is the antithesis of a socialist) to be more though-provoking than the entire Wired piece:</p></blockquote>
+<p><a href="http://lh3.ggpht.com/-05e5b_xb-8k/TzMPyEf_C_I/AAAAAAAAA0A/bVLSC9wEKw8/s1600-h/appleproducts%25255B2%25255D.png"><img alt="appleproducts" border="0" height="244" src="http://lh6.ggpht.com/-YZ6-4JRnNO0/TzMPyVeJ0SI/AAAAAAAAA0I/QmIAr7hPEMM/appleproducts_thumb.png?imgmax=800" title="appleproducts" width="201"></a></p>
+<p>More can be found <a href="http://www.alternet.org/story/154043/iempire%3A_apple%27s_sordid_business_practices_are_even_worse_than_you_think?akid=8234.29972.LjUa9F&#038;rd=1&#038;t=3">here</a>.   Lots of links as well adding to the state financed aspects of Foxcomm.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/wireds-embarrassing-whitewash-of-foxconn.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

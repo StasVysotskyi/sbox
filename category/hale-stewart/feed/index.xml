@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hale Stewart &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Jobs, jobs, jobs</title>
+		<link>./../../2011/11/jobs-jobs-jobs.html</link>
+		<comments>./../../2011/11/jobs-jobs-jobs.html#respond</comments>
+		<pubDate>Tue, 29 Nov 2011 13:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Hale Stewart]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/jobs-jobs-jobs.html</guid>
+		<description><![CDATA[Hale Stewart of BondDad blog discusses jobs&#8230;and jobs&#8230; 1. V shaped real retail sales and industrial production recoveries vs. jobs: &#8230;Comparing those with private jobs (red) and total payrolls (green), we can see that the percentage losses in sales and production were steeper, and have made up nearly or more than all of their ground [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://seekingalpha.com/article/309329-getting-deep-into-the-weeds-about-jobs-jobs-jobs?">Hale Stewart</a> of <a href="http://bonddad.blogspot.com/">BondDad blog</a> discusses jobs&#8230;and jobs&#8230;</p>
+<blockquote><p>1. V shaped real retail sales and industrial production recoveries vs. jobs:</p>
+<p>&#8230;Comparing those with private jobs (red) and total payrolls (green), we can see that the percentage losses in sales and production were steeper, and have made up nearly or more than all of their ground compared with jobs. Meanwhile, private jobs have regained only slightly over 30% of their losses. When government employment is added for the total jobs picture, fewer than 25% of the losses have been regained.</p>
+<p>2. Comparing improvements in aggregate hours and jobs:</p>
+<p>&#8230;Another point I have frequently made is that aggregate hours worked are recovering faster than new jobs. Since more hours were lost than jobs during the recession, if past was prologue then we would have to wait for aggregate hours to regain their lost comparative ground before job growth would match the growth in hours&#8230;.<br /><a name="more"></a><br />3. Comparing real retail sales with jobs:</p>
+<p>&#8230;This is yet another indication of just how significant government job losses have been to the relatively poor jobs recovery. At the same time, because real retail sales are a leading indicator for jobs, this reinforces that we should expect to continue to see positive job growth in the economy, with private jobs at least being added at something like a 2% YoY rate.</p>
+<p>4. Comparing initial jobless claims with jobs added:</p>
+<p>&#8230;In 2010 I thoroughly debunked the idea that we needed 400,000 or less in initial jobless claims to be consistent with job growth. It simply makes a lot of difference how deep the recession is, and also the pattern declining into a recession is quite different from the pattern during a recovery. I pointed out half a year ago that if we were to descend into a &#8220;double dip,&#8221; I would expect to see a break in trend in the scatter graph comparing these two series, with a new trend line to the left of the recovery trend line developing.</p>
+<p>5. Okun&#8217;s Law</p>
+<p>Okun&#8217;s law is actually a rule of thumb that holds that for every 2% YoY increase in GDP, there should be a 1% decline in the unemployment rate. Generally speaking, 2% YoY GDP growth equals no change in unemployment. A 4% GDP increase gives you a 1% decrease in unemployment. Contrarily a 0% YoY change in GDP gives you a 1% increase in unemployment.</p>
+<p>I make use of a corollary, which is the YoY% growth in GDP minus 2% approximately equals the YoY% change in job growth 3 to 6 months later. Here is the graph of this relationship going back 65 years, and it has ominous implications:</p>
+<p>&#8230;</p>
+<p>As I said, this contradicts virtually all of the previous indicators we have discussed. A possible explanation comes via <a target="_blank" href="http://oldprof.typepad.com/a_dash_of_insight/2011/11/weighing-the-week-ahead-waiting-for-the-ecb.html">Jeff Miller of A Dash of Insight</a>, who informed us yesterday that the BLS&#8217;s Dynamic Business Report of actual job data collected from the states showed that in the first quarter of this year only 250,000 jobs were created, rather than the 500,000 previously reported.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/jobs-jobs-jobs.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

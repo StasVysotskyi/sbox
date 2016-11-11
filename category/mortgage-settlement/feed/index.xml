@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mortgage settlement &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Robosigning and gutter service</title>
+		<link>./../../2012/02/robosigning-and-gutter-service.html</link>
+		<comments>./../../2012/02/robosigning-and-gutter-service.html#respond</comments>
+		<pubDate>Sun, 12 Feb 2012 14:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[mortgage regulation]]></category>
+		<category><![CDATA[mortgage settlement]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/robosigning-and-gutter-service.html</guid>
+		<description><![CDATA[Matt Taibbi is succinct on the reported but not final agreement among state AG&#8217;s on the mortgage settlement: I think the best summation of the settlement is probably Yves Smith&#8217;s, which can be found here. The piece lists the 12 things that suck the most about the settlement. The most painful is probably #12: 12. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.rollingstone.com/politics/blogs/taibblog/why-the-foreclosure-deal-may-not-be-so-hot-after-all-20120209">Matt Taibbi</a> is succinct on the reported but not final agreement among state AG&#8217;s on the mortgage settlement:<br />
+<blockquote>I think the best summation of the settlement is probably Yves Smith&#8217;s,<a href="http://www.huffingtonpost.com/yves-smith/mortgage-settlement_b_1264806.html"> which can be found here</a>. The piece lists the 12 things that suck the most about the settlement. The most painful is probably #12:<br />
+<blockquote>12. We&#8217;ll now have to listen to banks and their sycophant defenders declaring victory despite being wrong on the law and the facts. They will proceed to marginalize and write off criticisms of the servicing practices that hurt homeowners and investors and are devastating communities. But the problems will fester and the housing market will continue to suffer. Investors in mortgage-backed securities, who know that services have been screwing them for years, will be hung out to dry and will likely never return to a private MBS market, since the problems won&#8217;t ever be fixed. This settlement has not only revealed the residential mortgage market to be too big to fail, but puts it on long term, perhaps permanent, government life support.</p></blockquote>
+<p>My mistake in looking at this deal a few weeks ago, when details of it first leaked out, was in focusing on how much worse it could have been, instead of thinking about how bad it still is. The only acceptable foreclosure deal had to bring about a complete end to robosigning and the other similar corrupt practices that grew up around it (like for instance <a href="http://www.longislandlawyerblog.com/lawsuit-over-process-server-fraud-seeks-to-vacate-100000-debt-collection-judgments">gutter service</a>, the practice of process servers simply signing affidavits <em>saying </em>they delivered summonses, instead of really doing it).<br />But this deal not only doesn&#8217;t end robosigning, it officially makes getting caught for it inexpensive. Shame on me for ever thinking that might be a good thing.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/robosigning-and-gutter-service.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

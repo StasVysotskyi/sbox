@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zachary A. Goldfarb &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Postscript Regarding Geithner</title>
+		<link>./../../2013/01/postscript-regarding-geithner.html</link>
+		<comments>./../../2013/01/postscript-regarding-geithner.html#respond</comments>
+		<pubDate>Fri, 25 Jan 2013 17:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[The Washington Post]]></category>
+		<category><![CDATA[Timothy Giethner]]></category>
+		<category><![CDATA[Zachary A. Goldfarb]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/postscript-regarding-geithner.html</guid>
+		<description><![CDATA[I’ve spent yesterday and this morning saying here that I suspect that Geithner played some role in persuading Obama himself to decide that the Justice Dept. should not do much to investigate whether there was criminal conduct by top execs at the big banks, the big investment banks, and the big mortgage companies&#8211;but also saying, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve spent yesterday and this morning saying here that I suspect that Geithner played some role in persuading Obama himself to decide that the Justice Dept. should not do much to investigate whether there was criminal conduct by top execs at the big banks, the big investment banks, and the big mortgage companies&#8211;but also <a href="http://www.angrybearblog.com/2013/01/lanny-breuer-and-mary-jo-white-or-is-it.html">saying</a>, this morning, that if so, I think it was because of a legitimate belief that pursuing past criminality as criminality rather than through civil cases alone, would undermine those institutions’ solvency and thus the larger economy.  </p>
+<p>It’s a believe that, at least regarding such big-name mortgage firms like Countrywide and its CEO, and in my opinion, against big-name execs of the banking institutions, makes no sense. Which does suggest some direct culpability by the Justice Dept., although it doesn’t answer the question of Geithner’s role, if any.</p>
+<p>But <a href="http://www.washingtonpost.com/business/economy/tim-geithners-legacy-an-unpopular-bailout-that-helped-save-the-economy/2013/01/24/f1bf4fb6-64af-11e2-85f5-a8a9228e55e7_print.html">a lengthy article</a> about Geithner in today’s Washington Post by Zachary Goldfarb does make the point that Geithner apparently has been a strong proponent of tough new laws and regulations regarding the finance and securities industries, and, presumably, tough enforcement of the laws and regulations, old and new, going forward.  At least that’s what the article says.  </p>
+<p>Which makes the separate, if inferential, point, that, regarding the Obama administration and (I suspect) regarding Geithner, there are two distinct issues: what was to be done about the past, and what is to be done in, and about, the future. </p>
+<p>I&#8217;m shooting for this to be my final word on all this.  So that I won&#8217;t keep shooting myself (and my reputation as a stellar financial-industry expert) in the foot.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/postscript-regarding-geithner.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

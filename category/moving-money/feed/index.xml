@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Moving money &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>‘Bank Transfer Day’, What Really Just Happened?</title>
+		<link>./../../2012/02/bank-transfer-day-what-really-just-happened.html</link>
+		<comments>./../../2012/02/bank-transfer-day-what-really-just-happened.html#respond</comments>
+		<pubDate>Mon, 06 Feb 2012 13:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bank transfer day]]></category>
+		<category><![CDATA[Moving money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/bank-transfer-day-what-really-just-happened.html</guid>
+		<description><![CDATA[‘Bank Transfer Day’, What Really Just Happened? James Van Dyke points to some numbers on the move to transfer funds out of big banks: Bank Transfer Day and the Occupy Movement have received tremendous attention, and for the first time we have market research data to measure the impact on the financial services industry. Javelin’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.javelinstrategy.com/blog/2012/01/26/%E2%80%98bank-transfer-day%E2%80%99-what-really-just-happened/">‘Bank Transfer Day’, What Really Just Happened?</a></p>
+<p><a href="https://www.javelinstrategy.com/blog/author/james-van-dyke/">James Van Dyke</a> points to some numbers on the move to transfer funds out of big banks:<br />
+<blockquote>Bank Transfer Day and the Occupy Movement have received tremendous attention, and for the first time we have market research data to measure the impact on the financial services industry. Javelin’s research estimates that 5.6 million U.S. adults with a banking relationship changed providers in the past 90 days. Of those switchers, 610,000 US adults (or 11% of the 5.6 million) cited Bank Transfer Day as their reason and actually moved their accounts from a large to a small institution. With a Google search of “bank transfer day” returning fully 22,000,000 responses we’re not surprised that these angry bank-switchers represent nearly a three-time increase over the amount of people who took their funds out of large banks for highly-similar reasons during the previous 90-day period in 2011.</p></blockquote>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/bank-transfer-day-what-really-just-happened.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

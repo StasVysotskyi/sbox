@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>visual aids &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Some visual aids to answer how much is it?</title>
+		<link>./../../2007/10/some-visual-aids-to-answer-how-much-is-it.html</link>
+		<comments>./../../2007/10/some-visual-aids-to-answer-how-much-is-it.html#respond</comments>
+		<pubDate>Fri, 26 Oct 2007 17:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[money]]></category>
+		<category><![CDATA[visual aids]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2007/10/some-visual-aids-to-answer-how-much-is-it.html</guid>
+		<description><![CDATA[This is just a little visual fun. Think about that saying “a billion here, a billion there, soon you&#8217;re talking about real money”. Personally, I think visuals like this need to be circulated more frequently so that people have a better understanding when the government or business speaks dollar amounts. It might help them pause [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This is just a little visual fun. Think about that saying “a billion here, a billion there, soon you&#8217;re talking about<a href="http://www.xinjo.com/interesting/a-little-visual-perspective-on-the-87-billion-being-spent-on-iraq?eref=rss_full"> real money</a>”.</p>
+<p>Personally, I think visuals like this need to be circulated more frequently so that people have a better understanding when the government or business speaks dollar amounts. It might help them pause about whether they think something such as a war is really getting them a better life.  Or just how much of a relative tax break they are getting.</p>
+<p>But for the war, we&#8217;re talking trillions so:<br />Here is some perspective on TRILLION:<br />Trillion = 1,000,000,000,000.The country has not existed for a trillion seconds.Western civilization has not been around a trillion seconds.One trillion seconds ago – 31,688 years – Neanderthals stalked the plains of Europe.</p>
+<p>Here is another one I like: <a href="http://www.lcurve.org/">The L Curve</a></p>
+<p>Last but not least is this one that is actually a presentation being made to our legislators concerning our military budget.<br /><a href="http://www.truemajorityaction.org/oreos/">The Oreo Cookie </a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2007/10/some-visual-aids-to-answer-how-much-is-it.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

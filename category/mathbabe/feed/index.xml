@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mathbabe &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Statisticians aren’t the problem for data science. The real problem is too many posers</title>
+		<link>./../../2012/08/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers.html</link>
+		<comments>./../../2012/08/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers.html#respond</comments>
+		<pubDate>Wed, 01 Aug 2012 13:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cathy O'Niel]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[mathbabe]]></category>
+		<category><![CDATA[Statiticians]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers.html</guid>
+		<description><![CDATA[I met Cathy for coffee in Cambridge when she was presenting at MIT awhile ago.  I liked her style and knowledge.  Re-posted with permission from the author. by Cathy O’Neila data scientist who lives in New York City and writes at mathbabe.org Statisticians aren’t the problem for data science. The real problem is too many [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I met Cathy for coffee in Cambridge when she was presenting at MIT awhile ago.  I liked her style and knowledge.  Re-posted with permission from the author.</p>
+<p><strong>by Cathy O’Neil</strong><br />a data scientist who lives in New York City and writes at <a href="http://mathbabe.org/">mathbabe.org</a></p>
+<p><a href="http://mathbabe.org/2012/07/31/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers/">Statisticians aren’t the problem for data science. The real problem is too many posers</a> <br />(Crossposted on <a href="http://www.nakedcapitalism.com/">Naked Capitalism</a>)</p>
+<p><strong>Cosma Shalizi</strong></p>
+<p>I recently was hugely flattered by <a href="http://cscs.umich.edu/~crshalizi/weblog/925.html">my friend Cosma Shalizi’s articulate argument</a> against <a href="http://mathbabe.org/2011/10/04/data-science-tools-vs-craft/">my position that data science distinguishes itself from statistics</a> in various ways.</p>
+<p>Cosma is a well-read broadly educated guy, and a role model for what a statistician can be, not that every statistician lives up to his standard. I’ve enjoyed talking to him about data, big data, and working in industry, and <a href="http://mathbabe.org/2012/01/22/bad-statistics-debunked/">I’ve blogged about his blogposts</a> as well.</p>
+<p>That’s not to say I agree with absolutely everything Cosma says <a href="http://cscs.umich.edu/~crshalizi/weblog/925.html">in his post</a>: in particular, there’s a difference between being a master at visualizations for the statistics audience and being able to put together a power point presentation for a board meeting, which some data scientists in the internet start-up scene definitely need to do (mostly this is a study in how to dumb stuff down without letting it become vapid, and in reading other people’s minds in advance to see what they find sexy).</p>
+<p>And communications skills are a funny thing; my experience is communicating with an academic or a quant is a different kettle of fish than communicating with the Head of Product. Each audience has its own dialect.<br />But I totally believe that any statistician who willingly gets a job entitled “Data Scientist” would be able to do these things, it’s a self-selection process after all.</p>
+<p><a name="more"></a></p>
+<p><strong>Statistics and Data Science are on the same team</strong><br />I think that casting statistics as the enemy of data science is a straw man play. The truth is, an earnest, well-trained and careful statistician in a data scientist role would adapt very quickly to it and flourish as well, if he or she could learn to stomach the business-speak and hype (which changes depending on the role, and for certain data science jobs is really not a big part of it, but for others may be).</p>
+<p>It would be a petty argument indeed to try to make this into a real fight. As long as academic statisticians are willing to admit they don’t <em>typically</em> spend just as much time (which isn’t to say they never spend as much time) worrying about how long it will take to train a model as they do wondering about the exact conditions under which a paper will be published, and as long as data scientists admit that they mostly just redo linear regression in weirder and weirder ways, then there’s no need for a heated debate at all.<br />Let’s once and for all shake hands and agree that we’re here together, and it’s cool, and we each have something to learn from the other.</p>
+<p><strong>Posers</strong><br /><strong><br /></strong><br />What I <em>really</em> want to rant about today though is something else, namely posers. There are far too many posers out there in the land of data scientists, and it’s getting to the point where I’m starting to regret throwing my hat into that ring.</p>
+<p>Without naming names, I’d like to characterize problematic pseudo-mathematical behavior that I witness often enough that I’m consistently riled up. I’ll put aside hyped-up, bullshit publicity stunts and generalized political maneuvering because I believe that stuff speaks for itself.</p>
+<p>My basic mathematical complaint is that it’s <strong>not enough to just know how to run a black box algorithm</strong>. You actually need to know how and why it works, so that when it doesn’t work, you can adjust. Let me explain this a bit by analogy with respect to the Rubik’s cube, which <a href="http://mathbabe.org/2012/07/18/hcssim-workshop-day-14/">I taught my beloved math nerd high school students to solve using group theory just last week</a>.</p>
+<p><strong>Rubiks</strong><br /><strong><br /></strong><br />First we solved the “position problem” for the 3-by-3-by-3 cube using 3-cycles, and proved it worked, by exhibiting the group acting on the cube, understanding it as a subgroup of <img alt="S_8 \times S_{12}," src="http://s0.wp.com/latex.php?latex=S_8+%5Ctimes+S_%7B12%7D%2C&#038;bg=ffffff&#038;fg=555555&#038;s=0" title="S_8 \times S_{12},"> and thinking hard about things like the sign of basic actions to prove we’d thought of and resolved everything that could happen. We solved the “orientation problem” similarly, with 3-cycles.</p>
+<p>I did this three times, with the three classes, and each time a student would ask me if the algorithm is efficient. No, it’s not efficient, it takes about 4 minutes, and other people can solve it way faster, I’d explain. But the great thing about this algorithm is that it seamlessly generalizes to other problems. Using similar sign arguments and basic 3-cycle moves, you can solve the 7-by-7-by-7 (or any of them actually) and many other shaped Rubik’s-like puzzles as well, which none of the “efficient” algorithms can do.</p>
+<p>Something I could have mentioned but didn’t is that the efficient algorithms are <em>memorized</em> by their users, are basically black-box algorithms. I don’t think people understand to any degree why they work. And when they are confronted with a new puzzle, some of those tricks generalize but not all of them, and they need new tricks to deal with centers that get scrambled with “invisible orientations”. And it’s not at all clear they can solve a tetrahedron puzzle, for example, with any success.</p>
+<p><strong>Democratizing algorithms: good and bad</strong><br /><strong><br /></strong><br />Back to data science. It’s a <em>good thing</em> that data algorithms are getting democratized, and I’m all for there being packages in <a href="http://www.r-project.org/">R</a> or <a href="http://www.gnu.org/software/octave/">Octave</a> that let people run clustering algorithms or steepest descent.</p>
+<p>But, contrary to the message sent by much of <a href="https://www.coursera.org/course/ml">Andrew Ng’s class on machine learning</a>, you actually <em>do</em> need to understand how to invert a matrix at some point in your life if you want to be a data scientist. And, I’d add, if you’re not smart enough to understand the underlying math, then you’re not smart enough to be a data scientist.</p>
+<p>I’m not being a snob. I’m not saying this because I want people to work hard. It’s not a laziness thing, it’s a matter of knowing your shit and being for real. If your model fails, you want to be able to figure out <em>why</em> it failed. The only way to do that is to know how it works to begin with. Even if it worked in a given situation, when you train on slightly different data you might run into something that throws it for a loop, and you’d better be able to figure out what that is. That’s your job.</p>
+<p>As I see it, there are three problems with the democratization of algorithms:
+<ol>
+<li>As described already, it lets people who can load data and press a button describe themselves as data scientists. </li>
+<li>It tempts companies to never hire anyone who actually <em>knows</em> how these things work, because they don’t see the point. This is a mistake, and could have dire consequences, both for the company and for the world, depending on how widely their crappy models get used. </li>
+<li>Businesses might think they have awesome data scientists when they don’t. That’s not an easy problem to fix from the business side: posers can be fantastically successful exactly because non-data scientists who hire data scientists in business, i.e. business people, don’t know how to test for real understanding.</li>
+</ol>
+<p><strong>How do we purge the posers?</strong><br />We need to come up with a plan to purge the posers, they are annoying and making a bad name for data science.</p>
+<p>One thing that will be helpful in this direction is <a href="http://www.columbia.edu/cu/bulletin/uwb/subj/STAT/W4242-20123-001/">Rachel Schutt’s Data Science class at Columbia</a> next semester, which is going to be a much-needed bullshit free zone. Note there’s been a time change that hasn’t been reflected on the announcement yet, namely it’s going to be once a week, Wednesdays for three hours starting at 6:15pm. I’m looking forward to blogging on the contents of these lectures.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>two worlds &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Two worlds ready or not</title>
+		<link>./../../2011/01/two-worlds-ready-or-not.html</link>
+		<comments>./../../2011/01/two-worlds-ready-or-not.html#respond</comments>
+		<pubDate>Tue, 01 Feb 2011 03:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[two worlds]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/two-worlds-ready-or-not.html</guid>
+		<description><![CDATA[Simon Johnson at Baseline Scenario notes that (bolding mine) On the fringes of the World Economic Forum meeting in Davos this week, there was plenty of substantive discussion – including about the dangers posed by our “too big to fail”/”too big to save” banks, the consequences of widening inequality (reinforced by persistent unemployment in some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://baselinescenario.com/2011/01/29/davos-two-worlds-ready-or-not/#more-8584" target="_blank">Simon Johnson</a> at Baseline Scenario notes that (bolding mine) </p>
+<blockquote><p>On the fringes of the World Economic Forum meeting in Davos this week, there was plenty of substantive discussion – including about the dangers posed by our “too big to fail”/”too big to save” banks, the consequences of widening inequality (reinforced by persistent unemployment in some countries), and why the jobs picture in the U.S. looks so bad.</p>
+<p>But in the core keynote events and more generally around any kind of CEO-related interaction, such themes completely failed to resonate.  There is, of course, variation in views across CEOs and the people work intellectual agendas on their behalf, but still the mood among this group was uniformly positive – it was hard to detect any note of serious concern.</p>
+<p><a name="more"></a>
+<p><strong>Many of the people who control the world’s largest corporations are quite comfortable with the status quo post-financial crisis</strong>.  This makes sense for them – and poses a major problem for the rest of us.The thinking here is fairly obvious.  The CEOs who provide the bedrock of financial support for Davos have mostly done well in the past few years.  For the nonfinancial sector, there was a major scare in 2008-09; the disruption of credit was a big shock and dire consequences were feared.  And for leaders of the financial sector this was more than an awkward moment – they stood accused, including by fellow CEOs at Davos in previous years, of incompetence, greed, and excessively capturing the state.</p>
+<p>But all of this, from a CEO perspective, is now behind them.  Profits are good – this is <a href="http://baselinescenario.com/2011/01/27/president-obama-and-big-business-can-get-on-well-%E2%80%93-when-will-that-produce-jobs/">the best bounce back</a> on average in the post-war period; given that so many small companies are struggling,<strong> it is reasonable to infer that the big companies have done disproportionately well</strong> (perhaps because their smaller would-be competitors are still having more trouble accessing credit).  Executive compensation at the largest firms will no doubt reflect this in the months and years ahead.</p>
+<p>In terms of public policy, the big players in the financial sector have prevailed – no responsible European, for example, can imagine a major bank being allowed to fail (in the sense of defaulting on any debt).  And this government support for banks has translated into easier credit conditions for the major global corporations represented at Davos. </p>
+<p>The public policy issue of the day, from the point of view of such CEOs, is simple.  <strong>There needs to be sufficient fiscal austerity to strengthen public balance sheets – so that states can more effectively stand behind their banks in the future, and to keep currencies from moving too much. </strong> Leading bankers, in particular, insisted on the paramount importance of providing unlimited government support to their sector during 2008-09; now they insist with equal or greater vigor that support to all other parts of society be curtailed.</p>
+<p>This is where cognitive dissonance creeps in. <strong> Most CEOs feel that the provision of general public goods is not their responsibility, although they are very happy to help guide (or capture) the provision of public goods specific to their firm. </strong></p>
+</blockquote>
+<p>For the big multinational companies current US trade policy also works quite well.  What is not talked about are conditions for US companies that are mainly domestic.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/two-worlds-ready-or-not.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

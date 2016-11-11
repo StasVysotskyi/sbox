@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>earnings &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Economics Cannot Find Racism; Just Move Along</title>
+		<link>./../../2011/05/economics-cannot-find-racism-just-move-along.html</link>
+		<comments>./../../2011/05/economics-cannot-find-racism-just-move-along.html#respond</comments>
+		<pubDate>Fri, 20 May 2011 18:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[academia]]></category>
+		<category><![CDATA[earnings]]></category>
+		<category><![CDATA[econometrics]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[race]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/economics-cannot-find-racism-just-move-along.html</guid>
+		<description><![CDATA[One of my favorite paper presentations ever was by Daniel Parent, who is a good enough reason in himself for pending Labor Economists to apply to HEC. He was trying to present data on income inequalities in the Financial Services industry and was forced to note—all right, I asked—that they didn&#8217;t have the data to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of my favorite paper presentations ever was by Daniel Parent, who is a good enough reason in himself for pending Labor Economists to apply to <a href="http://www.hec.ca/en/">HEC</a>. He was trying to present data on income inequalities in the Financial Services industry and was forced to note—all right, I asked—that they didn&#8217;t have the data to determine if there was a racial difference in earnings because there wasn&#8217;t enough data on high-earning Blacks in the sample to be &#8220;statistically significant.&#8221;  Since the sample used IRS data, among other sources, the answer was clear.</p>
+<p>Now (via <a href="http://marginalrevolution.com/marginalrevolution/2011/05/sentences-to-ponder-11.html">Tyler Cowen</a>), I see that &#8220;not statistically significant&#8221; is not just for Financial Services Executives; <a href="http://blogs.wsj.com/ideas-market/2011/05/18/republican-and-democratic-professors-grade-differently/">the WSJ&#8217;s markets blog notes</a>:<br />
+<blockquote>On average, Republican professors gave black students grades that were .2 of a grade point lower than their Democratic colleagues, or about two-thirds of the distance between a B and a B-minus.</p>
+<p>(Among eleven black professors in the sample, there were no Republicans, and the Democrats appeared to grade white and black students as their white-Democratic peers did. But <em>there were too few black professors to make that finding statistically significant</em>.)</p></blockquote>
+<p>Again, the finding may not be statistically significant, but the sample, er, complection is.</p>
+<p>Their data set is available <a href="http://www.aeaweb.org/aej-applied/accepted_single.php?id=678&#038;jrnl=app">here</a>.</p>
+<p>UPDATE:  Thoreau <a href="http://highclearing.com/index.php/archives/2011/05/20/12966">riffs on the subject</a> and finds <a href="http://pluto.huji.ac.il/~azussman/partisan_grading.pdf">a link to the paper</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/economics-cannot-find-racism-just-move-along.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Are Earnings Rising or Stagnant?</title>
+		<link>./../../2011/01/are-earnings-rising-or-stagnant.html</link>
+		<comments>./../../2011/01/are-earnings-rising-or-stagnant.html#respond</comments>
+		<pubDate>Sun, 16 Jan 2011 11:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[earnings]]></category>
+		<category><![CDATA[wages]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/are-earnings-rising-or-stagnant.html</guid>
+		<description><![CDATA[In 2005 Kash Mansori of Angry Bear took a look at Are Earnings Rising or Stagnant? It is an issue worth periodic review: This question is not as easy to answer as it may first appear. In working on various posts last week I came across an apparent contradiction in the official data on compensation: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In 2005 Kash Mansori of Angry Bear took a look at <a target="_blank" href="http://www.angrybearblog.com/2005/06/are-earnings-rising-or-stagnant.html">Are Earnings Rising or Stagnant?</a> It is an issue worth periodic review:<br />
+<blockquote>This question is not as easy to answer as it may first appear. In working on various posts last week I came across an apparent contradiction in the official data on compensation: some series show it rising in real terms, while others show it barely able to keep up with inflation. This discrepancy was also noted by a few readers, who deserve credit for their sharp eyes.</p>
+<p>So I thought I’d take a bit of time to sort out these conflicting data series for myself. Here’s what I found. (A warning and apology here: what follows is a relatively econ-geeky post about data details that many may find uninteresting&#8230; and I won&#8217;t be offended if you stop reading here.)<br /><a name="more"></a></p>
+<p><strong>&#8230;</strong></p>
+<p>So what’s my answer to the title question of this post? Personally, if I had to choose just one series to use it would be the P&#038;C series. In addition to being arguably the most complete series, it seems to have done the best job of matching my sense about how the economy has done over the past 20 years. When asked, I think that most people would agree that income growth was indeed much lower during 2002 and 2003 than it had been during the late 1990s; the P&#038;C series bears that out, while the ECI series doesn’t. Meanwhile, the CES series excludes benefits, which I think are a major part of the story today.</p>
+<p>But let me reiterate the point that I have made several times now: just because real compensation is rising, that doesn’t mean that people are better off, particularly if nearly all of the gains are just going to paying higher health insurance premiums. This data persuasively illustrates that nearly all of our real compensation gains today (and I do think we&#8217;re seeing them) are being eaten up by the monster that we call a health care system in the US. Until we address the profound inadequacies of our health care system, this trend will only get worse.</p>
+<p>Kash</p></blockquote>
+<p><strong>Spencer</strong> took another quick look in 2010, lifted from his email this Saturday:</p>
+<p>This is not an easy subject and there is no &#8220;right&#8221; answer.  </p>
+<p>A few comments.  The average hourly earnings data is for people who earn an hourly wage or punch a time clock as oppose to those earning a salary.  As a general rule this is the lower earning segment of the population as college educated professionals and managers are much more likely to be salaried. It reflects what is happening to about 80% of the labor force.  Surprisingly, this percent has not changed significantly over the years.  But the average hourly earnings data has clearly been changed by the changing composition of employment as more highly paid manufacturing employment has both declined in importance and relative pay.  </p>
+<p>I always though of the ECI as a measure of what it cost a firm to keep an employee in the same job.  It is deliberately designed this way to try to avoid the problem of changing composition of the labor force from distorting the data.  There are positive and negatives to this.  </p>
+<p>The compensation data is the most comprehensive measure of labor payments.  The one question I have never resolved to my own satisfaction is how it treats the payment to CEOs and other senior management with stock options.  It is a difficult accounting issue at the level of the individual firm, let alone for the aggregate economy.  But remember the chart I did a while back of compensation as a share of business cost.  From WW II to 1980 this was a very stable ratio with minor cyclical fluctuation around 66%.  But since 1980 labors share of the pie has been on a falling trend and is now at around 57% of business cost.  <br />I think this best shows the way the middle class has been squeezed. This measure avoids the issue of how to measure inflation.  </p>
+<p>The best data for seeing the middle class squeeze is the data published by the Census on family and household income by age,sex, race,etc.,.  </p>
+<p>All the inflation series have their drawbacks and shortcomings.  The PCE deflator does not have the cost of housing and so until the last few years probably significantly understated the true cost of living for the middle class.  We are all familiar with the unresolved issue of how the CPI treats housing cost.  <br />The CPI only measures &#8220;out-of-pocket&#8221; medical expenses and because of this I suspect it significantly  <br />understates and under-weights the impact of rapidly rising medical prices on the middle class.  All the Census data uses the CPI-U-RS that recalculated the CPI from 1978 to 2002 using the new methodology for the CPI that incorporates the rental equivalence housing measure and other methodological changes in the way the CPI is calculated.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/are-earnings-rising-or-stagnant.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stock Market Valuation</title>
+		<link>./../../2009/08/stock-market-valuation.html</link>
+		<comments>./../../2009/08/stock-market-valuation.html#respond</comments>
+		<pubDate>Mon, 17 Aug 2009 02:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[earnings]]></category>
+		<category><![CDATA[PE]]></category>
+		<category><![CDATA[SandP]]></category>
+		<category><![CDATA[statistics]]></category>
+		<category><![CDATA[Stock Market]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/stock-market-valuation.html</guid>
+		<description><![CDATA[By Spencer, At month end the S&#038;P 500 PE on trailing operating earnings was around 24. In my model that is expensive, but not massively so. Except in the irrational exuberance market of the 1990s, a PE of over 20 has never been sustained and always signaled a major bear market. Trailing earnings does include [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Spencer,</p>
+<p>At month end the S&#038;P 500 PE on trailing operating earnings was around 24.  In my model that is expensive, but not massively so.</p>
+<p><a href="http://2.bp.blogspot.com/_Zh1bveXc8rA/SojBJrchKsI/AAAAAAAAA2U/vbz86Mpcqk8/s1600-h/Clipboard01.jpg"><img src="http://2.bp.blogspot.com/_Zh1bveXc8rA/SojBJrchKsI/AAAAAAAAA2U/vbz86Mpcqk8/s320/Clipboard01.jpg" alt="" border="0"></a>Except in the irrational exuberance market of the 1990s, a PE of over 20 has never been sustained and always signaled a major bear market.</p>
+<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/SojADQTbAKI/AAAAAAAAA2M/2nIhV8QJJ50/s1600-h/Clipboard01.jpg"><img src="http://3.bp.blogspot.com/_Zh1bveXc8rA/SojADQTbAKI/AAAAAAAAA2M/2nIhV8QJJ50/s320/Clipboard01.jpg" alt="" border="0"></a><br /><!--[if gte mso 10]> 
+<style>  /* Style Definitions */  table.MsoNormalTable  {mso-style-name:"Table Normal";  mso-tstyle-rowband-size:0;  mso-tstyle-colband-size:0;  mso-style-noshow:yes;  mso-style-parent:"";  mso-padding-alt:0in 5.4pt 0in 5.4pt;  mso-para-margin:0in;  mso-para-margin-bottom:.0001pt;  mso-pagination:widow-orphan;  font-size:10.0pt;  font-family:"Times New Roman";  mso-ansi-language:#0400;  mso-fareast-language:#0400;  mso-bidi-language:#0400;} </style>
+
+ <![endif]-->Trailing earnings does include the fourth quarter when EPS was minus $0.09 and as the low 2008 earnings roll out of the comparisons the PE could fall while the market rises as it did in 1993. But 1993 appears to be an exception to the rule that the market generally moves in the same direction as its&#8217; PE. The correlation between the change in the market and the change in earnings is essentially zero, and one of the most dangerous times in the market is when EPS growth first turns positive.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/stock-market-valuation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

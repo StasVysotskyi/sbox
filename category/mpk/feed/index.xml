@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MPK &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Economics and Bosses</title>
+		<link>./../../2011/02/economics-and-bosses.html</link>
+		<comments>./../../2011/02/economics-and-bosses.html#respond</comments>
+		<pubDate>Mon, 28 Feb 2011 04:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[Ken Houghton]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[MPK]]></category>
+		<category><![CDATA[MPL]]></category>
+		<category><![CDATA[pensions]]></category>
+		<category><![CDATA[retirement]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/economics-and-bosses.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak, who is smarter and nicer than I am,* boils down the question: [D]o you believe that managers normally make the right decisions over how to run organizations? If you believe that premise, please explain: Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Peter Dorman at Econospeak, who is smarter and nicer than I am,* <a href="http://econospeak.blogspot.com/2011/02/are-bosses-always-right.html">boils down the question</a>:<br />
+<blockquote>[D]o you believe that managers normally make the right decisions over how to run organizations?</p></blockquote>
+<p>If you believe that premise, please explain:
+<ol>
+<li>Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, but their successors—who supposedly are more capable—are only capable of offering defined contribution?</li>
+<li>That &#8220;underfunded pension benefits&#8221; are evil, but &#8220;overunded&#8221; pensions led to the LBO (now &#8220;Private Equity&#8221;) movement of the 1980s.</li>
+<li>That, in the 1980s, GM being $1B underfunded caused Congress to pass a bill allowing pensions to become fully funded over 20 years—and that most of those targets were missed?</li>
+</ol>
+<p>If bosses are so good at managing &#8220;ongoing concerns,&#8221; why do they take their payments upfront?  What does—and should—this tell us about discount rates?</p>
+<p>*This is a fairly low standard, outside of people who work in finance.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/economics-and-bosses.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>straight talk &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Romney says he likes straight talk. Just not from him.</title>
+		<link>./../../2012/08/romney-says-he-likes-straight-talk-just-not-from-him.html</link>
+		<comments>./../../2012/08/romney-says-he-likes-straight-talk-just-not-from-him.html#respond</comments>
+		<pubDate>Thu, 16 Aug 2012 19:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Budget]]></category>
+		<category><![CDATA[Mitt Romney]]></category>
+		<category><![CDATA[Paul Ryan]]></category>
+		<category><![CDATA[straight talk]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/romney-says-he-likes-straight-talk-just-not-from-him.html</guid>
+		<description><![CDATA[Washington may not like straight talk, but I do. &#8212; Mitt Romney, yesterday Sooo, Governor, about those massive tax cuts for the wealthy ….  You know, including the elimination of all incomes taxes on capital gains and stock dividends, which your running mate’s budget proposal includes?  How, exactly, do you plan to balance the budget [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div></div>
+<div>Washington may not like straight talk, but I do.
+</p>
+</div>
+<div>&#8212; Mitt Romney, yesterday
+</p>
+</div>
+<div></div>
+<div>Sooo, Governor, about those <i>massive</i> tax cuts for the wealthy ….  You know, including the elimination of all incomes taxes on capital gains and stock dividends, which your running mate’s budget proposal includes?  <i>How</i>, exactly, do you plan to balance the budget despite that loss of revenue?
+</p>
+</div>
+<div></div>
+<div>No, no, no.  I mean, how, <i>exactly</i>, do you plan to do that?
+</p>
+</div>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/romney-says-he-likes-straight-talk-just-not-from-him.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

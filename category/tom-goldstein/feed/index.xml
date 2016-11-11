@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tom Goldstein &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The difference between Social Security/Medicare and Medicaid under the Spending Clause, in light of the ACA opinion</title>
+		<link>./../../2012/06/the-difference-between-social-securitymedicare-and-medicaid-under-the-spending-clause-in-light-of-the-aca-opinion.html</link>
+		<comments>./../../2012/06/the-difference-between-social-securitymedicare-and-medicaid-under-the-spending-clause-in-light-of-the-aca-opinion.html#respond</comments>
+		<pubDate>Thu, 28 Jun 2012 19:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ACA litigation]]></category>
+		<category><![CDATA[Lyle Denniston]]></category>
+		<category><![CDATA[Obamacare]]></category>
+		<category><![CDATA[SCOTUSblog]]></category>
+		<category><![CDATA[Supreme court]]></category>
+		<category><![CDATA[Tom Goldstein]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/the-difference-between-social-securitymedicare-and-medicaid-under-the-spending-clause-in-light-of-the-aca-opinion.html</guid>
+		<description><![CDATA[While the Court’s upholding the mandate is deservedly taking front stage in the media coverage, the Court’s decision to strike down a part of the Medicaid expansion may ultimately have broader jurisdprudential consequence.  That, at least, will be a subject of debate among lawyers and academics in the days and weeks to come.  This is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>While the Court’s upholding the mandate is deservedly taking front stage in the media coverage, the Court’s decision to strike down a part of the Medicaid expansion may ultimately have broader jurisdprudential consequence.  That, at least, will be a subject of debate among lawyers and academics in the days and weeks to come.  This is the first time (as far as I know) that the Court has actually found a Spending Clause condition unconstitutionally coercive.  Whether it establishes principles that make many other programs vulnerable is a question that will require further analysis and debate.  Lyle Dennisten will start that analysis in an post later today or tomorrow morning.
+</p>
+</div>
+<div></div>
+<div>&#8212; Kevin Russell, <i><a href="http://www.scotusblog.com/2012/06/medicare-holding-may-have-broad-implications/">Medicaid holding may have broadimplications</a></i>, SCOTUSblog
+</p>
+</div>
+<div></div>
+<div>I one of the many updates to my initial post this morning, mentioned this exchange between Lyle Denniston and Tom Goldstein (SCOTUSblog’s publisher:
+</p>
+</div>
+<div></div>
+<div>Lyle: The rejection of the Commerce Clause and Nec. and Proper Clause should be understood as a major blow to Congress&#8217;s authority to pass social welfare laws. Using the tax code &#8212; especially in the current political environment &#8212; to promote social welfare is going to be a very chancy proposition.
+</p>
+</div>
+<div></div>
+<div>Tom: I dissent from Lyle&#8217;s view that the Commerce Clause ruling is a major blow to social welfare legislation. I think that piece of the decision will be read pretty narrowly.
+</p>
+</div>
+<div></div>
+<div> I wrote:
+</p>
+</div>
+<div>I’m almost always in agreement with Lyle’s analyses (as is, I’m sure, Tom Goldstein, who is the blog’s publisher and also a major Supreme Court litigator; Amy Howe, also a lawyer, is Goldstein’s wife).  But, like Goldstein, I disagree with Lyle on this one.  In order for the Court to interpret this opinion as limiting Congress’s authority to enact social welfare legislation, the Court would have to place in question a slew of current, longstanding social welfare programs.  I don’t think that was Roberts’ intent—really, I don’t—and I don’t think the opinion will be viewed that way.  Unless, of course, Romney wins and appoints a wingnut to replace, say, Ginsburg if her health does not hold out.  </p>
+</div>
+<div>
+<div>Here’s what I think will happen: </p>
+<p><a name="more"></a>But first, I need to point out that Medicaid, unlike Social Security and Medicare, are programs structured as partnerships between the respective states and the federal government, each paying some portion of the cost, and that Medicaid has always contained a provision that makes state participation voluntary and that allows states to remove themselves from the program if they want to.  Social Security and Medicare, by contrast, are solely federally-funded and federally-run programs. </div>
+<div></div>
+<div>The 26 states that challenged the ACA’s Medicaid provision argued that a provision in the Medicaid section of the ACA allows the federal government to withdraw all federal funds for a state’s entire Medicaid program—that is, the money it already is receiving—if a state opts out of the Medicaid-expansion part of the ACA.  The states argued that this was too coercive and therefore violates principles of state sovereignty.  Seven justices—the four dissenters, Roberts, Breyer and Kagan—agreed with that claim, and so they ruled that, while the federal government can put conditions on its funding of the new expansion, and can withdraw the money for that expansion if a state doesn’t comply with the conditions, the federal government <i>can’t</i>withdraw funding also for the earlier parts of Medicaid that the state already was receiving.</div>
+</div>
+<div></div>
+<div>Sooo …. this ruling certainly (in my opinion) appears to have no effect whatsoever on any program funded entirely through, and administered by, the federal government.  And i tappears to have no effect on any social welfare program that is a partnership between states and the federal government as long as there is no threat by the federal government to withdraw funds already being given to the state for something else, in order to get the state to agree to participate in the new partnership, or in the new part of the part of the partnership.
+</p>
+</div>
+<div></div>
+<div>I just don’t see how this restricts in any significant way Congress’s ability to enact social welfare programs.  I think that ruling is really very narrow.
+</p>
+</div>
+<div></div>
+<div>As an aside, I want to mention the four dissents who wanted to strike down the entire ACA tried to at least persuade Roberts that the entire Medicaid-expansion part of the statute simply because that one provision in that part of the Act was ruled unconstitutional—even though, as Roberts points out, the Act includes what’s known as a “severability” provision providing that if any particular section of the Act is ruled unconstitutional, the section should be severed from the remainder of the statute, and the remainder should remain in force.  This let’s-see-if-we-can-get-the-tail-to-wag-the-dog-and-win-on-this-part-at-least tack of the minority was so transparently inappropriate that Roberts, in responding to it in his opinion, seems downright offended by it.  Good for him.  
+</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/the-difference-between-social-securitymedicare-and-medicaid-under-the-spending-clause-in-light-of-the-aca-opinion.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

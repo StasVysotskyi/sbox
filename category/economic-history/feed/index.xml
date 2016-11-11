@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economic history &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Chinese growth model</title>
+		<link>./../../2013/02/chinese-growth-model.html</link>
+		<comments>./../../2013/02/chinese-growth-model.html#respond</comments>
+		<pubDate>Thu, 21 Feb 2013 14:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic history]]></category>
+		<category><![CDATA[Michael Hudson]]></category>
+		<category><![CDATA[Michael Pettis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/chinese-growth-model.html</guid>
+		<description><![CDATA[http://www.mpettis.com/2013/02/21/a-brief-history-of-the-chinese-growth-model/]]></description>
+				<content:encoded><![CDATA[<p>http://www.mpettis.com/2013/02/21/a-brief-history-of-the-chinese-growth-model/</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/chinese-growth-model.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Debt and Growth</title>
+		<link>./../../2012/10/debt-and-growth.html</link>
+		<comments>./../../2012/10/debt-and-growth.html#respond</comments>
+		<pubDate>Thu, 11 Oct 2012 17:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[debt]]></category>
+		<category><![CDATA[economic decline]]></category>
+		<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[great stagnation]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/debt-and-growth.html</guid>
+		<description><![CDATA[Art at The New Arthurian Economics and I are looking at the relationship between debt and economic growth.  Art started with an observation of two FRED series, total credit market debt owed (TCMDO) and Gross Domestic Product (GDP,  nominal or GDPC1, inflation adjusted &#8211; take your pick.) Graph 1, from FRED, shows these data series.  [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Art at <a href="http://newarthurianeconomics.blogspot.com/">The New Arthurian Economics</a> and I are looking at the relationship between debt and economic  growth.  Art started with an observation of two FRED series, total  credit market debt owed (TCMDO) and Gross Domestic Product (GDP,   nominal or GDPC1, inflation adjusted &#8211; take your pick.)</p>
+<p>Graph 1, from FRED, shows these data series.  I&#8217;ve chosen nominal GDP and, for reference, also included the total Federal Debt.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=bIb"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=bIb" width="400"></a></div>
+<div> Graph 1 TCMDO, GDP and Total Federal Debt</div>
+<p>In  1950, TCMDO was about 1.3 times GDP, but growing a bit more quickly.   By 1980, the ratio was 1.6, and by 1987 it was greater than 2.  Now that  ratio is approaching 4.  Note that TCMDO is also close to 4 times  greater than total public debt.  This is why Art and I agree that  private, not public debt is the problem that needs to be addressed, but  is largely ignored.</p>
+<p>Linked here are Art&#8217;s posts with graphs of YoY growth in both factors, <a href="http://newarthurianeconomics.blogspot.com/2012/10/three-decades-2.html">pre 1980</a> and <a href="http://newarthurianeconomics.blogspot.com/2012/10/three-decades.html">post-1980</a>.   Pre 1980, their moves are similar in magnitude, and pretty well  coordinated. Post 1980 there is still some occasional similarity of  motion, but the coordination breaks down and debt growth is generally  quite a bit higher than GDP growth.  The 80&#8217;s in particular stand out as  being starkly different from the previous period.</p>
+<p>Graph 2 shows the entire data set, since 1952.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=bId"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=bId" width="400"></a></div>
+<div>Graph 2 YoY % Growth in TCMDO and GDP </div>
+<p>These observations led Art to the reasonable hypothesis that, &#8220;Output growth slowed  when debt became excessive.&#8221;  This, in fact, might explain the great stagnation.</p>
+<p>I suggested, and Art accepted two corollaries to his hypothesis.</p>
+<p>1) There is a non-excessive amount of debt.  Let&#8217;s call it &#8220;just right.&#8221;<br />2) Below the &#8220;just right&#8221; amount, there might also be &#8220;not enough.&#8221;</p>
+<p>Actually,  there is a lower level hypothesis, to which Art&#8217;s is corollary:  That  there is a functional relationship between debt and growth, in which  growth is the dependent variable.</p>
+<p>This is what I will explore in this post. </p>
+<p>Graph  3 is a scatter plot of GDP vs TCMDO YoY % change for each, FRED  quarterly data from Q4, 1952 through Q2, 2012, with a best fit straight  line included.</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-ltbCeg6PZGc/UHY4w91szJI/AAAAAAAACAM/VbLR0ePCKS4/s1600/GDP+vs+TCMDO.jpg"><img border="0" height="272" src="http://4.bp.blogspot.com/-ltbCeg6PZGc/UHY4w91szJI/AAAAAAAACAM/VbLR0ePCKS4/s400/GDP+vs+TCMDO.jpg" width="400"></a></div>
+<div>Graph 3 GDP vs TCMDO, YoY % Change</div>
+<p>The  relationship is quite clearly positive.  The R^2 value at .39 is rather  low, but not terrible.  There is quite a bit of scatter in the data.   Note the circle of data points around the left end of the line.  More on  that later.</p>
+<p>Next, I divided the data by decades, frex,  1961-1970.  This admittedly simplistic data parsing reveals that the  slope and R^2 values are strongly variable over time.  Graph 4 shows the  scatter plot along with the slope and R^2 values for each decade.   These data values are arranged in the chart in chronological order and  color matched with the corresponding data points.</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-gZ9PGJtwBss/UHbTvxUjDZI/AAAAAAAACAg/mMeq9Tfd_RQ/s1600/GDP+vs+TCMDO+2.jpg"><img border="0" height="262" src="http://4.bp.blogspot.com/-gZ9PGJtwBss/UHbTvxUjDZI/AAAAAAAACAg/mMeq9Tfd_RQ/s400/GDP+vs+TCMDO+2.jpg" width="400"></a></div>
+<div> Graph 4 GDP vs TCMDO, YoY % Change by Decade</div>
+<p>I&#8217;ve  added a brown line connecting the dots for the first decade of this  century.  The chronology proceeds from a cluster near the center of the  graph into a clockwise circular spiral.</p>
+<p>Graph 5 shows how the slope and R^2 vary over time.</p>
+<div><a href="http://2.bp.blogspot.com/-c90pTkiBAJs/UHbwlp5aIlI/AAAAAAAACA0/jfF0132hGl0/s1600/GDP+vs+TCMDO+Slope+Over+Time.jpg"><img border="0" height="250" src="http://2.bp.blogspot.com/-c90pTkiBAJs/UHbwlp5aIlI/AAAAAAAACA0/jfF0132hGl0/s400/GDP+vs+TCMDO+Slope+Over+Time.jpg" width="400"></a></div>
+<div> Graph 5 Slope and R^2 Over Time for GDP vs TCMDO</div>
+<p>After  the 60&#8217;s, the slope plummets, and by the 80&#8217;s R^2 is a laughable  0.035.  Though the slope has remained low, R^2 has since recovered to  0.38, which is near the whole data set value of 0.39, and only slightly  less than the 0.40 to 0.44 of the first three decades.</p>
+<p>The  slope changes can be interpreted as generally less GDP bang for the  TCMDO buck, as the TCMDO/GDP ratio increases.  This is totally  consistent with Art&#8217;s hypothesis.</p>
+<p>I have more to say about the GDP -TCMDO relationship, but this post is getting long, so I&#8217;ll save it for a follow-up.</p>
+<p>For now, I&#8217;ll close with a few questions.</p>
+<p>1) Do you think we&#8217;re on to something?<br />2) What do you think of the methodology?<br />3) &#8220;Excessive debt&#8221; is suggestive, but non-specific.  How should this concept be quantized?<br />4) How should I go at exploring corollaries 1 and 2 mentioned after Graph 2?<br />5) Any thoughts on what was there about the 80&#8217;s that blew up the prior debt &#8211; GDP relationship?<br />6) Is there such a thing as productive vs non-productive debt, and how would they be characterized?</p>
+<p>I look forward to your constructive comments.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/debt-and-growth.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Defining Rich VI: 1936 tax tables</title>
+		<link>./../../2012/03/defining-rich-vi-1936-tax-tables.html</link>
+		<comments>./../../2012/03/defining-rich-vi-1936-tax-tables.html#respond</comments>
+		<pubDate>Sun, 04 Mar 2012 16:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[define rich]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[fair tax policy]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[income taxes]]></category>
+		<category><![CDATA[progressive taxation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/defining-rich-vi-1936-tax-tables.html</guid>
+		<description><![CDATA[Today we are continuing to look at the historical tax tables to see how we viewed and possibly defined rich. I introduced this idea with my post: Defining Rich III.   I found a source for all sorts of historical data from the Census Bureau. You can down load it or the better way is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div></div>
+<div>Today we are continuing to look at the historical tax tables to see how we viewed and possibly defined rich.  I introduced this idea with my post: <a href="http://www.angrybearblog.com/2011/09/define-rich-part-iii-what-tax-tables-of.html">Defining Rich III</a>.</div>
+<div> </div>
+<div>I found a source for all sorts of historical data from the <a href="http://www.census.gov/prod/www/abs/statab.html">Census Bureau</a>.  You can down load it or the better way is to click on the PDF file which brings up the Intro and then click on any of the listings of the table of contents which takes you to that set of PDF data.  For this posting regarding income data I am using <a href="http://www2.census.gov/prod2/statcomp/documents/1937-13.pdf">this section</a>.   </div>
+<div></div>
+<div>The average weekly income for all manufacturing was $22.82 per week on 39.1 hours work.  The highest paid was printing/publishing newspapers/periodicals at $35.15 per week on 37 hours work.  The lowest was cotton goods at $13.80 per week on 37.5 hours of work.   </div>
+<div></div>
+<div>In the non-manufacturing sector the I calculated the average weekly income to be $23.76 on 40.28 hours of work.  The highest earnings were electric power/lights manufactured gas at $31.70 per week on 40.2 hours work.  The lowest was hotels at $13.97 per week on 48.3 hours of work.    For the Walmart greeter retail trade-general merchandising it was $17.51 per week on 40.8 hours work.</div>
+<div></div>
+<div>There were regional differences also.  The most glaring is the north/south difference.  The hourly wage ranges from 12.5 cents to 19 cents less if you worked in the south.  The greatest differences being between the East South Central and the Pacific North.  </div>
+<div></div>
+<p><a name="more"></a></p>
+<div>The data uses an average of 1923 to 1925 to equal 100% for comparisons.  Thus, 1936 weekly earnings were 89.7 % of that standard however they were 109.9 % adjusted for cost of living.  Things were looking up having hit their lows in 1933.</div>
+<div></div>
+<div>Using my <a href="http://www.measuringworth.com/calculators/index.php">favorite money converter</a> and to not let the numbers become to many and thus cause one&#8217;s mind to go blank, I converted the average hourly wage for the four categories listed:</div>
+<div></div>
+<div><a href="http://4.bp.blogspot.com/-7FzQWjwM8C8/T1OHwyv0cpI/AAAAAAAAASI/T3BmhKZ1WQM/s1600/1936+Hourly+pay+Converted.JPG" imageanchor="1"><img border="0" height="197" src="http://4.bp.blogspot.com/-7FzQWjwM8C8/T1OHwyv0cpI/AAAAAAAAASI/T3BmhKZ1WQM/s320/1936+Hourly+pay+Converted.JPG" width="320"></a></div>
+<div>  </div>
+<div>Thus we have an annual income ranging from a high of $1827.80 per year for the newspaper worker to $717.60 per year for the cotton goods worker.   These are the numbers you need to keep in mind as we look at the 1936 tax tables.  These are the numbers that let us start to understand what we used to  </div>
+<div>consider rich.</div>
+<div></div>
+<div>The lowest tax rate in 1936 is 4% on incomes up to $4000.   This $4000 appears to capture  the income of the vast majority of workers in the nation in 1936.    Remember, this income that is taxed is already adjusted for any deductions.  Thus, if after all your deductions you had $4000 left over, you paid 4% of that in federal income tax.  You paid $160 in taxes.    Today, using the converted average income a person would be paying up to 15% of their adjusted income for federal income taxes.  They would be paying 25% if they were receiving the equivalent share of GDP/capita.</div>
+<div></div>
+<div>The highest rate in 1936 is 79% on income over $5,000,000.  OH MY GOD!  Don&#8217;t panic folks.  Converted as unskilled labor, this is $188,000,000 of adjusted gross income.  That is a freakn&#8217; pile of money after all deductions are taken.  Still, I&#8217;m sure some are thinking I must be a real soak the rich kind of guy to brush off 79%.  Here&#8217;s the thing.  It&#8217;s a very big thing.  VERY BIG THING.  This person is only paying that 79% on any money above the $5,000,000 after all deductions.   They spent all the money they believed their business (s) needed, they gave all they wanted to charity, they took the housing credits, subtracted any losses on capital gains, gave to their children and any other activity that would subtract money from their gross income.  When it was all done, that person still had $5,000,000 left over to be taxed at 79% and it is only that $1 (ONE DOLLAR) which put their income at $5,000,000 that will be taxed at 79%.  </div>
+<div></div>
+<div>What we have forgotten, or have failed to honestly accept is that the old way of producing a tax schedule did not tax at a constant rate from the first dollar.  Each time you broke into a new “tax bracket” only that money within that tax bracket was taxed at the brackets given rate.  Thus, the higher up the tax rate ladder one was, the smaller their actual percentage of income paid for taxes became relative to the indexes specified rate.  Frankly what this means is that the only person paying the full bracketed rate is the person at the bottom of the table.  If you were in the 4% bracket, you paid a full 4% of your ADJUSTED gross income to the federal government.   How convenient for those arguing to “simplify” the tax system that a huge portion of the tax paying public pays the full indexed rate and thus when you talk to them about a 79% tax rate they are prone to interpret that rate as being paid on all the money they earned. Ouch!  How to move a populous made simple. </div>
+<div></div>
+<div>There were 33  brackets in 1936.  When people talked about the “complexity” of the tax system they used to be talking about how many brackets there were.  After all, the goal of the complainers is to get the “system” down to the lowest single rate they can buy.  Interestingly enough, there is a flat rate in the 1936 table.  You just had to be willing to really work hard to earn an income large enough to receive such a rate.  It&#8217;s the top rate.  </div>
+<div></div>
+<div>The following chart shows how this works.  It is a chart of the percentages of the marginal rate verse the actual rate paid.  Notice how there is a bulge in the middle.  Those people got the biggest built in break from the marginal rate.  I don&#8217;t know how to figure out how many people were within the bracket range of number 7 to 23, but it would be interesting to see if this was what we would consider the middle class.</div>
+<div><a href="http://1.bp.blogspot.com/-H1v9kCeo-tw/T1OIQrvadRI/AAAAAAAAASQ/zWYFdOLlkHI/s1600/1936+Marginal+vs+Actual+Tax+rate.JPG" imageanchor="1"><img border="0" height="235" src="http://1.bp.blogspot.com/-H1v9kCeo-tw/T1OIQrvadRI/AAAAAAAAASQ/zWYFdOLlkHI/s320/1936+Marginal+vs+Actual+Tax+rate.JPG" width="320"></a></div>
+<div></div>
+<div>  </div>
+<div>What all this comes down to is a chart that looks as follows:</div>
+<div><a href="http://1.bp.blogspot.com/-t_FIS6h4jFE/T1OIZ4bE8bI/AAAAAAAAASY/3vWOhS8t9CY/s1600/1936+Tax+Table+Graph.JPG" imageanchor="1"><img border="0" height="235" src="http://1.bp.blogspot.com/-t_FIS6h4jFE/T1OIZ4bE8bI/AAAAAAAAASY/3vWOhS8t9CY/s320/1936+Tax+Table+Graph.JPG" width="320"></a></div>
+<div>Notice that once we get to the 25th bracket the individual is paying more than 50% of their income in taxes.  For shame people will say.  How dare We the People take so much from that person.  It&#8217;s stealing!  NOT!</div>
+<div></div>
+<blockquote><div align="justify">For out of this modern civilization economic royalists carved  new dynasties. New kingdoms were built upon concentration of control over  material things. Through new uses of corporations, banks and securities, new  machinery of industry and agriculture, of labor and capital &#8211; all undreamed of  by the Fathers &#8211; the whole structure of modern life was impressed into this  royal service.</div>
+</blockquote>
+<div><a href="http://for%20out%20of%20this%20modern%20civilization%20economic%20royalists%20carved%20new%20dynasties.%20new%20kingdoms%20were%20built%20upon%20concentration%20of%20control%20over%20material%20things.%20through%20new%20uses%20of%20corporations,%20banks%20and%20securities,%20new%20machinery%20of%20industry%20and%20agriculture,%20of%20labor%20and%20capital%20-%20all%20undreamed%20of%20by%20the%20fathers%20-%20the%20whole%20structure%20of%20modern%20life%20was%20impressed%20into%20this%20royal%20service./">President Roosevelt, June 27, 1936</a>. </div>
+<div></div>
+<div>First, at the 25<sup>th</sup> bracket the adjusted gross income in today&#8217;s unskilled labor value is $9,420,000 per year.  Remember, ADJUSTED GROSS INCOME.  All deductions have been taken.  There is nothing at this income that one could not have had at $7,540,000 (the converted income that taxes less than 50%) that is not just more of what they already have.</div>
+<div></div>
+<div> </div>
+<div>Second, at this level of income no one is doing it solely on their own.  What we used to understand is that there is a point of income earning that stops being do to one&#8217;s labor and moves to being simply the capture of a greater share of the income earned off the commons.  Haven&#8217;t hear that term “commons”.  Ask a person <a href="http://en.wikipedia.org/wiki/The_commons">from Massachusetts</a>.  In the case of income, it is the money earned as a results of all the investments We the<br />People have made.  In practice if you own a business and have employees, the road you used to get to your business  is used by all the employees and thus you have received a share of their share of the use of the road.  You have received a greater share of the road&#8217;s effect on economic activity without doing any extra work.  You only had to pay your taxes&#8230;just like all your employees in order to have that road in place for your use.  I believe this is why there was a point in the 1936 tax table at which your tax paid became greater than 50% and climbed steeply until you rang the income bell at which time your were rewarded with a flat rate on everything earned beyond the bell&#8217;s posted height.</div>
+<div></div>
+<div>Third, at this level of income the Constitution&#8217;s prime objective kicks in: equality of power.  We are living the effects of having been taught away from this effect of money.  I refer you back to my series looking at taxation from a justice perspective.  Starting <a href="http://www.angrybearblog.com/2008/01/opus-1-discussion-on-taxation.html">here</a> going on <a href="http://www.angrybearblog.com/2008/01/opus-1-second-movement-on-taxation.html">here</a> and<a href="http://www.angrybearblog.com/2008/02/opus-finale-discussion-on-taxation.html"> finishing here</a>.  I&#8217;ll just let what I ended that series with be my overall thoughts on why power and thus justice need to be part of the taxation discussion: </div>
+<div> </div>
+<div></div>
+<blockquote><div>As a professional, I can understand the argument to separate the two issues via 2 professions. The concept of a profession is that it is specialized. As a thinking person and a citizen, the public discussion should not allow the issue of efficiency to dominate one profession&#8217;s focus while the issue of equity dominates another profession. We have to assure both equity and efficiency are discussed and decided upon in order to stay true to the preamble of the Constitution and minimize Thomas Jefferson&#8217;s observation of the citizens response.</div>
+</blockquote>
+<div></div>
+<div></div>
+<div>There is one major point to learn from the charts above.  If you want a progressive system, you need many tax brackets.  The more steps there are the more fair and specifically addressed is any particular level of income.   To compare the charts of 1936 to 2010, you can view the<a href="http://2.bp.blogspot.com/-lX4293efG5Y/Tl_Efh3ab1I/AAAAAAAAARc/W7X0lIr0Ki0/s1600/2010+Tax+table+Define+Rich+3.JPG"> 2010 table here</a> and <a href="http://4.bp.blogspot.com/-OCqtKMLzE3A/Tl_Ejt_NFtI/AAAAAAAAARg/bwU8IixjaGc/s1600/2010+Tax+rate+graph+Define+Rich+3.JPG">the graph here</a>.</div>
+<div> </div>
+<div></div>
+<div>Below is the chart constructed for the 1936 tax brackets.  Next up is 1946.</div>
+<div><a href="http://3.bp.blogspot.com/-avLq1Dcqif8/T1OKOPFGukI/AAAAAAAAASg/_jINonJGp88/s1600/1936+Tax+Table.JPG" imageanchor="1"><img border="0" height="235" src="http://3.bp.blogspot.com/-avLq1Dcqif8/T1OKOPFGukI/AAAAAAAAASg/_jINonJGp88/s320/1936+Tax+Table.JPG" width="320"></a></div>
+<div>  </div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/defining-rich-vi-1936-tax-tables.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Deja Vu All Over Again, or On the Whole&#8230;</title>
+		<link>./../../2012/02/deja-vu-all-over-again-or-on-the-whole.html</link>
+		<comments>./../../2012/02/deja-vu-all-over-again-or-on-the-whole.html#respond</comments>
+		<pubDate>Wed, 08 Feb 2012 02:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[austerity]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[FRB]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[the fed]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/deja-vu-all-over-again-or-on-the-whole.html</guid>
+		<description><![CDATA[The President of the Federal Reserve Bank of Philadelphia: We have been putting out credit in a period of depression, when it is not wanted and could not be used, and will have to withdraw credit when it is wanted and can be used. But this is not Charles I. Plosser, no matter how similar [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The President of the Federal Reserve Bank of Philadelphia:<br />
+<blockquote>We have been putting out credit in a period of depression, when it is not wanted and could not be used, and will have to withdraw credit when it is wanted and can be used.</p></blockquote>
+<p>But this is not <a href="http://www.bis.org/author/charles_i_plosser.htm">Charles I. Plosser</a>, no matter <a href="http://www.bis.org/review/r120203f.pdf?ql=1">how</a> <a href="http://www.bis.org/review/r111206g.pdf">similar</a> <a href="http://www.bis.org/review/r111110h.pdf">the</a> <a href="http://www.bis.org/review/r111014b.pdf">sound</a>.  It&#8217;s from September of 1930,* <a href="http://www.uspapermoney.info/sign/fedbank.html">presumably</a> <a href="http://fraser.stlouisfed.org/docs/historical/brookings/17502_philadelphia.pdf">George W. Norris</a> (PDF; see page 4).**</p>
+<p>Indeed, reviewing <a href="https://docs.google.com/viewer?url=http%3A%2F%2Fwww.nber.org%2Fchapters%2Fc6887.pdf">the Calmoris and Wheelock article from which I pulled that quote</a>, we find the same mistakes being made: excess reserves confused with circulating money and therefore treated as harbingers of inflation, squealing for austerity,*** sterilization of shifts in reserves in a desperate attempt to avoid non-visible inflation.</p>
+<p>As Owen Wilson&#8217;s Gil says in <em>Midnight in Paris</em>, <a href="http://www.imdb.com/title/tt1605783/quotes">we have antibiotics</a>; the people in Fin de siècle Paris didn&#8217;t.  It&#8217;s just one of our other &#8220;sciences&#8221; that appears not to have advanced.</p>
+<p>*Michael D. Bordo;Claudia Goldin;Eugene N. White. The Defining Moment: The Great Depression and the American Economy in the Twentieth Century (National Bureau of Economic Research Project Report) (p. 36). Kindle Edition.</p>
+<p>**Not to be confused with <a href="http://en.wikipedia.org/wiki/George_W_Norris">George W. Norris</a>, the Nebraska Senator discussed in <em><a href="http://books.google.com/books?ei=UdYxT7q6Iof50gGBxYiPCA&#038;id=QejhHQLJTuwC&#038;dq=profiles+in+courage+by+john+f.+kennedy&#038;q=George.+Norris#search_anchor">Profiles in Courage</a></em></p>
+<p>***The Norris quote above begins:<br />
+<blockquote>We believe that the correction must come about through reduced production, reduced inventories, the gradual reduction of consumer credit, the liquidation of security loans, and the accumulation of savings through the exercise of thrift. These are slow and simple remedies, but just as there is no &#8220;royal road to knowledge,&#8221; we believe there is no short cut or panacea for the rectification of existing conditions.</p></blockquote>
+<p>Chancellor of the Exchequer <a href="http://www.nytimes.com/2011/11/30/business/global/britain-lowers-economic-growth-forecast.html">George Osborne</a>, not to mention <a href="http://money.cnn.com/2011/11/28/news/international/europe_crisis_deal/index.htm?iid=EL">EC President Herman von Rompuy</a>, would be proud.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/deja-vu-all-over-again-or-on-the-whole.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Define Rich V: Looking at the historical labor economy</title>
+		<link>./../../2012/01/define-rich-v-looking-at-the-historical-labor-economy.html</link>
+		<comments>./../../2012/01/define-rich-v-looking-at-the-historical-labor-economy.html#respond</comments>
+		<pubDate>Fri, 13 Jan 2012 07:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[austerity]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Class war]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[middle class]]></category>
+		<category><![CDATA[TARP]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/define-rich-v-looking-at-the-historical-labor-economy.html</guid>
+		<description><![CDATA[We are taking a little side trip inthis series of defining rich based on the prior tax rate schedulesbut, this post is keeping with the process of looking at history formarkers as to the definition of rich. For any new readers, I believeas a society we knew and had definite boundaries as to what definedrich. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>We are taking a little side trip inthis series of defining rich based on the prior tax rate schedulesbut, this post  is keeping with the process of looking at history formarkers as to the definition of rich.  For any new readers, I believeas a society we knew and had definite boundaries as to what definedrich.  I believe we knew how to say the word “when” as the incomeand wealth was pouring into one&#8217;s glass These boundaries producedspecific public policy that resulted in a more equal and justsociety.</div>
+<div></div>
+<div>In our local city there is anothertextile mill going to the grave.  We have lost a couple of huge millsto fire in the last decade.  The local  paper did an article on thismill known as the French Worsted Mill.  It was built in two stages,1906 and then 1906.  It was part of the revival of the mill industryvia specific targeting of French industrialists, post water power forthe city.  A local person who was eventually governor of the state iscredited with bring $6,000,000 of foreign investment into the cityearly turn of the century.   At one point they had a Uniroyal rubberplant that made soles for shoes  The last pair of Keds (sneakers) went out thedoor in 1970.  <a href="http://www.newspaperarchive.com/SiteMap/FreePdfPreview.aspx?img=110759965%20">Nine hundred and fifty people out of work due to &#8220;FarEaster Producers&#8221;.</a>  (See the article: Pressure growsrapidly for Congress to to clamp tariffs on foreign goods, 5/19/1970)  This was a city as industrial asanything Detroit or Pittsburgh were.  This was a cultural center forthe region with 6 theaters and I don&#8217;t mean just movies.  We aretalking blue collar all the way.  We&#8217;re talking jobs that we considerthrow away jobs to the far east today.  We&#8217;re talking jobs that are notconsidered “good” jobs anymore.  </div>
+<div></div>
+<div>So, now that you have the picture, hereis what this mill and the jobs within it were able to do for theworkers.  I think this bit of history also adds to my position thatwe have continually pushed the cost of the American Dream up theincome line such that the middle class can not afford it&#8230;even with2 college educated people in one house.  This is the sub-context tothe discussion regarding the decline of the middle class or the lossof the middle class.  When people say the middle class does notexist, what is being stated is that the American Dream is no longerfinancially possible for this groups of citizens.  The Dream is notdead or gone, it is over priced relative to the income of the middleclass.  It is just as we are not drowning in debt, we are dehydratingfrom lack of income.</div>
+<div></div>
+<p><a name="more"></a></p>
+<div>The article in the paper talked about aMr. Bacon.  He worked in the mill in 1956 along with 700 to 800 otherresidents.  The job was not as a machine tool maker (the mill as mosthad their own machine shop) or a special machine operator thatrequired special skill.  He was a laborer.  The tasks mentioned werestuffing waste wool into burlap sacks or “picking up the yarn” orfetching parts from the machine shop.  We&#8217;re talking menial labortasks.  Starter jobs.  </div>
+<div></div>
+<div>For this work Mr. Bacon was paid $1.80per hour.  The minimum wage was $1.00 per hour.  At some point he wasearning $80 per week for 40 hours work.  This is $4160 per year. With this income Mr. Bacon was able to put himself through collegeand became a teacher in the local school system.  It was not just anyold college he went to.  It was Providence College with a tuition of$500 per year.   Yes, a private college that cost only 1/8<sup>th</sup>of his annual income.  </div>
+<div></div>
+<div>Mr. Bacon&#8217;s story is the story that notonly are the Republican presidential candidates promoting as to whatwe need to &#8220;get back” to, but the democrats are saying we needto go forward to.  Mr. Bacon&#8217;s story with this mill is the proof thatthe 2 parties are not talking about a fantasy time in our history. It did exist.</div>
+<div>Here&#8217;s the problem though with both of their directions.  I&#8217;m justgoing to list them.</div>
+<ol>
+<li>
+<div>$40,000 is the annual tuition at Providence College today.</div>
+</li>
+<li>
+<div>$1.80 per hour is equivalent to the following: $14.40/hour standard of living, $17.80 real value, $18.20 unskilled labor and $22.00/hour production labor.</div>
+</li>
+<li>
+<div>Tuition of $500 is equivalent to the following: $4010.00 standard of living, $4960 real value, $5050 unskilled labor and $6120.00 production labor</div>
+</li>
+</ol>
+<div></div>
+<div>Are you seeing the problem here?  It&#8217;snot just the difference of tuition going up 80 times.  It&#8217;s that the wage equivalent today for what amounts to stacking shelves in Walmartis not being paid at Walmart.  Not only is this Walmart job notpaying such wages, this is what the current autoworker is earning. The autoworker was one of the best compensated citizens we had. Lookup the definition of  middle class in the dictionary, and you would have seen anautoworker!  </div>
+<div></div>
+<div>How bad is this?  <a href="http://www.wsws.org/articles/2011/sep2011/pers-s08.shtml">Considered</a>: </div>
+<blockquote><div>Thelow-wage benchmark set by the UAW has already set off a competitivestruggle in the global auto industry, with Fiat-Chrysler boss SergioMarchionne telling Italian workers they must accept American-styleconcessions or he will move production to North America for cheaperlabor.</div>
+</blockquote>
+<div></div>
+<div>I have read that the German automakersare here in the US for the same reason.  We are now the stop for outsourcing.  </div>
+<div></div>
+<div>Here is the other more important aspectof the story of the French Worsted Mill and it&#8217;s relationship to theAmerican Dream.  All those candidates, all those legislators, allthose governors proposing programs they say will encourage people toget off welfare and join the “productive” class, programs thatwill spur job creation, programs that will grow the economy such thatwe can cut taxes JUST LIKE THE GOOD OLD DAYS have no answer for thelack of pay of $14.00 per hour for the Walmart shelf stocker.  Theyhave no answer as to how they are going to return the ratio betweenthe hourly wage and the cost of college education to that of the1950&#8217;s such that an individual can accomplish what Mr. Bacon andothers from the same mill accomplished.   Not only do they have noanswer, they don&#8217;t even want to consider this aspect of theirsolution.  </div>
+<div></div>
+<div>Mr. Bacon&#8217;s story is also telling uswhy we think the public sector is so over paid.  If a Walmart shelfstocker should be earning $14.00 hour comparatively but are not, ifan autoworker earning $14.00 per hour is underpaid comparatively,then certainly the higher hourly wages of the public sector lookexcessive.  Everyone used to know that the public sector was alwayspaid less compared to the private sector.  They did not have morebenefits than the autoworker, but they do now.  The slowdeterioration of the autoworkers and all the other laborers pay andbenefits has hidden the reality of the finger pointing at the publicsector.  It&#8217;s not that they are paid so much, and thus look “rich”by comparison, it&#8217;s that the autoworker has lost so much over such along time that the loss is not recognized as a loss.  Instead, thepublic sector&#8217;s economic position is looked at as an unjust gain. Not only is this presented as an unjust gain, it is an injusticeperpetrated via taxation.  And the stage is now set for all thearguments such as those we hear coming from governors such as Walkerand Kasich.</div>
+<div></div>
+<div></div>
+<div>This is where the Keds hit the road. We, and I have to say “We” because We voted in those who made thepolicy changes, have decided that a good job is not one which allowsthe experience of Mr. Bacon or the autoworker.  We upped it to be onethat required academic education.  No longer would trade education orapprenticeship education be of such value that it would define themiddle class.  Unfortunately, as I had <a href="http://www.angrybearblog.com/2007/04/this-is-continuation-of-looking-at.html">suggested  in 2007</a>, evenacademic education is being defined down as to not resulting in a &#8220;goodjob&#8221;.  </div>
+<div></div>
+<blockquote><div>&#8220;The dream seems to now only be adefinite with a 2 person, college educated and working household. That combination is not far from being in the 10% group.  Thus, wehave raised the dream to something beyond which a large portion ofthe population will not reach considering only 28% have a 4 yeardegree even though 64% of high school students are entering college. It looks even worse with people suggesting that you need an IQ of 110to succeed in college.  I mean, can we push the dream any further outor be anymore aristocratic in our arguments? &#8220;</div>
+</blockquote>
+<div></div>
+<div><a href="http://www.angrybearblog.com/2007/04/this-is-continuation-of-looking-at.html">What has this push produced</a>:</div>
+<blockquote><p>In 2003, the homeownership rate for upper-income families withchildren was 90.8 percent, while the rate for their low- tomoderate-income counterparts was significantly lower at 59.6 percent– yet in 1978 some 62.5 percent of low-to moderate-income workingfamilies with children owned their homes. Ultimately, had the 1978homeownership rates for working families with children prevailed in2003, an additional 2.3 million children would now be living inowner-occupied homes. </p></blockquote>
+<p>How&#8217;s this little bit of history change your ideas about what toblame for the current housing/mortgage mess?  I suppose if you areall for a future that is less than what was accomplished in the pastthen blaming government for promoting housing and people for spendingbeyond there means is all right by you.</p>
+<p>No one in the middle class of yore was rich by any means.  But,what they had was a life much freer of risk than today.  What theylived in was an environment that provided the means to manage therisk of life and living.  When we are told by those running for or inoffice that Americans need to be more&#8230;(fill in the blank) they aresuggesting such from within their own experience of having grown upin a socially constructed via government environment that was devoidof certain risks of living based on one&#8217;s income.  In other words,you would not be told that the requirement for food stamps would meanyou had to <a href="http://crooksandliars.com/susie-madrak/pas-gov-tom-corbett-bar-food-stamp-re">have less than $2000 in savings. </a></p>
+<p> The removal of these risks allowed one to take what theypersonally had (natural ability and otherwise) and grow it into alife where economically more of life&#8217;s risks could be taken onindividually.   It was an environment which removed the concept ofluck from the social justice equation. </p>
+<p>This environment was not all welfare.  It was an environment thatassured a person of common acuity could live a life free from therisk of weather, malnourishment, illness and aging.  It was anenvironment that produced an economy such that the vast majority ofthe 72% without a college education were living this minimal risklife. We had an environment which supported the economic life journeyof the autoworker, simultaneously supporting the economic life journey of Mr.Bacon&#8217;s experience, simultaneous supporting the economic life journey of anindividual such as President Obama.   </p>
+<p>It was an economic environment which produced a directrelationship between income/wealth and risk absorption.  As incomeand wealth went up, so did the absorption of risk and vice versa. Today we 
+<div>have a system that is completely theopposite such that we have arrived at place where the relationship iscompletely reversed.  We spare those who as a group can purchase agovernment which insulates them from any risk while pushing all therisks of living on to those who can not afford any risk and then tellthose people &#8220;oh well&#8221;.   The bank bailouts and theausterity plan is the realization of the reversal of the risk/income-wealth relationship.  </div>
+<p>Our past economic environment also produced a direct relationshipbetween income-wealth and luck. Again, as income-wealth increased,your success was more dependent on luck and vice versa.  This too hasbeen reversed as we see with the Washington revolving door and evergreater capture of the nations wealth as one&#8217;s income-wealthincreases.  The environment produces an ever stronger assurance thatincome and wealth will increase as they both increase.  This isunlike the experience of the middle class including all the highly educatedpeople who find themselves under employed or unemployed do to theshear luck of having chosen wrong. Today the closer you are to zeroon the line of income-wealth, the luckier you need to be.</p>
+<p>I&#8217;ll leave you with this, the class warfare.  There is classwarfare.  It has always been with us, since the writing of theConstitution.  However, I believe the current theater is the mostdevious the vast majority of the US population has ever faced.  Thisis because of the two parties in this seemingly perpetual human quest,one has successfully cloaked themselves in the costume worn of athird party observer effectively immunizing themselves from the pain of the fight via camouflageof a messenger.  I even suspect some aregaining a wee bit of entertainment in their ability to manipulate theircounterparts into fighting among themselves.  I speak of the laborclass successfully being divided such that those who labor in theprivate sector of the economy accuses those who labor in the publicsector of the economy for their poor economic position and the publicsector laborer does not recognizing themselves in the private laborworld.  I tell you, the false messenger is recognized in that theirlabor is money.  It is not in their mind or body.  Warren Buffet maywant to be taxed more, but Warren Buffet is not working his money asthe Kock Brothers are working theirs&#8230;and Warren Buffet isbenefiting from the productivity of the Kock&#8217;s Brother&#8217;s money.</p>
+<p>Next up is 1936&#8217;s tax table. 
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/define-rich-v-looking-at-the-historical-labor-economy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Defining Rich IV: Corporate vs Personal Tax collection patterns 1934 to present</title>
+		<link>./../../2011/11/defining-rich-iv-corporate-vs-personal-tax-collection-patterns-1934-to-present.html</link>
+		<comments>./../../2011/11/defining-rich-iv-corporate-vs-personal-tax-collection-patterns-1934-to-present.html#respond</comments>
+		<pubDate>Fri, 25 Nov 2011 06:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bush tax cuts]]></category>
+		<category><![CDATA[corporate taxation]]></category>
+		<category><![CDATA[define rich]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[fair tax policy]]></category>
+		<category><![CDATA[flat tax]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[income taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/defining-rich-iv-corporate-vs-personal-tax-collection-patterns-1934-to-present.html</guid>
+		<description><![CDATA[When I left this series in September, I had introduced the idea of looking at past tax tables as a means of understanding how We the People define rich. One specific note from history was a surcharge on top of themarginal tax rates to pay for the Great One (WWII). Obviously, that aspect of our [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I left <a href="http://www.angrybearblog.com/2011/09/define-rich-part-iii-what-tax-tables-of.html">this series</a> in September, I had introduced the idea of looking at past tax tables as a means of understanding how We the People define rich.  One specific note from history was a surcharge on top of themarginal tax rates to pay for the Great One (WWII).  Obviously, that aspect of our moral character has gone right out the window. 
+<div></div>
+<div>Also for a <a href="http://www.taxpolicycenter.org/taxfacts/displayafact.cfm?Docid=203">brief period</a> (1936 to 1943,on 6 occasions) business paid more of the income tax revenue collected than did people.  I also noted that 1983 and 2009 the corporate share of income tax revenue was just over 6% of the totalrevenues (FICA included).  Its lowest points.  Reagan/Bush II. However, interestingly enough, Bush II did manage to get thecorporate tax collections as a percentage of personal collections(excluding FICA) up to 33.9%! Clinton only managed 26.6% in 1995. The last time we saw a ratio where corporate collections were in the30% range was 1979.   In 1959 it was 47.1%.   1980 heralded the new standard of the mid to low 20% range.   Of course Reagan wins thispersonal verses corporate relationship with a corporate total that is only 12.8% of the personal in 1983.</div>
+<p>
+<div>One other very interesting aspect ofour tax history using <a href="http://www.taxpolicycenter.org/taxfacts/displayafact.cfm?Docid=203">the same table</a> is that from 1934 to 1983 when tax revenue from personal collections became less than the year prior, this was only for one year with the exception of 1945/46. Corporate revenue follows the same pattern except for 3 periods where there was a decline for 2 years running: 1946/47, 1958/59 and1961/62.  From 1983 until 2001 the personal revenue is more every year than the year prior.  It&#8217;s like a switch was thrown after 1983.  The corporate revenue declines twice for 1 year each in this 1983 –2001 span; 1990 and 1999.  Starting in 2001, the decline in revenuecollections for both personal and corporate last for 3 years running;2001 to 2003 and 2008 to 2010.  Someone threw a double pole switchhere.  We&#8217;ll have to wait to see for 2011.</div>
+<div></div>
+<p><a name="more"></a></p>
+<div>Obviously, from this bit of history we can see a few trends at least.  We have been reducing the burden on corporations as paying their share for the use of the commons.  From1984 to 2000 the personal collections never declined yet thecorporate did twice.  Prior to 2001, our tax tables and all their loop holes produced a fairly stable ever rising stream of revenue. However, after 2001, the stability is less in that any time there isa reduction in revenue collections, it lasts 3 times longer. Finally, except for 2005 to year ending 2007, since 1980 we think that corporations should only pay between 20 to 26% of what We thePeople pay in to our government.  </div>
+<div></div>
+<div>I mention all the above because it isevident that more than just the marginal rates are changing and, as far as my assessment of these changes go, they are leading us to anever less stable adjusted gross income base for then calculating the tax due.  That is, the base has been adjusted such that it is moresensitive to down turns in the economy.  Prior to the Reagan taxrevolution, both the personal and corporate base were fairly evenlysensitive with the corporate being maybe a little more sensitive.  </div>
+<div></div>
+<div>For 50 years (1934 to 1983) there wereonly 3 periods in which the corporate collections were less for 2years in a row and none of them were the back to back Reaganrecessions.  After 1983, the base for personal taxation has changedsuch that it is not effected by any recession.  However, thecorporations got relief twice.  Considering that from 1934 to 1982there are only 2 recessions listed by <a href="http://www.nber.org/cycles.html">NBER</a> as lasting more than a year (1973/75and 1981/82, 16 months each)  1 year of less revenue does not seembad.  However, for the last 2 recessions, the revenue collectionshave been less each year for 3 consecutive years for both thepersonal and the corporate collections even though the latestrecession is listed as lasting 18 months. </div>
+<div></div>
+<div>Withinthis 3 year pattern, we also see that the declines are greater.  Fromthe high to the low for 2000 to 2003, by 2003 personal collectionsare 79% of the high and corporations are 63% of their high.  For thepresent recession personal became 78.4% of the high and corporationswas 62.9% of their high.  Even in 1983, when Reagan wins thepersonal/corporation differential the declines were only 97% personaland 75.2% corporations.  For another perspective, that 2 year declineof personal revenue collections for 1945/46 the personal declinedonly to 81.7% of the high.  During this period the corporations onlydeclined for 1 year (1947) to 72.5% of the high.  In 1947, corporaterevenue collections were 48% of the personal collections.  In 2000,the peak corporations revenue was 20.6% and in 2008 it was 26.6% ofthe personal revenue collections.     </div>
+<div></div>
+<div>Obviously we made more than marginalrate changes after 1980.  We changed the way the base is calculatedsuch that corporations paid significantly less as a share of thetotal income taxes and was more tied to a change in the economy suchthat corporate taxes due were less during a recession where as thepeople had no reprieve.  How&#8217;s that for fairness?  Then came Bush II. The base changed even more&#8230; so such that now the decline inrevenue collected lasted longer than the recession and the declineswere greater.</div>
+<div></div>
+<div>We do not just need to raise the rates,we need to return to a broader base.  That is, when all thedeductions are done, the adjusted gross income needs to be higher. On the other hand, what we are seeing here could be the results ofthe massive shift of income up the line combined with the decreasedrates.  Considering this history, the cry to lower rates and get ridof loop holes just will not work.  This is a cry for flattening theincome tax, which is what we have been doing since the 60&#8217;s which wasaccelerated since Reagan.  It will create a tax base that is moreunstable and thus runs even greater deficits during times of economicdecline not to mention the overall decline in total revenue collectedduring good times.  And, it totally ignores the issues of equality ofpower along with the concept of the commons.  You know, that We thePeople premise.     </div>
+<div></div>
+<p>But before you get to excited aboutthis suggesting or, that I am saying that the poor need to pay moretaxes and the rich are over taxed consider the tax table from 1936,its lowest income tax bracket is 4%.   This is on an income up to$4000.  Let&#8217;s bring that forward to 2010 using my <a href="http://www.measuringworth.com/calculators/compare/">favorite money converter</a>.  CPI states that $4000 is now $60,400.  Today&#8217;s rate for $16,750 to $68,000 is 15% instead of 4%.  Of course,I like the unskilled labor and nominal GDP/capita numbers of $145,000and $275,000 respectfully.</p>
+<p>Alright, I&#8217;ll be fair.  The lowest rate in1967 is 14% for up to $1000.  That figures to 2010 of $6540 CPI,$6670 unskilled and $11200 nominal GDP/capita.  Though, the $4000 in1936 is $9640 in 1967 which puts one in the 22% bracket ofthat year.  Using the $12000 for the top of that 1967 bracket brings us to$78,300 CPI adjusted gross income for 2010.  $78,300 puts one in the25% bracket for 2010.  Obviously another issue we have here when itcomes to setting up marginal rates based on historical records is howmuch the base (adjusted gross income) is effected by how the CPI iscalculated.  Any way you figure it, we have been pushing the marginalrate higher and deeper into the lower end of the income pool.
+<div></div>
+<div>Ok, onto the fondly remembered tax yearof 1936.  Next post. </div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/defining-rich-iv-corporate-vs-personal-tax-collection-patterns-1934-to-present.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sumner, Skidelsky, Keynes and Liquidity Traps</title>
+		<link>./../../2011/11/sumner-skidelsky-keynes-and-liquidity-traps.html</link>
+		<comments>./../../2011/11/sumner-skidelsky-keynes-and-liquidity-traps.html#respond</comments>
+		<pubDate>Tue, 08 Nov 2011 19:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic history]]></category>
+		<category><![CDATA[economic recovery]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[Mike Kimel]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/sumner-skidelsky-keynes-and-liquidity-traps.html</guid>
+		<description><![CDATA[by Mike Kimel I was searching for some information and I stumbled on a post Scott Sumner wrote last year about Robert Skidelsky&#8217;s biography of John Maynard Keynes. I haven&#8217;t read Skidelsky&#8217;s book, nor do I know Skidelsky, and its been awful long time since I read Keynes, but this seems an odd complaint: I’m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong><a href="http://presimetrics.com/">Mike Kimel</a></strong></p>
+<p>I was searching for some information and I stumbled on a post Scott Sumner wrote last year about <a href="http://www.themoneyillusion.com/?p=7914">Robert Skidelsky&#8217;s biography of John Maynard Keynes</a>. I haven&#8217;t read Skidelsky&#8217;s book, nor do I know Skidelsky, and its been awful long time since I read Keynes, but this seems an odd complaint:</p>
+<blockquote><p>I’m afraid that his analysis is both misleading and inaccurate. The US gradually depreciated the dollar between April 1933 and February 1934. During that period unemployment was nearly 25% and T-bill yields were close to zero. Keynes argued that monetary stimulus would not be effective under those circumstances, and Skidelsky seems to accept his interpretation (which was published in the NYT during December 1933.)</p>
+<p>[Note that Keynes certainly did believe in the &#8220;pushing on a string&#8221; theory&#8211;I frequently get commenters insisting that Keynes didn&#8217;t believe in liquidity traps.]</p>
+<p>Unfortunately, Keynes and Skidelsky are wrong. <a name="more"></a> The US Wholesale Price Index rose by more than 20% between March 1933 and March 1934. In the Keynesian model that’s not supposed to happen. The broader “Cost of Living” rose about 10%. Industrial production rose more than 45%.</p></blockquote>
+<p>Sumner goes on to impugn Skidelsky:</p>
+<blockquote><p>The &#8220;disappointing&#8221; results that Skidelsky mentions come from cherry-picking a few misleading data points.</p></blockquote>
+<p>All that seems very odd to me. If I were making an argument that conventional monetary policy doesn&#8217;t work in a liquidity trap, but that the traditional Keynesian prescription does, I&#8217;d start that argument with something very much like the sentences Sumner wrote right after stating &#8220;Unfortunately, Keynes and Skidelsky are wrong.&#8221;*</p>
+<p>Using the graphing tool from <a href="http://research.stlouisfed.org/fred2/graph/?id=CPIAUCNS#">FRED</a>, the Federal Reserve Economic Database maintained by the St. Louis Fed, we can show the one year percentage change in both PPI (producer price index) and CPI (consumer price index) from January 1932 to December 1935. 
+<p><a href="http://4.bp.blogspot.com/-kjiWj7_BMfg/TrgTPwr6pSI/AAAAAAAAApQ/YWfDI-_ssJc/s1600/Figure%2B1.jpg"><img src="http://4.bp.blogspot.com/-kjiWj7_BMfg/TrgTPwr6pSI/AAAAAAAAApQ/YWfDI-_ssJc/s320/Figure%2B1.jpg" border="0" alt=""></a></p>
+<p>Here&#8217;s what we see: after some massive deflation during the Great Depression, prices start to rise more or less when FDR took office. The annual percentage change in PPI peaked around 23% and change in February 1934, and the CPI peaked a few months later at about 5.6%. </p>
+<p><a href="http://www.themoneyillusion.com/?p=308">Elsewhere</a>, Sumner attributes that to:</p>
+<blockquote><p>We all know what happened next (well not exactly, but I’ll explain that in another post), so let’s jump ahead to 1933. FDR takes office in March, promising to boost wholesale prices back up to pre-Depression levels. He uses several tools, but the most effective was loosely based on Irving Fisher’s “compensated dollar plan.” Fisher’s plan was to raise the price of gold one percent each time the price level fell one percent. An obscure agricultural economist named George Warren was a big fan of Fisher’s idea, and sold it to FDR with all sorts of fancy charts.</p>
+<p>And it worked.</p>
+<p>Initially it worked better than any other macroeconomic policy in American history. But at first the policy’s success was mostly accidental, just a matter of talking the dollar down, not enacting Fisher’s specific plan. Nevertheless, prices immediately began rising sharply. Industrial production rose 57% between March and July, regaining over half the ground lost in the previous 3 1/2 years. Then in late July FDR decided to cartelize the economy and sharply raised wages (the <a href="http://en.wikipedia.org/wiki/National_Industrial_Recovery_Act">NIRA</a>) and industrial output immediately began falling. By late October FDR was desperate for another dose of inflation, and asked Warren to come up with a plan. They decided to have the US government buy gold at a price that would be continually increased in order to reflate the price level.</p></blockquote>
+<p>Sumner even helpfully tells us:</p>
+<blockquote><p>It was a very confusing plan, as they never bought enough gold to equate the government buying price with the free market price in London. </p></blockquote>
+<p>I agree that what Sumner describes is confusing. And yes, the times were desperate, and FDR was flailing around throwing all sorts of things against a wall to see what would work, but when I look at the graph above, and take into account the extremely rapid economic growth that took place during the New Deal era, I see a much simpler story.</p>
+<p>
+<ol>
+<li>Aggregate demand was very slack when FDR took office.</p>
+</li>
+<li>FDR showed up in Washington with a plan to start spending a lot of money and thus boost aggregate demand.
+</li>
+<li>The immediate effect was to convince factories they&#8217;d be running down their inventories. That boosted producer prices. It had a much smaller effect on consumer prices because everyone knew the gubmint was going to buy a heck of a lot more producer goods than consumer goods. (The government did buy some consumer goods for the various programs, plus there was a spillover effect, but as the graph clearly shows, the action was on the producer side.)
+</li>
+<li>After a bit of time, the public realized FDR wasn&#8217;t planning just a one-off, but rather a sustained program of purchases of industrial items. That led them to start using some of their idle capacity, which meant not just selling the fixed amount that was in inventory. The rate of price increases thus dropped.
+</li>
+<li>GDP increased at the fastest rate in the United States peacetime history since data has been kept. There was a big hiccup, of course, in 1937 when the government cut back on spending for a while.</li>
+</ol>
+<p>By contrast, here&#8217;s Sumner explaining his theory:</p>
+<blockquote><p>There is a great deal of evidence that I won&#8217;t get into here that suggests the suspension of the gold standard in March 1933, and gradual devaluation between April and February 1934, almost certainly explain most of the increase in goods prices, stock prices, and industrial production during that period. But why? Not because it boosted our trade balance, which actually worsened as the rapid recovery pulled in imports.</p>
+<p>Both Gauti and I believe that only the rational expectations hypothesis can explain these events. He focuses on how the regime change led to higher inflation expectations, and thus reduced real interest rates. I prefer to think in terms of specific policy signals sent as rising gold prices changed the future expected gold price, and hence the future expected money supply. I don&#8217;t see any non-Ratex explanation that can account for the extraordinary rise in prices and output during March-July 1933. Nominal interest rates didn&#8217;t change much, and open market purchases in 1932 (under the constraint of the gold standard) had accomplished little or nothing.</p></blockquote>
+<p>So&#8230;. his story requires the devaluation of the currency to worsen the trade balance, and rational expectations to cause a one time explosion in industrial prices and a rather smaller recovery in consumer prices. Rational expectations, however, that came an abrupt halt, at roughly the same amount of time one would predict companies might decide that demand will be sustained enough to start producing more rather than just selling off inventory sitting in warehouses. And his story doesn&#8217;t explain why growth was so much faster during the New Deal era than any other period of peacetime since the US began keeping data, nor why there was the big hiccup in 1937. </p>
+<p>Sumner is essentially trying to tell a story about an unusual set of events, but his story seems to assume that most extraordinary events of the era (and what sets that era apart) kind of just happened to occur for no particular reason so he misses the big picture and ends up focusing on details. With all due respect to Sumner, I prefer to think the US economy is not Forrest Gump.</p>
+<p>*I can imagine a &#8220;monetary&#8221; prescription that I think would help tremendously in a liquidity trap, but it doesn&#8217;t look at all like what was done in the 1930s, or what was done since 2007, or from what I can tell, what Sumner suggests. That can be a post for another time.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/sumner-skidelsky-keynes-and-liquidity-traps.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Kimel Curve and the Kitchen Sink, Part 1: All Years</title>
+		<link>./../../2011/10/the-kimel-curve-and-the-kitchen-sink-part-1-all-years.html</link>
+		<comments>./../../2011/10/the-kimel-curve-and-the-kitchen-sink-part-1-all-years.html#respond</comments>
+		<pubDate>Wed, 26 Oct 2011 21:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[Mike Kimel]]></category>
+		<category><![CDATA[taxation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/the-kimel-curve-and-the-kitchen-sink-part-1-all-years.html</guid>
+		<description><![CDATA[by >Mike Kimel I&#8217;ve been writing about the relationship between tax rates and growth since I started blogging in 2006. A lot of those posts have focused on the quadratic relationship between tax rates and growth. That is, it turns out that if you take US data going back to when the BEA started keeping [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>><a href="http://presimetrics.com/">Mike Kimel</a></strong></p>
+<p>I&#8217;ve been writing about the relationship between tax rates and growth since I started blogging in 2006. A lot of those posts have focused on the quadratic relationship between tax rates and growth. That is, it turns out that if you take US data going back to when the BEA started keeping track, 1929, you can easily build a model of the following form:</p>
+<p>% change in real GDP from t to t+1 = a + b*Top Marginal Tax Rate at time t<br />+ c* Top Marginal Tax Rate squared at time t </p>
+<p>I have modestly referred to that as the Kimel curve. Now, it turns out that for most variations on that theme I&#8217;ve come up with, b is positive, c is negative, and both are significant at the 5% or 10% level. That allows you to find a top marginal tax rate that maximizes growth&#8230; which turns out to be somewhere between 60% and 70% depending on how the model is specified.</p>
+<p>In this post I want to address a few criticisms by running two additional regressions with more or less the form. Parts of this may get a bit wonky but I&#8217;m going to keep it so that even if you&#8217;ve never done any statistical analysis, hopefully you&#8217;ll be able to follow the outcomes.</p>
+<p>In the first regression, I&#8217;m going to account for a few additional facts:<br />1. By going with every single observation the BEA produces, I&#8217;ve been accused of &#8220;cherry picking.&#8221; So I&#8217;m going to throw in a dummy variable for Hoover. <br />2. I&#8217;ve been told the only reason growth was so quick during the New Deal was that there was a bounceback effect from the Great Depression&#8230; so I&#8217;m throwing in a dummy variable for FDR&#8217;s peacetime years (i.e., 33-41).<br />3. I&#8217;ve been told WW2 biases the results&#8230;. so there&#8217;s a third dummy for 1942-1944, the fast growing years in WW2. <br />4. I&#8217;ve also included two demographic variables: the percentage of Americans 35 to 44 and the percentage of Americans 45 &#8211; 54. The latter group tends to be the highest income group these days, but in an earlier era more focused on manual labor, those 35 to 44 might have been higher paid. <br />5. For grins, I threw in a dummy variable which is equal to 1 if the President is a Republican and 0 otherwise. </p>
+<p>So&#8230; here&#8217;s what it looks like:
+<p><a href="http://4.bp.blogspot.com/-rOgMAImqGFw/Tqh1Mcp8S3I/AAAAAAAAAoU/xtQwc6aeAw8/s1600/figure%2B1%2B-%2Bkitchen%2Bsink.jpg"><img src="http://4.bp.blogspot.com/-rOgMAImqGFw/Tqh1Mcp8S3I/AAAAAAAAAoU/xtQwc6aeAw8/s320/figure%2B1%2B-%2Bkitchen%2Bsink.jpg" border="0" alt=""></a></p>
+<p>So what does it all mean? Well, this set of variables explains about 43% of the observed variation in growth rates over the period for which we have data (see the adjusted R2). There&#8217;s obviously room to improve the model, variables I&#8217;m not accounting for, etc.</p>
+<p>The percentage of Americans 35 to 44 has a positive coefficient and is almost significant at 10%. We&#8217;re almost at the point where we&#8217;d be comfortable saying as that percentage increases, growth increases. The percentage of Americans 45 &#8211; 54 has a negative coefficient, but isn&#8217;t close to being significant. </p>
+<p>Not surprisingly, the Hoover dummy is associated with economic shrinkage, FDR&#8217;s peacetime period is associated with positive growth, and 1942 &#8211; 1944 is associated with even faster economic growth.</p>
+<p>The Republican dummy is not significant &#8211; any difference in the growth rate observed between the two parties can be explained by other factors. Which other factors?</p>
+<p>Well, the top marginal tax rate and the top marginal tax rate squared are both significant &#8211; the former is positive and the latter is negative, which means they trace out the desired upside-down-U shape. </p>
+<p>Oh&#8230; and the top of the curve happens when tax rates are at 64%. That is, the fastest growth rates seem to occur when the top marginal tax rate is around 64%. Now, I&#8217;ve had post after post on this topic, and the top of the curve always seems to occur in more or less in the same place. It isn&#8217;t a coincidence folks. </p>
+<p>I&#8217;ll post results of the second regression in my next post in the series. That regression will focus on the period since Reagan took office and thus will only include data from 1981 to the present. What does it say? Well, a hint: if you don&#8217;t like the results shown in this post, you won&#8217;t be happy about that one either. But remember, I&#8217;m just the messenger. The data is what the data is, and if it isn&#8217;t showing what you think it should, its up to you figure out what&#8217;s wrong with the analysis or with the data, to pontificate wisely and inaccurately, to ignore the evidence, or to change your mind. </p>
+<p>&#8212;</p>
+<p>If anyone has a line on a good inequality series with annual data that goes back to 1929, please let me know. I&#8217;d like to drop it into the model. I&#8217;d also love a good proxy for regulation. Don&#8217;t be afraid to offer other suggestions for data to drop into the mix are welcome too. I&#8217;m like a DJ, I take requests, but it helps if you can point to whatever data you want me to use. </p>
+<p>&#8212;</p>
+<p>As always, if you want my spreadsheets drop me a line at &#8220;mike&#8221; period &#8220;kimel&#8221; (note &#8211; one m only in my last name!!!!) at gmail.com.</p>
+<p>&#8212;</p>
+<p>Thanks to Bill McBride for pointing toward the demographic data and m. jed for suggesting its use.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/the-kimel-curve-and-the-kitchen-sink-part-1-all-years.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Business Destruction is Never Creative, Always Fatal</title>
+		<link>./../../2011/10/business-destruction-is-never-creative-always-fatal.html</link>
+		<comments>./../../2011/10/business-destruction-is-never-creative-always-fatal.html#respond</comments>
+		<pubDate>Mon, 03 Oct 2011 20:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic history]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[labor share]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/business-destruction-is-never-creative-always-fatal.html</guid>
+		<description><![CDATA[by Mike Kimel Via asymptosis this cartoon&#8230;.]]></description>
+				<content:encoded><![CDATA[<p>by <strong><a href="http://presimetrics.com/">Mike Kimel</a></strong></p>
+<p>Via <a href="http://www.asymptosis.com/a-brief-history-of-corporate-whining.html">asymptosis</a> this cartoon&#8230;.
+<p><a href="http://www.leftycartoons.com/a-brief-history-of-corporate-whining/"><img src="http://2.bp.blogspot.com/-fcJin8sMe8U/ToohRa4AFKI/AAAAAAAAAlo/8z32pTm4Yz4/s320/labor_history.png" border="0" alt=""></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/business-destruction-is-never-creative-always-fatal.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Basic Macroeconomics</title>
+		<link>./../../2011/09/basic-macroeconomics.html</link>
+		<comments>./../../2011/09/basic-macroeconomics.html#respond</comments>
+		<pubDate>Thu, 22 Sep 2011 12:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econnomic growth]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/basic-macroeconomics.html</guid>
+		<description><![CDATA[by Mike Kimel Recently I had the opportunity to speak to Professor David Cohen&#8217;s class on the US Presidency in the Political Science department at the University of Akron. My talk was structured around three questions involving some extremely simple recent economic history. None of the questions were trick questions. The questions appear below. &#8212; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p>Recently I had the opportunity to speak to Professor David Cohen&#8217;s class on the US Presidency in the Political Science department at the University of Akron.  </p>
+<p>My talk was structured around three questions involving some extremely simple recent economic history.  None of the questions were trick questions.  </p>
+<p>The questions appear below.</p>
+<p>&#8212;</p>
+<p>Question 1. From 1980 to 1992, the top marginal tax income tax rate was:<br />-70% in 1980<br />-69.125% in 1981<br />-50% from 1982 &#8211; 1986<br />-38.25% in 1987<br />-28% from 1988 &#8211; 1990<br />-31% in 1991 and 1992 </p>
+<p>Given this pattern, which of the two graphs that follows do you expect shows the growth rate in real GDP over that period?</p>
+<p><a href="http://1.bp.blogspot.com/-0IVOmHR3b0w/TnqF-FHwQ5I/AAAAAAAAAtg/pTSbjQUzWb4/s1600/davidcohen1.jpg"><img src="http://1.bp.blogspot.com/-0IVOmHR3b0w/TnqF-FHwQ5I/AAAAAAAAAtg/pTSbjQUzWb4/s320/davidcohen1.jpg" border="0" alt=""></a>Figure 1 Option A</p>
+<p>Option A:  A few years after the first tax cuts, there was one year of unusually strong growth.  Subsequent growth slowed a lot, and continued slowing as tax rates fell further.  </p>
+<p>or&#8230;</p>
+<p><a href="http://3.bp.blogspot.com/-mOtGq6nLrNQ/TnqF-WodkuI/AAAAAAAAAto/i4QljAgnFuw/s1600/davidcohen1B.jpg"><img src="http://3.bp.blogspot.com/-mOtGq6nLrNQ/TnqF-WodkuI/AAAAAAAAAto/i4QljAgnFuw/s320/davidcohen1B.jpg" border="0" alt=""></a>Figure 1 Option B</p>
+<p>Option B:  The more tax rates were cut, the faster the economy grew. And then Bush I broke his “read my lips, no new taxes” promise and the economy slowed again.</p>
+<p>&#8212;</p>
+<p>Question 2.  <br />The following is the list of eight year administrations since 1929:  <br />-FDR (1933 – 1941)<br />-Truman (1945 – 1953)<br />-Ike (1953 – 1961)<br />-JFK/LBJ (1961 – 1969)<br />-Nixon/Ford (1969 – 1977)<br />-Reagan (1981 &#8211; 1989)<br />-Clinton (1993 – 2001)<br />-Bush 2 (2001 – 2009)<br />(FDR&#8217;s first 8 years are included, but the War years are left out.  Also, Truman took over a few months into the term.)</p>
+<p>It turns out that the degree to which each administration cut the tax burden (i.e., current tax receipts/GDP) during its first two years in office seems to strongly affect the growth rate in real GDP in the subsequent six years in office.  (E.g., the amount by which Reagan cut the tax burden from 1980, Carter&#8217;s last year in office, to 1982 seems to strongly affect the annualized growth rate in real GDP from 1982 to 1988.)  </p>
+<p>Which of the following two graphs do you think best explains the relationship that was observed between the change in the tax burden in the first two years of the administration and the subsequent growth in real GDP over the remaining six years?</p>
+<p><a href="http://2.bp.blogspot.com/-eM39pnOgwxM/TnqF-vpraHI/AAAAAAAAAtw/1WNE6aZTWpY/s1600/davidcohen2A.jpg"><img src="http://2.bp.blogspot.com/-eM39pnOgwxM/TnqF-vpraHI/AAAAAAAAAtw/1WNE6aZTWpY/s320/davidcohen2A.jpg" border="0" alt=""></a>Figure 2 Option A</p>
+<p>Option A:  Administrations which reduced tax burdens early on enjoyed rapid growth later.   Administrations which increased tax burdens early had poor growth later.</p>
+<p>or</p>
+<p><a href="http://2.bp.blogspot.com/-CmRc8O0GtWQ/TnqF-nZbohI/AAAAAAAAAt4/DC-FWjkcewo/s1600/davidcohen2B.jpg"><img src="http://2.bp.blogspot.com/-CmRc8O0GtWQ/TnqF-nZbohI/AAAAAAAAAt4/DC-FWjkcewo/s320/davidcohen2B.jpg" border="0" alt=""></a>Figure 2 Option B</p>
+<p>Option B:  Administrations which lowered tax burdens early on suffered through poor growth later.   Administrations which raised tax burdens early had strong growth later.</p>
+<p>&#8212;</p>
+<p>Question 3<br />Reaganomics involved cutting taxes and reducing regulation.  The New Deal (for our purposes, not including World War 2 years) involved tax hikes and increased government control over the economy.  Which of the following two graphs shows the growth rate in Real GDP over the Reagan and FDR years?</p>
+<p><a href="http://4.bp.blogspot.com/-9IpU47ET_us/TnqGHv6dlwI/AAAAAAAAAuA/_kPqyaxbwZw/s1600/davidcohen3A.jpg"><img src="http://4.bp.blogspot.com/-9IpU47ET_us/TnqGHv6dlwI/AAAAAAAAAuA/_kPqyaxbwZw/s320/davidcohen3A.jpg" border="0" alt=""></a>Figure 3 Option A.  </p>
+<p>Option A.  Growth was faster under Reagan than under FDR.</p>
+<p><a href="http://3.bp.blogspot.com/-Wub7tnxi1nQ/TnqGH0q_6oI/AAAAAAAAAuI/-vGrMgSPBRo/s1600/davidcohen3B.jpg"><img src="http://3.bp.blogspot.com/-Wub7tnxi1nQ/TnqGH0q_6oI/AAAAAAAAAuI/-vGrMgSPBRo/s320/davidcohen3B.jpg" border="0" alt=""></a>Figure 3 Option B.  </p>
+<p>Option B.  Growth was faster under FDR than under Reagan</p>
+<p>(ANSWERS AFTER THE JUMP)<br /><a name="more"></a></p>
+<p>The answers&#8230;<br />1.  Option A:  A few years after the first tax cuts, there was one year of unusually strong growth.  Subsequent growth slowed a lot, and continued slowing as tax rates fell further.   <br />2.  Option B:  Administrations which lowered tax burdens early on suffered through poor growth later.   Administrations which raised tax burdens early had strong growth later.<br />3.  Option B.  Growth was faster under FDR than under Reagan.  Quite a bit faster, in fact.</p>
+<p>By the way&#8230; in each of the questions, the data for both options A and B was &#8220;real.&#8221;  Its just the wrong answer, in each case, the growth rates did not match the taxes for any given year, but rather were sorted in order to fit the story line that everyone seems to believe.  Also, for Question 2, I could have used the first year, the first three years, the first four years, the first six years, or the first seven years rather than the first two years of the administration v. the remaining years of growth and gotten similar graphs.  Using the tax change for the first five years v. the annualized change in growth fro the subsequent three years shows almost no correlation whatsoever.  My guess is that&#8217;s the outlier, given every other combination shows a recognizable story.</p>
+<p>Its also worth noting&#8230; the three questions I picked are not &#8220;gotcha&#8221; questions or special cases.  They&#8217;re central to the macroeconomic theory that has prevailed in the United States for the past few decades, and which American economists have managed to sell to the rest of the developed world since about 1990.  The Reagan tax cuts are usually presented as exhibit A that tax cuts &#8220;work.&#8221;  But I could have used Exhibit B (the so-called Kennedy tax cuts) instead.  It wouldn&#8217;t have made a difference.  The second question is an attempt to show how policies affect the economy the entire time they are in effect.  Essentially, all the data available since the BEA began computing GDP is there, except the Hoover years, the Bush 1 years, the Carter years, and WW2.    The third question compares what are often referred to as the worst economic policies this country enacted in the past 100 years to what are often referred as the paragon of economic policies in the same period.  </p>
+<p>I&#8217;m sad to say I&#8217;m confident most economics professors in the United States would get the three questions wrong.  I&#8217;m also sad to say, I think it is no more possible to explain the US economy without knowing these facts than it is to produce a useful theory of the solar system assuming turtles all the way down.  </p>
+<p>And since most economics professors wouldn&#8217;t get it right, that&#8217;s what they&#8217;ve been teaching.   I would venture to guess, in fact, that a student at, say U of Chicago or George Mason University (to use the flagships for two of the more popular &#8220;schools of thought&#8221;)  is more likely to get these questions wrong after taking an economics course than before.  And now, after a few decades, its now popular wisdom and the foundation of our economy.  If you&#8217;ve been wondering what caused The Great Stagnation and the mess we&#8217;re in now, look no farther.  </p>
+<p>As always, if anyone wants my spreadsheets, drop me a line.  I&#8217;m at my first name (mike) period my last name (kimel &#8211; one m only!!) at gmail.com.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/basic-macroeconomics.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

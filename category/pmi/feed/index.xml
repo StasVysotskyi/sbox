@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PMI &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Global PMIs and Fed Policy: they&#8217;re linked</title>
+		<link>./../../2011/08/global-pmis-and-fed-policy-theyre-linked.html</link>
+		<comments>./../../2011/08/global-pmis-and-fed-policy-theyre-linked.html#respond</comments>
+		<pubDate>Mon, 01 Aug 2011 23:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[global economies]]></category>
+		<category><![CDATA[PMI]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/global-pmis-and-fed-policy-theyre-linked.html</guid>
+		<description><![CDATA[Today a host of global purchasing managers indices (PMIs) reiterated that the global economy is slowing&#8230;.quickly. Within 24 hours, China, the US, and the euro area all reported July PMIs falling toward the feared 50 (below which the manufacturing industry is contracting) &#8211; 50.7, 50.9, and 50.4, respectively. The UK PMI fell below 50 to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today a host of global purchasing managers indices (PMIs) reiterated that the global economy is slowing&#8230;.quickly.</p>
+<p>Within 24 hours, <a href="http://www.marketwatch.com/story/china-official-pmi-slips-to-507-in-july-2011-07-31">China</a>, the <a href="http://www.ism.ws/ISMReport/MfgROB.cfm?navItemNumber=12942">US</a>, and the <a href="http://www.markiteconomics.com/MarkitFiles/Pages/ViewPressRelease.aspx?ID=8369">euro area</a> all reported July PMIs falling toward the feared 50 (below which the manufacturing industry is contracting) &#8211; 50.7, 50.9, and 50.4, respectively. The UK PMI fell below 50 to <a href="http://www.markiteconomics.com/MarkitFiles/Pages/ViewPressRelease.aspx?ID=8369">49.1 in July</a>.</p>
+<p>I would posit (and I believe that others have, too, <a href="http://www.economonitor.com/edwardhugh/">like Edward Hugh</a>) that this is directly related to Fed policy, specifically that of quantitative easing (QE).</p>
+<p><a href="http://2.bp.blogspot.com/-JNmHD3tiZuA/TjbZ29TmJTI/AAAAAAAAD2w/kqgH80cygTU/s1600/global_pmis_chart.jpg"><img src="http://2.bp.blogspot.com/-JNmHD3tiZuA/TjbZ29TmJTI/AAAAAAAAD2w/kqgH80cygTU/s400/global_pmis_chart.jpg" border="0" alt=""></a><br />READ MORE AFTER THE JUMP!<br /><a name="more"></a>The chart above illustrates the stated PMIs alongside the dates of a shift in the <a href="http://www.newyorkfed.org/markets/pomo/display/index.cfm">Federal Reserve&#8217;s QE policy</a>. The shorter bars indicate those dates when the Fed ended QE and announced that it would reinvest maturing proceeds. On the other hand, the full bars illustrate the outset of QE.</p>
+<p>Falling PMIs correlate with the end of QE. New QE correlates with a rebound in global PMIs. Given this correlation and the <a href="http://www.angrybearblog.com/2011/07/q2-us-gdp-report-just-terrible.html">latest GDP release</a>, I expect that talk of QE anew to surface.</p>
+<p>Rebecca Wilder</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/global-pmis-and-fed-policy-theyre-linked.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

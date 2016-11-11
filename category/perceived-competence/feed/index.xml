@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>perceived competence &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>A web of privilege supports this so-called meritocracy</title>
+		<link>./../../2012/05/a-web-of-privilege-supports-this-so-called-meritocracy.html</link>
+		<comments>./../../2012/05/a-web-of-privilege-supports-this-so-called-meritocracy.html#respond</comments>
+		<pubDate>Wed, 16 May 2012 13:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[meritocracy]]></category>
+		<category><![CDATA[perceived competence]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/a-web-of-privilege-supports-this-so-called-meritocracy.html</guid>
+		<description><![CDATA[Brad DeLong points to an article by Gary Younge in The Guardian: A web of privilege supports this so-called meritocracy: Shortly after Mitt Romney&#8217;s failed 2008 campaign for the Republican nomination his son Tagg set up a private equity fund with the campaign&#8217;s top fundraiser. One of the first donors was his mum, Anne. Next [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://delong.typepad.com/sdj/2012/05/a-web-of-privilege-supports-this-so-called-meritocracy-gary-younge-comment-is-free-the-guardian.html#comments">Brad DeLong</a> points to an article by Gary Younge in <i>The Guardian</i>:<br />
+<blockquote><a href="http://www.guardian.co.uk/commentisfree/2012/may/06/leveson-murdoch-cameron-brooks-privilege">A web of privilege supports this so-called meritocracy</a>: Shortly after Mitt Romney&#8217;s failed 2008 campaign for the Republican nomination his son Tagg set up a private equity fund with the campaign&#8217;s top fundraiser. One of the first donors was his mum, Anne. Next came several of his dad&#8217;s financial backers. Tagg had no experience in the world of finance, but after two years in the middle of a deep recession the company had netted $244m from just 64 investors. </p></blockquote>
+<blockquote><p>Tagg insists that neither his name nor the fact that his father had made it clear he would run for the presidency again had anything to do with his success. &#8220;The reason people invested in us is that they liked our strategies,&#8221; he told the New York Times. </p></blockquote>
+<blockquote><p>Class privilege, and the power it confers, is often conveniently misunderstood by its beneficiaries as the product of their own genius rather than generations of advantage, stoutly defended and faithfully bequeathed. Evidence of such advantages is not freely available. It is not in the powerful&#8217;s interest for the rest of us to know how their influence is attained or exercised. But every now and then a dam bursts and the facts come flooding forth&#8230;</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/a-web-of-privilege-supports-this-so-called-meritocracy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vp pick &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Romney&#8217;s Rock &#038; Hard Place: VP&#8217;s Tax Returns</title>
+		<link>./../../2012/08/romneys-rock-hard-place-vps-tax-returns.html</link>
+		<comments>./../../2012/08/romneys-rock-hard-place-vps-tax-returns.html#respond</comments>
+		<pubDate>Mon, 06 Aug 2012 19:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Romney]]></category>
+		<category><![CDATA[tax returns]]></category>
+		<category><![CDATA[vp pick]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/romneys-rock-hard-place-vps-tax-returns.html</guid>
+		<description><![CDATA[If my name was Harry Reid I would be reserving one question for Romney&#8217;s announcement of his VP pick: &#8220;Governor, how many years of tax forms did you request from Governor/Senator Jindal, Pawlenty, Portman?&#8221; And August 27th is not that far away. Particularly if the idea is to announce the VP pick prior to the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If my name was Harry Reid I would be reserving one question for Romney&#8217;s announcement of his VP pick:</p>
+<p>&#8220;Governor, how many years of tax forms did you request from Governor/Senator Jindal, Pawlenty, Portman?&#8221;</p>
+<p>And August 27th is not that far away. Particularly if the idea is to announce the VP pick prior to the Convention itself.</p>
+<p>Rock and hard place. Goose and gander. Pot and kettle. Scylla and Carybdis.</p>
+<p>As Shakespeare might have said:<br /> &#8220;Double, double (standard), and trouble.<br />Fire burn and cauldron bubble&#8221;</p>
+<p>I don&#8217;t see how Romney can chill this particular pot in time to keep it from burning him.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/romneys-rock-hard-place-vps-tax-returns.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zero rate bound &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Fed Policy</title>
+		<link>./../../2010/02/fed-policy.html</link>
+		<comments>./../../2010/02/fed-policy.html#respond</comments>
+		<pubDate>Wed, 10 Feb 2010 14:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[interest rates]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[zero rate bound]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/fed-policy.html</guid>
+		<description><![CDATA[Discussion point: Is it time for the Fed to start contracting its&#8217; balance sheet and otherwise withdrawing the special financing it provided while it was faced with the zero interest rate boundand preparing to soon raise fed funds. My fed policy index says the zero bound should no longer apply and that it is time [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Discussion point:  Is it time for the Fed to start contracting its&#8217; balance sheet and otherwise withdrawing the special financing it provided while it was faced with the zero interest rate bound<br />and preparing to soon raise fed funds.</p>
+<p>My fed policy index says the zero bound should no longer apply and that it is time for the fed to start preparing to soon raise fed funds.</p>
+<p><a href="http://4.bp.blogspot.com/_Zh1bveXc8rA/S3K47SHOx6I/AAAAAAAABBI/_fgNVL8aD04/s1600-h/Clipboard01.jpg"><img src="http://4.bp.blogspot.com/_Zh1bveXc8rA/S3K47SHOx6I/AAAAAAAABBI/_fgNVL8aD04/s320/Clipboard01.jpg" alt="" border="0"></a>This is my version of the Taylor Rule.  The biggest difference is that my index gives inflation and unemployment equal weight while the standard Taylor Rule gives inflation double the weight of the various measures of excess capacity.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/fed-policy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fortune 400 &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>A look at tax havens by the Fortune 500</title>
+		<link>./../../2012/10/a-look-at-tax-havens-by-the-fortune-500.html</link>
+		<comments>./../../2012/10/a-look-at-tax-havens-by-the-fortune-500.html#respond</comments>
+		<pubDate>Thu, 18 Oct 2012 09:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Fortune 400]]></category>
+		<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[repatriation]]></category>
+		<category><![CDATA[tax havens]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/a-look-at-tax-havens-by-the-fortune-500.html</guid>
+		<description><![CDATA[by Kenneth Thomas A look at tax havens by the Fortune 500 According to a new report today from Citizens for Tax Justice, the 285 members of the Fortune 500 that have parked money overseas would owe an estimated $433 billion in taxes if and when it is repatriated. No wonder these companies are working [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Kenneth Thomas</p>
+<p>A look at tax havens by the Fortune 500</p>
+<p>According to a <a href="http://ctj.org/ctjreports/2012/10/which_fortune_500_companies_are_sheltering_income_in_overseas_tax_havens.php">new report</a> today from Citizens for Tax Justice, the 285 members of the Fortune 500 that have parked money overseas would owe an estimated $433 billion in taxes if and when it is repatriated. No wonder these companies are working so hard to get a &#8220;<a href="http://idealab.talkingpointsmemo.com/2012/03/white-house-unmoved-by-apples-offshore-cash-problem.php?ref=fpnewsfeed">repatriation holiday</a>&#8221; even though the one given in 2004 did not yield any significant new investment, but lots of dividends and stock buybacks.    </p>
+<p>The new report list 10 companies with $209 billion parked overseas that report the taxes they would owe on these profits (only 47 do so). These companies all report that they would owe 32-35% on their money, which indicates they have not paid any taxes abroad on it; in other words, the money is in tax havens.    </p>
+<p><em><strong></strong></em><em><strong><img alt="" src="http://ctj.org/images/2012/offshorechart2.jpg"></strong></em>    </p>
+<p>Note that some estimates place these figures even higher; in March, <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/03/apple-whines-about-having-to-pay-taxes.html">I reported</a> that Apple&#8217;s overseas stash was estimated at $64 billion.    </p>
+<p>Based on the entire 47 companies that report their estimated tax bill, CTJ came up with an average tax rate of just over 27%.</p>
+<p><a name="more"></a></p>
+<p>Multiplied by the $1.584 trillion in overseas cash held by the 285 corporations (up from about $1 trillion <a href="http://idealab.talkingpointsmemo.com/2012/03/white-house-unmoved-by-apples-offshore-cash-problem.php?ref=fpnewsfeed">estimated in March</a>) yields the figure of $433 billion in taxes that would be due if the income were repatriated or the deferral provision for overseas income ended.    </p>
+<p>What does it all mean? As U.S. companies continue to enjoy record profits, they are declaring them to be foreign profits at a high rate, as we can see in the increase from the March to October estimates. Numerous tech and financial companies have stashed literally tens of billions of dollars, <i>each</i>, in <a href="http://middleclasspoliticaleconomist.blogspot.com/2011/11/tax-havens-cost-middle-class-untold.html">offshore tax havens</a>, which drain billions a year from tax coffers that must be made up with higher taxes on the middle class, larger budget deficits, or cuts in programs. And as we have seen from the two tax returns <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/07/what-is-mitt-romney-hiding.html">Mitt Romney</a> has released, there is <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/03/apple-whines-about-having-to-pay-taxes.html">one tax system for the 1%</a> and another one for the rest of us.</p>
+<p>crossposted with <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/10/fortune-500-deferring-433-billion-in.html" target="_blank">Middle Class Political Economist</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/a-look-at-tax-havens-by-the-fortune-500.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

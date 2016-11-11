@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AMA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Guest post: AMA backs the mandate…</title>
+		<link>./../../2011/06/guest-post-ama-backs-the-mandate.html</link>
+		<comments>./../../2011/06/guest-post-ama-backs-the-mandate.html#respond</comments>
+		<pubDate>Thu, 23 Jun 2011 14:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ACA]]></category>
+		<category><![CDATA[AMA]]></category>
+		<category><![CDATA[individual mandate]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/guest-post-ama-backs-the-mandate.html</guid>
+		<description><![CDATA[Guest post by Michael Halasy AMA backs the mandate… The AMA has its annual House of Delegates meeting last week, and boy, are they concerned. Recent evidence has suggested that they have lost 12,000 members since 2009. Much of this has been due to the AMA’s support of the PPACA. Today, the HOD voted to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Guest post by <strong>Michael Halasy</strong></p>
+<p>AMA backs the mandate…   </p>
+<p>The AMA has its annual House of Delegates meeting last week, and boy, are they concerned. Recent evidence has suggested that they have lost 12,000 members since 2009. Much of this has been due to the AMA’s support of the PPACA. Today, the HOD voted to maintain the support of the individual mandate, (Chicago Tribune story <a href="http://www.chicagotribune.com/news/local/breaking/chibrknews-ama-debates-health-insurance-mandate-reports-membership-loss-20110619" target="_blank">here</a>).</p>
+<p>The problem with this concern is that it isn’t new. The AMA has been losing members for many years. They have also been losing money.  <br /><a name="more"></a>At one point in there history, the AMA was powerful, perhaps one of the most powerful organizations in the country. Politicians feared them. People respected them. But then, with the rampant specialization that really began in the early 1960’s, physicians started to jump ship. Many began to only belong to the rapidly rising specialty organizations, believing that they could tend to their interests as a specialty physician better.<br />Add to this, that the AMA chose to have battles with…..well, everyone. They fought against group practices, labeling them “communist”. They challenged the creation of HMO’s and vigorously opposed Medicare. They fought against the Doctor of Osteopathy (D.O.) profession. They challenged the creation of the Nurse Practitioner and Physician Assistant professions, and have continually challenged Podiatrists, Chiropracters, Optometrists, Psychologists, and virtually everyone NOT an M.D. <br />The end result was an organization that became a caricature. A cartoon. Like the boy that cried wolf, the AMA lost respect and wasted precious political capital in far too many small skirmishes that could have been negotiated instead of battled. During this time they lost a lot of members. Determining the peak of membership is difficult as the AMA does not make that public, but it seems that membership during the aughts has decreased by about 2-3% annually, with this latest decreased of 5% being the most substantial. This means that once you discount the medical students, residents, and fellows, you have at best about 19-20% of physicians represented. Once you discount retirees the number is closer to 15-16% of practicing physicians. <br />This is too bad, but this is a situation that they themselves created.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/guest-post-ama-backs-the-mandate.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

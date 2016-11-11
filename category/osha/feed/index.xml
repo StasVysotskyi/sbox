@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>osha &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>OSHA</title>
+		<link>./../../2008/02/osha.html</link>
+		<comments>./../../2008/02/osha.html#comments</comments>
+		<pubDate>Sat, 09 Feb 2008 17:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[osha]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/02/osha.html</guid>
+		<description><![CDATA[This chart was published the Division of Labor Blog and is getting a lot of references in the libertarian blogs.http://divisionoflabour.com/archives/004409.php But it is an example of the danger of a little knowledge. OSHA was created under Nixon as part of his &#8220;Simplifying Government Initiative&#8221;. The creation of OSHA was just a bureaucratic reorganization that involve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/R63OqZhuVUI/AAAAAAAAAHA/fJyxUjtWACc/s1600-h/Clipboarda1.jpg"> <img src="http://3.bp.blogspot.com/_Zh1bveXc8rA/R63OqZhuVUI/AAAAAAAAAHA/fJyxUjtWACc/s320/Clipboarda1.jpg" alt="" border="0"></a></p>
+<p>This chart was published the Division of Labor Blog  and is getting a lot of references in the libertarian blogs.<br />http://divisionoflabour.com/archives/004409.php</p>
+<p>But it is an example of the danger of a little knowledge.  OSHA was created under Nixon as part of his &#8220;Simplifying Government Initiative&#8221;.  The creation of OSHA was just a bureaucratic reorganization that involve no new laws or hiring of additional regulator.</p>
+<p>Over the years Congress  passed laws at various times regulating safety measures in different industries.  Each time they would task some government department like the Department of Agriculture, Interior, Labor, Commerce or Treasury with the job of enforcing that law and writing and enforcing specific regulation.  Consequently, over the years numerous regulatory agencies came to be located throughout the Federal bureaucracy.</p>
+<p>All OSHA did was reorganize all these regulatory agencies under one umbrella organization.  It was not accompanied by any new laws or an expansion of the regulatory apparatus.</p>
+<p>So there was no reason for the creation of OSHA to create a break in the trend of workplace facilities and just another display of a little knowledge being a dangerous thing.</p>
+<p>Also notice that it is not on a log scale, so it is essentially impossible to determine the trend.<br />For all anyone knows there may have been several trend breaks over this period.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/02/osha.html/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

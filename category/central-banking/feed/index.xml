@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>central banking &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Worthwhile British Initiative</title>
+		<link>./../../2012/04/worthwhile-british-initiative.html</link>
+		<comments>./../../2012/04/worthwhile-british-initiative.html#respond</comments>
+		<pubDate>Wed, 18 Apr 2012 04:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BoE]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[central banking]]></category>
+		<category><![CDATA[economic politics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/worthwhile-british-initiative.html</guid>
+		<description><![CDATA[Today&#8217;s FT (front page, below the fold*) declares that Mark Carney &#8220;has been informally approached as a candidate&#8221; to head the Bank of England &#8220;in June next year.&#8221; He is currently governor of the Bank of Canada. It would be a good choice. As the speeches at the link above note, Carney is no fool, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today&#8217;s FT (front page, below the fold*) declares that <a href="http://www.bis.org/author/mark_carney.htm">Mark Carney</a> &#8220;has been informally approached as a candidate&#8221; to head the Bank of England &#8220;in June next year.&#8221;  He is currently governor of the Bank of Canada.</p>
+<p>It would be a good choice.  As the speeches at the link above note, Carney is no fool, which often seems rather more than one can say for many members of David Cameron&#8217;s Administration.**</p>
+<p>Of course, the BoE already has one foreigner who should be considered as Merwyn King&#8217;s successor—but <a href="http://en.wikipedia.org/wiki/Adam_Posen">Adam Posen is American</a>.  As the FT anonymously notes:<br />
+<blockquote>Naming a foreigner as Governor&#8230;would break with tradition, although Mr. Carney has a British wife, studied at Oxford university [sic] and worked at [The Giant Vampire Squid] in London early in his career.</p>
+<p>&#8220;As a Canadian national, he is a subject of the Queen,&#8221; said one supporter. &#8220;That is important.&#8221;</p></blockquote>
+<p>I&#8217;m now waiting for <a href="http://blogs.reuters.com/felix-salmon">Felix Salmon</a> to start a &#8220;Posen for the BoE Governorship&#8221; campaign which, sadly, is likely to be about as successful as his &#8220;<a href="http://blogs.reuters.com/felix-salmon/2012/04/03/does-anybody-at-all-think-kims-a-better-candidate-than-ngozi/">Ngozi Okonjo-Iweala for the World Bank Presidency</a>&#8221; campaign.</p>
+<p>*no link&#8211;being a print subscriber, online access is limited to PDFs, and the website is quite unfriendly to non-online subscribers</p>
+<p>**Cameron&#8217;s choices remind one that however pathetic Tim Geithner is, it is possible to do worse.  I mean, really, <a href="http://delong.typepad.com/sdj/2012/01/britain-in-the-1930s-and-britain-today.html">George Effing Osborne</a>? A man who supposedly <a href="http://en.wikipedia.org/wiki/George_Osborne">prepared for five years in the &#8220;Shadow&#8221; role</a> and came up with <a href="http://www.ons.gov.uk/ons/rel/naa2/quarterly-national-accounts/q4-2011/stb---quarterly-national-accounts-gdp-q4-2011.html#tab-GDP-analysed-by-expenditure-categories--chained-volume-measures--Table-C2">this shite</a>?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/worthwhile-british-initiative.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

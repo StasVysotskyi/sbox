@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Worthwhile Canadian Initiative &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Econo blogging</title>
+		<link>./../../2012/11/econo-blogging.html</link>
+		<comments>./../../2012/11/econo-blogging.html#respond</comments>
+		<pubDate>Thu, 29 Nov 2012 14:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[marginal costs]]></category>
+		<category><![CDATA[modeling]]></category>
+		<category><![CDATA[Nick Rowe]]></category>
+		<category><![CDATA[Worthwhile Canadian Initiative]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/econo-blogging.html</guid>
+		<description><![CDATA[I have written several posts pointing to the role economics blogs play in the media, and am sorting out strengths and weakness to be addressed at Angry Bear in our own content. Nick Rowe  at Worthwhile Canadian Initiative posts Four MC curves and two PPFs.  The comments flesh out the ideas involved in a beginning econ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have written several posts pointing to the role economics blogs play in the media, and am sorting out strengths and weakness to be addressed at Angry Bear in our own content.</p>
+<p><a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2012/11/four-mc-curves-and-two-ppfs.html" target="_blank">Nick Rowe</a>  at Worthwhile Canadian Initiative posts <i>Four MC curves and two PPFs.  </i>The comments flesh out the ideas involved in a beginning econ class, and provide a bit of the human side of teaching economic concepts of marginal cost, average cost, real world and the smoothing from economics modeling aggregates.  Of course I read him and Frances regularly.</p>
+<p> On the other hand, as Steven Colbert (representing common sentiment) responded to Warren Buffet&#8217;s explanation of his position on taxes and tax code the other night, &#8220;Why do I find this interesting and yet am so bored?&#8221;  I get this sort of reaction sometimes in my own circles, as people run to the exits .  It forces me to consider my own social skills as well as what to offer readers.  <img src="https://s.w.org/images/core/emoji/2/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p> Our own Steve Roth is sorting out <a href="http://www.angrybearblog.com/2012/11/modeling-wealth-income-and-saving.html" target="_blank">his own understanding of models</a> with Nick Rowe in a manner I find refreshing to the extent that  bloggers can add to our understanding in a back and forth manner without shouting out the truth of things.  Thanks guys.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/econo-blogging.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

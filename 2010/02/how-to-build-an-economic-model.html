@@ -1,0 +1,492 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Angry Bear &raquo; How to Build an Economic Model</title>
+<link href='./../../favicon.ico' rel='icon' type='image/vnd.microsoft.icon'/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >  
+<meta name="generator" content="WordPress 4.6.1" >
+<link rel="stylesheet" href="./../../wp-content/themes/angrybear/style.css" media="screen" >
+<link rel="stylesheet" href="./../../wp-content/themes/angrybear/css/datepicker.css" media="screen" >
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="./../../feed/index.html" >
+<link rel="alternate" type="text/xml" title="RSS .92" href="./../../feed/rss/index.html" >
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="./../../feed/atom/index.html" >
+<link rel="pingback" href="./../../xmlrpc.php" >
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+    	<link rel='archives' title='March 2013' href='./../../2013/03/index.html' />
+	<link rel='archives' title='February 2013' href='./../../2013/02/index.html' />
+	<link rel='archives' title='January 2013' href='./../../2013/01/index.html' />
+	<link rel='archives' title='December 2012' href='./../../2012/12/index.html' />
+	<link rel='archives' title='November 2012' href='./../../2012/11/index.html' />
+	<link rel='archives' title='October 2012' href='./../../2012/10/index.html' />
+	<link rel='archives' title='September 2012' href='./../../2012/09/index.html' />
+	<link rel='archives' title='August 2012' href='./../../2012/08/index.html' />
+	<link rel='archives' title='July 2012' href='./../../2012/07/index.html' />
+	<link rel='archives' title='June 2012' href='./../../2012/06/index.html' />
+	<link rel='archives' title='May 2012' href='./../../2012/05/index.html' />
+	<link rel='archives' title='April 2012' href='./../../2012/04/index.html' />
+	<link rel='archives' title='March 2012' href='./../../2012/03/index.html' />
+	<link rel='archives' title='February 2012' href='./../../2012/02/index.html' />
+	<link rel='archives' title='January 2012' href='./../../2012/01/index.html' />
+	<link rel='archives' title='December 2011' href='./../../2011/12/index.html' />
+	<link rel='archives' title='November 2011' href='./../../2011/11/index.html' />
+	<link rel='archives' title='October 2011' href='./../../2011/10/index.html' />
+	<link rel='archives' title='September 2011' href='./../../2011/09/index.html' />
+	<link rel='archives' title='August 2011' href='./../../2011/08/index.html' />
+	<link rel='archives' title='July 2011' href='./../../2011/07/index.html' />
+	<link rel='archives' title='June 2011' href='./../../2011/06/index.html' />
+	<link rel='archives' title='May 2011' href='./../../2011/05/index.html' />
+	<link rel='archives' title='April 2011' href='./../../2011/04/index.html' />
+	<link rel='archives' title='March 2011' href='./../../2011/03/index.html' />
+	<link rel='archives' title='February 2011' href='./../../2011/02/index.html' />
+	<link rel='archives' title='January 2011' href='./../../2011/01/index.html' />
+	<link rel='archives' title='December 2010' href='./../12/index.html' />
+	<link rel='archives' title='November 2010' href='./../11/index.html' />
+	<link rel='archives' title='October 2010' href='./../10/index.html' />
+	<link rel='archives' title='September 2010' href='./../09/index.html' />
+	<link rel='archives' title='August 2010' href='./../08/index.html' />
+	<link rel='archives' title='July 2010' href='./../07/index.html' />
+	<link rel='archives' title='June 2010' href='./../06/index.html' />
+	<link rel='archives' title='May 2010' href='./../05/index.html' />
+	<link rel='archives' title='April 2010' href='./../04/index.html' />
+	<link rel='archives' title='March 2010' href='./../03/index.html' />
+	<link rel='archives' title='February 2010' href='./index.html' />
+	<link rel='archives' title='January 2010' href='./../01/index.html' />
+	<link rel='archives' title='December 2009' href='./../../2009/12/index.html' />
+	<link rel='archives' title='November 2009' href='./../../2009/11/index.html' />
+	<link rel='archives' title='October 2009' href='./../../2009/10/index.html' />
+	<link rel='archives' title='September 2009' href='./../../2009/09/index.html' />
+	<link rel='archives' title='August 2009' href='./../../2009/08/index.html' />
+	<link rel='archives' title='July 2009' href='./../../2009/07/index.html' />
+	<link rel='archives' title='June 2009' href='./../../2009/06/index.html' />
+	<link rel='archives' title='May 2009' href='./../../2009/05/index.html' />
+	<link rel='archives' title='April 2009' href='./../../2009/04/index.html' />
+	<link rel='archives' title='March 2009' href='./../../2009/03/index.html' />
+	<link rel='archives' title='February 2009' href='./../../2009/02/index.html' />
+	<link rel='archives' title='January 2009' href='./../../2009/01/index.html' />
+	<link rel='archives' title='December 2008' href='./../../2008/12/index.html' />
+	<link rel='archives' title='November 2008' href='./../../2008/11/index.html' />
+	<link rel='archives' title='October 2008' href='./../../2008/10/index.html' />
+	<link rel='archives' title='September 2008' href='./../../2008/09/index.html' />
+	<link rel='archives' title='August 2008' href='./../../2008/08/index.html' />
+	<link rel='archives' title='July 2008' href='./../../2008/07/index.html' />
+	<link rel='archives' title='June 2008' href='./../../2008/06/index.html' />
+	<link rel='archives' title='May 2008' href='./../../2008/05/index.html' />
+	<link rel='archives' title='April 2008' href='./../../2008/04/index.html' />
+	<link rel='archives' title='March 2008' href='./../../2008/03/index.html' />
+	<link rel='archives' title='February 2008' href='./../../2008/02/index.html' />
+	<link rel='archives' title='January 2008' href='./../../2008/01/index.html' />
+	<link rel='archives' title='December 2007' href='./../../2007/12/index.html' />
+	<link rel='archives' title='November 2007' href='./../../2007/11/index.html' />
+	<link rel='archives' title='October 2007' href='./../../2007/10/index.html' />
+	<link rel='archives' title='September 2007' href='./../../2007/09/index.html' />
+	<link rel='archives' title='August 2007' href='./../../2007/08/index.html' />
+	<link rel='archives' title='July 2007' href='./../../2007/07/index.html' />
+	<link rel='archives' title='June 2007' href='./../../2007/06/index.html' />
+	<link rel='archives' title='May 2007' href='./../../2007/05/index.html' />
+	<link rel='archives' title='April 2007' href='./../../2007/04/index.html' />
+	<link rel='archives' title='March 2007' href='./../../2007/03/index.html' />
+	<link rel='archives' title='February 2007' href='./../../2007/02/index.html' />
+	<link rel='archives' title='January 2007' href='./../../2007/01/index.html' />
+	<link rel='archives' title='December 2006' href='./../../2006/12/index.html' />
+	<link rel='archives' title='November 2006' href='./../../2006/11/index.html' />
+	<link rel='archives' title='October 2006' href='./../../2006/10/index.html' />
+	<link rel='archives' title='September 2006' href='./../../2006/09/index.html' />
+	<link rel='archives' title='August 2006' href='./../../2006/08/index.html' />
+	<link rel='archives' title='July 2006' href='./../../2006/07/index.html' />
+	<link rel='archives' title='June 2006' href='./../../2006/06/index.html' />
+	<link rel='archives' title='May 2006' href='./../../2006/05/index.html' />
+	<link rel='archives' title='April 2006' href='./../../2006/04/index.html' />
+	<link rel='archives' title='March 2006' href='./../../2006/03/index.html' />
+	<link rel='archives' title='February 2006' href='./../../2006/02/index.html' />
+	<link rel='archives' title='January 2006' href='./../../2006/01/index.html' />
+	<link rel='archives' title='December 2005' href='./../../2005/12/index.html' />
+	<link rel='archives' title='November 2005' href='./../../2005/11/index.html' />
+	<link rel='archives' title='October 2005' href='./../../2005/10/index.html' />
+	<link rel='archives' title='September 2005' href='./../../2005/09/index.html' />
+	<link rel='archives' title='August 2005' href='./../../2005/08/index.html' />
+	<link rel='archives' title='July 2005' href='./../../2005/07/index.html' />
+	<link rel='archives' title='June 2005' href='./../../2005/06/index.html' />
+	<link rel='archives' title='May 2005' href='./../../2005/05/index.html' />
+	<link rel='archives' title='April 2005' href='./../../2005/04/index.html' />
+	<link rel='archives' title='March 2005' href='./../../2005/03/index.html' />
+	<link rel='archives' title='February 2005' href='./../../2005/02/index.html' />
+	<link rel='archives' title='January 2005' href='./../../2005/01/index.html' />
+	<link rel='archives' title='December 2004' href='./../../2004/12/index.html' />
+	<link rel='archives' title='November 2004' href='./../../2004/11/index.html' />
+	<link rel='archives' title='October 2004' href='./../../2004/10/index.html' />
+	<link rel='archives' title='September 2004' href='./../../2004/09/index.html' />
+	<link rel='archives' title='August 2004' href='./../../2004/08/index.html' />
+	<link rel='archives' title='July 2004' href='./../../2004/07/index.html' />
+	<link rel='archives' title='June 2004' href='./../../2004/06/index.html' />
+	<link rel='archives' title='May 2004' href='./../../2004/05/index.html' />
+	<link rel='archives' title='April 2004' href='./../../2004/04/index.html' />
+	<link rel='archives' title='March 2004' href='./../../2004/03/index.html' />
+	<link rel='archives' title='February 2004' href='./../../2004/02/index.html' />
+	<link rel='archives' title='January 2004' href='./../../2004/01/index.html' />
+	<link rel='archives' title='December 2003' href='./../../2003/12/index.html' />
+	<link rel='archives' title='November 2003' href='./../../2003/11/index.html' />
+	<link rel='archives' title='October 2003' href='./../../2003/10/index.html' />
+	<link rel='archives' title='September 2003' href='./../../2003/09/index.html' />
+	<link rel='archives' title='August 2003' href='./../../2003/08/index.html' />
+	<link rel='archives' title='July 2003' href='./../../2003/07/index.html' />
+	<link rel='archives' title='June 2003' href='./../../2003/06/index.html' />
+	<link rel='archives' title='May 2003' href='./../../2003/05/index.html' />
+	<link rel='archives' title='April 2003' href='./../../2003/04/index.html' />
+	<link rel='archives' title='March 2003' href='./../../2003/03/index.html' />
+	<link rel='archives' title='February 2003' href='./../../2003/02/index.html' />
+        <style type='text/css'>
+		.stpulldown-gradient
+		{
+			background: #E1E1E1;
+			background: -moz-linear-gradient(top, #E1E1E1 0%, #A7A7A7 100%); /* firefox */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E1E1E1), color-stop(100%,#A7A7A7)); /* webkit */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E1E1E1', endColorstr='#A7A7A7',GradientType=0 ); /* ie */
+			background: -o-linear-gradient(top, #E1E1E1 0%,#A7A7A7 100%); /* opera */
+			color: #636363;
+		}
+		#stpulldown .stpulldown-logo
+		{
+			height: 40px;
+			width: 300px;
+			margin-left: 20px;
+			margin-top: 5px;
+			background:url('') no-repeat;
+		}
+</style>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Angry Bear &raquo; How to Build an Economic Model Comments Feed" href="./feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/angrybear.dev04.m3v.us\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fb_data_style-css'  href='./../../wp-content/plugins/feedburner-form/control/fbstyle.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='./../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../../xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Japan &#8211; GDP – exports &#8211; manufacturing – autos – Toyota' href='./japan-gdp-exports-manufacturing-autos-toyota.html' />
+<link rel='next' title='Swiss banking secrecy in the news again as germany seeks data' href='./swiss-banking-secrecy-in-the-news-again-as-germany-seeks-data.html' />
+<meta name="generator" content="WordPress 4.6.1" />
+<link rel="canonical" href="./" />
+<link rel='shortlink' href='./../../index.html?p=3453' />
+<link rel="alternate" type="application/json+oembed" href="./../../wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2F2010%2F02%2Fhow-to-build-an-economic-model.html" />
+<link rel="alternate" type="text/xml+oembed" href="./../../wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2F2010%2F02%2Fhow-to-build-an-economic-model.html&#038;format=xml" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.72b9a125-d47c-4213-83ab-1efbf37576ed'});var st_type='wordpress3.5';</script></head>
+<body>
+    <div id="main">
+        <div id="subbar">
+            <div class="main">
+                <nav>
+                    <ul id="menu-page-list" class="menu"><li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="./../../about/index.html">About</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="./../../contact/index.html">Contact</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="./../../editorial/index.html">Editorial</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="./../../policies/index.html">Policies</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="./../../archives/index.html">Archives</a></li>
+</ul>                </nav>
+                <div id="top-links"> <a href="http://digg.com/" target="_blank" id="digg"></a><a href="https://twitter.com/angrybearecon" target="_blank" id="twitter"></a><a href="http://feeds.feedburner.com/Hzoh" target="_blank" id="rss"></a><a href="http://facebook.com/angrybear.econ" target="_blank" id="facebook"></a></div>
+            </div>
+        </div>
+        <header>
+            <div class="main">
+                <a class="logo" href="./../../index.html" title="Angry Bear" rel="home"><img src="./../../wp-content/uploads/2012/09/logo.png" border="0" alt="Angry Bear" title="Angry Bear" ></a>
+                <div id="slogan">Slightly left of center economic commentary  on news, politics and the economy.</div>
+                <div class="clear"></div>
+                <nav>
+                    <ul id="menu-header-menu" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20"><a href="./../../category/usglobal-economics/index.html">US/Global Economics</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="./../../category/taxesregulation/index.html">Taxes/regulation</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="./../../category/healthcare/index.html">Healthcare</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="./../../category/law/index.html">Law</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="./../../category/politics/index.html">Politics</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="./../../category/hot-topics/index.html">Hot Topics</a></li>
+</ul>                </nav>
+                <div id="search">
+                    <form method="get" id="searchform" action="./../../index.html">
+<div>
+    <input 
+        type="text" 
+        value="search" 
+        name="s" 
+        id="s" 
+        size="15" 
+        onclick="if( this.value == 'search' ) { this.value = '' }" 
+        onfocus="if( this.value == 'search' ) { this.value = '' }" 
+        onblur="if( this.value == '' ) { this.value = 'search' }"
+    >
+    <input type="submit" id="searchsubmit" value="" >
+</div>
+</form>                </div>
+            </div>
+        </header>
+        <div id="banner-container">
+            <div id="wide-banner">
+                <script src='http://ads.investingchannel.com/adtags/angrybear/ros/728x90.js' type='text/javascript' charset='utf-8'></script>
+            </div>
+            <div id="text-banner">
+                <img src="http://placehold.it/188x90">            </div>
+        </div>
+    <section id="main">
+        <section>
+            <a href="javascript:history.back(1)" class="back">&laquo; Back</a>
+                                     <article class="single-post" id="post-id-3453">
+                            <h2><a href="./" title="How to Build an Economic Model">How to Build an Economic Model</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>February 22, 2010 6:02 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./../../category/employment/index.html" class="post-category-1203" title="employment"><div class="color-box"></div>employment</a>                                                                      
+                                                                            <a href="./../../category/labor-markets/index.html" class="post-category-633" title="labor markets"><div class="color-box"></div>labor markets</a>                                                                      
+                                                                            <a href="./../../category/microeconomic-theory/index.html" class="post-category-588" title="microeconomic theory"><div class="color-box"></div>microeconomic theory</a>                                                                      
+                                                                            <a href="./../../category/models/index.html" class="post-category-1651" title="models"><div class="color-box"></div>models</a>                                                                     </div>                    
+                            <div class="content">
+                                <p>Let us see if we can translate <a href="http://www.angrybearblog.com/2010/02/trade-offs-and-revealed-preferences.html" target="_blank">my previous post on job selection</a> into an economic model.  Start with a basic formula:<br />
+<blockquote>(1) AcceptOffer = a(1) + a(2)*<em>w</em> + a(3)*<em>b</em> + a(4)*<em>oa</em> + a(5)*<em>t</em></p></blockquote>
+<p>where a is a constant, <em>w</em> is wages, <em>b</em> is benefits, <em>oa</em> is &#8220;opportunity for advancement&#8221; and <em>t</em> is treatment received in the workplace.</p>
+<p>The first observation we make is that several of these variables are difficult to quantify—and even more difficult to objectify. So let’s start with the easy ones.</p>
+<p><em>w</em> is very identifiable: reported (on a per capita aggregate basis), subject to enforcement penalties (e.g., minimum wage laws), and used in “downstream applications” (e.g., tax filings) and therefore relatively verifiable.</p>
+<p><em>b</em> is (1) known to be non-negative and (2) often variable within, let alone between, organizations. (Vacation time, sick days, insurances offered and costs to the employee all may vary depending on level, time of service, location of office, etc.)</p>
+<p>This could present a problem, but here we can use standard economic theory to our advantage. We do not know the amount of <em>b</em>, but we can assume that the employer is rational, and is offering a total compensation to the worker that s/he expects will be less than or equal to the marginal product of that person’s labor. We therefore can reasonably assume that <em>b</em> is related to <em>w</em>. If we then review the available aggregate data we can approximate that benefits offered will be approximately a certain percentage of <em>w</em>—and that workers will assume that assumption (and, in most cases, verify that assumption within a margin of error) before accepting the job.</p>
+<p>We then restate the equation as<br />
+<blockquote>(2a) AcceptOffer = a(1) + a(2’)*<em>w’</em> + a(4)*<em>oa</em> + a(5)*<em>t</em></p></blockquote>
+<p>where w’ is the weighted combination of <em>w </em>and <em>b</em> above, and a(2’) is the restated coefficient.</p>
+<p>If we then assume that all parties have full information of the ratio of wages to benefits, then a(2’) = a(2)=a(3), so we simplify to:<br />
+<blockquote>(2b) AcceptOffer = a(1) + a(2)*<em>w’</em> + a(4)*<em>oa</em> + a(5)*<em>t</em></p></blockquote>
+<p>We now have to consider opportunities for advancement and treatment. Here, we have two problems that are difficult, possibly insurmountable, for modeling.</p>
+<p>The first is a lack of measurability. There are no public records for &#8220;didn&#8217;t get promoted.&#8221; Nor, except in extreme cases, is there a way to measure treatment by supervisors. The data that might be available&mdassh;lawsuits, official complaints, even Human Resources files (for which there are significant privacy considerations)—is all negative and, accordingly, skewed (biased). This is because (a) ninety percent or so of all workers and/or bosses will never have a complaint filed against them and (b) the ability to file a complaint may be present because the <em>general</em> work atmosphere is more amenable to filing one than not, so the presence of a complaint is not in itself a good or bad thing for the overall measure.</p>
+<p>The second is that tolerances vary by person. To use an absurd example, people who use &#8220;Every Breath You Take&#8221; for their wedding may be more likely to tolerate attentions that others view as harassment. Similarly, forcing people to clock out for a &#8220;smoke break&#8221; will be viewed differently depending upon whether one is a smoker or not. General policies are just that—general.</p>
+<p>So, if we are building an <em>economic</em> model, we must come up with a reasonable approximation of these last two variables. The most direct way to do this is the standard method: assume each individual has their own <a href="http://en.wikipedia.org/wiki/Indifference_curve">Utility Curve</a>, and &#8220;prices&#8221; accordingly.</p>
+<p>Based on their preferences and options, then, we map the compensation required to offset negative consequences from <em>oa</em> and <em>t</em>. While the variables still are not directly observable, we can make a simplifying assumption:<br />
+<blockquote><em>Assume that the compensation required to do the work is a factor of w’</em>.</p></blockquote>
+<p>Have to work in the sewer system? Change <em>w’</em> to compensate. Need to work the night shift and/or weekends? Same type of adjustment. Boss clearly favors buxom blondes and you’re a petite redhead? Adjust current salary requirements to compensate for lowered opportunity for advancement/promotion. You’re a b.b. who will have trouble getting work done because the boss will harass you? Adjust accordingly.</p>
+<p>We assume—due to the constraint: a lack of available data—that we can reduce &#8220;a(4)*<em>oa</em> + a(5)*<em>t</em>&#8221; to some proportion of <em>w</em> that will compensate the worker for the environment into which they are being placed. <strong><em>If</em></strong> we further assume that the worker has complete information as to hisser preferences, the worker will not accept a job that does not offer that level of compensation.</p>
+<p>So we can restate equation 2(b) using the Utility Curve assumption. Assume<br />
+<blockquote>(3a)<em> </em>a(6)*<em>w&#8221;</em> =a(4)*<em>oa</em> + a(5)*<em>t</em></p></blockquote>
+<p>such that w&#8221; also proportionate to <em>w</em>(and therefore <em>w&#8217;</em> as well) and a(6) is the coefficient <em>selected by the individual</em> that makes the offered wage compensatory to the opportunities for advancement and expected treatment on a Present Value basis.</p>
+<p>We can then reduce equation (2b) to<br />
+<blockquote>(3b) AcceptOffer = a(1) + a(2)*<em>w&#8217;</em> + a(6)*<em>w&#8221;</em></p></blockquote>
+<p>or, given that (a) w&#8221; is proportionate to w and w’ and (b) that the multiplier in most cases is 1, and (c) the constant (e.g., signing bonus) can be assumed without loss of generality to be 0,<br />
+<blockquote>(3b) AcceptOffer = <a href="http://lh6.ggpht.com/_wM5Pj6NF0jA/S4LGtK1zFLI/AAAAAAAAAYI/m9an9O0txXo/s1600-h/clip_image002%5B10%5D%5B2%5D.gif"><img title="clip_image002[10]" height="17" alt="clip_image002[10]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGtXR3D8I/AAAAAAAAAYM/z0Y4LZJLW8I/clip_image002%5B10%5D_thumb.gif?imgmax=800" width="11" border="0"></a></p></blockquote>
+<p>to indicate that the value varies with individuals.</p>
+<p>To concretize the example, assume that a redhead and a blonde, as above, are both offered a job. Assume further that the redhead’s compensation requirement—lower-but-still-positive opportunity for advancement—is lower than the blonde’s for will-be-harassed-and-work-will-be-impeded. That is<br />
+<blockquote><a href="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGtrWCNpI/AAAAAAAAAYQ/7qbqEBjh6Cs/s1600-h/clip_image002%5B3%5D.gif"><img title="clip_image002" height="17" alt="clip_image002" src="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGuADl1HI/AAAAAAAAAYU/ItL5uUDAlQQ/clip_image002_thumb.gif?imgmax=800" width="11" border="0"></a><em>(r)</em> < <a href="http://lh6.ggpht.com/_wM5Pj6NF0jA/S4LGufJu8WI/AAAAAAAAAYY/bCJ5HPKY9qU/s1600-h/clip_image002%5B4%5D%5B2%5D.gif"><img title="clip_image002[4]" height="17" alt="clip_image002[4]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGurcui8I/AAAAAAAAAYc/LHyPmIBGxaY/clip_image002%5B4%5D_thumb.gif?imgmax=800" width="11" border="0"></a><em>(b)</em></p></blockquote>
+<p>There are four possibilities:
+<ol>
+<li>The offered wage will be below<a href="http://lh6.ggpht.com/_wM5Pj6NF0jA/S4LGu1aIV6I/AAAAAAAAAYg/x7V53YmAXfU/s1600-h/clip_image002%5B12%5D%5B2%5D.gif"><img title="clip_image002[12]" height="17" alt="clip_image002[12]" src="http://lh5.ggpht.com/_wM5Pj6NF0jA/S4LGvWq5eZI/AAAAAAAAAYk/wQGeGPehazA/clip_image002%5B12%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(r), in which case neither will accept the job </li>
+<p>
+<li>The offered wage will be below <a href="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGvjyDDKI/AAAAAAAAAYo/o0obNhnhIk0/s1600-h/clip_image002%5B14%5D%5B2%5D.gif"><img title="clip_image002[14]" height="17" alt="clip_image002[14]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGv9ndK9I/AAAAAAAAAYs/JCTGKWNVGq0/clip_image002%5B14%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(b) but above <a href="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGwNJQUPI/AAAAAAAAAYw/gCdhbJUiZl0/s1600-h/clip_image002%5B16%5D%5B2%5D.gif"><img title="clip_image002[16]" height="17" alt="clip_image002[16]" src="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGwdpcncI/AAAAAAAAAY0/PCuAWlZujn8/clip_image002%5B16%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(r), in which case one of the two positions will be filled </li>
+<p>
+<li>The offered wage will be above <a href="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGxJBVhvI/AAAAAAAAAY4/J2c7kFEZzmk/s1600-h/clip_image002%5B18%5D%5B2%5D.gif"><img title="clip_image002[18]" height="17" alt="clip_image002[18]" src="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGxW8AvMI/AAAAAAAAAY8/vtmCm_F7pgU/clip_image002%5B18%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(b), in which case both will accept the offer and the company will have offered a higher wage than was required to fill both positions. (That the offer is what the company believes will be the employees’ s marginal product of labor [MPL] is a collateral issue.), or</li>
+<p>
+<li>The company will negotiate with each, offering the redhead <img title="clip_image002[20]" height="17" alt="clip_image002[20]" src="http://lh6.ggpht.com/_wM5Pj6NF0jA/S4LGxuQRjoI/AAAAAAAAAZA/mJVbJH7dPr0/clip_image002%5B20%5D_thumb.gif?imgmax=800" width="11" border="0">(r) and the blonde <a href="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGx3z-aJI/AAAAAAAAAZE/IFKqmnu3GBc/s1600-h/clip_image002%5B22%5D%5B2%5D.gif"><img title="clip_image002[22]" height="17" alt="clip_image002[22]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGyI3QH8I/AAAAAAAAAZI/cizz9bm5bWU/clip_image002%5B22%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(b), and everyone will be happy—so long as initial expectations were accurate (or, if you prefer, the new employees both had full information).</li>
+</ol>
+<p>Note also that there is a learning process for both the applicant and the employer. Offers and demands will be adjusted based on historic data (if both decline the offer, the next candidates of similar background will be offered more, and perceptions of growth (improvements in experience and/or education by the worker).</p>
+<p>If we generalize this, we note that there is a distribution of <a href="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGynLuVXI/AAAAAAAAAZM/UsSeWigsmCw/s1600-h/clip_image002%5B24%5D%5B2%5D.gif"><img title="clip_image002[24]" height="17" alt="clip_image002[24]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGzGVAqoI/AAAAAAAAAZQ/OoL_gHcZXUM/clip_image002%5B24%5D_thumb.gif?imgmax=800" width="11" border="0"></a> (due to Individual Preferences). If we further make simplifying assumptions—e.g., a normal distribution of <a href="http://lh5.ggpht.com/_wM5Pj6NF0jA/S4LGzUttzmI/AAAAAAAAAZU/5QDUxon_-Mg/s1600-h/clip_image002%5B26%5D%5B2%5D.gif"><img title="clip_image002[26]" height="17" alt="clip_image002[26]" src="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGzyCWkpI/AAAAAAAAAZY/n2fVQtgrOxw/clip_image002%5B26%5D_thumb.gif?imgmax=800" width="11" border="0"></a> among the population—we come to the conceit of the &#8220;<a href="http://en.wikipedia.org/wiki/Reservation_wage" target="_blank">reservation wage</a>,&#8221; and all the economic literature that is attendant upon it.</p>
+<p>So that is how you build an economic model.  The question then becomes: how do you <em>use </em>it?  A relatively short (though it does incorporate a micro model) discussion of that continues below the fold.</p>
+<p><a name="more"></a><br />The problem—if it is one (I’m inclined to argue it is; YMMV)—is that, having built a model in which all the proxying assumptions are &#8220;simplified&#8221; into a single variable, we lose some granularity, having made a trade-off for the sake of measurement.</p>
+<p>Accordingly, a change in the &#8220;reservation wage&#8221; may not in itself tell us whether the real wage has gone up or the work environment has become, on balance, more or less acceptable.</p>
+<p>Again, an example, one that will be familiar to students of microeconomics. You are given two choices: (1) you can receive $100 right here and now or (2) you can travel a known distance (say, five miles)—with a finite chance of death or injury—and receive $1,000,000 on completion.</p>
+<p>Surroundings, at this point, matter. If the five miles traveled is as an American soldier in full uniform walking outside of the Green Zone, you might well choose $100. Even when you are native to the area, the choice may vary: walking five miles through one gang&#8217;s territory is a different option than traveling that distance through different territories. Or even a pure environmental matter may have an effect: Walking five miles through a desert with no canteen, or having to swim five miles from shore in a dangerous waters, is not the same risk as walking five miles down an unpaved dirt road in the middle of the day. Even if you would be required “only” to walk down a heavily-used interstate highway with no shoulder or sidewalks, discretion may be the better part of valor.</p>
+<p>Over time, through the “learning process” (op cit. Arrow, 1962, as all good op cits must), the dollars offered will be adjusted so that the payouts balance on a risk-adjusted basis. (Collaterally, there may be other reasons for the greater payouts; signaling by any other name.)</p>
+<p>Now suppose the landscape changes. There is a canteen every half-mile in the desert. A gang is run out of its territory, or takes over another&#8217;s territory. The Green Zone becomes larger.</p>
+<p>The balance has changed; the risk is different. The job is demonstrably different, and therefore requires lower (higher) compensation. But the difference has nothing directly to do with the base salary/benefits requirement and everything to do with the <em>overall attractiveness </em>and/or <em>treatment received</em>.</p>
+<p>If we were to forget that, we would conclude that there is more demand for the job itself, and therefore people are willing to take a lower salary. If, on the other hand, we keep in mind that there are more factors to the reservation wage than just the salary itself, we realize that producing a more pleasant work atmosphere is beneficial to our firm, as it enables us both to present a good face to clients <em>and</em> to reduce our cost of labor.</p>
+<p>The first type of economist probably should be avoided, as he adds very little value to the discussion of how to use the model.</p>
+                                    <p class="tags">
+                                         
+                                        <span class="comments">
+                                            <a href="./#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2010/02/how-to-build-an-economic-model.html&title=How to Build an Economic Model" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2010/02/how-to-build-an-economic-model.html&t=How to Build an Economic Model" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=How to Build an Economic Model - .?p=3453@yourusername" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='How to Build an Economic Model' st_url='./2010/02/how-to-build-an-economic-model.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                <div class="navigation">
+                        </div>
+                                <div id="under-post-commercial2">
+                <script src='http://ads.investingchannel.com/adtags/angrybear/equities/500x55.js?kval=content_ad' type='text/javascript' charset='utf-8'></script>
+              <script type="text/javascript"><!--
+  adblade_cid="2964-3778314220";
+  adblade_ad_width="620";
+  adblade_ad_height="450";
+  adblade_ad_host="web.adblade.com";
+//--></script>
+<script type="text/javascript" src="http://web.adblade.com/js/ads/show.js"></script>
+            </div>
+            <div id="under-post-commercial">
+            <iframe src="http://cdn.investingchannel.com/quote_widget_4.html?s=angrybear" scrolling="no" width="600" height="70" frameborder="0"></iframe>
+		</div>
+<div id="cd">
+<!-- investingchannel content discovery -->
+<style>
+.AR_2 .ob_empty {display: none;}
+.AR_2 .rec-link {color: #565656;text-decoration: none;font-size: 12px;}
+.AR_2 .rec-link:hover {color: #565656;text-decoration: underline;font-size: 12px;}
+.AR_2 {float: left;width:50%}
+ul {padding-left:10px;}
+.AR_2 li {list-style: none outside none !important;font-size: 10px;padding-bottom: 10px;line-height: 13px;margin:0;}
+.AR_2 .ob_org_header {color: #000000;text-decoration:bold; margin-left: 0px; font-size:14px;line-height:35px;}
+
+.AR_3 .rec-link {color: #565656;text-decoration: none;font-size: 12px;}
+.AR_3 .rec-link:hover {color: #565656;text-decoration: underline;font-size: 12px;}
+.AR_3 .rec-src-link {font-size: 12px;}
+.AR_3 li {padding-bottom: 10px;list-style: none outside none !important;font-size: 10px;line-height: 13px;margin:0;}
+.AR_3 .ob_dual_left, .AR_3 .ob_dual_right {float: left;padding-bottom: 20;padding-left: 2%;padding-top: 20;}
+.AR_3 .ob_org_header {color: #000000; text-decoration:bold; margin-left: 0px; font-size:14px;line-height:35px;}
+.AR_3 .ob_ads_header {color: #000000; text-decoration:bold; margin-left: 0px; font-size:14px;line-height:35px;}
+</style>
+ 
+<script type="text/javascript">
+var draftmode = false;
+window.draftmode = draftmode;
+</script>
+ 
+
+<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_2" data-ob-template="investing" ></div>
+<script async="async" type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_3" data-ob-template="investing" ></div>
+<script async="async" type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+                <div class="comments-template">
+                
+    <h3>No Comments</h3>
+<a class="post-comment">Post Comment</a>
+<div class="clear"></div>
+				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="./#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="./../../wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='3453' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="da0117375b" /></p>				</form>
+					</div><!-- #respond -->
+		<div class="clear"></div>
+            </div>
+        </section>
+            <aside>
+                    <div class="bar-section stories">
+                <h2>Featured Stories</h2>
+                                                                                        <a href="./../../2013/01/hagel-for-defense-secretary.html">Hagel for Defense Secretary</a>
+                            <p class="postmetadata">
+                                admin                            </p>
+                                                                                <a href="./../../2012/12/links-worth-noting-stealth-class-warfare.html">Links Worth Noting: Stealth (Class) Warfare</a>
+                            <p class="postmetadata">
+                                admin                            </p>
+                                                            <div class="bar-section sidebar-commercial">
+                                    <script src='http://ads.investingchannel.com/adtags/angrybear/ros/300x250.js' type='text/javascript' charset='utf-8'></script>
+                                </div>
+                                                                                <a href="./../../2012/11/waldmanns-thoughts-on-voting-districts.html">Waldmann’s thoughts on voting districts</a>
+                            <p class="postmetadata">
+                                admin                            </p>
+                                                                                <a href="./../../2012/11/one-nation-divisible.html">One Nation, Divisible</a>
+                            <p class="postmetadata">
+                                admin                            </p>
+                                                                                        </div>
+            <div class="bar-section authors">
+                <h2>Contributors</h2>
+                <div class="authors-list">
+                <div class="contributor-left"><div></div></div><div class="contributor-right"></div>                </div>
+            </div>
+            <div class="bar-section subscribe">
+                <h2>Subscribe</h2>
+                            </div>
+            <div class="bar-section friends">
+                <ul> 
+                    <li id="linkcat-12" class="linkcat"><h2>Blogs of note</h2>
+                        <ul class="xoxo blogroll">
+                            <li><a href="http://www.nakedcapitalism.com/" rel="friend" title="Naked Capitalism" target="_blank">Naked Capitalism</a></li>
+                            <li><a href="http://www.eschatonblog.com/" rel="friend" title="Atrios (Eschaton)" target="_blank">Atrios (Eschaton)</a></li>
+                            <li><a href="http://crooksandliars.com/" rel="friend" title="Crooks and Liars" target="_blank">Crooks and Liars</a></li>
+                            <li><a href="http://www.calculatedriskblog.com/" rel="friend" title="Calculated Risk" target="_blank">Calculated Risk</a></li>
+                            <li><a href="http://www.economistview.typepad.com/" rel="friend" title="Economist View" target="_blank">Economist View</a></li>
+                            <li><a href="http://digbysblog.blogspot.com/" rel="friend" title="Hullabaloo" target="_blank">Hullabaloo</a></li>
+                            <li><a href="http://talkingpointsmemo.com/" rel="friend" title="Talking Points Memo" target="_blank">Talking Points Memo</a></li>
+                            <li><a href="http://www.washingtonmonthly.com/" rel="friend" title="Washington Monthly" target="_blank">Washington Monthly</a></li>
+			</ul>
+                    </li>
+                </ul>
+            </div>
+                <div class="bar-section sidebar-commercial">
+            <script src='http://ads.investingchannel.com/adtags/angrybear/ros/160x600.js' type='text/javascript' charset='utf-8'></script>
+        </div>
+   
+        <div class="bar-section sitemeter">
+<!-- Site Meter XHTML Strict 1.0 -->
+<script type="text/javascript" src="http://sm9.sitemeter.com/js/counter.js?site=sm9angrybear">
+</script>
+<!-- Copyright (c)2009 Site Meter -->
+        </div>
+
+
+ </aside>
+
+
+        <div class="clear"></div>
+<script src="http://cdn.investingchannel.com/ic_beacon.js" type="text/javascript"></script>
+<script type="text/javascript"> icBeacon('angrybear'); </script>
+    </section>
+            </div>
+    <footer>
+        <div class="main">
+            <a class="logo" href="./../../index.html" title="Angry Bear" rel="home"><img src="./../../wp-content/uploads/2012/09/logo_bottom.png" border="0" alt="Angry Bear" title="Angry Bear" ></a>
+	    <div id="top-links"> <a href="http://digg.com/" target="_blank" id="digg"></a><a href="https://twitter.com/angrybearecon" target="_blank" id="twitter"></a><a href="http://feeds.feedburner.com/Hzoh" target="_blank" id="rss"></a><a href="http://www.facebook.com/search.php?init=dir&q=Angrybear+Crawford&type=users" target="_blank" id="facebook"></a></div>
+            <nav class="left">
+                <ul id="menu-footer-menu" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="./../../category/usglobal-economics/index.html">US/Global Economics</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="./../../category/taxesregulation/index.html">Taxes/regulation</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="./../../category/healthcare/index.html">Healthcare</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="./../../category/law/index.html">Law</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="./../../category/politics/index.html">Politics</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31"><a href="./../../category/hot-topics/index.html">Hot Topics</a></li>
+</ul>            </nav>
+            <nav class="right">
+                <ul id="menu-page-list-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="./../../about/index.html">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="./../../contact/index.html">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="./../../editorial/index.html">Editorial</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="./../../policies/index.html">Policies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="./../../archives/index.html">Archives</a></li>
+</ul>            </nav>
+            <div class="clear"></div>
+            <div id="copy">Copyright &copy; 2016 Angry Bear Blog<span class="separator"> | </span>Developed by <a target="_blank" href="http://mev.com/">MEV</a></div>
+        </div>
+    </footer>
+                <script type='text/javascript' src='./../../wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+<script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script>
+<script type='text/javascript' src='./../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+<!-- Generated in 0.101 seconds. Made 101 queries to database and 0 cached queries. Memory used - 5.43MB -->
+<!-- Cached by DB Cache Reloaded Fix -->
+    <script type="text/javascript" src="./../../wp-content/themes/angrybear/js/jquery.main.js"></script>
+    </body>
+</html><!-- hyper cache: e1317648249174e417a01a864f8fffa6 16-11-11 04:32:36 -->

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tuition hikes &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Higher education tuition increases fueled by?</title>
+		<link>./../../2012/05/higher-education-tuition-increases-fueled-by.html</link>
+		<comments>./../../2012/05/higher-education-tuition-increases-fueled-by.html#respond</comments>
+		<pubDate>Sat, 12 May 2012 03:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[higher ed]]></category>
+		<category><![CDATA[tuition hikes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/higher-education-tuition-increases-fueled-by.html</guid>
+		<description><![CDATA[Salon points us to a primary reason public higher education tuition inflation has occurred that is left out of election rhetoric, more so than the suggested availability of Pell grants. And of course the selling of the need for one by us all. The problem: The word “public” doesn’t mean as much as it used [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.salon.com/2012/05/11/tuition_is_too_damn_high/singleton/" target="_blank">Salon</a> points us to a primary reason public higher education tuition inflation has occurred that is left out of election rhetoric, more so than the suggested availability of Pell grants.  And of course the selling of the need for one by us all.   </p>
+<blockquote><p>The problem: The word “public” doesn’t mean as much as it used to. Direct state support for public colleges has cratered over the past 10 years, and really fell off the cliff after the financial crisis. Yes, tuitions have risen, but not by as much as state and local appropriations for higher education have fallen. Just between 2008 and 2009, for example, average tuition revenue at public research institutions increased by $369 per student, but the loss in state and local appropriations per student was $751. Similarly, at public community colleges, tuition revenue rose by $113 per student, while appropriations fell by $488. Since the recession of 2001, tuition hikes, as exorbitant as they have been, still haven’t kept pace with the fall in government support.   </p></blockquote>
+<blockquote><p>The bottom line: For the large majority of college students, rising tuitions have nothing to do with the availability of student loans or Pell Grants. What’s happening, instead, is that the burden of paying for college that was previously provided directly by government has now been shifted onto the backs of students&#8230;</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/higher-education-tuition-increases-fueled-by.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

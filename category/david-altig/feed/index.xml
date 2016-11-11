@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>David Altig &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tax Rates and Economic Growth Over Ten Year Time Horizons, plus Why a Flat Tax Would Result in Much Slower Economic Growth</title>
+		<link>./../../2011/05/tax-rates-and-economic-growth-over-ten-year-time-horizons-plus-why-a-flat-tax-would-result-in-much-slower-economic-growth.html</link>
+		<comments>./../../2011/05/tax-rates-and-economic-growth-over-ten-year-time-horizons-plus-why-a-flat-tax-would-result-in-much-slower-economic-growth.html#respond</comments>
+		<pubDate>Tue, 24 May 2011 12:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[David Altig]]></category>
+		<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[flat tax]]></category>
+		<category><![CDATA[tax rates]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/tax-rates-and-economic-growth-over-ten-year-time-horizons-plus-why-a-flat-tax-would-result-in-much-slower-economic-growth.html</guid>
+		<description><![CDATA[by Mike Kimel Tax Rates and Economic Growth Over Ten Year Time Horizons, plus Why a Flat Tax Would Result in Much Slower Economic Growth Last week I had a post looking at the the real GDP growth maximizing income tax rate using both top marginal income tax rates and and &#8220;average marginal&#8221; &#8220;all-in&#8221; tax [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>Tax Rates and Economic Growth Over Ten Year Time Horizons, plus Why a Flat Tax Would Result in Much Slower Economic Growth</strong></p>
+<p>Last week I had <a href="http://www.angrybearblog.com/2011/05/optimal-tax-rates-for-generating.html">a post looking at the the real GDP growth maximizing income tax rate</a> using both top marginal income tax rates and and &#8220;average marginal&#8221; &#8220;all-in&#8221; tax rates for all taxpayers (including those who paid nothing) computed by Barro &#038; Sahasakul.  The post noted that the optimal top marginal rate was in the neighborhood of 64%, a finding that corresponds with many other posts I&#8217;ve written on the topic.  The post also noted that the Barro-Sahasakul rates were not as useful at explaining economic growth as the top marginal income tax rates.  </p>
+<p>David Altig of the Atlanta Fed commented on the piece <a target="_blank" href="http://macroblog.typepad.com/macroblog/2011/05/long-short-runs-tax-reform.html">here</a>, but he essentially had one very gently delivered criticism and one follow-up comment.  The criticism is that my post did not consider long run effects &#8211; for each year, it looked at how the tax rate that year would affect growth in real GDP from that year to the next.  The comment was that the post&#8217;s results did not correspond with results of a paper he published in the AER with Auerbach, Kotlikoff, Smetters and Walliser.  (Ungated version <a href="http://www2.wiwi.hu-berlin.de/institute/wpol/html/jprof/aer.pdf">here</a>.  The paper <br /><a name="more"></a></p>
+<blockquote><p> uses a new large-scale dynamic simulation model to compare the equity, efficiency, and macroeconomic effects of five alternative to the current U.S. federal income tax. These reforms are a proportional income tax, a proportional consumption tax, a flat tax, a flat tax with transition relief, and a progressive variant of the flat tax called the &#8216;X tax.&#8217; </p></blockquote>
+<p>In his post, Altig provides this graph:</p>
+<p><a href="http://1.bp.blogspot.com/-BCaSZ8gqdQE/TduslDcjiDI/AAAAAAAAAoA/6Fulquen95M/s1600/taxreforms1.bmp"><img src="http://1.bp.blogspot.com/-BCaSZ8gqdQE/TduslDcjiDI/AAAAAAAAAoA/6Fulquen95M/s320/taxreforms1.bmp" border="0" alt=""></a>Figure 1.</p>
+<p>The graph shows that according to the Altig et. al simulation model, after about ten years, the growth maximizing tax (among the types they simulated) is a flat tax.  I read the paper this afternoon, and while I have a few small quibbles (some of them raised by the authors themselves, to their credit), having done a bit of simulation work myself, I think there is one thing that is worth mentioning and which I can cover in this forum: results of a simulation must fit known facts.</p>
+<p>Now&#8230; I think there is a quick and dirty way regression that can account for both a long range analysis and to test the notion of whether the cause of rapid economic growth is best served by a progressive tax system or a flat tax.   Here&#8217;s what I have in mind:</p>
+<p>equation 1:  annualized growth in real GDP, t to t+10 = f(top marginal income tax rate, top marginal income tax rate squared, bottom marginal income tax rate, bottom marginal income tax rate squared)</p>
+<p>The quadratic terms allow us to find the growth maximizing tax rates, as I&#8217;ve done in so many posts before.  And by including both top and bottom marginal rates, we can compute the optimal growth maximizing top marginal rate and the growth maximizing bottom marginal rate.  And&#8230;  if a flat tax is the best tax, the optimal bottom rate should be more or less equal to the optimal top rate.   </p>
+<p>As in the previous post, data ran back to 1929, the first year for which <a href="http://www.bea.gov/national/xls/gdplev.xls">real GDP</a> was computed by the BEA.  Top marginal and bottom marginal rates came from the <a href="http://www.irs.gov/taxstats/article/0,,id=175910,00.html">IRS Statistics of Income Table 23</a>. </p>
+<p>So here are the results, as spit out by Excel.  </p>
+<p><a href="http://1.bp.blogspot.com/-IgjIfr_lMBE/TdusrZj2pOI/AAAAAAAAAoI/icinwO0XOEw/s1600/taxreforms2.bmp"><img src="http://1.bp.blogspot.com/-IgjIfr_lMBE/TdusrZj2pOI/AAAAAAAAAoI/icinwO0XOEw/s320/taxreforms2.bmp" border="0" alt=""></a>Figure 2.</p>
+<p>What this tells us is that each of the components of equation 1 are significant.  For top marginal rates, we have the expected shape, and if you work it out (either with calculus or by plugging the numbers into a spreadsheet) you&#8217;ll find that the model claims the optimal rate is about 67%, and that getting tax rates there from the current 35% would add about 1.4% a year to real GDP growth.  </p>
+<p>For the bottom marginal income tax rate, things are a bit more complicated&#8230; it turns out that the expected quadratic shape isn&#8217;t there.  In fact, the model indicates that tax rates should be as low as possible.   In the range from 0 to 100, 0 is best.  The model also provides support for the Milton&#8217;s Friedman negative income tax rate, though I&#8217;d say results are bit shakier there as rates were never at or below zero during the sample for which we have data.  If I were to do it again, I think I&#8217;d specify the bottom marginal rate differently &#8211; no quadratic shape &#8211; but right now I gotta go.  I would note &#8211; I&#8217;d also add a few other variables, both to account for the small degree of patterns that appear in the residuals and frankly, just to make the model more realistic.  But its fairly clear &#8211; especially since I keep getting results that more or less the same no matter how I approach the problem, that better specification wouldn&#8217;t change the results all that much.  They might push estimates of the top marginal rate down a bit, but its fairly clear that top marginal rates well above where they are now will lead to much faster economic growth.</p>
+<p>And of course, the other thing we learn&#8230;  because the effect of top and bottom rates are so very different, and relative to where they are now, pull economic growth in different directions, it makes no sense for the top rate and the bottom rate to be in close vicinity.  Put another way &#8211; a flat tax is a very bad idea, at least when it comes to generating economic growth.</p>
+<p>As always, if you want my spreadsheet, drop me a line via e-mail with the name of this post.  My e-mail address is my first name (mike), my last name (kimel &#8211; with one m only), and I&#8217;m at gmail.com.</p>
+<p>(Rdan&#8230;post was modified at 10 am to include the link to Altig&#8217;s post)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/tax-rates-and-economic-growth-over-ten-year-time-horizons-plus-why-a-flat-tax-would-result-in-much-slower-economic-growth.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

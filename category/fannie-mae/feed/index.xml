@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fannie Mae &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Subprime and the crisis</title>
+		<link>./../../2012/03/subprime-and-the-crisis.html</link>
+		<comments>./../../2012/03/subprime-and-the-crisis.html#respond</comments>
+		<pubDate>Tue, 27 Mar 2012 01:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CRA]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/subprime-and-the-crisis.html</guid>
+		<description><![CDATA[Financeaddict comments on a St. Louis Fed study: Their research asks whether there’s evidence that lenders changed their behavior to meet CRA, Fannie or Freddie-mandated goals by: making more subprime loans than they otherwise would have? lending to riskier borrowers than they otherwise would have? charging risky borrowers less than they otherwise would have? &#8230;If [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://financeaddict.com/2012/03/governments-role-in-the-subprime-crisis" target="_blank">Financeaddict</a> comments on a <a href="http://research.stlouisfed.org/wp/2012/2012-005.pdf" target="_blank">St. Louis Fed study</a>:   <br />
+<blockquote>Their research asks whether there’s evidence that lenders changed their behavior to meet CRA, Fannie or Freddie-mandated goals by:
+<ul>
+<li>making more subprime loans than they otherwise would have? </li>
+<li>lending to riskier borrowers than they otherwise would have? </li>
+<li>charging risky borrowers less than they otherwise would have?</li>
+</ul>
+<p>&#8230;If the banks were strongly influenced by their desire to meet affordable housing targets then they should have made more of the kind of loans that would qualify and less of the kind of loans that would not qualify. These relative changes should show up as anomalies in an otherwise continuous data pattern, but the researchers’ examinations of 722,157 securitized subprime mortgages made in California and Florida from 2004-2006 found no evidence of this.  The same held true for the other two research questions. Hernández-Murillo, Ghent and Owyang did not find that lenders gave lower (i.e. better) prices to borrowers falling inside the threshold vs. those falling outside. Nor did they find evidence that lenders lent more often to qualifying riskier borrowers (those who would go on to be seriously delinquent within the first two years after receiving the loan) than they did to riskier borrowers whose loans would not qualify. <br /><a name="more"></a>So, to recap, the subprime story went something like this: foolish borrowers borrowed and foolish lenders lent. The evidence appears to show that lenders did not change their behavior in order to hit the affordable housing targets that the government imposed on them. While the government’s programs to encourage affordable housing may have other flaws they did not, at any rate, directly cause the subprime crisis. Myth busted.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/subprime-and-the-crisis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fannie and Freddie and William Black</title>
+		<link>./../../2011/01/fannie-and-freddie-and-william-black.html</link>
+		<comments>./../../2011/01/fannie-and-freddie-and-william-black.html#respond</comments>
+		<pubDate>Thu, 13 Jan 2011 01:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CRA]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/fannie-and-freddie-and-william-black.html</guid>
+		<description><![CDATA[William Black writes this post Fannie and Freddie’s Managers bought Nonprime Paper for the same Reason Merrill Did: (hat tip Rebecca) This subdivides into four arguments: the Community Reinvestment Act (CRA), Congress’ rejection of an administration proposal to give OFHEO greater supervisory powers, specifically, the power to place Fannie and Freddie in receivership, the ability [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>William Black writes this post<a target="_blank" href="http://neweconomicperspectives.blogspot.com/2011/01/fannie-and-freddies-managers-bought.html"> Fannie and Freddie’s Managers bought Nonprime Paper for the same Reason Merrill Did</a>: (hat tip Rebecca)</p>
+<blockquote><p>This subdivides into four arguments: the Community Reinvestment Act (CRA), Congress’ rejection of an administration proposal to give OFHEO greater supervisory powers, specifically, the power to place Fannie and Freddie in receivership, the ability of Fannie and Freddie to borrow due to their status as Government-Sponsored Enterprises (GSEs), and the rules on Fannie and Freddie making a rising percentage of their loans to those with below median income.</p></blockquote>
+<p>Clear and concise.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/fannie-and-freddie-and-william-black.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fannie Mae will need a bailout (prophesy)</title>
+		<link>./../../2008/10/fannie-mae-will-need-a-bailout-prophesy.html</link>
+		<comments>./../../2008/10/fannie-mae-will-need-a-bailout-prophesy.html#respond</comments>
+		<pubDate>Tue, 07 Oct 2008 13:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AEI]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[financial crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/fannie-mae-will-need-a-bailout-prophesy.html</guid>
+		<description><![CDATA[By Divorced one like Bush &#8221;From the perspective of many people, including me, this is another thrift industry growing up around us,&#8221; said Peter Wallison a resident fellow at the American Enterprise Institute. &#8221;If they fail, the government will have to step up and bail them out the way it stepped up and bailed out [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Divorced one like Bush</p>
+<p>&#8221;From the perspective of many people, including me, this is another thrift industry growing up around us,&#8221; said Peter Wallison a resident fellow at the American Enterprise Institute. &#8221;If they fail, the government will have to step up and bail them out the way it stepped up and bailed out the thrift industry.&#8221; </p>
+<p><a href="http://query.nytimes.com/gst/fullpage.html?res=9c0de7db153ef933a0575ac0a96f958260&#038;sec=&#038;spon=&#038;pagewanted=1">New York Times</a>, 9/30&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;..1999.  </p>
+<p>Who is Mr. <a href="http://www.aei.org/scholars/scholarID.58,filter.all/scholar.asp">Peter Wallison</a>:<br />
+<blockquote>A codirector of AEI’s program on financial markets deregulation, Wallison studies banking, insurance, and Wall Street regulation. As general counsel of the U.S. Treasury department, he had a significant role in the development of the Reagan administration’s proposals for the deregulation of the financial services industry.</p></blockquote>
+<p>Interestingly enough, he produced a paperputting it on the dems for the mess in that they wanted &#8220;regulation&#8221; when the issue was the crap in the portfolio.  He quote Greenspan at a subcommittee hearing in 2005:<br />
+<blockquote>&#8220;We have found no reasonable basis for that portfolio above very minimum needs.&#8221; He then proposed &#8220;a $100 billion, $200 billion&#8211;whatever the number might turn out to be&#8211;limit on the size of the aggregate portfolios of those institutions&#8211;and the reason I say that is there are certain purposes which I can see in the holding of mortgages which might be helpful in a number of different areas. But $900 billion for Fannie and somewhat less, obviously, for Freddie, I don&#8217;t see the purpose of it.&#8221; Greenspan then articulated his reasons for limiting the GSEs&#8217; portfolios: &#8220;If [Fannie and Freddie] continue to grow, continue to have the low capital that they have, continue to engage in the dynamic hedging of their portfolios, which they need to do for interest rate risk aversion, they potentially create ever-growing potential systemic risk down the road.&#8221; He added, &#8220;Enabling these institutions to increase in size&#8211;and they will, once the crisis, in their judgment, passes&#8211;we are placing the total financial system of the future at a substantial risk.&#8221;[2] </p></blockquote>
+<p>And the republicans were the ones, proposing proper regulations, but Fannie went to the dems to stop it:<br />
+<blockquote>Thus, in January 2005, three Senators&#8211;Chuck Hagel (R-Neb.), John E. Sununu (R-N.H.), and Elizabeth Dole (R-N.C.)&#8211;had introduced tough new legislation to regulate Fannie and Freddie. The legislation was state-of-the-art at the time, and included a carefully developed &#8220;bright line&#8221; test that was intended to end Fannie&#8217;s and Freddie&#8217;s efforts to break out of the secondary mortgage market as their sole allowable field of operations. But the legislation made no mention of limiting the GSEs&#8217; portfolios.</p></blockquote>
+<p>Sometime you just don&#8217;t know what to expect from people based on their ideology.  Who knew AEI could understand the Fannie mess to the point of being a profit and yet find that calling for limits to size is not &#8220;regulation&#8221; because regulation is what the dems want.  </p>
+<p><a href="http://www.sourcewatch.org/index.php?title=American_Enterprise_Institute">American Enterprise Institute</a>:  The American Enterprise Institute for Public Policy Research (AEI) is an extremely influential, pro-business right-wing think tank founded in 1943 by Lewis H. Brown. It promotes the advancement of free enterprise capitalism[1], and succeeds in placing its people in influential governmental positions. It is the center base for many neo-conservatives. </p>
+<p>An example of some of their finer work:<br />
+<blockquote>In 1980, the American Enterprise Institute for the sum of $25,000 produced a study in support of the tobacco industry titled, Cost-Benefit Analysis of Regulation: Consumer Products. The study was designed to counteract &#8220;social cost&#8221; arguments against smoking by broadening the social cost issue to include other consumer products such as alcohol and saccharin.</p></blockquote>
+<p>One can also use <a href="http://en.wikipedia.org/wiki/American_Enterprise_Institute">Wiki</a> if you do not like Source Watch.</p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/fannie-mae-will-need-a-bailout-prophesy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lloyd Bentsen &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>On Being Jack Kennedy</title>
+		<link>./../../2012/10/on-being-jack-kennedy.html</link>
+		<comments>./../../2012/10/on-being-jack-kennedy.html#respond</comments>
+		<pubDate>Fri, 12 Oct 2012 18:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Dana Milbank]]></category>
+		<category><![CDATA[Jack Kennedy]]></category>
+		<category><![CDATA[Joe Biden]]></category>
+		<category><![CDATA[Lloyd Bentsen]]></category>
+		<category><![CDATA[Mitt Romney]]></category>
+		<category><![CDATA[Paul Ryan]]></category>
+		<category><![CDATA[Washington Post]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/on-being-jack-kennedy.html</guid>
+		<description><![CDATA[Biden’s use of the famous Lloyd Bentsen put-down of Dan Quail—“Senator, you’re no Jack Kennedy”—is getting pretty good play among the punditry. (Yay!)  Now, hopefully, Obama and Biden will educate the public about the tax rates on the wealthy and on capital gains in, say, 1963.  And on whether, y’know, America was a European-style socialist [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>Biden’s use of the famous Lloyd Bentsen put-down of Dan Quail—“Senator, you’re no Jack Kennedy”—is getting pretty good play among the punditry. (Yay!)  Now, hopefully, Obama and Biden will educate the public about the tax rates on the wealthy and on capital gains in, say, 1963. 
+</p>
+</div>
+<div></div>
+<div>And on whether, y’know, America was a European-style socialist country back then because of that—as Romney actually has claimed on several occasions during the last year.
+</p>
+</div>
+<div></div>
+<div>And, in case you missed my update to my last post: The Washington Post&#8217;s Dana Milbank is the first pundit I know of thus far to <a href="http://www.washingtonpost.com/opinions/dana-milbank-in-vice-presidential-debate-biden-rattles-ryan/2012/10/12/427cd0c0-1430-11e2-be82-c3411b7680a9_story.html?hpid=z3">GET IT</a>.  </div>
+<div></div>
+<div>Go, Dana!</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/on-being-jack-kennedy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

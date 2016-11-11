@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alan Simpson &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dean Baker Schools Simpson on Social Security</title>
+		<link>./../../2010/08/dean-baker-schools-simpson-on-social-security.html</link>
+		<comments>./../../2010/08/dean-baker-schools-simpson-on-social-security.html#respond</comments>
+		<pubDate>Mon, 30 Aug 2010 17:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Alan Simpson]]></category>
+		<category><![CDATA[social security]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/dean-baker-schools-simpson-on-social-security.html</guid>
+		<description><![CDATA[by Bruce Webb Dean asks: 1) How much higher are real wages projected to be in 2040 than today? In other words, how much richer do we expect the average worker to be 30 years from now? 2) How did the 2010 Trustees Report change the projections for 2040 wages compared with the 2009 report? [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb</p>
+<p>Dean asks: <br />
+<blockquote>1) How much higher are real wages projected to be in 2040 than today? In other words, how much richer do we expect the average worker to be 30 years from now?</p>
+<p>2) How did the 2010 Trustees Report change the projections for 2040 wages compared with the 2009 report?</p>
+<p>3) If we solve the projected shortfall in Social Security entirely by raising the payroll tax, what percent of the gain in real wages over the next 30 years would have to go to pay the tax?</p>
+<p>4) What percent of real wage gains over the last 30 years was absorbed by the increase in Social Security payroll taxes?</p>
+<p>5) What percent of the projected long-term budget shortfall is due to the inefficiencies of the US health care system?</p>
+<p>6) How much wealth should we expect near retirees to have to support themselves in retirement?</p>
+<p>7) What percent of older workers have jobs in which they can reasonably be expected to work at into their late 60s?</p></blockquote>
+<p>Dean Baker takes Al to school. And then to the woodshed out back.<br /><a target="_blank" href="http://www.huffingtonpost.com/dean-baker/senator-simpsons-quick-bu_b_698981.html">Senator Simpson&#8217;s Quick Budget Quiz</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/dean-baker-schools-simpson-on-social-security.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alan Simpson</title>
+		<link>./../../2010/06/alan-simpson.html</link>
+		<comments>./../../2010/06/alan-simpson.html#respond</comments>
+		<pubDate>Sat, 19 Jun 2010 11:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Alan Simpson]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/alan-simpson.html</guid>
+		<description><![CDATA[Firedoglake takes on Simpson: Alan Simpson: Cutting Social Security Benefits to “Take Care of the Lesser People in Society” &#8230;cuts he would recommend to the President and Congress on CNBC, Simpson said “We are going to stick to the big three,” meaning Social Security, Medicare and Medicaid. His sentiments haven’t changed. (Rdan here&#8230;the transcript reads [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Firedoglake takes on Simpson: <a target="_blank" href="http://fdlaction.firedoglake.com/2010/06/17/alan-simpson-cutting-social-security-benefits-to-take-care-of-the-lesser-people-in-society/"><strong><em>Alan Simpson:</em></strong> <strong>Cutting Social Security Benefits to “Take Care of the Lesser People in Society”</strong></a></p>
+<blockquote><p>&#8230;cuts he would recommend to the President and Congress <a href="http://ara.typepad.com/blog/2010/03/alan-simpson-strikes-at-seniors-social-security-and-medicare.html">on CNBC</a>, Simpson said  “We are going to stick to the big three,” meaning Social Security, Medicare and Medicaid.  His sentiments haven’t changed.</p></blockquote>
+<p>(Rdan here&#8230;the transcript reads faster than the talk.  I really worry about rational thought on the part of some of the players in the Senate.  I received a fund raising letter from the Democratic National Party a few days ago.  My personal response will be a short letter instead of a check, and separate checks to local races of my choosing.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/alan-simpson.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

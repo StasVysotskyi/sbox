@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>soc2econ &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>What Do Economists Think About When They Think About Rationality?</title>
+		<link>./../../2008/07/what-do-economists-think-about-when-they-think-about-rationality.html</link>
+		<comments>./../../2008/07/what-do-economists-think-about-when-they-think-about-rationality.html#respond</comments>
+		<pubDate>Tue, 29 Jul 2008 01:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[rationality]]></category>
+		<category><![CDATA[soc2econ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/what-do-economists-think-about-when-they-think-about-rationality.html</guid>
+		<description><![CDATA[Fabio Rojas has some questions for economists at Orgtheory.net. Isn’t evolutionary psychology the real challenge to neo-classical rational choice? Isn’t a tool kit of mental functions more plausible and interesting that the utility maximizing model? Isn’t that much more radical than behavioral economics, which is like neo-classical with a cherry on top? Why don’t economists [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Fabio Rojas has some <a href="http://orgtheory.wordpress.com/2008/07/28/five-questions-for-economists-on-rationality/">questions for economists</a> at Orgtheory.net.<br />
+<blockquote>
+<ol>
+<li>Isn’t evolutionary psychology the real challenge to neo-classical rational choice? Isn’t a tool kit of mental functions more plausible and interesting that the utility maximizing model? Isn’t that much more radical than behavioral economics, which is like neo-classical with a cherry on top?</li>
+<li>Why don’t economists have a model of when people change their preferences? For example, people seem to change as the age. Is this not true? If it is true, then why don’t we focus more on changing utility functions? Do we really prefer the same stuff all our lives in the same way?</li>
+<li>In an argument, economists will concede that people seek stuff other than money, but this is rare in published papers and nearly non-existent in economic theory. Do economists have a theory of when people maximize money as opposed to other stuff (e.g., prestige)? Or which goods are like money (smooth, continuous) and which aren’t? Or which goods are surrogates for money?</li>
+<li>Do economists ever believe in endogeneity of preferences? Do economists ever believe that institutions lead to preferences, rather than preferences leading to institutions? For example, isn’t the real reason most Americans belive in democracy is because they grew up in one, not because it maximizes their utility functions?</li>
+<li>Do economists really believe Becker’s “as if” argument? Shouldn’t there be many situations where people can’t figure out the optimal outcome? Why can’t “task difficulty” be an important feature of an economic model? Do economists cherry pick situations where optimal moves are easy for people to figure out? Doesn’t the existence of consultants and R&#038;D departments show that firms don’t have easy access to optimal strategies and have to spend much effort in finding them?</li>
+<li>Finally, given the critiques from experimental econ, evolutionary psychology and other quarters, why is the basic model of economics still the rational actor? <a href="http://orgtheory.wordpress.com/2008/07/25/models-of-rationality-between-gnats-rats-and-gods/" target="_self">Have economists systematically shown it to be superior the other competitors</a>? If so, where can I read about it?</li>
+</ol>
+</blockquote>
+<p>They have some good responses in their comments section, and FWIW my response is <a href="http://orgtheory.wordpress.com/2008/07/28/five-questions-for-economists-on-rationality/#comment-75769">here</a>.  I suppose if you&#8217;re a thinking non-economist and have gotten your account of economics from Becker, or worse yet from Posner, it would be fair enough to wonder if we actually believe the Chicago School&#8217;s account of the world.  Many of us will say hell, no!  As I recall, Dani Rodrik had a good post up some time ago making the important point that the economics tool kit shouldn&#8217;t be judged by its perhaps tendentious and/or overly influential results derived from more obviously false assumptions on reality.  (I view all social science theorizing as involving a degree of falsity in service of [hopefully] clarifying one&#8217;s thinking, and I&#8217;m definitely not convinced that the other social sciences necessarily have their theoretical heads less in the clouds.)  Maybe there&#8217;s a reason why we make the big bucks after all?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/what-do-economists-think-about-when-they-think-about-rationality.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wordpress &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Reverting back to blogger for the moment</title>
+		<link>./../../2013/03/reverting-back-to-blogger-for-the-moment.html</link>
+		<comments>./../../2013/03/reverting-back-to-blogger-for-the-moment.html#respond</comments>
+		<pubDate>Mon, 25 Mar 2013 14:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/reverting-back-to-blogger-for-the-moment.html</guid>
+		<description><![CDATA[Update: I have been unable to repair the blogspot feed so far 2:30 P.M&#8230;&#8230;can anybody help? Update 2: MEV repaired the feed and the backlinks problem. In case you are wondering what is going on, our migration did not work as planned.  Thank you for your patience.  We lost the rss feed, and due to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Update:  I have been unable to repair the blogspot feed so far 2:30  P.M&#8230;&#8230;can anybody help?</p>
+<p>Update 2:  MEV repaired the feed and the backlinks problem.</p>
+<p>In case you are wondering what is going on, our migration did not work as planned.  Thank you for your patience.  We lost the rss feed, and due to a glitch access to all of our old posts from links from other sites was prevented because the urls were rewritten&#8230;access within the site was fine.</p>
+<p>MEV is working to correct the glitches and has returned us to blogger in the meantime so we can still provide our readers with new material and maintain links to our friends in the blogosphere.  <i>Eschaton </i>linked to us and posted this Sunday on the Trans Pacific Partnership (via Naked Capitalism) for one example.</p>
+<p>I will be restoring the rss feed shortly I hope.  Thanks for your patience.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/reverting-back-to-blogger-for-the-moment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Migration starting to wordpress</title>
+		<link>./../../2013/03/migration-starting-to-wordpress.html</link>
+		<comments>./../../2013/03/migration-starting-to-wordpress.html#respond</comments>
+		<pubDate>Fri, 22 Mar 2013 03:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/migration-starting-to-wordpress.html</guid>
+		<description><![CDATA[The migration process to wordpress from blogger is to start about 11:30 PM March 21. Hopefully there will be few glitches. Our new design has some features to be added after the migration and can be explained then. Soon we will welcome readers to our new look, and allow readers to explore posts in a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The migration process to wordpress from blogger is to start about 11:30 PM March 21.  Hopefully there will be few glitches.  Our new design has some features to be added after the migration and can be explained then.  Soon we will welcome readers to our new look, and allow readers to explore posts in a more accessible and easy manner.</p>
+<p>Thanks,</p>
+<p>Dan</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/migration-starting-to-wordpress.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Future Blog Platform</title>
+		<link>./../../2013/03/future-blog-platform.html</link>
+		<comments>./../../2013/03/future-blog-platform.html#respond</comments>
+		<pubDate>Sat, 16 Mar 2013 13:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[google reader]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/future-blog-platform.html</guid>
+		<description><![CDATA[Shortly Angry Bear will be making the switch from Blogger to WordPress.  Blogger has served us well for ten years, but WordPress provides a much greater flexibility and capacity for our material.  Reader rjs comments on Google reader coming to an end which won&#8217;t affect us as a blog, but certainly impacts users: I imagine [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>Shortly Angry Bear will be making the switch from Blogger to WordPress.  Blogger has served us well for ten years, but WordPress provides a much greater flexibility and capacity for our material. </div>
+<p>Reader rjs comments on Google reader coming to an end which won&#8217;t affect us as a blog, but certainly impacts users:</p>
+<blockquote><p>I imagine you all know Google plans to shut down the <em>Google reader</em>; as Felix Salmon put it:</p>
+<p><a href="http://counterparties.com/t/your-daily-outrage">Your Daily Outrage</a>:  <a href="http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html">Google decides it&#8217;s cool to be evil, kills beloved product because it can</a></p>
+<p>Here&#8217;s a Change.org. petition via <em>Yves Smith</em> i just signed, for whatever it&#8217;s worth:<br /><a href="https://www.change.org/petitions/google-keep-google-reader-running">Google: Keep Google Reader Running</a></p>
+<p>I use my Google reader, including it&#8217;s site search, 3 hours a day or more for what I’m doing, in ways that would be hard to replace&#8230;</p>
+<p>(lifted from open thread and lightly edited for readability)</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/future-blog-platform.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>From Dan on migration to Word press</title>
+		<link>./../../2012/06/from-dan-on-migration-to-word-press.html</link>
+		<comments>./../../2012/06/from-dan-on-migration-to-word-press.html#respond</comments>
+		<pubDate>Mon, 25 Jun 2012 15:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/from-dan-on-migration-to-word-press.html</guid>
+		<description><![CDATA[Hi folks.  I have finally initiated the process to migrate to a word press platform from the blogger platform, and will be switching to another comment system to be determined.  Blogger is getting harder to use in our experience, and of course did not develop the variety of tools to augment how Angry Bear can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hi folks.  I have finally initiated the process to migrate to a word press platform from the blogger platform, and will be switching to another comment system to be determined.  Blogger is getting harder to use in our experience, and of course did not develop the variety of tools to augment how Angry Bear can offer a more systematic reference by topic access to archives and allow the opportunity for individual authors to discuss topics in  their own more personal styles on author pages.  All the attendant social media and subscription access will be modernized.</p>
+<p>In the process the look and feel of Angry Bear will change to a more polished and better used &#8216;real estate&#8217;.  I personally do not like the narrow middle column (two sidebars) coming in use currently.  It is perhaps geared to mobile communications, but I feel detracts if you use a wider screen and data intense posts.  An e-mail subscription with a mobile look might be necessary.</p>
+<p>Please leave suggestions for useful functions first, and then perhaps the look of your favorite sites. </p>
+<p>Thanks,</p>
+<p>Dan</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/from-dan-on-migration-to-word-press.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

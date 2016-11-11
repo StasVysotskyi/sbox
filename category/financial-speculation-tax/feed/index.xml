@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>financial speculation tax &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Financial Speculation Taxes</title>
+		<link>./../../2011/10/financial-speculation-taxes.html</link>
+		<comments>./../../2011/10/financial-speculation-taxes.html#respond</comments>
+		<pubDate>Sat, 15 Oct 2011 13:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[financial reform]]></category>
+		<category><![CDATA[financial speculation tax]]></category>
+		<category><![CDATA[tax reform]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/financial-speculation-taxes.html</guid>
+		<description><![CDATA[OMB Watch points us to the idea that: Financial Taxes Can Raise Revenues, May Help Stabilize Markets The congressional Super Committee, tasked with forging a $1.2 trillion deficit reduction package by Thanksgiving, is currently deliberating on which revenues — if any — to raise and to include in its plan. With Wall Street at the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.ombwatch.org/node/11874/">OMB Watch</a> points us to the idea that:
+<p><a target="_blank" href="http://community.ombwatch.org/site/R?i=HzfdDdWlAmJ6sl9vqSkTyg">Financial Taxes Can Raise Revenues, May Help Stabilize Markets</a>    <br />The congressional <a href="http://community.ombwatch.org/site/R?i=n8nXNVUb4bcV2sccivbAbA">Super Committee</a>, tasked with forging a $1.2 trillion deficit reduction package by Thanksgiving, is currently deliberating <a href="http://community.ombwatch.org/site/R?i=5Oa0ZuDVYDBw6_fqCzb8Xg">on which revenues — if any — to raise</a> and to include in its plan. With Wall Street at the center of the 2008 economic collapse, the committee should look to a pair of revenue options that would fulfill the dual roles of addressing risks to the economy posed by Wall Street and raising much needed revenue: a financial speculation tax and a financial crisis responsibility fee on large financial institutions. </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/financial-speculation-taxes.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

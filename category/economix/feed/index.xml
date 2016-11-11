@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Economix &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Unemployment and job vacancies</title>
+		<link>./../../2013/03/unemployment-and-job-vacancies.html</link>
+		<comments>./../../2013/03/unemployment-and-job-vacancies.html#respond</comments>
+		<pubDate>Sat, 09 Mar 2013 15:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[beveridge curve]]></category>
+		<category><![CDATA[Catherine Rampell]]></category>
+		<category><![CDATA[Economix]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/unemployment-and-job-vacancies.html</guid>
+		<description><![CDATA[Catherine Rampell writes a good analysis with caveats on why we seem to have .  Best to read the original as I could not figure out a way to nuance a summary.  Lots of comments to fill out the why I believe : In an article on Thursday’s front page, I wrote about how long [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://economix.blogs.nytimes.com/2013/03/07/an-odd-shift-in-an-unemployment-curve/">Catherine Rampell</a> writes a good analysis with caveats on why we seem to have .  Best to read the original as I could not figure out a way to nuance a summary.  Lots of comments to fill out the why I believe :</p>
+<blockquote><p>In an <a href="http://www.nytimes.com/2013/03/07/business/economy/despite-job-vacancies-employers-shy-away-from-hiring.html">article</a> on Thursday’s front page, I wrote about how long job vacancies are taking to fill, especially when you consider the abundance of unemployed workers.Economists have been thinking about this issue for a couple of years now thanks to a shift in what is known as the Beveridge Curve<br />&#8230;.<br />,,,shows the relationship between the unemployment rate and the job vacancy rate.Since late 2009, the curve has shifted outward. That means that even if the job market is not exactly booming, there are more vacancies out there than the unemployment rate alone would have predicted a few years ago.</p></blockquote>
+<p><a href="http://2.bp.blogspot.com/-VWok764ez6M/UTtNIFywxPI/AAAAAAAABjw/Nl6LXyrrdFw/s1600/beveridge-blog480.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/-VWok764ez6M/UTtNIFywxPI/AAAAAAAABjw/Nl6LXyrrdFw/s320/beveridge-blog480.jpg"></a></p>
+<p>This is probably true for some highly coveted occupations that require specialized skills, like nursing or engineering, that have a mismatch in skill sets between workers left out of other industries. In addition, there are now a lot of long-term unemployed workers whose skills may have deteriorated&#8230;(but if there were a shortage of qualified workers across a lot of industries, you would be seeing employers bid up wages for the few candidates who <em>were</em> desirable). That does not appear to be happening.)</p>
+<p>Another explanation those who are calling themselves unemployed today would have been counted as unemployed sooner in the past as longer unemployment benefits impact stats (such as with a faster declining labor participation rate). Employers have vacancies but are afraid to fill them?&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/unemployment-and-job-vacancies.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

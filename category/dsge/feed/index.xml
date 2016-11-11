@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DSGE &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>More on DSGE Forecasting</title>
+		<link>./../../2012/04/more-on-dsge-forecasting.html</link>
+		<comments>./../../2012/04/more-on-dsge-forecasting.html#respond</comments>
+		<pubDate>Tue, 17 Apr 2012 08:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DSGE]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/more-on-dsge-forecasting.html</guid>
+		<description><![CDATA[Mark Thoma quotesForecasting the Great Recession: DSGE vs. Blue Chip, by Marco Del Negro, Daniel Herbst, and Frank Schorfheide, Liberty Street: Coincidentally commenter Luis Enrique asked me what I thought of that paper on Gmail. this is commentator Luis Enrique [skip] I am enjoying your to and fro with Simon WL anyway, I just wanted to send [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://economistsview.typepad.com/economistsview/2012/04/forecasting-the-great-recession-dsge-vs-blue-chip.html">Mark Thoma</a> quotes<br />Forecasting the Great Recession: DSGE vs. Blue Chip, by Marco Del Negro, Daniel Herbst, and Frank Schorfheide, Liberty Street:</p>
+<p>Coincidentally commenter Luis Enrique asked me what I thought of that paper on Gmail. </p>
+<blockquote><p>this is commentator Luis Enrique [skip] I am enjoying your to and fro with Simon WL anyway, I just wanted to send you <a href="http://libertystreeteconomics.newyorkfed.org/2012/04/forecasting-the-great-recession-dsge-vs-blue-chip.html">this link</a>, in case these guys are not on your RSS, as a continuation of sorts of your post on the Vox paper on the same topic</p></blockquote>
+<p>My thoughts after the jump.</p>
+<p><a name="more"></a></p>
+<p>I don&#8217;t actually have an RSS and, as I admit from time to time, don&#8217;t generally read the economics literature, so it was new to me.</p>
+<p>The key part of the NY Fed post is the figures most of which simply show that both the models and the blue chip forecasters failed to forecast the great recession.  These are forecasts of quarterly GDP growth.  The explicit model based forecasts are red, the average of Blue Chip professional forecaster forecasts is green.  Blue indicates confidence intervals for the explicit model based forecasts.  Click one of the links for actually legible decently sized figures.
+<div><a href="http://4.bp.blogspot.com/-E9mcSJMg7Jk/T4ycpvXfpJI/AAAAAAAAAJY/wAtCHiatRBw/s1600/Cattura.PNG" imageanchor="1"><img border="0" height="320" src="http://4.bp.blogspot.com/-E9mcSJMg7Jk/T4ycpvXfpJI/AAAAAAAAAJY/wAtCHiatRBw/s320/Cattura.PNG" width="262"></a></div>
+<p>I think the key passage in the explanatory text is</p>
+<p>
+<blockquote>The chart shows the forecasts for three different DSGE specifications. We call the first one SWπ; this is essentially the popular Smets-Wouters model. The second is the Smets-Wouters model with financial frictions, as in Bernanke et al. and Christiano et al., which we call SWπ-FF. The other difference between this model and SWπ is the use of observations on the Baa-ten-year Treasury rate spread, which captures distress in financial markets.<br />The last specification is still the SWπ-FF, except that we use observations for the federal funds rate and spreads for the quarter that just ended and for which no National Income and Product Accounts data are yet available (for the January 10, 2009, forecasts, these would be the 2008:Q4 average fed funds rate and spreads). </p></blockquote>
+<p>The DSGE models which do a bit better aren&#8217;t DSGE models. The Baa-Treasury spread is added as an explanatory variable without any discussion of micro foundations. The text makes it clear that this variable is added in addition to the frictions considered by Bernanke et al and Christiano et al.  Bernanke et al have the difference between a risky and risk free rate as an endogenous variable &#8212; it should depend only on the ratio of equity to the capital stock (IIRC).  It isn&#8217;t a free variable in that model and can&#8217;t be added in addition to the frictions considered by Bernanke et al.</p>
+<p>I claim that the model which does poorly rather than terribly is an ad hoc aggregate model without micro foundations.</p>
+<p>The outcome on the graph is not the BEA&#8217;s current estimate (-8% at an annual rate for 2008:Q4). This means that the outcome as re-estimated months before the publication date of the post is well outside of the 90% confidence interval except for the last panel which shows an ad hoc model using contemporary data.</p>
+<p>Why no forecasts using data from the trough ? There is no evidence in the post that the DSGE model had any success forecasting the recovery. There are no forecasts which use 2008:Q4 BEA estimates flash, advanced or &#8220;final&#8221; (but not really final since they were corrected in 2011).</p>
+<p>The good looking figure adds another variable ad hoc. Oddly it just happens to track the GDP growth rate very well in this episode.  It would not have a similar coefficient if estimated with more data &#8212; the spread has not been close to what it was in 2008-9 since 1962 (when the FRED 10 year constant maturity Treasury series I looked at started) but GDP shrank at the same rate in a quarter in 1980 as in 2008:Q8.  The past 5 years shows why adding the spread as an explanatory variable (even lagged one quarter) helps a lot.  In the figure I didn&#8217;t lag the spread as I should have and would have if I could have with FRED.  Even so, the peak is a bit to the right of the trough of GDP growth.  But the point is that even shifted to the right one quarter (to lag) the Baa &#8211; Treasury spread&#8217;s high level and rapid decline fits the steep decline in GDP in 2009:Q1 and then the rapid recovery.</p>
+<div><a href="http://3.bp.blogspot.com/-Pw3nZ3qRKuA/T4yiohQOH3I/AAAAAAAAAJg/i4oC5W90msc/s1600/FREDnyfed.PNG" imageanchor="1"><img border="0" height="191" src="http://3.bp.blogspot.com/-Pw3nZ3qRKuA/T4yiohQOH3I/AAAAAAAAAJg/i4oC5W90msc/s320/FREDnyfed.PNG" width="320"></a></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/more-on-dsge-forecasting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Today in &#034;Economists Are NOT Totally Clueless&#034; (Part 3 of 4)</title>
+		<link>./../../2010/01/today-in-economists-are-not-totally-clueless-part-3-of-4.html</link>
+		<comments>./../../2010/01/today-in-economists-are-not-totally-clueless-part-3-of-4.html#comments</comments>
+		<pubDate>Mon, 04 Jan 2010 15:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DSGE]]></category>
+		<category><![CDATA[equilibrium theory]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[rational expectations]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/today-in-economists-are-not-totally-clueless-part-3-of-4.html</guid>
+		<description><![CDATA[Pete Davis: Treasury Secretary Hank Paulson initially sold Congress in the fall of 2008 on emergency intervention to purchase “toxic assets,” but quickly reversed course in favor of direct capital injections. Those favored financial institutions revived more quickly than most thought possible and most of those injections have already been paid back. However, most of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://capitalgainsandgames.com/blog/pete-davis/1364/what-did-we-learn-2009" target="_blank">Pete Davis</a>:<br />
+<blockquote>Treasury Secretary Hank Paulson initially sold Congress in the fall of 2008 on emergency intervention to purchase “toxic assets,” but quickly reversed course in favor of direct capital injections. Those <em>favored</em> financial institutions revived more quickly than most thought possible and most of those injections have already been paid back. <em>However, most of the toxic assets remain on bank balance sheets, impeding new lending. </em>[emphases mine]</p></blockquote>
+<p>At the end of the last post, I was ready to discuss “deadweight loss.” But a brief detour seems in order.</p>
+<p>We used to talk a lot at this blog about DSGE models. Economists talk a lot about Equilibrium, even if they don’t fully understand it. At its core, saying “equilibrium” is saying “this is the best of all possible worlds.”  You can’t improve on equilibrium unless you choose a non-Pareto-optimal solution (i.e., a solution in which at least one person is affected negatively).</p>
+<p>Equilibrium doesn’t mean you have achieved ideal social welfare. (Anyone who has looked at Game Theory for more than a minute can tell you that.)  But it does mean that things are “hitting on all cylinders.”  Or, more accurately, if the economy is <strong>not</strong> at equilibrium, the odds are better that people making choices will make mistakes.</p>
+<p>Which is why I pointed to <a href="http://econospeak.blogspot.com/2010/01/1983-ponzi-game-prediction.html" target="_blank">Brenda Rosser</a> and especially this<br />
+<blockquote>&#8220;The way out of this thing is a shift in the way we treat the LDC debt,&#8221; Coldwell argued. &#8220;The banks would have to take a big hit on their balance sheets, but then it&#8217;s over. If you give them a definitive hit, then they could say it&#8217;s behind us. If you get down to a crisis stage, the banks would accept that. They would have no choice.” &#8212; William Greider. &#8216;The Secrets of the Temple &#8211; How the Federal Reserve Runs the Country&#8217; Touchstone 1989. Page 549</p></blockquote>
+<p>If the banks take that hit, we’re back at equilibrium.  If they don’t, they continue to make suboptimal choices.  Which brings us back to the graphic.</p>
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/Sz_3sgW14fI/AAAAAAAAAW8/dqY9ItVe21k/s1600-h/NonPerfLoansQtrly.JPG"><img alt="" border="0" src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/Sz_3sgW14fI/AAAAAAAAAW8/dqY9ItVe21k/s400/NonPerfLoansQtrly.JPG"></a></p>
+<p>There were several good suggestions for refinement in the comments, none of which can I do at the moment, since I’m working solely from FRED data. (General response: those acquisitions, especially WaMu, were made on terms that were agreeable to all acquiring parties. Which doesn’t mean those acquisitions may not be affecting the flow, but it’s likely more a question of acceleration than velocity, especially given the relative sizes of the institutions.)</p>
+<p>But the FRED data is damning enough.  The risk management procedures at larger institutions were significantly worse than they were at smaller ones.  And the bigger they are, the worse they are becoming:</p>
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/S0H8o5ZOg_I/AAAAAAAAAXE/Y14aM6VSJWg/s1600-h/NPLLargeBanks.JPG"><img alt="" border="0" src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/S0H8o5ZOg_I/AAAAAAAAAXE/Y14aM6VSJWg/s400/NPLLargeBanks.JPG"></a></p>
+<p>With several waves of doubt still to come, we are (choose one) (a) far from equilibrium or (b) still making suboptimal choices.</p>
+<p>So let’s do a finger exercise.<br /><a name="more"></a></p>
+<p>Mortgages Outstanding approx. $11 trillion (Q4 2008)</p>
+<p>Amount at risk (SWAG)25%</p>
+<p>Expected Losses $2.75T</p>
+<p>Fed Holdings (<a href="http://www.econbrowser.com/archives/2009/12/term_deposit_fa.html" target="_blank">TARP, TALF, CPLF, etc.</a>) approx. $2.2 T</p>
+<p>Remaining Balance Sheet Exposuren approx. $550B</p>
+<p>25% at risk seems about right.  Slightly over 10% of that $11T was Home Equity Loans, and the outstanding household debt at that time was <a href="http://mwhodges.home.att.net/nat-debt/debt-nat-a.htm#household" target="_blank">about 123% of national income</a> while <a href="http://mwhodges.home.att.net/family_a.htm#home_equity" target="_blank">equity was around 40%</a>.</p>
+<p>But note that this assumes that all of the special facilities remain in place. For instance, per Hamilton’s graphic, the Fed now owns about $1T worth of MBSes. CR notes that this program “<a href="http://www.calculatedriskblog.com/2010/01/pimcos-mcculley-three-major-issues-for.html" target="_blank">is scheduled to be complete by the end of Q1</a>.”</p>
+<p>Of course, there are some cures that would be worse than the disease.  Via alea’s Twitter feed, I see that either the headline writer or the speaker <a href="http://www.reuters.com/article/idUSN0320287220100103" target="_blank">made a slip yesterday</a>:<br />
+<blockquote>&#8220;There ought to be government-backed ABS,&#8221; said Fed economist Wayne Passmore in a presentation to the American Economic Association.</p></blockquote>
+<p>Note that the quote is not (just) MBS but <strong>A</strong>BS—<em>asset</em>-backed securities, including credit-card receivables, car loans, basically any form of consumer (or other) debt that can be securitized.  The result of this would be that your tax dollars would pay a bank for your default on a credit card that charged you 30% interest, despite the risk-free rate being something near 0%—and almost always in the 5-8% range.</p>
+<p>The reason we like equilibrium is that people who make mistakes do so because they are “being irrational.” When we’re not at equilibrium, we realize that they make irrational decisions all the time.  In what I hope will be the last of this series, we’ll look at irrational and rational decisions—and why irrationality may be the best survival strategy.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/today-in-economists-are-not-totally-clueless-part-3-of-4.html/feed/index.html</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>If You&#8217;re Marking a Curve, you need to identify an equilibrium point</title>
+		<link>./../../2009/09/if-youre-marking-a-curve-you-need-to-identify-an-equilibrium-point.html</link>
+		<comments>./../../2009/09/if-youre-marking-a-curve-you-need-to-identify-an-equilibrium-point.html#respond</comments>
+		<pubDate>Fri, 18 Sep 2009 23:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[DSGE]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[innovation]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[tradeoffs]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/if-youre-marking-a-curve-you-need-to-identify-an-equilibrium-point.html</guid>
+		<description><![CDATA[Via the must-read Susan of Texas, Ezra Klein finally comes to some of his senses: couldn&#8217;t get an answer to a very simple question: What level of spending on health care was optimal for innovation? Should we double spending? Triple it? Cut it by 10 percent? Simply give a larger portion of it to drug [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via the must-read <a target="_blank" href="http://agonyin8fits.blogspot.com/">Susan of Texas</a>, Ezra Klein <a target="_blank" href="http://voices.washingtonpost.com/ezra-klein/2009/09/ignoring_innovation.html">finally comes to some of his senses</a>:<br />
+<blockquote> couldn&#8217;t get an answer to a very simple question: What level of spending on health care was optimal for innovation? Should we double spending? Triple it? Cut it by 10 percent? Simply give a larger portion of it to drug and device manufacturers? I&#8217;d be interested in a proposal meant to maximize medical innovation. I&#8217;ve not yet seen one.</p>
+<p>It turned out that concerns about innovation weren&#8217;t really about innovation at all. They were just about attacking universal health care ideas of a certain sort. Which is why I stopped taking them seriously. As it is, I&#8217;m less worried about squeezing out medical innovation than I am about rising medical costs squeezing out innovation in every other sector of society.</p></blockquote>
+<p>The final point is a key one; if you&#8217;re talking trade-offs and DSGE Models, you better not be looking at an area in isolation.  (Or, <a target="_blank" href="http://angrybear.blogspot.com/2009/09/quote-of-day.html">as I noted earlier</a>, if you&#8217;re looking at an area in isolation, you need to be able to explain what &#8220;equilibrium&#8221; means in context: quadrupling the amount diverted from the alleged business does <strong>not</strong> count.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/if-youre-marking-a-curve-you-need-to-identify-an-equilibrium-point.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

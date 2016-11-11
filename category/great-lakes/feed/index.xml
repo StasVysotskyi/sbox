@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Great Lakes &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>GAO report on the Great Lakes</title>
+		<link>./../../2008/01/gao-report-on-the-great-lakes.html</link>
+		<comments>./../../2008/01/gao-report-on-the-great-lakes.html#respond</comments>
+		<pubDate>Wed, 23 Jan 2008 21:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GAO]]></category>
+		<category><![CDATA[Great Lakes]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[water]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/01/gao-report-on-the-great-lakes.html</guid>
+		<description><![CDATA[The GAO reports on the inability to measure small amounts of toxins in the Great Lakes that can cause harm. The same is true, as described in other posts, for unborns and babies. Is this a worthy function of government to oversee, water and babies being crucial also to us? How would a free market [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.gao.gov/new.items/d08312t.pdf">The GAO</a> reports on the inability to measure small amounts of toxins in the Great Lakes that can cause harm. The same is true, as described in other posts, for unborns and babies.   Is this a worthy function of government to oversee, water and babies being crucial also to us?  How would a free market handle this? </p>
+<p>&#8220;In 1990, following a series of binational agreements aimed at improving<br />environmental conditions in the Great Lakes Basin, the Congress passed<br />the Great Lakes Critical Programs Act. This act, which amended the Clean<br />Water Act, required the Environmental Protection Agency (EPA) to<br />publish water quality guidance on minimum water quality standards and<br />antidegradation policies for protecting existing water quality. In response,<br />in 1995, EPA published the Final Water Quality Guidance for the Great<br />Lakes System, otherwise known as the GLI, to control over 100 toxic<br />pollutants and protect aquatic life, wildlife, and human health. Through the<br />GLI, EPA established stringent water quality criteria—numeric values to<br />be used by states to set pollutant discharge limits for point sources—for 9<br />BCCs and 20 other pollutants found in the basin. In addition, the GLI<br />established methodologies that the states are to use in developing criteria<br />for the remaining pollutants. Meeting the criteria established by GLI<br />requires sensitive analytical methods that allow measurement of pollutant<br />concentrations at or below the level established by GLI water quality<br />&#8230;<br />The ability to accurately and reliably measure pollutant concentrations is<br />vital to successfully implementing GLI water quality criteria. Without this<br />ability, it is difficult for states to determine if a facility’s discharge is<br />exceeding GLI water quality criteria and if a discharge limits are required.<br />For example, because chlordane has a water quality criterion of 0.25<br />nanograms per liter but can only be measured down to a level of 14<br />nanograms per liter, it cannot always be determined if the pollutant is<br />exceeding the criterion. As we reported in 2005, developing the analytical<br />methods needed to measure pollutants at the GLI water quality criteria<br />level is a significant challenge to fully achieving GLI goals. Although<br />methods have been developed for the nine BCCs for which GLI water<br />quality criteria have been established, EPA has only approved the methods<br />to measure mercury and lindane below GLI’s stringent criteria levels.<br />Analytical methods for the other BCCs either have not received EPA<br />approval or cannot be used to reliably measure to GLI criteria levels.<br />criteria.&#8221;</p>
+<blockquote><p>Table 1: Status of BCC Analytical Methods<br /><strong>BCC</strong> Status of method to measure GLI water quality criteria<br /><strong>Chlordane</strong> Measures above the GLI criterion<br /><strong>Dieldrin</strong> Measures above the GLI criterion<br /><strong>DDT</strong> Measures at the GLI criterion but not yet approved by EPAa<br /><strong>Hexachlorobenzene</strong> Measures above the GLI criterion<br /><strong>Lindane </strong>Measures below the GLI criterion and approved by EPA<br /><strong>Mercury</strong> Measures below the GLI criterion and approved by EPA<br /><strong>PCBs</strong> Measures above the GLI criterion<br /><strong>2,3,7,8-TCDD </strong>Measures above the GLI criterion<br /><strong>Toxaphene</strong> Measures above the GLI criterion<br />Source: GAO analysis of EPA information.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/01/gao-report-on-the-great-lakes.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

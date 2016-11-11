@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Matt Stoller &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dodd-Frank financial protection</title>
+		<link>./../../2012/11/dodd-frank-financial-protection.html</link>
+		<comments>./../../2012/11/dodd-frank-financial-protection.html#respond</comments>
+		<pubDate>Tue, 06 Nov 2012 14:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Dodd-Frank bill]]></category>
+		<category><![CDATA[Matt Stoller]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/dodd-frank-financial-protection.html</guid>
+		<description><![CDATA[The US Senate election in MA is between Senator Scott Brown and challenger Elizabeth Warren. While there has been some discussion on financial concerns, there hasn&#8217;t been a lot to report of substance during the election campaign for us to post. One of the tweets making the rounds is what it would be like to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The US Senate election in MA is between Senator Scott Brown and challenger Elizabeth Warren.  While there has been some discussion on financial concerns, there hasn&#8217;t been a lot to report of substance during the election campaign for us to post.  One of the tweets making the rounds is what it would be like to be sitting on the <a href="http://banking.senate.gov/public/">Senate Banking etc. Committee</a>, members who blocked Warren&#8217;s consideration as the director of the newly created  <a href="http://www.treasury.gov/initiatives/Pages/cfpb.aspx">Bureau of Consumer Financial Protection (CFPB)</a> if Warren takes her seat at the table.</p>
+<p><a href="http://www.nakedcapitalism.com/2012/11/the-false-dodd-frank-narrative-occupy-wall-street-attacks-huge-hot-money-loophole-in-the-law.html">Matt Stoller</a> writes at <i>Naked Capitalism</i> on whether financial regulation has teeth and addresses real problems.</p>
+<blockquote><p>Proponents of Dodd-Frank have an incentive to argue the law is a tough crack-down on Wall Street. It’s a core part of Barack Obama’s narrative, that he bailed out the banks, but then did what FDR did in the 1930s with a series of tight regulations. Of course, it was immediately obvious that Dodd-Frank was an afterthought of the Bush/Obama administrations, that the real policy framework involved three key fights – the Fannie/Freddie bailouts under the Housing and Economic Recovery Act of 2008 (the so-called bazooka law), TARP, and the reappointment of Ben Bernanke. These fights were supplemented by Eric Holder’s <a href="http://www.nakedcapitalism.com/2012/09/marcy-wheeler-lanny-breuer-admits-that-economists-have-convinced-him-not-to-indict-corporations.html">decision to give legal forbearance</a> to Wall Street executives, to not prosecute for rigging the CDO market or any number of illegalities in the foreclosure space.</p>
+<p><a name="more"></a></p>
+<p>After this radical consolidation of banking <a href="http://www.nakedcapitalism.com/2012/11/the-false-dodd-frank-narrative-occupy-wall-street-attacks-huge-hot-money-loophole-in-the-law.html?utm_source=feedburner&#038;utm_medium=feed&#038;utm_campaign=Feed%3A+NakedCapitalism+%28naked+capitalism%29#">power<img src="http://images.intellitxt.com/ast/adTypes/icon1.png"></a> in the hands of bailed out Too Big To Fail institutions, the Obama administration went to work on Dodd-Frank, which was essentially a <a href="http://www.nakedcapitalism.com/2011/07/matt-stoller-dodd-frank-made-no-structural-changes-to-banking-system.html">2000 page mash note</a> to regulators saying “please don’t let that crisis happen again, it was awkward’. And now the evidence is beginning to trickle out that Dodd-Frank is a nothingburger. As Yves has already show regarding <a href="http://www.nakedcapitalism.com/2012/11/the-false-dodd-frank-narrative-on-bank-profits-no-honey-obama-did-not-shrink-the-banks2.html">bank size and profits</a>, Dodd-Frank, unlike TARP, is not particularly relevant to trends in the financial services industry. We will keep hammering on the flaws in Dodd-Frank as the opportunities arise.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/dodd-frank-financial-protection.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

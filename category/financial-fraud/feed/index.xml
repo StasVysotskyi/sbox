@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>financial fraud &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Finally, prosecutions&#8230;</title>
+		<link>./../../2013/02/finally-prosecutions.html</link>
+		<comments>./../../2013/02/finally-prosecutions.html#respond</comments>
+		<pubDate>Sun, 17 Feb 2013 14:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[financial fraud]]></category>
+		<category><![CDATA[prosecutions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/finally-prosecutions.html</guid>
+		<description><![CDATA[From Huffington Post comes this example of prosecutions of fraud and malfeasance (well, tongue in cheek if the pain was less, but 22 trillion IS a lot of money): The bank fired Richard Eggers from his job of seven years as a customer service representative after the company found out about a decades-old run-in with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.huffingtonpost.com/2012/08/28/richard-eggers-wells-fargo_n_1836441.html">From Huffington Post</a> comes this example of prosecutions of fraud and malfeasance (well, tongue in cheek if the pain was less, but 22 trillion IS a lot of money):<br />
+<blockquote>The bank <a href="http://www.desmoinesregister.com/article/20120827/BUSINESS/120827016/?nclick_check=1">fired Richard Eggers from his job</a> of seven years as a customer service representative after the company found out about a decades-old run-in with the law, the <em>Des Moines Register</em> reports. In 1963 Eggers got caught putting a cardboard cut-out of a dime in a washing machine at a laundromat.</p>
+<p>Eggers’ firing is one of thousands now occurring due to stricter guidelines on bank and mortgage lender employees that went into effect last year. The new rules are meant to gut the institutions of workers convicted of various types of fraud, but the <a href="http://www.woi-tv.com/story/19390887/man-fired-50-years-after-laudromat-fraud">casualties have largely been low-level workers</a> like Eggers, according to ABC5 News.</p>
+<p>&#8220;We don&#8217;t have discretion to grant exceptions in situations like this,&#8221; Angela Kaipust, a spokeswoman for Wells Fargo <a href="http://www.woi-tv.com/story/19390887/man-fired-50-years-after-laudromat-fraud">told the television station</a>. &#8220;Once we find out someone has a criminal history of dishonesty or breach of trust we can no longer employ them.&#8221;<br />In a similar case, <a href="http://www.huffingtonpost.com/2012/05/07/yolanda-quesada-wells-fargo_n_1496273.html#s609107&#038;title=10_Real_Estate">Wells Fargo fired Yolanda Quesada</a> in May after a background check turned over a shoplifting charge from 1972.</p></blockquote>
+<p>Also see:</p>
+<p><a href="http://www.huffingtonpost.com/2013/02/15/seven-and-a-half-things-_n_2689429.html?ref=topbar">Seven and one half things</a>  Some more commentary</p>
+<p><a href="http://www.huffingtonpost.com/2013/02/14/financial-crisis-cost-gao_n_2687553.html?ref=topbar">GAO report on financial crisis costs</a>   22 trillion?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/finally-prosecutions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

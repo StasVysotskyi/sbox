@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sustainable growth &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Health Care thoughts: Yes, No , Sorta, Kinda, Maybe</title>
+		<link>./../../2010/12/health-care-thoughts-yes-no-sorta-kinda-maybe.html</link>
+		<comments>./../../2010/12/health-care-thoughts-yes-no-sorta-kinda-maybe.html#respond</comments>
+		<pubDate>Wed, 08 Dec 2010 04:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[sustainable growth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/health-care-thoughts-yes-no-sorta-kinda-maybe.html</guid>
+		<description><![CDATA[by Tom aka Rusty Rustbelt Health Care: Yes, No , Sorta, Kinda, Maybe Medicare rates for physicians have been, supposedly, regulated by the SGR* formula since 1998, but the formula is so wretched and lobbyists so strong the formula has been repeatedly postponed. The Obama administration has been determined to do a one time catch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Tom aka Rusty Rustbelt</strong></p>
+<p><strong>Health Care: Yes, No , Sorta, Kinda, Maybe</strong></p>
+<p>Medicare rates for physicians have been, supposedly, regulated by the SGR* formula since 1998, but the formula is so wretched and lobbyists so strong the formula has been repeatedly postponed.</p>
+<p>The Obama administration has been determined to do a one time catch up, which was scheduled to make an average cut of about 24% on December 1, 2010.</p>
+<p>Congress has felt the heat from many different constituencies, but has been unable or unwilling to develop a new system.</p>
+<p>The latest is the &#8221; “Physician Payment and Therapy Relief Act of 2010.”  Impressive title, but it is simply a one month reshuffling of some funds, a kick the can down the road   strategy that just delays the inevitable.</p>
+<p>This is no way to make policy.</p>
+<p>*Sustainable Growth Rate</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/health-care-thoughts-yes-no-sorta-kinda-maybe.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

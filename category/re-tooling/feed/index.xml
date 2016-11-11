@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>re-tooling &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Rapacious, monopolistic robotic,</title>
+		<link>./../../2013/01/rapacious-monopolistic-robotic.html</link>
+		<comments>./../../2013/01/rapacious-monopolistic-robotic.html#respond</comments>
+		<pubDate>Wed, 30 Jan 2013 18:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[jobs]]></category>
+		<category><![CDATA[re-tooling]]></category>
+		<category><![CDATA[robots]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/rapacious-monopolistic-robotic.html</guid>
+		<description><![CDATA[Krugman changes his mind Naked Capitalism In a recent post Krugman says the following Paul Krugman is Wrong about the Rise of the Robots Wapo Reminds me of conscious capitalism from Tyler Cowen&#8217;s review Conscious Capitalism Mish Shedlock Robotic surgeons]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.angrybearblog.com/2012/12/paul-krugman-changes-his-mind-on.html" target="_blank">Krugman changes his mind</a></p>
+<p><a href="http://www.nakedcapitalism.com/2013/01/robots-dont-destroy-jobs-rapacious-corporate-executives-do.html" target="_blank">Naked Capitalism</a></p>
+<p><a href="http://krugman.blogs.nytimes.com/2012/12/26/is-growth-over/" target="_blank">In a recent post Krugman says the following</a></p>
+<p><a href="http://www.newyorker.com/online/blogs/newsdesk/2012/12/will-robots-take-over-our-economy.html" target="_blank"></a></p>
+<p><a href="http://econfuture.wordpress.com/2013/01/18/paul-krugman-is-wrong-about-the-rise-of-the-robots/" target="_blank">Paul Krugman is Wrong about the Rise of the Robots</a></p>
+<p><a href="http://www.washingtonpost.com/opinions/matt-miller-the-robots-are-coming/2013/01/09/caac3e0a-5a57-11e2-88d0-c4cf65c3ad15_story_1.html" target="_blank">Wapo</a></p>
+<p>Reminds me of conscious capitalism from Tyler Cowen&#8217;s review    <a href="http://marginalrevolution.com/marginalrevolution/2012/12/conscious-capitalism.html" target="_blank">Conscious Capitalism</a></p>
+<p><a href="http://globaleconomicanalysis.blogspot.com/2013/01/meet-baxter-robot-out-to-get-your.html?x#echocomments" target="_blank">Mish Shedlock</a></p>
+<p><a href="http://tech.fortune.cnn.com/2013/01/15/robotic-surgeons/" target="_blank">Robotic surgeons</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/rapacious-monopolistic-robotic.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>community &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Have a good Thanksgiving all&#8230;</title>
+		<link>./../../2011/11/have-a-good-thanksgiving-all.html</link>
+		<comments>./../../2011/11/have-a-good-thanksgiving-all.html#respond</comments>
+		<pubDate>Thu, 24 Nov 2011 05:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[common good]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[compassion]]></category>
+		<category><![CDATA[gratitude]]></category>
+		<category><![CDATA[sharing]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/have-a-good-thanksgiving-all.html</guid>
+		<description><![CDATA[To all our readers..]]></description>
+				<content:encoded><![CDATA[<p>To all our readers..</p>
+<p><a href="http://4.bp.blogspot.com/-LoeS-n_oPpo/Ts3OKPqQ0jI/AAAAAAAAAxc/jAfEjqYQ6s8/s1600/happy-thanksgiving-1.jpg"><img src="http://4.bp.blogspot.com/-LoeS-n_oPpo/Ts3OKPqQ0jI/AAAAAAAAAxc/jAfEjqYQ6s8/s320/happy-thanksgiving-1.jpg" border="0" alt=""></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/have-a-good-thanksgiving-all.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>speculative trading &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>A Deeper Dive into Oil Pricing</title>
+		<link>./../../2012/01/a-deeper-dive-into-oil-pricing.html</link>
+		<comments>./../../2012/01/a-deeper-dive-into-oil-pricing.html#respond</comments>
+		<pubDate>Thu, 05 Jan 2012 14:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[oil prices]]></category>
+		<category><![CDATA[speculative trading]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/a-deeper-dive-into-oil-pricing.html</guid>
+		<description><![CDATA[In the previous post, I suggested that speculation is driving oil prices higher than they should be.  In this follow-up, I think I can show that oil prices are not behaving in a completely supply-demand determined way.  We&#8217;ll look at price activity, volatility, and an estimate of what rational pricing might be. First, here is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In <a href="http://www.angrybearblog.com/2012/01/speculation-about-oil.html">the previous post</a>,  I suggested that speculation is driving oil prices higher than they  should be.  In this follow-up, I think I can show that oil prices are  not behaving in a completely  supply-demand determined way.  We&#8217;ll look at price activity, volatility,  and an estimate of what rational pricing might be.</p>
+<p>First, here is Brent Crude spot price activity since 1987, data from the <a href="http://www.eia.doe.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&#038;s=RBRTE&#038;f=D">U.S Energy Information Administration</a>.   I&#8217;ve taken a weekly average of daily data, and plotted it as of each  Friday (it was just a lot easier than trying to work their data table  into a daily data plot.) Also included is a 55 week moving average.</p>
+<p>
+<div><a href="http://2.bp.blogspot.com/-LnutkGLOsMc/TdWEUspIH5I/AAAAAAAABQ4/g-WgtvPLtQY/s1600/Brent+Price.jpg"><img border="0" height="223" src="http://2.bp.blogspot.com/-LnutkGLOsMc/TdWEUspIH5I/AAAAAAAABQ4/g-WgtvPLtQY/s400/Brent+Price.jpg" width="400"></a></div>
+<p>As you can see, the price really took off after 2000.  Coincidentally,  the Gramm–Leach–Bliley (Financial Services Modernization) Act of 1999,  which undid portions of the Glass-Steagall of 1933, was signed into law  on Nov 12 of that year, and the Commodities Futures Modernization Act of  2000 was signed into law on Dec 21 of that year.  These new laws  allowed mega-consolidation in the finance industry and prohibited the  regulation of certain speculative activities.</p>
+<p><a name="more"></a>Here is the same data, separated into two graphs around the year 2000.   Also shown are the 55 week moving average, and an envelope one standard  deviation above and below the average.  St Dev is based on the same 55  data points as the moving average.  The sections of the price line that  extend above the {Avg + St Dev} line are highlighted. </p>
+<div><a href="http://4.bp.blogspot.com/-DQ3LPLC5CbE/TdWKhBMbrSI/AAAAAAAABQ8/dnoqFCog58E/s1600/Brent+Price+to+2000.jpg"><img border="0" height="223" src="http://4.bp.blogspot.com/-DQ3LPLC5CbE/TdWKhBMbrSI/AAAAAAAABQ8/dnoqFCog58E/s400/Brent+Price+to+2000.jpg" width="400"></a></div>
+<p>
+<div><a href="http://1.bp.blogspot.com/-qdfaEcIxtKk/TdWKkmlTvhI/AAAAAAAABRA/iCqfNWfK7ug/s1600/Brent+Price+Since+2000.jpg"><img border="0" height="223" src="http://1.bp.blogspot.com/-qdfaEcIxtKk/TdWKkmlTvhI/AAAAAAAABRA/iCqfNWfK7ug/s400/Brent+Price+Since+2000.jpg" width="400"></a></div>
+<p>The entire data set contains 1166 points.  Of these, 428, or 36.7%, lie more than 1 Standard deviation above the moving average.  For the segment through 1999, 156 of  574 points, or 27.18%, lie above the St Dev envelope.  For the segment 2000 on, 272 of 592 points, or 45.95%,  lie above the St Dev envelope.</p>
+<p>For data normally distributed around the mean, about 1/3 of the data  points should lie outside the 1 Std Dev envelope, half of them (1/6 of the data set) above and half  below.   I&#8217;m no statistician, but this is not a well behaved data set.   Clearly, there is a powerful high-side bias.  What could be the cause?   Here are some possibilities.</p>
+<p>1) Supply-demand forces in a growing world economy are so skewed to the demand side that this is that natural result.<br />2) External forces, such as panic due to war and instability in the Middle-East, have irrationally raised prices.<br />3) Speculative forces with a strong long-side bias have skewed the market away from a supply-demand determined price level.<br />4) Withheld supply due to OPEC activities, contango (hoarding on leased  tankers), and the disruption of Iraqi supply for the last decade have  unnaturally skewed the supply component.</p>
+<p>My view is that possibilities 2 &#8211; 4 are all operating to some degree.</p>
+<p>I have no way of evaluating 2 and 4. However, 4 seems reasonable, in view of the classic description of inflation: too many dollars chasing too few goods.  This effect could also spill into into futures  speculation, where the amount of oil traded is finite, but the amount of  speculative money available <i>appears not to be</i>.</p>
+<p>To  be clear, I&#8217;m not talking about CPI inflation, I&#8217;m talking about  commodity-specific inflation.   I believe that financial tail-chasing  has not been limited to oil speculation.  There is enormous wealth in  the world, and to a large extent, it is not being devoted to legitimate  investment.  It is being devoted to computer generated program trading  that capturess tiny fractional percentage gains millions of times per  day, to skim money away from those who use exchanges for valid purposes.</p>
+<p>And maybe we can get a handle on speculation.  My hypothesis is that  deregulation in the 1999-2000 time frame has enabled and encouraged  speculative rent-seeking activities in the oil futures market, which has  inflated the price of crude.  One way to go at it is to have a look at  volatility.  We already have standard deviation in our hip pocket.   Let&#8217;s see what we can do with it.</p>
+<p>Here is standard deviation, based on 55 consecutive data points, divided  by the average of those data points.  Just for kicks, included are a 55  point moving average of the St Dev in red  (for what it&#8217;s worth &#8211;  not  much, I&#8217;d say) and a best fit (least squares) trend line.  </p>
+<p>
+<div><a href="http://1.bp.blogspot.com/-PUM5_tQ6ZqQ/TdWZYyjT1AI/AAAAAAAABRE/Dbr7wgUn-Ro/s1600/St+Dev.jpg"><img border="0" height="223" src="http://1.bp.blogspot.com/-PUM5_tQ6ZqQ/TdWZYyjT1AI/AAAAAAAABRE/Dbr7wgUn-Ro/s400/St+Dev.jpg" width="400"></a></div>
+<p>Well &#8211; the trend line slopes up a bit, but that&#8217;s not really a lot to go  on.  On the other hand, the entire 90&#8217;s lie below the trend line.  In  fact, except for the 1990 price spike, most of the of the St Dev values  prior to about 1999 lie below the trend line.  Let have a closer look.</p>
+<p>Here, the data are divided into two segments,  up through 1999, and 2000  and beyond.   For the early segment, the St Dev/ Price line is in dark  blue and the 55 week average is in red.  For the latter segment, the  lines are light blue and yellow, respectively.  Now, the trend lines  tell an interesting story.  For the early period, the trend line is  essentially flat, with a slight downward slope.  For the latter period,  the slope is clearly upward.  Despite the localized gyrations, we can  see that prior to deregulation, volatility had no trend.  After  deregulation the trend is up.</p>
+<p>
+<div><a href="http://1.bp.blogspot.com/-1-BH-o_T7sY/TdWdyDlIbPI/AAAAAAAABRI/smt590OgKxo/s1600/St+Dev+Segmanted.jpg"><img border="0" height="223" src="http://1.bp.blogspot.com/-1-BH-o_T7sY/TdWdyDlIbPI/AAAAAAAABRI/smt590OgKxo/s400/St+Dev+Segmanted.jpg" width="400"></a></div>
+<p>Up to 1999, St Dev / Price averaged 12.65% (exclusive of the 1990  spike, taken as August, 1990 through January, 1991 the value is 12.01%  )  From 2000 until now, the St Dev / Price averaged 15.06%. </p>
+<p>So, what we see is that since since deregulation, prices have gone up,  volatility has gone up, and upside bias in the data set has gone up.   Let&#8217;s resurrect possibility 1) and see if demand pressure can be the  cause.  To get a handle on this, I took a closer look at my speculative  idea from <a href="http://www.angrybearblog.com/2012/01/speculation-about-oil.html">the previous post</a>, and  extrapolated prices forward from 1990, based on hypothetical constant  growth rates.  Originally, I took a SWAG at the 1990 average price, and  came up with $30 per barrel.  With a growth rate of 4% over 21 years,  that would result in a current price of $68.36.  The 4% growth rate came  from a generous estimate of World GDP growth over the period, assuming a  direct, linear link between GDP growth and demand for petroleum.</p>
+<p>Here is a graph based on the data instead of a SWAG.  It shows constant  price increase rates of 3, 4 and 5% per year, based on the actual 1990  average price of $23.66.  The first thing to note is that my $30 SWAG  was more than $6 too high.  The next thing to notice is that 1990 was  the worst possible year to select, given the point I&#8217;m trying to make.   Due to the local spike, the 1990 average of $23.66 is almost $5 higher  than the 1987 to 1993 average of $18.84.  So, if anything, my estimate  of $68.36 is artificially high.</p>
+<p>Still, I went with the 1990 average for this chart.  Extrapolations are  based on growth rates of 3 (yellow), 4 (red) and 5(green)% from the 1990  average of $23.66.  This gives Mid 2011 price estimates as follows.</p>
+<p>At 3%   $43.34<br />At 4%   $53.02<br />At 5%   $64.09</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-1Xig03nsNMI/TdWidldc6HI/AAAAAAAABRM/A4QXUgVsNJ0/s1600/Price+Rise+Estimates.jpg"><img border="0" height="223" src="http://4.bp.blogspot.com/-1Xig03nsNMI/TdWidldc6HI/AAAAAAAABRM/A4QXUgVsNJ0/s400/Price+Rise+Estimates.jpg" width="400"></a></div>
+<p>I&#8217;m not suggesting that this is a fool-proof method.  However, it is  gratifying that it is more-or-less consistent with the oil industry  estimation of a supply-demand determined price.  Further, these price  growth estimates are quite generous, since estimates of petroleum demand  growth are in the range of <a href="http://planetforlife.com/oilcrisis/oilsituation.html">1.6</a> to <a href="http://physics.wwu.edu:8082/jstewart/physics101/worldconsumption.pdf">2.3</a> %. </p>
+<p>My conclusions:<br />1) The price of oil is far above rational, market-based pricing.<br />2) While other distortions and manipulations are likely to play a part  in an inflated price, it&#8217;s not clear how they could contribute to  increased volatility.<br />3) Unregulated, excessive speculation, with a long side bias is  indisputably taking place.  I believe this is a major contributor to  excessive price inflation, and the sole contributor to excess  volatility.</p>
+<p>Do you have a better idea?  Let&#8217;s hear it.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/a-deeper-dive-into-oil-pricing.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Speculation About Oil</title>
+		<link>./../../2012/01/speculation-about-oil.html</link>
+		<comments>./../../2012/01/speculation-about-oil.html#respond</comments>
+		<pubDate>Wed, 04 Jan 2012 14:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[oil prices]]></category>
+		<category><![CDATA[speculative trading]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/speculation-about-oil.html</guid>
+		<description><![CDATA[Last Spring, some Democrats and liberals (Ed Schultz and Bernie Sanders spring readily to mind) who have somehow resisted the enlightenment of unfettered free markets suggested that high oil prices are due to speculation. Noah Smith took this subject on, asking the question: &#8220;Do speculators cause oil and/or gas prices to rise above their &#8220;natural&#8221; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last Spring, some Democrats and liberals (Ed Schultz and Bernie Sanders spring readily to mind) who have somehow resisted the enlightenment of unfettered free markets suggested that high oil prices are  due to speculation.</p>
+<p>Noah Smith <a href="http://noahpinionblog.blogspot.com/2011/05/speculators-and-oil-prices-what.html">took this subject on</a>, asking the question: &#8220;<i>Do speculators cause oil and/or gas prices to rise above their &#8220;natural&#8221; or fundamental level?</i>&#8221;   Noah&#8217;s take is that speculation is innocent, and he cites some corroborating experimental evidence.  I&#8217;m a big fan, but this time I think Noah missed the point.  First, I&#8217;ll state right up front that futures markets play a vital role in allowing the producers and first-line purchasers of various commodities to be able to stabilize their cash flows and construct realistic business plans.  So &#8211; yes, futures markets are a good thing.</p>
+<p>On the other hand, when quizzed by Senator Cantwell on why big, trans-national oil companies should continue to receive multiple billions of dollars in tax breaks, Exxon CEO Rex Tillerson admitted that a good estimate of a supply-demand determined price (considering the price of the next marginal barrel)  for crude is in the range of $60 to $70 per barrel.</p>
+<p><a name="more"></a></p>
+<p>For reference, <a href="http://www.eia.doe.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&#038;s=RBRTE&#038;f=D">here is a chart and data table for Brent crude</a>, going back to 1987.</p>
+<p>
+<div><a href="http://1.bp.blogspot.com/-zVm_T-xqucM/TwM2HrlWUdI/AAAAAAAABu8/gD1bBEKfj_A/s1600/Brent+-+through+2011.JPG" imageanchor="1"><img border="0" height="298" src="http://1.bp.blogspot.com/-zVm_T-xqucM/TwM2HrlWUdI/AAAAAAAABu8/gD1bBEKfj_A/s400/Brent+-+through+2011.JPG" width="400"></a></div>
+<p>At the depth of the global recession, on Boxing Day 2008, when the world was coming to an end, the price dipped below $34.  Be that as it may, with recent prices back over $100, we&#8217;re looking at premiums over a rational value estimate of from 60 to 85%.   Let&#8217;s just call it 75% for convenience.</p>
+<p>Now, back to the point that Noah misses, and that Senator Cantwell suggested.  What is the effect of <i>unregulated</i> speculation on the price of oil?  The Senator estimates 30% activity by concerned stake-holders, and 70% by profit-seeking (in my view rent-seeking) speculators who are playing the market for a profit.  The graph on <a href="http://bakerinstitute.org/publications/EF-pub-MedlockJaffeOilFuturesMarket-082609.pdf">Pg 5 of this study</a> (18 Pg. pdf) suggests a ratio closer to 45% commercial and 55% non-commercial interest.  Also it looks like open interest, which had been relatively flat for years, increased by a factor of 6 or 7.  This financial tail chasing, aided and abetted by deregulation, is a direct manifestation of the asset misallocation that, in my view, is the real cause of The Great Stagnation.</p>
+<p>A look at the oil price chart shows 10 to 15 years of more-or-less flat line in the range of $20, followed by a classic bubble and post-bubble bounce.  As an aside, this is typical Elliott wave behavior.  I can easily trace a five wave rise to the peak, and what looks like the recent end of a counter-current B-wave since the Dec. &#8217;08 bottom.  If this is anywhere near correct, the price of crude a decade from now will be eye-poppingly low, and fundamentals be damned.</p>
+<p>As an example of a classic bubble peak, consider the Dow Jones Industrial Average during and after the 1929 crash.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=49W" imageanchor="1"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=49W" width="400"></a></div>
+<p> But let&#8217;s look at fundamentals, anyway.  Global GDP growth since 1980 has been<a href="http://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&#038;met_y=ny_gdp_mktp_kd_zg&#038;tdim=true&#038;dl=en&#038;hl=en&#038;q=global+gdp+growth#ctype=l&#038;strail=false&#038;bcs=d&#038;nselm=h&#038;met_y=ny_gdp_mktp_kd_zg&#038;scale_y=lin&#038;ind_y=false&#038;rdim=country&#038;ifdim=country&#038;tdim=true&#038;tstart=31726800000&#038;tend=1262494800000&#038;hl=en&#038;dl=en"> in the range of 2 to 5%</a>.  Let&#8217;s generously call it 4%.  The price of crude in 1990 varied from about $15 to $41.  Let&#8217;s generously call it $30, on average.</p>
+<p>If we compound $30 at 4% for 21 years we get (are you ready for this) $68.36.  And this is based on generous numbers.</p>
+<p>Not a rock-solid price algorithm, for sure, but it ought to be in the ball park.  Maybe it&#8217;s just a coincidence that this number corroborates Rex Tillerson&#8217;s off-hand estimate.</p>
+<div>Maybe it&#8217;s another coincidence that oil prices took off after Phil  Graham pushed through legislation (signed by Billy-Bob Clinton at tail  end of his battered second term) that exempted some speculative  trading from certain regulations dating back to the Commodities Exchange Act of 1936.  One of these exemptions was removing this requirement: &#8220;<i>Either  way, both the buyer and the seller of a futures contract are  obligated  to fulfill the contract requirements at the end of the contract  term</i>&#8221; from oil and other energy products.  In case this is not crystal clear, it means that back in the bad old days of regulation, a contract had to be  closed by executing the opposite transaction from the original prior to  expiration, to avoid either supplying or receiving the physical amount  of the contract.   But after deregulation this requirement was not in force for oil.  </div>
+<p>Maybe it&#8217;s another coincidence that Morgan Stanley became the <a href="http://boards.fool.com/morgan-stanley-the-largest-american-oil-company-27341268.aspx">largest oil company in America</a>. Plus, another point that Noah explicitly missed is that big, speculative finance entities did, in fact engage in physical hoarding.  <a href="http://www.heatingoil.com/blog/morgan-stanley-floating-storage-of-oil-increased-by-75-last-week427/">Here is a 20 month old news flash</a>.</p>
+<blockquote><p>Oil traders are taking advantage of a market condition known as  contango, in which the price for future delivery is greater than the  price for spot (immediate) delivery. If the difference between the two  prices is more than the cost of chartering an oil tanker, traders stand  to profit. The difference between the price of crude oil for June  delivery and the price of crude oil for July delivery is more than $2.00  a barrel; that’s enough to defray the cost of chartering a very large  crude carrier (VLCC), which holds about 2 million barrels of oil and, as  of April 23, cost $43,876 per day, according to the Baltic Exchange.</p></blockquote>
+<p>How much of an incentive to keep prices artificially high do you suppose is provided by a cost of $43,876 per day?  That&#8217;s $1.31 million per month.</p>
+<p>And that&#8217;s why I think Ed Schultz, Bernie Sanders, and Maria Cantwell might actually be on to something.<br />________________________________<br />An earlier (and to be honest, inferior) version of article was posted on <a href="http://jazzbumpa.blogspot.com/2011/05/some-of-crazed-democrats-and-liberals.html">Retirement Blues</a> back in May.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/speculation-about-oil.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>UBS</title>
+		<link>./../../2011/09/ubs.html</link>
+		<comments>./../../2011/09/ubs.html#respond</comments>
+		<pubDate>Fri, 16 Sep 2011 15:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[proprietary trading]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[speculative trading]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/ubs.html</guid>
+		<description><![CDATA[I won&#8217;t be saying anything publicly about this one. (Cue sighs of relief from ignorant economists.) Kid Dynamite will.]]></description>
+				<content:encoded><![CDATA[<p>I won&#8217;t be saying anything publicly about this one. (Cue sighs of relief from ignorant economists.)</p>
+<p>Kid Dynamite <a href="http://kiddynamitesworld.com/">will</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/ubs.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Senate passes HR 4173 finance reform conference report</title>
+		<link>./../../2010/07/senate-passes-hr-4173-finance-reform-conference-report.html</link>
+		<comments>./../../2010/07/senate-passes-hr-4173-finance-reform-conference-report.html#respond</comments>
+		<pubDate>Fri, 16 Jul 2010 14:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Dodd-Frank bill]]></category>
+		<category><![CDATA[Elizabeth Warren]]></category>
+		<category><![CDATA[financial reform]]></category>
+		<category><![CDATA[HR 4173]]></category>
+		<category><![CDATA[securitization]]></category>
+		<category><![CDATA[speculative trading]]></category>
+		<category><![CDATA[Tim Geithner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/senate-passes-hr-4173-finance-reform-conference-report.html</guid>
+		<description><![CDATA[by Linda Beale crossposted with Ataxingmatter Senate passes HR 4173 finance reform conference report[updated to add information on Geithner&#8217;s opposition to Warren 7:12 pm] On a 60-39 vote, the US Senate passed the Dodd-Frank H.R. 4173 financial reform conference report today. While the bill imposes some new restrictions and creates a consumer protection agency, most [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>by Linda Beale</strong> <br />crossposted with Ataxingmatter</p>
+<p><a target="_blank" href="http://ataxingmatter.blogs.com/tax/2010/07/senate-passes-hr-4173-finance-reform-conference-report-.html"><strong>Senate passes HR 4173 finance reform conference report</strong></a><br />[updated to add information on Geithner&#8217;s opposition to Warren 7:12 pm]</p>
+<p>On a 60-39 vote, the US Senate passed the <a target="_blank" href="http://www.govtrack.us/congress/bill.xpd?bill=h111-4173">Dodd-Frank H.R. 4173 financial reform conference report</a> today.  While the bill imposes some new restrictions and creates a consumer protection agency, most of the impact will come (if it comes) through regulation as the new systemic risk council oversees bank issues and decides whether activities of banks pose sufficient risk to be regulated or eliminated.  Capital requirements and leverage requirements, for example, are not directly set in the bill.  The US is likely to settle with the capital and leverage standards set by Basle III, the discussions going on now at the Bank for International Settlements regarding updating of the 2004 standards.   In those talks, thje banks lobbying are making inroads on the fairly tough standards originally proposed in December, as officials yield to fears (cited by the banks) that tough capital and leverage requirements will dampen the economic revival.  See, e.g., Damian Paletta and David Enrich, Banks Gain in Rules Debate: Regulators Seen Diluting Strictest New &#8216;Basel&#8217; Curbs; Credit Crunch Fears Remain, Wall St. Journal, July 15, 2010, at A1.<br /><a name="more"></a><br />Query whether we have learned anything from this crisis at all.  Officials remain at the mercy of banks&#8211;bailing them out, providing cheap cost of funds through implicit and explicit guarantees, and letting, even encouraging, them to get back to the old securitization games that allowed them to generate liquid and easy credit without adhering to prudential banking standards since the lender was not the one holding on to the loans over the long term.  Banks argue for remaining entangled with their profitable proprietary trading and derivatives businesses, since they know that the synergies of being able to use cheap depositor funding for their investment-banking activities means high profits for them, even if it may mean socialization of losses down the road.  See Simon Nixon, Barclays Capped by Regulatory Risk, Wall St. J., July 13, 2010, at C10</p>
+<p>Interestingly, Tim Geithner has come out against having Elizabeth Warren appointed as head of the new consumer protection agency created by the reform bill.  Nasiripour, <a target="_blank" href="http://www.huffingtonpost.com/2010/07/15/tim-geithner-opposes-nomi_n_647691.html">Tim Geithner Opposes Nominating Warren to Head new Consumer Agency</a>, Huffington Post, Jul. 15, 2010.  Having watched Prof. Warren in action and read the scathingly honest output of her term at the head of the bailout watchdog commission, I can&#8217;t think of a better person to head the agency.  One suspects that Geithner is concerned about a gradual erosion of the power of the Wall Street clique (Geithner, Summers and Bernancke) with the forceful Warren on the job with the ear of the President.   Personally, I think that power needs to be eroded, so Geithner&#8217;s concern makes Warren an even better choice.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/senate-passes-hr-4173-finance-reform-conference-report.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>money flows &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>How money enters the economy through deficit spending</title>
+		<link>./../../2013/03/how-money-enters-the-economy-through-deficit-spending.html</link>
+		<comments>./../../2013/03/how-money-enters-the-economy-through-deficit-spending.html#respond</comments>
+		<pubDate>Mon, 04 Mar 2013 14:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Matthew McOsker]]></category>
+		<category><![CDATA[money flows]]></category>
+		<category><![CDATA[spending and saving]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/how-money-enters-the-economy-through-deficit-spending.html</guid>
+		<description><![CDATA[Guest post:  From reader McWop who has been a constant for a number of years, aka Matthew McOsker, writes on: How money enters the economy through deficit spending. A simple model for discussion. When the government deficit spends here are the mechanics: a) Government buys goods from some private entity, let&#8217;s say $1,000 worth. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Guest post</strong>:  From reader McWop who has been a constant for a number of years, aka <strong>Matthew McOsker</strong>, writes on: </p>
+<p><strong>How money enters the economy through deficit spending. A simple model for discussion.</strong><br /><strong><br /></strong>
+<div><a href="http://2.bp.blogspot.com/-C-EzVf3pXwg/UTSi30f3cwI/AAAAAAAABiY/SRUQAmDQO2o/s1600/NFA.png" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/-C-EzVf3pXwg/UTSi30f3cwI/AAAAAAAABiY/SRUQAmDQO2o/s1600/NFA.png" height="318" width="320"></a></div>
+<p><strong><br /></strong> 
+<div></div>
+<p>When the government deficit spends here are the mechanics:</p>
+<p><a name="more"></a></p>
+<p>a) Government buys goods from some private entity, let&#8217;s say $1,000 worth. The government deficit spends to do this. They credit the private entity&#8217;s checking account to the tune of $1,000 (increases reserves by $1,000)</p>
+<p>b) Government issues a bond for $1,000</p>
+<p>c) Private entity&#8217;s checking account is debited $1,000 to buy…</p>
+<p>On net, a financial asset of $1,000 has been added to the economy &#8211; the original reserves are still there!<br />In this spreadsheet I have created three scenarios, for the sake of discussion. Don&#8217;t worry where the initial $1,000 for each person comes from, do not consider one rich or one poor &#8211; this is for illustrative purposes only to see the mechanics. There is no foreign trade, nor any private borrowing. That is for another discussion. Treat each year as a a calendar year.</p>
+<p>Example 1, the government runs a surplus, and makes zero purchases. Quite simply the surpluses drain the economy and essentially drive the private sector into debt. The government does not save surpluses in any account for a rainy day. Its a drain.</p>
+<p>For Example 2, we add in government purchases which slows the drain.</p>
+<p>In Example 3, we deficit spend, which adds money to the economy &#8211; there is more there to drive aggregate demand.</p>
+<p>Deficit spending is our savings, it is NOT like a household budget.</p>
+<p>Link to spreadsheet:</p>
+<p><a href="https://docs.google.com/spreadsheet/pub?key=0AqGNMQMNwA0tdFNRX3N0MDJhN0o1eFBVTEswc1k4MVE&#038;single=true&#038;gid=0&#038;output=html">https://docs.google.com/spreadsheet/pub?key=0AqGNMQMNwA0tdFNRX3N0MDJhN0o1eFBVTEswc1k4MVE&#038;single=true&#038;gid=0&#038;output=html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/how-money-enters-the-economy-through-deficit-spending.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Malcolm Gladwell &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Yves Smith takes aim at Malcolm Gladwell</title>
+		<link>./../../2012/06/yves-smith-takes-aim-at-malcolm-gladwell.html</link>
+		<comments>./../../2012/06/yves-smith-takes-aim-at-malcolm-gladwell.html#respond</comments>
+		<pubDate>Thu, 07 Jun 2012 14:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[journalism]]></category>
+		<category><![CDATA[Malcolm Gladwell]]></category>
+		<category><![CDATA[Yves Smith]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/yves-smith-takes-aim-at-malcolm-gladwell.html</guid>
+		<description><![CDATA[Yves Smith has a very long post on Malcolm Gladwell: Yves here. Yasha Levine and Mark Ames have launched the S.H.A.M.E. Project, which stands for “Shame the Hacks who Abuse Media Ethics.” Its approach is to provide information about the background and funding sources of well-recognized journalists and pundits so that the public will be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.nakedcapitalism.com/2012/06/malcolm-gladwell-unmasked-a-look-into-the-life-work-of-americas-most-successful-propagandist.html" target="_blank">Yves Smith</a> has a very long post on Malcolm Gladwell:<br />
+<blockquote>Yves here. Yasha Levine and Mark Ames have launched the <a href="http://shameproject.com/">S.H.A.M.E. Project</a>, which stands for “Shame the Hacks who Abuse Media Ethics.” Its approach is to provide information about the background and funding sources of well-recognized journalists and pundits so that the public will be in a better position to recognize bias and hidden agendas in their reporting and analysis. You can find a S.H.A.M.E dossier on Gladwell <a href="http://shameproject.com/profile/malcolm-gladwell-2/">here</a>. </p></blockquote>
+<p>
+<blockquote>By Yasha Levine, President of S.H.A.M.E., an investigative journalist and a founding <a href="http://exiledonline.com/yasha-levine/">editor of<em>The eXiled</em></a>. His work has been published by Wired, The Nation, Slate, The New York Observer and many others. He has made several guest appearances on MSNBC’s Dylan Ratigan Show.<br />… </p></blockquote>
+<blockquote><p>Malcolm Gladwell is the <em>New Yorker’s </em>leading essayist and bestselling author. <em>Time</em> magazine named Gladwell one of the world’s 100 most influential people. His books sell copies in the millions, and he is in hot demand as one of the nation’s top public intellectual and pop gurus. Gladwell plays his role as a disinterested public intellectual like few others, right down to the frizzy hairdo and smock-y getups. His political aloofness, high-brow contrarianism and constant challenges to “popular wisdom” are all part of his shtick. </p></blockquote>
+<blockquote><p>But beneath Malcolm Gladwell’s cleverly-crafted ambiguity, beneath the branded facade, one finds, with surprising ease, a common huckster on the take. I say “surprising ease” because it’s all out there on the public record.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/yves-smith-takes-aim-at-malcolm-gladwell.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2010 census &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The 2010 Census is published</title>
+		<link>./../../2010/12/the-2010-census-is-published.html</link>
+		<comments>./../../2010/12/the-2010-census-is-published.html#respond</comments>
+		<pubDate>Tue, 21 Dec 2010 21:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2010 census]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/the-2010-census-is-published.html</guid>
+		<description><![CDATA[The 2010 Census is out now&#8230;.lots of data.]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.census.gov/">The 2010 Census</a> is out now&#8230;.lots of data.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/the-2010-census-is-published.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

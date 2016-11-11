@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>liveblogging &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>U.S. Civil War 150 years ago</title>
+		<link>./../../2011/03/u-s-civil-war-150-years-ago.html</link>
+		<comments>./../../2011/03/u-s-civil-war-150-years-ago.html#respond</comments>
+		<pubDate>Fri, 11 Mar 2011 23:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Civil War]]></category>
+		<category><![CDATA[liveblogging]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/u-s-civil-war-150-years-ago.html</guid>
+		<description><![CDATA[Events 150 years ago should be remembered in 2011. A large re-enactment of scenes of the battle is planned for Gettysburg 1-3 July 2013. There were many event leading up to, and following, the greatest battle fought in the Western Hemisphere and they also should be commemorated. “11 Mar in 1861 is significant; it is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Events 150 years ago should be remembered in 2011.  A large re-enactment of scenes of the battle  is planned for Gettysburg 1-3 July 2013.  There were many event leading up to, and following, the greatest battle fought in the Western Hemisphere and they also should be commemorated.</p>
+<p>“11 Mar in 1861 is significant; it is the date that the several states having seceded from the United States began ratifying constitution.  That constitution was ratified in the following manner.”</p>
+<p>““March 11, 13, 16, 21, 23, 29, April 3, 22: The Confederate Congress adopts a permanent Constitution of the Confederate States on March 11.[185][202] The then seceded states ratify this constitution on March 13 (Alabama), March 16 (Georgia), March 21 (Louisiana), March 23 (Texas), March 29 (Mississippi), April 3 (South Carolina) and April 22 (Florida).[210] “</p>
+<p>“Reference <a target="_blank" href="http://en.wikipedia.org/wiki/Timeline_of_events_leading_to_the_American_Civil_War#cite_note-209%23cite_note-209">here for other dates</a> leading to the War Between the States, or the US Civil War.”</p>
+<p>(idea courtesy of <a target="_blank" href="http://delong.typepad.com/sdj/2011/03/liveblogging-world-war-ii-march-11-1941.html">liveblogging at Brad DeLong&#8217;s</a>&#8230;.sent by ilsm)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/u-s-civil-war-150-years-ago.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>job searches &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Job Market, Finding Qualified Applicants, and HR</title>
+		<link>./../../2011/10/the-job-market-finding-qualified-applicants-and-hr.html</link>
+		<comments>./../../2011/10/the-job-market-finding-qualified-applicants-and-hr.html#respond</comments>
+		<pubDate>Mon, 03 Oct 2011 09:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[job searches]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[labor economics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/the-job-market-finding-qualified-applicants-and-hr.html</guid>
+		<description><![CDATA[by Mike Kimel I had a few posts noting that not long ago, I took a severance package from my most recent employer. Put another way, I&#8217;m now unemployed. Since then I&#8217;ve been looking for a new job. However, in recent weeks I&#8217;ve started taking consulting work, and I&#8217;m starting to lean more toward consulting. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong><a href="http://presimetrics.com/">Mike Kimel</a></strong></p>
+<p>I had a few posts noting that not long ago, I took a severance package from my most recent employer. Put another way, I&#8217;m now unemployed.  Since then I&#8217;ve been looking for a new job.</p>
+<p>However, in recent weeks I&#8217;ve started taking consulting work, and I&#8217;m starting to lean more toward consulting.  I was a consultant for seven and a half years before taking my most recent job, and I function as easily as a consultant as I do in the corporate world.   Put another way &#8211; I am not uncomfortable with the feast or famine environment in consulting though, truth to tell, my wife would strongly prefer that I had a &#8220;real&#8221; job.  But I digress.  </p>
+<p>A big part of the reason I&#8217;m starting to lean toward consulting is that while I haven&#8217;t cracked the job market, some consulting work has come my way without my having sought it out.  Unrequited love v. unsolicited love, or if you can&#8217;t be with the one you love, love the one you&#8217;re with, right?  And when I say I haven&#8217;t cracked the job market, I have to say, something about the job market seems very wrong to me.  I keep hearing that companies are having a hard time finding qualified candidates.  A random search of the news spits out <a href="http://www.superiortelegram.com/event/article/id/58340/group/News/">several</a> <a href="http://www.chicagotribune.com/business/breaking/chi-caterpillar-ceo-says-company-cant-find-enough-skilled-workers-20110912,0,7463843.story">such</a> <a href="http://blog.laptopmag.com/shortage-of-qualified-employees-poses-big-challenge">stories</a>.<br /><a name="more"></a></p>
+<p>I would like to relate my experience in the matter.  This morning I went to indeed.com, which has rapidly become my favorite job search site.  I entered some appropriate job search parameters, and found a job that I&#8217;ve applied to twice in the past three months.  It looks a lot like the requirement bullet points come straight from my resume:  advanced degree, a fair amount of experience developing analytic tools (e.g., data mining), experience building and leading cross-functional teams, and experience with strategic planning.  I can&#8217;t find anything on the job req that I don&#8217;t have on my resume, except that in each case I have more experience at a higher level than the req specifies.   And as I said, I&#8217;ve applied for that position.  Twice.  And it seems it has appeared on the company&#8217;s website again.   That means the ad wasn&#8217;t written as ex post justification for hiring a specific person &#8211; the company at least believes it is genuinely looking to fill the spot without an internal candidate already penciled in.  </p>
+<p>Now, I&#8217;m not saying that the company should hire me.  Perhaps there is something about the position that isn&#8217;t in the req that makes it clear I don&#8217;t fit in.  And perhaps there are many others that are far more qualified than I am (though I like to think I am very, very good at building statistical tools, and even better at management and strategy).  But either way, I would imagine that my resume would have tripped up some sort of a &#8220;call this guy and feel him out for five minutes&#8221; routine in their &#8220;applicant tracking software.&#8221;  There are other similar positions that I&#8217;ve seen crop up several times since I&#8217;ve applied, but two of them really bother me as they also include a phrase like &#8220;knowledge of Spanish, Portuguese preferred.&#8221;  Now, I grew up in Brazil and have family in Argentina so I have spent considerable time in South America.  I speak Spanish and Portuguese.  That&#8217;s on my resume, as is the fact that I have international work experience.  The companies advertising those positions didn&#8217;t call me back either.</p>
+<p>On the other hand, I&#8217;ve had calls and e-mails from employers looking for someone to a) sell insurance, b) provide financial education to union members and/or Hispanics and/or other groups, c) for entry level positions, and d) for an executive chef.  What in my resume screams &#8220;executive chef&#8221; I have no idea.  None whatsoever.  Good for a laugh, but not really.  It&#8217;s a waste of my time, and there are people out there who are qualified to be an executive chef and are searching for that job and aren&#8217;t getting a call.  My guess is that someone seeking out an executive chef position may be getting calls about upper level management positions in Analytics at a Fortune 500 company.    </p>
+<p>Which leads to a hypothesis.  It may be that there is not so much a mismatch between the skills that the unemployed have <em>vis à vis</em> the needs of companies as there is an inability of companies, and in particular, the Human Resources department of companies, to recognize the needed skills when they see them.  I&#8217;ve met many HR people over the years, and while many are competent, a frightening number of them are not.  I remember, as a hiring manager, learning that I had to bypass my company&#8217;s HR department altogether if I wanted to get resumes that had any bearing to my group&#8217;s needs.  But I could only do that because my boss was very sympathetic.  He had found me without using HR too.  </p>
+<p>&#8212;</p>
+<p>I note <a href="http://www.angrybearblog.com/2011/09/health-insurance-american-style.html">this recent post on Health Insurance</a> also says something about some of HR&#8217;s other functionalities.  </p>
+<p>&#8212;</p>
+<p>PS &#8211; Need a consultant with expertise in analytics and forecasting, and who can explain what it means to your business in simple (and actionable) English (or Portuguese or Spanish)? Someone with a Ph.D. in economics and 15 years experience in pricing, risk, demand analysis, and corporate strategy?  Perhaps with strong knowledge of some of the big South American markets?  Someone with experience in litigation support?  Drop me a line at &#8220;mike&#8221; period &#8220;kimel&#8221; (one m only!!) at gmail.com.  Alternatively, &#8220;mike&#8221; at analyticecon.com will get to me too.  </p>
+<p>Also, my wife started cleaning up my old consulting practice website:  www.analyticeconomics.com (or www.analyticecon.com).   Any suggestions about the website, or about generating new business, are welcome.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/the-job-market-finding-qualified-applicants-and-hr.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

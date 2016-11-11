@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CRB &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>CRB Index of Industrial Raw Materials</title>
+		<link>./../../2011/03/crb-index-of-industrial-raw-materials.html</link>
+		<comments>./../../2011/03/crb-index-of-industrial-raw-materials.html#respond</comments>
+		<pubDate>Fri, 25 Mar 2011 13:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CRB]]></category>
+		<category><![CDATA[Spencer England]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/crb-index-of-industrial-raw-materials.html</guid>
+		<description><![CDATA[The CRB: Index of Industrial Raw Materials hit a new cyclical high yesterday. Daily CRB: index of industrial raw materials.This does not include energy and/or foodstuffs. It is an outstanding leading-concurrent indicator of oil prices and world economic growth.]]></description>
+				<content:encoded><![CDATA[<p>The CRB: Index of Industrial Raw Materials hit a new cyclical high yesterday.</p>
+<p>Daily CRB: index of industrial raw materials.<br />This does not include energy and/or foodstuffs.</p>
+<p><a href="http://4.bp.blogspot.com/-bOje4ns9cCU/TYyWXVFEvtI/AAAAAAAABlA/0Bh-AAJ_LuA/s1600/Clipboard01.bmp"><img src="http://4.bp.blogspot.com/-bOje4ns9cCU/TYyWXVFEvtI/AAAAAAAABlA/0Bh-AAJ_LuA/s320/Clipboard01.bmp" alt="" border="0"></a><br />It is an outstanding leading-concurrent indicator of oil prices and world economic growth.</p>
+<p><a href="http://3.bp.blogspot.com/-K-uh2OihOpw/TYyV3Hh8CjI/AAAAAAAABk4/Skj0JWY7QNM/s1600/Clipboard02.bmp"><img src="http://3.bp.blogspot.com/-K-uh2OihOpw/TYyV3Hh8CjI/AAAAAAAABk4/Skj0JWY7QNM/s320/Clipboard02.bmp" alt="" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/crb-index-of-industrial-raw-materials.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

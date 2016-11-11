@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HFT &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>LBO:Private Equity::HFT:Algorithmic Trading?</title>
+		<link>./../../2011/09/lboprivate-equityhftalgorithmic-trading.html</link>
+		<comments>./../../2011/09/lboprivate-equityhftalgorithmic-trading.html#respond</comments>
+		<pubDate>Fri, 23 Sep 2011 14:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[fraud]]></category>
+		<category><![CDATA[HFT]]></category>
+		<category><![CDATA[TCO]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/lboprivate-equityhftalgorithmic-trading.html</guid>
+		<description><![CDATA[The High-Frequency Traders who have been distorting the U.S. stock market and raising the costs for everyone else have had their pride wounded. After starting with a straightforward definition: High frequency trading &#8212; the use of computer-driven, algorithmic-based techniques to execute trades in a matter of microseconds &#8212; is drawing scrutiny, but Wall Street argues [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The High-Frequency Traders who have been distorting the U.S. stock market and raising the costs for everyone else <a href="http://www.thestreet.com/print/story/11256541.html">have had their pride wounded</a>. After starting with a straightforward definition:<br />
+<blockquote>High frequency trading &#8212; the use of computer-driven, algorithmic-based techniques to execute trades in a matter of microseconds &#8212; is drawing scrutiny, but Wall Street argues regulators may be focusing on the wrong issues.</p></blockquote>
+<p>we quickly get the we-don&#8217;t-like-our-name crowd:<br />
+<blockquote>&#8220;The term is widely used. Yet you never find a definition for it,&#8221; said Chris Concannon, partner at Virtu Financial. &#8220;People have stats based on a term that has not been defined. How do you know that HFT volume in the US moved up to 63% without knowing what that term even means?&#8221; he asked.</p></blockquote>
+<p>Rarely do journalists make people stupider so quickly, outside of political reporting.</p>
+<p>It gets worse:<br />
+<blockquote>Virtu Financial is often referred to a high frequency trading firm. But Concannon says he struggles with the definition. &#8220;The brand we like to fit under is electronic market making,&#8221; he said. &#8220;we need to craft better terms,&#8221; he added. </p>
+<p>Other panelists also seemed reluctant to define themselves as high frequency traders. Adam Nunes of Hudson River Trading, said his firm, founded by mathematicians, considered itself a &#8220;quantitative trading&#8221; outfit&#8230;.</p>
+<p>It was a theme echoed later in the day by NYSE Euronext(NYX) COO Larry Leibowitz. &#8220;We have lumped anyone who does algorithmic trading into high frequency because so much of what algorithm trading does is high frequency,&#8221; he said.</p></blockquote>
+<p>Gosh, the poor, suffering HFT traders who desperately want another name.  But at least we know that Regulatory Capture is still enforced:<br />
+<blockquote>Gregg Berman, senior advisor to the director of the SEC&#8217;s Division of Trading and Markets, said there was no &#8220;clear, identifiable&#8221; link between high-frequency trading and the volatility that was experienced in the global market in August. He called the debate over HFT&#8217;s role, &#8220;high frequency theorizing&#8221;, the Wall Street Journal reported.</p></blockquote>
+<p>Yep, it&#8217;s <a href="http://www.nanex.net/Research/IsNBBOIgnored.html">all</a> <a href="http://www.ritholtz.com/blog/2011/09/nanex-proves-hft-can-see-the-future-with-help-from-exchange-buddies/">just</a> <a href="http://ftalphaville.ft.com/blog/2011/09/16/679141/beware-the-market-spam/">theory</a> (last link h/t <a href="http://www.ritholtz.com/blog/2011/09/awesome-quant-trading-schema/">Barry Ritholtz</a>).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/lboprivate-equityhftalgorithmic-trading.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

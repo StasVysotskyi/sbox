@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>air travel &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Effects of Airline Deregulation: What&#8217;s The Counterfactual?</title>
+		<link>./../../2010/05/the-effects-of-airline-deregulation-whats-the-counterfactual.html</link>
+		<comments>./../../2010/05/the-effects-of-airline-deregulation-whats-the-counterfactual.html#respond</comments>
+		<pubDate>Wed, 26 May 2010 00:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[air travel]]></category>
+		<category><![CDATA[deregulation]]></category>
+		<category><![CDATA[economics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/05/the-effects-of-airline-deregulation-whats-the-counterfactual.html</guid>
+		<description><![CDATA[by Tom Bozzo Crossposted with Marginal Utility. Matt Welch at the Reason blog takes credit for airline deregulation on behalf of libertarianism: The &#8220;worldview&#8221; of libertarianism suggested, back in the early 1970s, that if you got the government out of the business of setting all airline ticket prices and composing all in-flight menus, then just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo</p>
+<p>Crossposted with <a href="http://atbozzo.wordpress.com/2010/05/25/the-effects-of-airline-deregulation-whats-the-counterfactual/">Marginal Utility</a>.</p>
+<p><a href="http://reason.com/blog/2010/05/21/salon-libertarianism-is-juveni">Matt Welch at the Reason blog</a> takes credit for airline deregulation on behalf of libertarianism:<br />
+<blockquote>The &#8220;worldview&#8221; of libertarianism suggested, back in the early 1970s, that if you got the government out of the business of setting all airline ticket prices and composing all in-flight menus, then just maybe Americans who were not rich could soon enjoy air travel. At the time, people with much more imagination and pull than Gabriel Winant has now dismissed the idea as unrealistic, out-of-touch fantasia. They were wrong then, they continue to be wrong now about a thousand similar things, and history does not judge them harsh enough.</p></blockquote>
+<p><a href="http://www.samefacts.com/2010/05/watching-conservatives/11629/">Mark Kleiman</a> observes that transportation deregulation was more directly the progeny of 1970s Brookings-esque neoliberalism (though I&#8217;d grant Welch that libertarians got there first), though Kleiman doesn&#8217;t take issue with the basic claim that deregulating prices and service offerings &#8220;was, on balance, a good thing.&#8221;  This argument ultimately rests on the declines in airfares and resulting democratization of air travel that Welch cites; indeed that&#8217;s what the Brookings-esque neoliberals I know cite when they&#8217;re defending the deregulatory record.</p>
+<p>The catch is that all such economic comparisons must be counterfactual: they must show an improvement <em>not</em> with respect to CAB-set fares of the late-1970s, but rather with respect to what reasonably competent regulation could have produced under the other circumstances of the deregulated era.  (This, FWIW, is one of Robert W. Fogel&#8217;s central insights into what makes economic history <em>economic</em> history.)  If the comparison exercise is tough by the (inappropriate) historical yardstick thanks to declines in (average) service quality and the airline industry&#8217;s trail of fleeced stakeholders, then the counterfactual comparison is going to be tougher still thanks to a couple of factors that should have produced large declines in airline costs and hence fares even in the absence of deregulation.<br /><a name="more"></a><br />The factors of note are a pair of technological advancements — the development of high bypass ratio turbofans suitable for shorter-haul airliners and the demise of the flight engineer&#8217;s job thanks to cockpit automation, both of which have origins predating deregulation — and the long secular decline in oil prices through the deregulated era&#8217;s zenith prior the crash of the 1990s stock market bubble.   Since a regulator could have promoted adoption of the cost-saving technologies and passed the resulting productivity improvements and input cost decreases through to fare-payers using elementary regulatory technologies, deregulation <em>must</em> have produced substantial fare reductions relative to the late CAB era to have a claim to constituting a true improvement.</p>
+<p>One of the airline industry&#8217;s problems is that it isn&#8217;t &#8220;revenue adequate&#8221; or able to recover its total costs including a normal return to investors.  If you thought airlines were incurring costs efficiently, then moving towards revenue adequacy would require more revenues and hence higher average fares.  On the face of things, that wouldn&#8217;t look good for a regulated alternative providing more secure revenues to the industry.  However, there are dynamic efficiency counterbalances to the apparent static inefficiency under regulation: revenue adequacy implies having money for efficiency-improving investments.  For instance, U.S. legacy airlines have somewhat notoriously kept <a href="http://www.dallasnews.com/sharedcontent/dws/bus/industries/airlines/stories/030908dnbusaaplanes.38acd8.html">relatively aged fleets</a> in the air.  Partly, that was a deliberate strategy that blew up when the Goldilocks conditions of the late-90s ended, and partly they don&#8217;t have the money to turn over their fleets as fast as they arguably should.</p>
+<p>The formerly regulated transportation industries shared, to one extent or another, cost structures under which an efficient carrier would go broke under econ 101 perfect competition with prices driven down to marginal costs.  So the question isn&#8217;t so much whether carriers will exercise such market power as they have in order to survive, but how.  Real firms might or might not do that better than a real regulator.  I do think there&#8217;s a good case to be made for some degree of pricing and service liberalization with regulatory policing of &#8220;excessive&#8221; use of market power; that&#8217;s a one-sentence version of the Staggers Act&#8217;s approach to the (very successful) freight rail industry.</p>
+<p>Added: <a href="http://economistsview.typepad.com/economistsview/2010/05/the-effects-of-airline-deregulation-whats-the-counterfactual.html#comments">Good comments at Economist&#8217;s View</a>, too, particularly a <a href="http://economistsview.typepad.com/economistsview/2010/05/the-effects-of-airline-deregulation-whats-the-counterfactual.html#comment-6a00d83451b33869e20133ee8854c8970b">long one from Bruce Wilder</a> expanding on the cost structure issue, discussing pricing strategies, and opining on the sources of apparent gains from deregulation.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/05/the-effects-of-airline-deregulation-whats-the-counterfactual.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>All Economic Analysis is Counterfactual</title>
+		<link>./../../2008/07/all-economic-analysis-is-counterfactual.html</link>
+		<comments>./../../2008/07/all-economic-analysis-is-counterfactual.html#respond</comments>
+		<pubDate>Fri, 25 Jul 2008 12:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[air travel]]></category>
+		<category><![CDATA[regulation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/all-economic-analysis-is-counterfactual.html</guid>
+		<description><![CDATA[In partial response to Cactus&#8217;s post, Megan McArdle offers the &#8220;look at those low air fares&#8221; defense of airline deregulation, going so far as to suggest: I think it&#8217;s telling that complaints about deregulation of the airlines come almost entirely from three groups of people: 1) People who have no idea what they are talking [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In partial response to <a href="http://angrybear.blogspot.com/2008/07/new-place-new-stories.html">Cactus&#8217;s post</a>, <a href="http://meganmcardle.theatlantic.com/archives/2008/07/this_post_by_cactus_doesnt.php">Megan McArdle</a> offers the &#8220;look at those low air fares&#8221; defense of airline deregulation, going so far as to suggest:<br />
+<blockquote>I think it&#8217;s telling that complaints about deregulation of the airlines come almost entirely from three groups of people:</p>
+<p>1)  People who have no idea what they are talking about<br />2)  Affluent people<br />3)  People who fly a lot for work  </p></blockquote>
+<p>The story being that (2) and (3) aren&#8217;t price-sensitive and other critics of deregulation are just know-nothings or whiners (or both).</p>
+<p>Not so fast.</p>
+<p>The conceptually correct comparison is <i>not</i> with 1978 airfares, but rather with whatever current airfares would be under a reasonable forecast of airfares absent deregulation but with whatever other changes would have happened anyway.  Recall, Robert William Fogel was given his share of the Bank of Sweden prize in significant part for cementing this &#8220;counterfactual&#8221; (or <i>ceteris paribus</i>) analysis as the standard methodology of economic history.</p>
+<p>This is a non-trivial matter for airfares as deregulation was implemented during an oil price spike, and its subsequent golden age to roughly 9/11/01 was a period marked by a very long decline in the real price of oil — not to mention cost-reducing technological change from sources such as cockpit automation and the deployment of high-bypass-ratio turbofans to the single-aisle airliners that are the workhorses of the U.S. domestic fleet.  So not all of the secular airfare decline (or what&#8217;s left of it) is properly attributed to deregulation.</p>
+<p><a href="http://www.esri.go.jp/jp/archive/bun/bun150/bun143a-e.pdf">One source</a> [PDF] suggests that deregulation accounted for around 60% of the observed fare-level decline to 1993 using the old CAB pricing formula as the benchmark, and that 30% of flyers paid higher fares under deregulation.  Don&#8217;t get me wrong, this isn&#8217;t bad, and the liberal in me can&#8217;t help but say that taking money from airline investors and corporate travel budgets and turning it into air transportation for the middle- to upper-middle classes beats many other deregulatory outcomes (at until the system blows up).  Still, it isn&#8217;t Pareto-improving, and by the standards of, say, repeal of the upper-income Bush tax cuts, the disaffected class is pretty big, though.  We aren&#8217;t just talking about the &#8220;affluent&#8221; and ultra-frequent flyers.</p>
+<p>Moreover, would-be Fogels looking for an icon-smashing result that may also be true could try to figure out whether <i>modern</i> systems of rate regulation would perform better than the late CAB.  So once we consider what Barry Ritholtz amusingly calls &#8220;<a href="http://bigpicture.typepad.com/comments/2008/07/hedonics---or-d.html">dedonics</a>&#8221; (*) issues like service levels and qualities, the need to keep the industry somewhat stable until alternative modes of fast intercity travel are (re)developed, and so on, I submit that the true benefits of deregulation are at least a matter for careful study.</p>
+<p>(*) It&#8217;s amusing even though it isn&#8217;t true that all quality adjustments in CPI are for quality improvements.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/all-economic-analysis-is-counterfactual.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

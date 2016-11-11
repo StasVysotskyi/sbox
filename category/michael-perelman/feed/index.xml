@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Michael Perelman &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Matrix: The Intersection of War, Economic Theory, and the Economy</title>
+		<link>./../../2012/09/the-matrix-the-intersection-of-war-economic-theory-and-the-economy.html</link>
+		<comments>./../../2012/09/the-matrix-the-intersection-of-war-economic-theory-and-the-economy.html#respond</comments>
+		<pubDate>Tue, 04 Sep 2012 17:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[current economic policy]]></category>
+		<category><![CDATA[econospeak]]></category>
+		<category><![CDATA[Michael Perelman]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/the-matrix-the-intersection-of-war-economic-theory-and-the-economy.html</guid>
+		<description><![CDATA[Passing along a note from Michael Perelman at Econospeak: The Matrix: The Intersection of War, Economic Theory, and the Economy Vincent Portillo and I are working on a new book, The Matrix: The Intersection of War, Economic Theory, and the Economy. So far it is still remains an exploration rather than a finished research project. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Passing along a note from Michael Perelman at <i>Econospeak</i>:</p>
+<p> The Matrix: The Intersection of War, Economic Theory, and the Economy</p>
+<p> Vincent Portillo and I are working on a new book, The Matrix: The Intersection of War, Economic Theory, and the Economy.  So far it is still remains an exploration rather than a finished research project.  We intend to post our progress from time to time, hoping to initiate some comments and conversation.</p>
+<p>Thank you in advance.</p>
+<p>Here is the link.</p>
+<p>http://michaelperelman.files.wordpress.com/2012/08/matrix2.pdf<br />Posted by michael perelman at 10:19 AM</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/the-matrix-the-intersection-of-war-economic-theory-and-the-economy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

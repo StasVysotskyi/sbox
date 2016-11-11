@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>John Brennan &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>John Brennan hearings</title>
+		<link>./../../2013/02/john-brennan-hearings.html</link>
+		<comments>./../../2013/02/john-brennan-hearings.html#respond</comments>
+		<pubDate>Thu, 07 Feb 2013 19:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[John Brennan]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/john-brennan-hearings.html</guid>
+		<description><![CDATA[Jake at Polymic points us to news today: John Brennan gets interrogated. President Obama’s nominee for head of the CIA will face the Senate at 2:30 p.m. today for his confirmation hearing. Brennan has come under criticism for supporting torture while serving in the Bush administration, and his support for drone strikes as President Obama’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jake at <a href="http://www.policymic.com/" title="http://www.policymic.com/">Polymic</a> points us to news today:</p>
+<p><strong>John Brennan gets interrogated. </strong>President Obama’s nominee for head of the CIA will face the Senate at 2:30 p.m. today for his confirmation hearing. Brennan has come under criticism for <a href="http://policymic.us2.list-manage.com/track/click?u=e296d233b80b1c09f9c900df7&#038;id=6758a60fab&#038;e=cfdf71fce5">supporting torture</a> while serving in the Bush administration, and his <a href="http://policymic.us2.list-manage.com/track/click?u=e296d233b80b1c09f9c900df7&#038;id=51666408a6&#038;e=cfdf71fce5">support for drone strikes</a> as President Obama’s counter-terrorism advisor.    </p>
+<p><strong>Five questions for Brennan.</strong> <em>Washington Post’s</em> Greg Sargent <a href="http://policymic.us2.list-manage1.com/track/click?u=e296d233b80b1c09f9c900df7&#038;id=e2dc133749&#038;e=cfdf71fce5">outlines</a> the questions Congress should grill Brennan on related to his support for targeted killings.    </p>
+<p><strong>Obama to release legal rationale for drone strikes</strong>. In advance of Brennan’s hearing, President Obama has <a href="http://policymic.us2.list-manage.com/track/click?u=e296d233b80b1c09f9c900df7&#038;id=cc4eb572b4&#038;e=cfdf71fce5">ordered</a> that the 50-page White House legal rationale for killing U.S. citizens with armed drones be given to the Senate intelligence committee. The White House is hoping this move will defuse some of the tension at Brennan&#8217;s hearing.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/john-brennan-hearings.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

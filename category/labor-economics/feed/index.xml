@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>labor economics &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>How to Think About Aggregate Labor Markets</title>
+		<link>./../../2013/02/how-to-think-about-aggregate-labor-markets.html</link>
+		<comments>./../../2013/02/how-to-think-about-aggregate-labor-markets.html#respond</comments>
+		<pubDate>Thu, 21 Feb 2013 13:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[aggregate labor markets]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[Peter Dorman]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/how-to-think-about-aggregate-labor-markets.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak takes a look at economics and models. (Re-posted with authors consent) How to Think About Aggregate Labor Markets The remarkable Tyler Cowen has me scratching my head again. Here he is at the beginning of a critique of minimum wage laws and sticky-price Keynesianism. (The latter is an oxymoron, as anyone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://econospeak.blogspot.com/2013/02/how-to-think-about-aggregate-labor.html" target="_blank">Peter Dorman at <i>Econospeak</i></a> takes a look at economics and models. (Re-posted with authors consent)</p>
+<p>How to Think About Aggregate Labor Markets</p>
+<p>The remarkable Tyler Cowen has me scratching my head again.  Here he is at the beginning of a critique of minimum wage laws and sticky-price Keynesianism.  (The latter is an oxymoron, as anyone who knows the history of Keynes’ dispute with the “Treasury view” knows, but we’ll let it pass.) <br />Let’s say your labor is worth $10 an hour but you won’t go back to work for less than $12, thereby leading to the unemployment of you. <br />In essence you are self-imposing a minimum wage on that market, but the employer is responding by leaving you jobless.<br />You can guess where this is headed.</p>
+<p>The interesting thing is that Cowen apparently has no inkling that most people would find his opening sentence insulting.  It implies that some significant portion of the unemployed are simply worth less than they think they are.  Imagine going up to someone who’s been without a job for a while and saying, “I’m sorry, but have you considered the possibility that your abilities are really not very valuable, and your job search has failed because of this delusion?”  If you insist on saying this, I’d advise doing it from a distance.</p>
+<p>Now, of course some people have an inflated sense of self-worth, and others are too bashful.  It might be an interesting research project to see whether the distribution of these types is correlated with employment status.  I don’t have any priors about which would predominate where—do you?</p>
+<p><a name="more"></a></p>
+<p>What makes this interesting to an economist is that the popular perception of unemployment actually fits how we model the aggregate labor market pretty well.  Let me explain.  The view of most unemployed people, according to the interviews I’ve seen, goes something like this: “I’m looking for a job, and I’m willing to take something that’s worse than what I used to have, but I haven’t found anything yet.”  The unemployed person hopes that the job is out there but that the connection hasn’t been made.</p>
+<p>This formalizes to the now-standard model of search and matching, for which Peter Diamond and especially Dale Mortensen and Christopher Pissarides split a Nobel.  Equilibrium in such models does not occur where the Beveridge curve crosses the 45-degree line, which it would if the criterion were supply equals demand, but depends on a larger array of factors.  The model is used to explain why the ratio of unemployed workers to vacant jobs is typically greater than one, even in “full employment”.</p>
+<p>This is how knowledgeable economists study aggregate labor markets today.  Supply and demand, as deployed by Cowen, is a special and highly unlikely case that assumes away the complications that make the theory empirically relevant.  If you see someone drawing supply and demand curves for labor and trying to explain unemployment as a result of too-high wages, you know they are employing outmoded methods.</p>
+<p>What’s striking is that the more high-powered model actually conforms better to popular intuition.  You have to have a rather uncharitable view of human behavior to believe that excess unemployment is due to people overestimating their true worth.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/how-to-think-about-aggregate-labor-markets.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Many types of tech, not just robots</title>
+		<link>./../../2012/12/many-types-of-tech-not-just-robots.html</link>
+		<comments>./../../2012/12/many-types-of-tech-not-just-robots.html#respond</comments>
+		<pubDate>Mon, 10 Dec 2012 00:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[labor markets]]></category>
+		<category><![CDATA[Mike Kimel]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/many-types-of-tech-not-just-robots.html</guid>
+		<description><![CDATA[by Mike Kimel Many types of tech &#8211; not just robots &#8211; have been affecting and are going to affect the service sector. When someone develops an inexpensive sign you can stick on top of television sets, racks of clothes, or appliances that will change itself whenever someone in the headquarters decides to change the price of the product, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p>Many types of tech &#8211; <a href="http://www.angrybearblog.com/2012/12/paul-krugman-changes-his-mind-on.html" target="_blank">not just robots</a> &#8211; have been affecting and are going to affect the service sector.  When someone develops an inexpensive sign you can stick on top of television sets, racks of clothes, or appliances that will change itself whenever someone in the headquarters decides to change the price of the product, its going to eliminate entire departments of people (or move them to doing something else), plus reduce the workload at every retail store in the system.</p>
+<p>(The normal cadence for us is to enter prices more than a week before they take effect.  We do have over-rides that allow the process to take place in 24 hours, but the amount of work needed to reduce errors<br />in that process is mind-boggling, not to mention wasteful given it results in hard printing of the wrong signs as well as the right signs.)</p>
+<p>As of yet, I&#8217;m not sure automation reduced white collar work.  What it has done is created a race to efficiency.  Now companies scrape competitor data.  They analyze prices to try to determine which generate highest margins.  They analyze floor plans for the same purpose.  I cannot imagine that being done 10 years ago &#8211; both in my previous life as a consultant, and my current life working for a major retailer, we can barely get the data systems to provide the data for those types of analysis properly now.  Ten years ago it would have been impossible anywhere outside the military.  Ten years from now, data pulls that I need an analyst to spend a week and a half doing, and then another week and a half cleaning, will be spit out in minutes (I hope).  That analyst won&#8217;t be pulling data and organizing it &#8211; I&#8217;ll have her doing analysis instead.  Margins will be even tighter because all our competitors will be doing the same analysis, without which nobody survives.</p>
+<p><a name="more"></a></p>
+<p>Where the job losses will come from is not that my employer or its competitors will have fewer analysts, because, as I noted, more analysis will be needed just to stay competitive.  Instead, it will come from shuttering some of the companies in the field.  There will be fewer retailers &#8211; and they&#8217;ll all be bigger.</p>
+<p>Mike</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/many-types-of-tech-not-just-robots.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>1/24/12 Links worth noting: Germany rejects Swiss banking secrecy deal; Labor Devaluation</title>
+		<link>./../../2012/11/12412-links-worth-noting-germany-rejects-swiss-banking-secrecy-deal-labor-devaluation.html</link>
+		<comments>./../../2012/11/12412-links-worth-noting-germany-rejects-swiss-banking-secrecy-deal-labor-devaluation.html#respond</comments>
+		<pubDate>Sun, 25 Nov 2012 13:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Germany]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[labor markets]]></category>
+		<category><![CDATA[Linda Beale]]></category>
+		<category><![CDATA[links worth noting]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/12412-links-worth-noting-germany-rejects-swiss-banking-secrecy-deal-labor-devaluation.html</guid>
+		<description><![CDATA[1/24/12  Links worth noting by Linda Beale: Germany rejects Swiss banking secrecy deal;   Labor Devaluation  David Jolly, German Lawmakers Reject Swiss Tax Deal, New York Times (Nov. 23, 2012).The US and other countries like Germany have been pressing the Swiss on their bank secrecy, which allows U.S. and other foreign citizens to establish bank accounts without [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>1/24/12  Links worth noting by Linda Beale:</p>
+<p> Germany rejects Swiss banking secrecy deal;   Labor Devaluation </p>
+<p> David Jolly, <a href="http://www.nytimes.com/2012/11/24/business/global/german-lawmakers-reject-swiss-tax-deal.html">German Lawmakers Reject Swiss Tax Deal</a>, New York Times (Nov. 23, 2012).<br />The US and other countries like Germany have been pressing the Swiss on their bank secrecy, which allows U.S. and other foreign citizens to establish bank accounts without the knowledge of the home country and thus hide assets and income from home-country taxation.  The US passed laws (called by the acronym &#8220;FATCA&#8221;) that require foreign banks to actively report information on US accountholders.   The hope is that every country will recognize the harm done to tax systems by banking secrecy and join in imposing similar information-reporting requirements. </p>
+<p>The Swiss, meanwhile, have been trying to circumvent universal adoption of such laws.  See, e.g., Nicholas Shaxson, <a href="http://www.guardian.co.uk/commentisfree/2012/nov/22/scheme-trillions-tax-havens-scuppered">A scheme designed to net trillions from tax haves is being scuppered</a>, Guardian.com (Nov. 22, 2012).   Britain, Luxemburg and Austria are cited as being in the forefront of the scuttling movement:  Britain, for example, has entered into a &#8220;Rubrik Agreement&#8221; with the Swiss.</p>
+<p><a name="more"></a></p>
+<p>The Swiss thought they had a deal with Germany.  This would be a bilateral deal in which the Swiss agree to an upfront payment in lieu of any back taxes on the accounts and then agree to act as tax collector for the foreign government on the accounts, thus maintaining secret the identity of the foreign taxpayers. <br />Such an agreement is problematic for two reasons:  (i) it requires the foreign government to trust the Swiss banks to pay the right amount over in taxes and (ii) it undermines the drive to eliminate offshore banking secrecy as a cover for tax evasion. </p>
+<p>Transparency in international banking and taxation matters would require that banks provide information on accounts held by foreigners to the foreigners&#8217; home jurisdictions, without any account-specific or accountholder-specific request required.  The reason for a more transparent rule is that otherwise the home jurisdiction has to have information it does not have (who has an account at a Swiss bank) before it can ask for the information it needs to ferret out who has such an account and may be engaging in tax evasion.  The biggest cracks in banking secrecy have thus come from  whistleblowers and opportunists who sell account-holder information to purchasing jurisdictions. </p>
+<p>Friday, the Germans rejected&#8211;for now at least&#8211;a German-Swiss deal supported by Chancellor Merkel that had been two years in the making.  France is apparently also considering rethinking a similar deal.<br />The Swiss leverage was clearly stated by Swiss banking official Mario Tuor, who &#8220;<i>noted that without a deal, the status quo would remain: German officials can seek specific information from the Swiss government on people suspected of tax evasion, or go back to buying data stolen from Swiss banks. &#8216;With an agreement, every German taxpayer in Switzerland would be taxed</i>,&#8217; Mr. Tuor said.&#8221; <a href="http://www.nytimes.com/2012/11/24/business/global/german-lawmakers-reject-swiss-tax-deal.html">German Lawmakers Reject Swiss Tax Deal</a></p>
+<p><a href="http://www.twohalfhitches.blogspot.com/2012/02/steady-devaluation-of-human-labor.html">The Steady Devaluation of Labor</a>, Two Half Hitches (Feb. 2012).</p>
+<p>This is an oldie but goodie, one worth reminding you of (or calling to your attention for the first time).<br />[The] minimum wage, in constant dollars, has had its ups and downs since 1970 but the overall trend indicated by the straight black line is down. The numbers show that the American economy puts less value on the entry level worker than it did in 1970. Why is that? Are minimum wage workers less intelligent now than they were forty years ago? Are they lazier?</p>
+<p>The reason probably has a lot to do with the rise of the global economy and cheaper Chinese labor. It may also have to do with basic attitudes toward labor. <a href="http://politicalcorrection.org/blog/201106020015">Some see labor as a commodity</a>, while <a href="http://www.inthesetimes.com/working/entry/7239/labor_is_not_a_commodity/">others believe it is not.  </a></p>
+<p>***<br />Representative <a href="http://en.wikipedia.org/wiki/Steve_King">Steve King (R-IA)</a> on the floor of the House of Representatives last year: </p>
+<p><strong>&#8220;Labor is a commodity just like corn or beans or oil or gold, and the value of it needs to be determined by the competition, supply and demand in the workplace.&#8221;</strong><br /><strong></strong><br /><strong>***</strong><strong> </strong><br /><a href="http://en.wikipedia.org/wiki/Samuel_Gompers">Samuel Gompers</a>, cigar maker-turned-labor organizer and founder of the American Federation of Labor in the early 20th Century, had a different business ethic related to labor and said this:<br /><strong><br /></strong> <strong>“You cannot weigh the human soul in the same scales with a piece of pork.”</strong><br /><strong><br /></strong> Labor advocates actually managed to insert a statement affirming the status of human labor in the 1914 <a href="http://en.wikipedia.org/wiki/Clayton_Act">Clayton Antitrust Act</a>:  <strong>“The labor of a human being is not a commodity or article of commerce.”</strong></p>
+<p>cross posted with <a href="http://ataxingmatter.blogs.com/tax/2012/11/112412-links-worth-noting.html">ataxingmatter</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/12412-links-worth-noting-germany-rejects-swiss-banking-secrecy-deal-labor-devaluation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ok class, let&#8217;s review before the exam (election)</title>
+		<link>./../../2012/10/ok-class-lets-review-before-the-exam-election.html</link>
+		<comments>./../../2012/10/ok-class-lets-review-before-the-exam-election.html#respond</comments>
+		<pubDate>Mon, 08 Oct 2012 15:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 elections]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[income equality]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[lies]]></category>
+		<category><![CDATA[tax cuts]]></category>
+		<category><![CDATA[tax policy]]></category>
+		<category><![CDATA[top 1%]]></category>
+		<category><![CDATA[voting]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/ok-class-lets-review-before-the-exam-election.html</guid>
+		<description><![CDATA[I&#8217;m sure you are all feeling kind of blah. You have this final exam for this session and I can tell by your performances on the quizzes that you are still confused. The problem solving portions of the quizzes have been very telling. So lets review. You&#8217;re taxes are not too high. It&#8217;s your income [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>I&#8217;m sure you are all feeling kind of blah.  You have this final exam for this session and I can tell by your performances on the quizzes that you are still confused.  The problem solving portions of the quizzes have been very telling.  So lets review.   </div>
+<div>  </div>
+<div></div>
+<div>You&#8217;re taxes are not too high.  It&#8217;s your income that is too low!  Remember this and you will be able to solve enough of the problems to obtain a passing grade and graduate.  And class, no one running today for president gets this.  It is why President Obama looked like such a dufus in the debate.  Romney took a step to his left&#8230; right into Obama&#8217;s policy space.  Where does one go to gain more space when they have walled up the door to the left of them as President Obama has?</div>
+<div></div>
+<div>Let&#8217;s get something real clear from the beginning.  Unless you are acquiring the majority of your money from money  YOU ARE NOT<a href="https://www.google.com/#hl=en&#038;output=search&#038;sclient=psy-ab&#038;q=define+capitalist&#038;oq=define+&#038;gs_l=hp.1.0.35i39j0l3.735.1657.0.3579.7.6.0.0.0.0.219.938.0j5j1.6.0.les%3B..0.0...1c.1.VPyK4hyLvzM&#038;pbx=1&#038;bav=on.2,or.r_gc.r_pw.r_qf.&#038;fp=f2b10cd80850d317&#038;biw=1024&#038;bih=600" target="_blank"> A CAPITALIST</a> </div>
+<div></div>
+<div></div>
+<div>Second: A MARKET IS NOT AN ECONOMY.</div>
+<p><a name="more"></a>
+<div></div>
+<div>You my fellow students, are citizens living in a particular social structure that can be understood by various groupings of all human interaction that takes place within.  The largest grouping is “society”.    Yes, there is the ultimate grouping known as the human race, but I&#8217;m keeping this discussion and exam limited to the USA society.  (If you pass, you will get to tackle the larger human race grouping in your graduate studies.)  An economy is one such organizational grouping of activity.  A democracy is another.   A “market” is only a labeling of activity.  It is one of many relational activities within an economy and/or a democracy within a society.  An election is another such activity. </div>
+<div></div>
+<div>Now, this is very important: THERE IS NO HIEARCHY of the various groupings.  There can&#8217;t be.  It&#8217;s impossible as the groupings are not determinate of life and living.   I will tell you that my physiology professor stated that the determinate of life is a membrane.  So, let&#8217;s get off the “market” kick.  Trust me, “market” will not be an answer on the exam.   </div>
+<div></div>
+<div>If you are not a citizen capitalist, then you are a citizen laborer.  (These are descriptive labels that are not all inclusive of your potential grouping.)   You are acquiring your money mostly via your labor.  Physical labor, cognitive labor  it does not matter because you are using some ratio of both to acquire your money.  You are expending your labor to your personal level of comfort.  Note, I did not say you are expending your labor to the level of market ability or market possibility.  Your labor does not determine your comfort.  Your labor is not interpretative of your comfort.  It is having obtained your level of desired comfort (comfort as defined by you) that will have determined your labor expended.   </div>
+<div></div>
+<div>Society ultimately determines your value which is based on what society deems of value to it.  Now I know you are thinking I&#8217;ve really put my foot in it here.  I haven&#8217;t.  The market does not determine your value.  The collective of “society” does determine your value and the collective is dynamic though I am not implying any particular velocity of dynamism.  I am not quantifying or qualifying the dynamism.  Elections do the determining.  </div>
+<div></div>
+<div>Now that we are all on the same page, let me repeat myself: YOUR TAXES ARE NOT TOO HIGH.</div>
+<div></div>
+<div></div>
+<div>Your income is too low and no one running for president sees your relationship in this economy in this way.  They don&#8217;t see it because not enough of you see it this way either.  To many are acting as if they are capitalists.  To many are acting as if the market is determinate.  Who the hell is in control here?  YOU or the market?   </div>
+<div></div>
+<div>So, let me explain your current condition and thus in doing so provide you with what the goal needs to be of any policy (and a focus of your essay) that either of the two presidential candidates propose.  It is working the goal that will allow you to obtain the highest grade on the exam.  Hell, let&#8217;s include the congressional candidates also. They make proposals all the time.  Understand the goal and how you acquire your money and the essay portion (voting) will be a snap.  Original thinking combined with the greatest inclusiveness will get a higher grade.</div>
+<div></div>
+<div>You are living in the median household.  I know this because, class&#8230; say it with me: I am not a capitalist.   </div>
+<div>In 1976 your household had the median income of $12,690.   </div>
+<div></div>
+<div>Using the magic of the <a href="http://www.measuringworth.com/m/calculators/uscompare/%20" target="_blank">Measuring Worth</a>site  (it is the  only calculator allowed for your final) your household in 2011 has grown to $52,200.00 based on the skilled labor value.   Notice, we are not using the skilled capitalist value (there is none listed).</div>
+<div></div>
+<div>Unfortunately for you, the census states that your household actually has only $50,054 of income.  The difference of $2146 is the results of your labor not being valued as much as it was in 1976.  Society has decided that what ever it is you are doing it is not of such value as it was in 1976.  In fact, your value is so little that it did not even keep up with inflation.  How ya feeling about that?</div>
+<div></div>
+<div>Still thinking it&#8217;s that your taxes are too high?   </div>
+<div></div>
+<div>Well class, here&#8217;s the real pain: $61,629.00.*   This is the number that you would have if society had just kept the dynamics as they were.   For the sensitive students, unfortunately the ever dynamic society just didn&#8217;t keep the same flaming intensity of love for you as it now cherishes for the capitalist.   Sorry class.  Society has changed.  It values the capitalist more.  Thus, society has changed the economy so that the market activities result in more of the income produced going to the capitalist.  Society did this to you.  </div>
+<div></div>
+<div>Have I made this personal enough for you?  (Remember&#8230;the essay.)   Just in case I haven&#8217;t, recall the earlier part of this review.  You are a part of a collective group called “society”.  </div>
+<div></div>
+<div>Let&#8217;s recap:  Society.  You are a part of society.  Society is dynamic.  Elections determine.  You are not a capitalist.  &#8220;Economy&#8221; is a grouping.  &#8220;Market&#8221; is not an answer.  Your taxes are not to high.  Your income is to low.    </div>
+<div></div>
+<div>Here is the major essay question:  <a href="https://www.youtube.com/watch?v=Fgjfi1DU1mQ" target="_blank">What do you want from life</a>?  I look for original thought and inclusiveness.   Bonus points if you can relate it all to the preamble of the USA societal organizing document.I remove points for facts supported by opinion.</div>
+<div></div>
+<div></div>
+<div>*As calculated by using the ratio of the share of income for the non capitalist to capitalist  in 1976 to the time period of around now (like today).</div>
+<div></div>
+<div>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</div>
+<div></div>
+<div></div>
+<div>I have published on this confusion many times.  My <a href="http://www.angrybearblog.com/2007/01/how-money-is-made-post-by-divorced-one.html" target="_blank">very first post</a> was on this subject.  Most specifically <a href="http://www.angrybearblog.com/2009/02/more-kissing-income-inequality.htm" target="_blank">here,</a></div>
+<div></div>
+<div>and <a href="http://www.angrybearblog.com/2008/09/class-war-appropriateness-of-wealthys.html" target="_blank">here</a> and <a href="http://www.angrybearblog.com/2009/01/lets-kiss-income-inequality.html" target="_blank">here</a>.</div>
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/ok-class-lets-review-before-the-exam-election.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wages driven down, now relative to market you&#8217;re over paid!</title>
+		<link>./../../2012/07/wages-driven-down-now-relative-to-market-youre-over-paid.html</link>
+		<comments>./../../2012/07/wages-driven-down-now-relative-to-market-youre-over-paid.html#respond</comments>
+		<pubDate>Wed, 25 Jul 2012 20:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Class war]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[labor markets]]></category>
+		<category><![CDATA[labor share]]></category>
+		<category><![CDATA[market wages]]></category>
+		<category><![CDATA[wages]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/wages-driven-down-now-relative-to-market-youre-over-paid.html</guid>
+		<description><![CDATA[Update: spelling corrected in title. I heard and then went to look see that Caterpillar is working hard to control it&#8217;s costs. &#8220;Despite earning a record $4.9 billion profit last year and projecting even better results for 2012, the company is insisting on a six-year wage freeze and a pension freeze for most of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Update: spelling corrected in title.</p>
+<p>I heard and then <a href="http://www.nytimes.com/2012/07/23/business/profitable-caterpillar-pushes-workers-for-steep-cuts.html?pagewanted=all">went to look see </a>that Caterpillar is working hard to control it&#8217;s costs.</p>
+<blockquote><p>&#8220;Despite earning a record $4.9 billion profit last year and projecting even better results for 2012, the company is insisting on a six-year wage freeze and a pension freeze for most of the 780 production workers at its factory here. Caterpillar says it needs to keep its labor costs down to ensure its future competitiveness.&#8221; </p></blockquote>
+<p>It has <a href="http://en.wikipedia.org/wiki/Caterpillar_Inc.">purchased 17 other business</a> since 2008, 9 were non US companies.  Two companies were purchased in 2011.  Here&#8217;s the thing, a 6 year freeze?  I guess there will be no inflation?  I mean like zero.  Though economist are saying inflation is needed as part of the solution to our slow economy.  Of course, Obama having frozen government wages, I guess Caterpillar is just being patriotic.   Nothing like We the People blazing the trail for how we want the private sector to treat We the People.</p>
+<p>
+<div>Caterpillar made $4.9 billion profit.  If they raised these people&#8217;s pay $10,000 each, your only talking $7.8 million.  It is 0.159%  (0.00159)of Caterpillar&#8217;s profit. <a href="http://inflationdata.com/inflation/inflation_rate/currentinflation.asp">Inflation has averaged</a> since 2008  about 2.075%.   Giving the worker $10,000 more per year does not equal the inflation rate as a share of the profit.  If the worker were getting their due based on inflation they would get a piece of $101,675,000.  This would be $130,352.56 each for the 780 workers.  Caterpillar would still have $4,798,325,000.00 profit.  Imagine what that $130,352.56 would do for the economy in Joliet!  I&#8217;ll bet Caterpillar equipment sales would rise do to demand for construction.</div>
+<div></div>
+<p><a name="more"></a></p>
+<div>I just picked $10,000 for the heck of it.  It&#8217;s a lot of money for the worker at Caterpillar.  Unfortunately it is less than the $15,300 per family I calculated and posted about over the years that is now in the hands of the top 1% EACH AND EVERY YEAR!   </div>
+<div>The article notes that these workers average $55,000/yr before overtime.  A $10,000 raise is 18.18% of their pay for what is 0.159% of Caterpillar&#8217;s profit FOR ONE YEAR!  Imagine what Joliet&#8217;s economy would be with $7,800,000 more in it&#8217;s community.</div>
+<div></div>
+<div>Why is labor not allowed to consider inflation?  Using the above wage and inflation, we get a $1141.25 increase in annual income.  This is for the worker to stay even for 2011.  It totals $890,175 for the 780 employees.  This is 0.01817% (0.0001817) of Caterpillar&#8217;s profit.  Do you know how much that is?   Do you have any idea of how insignificant this cost would be to Caterpillar?</div>
+<div></div>
+<div>The moon is 238,900 miles from the earth.  0.01817% of that distance is 43.4 miles!  People drive that daily round trip to work.  The earth is 24,901 miles in circumference, times 0.0001817 is 4 and 1/2 miles!  It&#8217;s a leisurely 1.5 hour  walk compared to a 41.23 hour flight around the earth in a <a href="http://blog.privatefly.com/how-fast-can-a-private-jet-fly">Cessna Citation X</a> at its cruise speed of 604mph (201 times faster than the walk). </div>
+<div></div>
+<div>Here is the real twilight zone/catch 22 fun house these and all workers are in.   </div>
+<p>
+<blockquote>
+<div></div>
+<div>&#8220;Last winter, Caterpillar locked out about 450 workers at its locomotive plant in London, Ontario, and then closed the factory after the union rejected its demand to cut wages by 55 percent.&#8221; </div>
+<div>Robert Bruno, a labor relations professor at the University of Illinois, said Caterpillar was trying to drive compensation down to a new floor.</div>
+<div>“Caterpillar sees this as ‘the new normal,’&#8230;</div>
+<div>Carlos Revilla, the plant’s operations manager, defended the push for a pay freeze, saying the top-tier workers were paid 34 percent above market level.</div>
+<div>   </div>
+<div>“A competitive and fair wage package is a must,” he said in a statement. “Paying wages well above market levels makes Joliet uncompetitive.”   </div>
+<div>&#8220;The company had profit of $39,000 per employee last year.&#8221;  </div>
+</blockquote>
+<div></div>
+<div></div>
+<div>First, no one asks for a 55% cut without already having plans to close the factory.  Obviously Caterpillar&#8217;s offer was your typical flea market (“swap meet” for you car people, yard sale for the rest) low ball, I don&#8217;t need it but if your willing&#8230;bogus offer.  Oh, what is &#8220;market level&#8221;?  Is this the average of Walmart/retail and food service industry jobs thrown in?  The phrase used to be: industry level.  Cute game they are playing.</div>
+<div></div>
+<div></div>
+<div>First, no one asks for a 55% cut without already having plans to close the factory.  Obviously Caterpillar&#8217;s offer was your typical flea market (“swap meet” for you car people, yard sale for the rest) low ball, I don&#8217;t need it but if your willing&#8230;bogus offer.</div>
+<div></div>
+<div></div>
+<div>How is it, that one party can drive down the market and then is allowed to use the new market level they created as the reason for why they need to drive down the market and society not see the self serving nature of the argument?  Law calls such power &#8220;contracts of adhesion&#8221;.  If we had an actual functioning Department of Labor, they would not let such monopolistic activities take root.  This is not free market capitalism as we idolize it.  Where is the negotiating power of labor so that the declining wage base driven by the employer is not used as the reason to further decline wages?  You wonder why those charts of declining union numbers correlate with declining average wages? Caterpillar et al.   </div>
+<div></div>
+<div>Of course, part of the issue is that the workers are being handled as if that one plant is all there is to Caterpillar.  Mr. Revilla&#8217;s position is that the plant shall not be considered part of the whole operation and thus Caterpillar&#8217;s profit is not a serviceable fact during the negotiations.  Only the unique profitability of that one plant is of concern.  So, what happens to the customary answer of &#8220;globalization&#8221; by corporations such as Caterpillar when ask why?   The globalized profits are not to be considered?  Is Caterpillar only selling the product from the Joliet plant in Joliet?  The Joliet situation is a closed market, independent from all else around it with no influence to or from the outside?     </div>
+<div></div>
+<div>Lets go one step further: taxes.  I&#8217;ll bet Caterpillar gets some kind of a break.  Maybe payment in lieu of taxes?  Does Illinois have any kind of job creation tax incentives?  Inventory tax reductions?  No sales tax paid?   The proverbial catch 22 is your local property taxes.  You can&#8217;t afford them, right?  They keep going up, right?  The state is not sending your town the same amount of money it used to, right?  And companies like Caterpillar keep driving down wages to a new base, while they off load the tax burden to labor&#8217;s wage base  with arguments that they are doing their part by creating jobs. </div>
+<div></div>
+<div>Citizens of the US&#8230;WAKE UP! </div>
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/wages-driven-down-now-relative-to-market-youre-over-paid.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Define Rich V: Looking at the historical labor economy</title>
+		<link>./../../2012/01/define-rich-v-looking-at-the-historical-labor-economy.html</link>
+		<comments>./../../2012/01/define-rich-v-looking-at-the-historical-labor-economy.html#respond</comments>
+		<pubDate>Fri, 13 Jan 2012 07:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[austerity]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Class war]]></category>
+		<category><![CDATA[economic history]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[middle class]]></category>
+		<category><![CDATA[TARP]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/define-rich-v-looking-at-the-historical-labor-economy.html</guid>
+		<description><![CDATA[We are taking a little side trip inthis series of defining rich based on the prior tax rate schedulesbut, this post is keeping with the process of looking at history formarkers as to the definition of rich. For any new readers, I believeas a society we knew and had definite boundaries as to what definedrich. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>We are taking a little side trip inthis series of defining rich based on the prior tax rate schedulesbut, this post  is keeping with the process of looking at history formarkers as to the definition of rich.  For any new readers, I believeas a society we knew and had definite boundaries as to what definedrich.  I believe we knew how to say the word “when” as the incomeand wealth was pouring into one&#8217;s glass These boundaries producedspecific public policy that resulted in a more equal and justsociety.</div>
+<div></div>
+<div>In our local city there is anothertextile mill going to the grave.  We have lost a couple of huge millsto fire in the last decade.  The local  paper did an article on thismill known as the French Worsted Mill.  It was built in two stages,1906 and then 1906.  It was part of the revival of the mill industryvia specific targeting of French industrialists, post water power forthe city.  A local person who was eventually governor of the state iscredited with bring $6,000,000 of foreign investment into the cityearly turn of the century.   At one point they had a Uniroyal rubberplant that made soles for shoes  The last pair of Keds (sneakers) went out thedoor in 1970.  <a href="http://www.newspaperarchive.com/SiteMap/FreePdfPreview.aspx?img=110759965%20">Nine hundred and fifty people out of work due to &#8220;FarEaster Producers&#8221;.</a>  (See the article: Pressure growsrapidly for Congress to to clamp tariffs on foreign goods, 5/19/1970)  This was a city as industrial asanything Detroit or Pittsburgh were.  This was a cultural center forthe region with 6 theaters and I don&#8217;t mean just movies.  We aretalking blue collar all the way.  We&#8217;re talking jobs that we considerthrow away jobs to the far east today.  We&#8217;re talking jobs that are notconsidered “good” jobs anymore.  </div>
+<div></div>
+<div>So, now that you have the picture, hereis what this mill and the jobs within it were able to do for theworkers.  I think this bit of history also adds to my position thatwe have continually pushed the cost of the American Dream up theincome line such that the middle class can not afford it&#8230;even with2 college educated people in one house.  This is the sub-context tothe discussion regarding the decline of the middle class or the lossof the middle class.  When people say the middle class does notexist, what is being stated is that the American Dream is no longerfinancially possible for this groups of citizens.  The Dream is notdead or gone, it is over priced relative to the income of the middleclass.  It is just as we are not drowning in debt, we are dehydratingfrom lack of income.</div>
+<div></div>
+<p><a name="more"></a></p>
+<div>The article in the paper talked about aMr. Bacon.  He worked in the mill in 1956 along with 700 to 800 otherresidents.  The job was not as a machine tool maker (the mill as mosthad their own machine shop) or a special machine operator thatrequired special skill.  He was a laborer.  The tasks mentioned werestuffing waste wool into burlap sacks or “picking up the yarn” orfetching parts from the machine shop.  We&#8217;re talking menial labortasks.  Starter jobs.  </div>
+<div></div>
+<div>For this work Mr. Bacon was paid $1.80per hour.  The minimum wage was $1.00 per hour.  At some point he wasearning $80 per week for 40 hours work.  This is $4160 per year. With this income Mr. Bacon was able to put himself through collegeand became a teacher in the local school system.  It was not just anyold college he went to.  It was Providence College with a tuition of$500 per year.   Yes, a private college that cost only 1/8<sup>th</sup>of his annual income.  </div>
+<div></div>
+<div>Mr. Bacon&#8217;s story is the story that notonly are the Republican presidential candidates promoting as to whatwe need to &#8220;get back” to, but the democrats are saying we needto go forward to.  Mr. Bacon&#8217;s story with this mill is the proof thatthe 2 parties are not talking about a fantasy time in our history. It did exist.</div>
+<div>Here&#8217;s the problem though with both of their directions.  I&#8217;m justgoing to list them.</div>
+<ol>
+<li>
+<div>$40,000 is the annual tuition at Providence College today.</div>
+</li>
+<li>
+<div>$1.80 per hour is equivalent to the following: $14.40/hour standard of living, $17.80 real value, $18.20 unskilled labor and $22.00/hour production labor.</div>
+</li>
+<li>
+<div>Tuition of $500 is equivalent to the following: $4010.00 standard of living, $4960 real value, $5050 unskilled labor and $6120.00 production labor</div>
+</li>
+</ol>
+<div></div>
+<div>Are you seeing the problem here?  It&#8217;snot just the difference of tuition going up 80 times.  It&#8217;s that the wage equivalent today for what amounts to stacking shelves in Walmartis not being paid at Walmart.  Not only is this Walmart job notpaying such wages, this is what the current autoworker is earning. The autoworker was one of the best compensated citizens we had. Lookup the definition of  middle class in the dictionary, and you would have seen anautoworker!  </div>
+<div></div>
+<div>How bad is this?  <a href="http://www.wsws.org/articles/2011/sep2011/pers-s08.shtml">Considered</a>: </div>
+<blockquote><div>Thelow-wage benchmark set by the UAW has already set off a competitivestruggle in the global auto industry, with Fiat-Chrysler boss SergioMarchionne telling Italian workers they must accept American-styleconcessions or he will move production to North America for cheaperlabor.</div>
+</blockquote>
+<div></div>
+<div>I have read that the German automakersare here in the US for the same reason.  We are now the stop for outsourcing.  </div>
+<div></div>
+<div>Here is the other more important aspectof the story of the French Worsted Mill and it&#8217;s relationship to theAmerican Dream.  All those candidates, all those legislators, allthose governors proposing programs they say will encourage people toget off welfare and join the “productive” class, programs thatwill spur job creation, programs that will grow the economy such thatwe can cut taxes JUST LIKE THE GOOD OLD DAYS have no answer for thelack of pay of $14.00 per hour for the Walmart shelf stocker.  Theyhave no answer as to how they are going to return the ratio betweenthe hourly wage and the cost of college education to that of the1950&#8217;s such that an individual can accomplish what Mr. Bacon andothers from the same mill accomplished.   Not only do they have noanswer, they don&#8217;t even want to consider this aspect of theirsolution.  </div>
+<div></div>
+<div>Mr. Bacon&#8217;s story is also telling uswhy we think the public sector is so over paid.  If a Walmart shelfstocker should be earning $14.00 hour comparatively but are not, ifan autoworker earning $14.00 per hour is underpaid comparatively,then certainly the higher hourly wages of the public sector lookexcessive.  Everyone used to know that the public sector was alwayspaid less compared to the private sector.  They did not have morebenefits than the autoworker, but they do now.  The slowdeterioration of the autoworkers and all the other laborers pay andbenefits has hidden the reality of the finger pointing at the publicsector.  It&#8217;s not that they are paid so much, and thus look “rich”by comparison, it&#8217;s that the autoworker has lost so much over such along time that the loss is not recognized as a loss.  Instead, thepublic sector&#8217;s economic position is looked at as an unjust gain. Not only is this presented as an unjust gain, it is an injusticeperpetrated via taxation.  And the stage is now set for all thearguments such as those we hear coming from governors such as Walkerand Kasich.</div>
+<div></div>
+<div></div>
+<div>This is where the Keds hit the road. We, and I have to say “We” because We voted in those who made thepolicy changes, have decided that a good job is not one which allowsthe experience of Mr. Bacon or the autoworker.  We upped it to be onethat required academic education.  No longer would trade education orapprenticeship education be of such value that it would define themiddle class.  Unfortunately, as I had <a href="http://www.angrybearblog.com/2007/04/this-is-continuation-of-looking-at.html">suggested  in 2007</a>, evenacademic education is being defined down as to not resulting in a &#8220;goodjob&#8221;.  </div>
+<div></div>
+<blockquote><div>&#8220;The dream seems to now only be adefinite with a 2 person, college educated and working household. That combination is not far from being in the 10% group.  Thus, wehave raised the dream to something beyond which a large portion ofthe population will not reach considering only 28% have a 4 yeardegree even though 64% of high school students are entering college. It looks even worse with people suggesting that you need an IQ of 110to succeed in college.  I mean, can we push the dream any further outor be anymore aristocratic in our arguments? &#8220;</div>
+</blockquote>
+<div></div>
+<div><a href="http://www.angrybearblog.com/2007/04/this-is-continuation-of-looking-at.html">What has this push produced</a>:</div>
+<blockquote><p>In 2003, the homeownership rate for upper-income families withchildren was 90.8 percent, while the rate for their low- tomoderate-income counterparts was significantly lower at 59.6 percent– yet in 1978 some 62.5 percent of low-to moderate-income workingfamilies with children owned their homes. Ultimately, had the 1978homeownership rates for working families with children prevailed in2003, an additional 2.3 million children would now be living inowner-occupied homes. </p></blockquote>
+<p>How&#8217;s this little bit of history change your ideas about what toblame for the current housing/mortgage mess?  I suppose if you areall for a future that is less than what was accomplished in the pastthen blaming government for promoting housing and people for spendingbeyond there means is all right by you.</p>
+<p>No one in the middle class of yore was rich by any means.  But,what they had was a life much freer of risk than today.  What theylived in was an environment that provided the means to manage therisk of life and living.  When we are told by those running for or inoffice that Americans need to be more&#8230;(fill in the blank) they aresuggesting such from within their own experience of having grown upin a socially constructed via government environment that was devoidof certain risks of living based on one&#8217;s income.  In other words,you would not be told that the requirement for food stamps would meanyou had to <a href="http://crooksandliars.com/susie-madrak/pas-gov-tom-corbett-bar-food-stamp-re">have less than $2000 in savings. </a></p>
+<p> The removal of these risks allowed one to take what theypersonally had (natural ability and otherwise) and grow it into alife where economically more of life&#8217;s risks could be taken onindividually.   It was an environment which removed the concept ofluck from the social justice equation. </p>
+<p>This environment was not all welfare.  It was an environment thatassured a person of common acuity could live a life free from therisk of weather, malnourishment, illness and aging.  It was anenvironment that produced an economy such that the vast majority ofthe 72% without a college education were living this minimal risklife. We had an environment which supported the economic life journeyof the autoworker, simultaneously supporting the economic life journey of Mr.Bacon&#8217;s experience, simultaneous supporting the economic life journey of anindividual such as President Obama.   </p>
+<p>It was an economic environment which produced a directrelationship between income/wealth and risk absorption.  As incomeand wealth went up, so did the absorption of risk and vice versa. Today we 
+<div>have a system that is completely theopposite such that we have arrived at place where the relationship iscompletely reversed.  We spare those who as a group can purchase agovernment which insulates them from any risk while pushing all therisks of living on to those who can not afford any risk and then tellthose people &#8220;oh well&#8221;.   The bank bailouts and theausterity plan is the realization of the reversal of the risk/income-wealth relationship.  </div>
+<p>Our past economic environment also produced a direct relationshipbetween income-wealth and luck. Again, as income-wealth increased,your success was more dependent on luck and vice versa.  This too hasbeen reversed as we see with the Washington revolving door and evergreater capture of the nations wealth as one&#8217;s income-wealthincreases.  The environment produces an ever stronger assurance thatincome and wealth will increase as they both increase.  This isunlike the experience of the middle class including all the highly educatedpeople who find themselves under employed or unemployed do to theshear luck of having chosen wrong. Today the closer you are to zeroon the line of income-wealth, the luckier you need to be.</p>
+<p>I&#8217;ll leave you with this, the class warfare.  There is classwarfare.  It has always been with us, since the writing of theConstitution.  However, I believe the current theater is the mostdevious the vast majority of the US population has ever faced.  Thisis because of the two parties in this seemingly perpetual human quest,one has successfully cloaked themselves in the costume worn of athird party observer effectively immunizing themselves from the pain of the fight via camouflageof a messenger.  I even suspect some aregaining a wee bit of entertainment in their ability to manipulate theircounterparts into fighting among themselves.  I speak of the laborclass successfully being divided such that those who labor in theprivate sector of the economy accuses those who labor in the publicsector of the economy for their poor economic position and the publicsector laborer does not recognizing themselves in the private laborworld.  I tell you, the false messenger is recognized in that theirlabor is money.  It is not in their mind or body.  Warren Buffet maywant to be taxed more, but Warren Buffet is not working his money asthe Kock Brothers are working theirs&#8230;and Warren Buffet isbenefiting from the productivity of the Kock&#8217;s Brother&#8217;s money.</p>
+<p>Next up is 1936&#8217;s tax table. 
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/define-rich-v-looking-at-the-historical-labor-economy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Business Destruction is Never Creative, Always Fatal</title>
+		<link>./../../2011/10/business-destruction-is-never-creative-always-fatal.html</link>
+		<comments>./../../2011/10/business-destruction-is-never-creative-always-fatal.html#respond</comments>
+		<pubDate>Mon, 03 Oct 2011 20:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic history]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[labor share]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/business-destruction-is-never-creative-always-fatal.html</guid>
+		<description><![CDATA[by Mike Kimel Via asymptosis this cartoon&#8230;.]]></description>
+				<content:encoded><![CDATA[<p>by <strong><a href="http://presimetrics.com/">Mike Kimel</a></strong></p>
+<p>Via <a href="http://www.asymptosis.com/a-brief-history-of-corporate-whining.html">asymptosis</a> this cartoon&#8230;.
+<p><a href="http://www.leftycartoons.com/a-brief-history-of-corporate-whining/"><img src="http://2.bp.blogspot.com/-fcJin8sMe8U/ToohRa4AFKI/AAAAAAAAAlo/8z32pTm4Yz4/s320/labor_history.png" border="0" alt=""></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/business-destruction-is-never-creative-always-fatal.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Job Market, Finding Qualified Applicants, and HR</title>
+		<link>./../../2011/10/the-job-market-finding-qualified-applicants-and-hr.html</link>
+		<comments>./../../2011/10/the-job-market-finding-qualified-applicants-and-hr.html#respond</comments>
+		<pubDate>Mon, 03 Oct 2011 09:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[job searches]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[labor economics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/the-job-market-finding-qualified-applicants-and-hr.html</guid>
+		<description><![CDATA[by Mike Kimel I had a few posts noting that not long ago, I took a severance package from my most recent employer. Put another way, I&#8217;m now unemployed. Since then I&#8217;ve been looking for a new job. However, in recent weeks I&#8217;ve started taking consulting work, and I&#8217;m starting to lean more toward consulting. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong><a href="http://presimetrics.com/">Mike Kimel</a></strong></p>
+<p>I had a few posts noting that not long ago, I took a severance package from my most recent employer. Put another way, I&#8217;m now unemployed.  Since then I&#8217;ve been looking for a new job.</p>
+<p>However, in recent weeks I&#8217;ve started taking consulting work, and I&#8217;m starting to lean more toward consulting.  I was a consultant for seven and a half years before taking my most recent job, and I function as easily as a consultant as I do in the corporate world.   Put another way &#8211; I am not uncomfortable with the feast or famine environment in consulting though, truth to tell, my wife would strongly prefer that I had a &#8220;real&#8221; job.  But I digress.  </p>
+<p>A big part of the reason I&#8217;m starting to lean toward consulting is that while I haven&#8217;t cracked the job market, some consulting work has come my way without my having sought it out.  Unrequited love v. unsolicited love, or if you can&#8217;t be with the one you love, love the one you&#8217;re with, right?  And when I say I haven&#8217;t cracked the job market, I have to say, something about the job market seems very wrong to me.  I keep hearing that companies are having a hard time finding qualified candidates.  A random search of the news spits out <a href="http://www.superiortelegram.com/event/article/id/58340/group/News/">several</a> <a href="http://www.chicagotribune.com/business/breaking/chi-caterpillar-ceo-says-company-cant-find-enough-skilled-workers-20110912,0,7463843.story">such</a> <a href="http://blog.laptopmag.com/shortage-of-qualified-employees-poses-big-challenge">stories</a>.<br /><a name="more"></a></p>
+<p>I would like to relate my experience in the matter.  This morning I went to indeed.com, which has rapidly become my favorite job search site.  I entered some appropriate job search parameters, and found a job that I&#8217;ve applied to twice in the past three months.  It looks a lot like the requirement bullet points come straight from my resume:  advanced degree, a fair amount of experience developing analytic tools (e.g., data mining), experience building and leading cross-functional teams, and experience with strategic planning.  I can&#8217;t find anything on the job req that I don&#8217;t have on my resume, except that in each case I have more experience at a higher level than the req specifies.   And as I said, I&#8217;ve applied for that position.  Twice.  And it seems it has appeared on the company&#8217;s website again.   That means the ad wasn&#8217;t written as ex post justification for hiring a specific person &#8211; the company at least believes it is genuinely looking to fill the spot without an internal candidate already penciled in.  </p>
+<p>Now, I&#8217;m not saying that the company should hire me.  Perhaps there is something about the position that isn&#8217;t in the req that makes it clear I don&#8217;t fit in.  And perhaps there are many others that are far more qualified than I am (though I like to think I am very, very good at building statistical tools, and even better at management and strategy).  But either way, I would imagine that my resume would have tripped up some sort of a &#8220;call this guy and feel him out for five minutes&#8221; routine in their &#8220;applicant tracking software.&#8221;  There are other similar positions that I&#8217;ve seen crop up several times since I&#8217;ve applied, but two of them really bother me as they also include a phrase like &#8220;knowledge of Spanish, Portuguese preferred.&#8221;  Now, I grew up in Brazil and have family in Argentina so I have spent considerable time in South America.  I speak Spanish and Portuguese.  That&#8217;s on my resume, as is the fact that I have international work experience.  The companies advertising those positions didn&#8217;t call me back either.</p>
+<p>On the other hand, I&#8217;ve had calls and e-mails from employers looking for someone to a) sell insurance, b) provide financial education to union members and/or Hispanics and/or other groups, c) for entry level positions, and d) for an executive chef.  What in my resume screams &#8220;executive chef&#8221; I have no idea.  None whatsoever.  Good for a laugh, but not really.  It&#8217;s a waste of my time, and there are people out there who are qualified to be an executive chef and are searching for that job and aren&#8217;t getting a call.  My guess is that someone seeking out an executive chef position may be getting calls about upper level management positions in Analytics at a Fortune 500 company.    </p>
+<p>Which leads to a hypothesis.  It may be that there is not so much a mismatch between the skills that the unemployed have <em>vis à vis</em> the needs of companies as there is an inability of companies, and in particular, the Human Resources department of companies, to recognize the needed skills when they see them.  I&#8217;ve met many HR people over the years, and while many are competent, a frightening number of them are not.  I remember, as a hiring manager, learning that I had to bypass my company&#8217;s HR department altogether if I wanted to get resumes that had any bearing to my group&#8217;s needs.  But I could only do that because my boss was very sympathetic.  He had found me without using HR too.  </p>
+<p>&#8212;</p>
+<p>I note <a href="http://www.angrybearblog.com/2011/09/health-insurance-american-style.html">this recent post on Health Insurance</a> also says something about some of HR&#8217;s other functionalities.  </p>
+<p>&#8212;</p>
+<p>PS &#8211; Need a consultant with expertise in analytics and forecasting, and who can explain what it means to your business in simple (and actionable) English (or Portuguese or Spanish)? Someone with a Ph.D. in economics and 15 years experience in pricing, risk, demand analysis, and corporate strategy?  Perhaps with strong knowledge of some of the big South American markets?  Someone with experience in litigation support?  Drop me a line at &#8220;mike&#8221; period &#8220;kimel&#8221; (one m only!!) at gmail.com.  Alternatively, &#8220;mike&#8221; at analyticecon.com will get to me too.  </p>
+<p>Also, my wife started cleaning up my old consulting practice website:  www.analyticeconomics.com (or www.analyticecon.com).   Any suggestions about the website, or about generating new business, are welcome.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/the-job-market-finding-qualified-applicants-and-hr.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

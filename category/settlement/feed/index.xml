@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>settlement &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>First take on AG agreement on foreclosure</title>
+		<link>./../../2012/02/first-take-on-ag-agreement-on-foreclosure.html</link>
+		<comments>./../../2012/02/first-take-on-ag-agreement-on-foreclosure.html#respond</comments>
+		<pubDate>Thu, 09 Feb 2012 17:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[foreclosures]]></category>
+		<category><![CDATA[settlement]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/first-take-on-ag-agreement-on-foreclosure.html</guid>
+		<description><![CDATA[Naked Capitalism posts today on the AG agreement in Settlement Breakdown by State Plus Other Official Propaganda: This agreement is very significant in how it addresses the fraud that these banks committed against many homeowners across our state,” said ___.“ This agreement not only provides much needed relief to (STATE) [Ha ha, fill in the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Naked Capitalism posts today on the AG agreement in <a href="http://www.nakedcapitalism.com/2012/02/settlement-breakdown-by-state-plus-other-official-propaganda.html" target="_blank">Settlement Breakdown by State Plus Other Official Propaganda</a>:  <br />
+<blockquote>This agreement is very significant in how it addresses the fraud that these banks committed against many homeowners across our state,” said ___.“ This agreement not only provides much needed relief to (STATE) [Ha ha, fill in the blank!!!] borrowers, but it also puts a stop to many of the bad [criminal] behaviors that contributed to the mortgage mess in our state and across the country.</p></blockquote>
+<p>Addresses the fraud is part of the news announcement?</p>
+<p>Update:  Also listen to <a href="http://www.econtalk.org/archives/2012/02/william_black_o.html" target="_blank">William Black on Econtalk</a> about bank fraud.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/first-take-on-ag-agreement-on-foreclosure.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

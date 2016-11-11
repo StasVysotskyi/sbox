@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>median wealth &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>U.S. Trails at Least 15 OECD Countries in Median Wealth</title>
+		<link>./../../2012/07/u-s-trails-at-least-15-oecd-countries-in-median-wealth.html</link>
+		<comments>./../../2012/07/u-s-trails-at-least-15-oecd-countries-in-median-wealth.html#respond</comments>
+		<pubDate>Fri, 20 Jul 2012 02:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[median wealth]]></category>
+		<category><![CDATA[OECD]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/u-s-trails-at-least-15-oecd-countries-in-median-wealth.html</guid>
+		<description><![CDATA[by Kenneth Thomas U.S. Trails at Least 15 OECD Countries in Median Wealth Via @exiledonline, I learned today (July 18) that Canadians are richer than Americans. This is rather surprising, since GDP per capita is higher in the U.S than in Canada.: $48,100 vs. $40,300 (at purchasing power parity or PPP), according to the CIA World [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Kenneth Thomas</p>
+<p>U.S. Trails at Least 15 OECD Countries in Median Wealth </p>
+<p>Via @exiledonline, I learned today (July 18) that Canadians are richer than Americans. This is rather surprising, since GDP per capita is higher in the U.S than in Canada.: $48,100 vs. $40,300 (at purchasing power parity or PPP), according to the <a href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html">CIA World Factbook</a>. But in fact things are much worse than that, as 15 OECD countries (plus Singapore and Taiwan) have higher median wealth than the U.S. does. There may even be more, as the Credit Suisse report I discuss below does not give median wealth data for several countries with higher mean wealth than the U.S.    </p>
+<p>Most reporting has been based on a story that was run in the <a href="http://www.theglobeandmail.com/commentary/canadians-are-richer-than-they-think/article4380634/">June 30th <i>Globe and Mail</i></a> claiming that average (mean) Canadian household wealth had reached $363,202 vs. just under $320,000 in the U.S. This is not a particularly informative statistic, however, since wealth is even more unevenly distributed than income, and income in the U.S. is already highly unequally distributed. What we really need is median net worth, i.e. the level at the exact middle of the net worth distribution in a country. G&#038;M commenter &#8220;TJMone&#8221; picks up that point, receiving an answer from &#8220;porkbarrel pundit&#8221;: a <a href="https://infocus.credit-suisse.com/data/_product_documents/_shop/324292/2011_global_wealth_report_databook.pdf">Credit Suisse report</a> from October 2011 (via <a href="http://lsminsurance.ca/life-insurance-canada/2011/12/canadas-net-worth-tops-the-united-states">LSM Insurance</a>), shows that the median net worth per adult in Canada was $89,014, compared to just $52,752 in the U.S. (all figures in U.S. dollars).    </p>
+<p>American reporting based on the study in the G&#038;M did not start until 18 days later, when <a href="http://www.usnews.com/news/articles/2012/07/18/for-the-first-time-canadians-now-richer-than-americans">an article</a> in <i>U.S. News &#038; World Report</i> picked it up (Canadians are right: no one in the U.S. is paying attention to them). Moreover, no one picked up on the much better data in the Credit Suisse report until later in the day, when <a href="http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/07/18/are-canadians-richer-than-americans/">Dylan Matthews</a> at Wonkblog wrote a great story on it (there are many high-quality comments, too). It turns out that lots of OECD countries, including economic basket cases Italy, Spain, and Ireland, have higher median wealth than we do. See the chart below:</p>
+<p><img alt="http://www.washingtonpost.com/blogs/ezra-klein/files/2012/07/medianwealth.jpg" height="480" src="http://www.washingtonpost.com/blogs/ezra-klein/files/2012/07/medianwealth.jpg" width="640"><br />Source: Dylan Matthews, based on data from Credit Suisse    </p>
+<p><a name="more"></a></p>
+<p>It is mind boggling that median Australian net wealth per adult is four times that of the U.S., and Italy is three times as high. Ireland and Spain, meanwhile, are also higher despite having housing busts similar to that in the United States. What is going on here?    </p>
+<p>Part of the answer is more equal income distribution. According to the Credit Suisse report, mean wealth per adult is just shy of 5 times median wealth in the U.S., whereas in Canada it&#8217;s a little less than a 3:1 ratio (see Table 7-1). Other countries with higher median but lower mean net worth per adult are Taiwan, Finland, Germany, Ireland, Israel, the Netherlands, New Zealand, and Spain. Australia has a higher mean net worth than the U.S., but its ratio of mean to median net worth per adult is less than 2:1.    </p>
+<p>Another part of the answer may be that in many other wealthy countries, households have less debt. If you remember <a href="http://sickothemovie.com/">Michael Moore&#8217;s movie</a> <i>Sicko</i>, in one scene he interviews an upper-middle class French family and asks them what debt they have. Their only significant debt is their mortgage, because they didn&#8217;t have to take out loans to go to college. The Credit Suisse report finds this pattern (unfortunately, only mean debt, not median debt). Mean debt per adult (see Table 2-4) is $59,362 in 2011 for the United States, whereas for France it is $40,873, Germany $33,424, and Italy only $24,291. Of course, this isn&#8217;t true of all countries: Ireland and Switzerland both have much higher mean debt per adult, but they also have about twice the median wealth per adult of the U.S.    </p>
+<p>This analysis is hardly exhaustive; I bet a good book could be written on the subject.    </p>
+<p>One final point: Matthews skewers the claim by <i>Globe and Mail</i> author Michael Adams (whose firm conducted the study discussed in his article) and later commenters on both sides of the border who accepted Adams&#8217; claim that this was a historical first. As he shows with U.S. and Canadian government data, Canada&#8217;s median household net worth was significantly higher in 2004-5, before the crisis, than here in the U.S. Given the huge disparities between the United States and some of the other countries, it is likely that net worth per adult has been higher in a number of these countries for quite some time. These data reflect trends that have been developing for a long time, and are not purely driven by the economic crisis or by any single set of policies. But they make for sobering reading, and deserve more than the superficial analysis most of the U.S. press has given them so far. Bravo to Matthews for a great piece of analysis.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/u-s-trails-at-least-15-oecd-countries-in-median-wealth.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

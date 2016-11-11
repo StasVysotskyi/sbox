@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>losses &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Where DID the money go? Part 2</title>
+		<link>./../../2008/03/where-did-the-money-go-part-2.html</link>
+		<comments>./../../2008/03/where-did-the-money-go-part-2.html#respond</comments>
+		<pubDate>Wed, 05 Mar 2008 00:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[housing]]></category>
+		<category><![CDATA[losses]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[recession]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/where-did-the-money-go-part-2.html</guid>
+		<description><![CDATA[Bloomberg Magazine, in &#8220;Unsafe Havens&#8221;. (Hat tip to Naked Capitalism.) reports that money market funds run by Bank of America Corp., Credit Suisse Group, Fidelity Investments and Morgan Stanley owned over $6 billion of CDOs with subprime debt in June. The reason this is a serious issue is that money market funds have a $1 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.bloomberg.com/news/marketsmag/mm_1007_story2.html">Bloomberg Magazine, in &#8220;Unsafe Havens&#8221;</a>. (Hat tip to <a href="http://www.nakedcapitalism.com/2007/09/some-money-market-funds-have-large.html">Naked Capitalism</a>.)</p>
+<blockquote><p>reports that money market funds run by Bank of America Corp., Credit Suisse Group, Fidelity Investments and Morgan Stanley owned over $6 billion of CDOs with subprime debt in June.</p>
+<p>The reason this is a serious issue is that money market funds have a $1 NAV, meaning &#8220;net asset value&#8221; rule. The funds are required by the SEC to invest conservatively. In practice, they always to maintain principal value. But as the article explains, this sort of investment puts the funds at risk of breaching the $1 NAV requirement.</p>
+<p>What this article tells us, in effect, is that investors weren&#8217;t completely nuts to have dumped money market funds for Treasuries in August. Of course, they probably should have called the fund manager first, since most large fund management firms, such as Vanguard, correctly see this sort of paper as in appropriate for a money market fund.</p>
+<p>The article is quite long but very much worth reading in its entirety; we&#8217;ve excepted the juicy bits. From Bloomberg Magazine:</p>
+<p>Unbeknownst to most investors, some of the largest money market funds today are putting part of their cash into one of the riskiest debt investments in the world: collateralized debt obligations backed by subprime mortgage loans&#8230;.</p>
+<p>Money market funds with total assets of $300 billion have invested in subprime debt this year&#8230;.</p>
+<p>Under SEC rules, money market managers must invest in securities with &#8220;minimal credit risks.&#8221; Joseph Mason, a finance professor at Drexel University in Philadelphia and a former economist at the U.S. Treasury Department, says subprime debt in money market funds is far from safe.</p>
+<p>&#8220;This creates tremendous risk for today&#8217;s money market investors,&#8221; says Mason, who wrote an 84-page report on CDOs this year. &#8220;Right now, I&#8217;m not comfortable investing anything in CDOs.&#8221;&#8230;.</p>
+<p>On Aug. 9, BNP Paribas SA, France&#8217;s biggest bank by market value, froze withdrawals on three investment funds with assets of 2 billion euros because the bank couldn&#8217;t find a way to value its U.S. subprime bonds and other assets. CDOs aren&#8217;t bought and sold on exchanges and their trading has little transparency&#8230;.</p>
+<p>Bruce Bent, who in 1970 created the first money market fund, The Reserve Fund, says no money market fund should invest in subprime debt.</p>
+<p>&#8220;It&#8217;s inappropriate,&#8221; Bent, 70, says. &#8220;It doesn&#8217;t have a place in money market funds. When I created the first money market fund, I said you have to have immediate liquidity, safety and a reasonable rate of return. You also have to have a situation where you&#8217;re not giving people headline risk.&#8221;</p>
+<p>Investors have sought safety during the subprime meltdown by moving their holdings to U.S. Treasuries and money market funds. On Aug. 8, just after the Bear Stearns hedge funds filed for bankruptcy protection, U.S. money market fund total assets reached a record high of $2.66 trillion, with investors pouring $49 billion into such funds in one week, according to the ICI.</p></blockquote>
+<p>Reader Jack asked about money disappearing. Some was pure vapor wares in a bidding war for promises on ROI. Other money came from what were safe havens of money markets, municipal bonds, and other financial vehicles that were supposed to be only steady and safe.</p>
+<p>Springfield MA sued and won their $14 million from Merryl Lynch based on their agent&#8217;s inappropriate behavior by disregarding the town&#8217;s mandate of investment vehicles.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/where-did-the-money-go-part-2.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

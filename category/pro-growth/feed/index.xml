@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pro-growth &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Some Advice For Robert Stein and Other Conservatives Trying to Construct a New Tax Structure</title>
+		<link>./../../2008/04/some-advice-for-robert-stein-and-other-conservatives-trying-to-construct-a-new-tax-structure.html</link>
+		<comments>./../../2008/04/some-advice-for-robert-stein-and-other-conservatives-trying-to-construct-a-new-tax-structure.html#respond</comments>
+		<pubDate>Sat, 12 Apr 2008 12:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[pro-growth]]></category>
+		<category><![CDATA[tax code]]></category>
+		<category><![CDATA[tax proposal]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/some-advice-for-robert-stein-and-other-conservatives-trying-to-construct-a-new-tax-structure.html</guid>
+		<description><![CDATA[Robert Stein has been kind enough to clarify a lot of points about his tax plan, so I&#8217;d like, if I may, to offer conservatives my thoughts on a tax plan. Not a tax plan, but things I feel they should keep in mind about taxes if their goal is to come up with a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Stein has been kind enough to clarify a lot of points about his tax plan, so I&#8217;d like, if I may, to offer conservatives my thoughts on a tax plan.  Not a tax plan, but things I feel they should keep in mind about taxes if their goal is to come up with a plan that will a) have the support of folks in the center and the center-left and b) be &#8220;pro-growth&#8221; in deed as well as in word.</p>
+<p>1.  Do not make assumptions about the percentage of people&#8217;s income that will go toward taxes based on figures from the IRS Statistics of Income.  The IRS Statistics of Income gives us reported taxable income, which has a much greater tendency to overstate the percentage of income paid in taxes by high income earners than it does for low income income earners.  A couple reasons come to mind quickly&#8230;</p>
+<p>1a.  It is not going to include tax free income, such as tax free municipal bonds.  These are generally not a part of the income stream of the working class.</p>
+<p>1b.  Its usually awfully hard to, shall we say, push the envelope when all of your income comes from one employer and is reported on a W-2.  On the other hand, if your income comes from multiple sources, and it depends in large part on how big your costs are, things are a little different.  Robert Stein used to work at the Treasury.  I had a stint at a then Big 6, now Big 4 Accounting firm.  The reason high net worth individuals pay enormous fees to the Big X is not because their returns are complex &#8211; its to ensure their returns are complex.  That way, when there&#8217;s a dispute, and the folks at the Big X are one side of the table, and the outgunned folks from the Treasury (whose goal is to one day be on the other side of the table, making more money &#8211; talk about Capture Theory!) meet, there&#8217;s no question what the outcome will be.  Costs are inflated using every loophole, and revenues are deflated the same way.   And the incentive of folks who make enough money to go through PWC or E&#038;Y or Deloitte or KPMG is not going to go away just because tax rates fall, unless those rates fall close to zero.  And its not going to go away if the tax code is simplified.</p>
+<p>2.  Here&#8217;s a table I made for another post a few months back based on data from <a href="http://www.irs.gov/taxstats/article/0,,id=175814,00.html">IRS SOI Bulletin Historical Table 8</a>.  It shows the income taxes paid (as per the IRS SOI) as a percentage of the personal income (from the BEA&#8217;s NIPA tables), not as a percentage of the personal income declared to the IRS.  </p>
+<p><a href="http://3.bp.blogspot.com/_yBU2IH33oeM/R4bdaNumL5I/AAAAAAAAA8s/sHO2qVyJLr8/s1600-h/dynamic+scoring+-+taxes+as+a+percent+of+personal+income+graph.jpg"><img src="http://3.bp.blogspot.com/_yBU2IH33oeM/R4bdaNumL5I/AAAAAAAAA8s/sHO2qVyJLr8/s320/dynamic+scoring+-+taxes+as+a+percent+of+personal+income+graph.jpg" border="0" alt=""></a></p>
+<p>I don&#8217;t think its excessively cynical that the conclusion to be reached from this is that tax collections are less a function of marginal tax rates than they are of something else.  Here&#8217;s why &#8211; tax rates dropped dramatically while LBJ was President, and yet tax collections as a share of income went up.  Conversely, as Republicans will never forget, GHW Bush raised tax rates&#8230; and still reduced the percentage of people&#8217;s income collected in taxes.</p>
+<p>For lack of a better term, let&#8217;s call that something other than marginal tax rates that affects tax collections &#8220;enforcement.&#8221;  Its a simple matter &#8211; if the folks appointed to run the Treasury and the IRS are very much against the concept of taxation, tax collections as a percentage of income will diminish.  Its no surprise or accident that the red bars are all one side of horizontal axis and the blue bars are all on the other.</p>
+<p>3.  I realize its fashionable to claim that one is &#8220;pro-growth&#8221; if one is in favor of lower taxes.  I&#8217;m not sure if Robert Stein has used that term, but its certainly a term in vogue.  The problem is this &#8211; another graph I used before&#8230;</p>
+<p>I pulled some data from the BEA&#8217;s <a href="http://www.bea.gov/national/nipaweb/SelectTable.asp?Selected=N#S7">NIPA table 7.1</a>.  For each president, its calculated from the last year before the President took office to the last full year the President served.  (Since JFK was killed and Nixon quit more than half-way through the year, I assumed JFK&#8217;s &#8220;last full year&#8221; was 1963 and Nixon&#8217;s was 1974.)  </p>
+<p><a href="http://4.bp.blogspot.com/_yBU2IH33oeM/R4bdfdumL6I/AAAAAAAAA80/yYHmZlEFR2A/s1600-h/dynamic+scoring+-+real+GDP+per+capita+graph.jpg"><img src="http://4.bp.blogspot.com/_yBU2IH33oeM/R4bdfdumL6I/AAAAAAAAA80/yYHmZlEFR2A/s320/dynamic+scoring+-+real+GDP+per+capita+graph.jpg" border="0" alt=""></a></p>
+<p>Its hard to construct a story that includes both this graph and the previous one and that still puts the &#8220;pro-growth&#8221; label on lower tax collections*.  I am not saying that higher tax rates produce faster growth &#8211; I am saying that there is an optimal rate of taxation when it comes to growth.  Think of it as a Laffer curve, but with real GDP per capita growth rather than tax collections on the y-axis.  At the rates of actual tax collections we&#8217;ve observed since 1952, not theoretical marginal collections but actual ones, taxes are now well below the level we need to maintain growth.  Taxes pay for infrastructure we need to maintain a smoothly running economy, things like roads and bridges.</p>
+<p>* Any such story usually involves the Kennedy tax cuts.  To cut that off at the pass, let me point out here and now, for the umpteenth time, the Kennedy tax cuts came in 1964.  Kennedy was already dead.  Its one thing to credit them with some of the growth during the LBJ years, another to credit them with growth during the Kennedy years.</p>
+<p>&#8212;</p>
+<p>Correction.  Modified the sentence referring to GHW Bush and taxes.  Originally it referred erroneously to GW, and was somewhat nonsensical.  Apologies for the screw-up.</p>
+<p>END</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/some-advice-for-robert-stein-and-other-conservatives-trying-to-construct-a-new-tax-structure.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

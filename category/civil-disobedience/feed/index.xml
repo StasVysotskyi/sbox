@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>civil disobedience &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Topical thread Nov. 13, 2011</title>
+		<link>./../../2011/11/topical-thread-nov-13-2011.html</link>
+		<comments>./../../2011/11/topical-thread-nov-13-2011.html#respond</comments>
+		<pubDate>Sun, 13 Nov 2011 15:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[city governance]]></category>
+		<category><![CDATA[civil disobedience]]></category>
+		<category><![CDATA[OWS]]></category>
+		<category><![CDATA[police responses]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/topical-thread-nov-13-2011.html</guid>
+		<description><![CDATA[Quote by from San Francisco Chronicle via Reader Supported News on the Berkley OWS &#8220;The individuals who linked arms and actively resisted, that in itself is an act of violence,&#8221; UC police Capt. Margo Bennett said. &#8220;I understand that many students may not think that, but linking arms in a human chain when ordered to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Quote by from <em>San Francisco Chronicle</em> via <a title="http://readersupportednews.org/news-section2/316-20/8353-focus-legality-of-police-violence-at-berkeley-questioned" href="http://readersupportednews.org/news-section2/316-20/8353-focus-legality-of-police-violence-at-berkeley-questioned">Reader Supported News on the Berkley OWS</a></p>
+<blockquote><p>&#8220;The individuals who linked arms and actively resisted, that in itself is an act of violence,&#8221; UC police Capt. Margo Bennett said. &#8220;I understand that many students may not think that, but linking arms in a human chain when ordered to step aside is not a nonviolent protest.&#8221;</p>
+</blockquote>
+<p>And another push is planned by the City Council in Oakland.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/topical-thread-nov-13-2011.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

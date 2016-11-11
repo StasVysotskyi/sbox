@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BIICs &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Get ready for a little EM inflation</title>
+		<link>./../../2010/03/get-ready-for-a-little-em-inflation.html</link>
+		<comments>./../../2010/03/get-ready-for-a-little-em-inflation.html#respond</comments>
+		<pubDate>Thu, 11 Mar 2010 04:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BIICs]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[interest rates]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/03/get-ready-for-a-little-em-inflation.html</guid>
+		<description><![CDATA[Today I was thinking about tightening cycles in emerging markets; and more specifically, about that in China. Because let’s face it, China matters. China matters to the rest of Asia via competition for export income. China matters to Europe via competition for jobs. China matters to Brazil via domestic production via imports. China matters. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today I was thinking about tightening cycles in emerging markets; and more specifically, about that in China. Because let’s face it, China matters. China matters to the rest of Asia via competition for export income. China matters to Europe via competition for jobs. China matters to Brazil via domestic production via imports. China matters.</p>
+<p>The inflation pressures are building in key emerging economies, especially in the BIICs (Brazil, India, Indonesia, and China) – see <a href="http://www.newsneconomics.com/2010/02/m1-growth-in-charts-majors-vs-biics.html">this previous post</a> regarding my new acronym, and this article at the <a href="http://curiouscapitalist.blogs.time.com/2010/03/03/should-brics-become-briics/">Curious Capitalist</a> (curiously posted just shortly after my post), which leaves my omitted “R” but relays the intuition behind the second “I”.</p>
+<p>Although the inflation is not prevalent in any BIIC except India, really, I wanted to comment about why it will build…quickly.</p>
+<p>First round, the construction of consumer prices is heavily weighted toward food and energy costs across the BIICs. Indonesia, India, and China are highly susceptible to food price shocks (either driven by shortages or demand growth). Expect this as a first-round driver of inflation as the global economy recovers further. <a href="http://www.stats.gov.cn/english/newsandcomingevents/t20100311_402626212.htm">It’s already happening</a>.</p>
+<p>Second round, the BIICs are growing quickly and nearing, or are already at, potential. Annual industrial production growth has recovered or surpassed its pre-crisis rate in China, Brazil, and India, 19%, 16%, and 17%, respectively. This is expected, given the drop-off in world trade (an illustration can be found from this <a href="http://www.newsneconomics.com/2009/05/world-economic-reports-may-8-15-still.html">May 2009 pos)</a>, but unsustainable as the output gap closes.</p>
+<p><a href="http://2.bp.blogspot.com/_Et4TQ-a0gGU/S5gIZTJylvI/AAAAAAAAC7E/MAcVWczZQtQ/s1600-h/ip_chart.PNG"><img src="http://2.bp.blogspot.com/_Et4TQ-a0gGU/S5gIZTJylvI/AAAAAAAAC7E/MAcVWczZQtQ/s320/ip_chart.PNG" alt="" border="0"></a><a name="more"></a>Third round, interest rate differentials. This year, the BIICs&#8217; central banks are expected to raise policy rates. In fact, Brazil, China, and India have already boosted reserve requirements. But with US rates expected to stay low for an “extended period”, international interest rate differentials will change and monetary flows will shift. Capital inflows can lead to inflation if not properly sterilized.</p>
+<p>To date, inflows are not properly sterilized, as evidenced by the ongoing accumulation of reserves and rising money supply growth (again, I refer you to my previous post on <a href="http://www.newsneconomics.com/2010/02/m1-growth-in-charts-majors-vs-biics.html">M1 growth rates</a>.</p>
+<p><a href="http://2.bp.blogspot.com/_Et4TQ-a0gGU/S5gJYJ9bvYI/AAAAAAAAC7M/XWGPkAvLD3k/s1600-h/forward_chart.PNG"><img src="http://2.bp.blogspot.com/_Et4TQ-a0gGU/S5gJYJ9bvYI/AAAAAAAAC7M/XWGPkAvLD3k/s320/forward_chart.PNG" alt="" border="0"></a>The chart above illustrates the one-year-ahead nominal interest-rate differential between the 2yr forward government rate for each respective BIIC country versus the 2 yr forward US Treasury rate. The forward differentials for China and India are on a steady upward trajectory, while those for Brazil and Indonesia are simply steady. I believe that this appropriately represents the sterilization efforts and monetary policy management on the part of the BIICs’ central banks: more managed in Brazil and Indonesia, not as much in China and India.</p>
+<p>So where does this analysis leave us? With a very interesting policy mix in the emerging market space. In fact, in my view this is the riskiest part of the emerging market cycle: the recovery. If policymakers get this wrong, we could see a lot of price action, final goods and assets alike, on the horizon.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/03/get-ready-for-a-little-em-inflation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

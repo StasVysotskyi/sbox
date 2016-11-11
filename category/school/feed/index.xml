@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>school &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Lunch and schools</title>
+		<link>./../../2010/07/lunch-and-schools.html</link>
+		<comments>./../../2010/07/lunch-and-schools.html#respond</comments>
+		<pubDate>Mon, 12 Jul 2010 18:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[lunches]]></category>
+		<category><![CDATA[obesity]]></category>
+		<category><![CDATA[school]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/lunch-and-schools.html</guid>
+		<description><![CDATA[Tom Colicchio comments on HR5504 &#8211; Improving nutrition for America&#8217;s Children using a personal example to illustrate his point that obesity can be symptom of poverty. Currently obesity is a problem for more of us than we care to admit, and most worrisome for kids. More recently, my wife [filmmaker Lori Silverbush] started mentoring a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target='_blank"' href="http://eatocracy.cnn.com/2010/07/06/q-a-tom-colicchio-talks-childhood-hunger/?hpt=C2">Tom Colicchio</a> comments on <a href="http://edlabor.house.gov/hearings/2010/07/hr5504-improving-nutrition-for.shtml">HR5504 &#8211; Improving nutrition for America&#8217;s Children</a> using a personal example to illustrate his point that obesity can be symptom of poverty.  Currently obesity is a problem for more of us than we care to admit, and most worrisome for kids.</p>
+<blockquote><p>More recently, my wife [filmmaker Lori Silverbush] started mentoring a young girl from Brooklyn and she would come to the house and she would eat and then she’d say “Oh, I’m full. Can I bring this home?” And we realized what she was doing; she was bringing it home for her siblings.</p>
+<p>When food stamps run out halfway through the month, these kids are hungry. And they’re fed sweetened juice water, just to put something in their stomach; it’s not nice.</p>
+<p>…We had a Major General who testified that forty percent of new recruits going into the service fail out because they’re obese. It’s not from overfeeding. This is what people don’t understand: obesity is a symptom of poverty. It’s not a lifestyle choice where people are just eating and not exercising. It’s because kids – and this is the problem with school lunch right now – are getting sugar, fat, empty calories – lots of calories – but no nutrition.</p>
+<p>…And they’re hungry, they’re eating more cheap food.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/lunch-and-schools.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

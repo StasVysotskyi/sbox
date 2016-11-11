@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Steve Roth &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Scott Sumner Does Not Understand that S ≠ I</title>
+		<link>./../../2013/03/scott-sumner-does-not-understand-that-s-%e2%89%a0-i.html</link>
+		<comments>./../../2013/03/scott-sumner-does-not-understand-that-s-%e2%89%a0-i.html#respond</comments>
+		<pubDate>Thu, 21 Mar 2013 18:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/scott-sumner-does-not-understand-that-s-%e2%89%a0-i.html</guid>
+		<description><![CDATA[He expresses befuddlement at Steve Randy Waldman’s typically brilliant post, K is not capital, L is not labor. S equals I (and properly understood, I = E) only in an imaginary private sector of producers/consumers with no financial sector, no government sector, no international sector, no lending, and no borrowing — really a barter economy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>He <a href="http://www.themoneyillusion.com/?p=20170#comment-235339">expresses befuddlement</a> at Steve Randy Waldman’s typically brilliant post, <a href="http://www.interfluidity.com/v2/4218.html">K is not capital, L is not labor</a>.</p>
+<p>S equals I (and properly understood, I = E) only in an imaginary private sector of producers/consumers with no financial sector, no government sector, no international sector, no lending, and no borrowing — really a barter economy in which not <em>consuming</em> corn is “saving.”</p>
+<p>This is the walled-off imaginary sector constructed by Kuznets and company in the ’30s and embodied in the National Income and Product Accounts — NIPAs. (It was only properly supplemented years later with Flow of Funds accounting incorporating other sectors properly.) By necessity they <em>had</em> to construct it as if (to quote <a href="http://mason.gmu.edu/~gjonesb/ChamleyJuddWorker.pdf">Garrett Jones</a>). “Everything you delay gratification for is capital.” (I would add: “real” capital.)</p>
+<p>This is basic <a href="http://www.ipc-undp.org/publications/srp/TOWARDS%20A%20RECONSTRUCTION%20OF%20MACROECONOMICS.pdf">sectoral accounting</a>, a subject in which neoclassical (and “market monetarist”) economists seem to have received no training.</p>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6738">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/scott-sumner-does-not-understand-that-s-%e2%89%a0-i.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Does Saving &#034;Fund&#034; Investment?</title>
+		<link>./../../2013/02/does-saving-fund-investment.html</link>
+		<comments>./../../2013/02/does-saving-fund-investment.html#respond</comments>
+		<pubDate>Wed, 27 Feb 2013 21:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/does-saving-fund-investment.html</guid>
+		<description><![CDATA[If Asymptosis has any tiny claim to any important influence, it might be that anonymous and magisterial commenter JKH used the comments section here to first bruit his insight (both tautological and profound) that S = I + (S – I). He revisited that construct and concept again recently, and I’ll leave it to you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If Asymptosis has any tiny claim to any important influence, it might be that anonymous and magisterial commenter JKH used <a href="http://www.asymptosis.com/how-accounting-constrains-economics.html#comment-3730">the comments section here</a> to first bruit his insight (both tautological and profound) that S = I + (S – I).</p>
+<p>He <a href="http://monetaryrealism.com/briefly-revisiting-s-i-s-i/">revisited that construct and concept again recently</a>, and I’ll leave it to you to explore his very interesting thinking.</p>
+<p>But I do want to address a central issue in that discussion: the notion of “funding.”</p>
+<p>JKH quite properly uses standard flow-of-funds accounting terminology to explain that private-sector “saving” “funds” both its “investment” (buying/creating drill-presses and such), and its acquisition of newly created financial assets.</p>
+<p>Quite properly, but: it’s important to understand what that key accounting verb (“funds”) actually means. It describes an after-the-fact and arguably largely arbitrary accounting allocation of income streams to outflow streams.</p>
+<p>Imagine 2011, a year in the life of BFC Corp.:</p>
+<p>INFLOWS<br />Profits (revenues – expenses): $100,000<br />Net Borrowing (borrowing – loan payoffs): $100,000</p>
+<p>OUTFLOWS<br />Investment (spending on drill presses and such): $100,000<br />Dividends paid to shareholders: $100,000</p>
+<p>Looking back: Of the $200K in inflows, which part “funded” the investment spending on drill presses? What funded the dividend payout? The accountant’s allocation decision, absent any other information, is after-the-fact and completely arbitrary. Funds are fungible — especially when viewed in retrospect.</p>
+<p><a name="more"></a>
+<p>Before-the-fact conditions and restrictions might well give justification for a given after-the-fact accounting allocation decision. If BFC decided in 2010 to spend X% of profits on drill presses in 2011, and that X% came to $100,000, an accountant after the fact might quite reasonably say that the drill-press purchases were “funded” by that year’sprofits.</p>
+<p>Alternately: Imagine BFC “set aside” $100,000 from 2010 profits for future drill-press purchases by “funding” a drill-press holding account on their books, debiting their 2010 profits to “fund” that holding account. (Maybe it even created an actual external bank account to hold and segregate those funds, though that’s not actually material to this discussion.) It then spent down that holding account in 2011 to buy drill presses. Were those purchases “funded” by 2011 profits or borrowing? The proper accounting answer here is “neither.” Looking backwards you might/could/would say that they were funded, ultimately if somewhat arbitrarilly, from 2010 profits, or from the holding account. Either is accurate, depending on how you telescope your “funding” pipeline, in both time and account-space. (This is all rather like discussions of the Social Security Trust Fund.)</p>
+<p>When we say, in a backward-looking flow-of-funds statement, that “X funded Y,” that is an ex-post description that is informed, and arguably justified — but not fully or authoritatively determined — by knowledge of before-the-fact intentions.</p>
+<p>So when we say that “<a href="http://www.asymptosis.com/?p=6625">…the marginal dollar borrowed by a nonfinancial business [post-&#8217;85] was simply handed on to shareholders, without funding any productive expenditure at all</a>,” we are making a statement about what “funds” what. We’re saying that all the borrowing went to payouts, and all the profits went to investment. The reverse could be equally accurate, given that <a href="http://www.asymptosis.com/we-need-to-spur-business-investment-yeah-right.html">shareholders from ’04 to ’08 were paid about $200 billion more than their companies earned in profits</a>.</p>
+<p>Let’s try this on the level of national/international accounts, and sectoral flows. Here’s mythical 2011 accounting for Bandalaria:</p>
+<p>Assume (<em>purely</em> for simplicity in explaining the “funding” concept) that:</p>
+<p>1. There is no net trade surplus or deficit, and the country’s capital account balance sheet remains unchanged.</p>
+<p>2. The central bank does not increase or decrease its holdings on net.</p>
+<p>3. The financial system does not increase or decrease its loan book to the private sector.</p>
+<p>That leaves two sectors, with (looking back) no accounting impact from the above:</p>
+<p>• Federal government (Treasury)</p>
+<p>• The nonfinancial private sector (nonfinancial firms and households)</p>
+<p>What do Bandalaria’s net money flows look like?</p>
+<p>From Treasury -> Private<br />Deficit (purchases minus taxes): $100 million</p>
+<p>From Private -> Treasury<br />Treasury bond purchases : $100 million</p>
+<p>Looking back, how would you describe these flows? Are are the bond purchases “funding” the deficit, or is the deficit spending “funding” the bond purchases?</p>
+<p>The correct answer is “Yes.”</p>
+<p>Likewise: when JKH says (my words actually) that saving (income – expenditure) by the private domestic nonfinancial sector “funds” both its investment spending and its net acquisition of new financial assets (including government bonds), his description is perfectly correct.</p>
+<p>But he would equally correct if he said that government deficits (less trade deficits) “fund” some of the investment, <em>or</em> (all of) the acquisition of new financial assets (notably government bonds), by the private domestic nonfinancial sector (or some of each).</p>
+<p>Obviously, the two accounting-based descriptions, both accurate, have very different rhetorical implications.</p>
+<p>This just reiterates the point I made in the post to which JKH responded with his revelatory identity: accounting tells us nothing about economics, except that it often tells us when economic thinking doesn’t make any logical/arithmetic sense.</p>
+<p>I guess my main point here, perhaps obvious to many, is that accounting descriptions — choices about how to describe the past in accounting-speak, especially regarding “saving” and “funding” — are, inevitably, rhetorical hence normative. Or at least, those choices of descriptions have inevitable rhetorical hence normative implications.</p>
+<p>Or to put it simply: accounting is normative.</p>
+<p>My impression is that many economic discussions and disagreements, especially in the “MM” worlds, are at their root disagreements about what “funds” what (frequently compounded by imprecise sector definitions with different parties using different implicit definitions), and the rhetorical hence normative implications of those competing descriptions.</p>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6719">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/does-saving-fund-investment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Leading Economists Vote on Raising the Minimum Wage</title>
+		<link>./../../2013/02/leading-economists-vote-on-raising-the-minimum-wage.html</link>
+		<comments>./../../2013/02/leading-economists-vote-on-raising-the-minimum-wage.html#respond</comments>
+		<pubDate>Wed, 27 Feb 2013 03:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/leading-economists-vote-on-raising-the-minimum-wage.html</guid>
+		<description><![CDATA[I’m delighted to see the U Chicago IGM Forum ask a really useful, non-softball question. The panelists are evenly split on whether an increase to $9 would make it “noticeably harder for low-skilled workers to find employment.” A 4:1 majority thinks that weighing the costs and benefits, “this would be a desirable policy.” I note [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’m delighted to see the U Chicago IGM Forum ask a really useful, non-softball question.</p>
+<p><a href="http://www.igmchicago.org/igm-economic-experts-panel/poll-results?SurveyID=SV_br0IEq5a9E77NMV">The panelists are evenly split</a> on whether an increase to $9 would make it “noticeably harder for low-skilled workers to find employment.”</p>
+<p>A 4:1 majority thinks that weighing the costs and benefits, “this would be a desirable policy.”</p>
+<p>I note how many who commented bring up the <a href="http://www.asymptosis.com/equality-growth-lane-kenworthy-and-the-earned-income-tax-credit.html">EITC</a>, suggesting that an increase in that support might be better than a minimum-wage increase.</p>
+<p>I note further that they apparently haven’t read the <a href="http://www.nextnewdeal.net/rortybomb/interview-dube-eitc-and-minimum-wage-complements">very good reasoning and research suggesting that the two together very effectively address the problems of each</a>.</p>
+<p>But <a href="http://krugman.blogs.nytimes.com/2013/02/16/minimum-wage-economics/">Paul Krugman has</a>. And his surprise helps explain why the others haven’t thought about this:</p>
+<blockquote><p>Second — and this is news to me — the usual notion that minimum wages and the Earned Income Tax Credit are competing ways to help low-wage workers is wrong. On the contrary, raising the minimum wage is a way to make the EITC work better, ensuring that its benefits go to workers rather than getting shared with employers. This actually is Econ 101, but done right</p>
+</blockquote>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6714">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/leading-economists-vote-on-raising-the-minimum-wage.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Risk is Mispriced Because Money Managers Face no Risk</title>
+		<link>./../../2013/02/risk-is-mispriced-because-money-managers-face-no-risk.html</link>
+		<comments>./../../2013/02/risk-is-mispriced-because-money-managers-face-no-risk.html#respond</comments>
+		<pubDate>Tue, 26 Feb 2013 20:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/risk-is-mispriced-because-money-managers-face-no-risk.html</guid>
+		<description><![CDATA[Here’s what risk looks like: Having to tell your six-year-old son that you don’t have a birthday present for him because you didn’t have any money left after buying food for the week. Telling your daughter she has to attend the semi-shitty local community college instead of the awesome out-of-state school where she was accepted [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Here’s what risk looks like:</p>
+<p>Having to tell your six-year-old son that you don’t have a birthday present for him because you didn’t have any money left after buying food for the week.</p>
+<p>Telling your daughter she has to attend the semi-shitty local community college instead of the awesome out-of-state school where she was accepted and is dying to go.</p>
+<p>Shutting down your small business and taking a shitty wage job because your customers evaporated, due to financial forces utterly beyond your ken and control.</p>
+<p>Ending up $900,000 in debt for your dead husband’s terminal cancer treatment, because you didn’t have a spare $12,000 a year to spend on health insurance.</p>
+<p>Being forced from your family home, even from your whole community of decades- or generations-long friends and family, because you made the foolish and irresponsible decision to get married and buy a house in 2006 instead of 2003.</p>
+<p>Looking your kids in the face as you’re taken to jail for non-appearance, because you failed to send notification to your creditor’s attorney and the court where he’s pursing you of the current correct notice address, the latest place where you’ve managed to put a roof over your kids’ heads.</p>
+<p>The money managers and financial prestidigitators who “price” “risk” don’t face any risk. If they blow it they’ll be fine, (maybe) just somewhat less prosperous. They and their kids will go to nice schools, live in nice houses, and have good health care.</p>
+<p>If they blow it, even to the point of blowing up their companies or the whole financial system, they’ll be fine, (maybe) just somewhat less prosperous. Even if their (firms’) behavior was deceptive and fraudulent by any reasonable measure, they face (statistically) approximately zero risk of going to jail.</p>
+<p>They (we) have offloaded all the risk onto the people whose money those managers are managing, on the low-level employees of their own firms, and on the employees of the firms whose finances they’re arbitraging with sophisticated, high-risk, leveraged machinations.</p>
+<p>Is it any surprise that the cost of insuring against so-called “risk” in the world of money management turned out to be so wildly underpriced? It’s because the people buying and selling that insurance weren’t facing, and don’t current face, any actual risk.</p>
+<p>They’ve found a way to get real insurance against real risk, from real people, and they don’t even have to pay those people any premiums.</p>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6706">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/risk-is-mispriced-because-money-managers-face-no-risk.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reveal Your Preferences! Show Your Support for Accounting-Based Economic Modeling</title>
+		<link>./../../2013/02/reveal-your-preferences-show-your-support-for-accounting-based-economic-modeling.html</link>
+		<comments>./../../2013/02/reveal-your-preferences-show-your-support-for-accounting-based-economic-modeling.html#respond</comments>
+		<pubDate>Sun, 10 Feb 2013 17:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/reveal-your-preferences-show-your-support-for-accounting-based-economic-modeling.html</guid>
+		<description><![CDATA[If there’s one thing that distinguishes modeling by mainstream and neoclassical economists — and that is arguably their Achilles Heel — it’s their failure to come at the problem from a fundamental accounting, and monetary, standpoint. (That failure is understandable given the curricula in economics departments.) I know that many of my readers share with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If there’s one thing that distinguishes modeling by mainstream and neoclassical economists — and that is arguably their Achilles Heel — it’s their <a href="http://mpra.ub.uni-muenchen.de/15892/">failure to come at the problem from a fundamental accounting, and monetary, standpoint</a>. (That failure is understandable given the <a href="http://www.asymptosis.com/why-economists-dont-understand-accounting-or-business.html">curricula in economics departments</a>.)</p>
+<p>I know that many of my readers share with me a belief in the kind of modeling embodied in Wynn Godley’s work, with its rigorous double-entry accounting approach. <em><a href="http://www.palgrave.com/products/title.aspx?pid=512989">Viz</a>. </em>If you’d like to support the development of a powerful and robust tool for analyzing and understanding economies using those methods, here’s your chance:</p>
+<p><a href="http://www.kickstarter.com/projects/2123355930/minsky-reforming-economics-with-visual-monetary-mo">Kickstarter campaign to build out Steve Keen’s “Minsky” program for dynamic, accounting-based economic modeling.</a></p>
+<p><a href="http://www.debtdeflation.com/blogs/minsky/">You can download a copy of the program for Mac or Windows here.</a> They’ll be building it out into a web app in the course of development.</p>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6690">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/reveal-your-preferences-show-your-support-for-accounting-based-economic-modeling.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why do Republicans Hate Market-Incentive Based Solutions?</title>
+		<link>./../../2013/02/why-do-republicans-hate-market-incentive-based-solutions.html</link>
+		<comments>./../../2013/02/why-do-republicans-hate-market-incentive-based-solutions.html#respond</comments>
+		<pubDate>Fri, 08 Feb 2013 20:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/why-do-republicans-hate-market-incentive-based-solutions.html</guid>
+		<description><![CDATA[Contrary to what you might think, this new survey says that 69% of Republicans think that climate change is a “somewhat” or “very” serious threat. Table 3. Perception that climate change is a threat among Democrats (N=377), Republicans (N=306), Independents (N=389), and overall U.S. population (N=1089) in January 2013. Columns may not add to 100 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Contrary to what you might think, <a href="http://www.angrybearblog.com/nicholasinstitute.duke.edu/climate/policydesign/americans-think-climate-is-changing/at_download/paper">this new survey</a> says that 69% of Republicans think that climate change is a “somewhat” or “very” serious threat.</p>
+<blockquote><p>Table 3. Perception that climate change is a threat among Democrats (N=377), Republicans (N=306), Independents (N=389), and overall U.S. population (N=1089) in January 2013. Columns may not add to 100 due to rounding.</p>
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">How serious a threat is climate change? </td>
+<td valign="top">Democrat </td>
+<td valign="top">Republican </td>
+<td valign="top">Independent </td>
+<td valign="top">Overall U.S. population </td>
+</tr>
+<tr>
+<td valign="top">Very serious threat</td>
+<td valign="top">52%</td>
+<td valign="top">17%</td>
+<td valign="top">35%</td>
+<td valign="top">38%</td>
+</tr>
+<tr>
+<td valign="top">Somewhat serious threat</td>
+<td valign="top">40%</td>
+<td valign="top">52%</td>
+<td valign="top">50%</td>
+<td valign="top">46%</td>
+</tr>
+<tr>
+<td valign="top">Not that much of a threat</td>
+<td valign="top">7%</td>
+<td valign="top">29%</td>
+<td valign="top">13%</td>
+<td valign="top">15%</td>
+</tr>
+<tr>
+<td valign="top">Not a threat at all</td>
+<td valign="top">1%</td>
+<td valign="top">1%</td>
+<td valign="top">1%</td>
+<td valign="top">1%</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+<p>Also contrary to what you might expect (if you haven’t been paying attention), <strong>Republicans prefer regulation over an incentive-based carbon tax system by a five-to-one margin. </strong></p>
+<p><a href="http://www.asymptosis.com/wp-content/uploads/2013/02/Screen-shot-2013-02-08-at-10.42.22-AM.png"><img alt="Screen shot 2013-02-08 at 10.42.22 AM" src="http://www.asymptosis.com/wp-content/uploads/2013/02/Screen-shot-2013-02-08-at-10.42.22-AM-480x403.png" width="480" height="403"></a></p>
+<p>Compared to a two-to-one margin among Democrats.</p>
+<p>This is a prime example of knee-jerk anti-taxism preventing Republicans from implementing, or even considering, the very sort of economically efficient policies that they supposedly believe in.</p>
+<p>For <a href="http://www.asymptosis.com/why-we-have-such-a-wacko-health-insurance-system.html">another example</a> see Conservatives’ enthusiastic approval of FDR’s WWII inflation-fighting wage controls, which he adopted as a fourth-best option after those Conservatives refused to raise taxes as he wished to drain demand. The result? The crazy employer-based health insurance system we have today.</p>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6682">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/why-do-republicans-hate-market-incentive-based-solutions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wow: Cooperation. Should Obama Get Credit?</title>
+		<link>./../../2013/02/wow-cooperation-should-obama-get-credit.html</link>
+		<comments>./../../2013/02/wow-cooperation-should-obama-get-credit.html#respond</comments>
+		<pubDate>Sun, 03 Feb 2013 18:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/wow-cooperation-should-obama-get-credit.html</guid>
+		<description><![CDATA[We saw it on the “fiscal cliff”: enough House Republicans voted for the deal, along with most Democrats, to get something passed. Republicans backed down on the debt ceiling. On immigration, we’re also seeing the two parties working together to craft a solution. This feels like a possible sea change. Should Obama get credit? He’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We saw it on the “fiscal cliff”: enough House Republicans voted for the deal, along with most Democrats, to get something passed.</p>
+<p>Republicans backed down on the debt ceiling.</p>
+<p>On immigration, we’re also seeing the two parties working together to craft a solution.</p>
+<p>This feels like a possible sea change.</p>
+<p>Should Obama get credit? He’s stuck to a vision, a “hope,” for bipartisan cooperation over the last four years, an approach that many or most liberals considered pie-in-the-sky, weak-principled, downright lacking in cojones.</p>
+<p>So here’s my question about an imagined counterfactual: if Obama had played hard(er)ball over the last four years, steamrolled Republicans and taken hard negotiation lines in ways that liberals have been clamoring for and that might even have worked (hard to say), where would we be at today?</p>
+<p>Here’s a clue, showing the state of the game: the NYT just <a href="http://www.nytimes.com/2013/02/03/us/politics/a-secret-bipartisan-group-with-its-own-immigration-plan.html?_r=0">revealed</a> that Republican and Democrats in the House and Senate have been meeting secretly to work on the immigration issue <em>for four years</em>.</p>
+<p>Why secretly? Not far to guess: because any Republican who appeared to be working with Democrats on that conservative third rail would open his right flank to a primary challenge from Tea Partiers. (Democrats would most likely get an electoral <em>boost</em>, in both the primaries and the generals, from such cooperation on immigration.)</p>
+<p>So some Republicans wanted to participate (props to ‘em), but needed to keep it secret for purely political reasons. Democrats also wanted to participate, but they were willing to sacrifice political advantage to do so — that was the only way they could do what they thought was a Good Thing, perhaps with some uncertain long-term political benefits, but because of the Republican-required secrecy, absolutely nothing short-term.</p>
+<p>Meanwhile the rump of Republicans that retains any faint pretense of being “moderate” is <a href="http://www.nytimes.com/2013/02/03/us/politics/top-gop-donors-seek-greater-say-in-senate-races.html?hp">fighting back against their (our) Tea-Party oppressors</a>, hoping to regain some strength in general elections.</p>
+<p>One more example of the asymmetry in political incentives: We all saw the political price Boehner paid for simply negotiating (again: necessarily semi-secretly) with Obama. I would venture to suggest that those negotiations didn’t cost Obama a single vote, or really any political capital  – certainly nothing like what they cost Boehner.</p>
+<p>So back to the question: would this dynamic have played out differently if Obama had played hardball instead of kissy-face? Two questions there:</p>
+<p>1. Would we have gotten more progressive legislation over the last four years?</p>
+<p>Almost certainly some. But given that Republicans have lots of power, especially veto power (far exceeding their popular support*), quite possibly not all that much.</p>
+<p>2. Would we have achieved more or less of the political ascendancy that is now <em>forcing</em> Republicans to demonstrate some semblance of reasonableness?</p>
+<p>With its emphasis on force, I have to admit that I’ve set that question up to half-answer itself. The only reason Republicans are cooperating is because politics and popular opinion are forcing them to. It’s not because they’ve seen some light, or because Obama was nice to them or caved in negotiations. To put it another way, general-election losses are forcing (allowing?) them to get sane(r) in the primaries, hence in the legislative chamber. Obama’s giveaways had nothing to do with it.</p>
+<p>The other half comes down to this: if Obama had played tougher, would he and other Democrats have won <em>bigger</em> in November, putting even more pressure on Republicans to cooperate? I tend to think so, but it’s a counterfactual that I don’t think we can ever answer with even a little bit of confidence.</p>
+<p>So the answer to this post’s question is, Maybe.</p>
+<p>* That inordinate power is the result of three things:</p>
+<p>1. House electoral advantage based on incumbency and state-level Republican <a href="http://election.princeton.edu/2013/02/03/slaying-the-gerrymander/">gerrymandering</a> over the last decade+. Democrats needed about 54% of the popular house vote to take a House majority in 2012.</p>
+<p>2. Their willingness (incentives?) to use the filibuster unremittingly for effective veto power, with overwhelmingly more “cloture votes” than by any Senate minority in history.</p>
+<p>3. The “Hastert Rule” that they all adhered to in the House, preventing any vote on a bill absent support from half the Republicans. (They finally <a href="http://politicalwire.com/archives/2013/01/18/gop_lawmaker_admits_hastert_rule_is_dead.html">broke with this rule</a> on the fiscal cliff, and it looks like that break may continue.)</p>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6664">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/wow-cooperation-should-obama-get-credit.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Republican Governors: Take from the Poor, Give to the Rich, and Suck the Federal Teat</title>
+		<link>./../../2013/01/republican-governors-take-from-the-poor-give-to-the-rich-and-suck-the-federal-teat.html</link>
+		<comments>./../../2013/01/republican-governors-take-from-the-poor-give-to-the-rich-and-suck-the-federal-teat.html#respond</comments>
+		<pubDate>Tue, 29 Jan 2013 19:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/republican-governors-take-from-the-poor-give-to-the-rich-and-suck-the-federal-teat.html</guid>
+		<description><![CDATA[These local stories in Louisiana, Kansas, Nebraska, and North Carolina speak quite eloquently for themselves. Gov. Bobby Jindal is proposing to eliminate Louisiana’s income and corporate taxes and pay for those cuts with increased sales taxes http://www.nola.com/politics/index.ssf/2013/01/gov_bobby_jindal_calls_for_eli.html Gov. Dave Heineman made a bold proposal … end the income tax for working Nebraskans and corporations. It [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>These local stories in Louisiana, Kansas, Nebraska, and North Carolina speak quite eloquently for themselves.</p>
+<blockquote><p>Gov. Bobby Jindal is proposing to eliminate Louisiana’s income and corporate taxes and pay for those cuts with increased sales taxes</p>
+</blockquote>
+<p><a href="http://www.nola.com/politics/index.ssf/2013/01/gov_bobby_jindal_calls_for_eli.html">http://www.nola.com/politics/index.ssf/2013/01/gov_bobby_jindal_calls_for_eli.html</a></p>
+<blockquote><p>Gov. Dave Heineman made a bold proposal … end the income tax for working Nebraskans and corporations. It would also end the taxation of small business, Social Security and retirement income. … As a means to make up for the lost revenue, Heineman’s proposal would also end $5 billion in sales tax exemptions.</p>
+</blockquote>
+<p><a href="http://www.dailynebraskan.com/news/article_9e1bcc1c-5fa1-11e2-ba02-0019bb30f31a.html">http://www.dailynebraskan.com/news/article_9e1bcc1c-5fa1-11e2-ba02-0019bb30f31a.html</a></p>
+<blockquote><p>State personal and corporate income taxes would be eliminated, sales taxes would be charged on services, and North Carolinians would pay state sales tax on groceries under a tax reform proposal with significant support in Raleigh.</p>
+</blockquote>
+<p><a href="http://www.news-record.com/home/589530-63/nc-tax-reform-plan-is">http://www.news-record.com/home/589530-63/nc-tax-reform-plan-is</a></p>
+<blockquote><p>Brownback: Keep full sales tax, cut income taxes further</p>
+</blockquote>
+<p><a href="http://www.kansascity.com/2013/01/15/4012878/brownback-keep-full-sales-tax.html">http://www.kansascity.com/2013/01/15/4012878/brownback-keep-full-sales-tax.html</a></p>
+<p>These proposals all lower revenues collected. This will give these red states more bargaining power when they run into the inevitable fiscal crisis, so they can suck the Federal government teat even more effectively than they do now.</p>
+<p>Fiendishly clever.</p>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6640">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/republican-governors-take-from-the-poor-give-to-the-rich-and-suck-the-federal-teat.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Do Businesses Borrow to Invest in Productive Assets? Does the Business-Interest Tax Deduction Encourage That?</title>
+		<link>./../../2013/01/do-businesses-borrow-to-invest-in-productive-assets-does-the-business-interest-tax-deduction-encourage-that.html</link>
+		<comments>./../../2013/01/do-businesses-borrow-to-invest-in-productive-assets-does-the-business-interest-tax-deduction-encourage-that.html#respond</comments>
+		<pubDate>Fri, 25 Jan 2013 18:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/do-businesses-borrow-to-invest-in-productive-assets-does-the-business-interest-tax-deduction-encourage-that.html</guid>
+		<description><![CDATA[J.W. Mason at The Slack Wire gives us a telling and trenchant analysis of that question: Short answer: They used to, but not any more. The correlation in the U.S. between fixed-capital investment and a) debt levels and b) change in debt levels has been vanishingly small since the late eighties. …in the 1960s and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>J.W. Mason at The Slack Wire gives us a <a href="http://slackwire.blogspot.com/2013/01/what-is-business-borrowing-for.html">telling and trenchant</a> analysis of that question:</p>
+<p><img alt="" src="http://3.bp.blogspot.com/-xckc-UWFv80/UP-JuIgB1MI/AAAAAAAAAYk/b5H4SWiVppA/s640/borr_corr.png" width="550" height="274"></p>
+<p>Short answer: They used to, but not any more. The correlation in the U.S. between fixed-capital investment and a) debt levels and b) change in debt levels has been vanishingly small since the late eighties.</p>
+<blockquote><p>…in the 1960s and 70s, a firm that was borrowing heavily also tended to be investing a lot, and vice versa; but after 1985, that was much less true.</p>
+</blockquote>
+<p>It’s gotten really bad lately:</p>
+<blockquote><p>Regressing nonfinancial corporate borrowing on stock buybacks for the period 2005-2010 yields a coefficient not significantly different from 1.0, with an r-squared of 0.98.</p>
+</blockquote>
+<p>As CEOs and their cronies have moved from being business-runners to financial arbitrageurs,*</p>
+<blockquote><p>…<strong>the marginal dollar borrowed by a nonfinancial business in this period was simply handed on to shareholders,</strong> without funding any productive expenditure at all.</p>
+</blockquote>
+<p><a name="more"></a>
+<p>This goes far in explaining <a href="http://www.nytimes.com/2013/01/18/business/how-dell-became-entangled-in-options.html?pagewanted=all&#038;_r=0">an amazing fact about Dell</a>, recently revealed by Floyd Norris:</p>
+<blockquote><p>It has spent more money on share repurchases than it earned throughout its life as a public company.</p>
+</blockquote>
+<p>This is not an anomaly. Floyd <a href="http://www.asymptosis.com/we-need-to-spur-business-investment-yeah-right.html">pointed out to us</a> some time ago that:</p>
+<blockquote><p>From the fourth quarter of 2004 through the third quarter of 2008, the companies in the S.&#038; P. 500 — generally the largest companies in the country — reported net earnings of $2.4 trillion. They paid $900 billion in dividends, but they also repurchased $1.7 trillion in shares.</p>
+<p>As a group, shareholders were paid about $200 billion more than their companies earned.</p>
+</blockquote>
+<p>Floyd’s post is aptly titled “Easy Loans Financed Dividends” (and buybacks).</p>
+<p>I would take issue with one seemingly judicious caveat in JW’s piece:</p>
+<blockquote><p><a href="http://econgrads.berkeley.edu/gabecr/files/2011/05/The_Employment_Effects_of_Credit_Market_Disruptions.pdf">It is quite possible</a> that for small businesses, disruptions in credit supply did have significant effects.</p>
+</blockquote>
+<p>Based on one piece of evidence that I’ve cited repeatedly, not so. Here from <a href="http://www.asymptosis.com/the-sky-is-falling-business-lending-down-1-2-percent.html">December 2009</a> (follow “Related Links” for more discussion and evidence):</p>
+<blockquote><p><strong>Small businesses consistently put financing and interest rates at the very bottom or near-bottom of their lists of business constraints.</strong> That has been true for many years [almost three decades now&#8230;], it was true throughout the recent crisis, and it remains true at this very moment.</p>
+</blockquote>
+<p>It really makes a fellow wonder: given all the (sensible) talk about ending the mortgage interest deduction for homeowners, why we aren’t hearing a similar quantity of talk about ending all interest deductions — <em>especially</em> the money-funnel sweetheart deal for the rich that is the business-interest deduction?</p>
+<p>Anyone thinking we’ve become a <a href="http://en.wikipedia.org/wiki/The_Great_Stagnation">Great Stagnation</a>, or wondering why?</p>
+<p>* JW describes that shift from businessperson to financial prestidigitator more fully (emphasis mine):</p>
+<blockquote><p>In the era of the Chandler-Galbraith corporation, payouts to shareholders were a quasi-fixed cost, not so different from bond payments. The effective residual claimants of corporate earnings were <strong>managers who, sociologically, were identified with the firm and pursued survival and growth objectives rather than profit maximization.</strong> Under these conditions, internal funds were lower cost than external funds, as Minsky, writing in this epoch, emphasized. So firms only turned to external finance once lower-cost internal funds were exhausted, meaning that in general, only those firms with exceptionally high investment demand borrowed heavily; this explains the strong correlation between borrowing and investment.</p>
+<p>But since <a href="http://slackwire.blogspot.com/2011/10/disgorge-cash.html">the shareholder revolution of the 1980s</a>, this no longer really holds; shareholders have been much more effective in making their status as residual claimants effective, meaning that the opportunity cost of investing out of internal funds is no longer much lower than investing out of external funds. It’s no longer much easier for managers to convince shareholders to let the firm keep more of its earnings, than to convince bankers to let it have a loan.</p>
+</blockquote>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6625">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/do-businesses-borrow-to-invest-in-productive-assets-does-the-business-interest-tax-deduction-encourage-that.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jim Manzi Disappoints on the Devastation of Lead and Crime</title>
+		<link>./../../2013/01/jim-manzi-disappoints-on-the-devastation-of-lead-and-crime.html</link>
+		<comments>./../../2013/01/jim-manzi-disappoints-on-the-devastation-of-lead-and-crime.html#respond</comments>
+		<pubDate>Wed, 23 Jan 2013 18:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/jim-manzi-disappoints-on-the-devastation-of-lead-and-crime.html</guid>
+		<description><![CDATA[And Kevin Drum disappoints in his own defense. Regular readers will know that (at least sometimes) I like to seek out and highlight the very best, most cogent and convincing arguments countering my beliefs, trying to figure out what might be wrong with those beliefs, and hoping to understand what’s really going with the subject [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>And Kevin Drum disappoints in his own defense.</p>
+<p>Regular readers will know that (at least sometimes) <a href="http://www.asymptosis.com/bleg-why-hasnt-europe-caught-up.html">I like to seek out and highlight the very best, most cogent and convincing arguments countering my beliefs</a>, trying to figure out what might be wrong with those beliefs, and hoping to understand what’s really going with the subject I’m considering.</p>
+<p>Jim Manzi — a guy with a decidedly conservative/libertarian bent — has often been my go-to guy on that front. <a href="http://www.tnr.com/blog/critics/75757/why-the-decision-tackle-climate-change-isn%E2%80%99t-simple-al-gore-says">His thinking about global-warming mitigation</a>, for instance, doesn’t try to deny the IPCC conclusions. He <em>accepts and adopts them</em>, building on them for further thinking and calculation about the costs and benefits of mitigating the undeniable — and undeniably human-caused — climate changes that we’re facing. (I’m not saying his reasoning or conclusions there are flawless, by any means. But at least he starts by accepting a large dose of reality that many or most among his conservative cohort prefer to deny, distort, or just blithely dismiss.)</p>
+<p>But in his <a href="http://www.nationalreview.com/corner/337398/lead-and-crime-jim-manzi#">recent response</a> to <a href="http://www.motherjones.com/environment/2013/01/lead-crime-link-gasoline?page=1">Kevin Drum’s article on lead and crime</a> (a subject I’ve <a href="http://www.asymptosis.com/government-gets-the-lead-out-crime-plummets.html">gone on about</a>), Jim disappoints me utterly. (And <a href="http://www.motherjones.com/kevin-drum/2013/01/lead-and-crime-response-jim-manzi">Kevin’s response</a> — which limits itself to answering Jim’s cherry-picked objections to one bit of evidence without pointing out all the evidence that Jim inexplicably ignores — is decidedly limp-wristed.)</p>
+<p>Short story, Jim looks at one study (<a href="http://www.nber.org/papers/w13097.pdf">Reyes 2007</a>) that Drum talks about, and pokes procedural holes in its analysis and conclusions. “There might be confounding variables! She should have controlled for X!” I can’t tell right off whether he actually looked at the paper, or just responded to Kevin’s description of it.</p>
+<p>Well okay, yeah, the Reyes study is in no way definitive. No single study ever is. He’s absolutely right that the Reyes study, all by itself, “is way short of making a convincing case for spending $400 billion of taxpayer money.” No duh.</p>
+<p>Which points out the real problem: Jim doesn’t seem to have even looked at any of the the (other) research available on the subject (at least he doesn’t mention it), notably the body of work — robustly highlighted in Kevin’s article — by <a href="http://pic.plover.com/Nevin/Nevin2007.pdf">Rick Nevin</a>. (Meanwhile Jim refers to Reyes’ work as Kevin’s “key econometric source” — which it isn’t; it’s just one of them, and not the strongest source, which is what I would expect Jim to address.) Nevins shows correlations between lead and crime across nine countries over many decades. It’s pretty convincing stuff that you’d think Jim would have looked at and considered if he really wanted to <a href="http://www.asymptosis.com/jim-manzi-correlation-causation-understanding-and-predicting.html">understand</a> what was going on.</p>
+<p>Even more surprising: Jim’s main question is whether it’s worth spending $20 billion a year over 20 years (which he presents as an undiscounted figure of “$400 billion”) to mitigate lead in the environment. But he doesn’t seem to have looked at or considered the paper that analyzes <em>exactly</em> that question, in the very terms he prefers when making his own arguments (<a href="http://www.ncbi.nlm.nih.gov/pubmed/21251697">Zahran, Mielke, et. al. 2010</a>).</p>
+<p>I can point out many other problems with Jim’s response.</p>
+<p>• When discussing what evidence that might support the lead/crime hyphothesis, he fails to note that a higher concentration of lead in the blood of convicted criminal <em>as adults </em>would be rather convincing.</p>
+<p>• He points out that Reyes doesn’t find a correlation between environmental lead and burglary, but he doesn’t note that Nevin finds (because he apparently hasn’t even looked at Nevin) a significant correlation between blood lead and that conservative bogeyman, unwed pregnancy.</p>
+<p>These are niggling (though important) details. But they’re representative. There’s a lot know out there, and Jim doesn’t seem to have any interest in knowing it — only in shooting (certainly, potentially, valid) holes in a single study.</p>
+<p>I find in Jim’s response, much to my disappointment, a <em>prima facie</em> case for confirmation bias — a small-minded and unconvincing effort to undercut and dismiss information that strongly suggests conclusions contrary to core conservative and libertarian beliefs:</p>
+<p>1. Expert research can provide more useful and actionable information than market prices, and</p>
+<p>2. Government action — including quite restrictive regulation — can provide hugely positive returns on investment.</p>
+<p>He’s making another (in this case, dispiritingly lame) stab at <a href="http://www.asymptosis.com/jim-manzi-makes-the-case-for-doing-whatever-were-doing-right-now-or-nothing.html">the argument that’s lurking right at the heart of his book <em>Uncontrolled</em></a>: because the world is so complex,  whatever we’re doing right now must, obviously and inevitably, be the best of all possible worlds, and absent massively overwhelming evidence that’s universally agreed upon, we shouldn’t do anything different because we just don’t know enough. We should instead rely on market forces and the price mechanism — the only capable social calculator — to solve any problems.</p>
+<p>Jim will deny he believes that, or hews to that belief dogmatically, but I believe this lead/crime response, with its obvious confirmation bias, strongly suggests otherwise.</p>
+<p>I won’t argue all the merits of the lead-abatement issue here, or the evidence supporting it. I will simply state what I’ve concluded by looking at lots of different research on the subject, sifting it, and steadily adjusting my priors based on my evaluation of the how convincing that research is:</p>
+<p>1. Lead in the environment (resulting largely from the auto/gas industry’s profit motives) has cost us trillions of dollars in measurable economic damage over the decades, and has had a devastating, unmeasurably destructive effect on hundreds of millions of lives. (Lifetime income doesn’t really quite capture or measure the value of a robust life endowed with one’s full, inherited endowment of cognitive, emotional, and social skills…)</p>
+<p>2.  That damage continues, due to the residue of lead in buildings and dusty soil that is still poisoning our children, constantly, every year.</p>
+<p>3. A mitigation effort as suggested in the literature on the subject would deliver an excellent, really massive, return on investment before even considering the unmeasurable manifest benefits to humans whose brains would not be stunted and retarded by mitigatable poisoning.</p>
+<p>Mitigatable through collective action, and only through collective action. Which means: government action that is often the only counter to destructive market forces.</p>
+<p><em>Cross-posted at <a href="http://www.asymptosis.com/?p=6613">Asymptosis</a>.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/jim-manzi-disappoints-on-the-devastation-of-lead-and-crime.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

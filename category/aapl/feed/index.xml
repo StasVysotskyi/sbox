@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AAPL &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tech Bleg</title>
+		<link>./../../2011/06/tech-bleg.html</link>
+		<comments>./../../2011/06/tech-bleg.html#respond</comments>
+		<pubDate>Thu, 09 Jun 2011 20:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AAPL]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/tech-bleg.html</guid>
+		<description><![CDATA[Trying to upgrade an iMac from 10.4.11 to something in the 10.6.x range, but can&#8217;t seem to find any way to transition to 10.5.x (which is, apparently, required before 10.6.4 can be installed). Apple presents files, but no instructions. Anyone done this? Or should I just keep treating 10.4.11 as something like Windows Vista&#8211;an OS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Trying to upgrade an iMac from 10.4.11 to something in the 10.6.x range, but can&#8217;t seem to find any way to transition to 10.5.x (which is, apparently, required before 10.6.4 can be installed).</p>
+<p>Apple presents files, but no instructions.  Anyone done this?  Or should I just keep treating 10.4.11 as something like Windows Vista&#8211;an OS without a future?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/tech-bleg.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Does this make sense to anyone?</title>
+		<link>./../../2010/06/does-this-make-sense-to-anyone.html</link>
+		<comments>./../../2010/06/does-this-make-sense-to-anyone.html#respond</comments>
+		<pubDate>Mon, 07 Jun 2010 17:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AAPL]]></category>
+		<category><![CDATA[capacity planning]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/does-this-make-sense-to-anyone.html</guid>
+		<description><![CDATA[Steve Jobs is promising a lot of stuff that AT&#038;T is not capable of delivering. Someone needs to explain to me why Steve Jobs is a Brilliant Leader.]]></description>
+				<content:encoded><![CDATA[<p>Steve Jobs is <a href="http://www.engadget.com/2010/06/07/steve-jobs-live-from-wwdc-2010/?sort=newest&#038;refresh=60">promising a lot of stuff</a> that AT&#038;T <a href="http://techcrunch.com/2010/04/30/att-ipad-3g-streaming/">is not capable of delivering</a>.</p>
+<p>Someone needs to explain to me why Steve Jobs is a Brilliant Leader.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/does-this-make-sense-to-anyone.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reasons Market Share Declines</title>
+		<link>./../../2010/02/reasons-market-share-declines.html</link>
+		<comments>./../../2010/02/reasons-market-share-declines.html#respond</comments>
+		<pubDate>Fri, 12 Feb 2010 14:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AAPL]]></category>
+		<category><![CDATA[monopoly]]></category>
+		<category><![CDATA[MSFT]]></category>
+		<category><![CDATA[religious wars]]></category>
+		<category><![CDATA[reputational risk]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/reasons-market-share-declines.html</guid>
+		<description><![CDATA[Michael Swanwick explains how a monopoly can destroy itself: Nowadays, times are much easier but a lot scammier. Last week I had to buy a new palmbook/laptop. Which, I discovered on my first and only day of possession, was preloaded with Windows 7 Starter, a not-fully-functional OS. When I tried to change the image on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Michael Swanwick explains <a href="http://floggingbabel.blogspot.com/2010/02/boskone.html">how a monopoly can destroy itself</a>:<br />
+<blockquote>Nowadays, times are much easier but a lot scammier.  Last week I had to buy a new palmbook/laptop.  Which, I discovered on my first and only day of possession, was preloaded with Windows 7 Starter, a not-fully-functional OS.  When I tried to change the image on my desktop, I learned that doing so required that I go online and buy Windows 7 Home Premier.  After getting my refund, I talked to salesfolk at various stores and learned that all the new palmtops have the cut-down version because they don&#8217;t have memory enough to run W7HP. </p>
+<p>Well, each new version of Windows is written far too memory-hoggish for the current hardware.  So it only makes sense that the new OS would have fewer features.  Still, it was pretty cheeky of them to have it automatically try to sell me an OS that my device couldn&#8217;t run.</p>
+<p>Apple doesn&#8217;t play that kind of game, so if I&#8217;d been willing to wait for the iPad to come available, I probably would&#8217;ve spent the extra money for it.  But I have work to do, so I scrounged around until I found one of the dwindling number of netbooks still running on XP.</p></blockquote>
+<p>As I&#8217;ve noted before, they did this on laptops with Vista as well.  There is no better way to destroy your reputation that to put out something that doesn&#8217;t work.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/reasons-market-share-declines.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Students who Whine Like This are not Long for Class</title>
+		<link>./../../2010/01/students-who-whine-like-this-are-not-long-for-class.html</link>
+		<comments>./../../2010/01/students-who-whine-like-this-are-not-long-for-class.html#respond</comments>
+		<pubDate>Mon, 01 Feb 2010 03:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AAPL]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[monopolistic competition]]></category>
+		<category><![CDATA[monopoly]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/students-who-whine-like-this-are-not-long-for-class.html</guid>
+		<description><![CDATA[The Battle of Late January has ended, as Amazon yields, gracelessly: We have expressed our strong disagreement and the seriousness of our disagreement by temporarily ceasing the sale of all Macmillan titles. We want you to know that ultimately, however, we will have to capitulate and accept Macmillan&#8217;s terms because Macmillan has a monopoly over [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://angrybear.blogspot.com/2010/01/cui-bono-kindle.html">Battle of Late January</a> has ended, as Amazon <a href="http://www.amazon.com/tag/kindle/forum/ref=cm_cd_tfp_ef_tft_tp?_encoding=UTF8&#038;cdForum=Fx1D7SY3BVSESG&#038;cdThread=Tx2MEGQWTNGIMHV&#038;displayType=tagsDetail">yields, gracelessly</a>:<br />
+<blockquote>We have expressed our strong disagreement and the seriousness of our disagreement by temporarily ceasing the sale of all Macmillan titles. We want you to know that ultimately, however, we will have to capitulate and accept Macmillan&#8217;s terms because Macmillan has a monopoly over their own titles, and we will want to offer them to you even at prices we believe are needlessly high for e-books. Amazon customers will at that point decide for themselves whether they believe it&#8217;s reasonable to pay $14.99 for a bestselling e-book. We don&#8217;t believe that all of the major publishers will take the same route as Macmillan. And we know for sure that many independent presses and self-published authors will see this as an opportunity to provide attractively priced e-books as an alternative. [emphases mine]</p></blockquote>
+<p>Whenever a company talks about how it is looking out for your interested, <a href="http://highclearing.com/index.php/archives/2010/01/31/10645">Jim Henley&#8217;s consumer-surplus version of reality</a> notwithstanding, check for your wallet; it&#8217;s probably missing.</p>
+<p>The first italic is obvious: any firm that calls complete stopping of sales &#8220;expressed our strong disagreement&#8221; is either really stupid or exercising monopoly power—and no one thinks Jeff Bezos is stupid.</p>
+<p>The second is even sillier: Amazon accuses Macmillan of exercising &#8220;monopoly power&#8221; and declares that they &#8220;will have to capitulate.&#8221;  Someone ask the people at <a href="http://www.hachettebookgroup.com/">Hachette</a> about how Amazon has to yield in <a href="http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article4360937.ece">a clash between it and publishers</a>.<br /><a name="more"></a><br />We&#8217;ve all seen the claim that <a href="http://www.businessweek.com/print/magazine/content/10_02/b4162050103172.htm">starts this article</a>: &#8220;On Christmas Day, for the first time in its history, Amazon.com (AMZN) sold more digital books than the old fashioned kind.&#8221;  Not for the Xmas season; just on the day. And even there, it&#8217;s an Amazon declaration—not verifiable from the publishers, since e-book sales are confidential information.  But Tobias Bucknell <a href="http://www.tobiasbuckell.com/2010/01/31/why-my-books-are-no-longer-for-sale-via-amazon/">lays out the details from his royalty statements</a>:<br />
+<blockquote>Well, I have my eBook sales figures of Crystal Rain, a book that has sold in the five figures in print, meaning people who have purchased in print, print online and in bookstores. That’s a nice run, it’s my bestselling book of the 3 Xenowealth books (Crystal Rain, Ragamuffin, Sly Mongoose), but leaves me still a midlist writer&#8230;.</p>
+<p>In 2008, for a brief while, Crystal Rain was available for free via download. Number of Kindle users who downloaded it: low thousands. Number who’ve purchased it for sale after that: low hundreds.</p>
+<p>So five figures in volume compared to three figures. That’s an order of magnitude difference.</p>
+<p>This magnitude difference holds steady. I sell hundreds of copies of eBooks, and thousands of paper copies.</p></blockquote>
+<p>The difference between Hachette and Macmillan isn&#8217;t one of size. It&#8217;s that the Amazon monopoly—the proprietary e-reader format of the Kindle—now has another viable rival: the poorly-named <a href="http://angrybear.blogspot.com/2010/01/ipad-is-not-computer-its-briefcase.html">iPad</a>, which uses the ePub format that is the standard among non-Kindle readers.</p>
+<p>Apple is confident: the iPad will do more things than read books, so it can sell books that can also be read on other devices.  Amazon, for all that it offers other products, lacks that ability, and is trying to protect itself through proprietary formatting.</p>
+<p>It appears—given the speed with which they ended their ostracizing of Macmillan—that they may need a new business strategy soon.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/students-who-whine-like-this-are-not-long-for-class.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Buy on the Rumor, Sell on the Fact</title>
+		<link>./../../2010/01/buy-on-the-rumor-sell-on-the-fact.html</link>
+		<comments>./../../2010/01/buy-on-the-rumor-sell-on-the-fact.html#respond</comments>
+		<pubDate>Wed, 27 Jan 2010 22:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AAPL]]></category>
+		<category><![CDATA[religious wars]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/buy-on-the-rumor-sell-on-the-fact.html</guid>
+		<description><![CDATA[UPDATE: datacharmer at Bluematter thinks visually. Bruce, yesterday: Unless you have had the experience of using an advanced smartphone it is hard to explain how transforming it is to have the Internet in your pocket, if I have a question about anything it is mostly as close as my left pocket. But like the iPhone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>UPDATE: datacharmer at Bluematter <a href="http://bluematter.blogspot.com/2010/01/world-reacts-to-apple-ipad.html">thinks visually</a>.</p>
+<p>Bruce, <a href="http://angrybear.blogspot.com/2010/01/why-apple-tablet-and-clones-will-change.html">yesterday</a>:<br />
+<blockquote>Unless you have had the experience of using an advanced smartphone it is hard to explain how transforming it is to have the Internet in your pocket, if I have a question about anything it is mostly as close as my left pocket. But like the iPhone the Tablet is a lot more than a combined phone/usable web browser, it is a host for Apps, millions of them. And it is the Apps that are the game changer. Because the possibilities are quite literally endless.</p></blockquote>
+<p>Sarah, <a href="http://www.smartbitchestrashybooks.com/index.php/weblog/comments/my-initial-reaction-to-the-ipad">today</a>:<br />
+<blockquote>iPad?! Really?! REALLY? Gosh, I’m sorry I no longer have a Nook now. They would have been great partners.</p>
+<p>The iPad, now available in Light, Maxi, and Super (8Gb, 16Gb 64Gb)? As Tessa Dare said, are there NO women at Apple who could have given them the heads up (HA) that this is a BAD NAME?&#8230;</p>
+<p>This isn’t “standing on the shoulders of Kindle.” It’s giving the Kindle half a nod from across a ballroom full of other people you’d rather talk to&#8230;.</p>
+<p>What about onboard social networks, email functionality, or notation from inside iBooks? Wouldn’t that be a key feature to intregrate with the endless onward wanking about Pages? For example: writing a report… and easily with a single gesture including both the source material and the citation using iBooks and Pages?</p>
+<p>I realize that reading isn’t the utmost important thing for everyone else, but come on now! Productivity in all forms includes printed material. The lack of interaction demonstrated in iBook makes me hope for other reading alternatives on the iPad (DEAR GOD THE NAME). Color me underwhelmed in a big, big way.</p></blockquote>
+<p>UPDATE II:  Brad <a href="http://firemeganmcardle.blogspot.com/2010/01/idontgetit.html">piles on</a>:<br />
+<blockquote>But ffs, it can&#8217;t handle flash, and it doesn&#8217;t have any way to access media not on its own HD, no disc drive, no usb port in. That&#8217;s fine for a phone but not for a potential media player. Apple has finally made something I have no interest in owning.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/buy-on-the-rumor-sell-on-the-fact.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Charlie Stross Explains It All to You</title>
+		<link>./../../2010/01/charlie-stross-explains-it-all-to-you.html</link>
+		<comments>./../../2010/01/charlie-stross-explains-it-all-to-you.html#comments</comments>
+		<pubDate>Sun, 17 Jan 2010 21:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AAPL]]></category>
+		<category><![CDATA[MSFT]]></category>
+		<category><![CDATA[religious wars]]></category>
+		<category><![CDATA[sf]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/charlie-stross-explains-it-all-to-you.html</guid>
+		<description><![CDATA[The rest is details: The reason I choose to pay through the nose for my computers is very simple: unlike just about every other manufacturer in the business, Apple appreciate the importance of good industrial design. but they&#8217;re nice details. (posted from my daughters&#8217;s &#8220;new&#8221; G4, which needs a new keyboard, but has a right [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The rest is <a href="http://www.antipope.org/charlie/blog-static/2010/01/more-flame-bait.html">details</a>:<br />
+<blockquote>The reason I choose to pay through the nose for my computers is very simple: unlike just about every other manufacturer in the business, Apple appreciate the importance of good industrial design.</p></blockquote>
+<p>but they&#8217;re nice details.</p>
+<p>(posted from my daughters&#8217;s &#8220;new&#8221; G4, which needs a new keyboard, but has a right shift key)</p>
+<p>[Apple ticker symbol corrected in tags.  Thank you.]</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/charlie-stross-explains-it-all-to-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

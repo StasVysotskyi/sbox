@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>endowments &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>What Hath Larry Summers Wrought?</title>
+		<link>./../../2009/11/what-hath-larry-summers-wrought.html</link>
+		<comments>./../../2009/11/what-hath-larry-summers-wrought.html#respond</comments>
+		<pubDate>Sun, 15 Nov 2009 19:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[endowments]]></category>
+		<category><![CDATA[Harvard]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/what-hath-larry-summers-wrought.html</guid>
+		<description><![CDATA[No place to pahk the cah.]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.nytimes.com/slideshow/2009/11/15/opinion/15koren-trillin_index.html">No place to pahk the cah</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/what-hath-larry-summers-wrought.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>About funding education</title>
+		<link>./../../2008/04/about-funding-education.html</link>
+		<comments>./../../2008/04/about-funding-education.html#respond</comments>
+		<pubDate>Thu, 03 Apr 2008 13:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[education cost]]></category>
+		<category><![CDATA[endowments]]></category>
+		<category><![CDATA[greed]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/about-funding-education.html</guid>
+		<description><![CDATA[From Rdan&#8217;s Sallie Mae post I got the urge to hunt because vtcodger mentioned greed. Greed? Yes, I have recently learned that one person who works to manage the endowment fund for Harvard got a bonus for last year performance that was less than the year before of $2M. Imagine that! The endowment is so [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From <a href="http://angrybear.blogspot.com/2008/03/sallie-mae-couldnt-have-predictedmodel.html">Rdan&#8217;s Sallie Mae</a> post I got the urge to hunt because vtcodger mentioned greed.</p>
+<p>Greed?  Yes, I have recently learned that one person who works to manage the endowment fund for Harvard got a bonus for last year performance that was less than the year before of $2M.  Imagine that!  The endowment is so large and produced so much, that $2m could be handed out like a tip.  (Of course, this is second hand knowledge.)</p>
+<p>So let us see how Harvard is doing. <br />The fund is currently valued <a href="http://www.news.harvard.edu/gazette/2007/08.23/99-endowment.html">at $34.9 Billion</a>.<br />
+<blockquote>Harvard University’s endowment earned a 23.0 percent return during the fiscal year ending June 30, 2007. <br />From fiscal 2001 to fiscal 2007, for example, scholarships and awards to students from University funds increased by over 94 percent, to $302 million from $156 million. Endowment dollars distributed for overall Harvard programs rose more than 70percent during the same period, from $615 million to $1.04 billion. </p></blockquote>
+<p>$1.04 billion or 3%.  Only 3%. Yet:<br /><em>Since its inception, HMC has averaged an annualized rate of return of 13.3 percent.</em></p>
+<p>The industry average is: <em>the median for the 151 large institutional funds as measured by the Trust Universe Comparison Service (17.7 percent), as well as the 20.9 percent that marks the top 5 percentile.</em></p>
+<p>Granted, I&#8217;m sure and as they say there are restrictions.  However, Harvard says they are trying to spend 5% annually.   They note tuition only covers 2/3 of the cost.   Well if they really tried to get to that 5%, they would have another $705 million for it.  At <a href="http://www.fao.fas.harvard.edu/cost.htm">their tuition </a>of $47,215, that&#8217;s 14,932 students.  The <a href="http://www.stateuniversity.com/universities/MA/Harvard_University.html">total enrollemnt</a> is only 25,017 including part-timers. </p>
+<p>Hello?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/about-funding-education.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

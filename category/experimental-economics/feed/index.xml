@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>experimental economics &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Clio&#8217;s Role in the Economics of QWERTY</title>
+		<link>./../../2009/01/clios-role-in-the-economics-of-qwerty.html</link>
+		<comments>./../../2009/01/clios-role-in-the-economics-of-qwerty.html#respond</comments>
+		<pubDate>Tue, 20 Jan 2009 12:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic history]]></category>
+		<category><![CDATA[experimental economics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/clios-role-in-the-economics-of-qwerty.html</guid>
+		<description><![CDATA[by Tom Bozzo Paul David (*) famously identified the QWERTY keyboard as a technology which we use as a matter of historical accident and not because the market identified the optimal keyboard layout. That the market outcomes don&#8217;t necessarily yield the best of all possible economies even in theory clearly may offend economists of Panglossian [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo</p>
+<p><a href="http://www.utdallas.edu/~liebowit/knowledge_goods/david1985aer.htm">Paul David</a> (*) famously identified the QWERTY keyboard as a technology which we use as a matter of historical accident and not because the market identified the optimal keyboard layout.  That the market outcomes don&#8217;t necessarily yield the best of all possible economies even in theory clearly may offend economists of Panglossian or maybe Que Sera Sera inclinations.  It may not be a coincidence that a co-author of one of the <a href="http://www.utdallas.edu/~liebowit/keys1.html">better ripostes</a> to David (**), <a href="http://www.utdallas.edu/~liebowit/">Stanley Liebowitz</a> of UT-Dallas, has gone on to burn some reputation to<a href="http://www.independent.org/publications/policy_reports/detail.asp?type=full&#038;id=30"> produce argumentation pinning the mortgage meltdown on the GSEs and  the Community Reinvestment Act</a>.</p>
+<p>Fast forward to the present and <a href="http://www.marginalrevolution.com/marginalrevolution/2009/01/do-people-get-stuck-on-qwerty.html">Tyler Cowen</a> points to a <a href="http://www.aeaweb.org/annual_mtg_papers/2009/retrieve.php?pdfid=17">technology adoption experiment</a> by Tanjim Hossain and John Morgan, presented at the recent AEA meetings, which purports to set up conditions such as claimed for QWERTY but does not find that the subjects get stuck in the bad outcome.   Cowen reads the result and calls David&#8217;s path dependence via increasing returns story a &#8220;theory which probably should be laid to rest.&#8221;</p>
+<p>I read the paper and draw other conclusions.   Hossain and Morgan actually set up experimental conditions in which there aren&#8217;t really increasing returns in David&#8217;s sense, so there should be no surprise the subjects didn&#8217;t get stuck with inferior outcomes.  An experiment to investigate the selection among multiple equilibria under David-style path dependence conditions is feasible for the interested experimenter.  More discussion after the jump.</p>
+<p>I had some youthful dalliances with the Santa Fe Institute and so like to turn to <a href="http://www.santafe.edu/arthur/Papers/Pdf_files/EJ.pdf">Brian Arthur&#8217;s technology lock-in model</a> for a simple quantification of the scenario (***).  In the Arthur model, the increasing returns part is that the payoff to a technology increases in cumulative adoptions.  The history part is a random arrival sequence of agents with distinct payoffs (so, basically, one group of agents prefers technology A and another technology B unless the increasing returns part tips the market entirely to A or B).  Arthur showed that there&#8217;s a family of payoffs that eventually tips  the &#8220;market&#8221; to A or B with probability 1 and to an inferior technology (if the payoffs define one) with positive probability.  While the equilibrium selection probabilities depend on the payoff parameters, the realized equilibrium depends on the history of agent arrivals.</p>
+<p>Hossain and Morgan&#8217;s experiment actually leaves out both the increasing returns and history features a la Arthur/David.  Regarding the former, the payoffs to the experiment&#8217;s technologies are bounded, which essentially puts the experiment in a constant-returns world.  Indeed, Hossain and Morgan say that there is a unique equilibrium to their game — adoption of a superior technology constructed to be &#8220;Pareto dominant.&#8221;  I assert without proof (because it&#8217;s trivial for readers of Arthur&#8217;s paper) that existence of a &#8220;Pareto dominant&#8221; technology implies boring dynamics in the Arthur model.</p>
+<p>In the interesting cases, no technology is Pareto dominant but nevertheless there may be ex post regret in the sense that all types of agents could prefer that the market have tipped to a different technology.  The possibly missing market is that by which future adopters might pay the early users to adopt the &#8220;efficient&#8221; technology.</p>
+<p>Nor is there history in the sense of the Arthur model, since in every period of the experiment there are exactly two agents of each of two types in the market.  So whatever the experiment is telling us, it isn&#8217;t saying much about technology adoption dynamics under the sort of increasing returns multiple-equilibrium conditions that are supposedly being investigated.</p>
+<p>As an additional oddity, the payoffs are specified such that the payoff from one agent of a type choosing technology in a round A is X (which is increasing in the number of agents of the other type choosing A in the same round, but not e.g. cumulative adoptions), and if the other agent of the same type also chooses A, then the payoff is Y≤X.  To get some flavor for what this might mean, let&#8217;s rename the experiment&#8217;s agent and technology types (&#8220;square&#8221; and &#8220;triangle,&#8221; and &#8220;%&#8221; and &#8220;#,&#8221; respectively).  Call the agents &#8220;Graphic Designer&#8221; and &#8220;Accountant&#8221; and the technologies &#8220;Mac&#8221; and &#8220;PC.&#8221;  If you&#8217;re a Graphic Designer, the payoff to choosing Mac is greater if more Accountants also choose Mac, but not if more Graphic Designers do so.  These payoffs are inconsistent with some types of increasing returns mechanisms, a la &#8220;learning by doing/using&#8221; and &#8220;ecosystem&#8221; effects.</p>
+<p>I&#8217;m occasionally skeptical that things like scale effects between economic experiments and the economic phenomena being studied are totally irrelevant, but in this case it&#8217;s easy to tune Arthur-esque payout functions to lead to lock-in quickly with usefully high productivity.  So I think there&#8217;s a multiple-equilibrium selection experiment out there waiting to be done.  But this paper isn&#8217;t it.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
+<p>(*) Paul David, &#8220;Clio and the Economics of QWERTY.&#8221; American Economic Review 75: 332-337.</p>
+<p>(**) Stanley Liebowitz and Stepehn Margolis, &#8220;The Fable of the Keys.&#8221;  Journal of Law and Economics 33: 1-26.  It&#8217;s also not necessarily accidental that this paper found a home at the University of Chicago-domiciled JLE.  Liebowitz and Margolis persuasively argued that the alternative Dvorak layout is not as good relative to QWERTY as Dvorak advocates have claimed, and that ergonomic studies further suggest that there are distinctly bad layouts of which QWERTY is not one.  However, the conclusion along the lines of &#8216;history just so happens to have given us a not-necessarily-optimal but not-necessarily-terrible technology so what, me worry?&#8217; does not refute path-dependence.</p>
+<p>(***) W. Brian Arthur, &#8220;Competing Technologies, Increasing Returns, and Lock-In by Historical Events,&#8221; Economic Journal 99, 116-131.  David referenced the working-paper stage of this work in his AER paper.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/clios-role-in-the-economics-of-qwerty.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

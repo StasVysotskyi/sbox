@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thrift Supervision &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>What Works About the FDIC?</title>
+		<link>./../../2010/03/what-works-about-the-fdic.html</link>
+		<comments>./../../2010/03/what-works-about-the-fdic.html#respond</comments>
+		<pubDate>Mon, 29 Mar 2010 20:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[FDC]]></category>
+		<category><![CDATA[OCC]]></category>
+		<category><![CDATA[securitization]]></category>
+		<category><![CDATA[Thrift Supervision]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/03/what-works-about-the-fdic.html</guid>
+		<description><![CDATA[reads Ezra Klein and Matt Yglesias (between the two of them they have more years than I do). Klein thinks the FDIC works well. Yglesias notes that it keeps eating banks every Friday and has doubts about the quality of its prudential regulation. I will argue that the FDIC has more of an incentive to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>reads Ezra Klein and Matt Yglesias (between the two of them they have more years than I do).</p>
+<p><a href="http://voices.washingtonpost.com/ezra-klein/2010/03/the_palin_test_for_finreg.html">Klein thinks the FDIC works well</a>. <a href="http://yglesias.thinkprogress.org/archives/2010/03/what-works-about-the-fdic.php">Yglesias notes that it keeps eating banks every Friday and has doubts about the quality of its prudential regulation</a>. I will argue that the FDIC has more of an incentive to make banks prudent than the SEC, the Fed, the Treasury or the comptroller of the currency.</p>
+<p>The key point is that the FDIC has a trust fund and wants to keep it. This is the reason that Stiglitz, Sachs, and Krugman were totally wrong and the PPIP was not a huge give away (<a href="http://www.angrybearblog.com/2009/04/ppip-bad-maybe-but-not-that-bad.html">Tom Bozzo</a> and <a href="http://www.angrybearblog.com/2009/03/geithner-plan-better-than-leaked.html">I</a> explained it to them at the time but they don&#8217;t read this blog). So long as the FDIC doesn&#8217;t run out of money, it doesn&#8217;t have to go begging to Congress.</p>
+<p>Robert Waldmann</p>
+<p>The SEC and the comptroller don&#8217;t put their own money on the line. They regulate but they don&#8217;t bail out. Failures mean they have more egg on their face but no less cash on hand. The Treasury has broad responsibilities and has to explain economic policy to Congress in any case. The FED can just print all the money it wants. The FDIC is independent so long as it stays within its means.</p>
+<p>This makes a difference. It is true that the FDIC has had to spend some of its money lately. IIRC it hasn&#8217;t had to ask congress for any extra appropriations – at all. This in spite of the fact that the FDIC agreed to insure money market funds which therefore got insurance without paying for it. The scale of failures of FDIC insured institutions are tiny compared to the scale of failures of non FDIC insured institutions.</p>
+<p>See the secret is to have an intertemporal budget constraint. That tends to cause forward looking behavior.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/03/what-works-about-the-fdic.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>OCC and Model Validation Part 1</title>
+		<link>./../../2008/03/occ-and-model-validation-part-1.html</link>
+		<comments>./../../2008/03/occ-and-model-validation-part-1.html#respond</comments>
+		<pubDate>Thu, 27 Mar 2008 12:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[OCC]]></category>
+		<category><![CDATA[Thrift Supervision]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/occ-and-model-validation-part-1.html</guid>
+		<description><![CDATA[Comptroller Dugan Underscores Bank Responsibility for Model Validation WASHINGTON Feb. 3, 2006 – Comptroller of the Currency John C. Dugan said today that responsibility for validating the models banks use to manage credit risk and other critical activities lies first and foremost with the institution itself. “Just as good management requires this kind of attention [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote><p><a href="http://www.occ.gov/toolkit/newsrelease.aspx?Doc=EYGNGGQ3.xml">Comptroller Dugan Underscores Bank Responsibility for Model Validation</a></p>
+<p>WASHINGTON Feb. 3, 2006 – Comptroller of the Currency John C. Dugan said today that responsibility for validating the models banks use to manage credit risk and other critical activities lies first and foremost with the institution itself.</p>
+<p>“Just as good management requires this kind of attention to one critical component of your success—your people—model validation takes on the same importance as part of sound management, as models become more central to the success of your organizations,” Mr. Dugan said in a speech at the OCC’s “Workshop on Validation of Credit Rating and Scoring Models.” “Organizations using these models need to be as sure as they can that models work as intended—that is, that the models are valid—much as they need to know that key people are doing their jobs.”</p>
+<p><em>Comptroller Dugan said that regulators have the responsibility to establish clear expectations around model validation for the institutions they supervise, and then to ensure through the supervisory process that banks are meeting those expectations.</p>
+<p>“This view—that banks validate, and supervisors supervise—is the OCC view of model validation, one we express consistently through our guidance and our supervisory processes,” Mr. Dugan said.  “But it is also a view shared by many other regulators, and a view that is becoming ever more prevalent as we share practices with our colleagues around the world.”</em></p>
+<p><em>The Comptroller said he has been particularly impressed with the work done by the OCC’s Risk Analysis Division, which brings the knowledge and perspective of economists to the agency’s supervisory work.</em></p>
+<p>“Whether it’s shifting through economic and industry trends <em>to spot emerging issues that the OCC needs to stay on top of, or evaluating the economic impact of policy proposals, or—as with this conference—addressing issues raised by banks’ use of quantitative models, the OCC’s economists bring a dimension to our supervisory work that is irreplaceable,” Mr. Dugan said. </em><br />“I’ve become increasingly proud of their capabilities and the contributions they make to our supervision of banks, which with nearly $6 trillion in assets engage increasingly in the kind of complex activities that require more sophisticated supervision.”</p>
+<p>The interests of banks and regulators in validation do coincide in that both want models to work well, Mr. Dugan told the 400 modelers, regulators, economists, and other experts in attendance.  However, because regulators have different objectives and legal responsibilities from the private interests of banks, conflicting views occasionally occur about what should be done on modeling and validation, he said.</p>
+<p>“When that happens—when the occasional but inevitable conflicts arise—we work very hard with our banks to reach an appropriate solution that works, consistent with our statutory responsibility to the public,” Comptroller Dugan said.</p>
+<p>Mr. Dugan said that the OCC is keenly aware that individual banks are different and require different supervisory approaches to meet the same objectives and that supervision can’t be “one size fits all.”  A smaller, less complex bank needs a different supervisory approach than a diversified, multi-billion dollar organization, he noted.</p>
+<p>“When it comes to supervision of banks’ use of models, at the OCC we believe that success requires recognition of the priority, and then seamless integration into the mainstream of bank supervision,” Comptroller Dugan said.  “Recognition of the priority begins at the top, and that includes me.”</p>
+<p>OCC examiners draw on the advice of staff quantitative experts when they assess how a bank uses any quantitative model, the importance of that model within the business process, and the controls that surround and govern its use, he said.  “It’s a partnership, and one that works well.”</p>
+<p>“Ultimately, the bottom-line judgment regarding the use of models and how they affect the condition and soundness of the bank rests where we firmly believe it should—in the hands of the examiners—but that judgment will have been the result of close collaboration between the examiners and the OCC’s quantitative modeling experts,” Comptroller Dugan said.</p>
+<p>Mr. Dugan said that the new Basel II capital framework will add greater importance to sound validation practices.  Validation is likely to be an essential factor ensuring that models and other parts of banks’ internal processes used for Basel II meet the requirements for capital calculations, he said.</p>
+<p>Comptroller Dugan cautioned that no model is perfect.  Every model relies on some key assumptions, reflecting a simplified view of the real world that never matches those assumptions perfectly.  That’s why model results can’t be blindly accepted as “the answer” on capital adequacy or anything else for that matter, he said.</p>
+<p>“Models don’t build themselves, and they don’t validate themselves,” Mr. Dugan said.  “Validation is done by people, people who exercise judgment, judgment that can be good or can be bad.  This is part of the process, and will always be part of the process.”</p>
+<p><strong>“If I can leave you with one primary thought, it’s that when your business depends on these models, good validation has to be viewed as part of sound management and good corporate governance,” Mr. Dugan concluded.  “And without good governance and management, we don’t have a prayer of having sound banks.”</strong> </p></blockquote>
+<p>(italics and bolding are mine)</p>
+<p>Good call, Mr. Dugan.  If I remember the novel by Ayn Rand correctly, what happens to bad managers?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/occ-and-model-validation-part-1.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

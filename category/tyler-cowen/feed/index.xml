@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tyler Cowen &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title></title>
+		<link>./../../2013/01/384.html</link>
+		<comments>./../../2013/01/384.html#respond</comments>
+		<pubDate>Sun, 06 Jan 2013 23:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Mike Kimel]]></category>
+		<category><![CDATA[statistical analysis]]></category>
+		<category><![CDATA[Tyler Cowen]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/384.html</guid>
+		<description><![CDATA[by Mike Kimel Some Thoughts on Statistical Analysis (A bit wonky) Via Tyler Cowen, a pretty good post on statistical analysis. While I suggest reading the post, I&#8217;ve reproduced the first sentence of each point the author makes below (though have cut out the pieces in betweeen): 1. When you don’t have to code your own estimators, youprobably won’t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p>Some Thoughts on Statistical Analysis (A bit wonky)</p>
+<p>Via <a href="http://marginalrevolution.com/marginalrevolution/2013/01/assorted-links-664.html">Tyler Cowen</a>, a pretty good post on <a href="http://seanjtaylor.com/post/39573264781/the-statistics-software-signal">statistical analysis</a>.  While I suggest reading the post, I&#8217;ve reproduced the first sentence of each point the author makes below (though have cut out the pieces in betweeen):<br />
+<blockquote>1. When you don’t have to code your own estimators, you<br />probably won’t understand what you’re doing&#8230;<br />2. When it’s extremely low cost to perform inference, you are likely<br />to perform a lot of inferences&#8230;<br />3. When operating software doesn’t require a lot of training, users of<br />that software are likely to be poorly trained&#8230;<br />4. When you use proprietary software, you are sending the message that<br />you don’t care about whether people can replicate your analyses or<br />verify that the code was correct.</p></blockquote>
+<p>I think for the most part, this is a brilliant post, and it is worth keeping the main points in mind as they are very, very good.  That said, I tend to disagree slightly with a few points.  One is the author&#8217;s love of R, stated repeatedly in the pieces of the post I didn&#8217;t quote.    I find R to be a pain in the #$$.  So does the author, but he feels that is a virtue as per item 2 above.  Frankly, the older I get, the more I use (wait for it!) Excel to do statistical analysis.  Excel doesn&#8217;t do much in the way of sophisticated work, and what it does is clunky.  I&#8217;m guessing it would violate the author&#8217;s point 4, being proprietary, but I&#8217;ve checked enough results on Excel<br />using matrix algebra that I&#8217;m satisfied its basic regression functionality works.  If you want to do anything more sophisticated than a plain old OLS regression, you need to code it yourself in VBA.</p>
+<p><a name="more"></a></p>
+<p>But here&#8217;s what I love about using Excel&#8230;   Odds are, whatever data you&#8217;re using to do your analysis, you started off by sorting it in Excel in the first place. Its easy to sort and graph the data, and the eyeball and the nose are always the most important tools in statistics.  Another cool thing about Excel &#8211; it will spit out the<br />residuals.   And you can graph and organize those residuals twenty three ways from Sunday, which means you can build your own diagnostics appropriate for whatever task you&#8217;re doing.  Unless you absolutely positively have to run a system of equations fast, or you have a client who has glommed onto some absolutely useless statistical tool with a cool name (dig through an advanced econometrics book and you&#8217;ll spot &#8217;em aplenty) and you can&#8217;t shake them from their ignorance, there isn&#8217;t much point to using R or Stata or you name the program.  If your problem is not lack of time, but rather data sets that are too big for Excel to handle, find someone who is good in C++.</p>
+<p>Another thing&#8230;  I suspect the author of that post and I have similar views on SAS. My own experience &#8211; I have seen or had associations with a number of organizations that consider themselves data savvy, and in<br />my opinion, from what I can tell,  if a company has X SAS licenses, it almost invariably means the organization has X junior analysts whose job it is to reach actionable conclusions using SAS who haven&#8217;t got<br />the vaguest clue how to interpret the results of the simplest statistical analysis.  This isn&#8217;t to say SAS is a bad tool, but merely that many organizations consider having a SAS license to be, in an of itself, a holy grail that allows them to dispense with any real expertise.</p>
+<p>One final disagreement with the author &#8211; he seems to be falling into fallacy many economists do, which is assuming that what economists do is a science.  This to me indicates a failure to understand that a science is something scientists do, and what economists do is very different from what scientists do.   In biology, you won&#8217;t get very far if you try to peddle Lamarckian evolution, Lysenkoism or ID. Try being a proponent of the theory of phlogiston or the aether wind and see what that does for your career in physics.  But the equivalent<br />behavior in Economics won&#8217;t stop you, and may even prove beneficial to those wishing to get tenure at Harvard or Chicago, or be Dean of an Ivy League business school.  And then there are the think tanks&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/384.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>If there was a Public Option in PPACA, what grounds would the Supreme Court use to overturn it?</title>
+		<link>./../../2012/03/if-there-was-a-public-option-in-ppaca-what-grounds-would-the-supreme-court-use-to-overturn-it.html</link>
+		<comments>./../../2012/03/if-there-was-a-public-option-in-ppaca-what-grounds-would-the-supreme-court-use-to-overturn-it.html#respond</comments>
+		<pubDate>Thu, 29 Mar 2012 22:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+		<category><![CDATA[Tyler Cowen]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/if-there-was-a-public-option-in-ppaca-what-grounds-would-the-supreme-court-use-to-overturn-it.html</guid>
+		<description><![CDATA[The above is a more-than-semi-serious question. I&#8217;ll be blogging/tweeting the Kauffman Foundation&#8217;s Bloggers&#8217;s Forum tomorrow from 9:30-3:30 EDT (8:30-2:30 here in Kansas City; 6:30-12:30 in DeLong/Thomaville; in Hawaii, they&#8217;re still watching Dave Garroway). You can tell it has reached maturity because tomorrow&#8217;s presenters include J. Bradford DeLong, Scott Sumner, Tyler Cowen, and Karl Smith—and that&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The above is a more-than-semi-serious question.</p>
+<p>I&#8217;ll be blogging/tweeting the Kauffman Foundation&#8217;s Bloggers&#8217;s Forum tomorrow from 9:30-3:30 EDT (8:30-2:30 here in Kansas City; 6:30-12:30 in DeLong/Thomaville; in Hawaii, they&#8217;re still watching Dave Garroway).</p>
+<p>You can tell it has reached maturity because tomorrow&#8217;s presenters include <a href="http://delong.typepad.com/">J. Bradford DeLong</a>, <a href="http://www.themoneyillusion.com/">Scott Sumner</a>, <a href="http://marginalrevolution.com/">Tyler Cowen</a>, and <a href="http://modeledbehavior.com/">Karl Smith</a>—and that&#8217;s just the first panel (&#8220;Recovery and Long-Term Growth&#8221;). </p>
+<p><a href="http://economistsview.typepad.com/">Mark Thoma</a>, <a href="http://econlog.econlib.org/">Arnold Kling</a>, and the Former Dynamic Duo [<a href="http://www.washingtonpost.com/blogs/ezra-klein">Ezra Klein</a> and <a href="http://www.slate.com/blogs/moneybox.html">Matt Yglesias</a>] are all scheduled to follow.</p>
+<p>As Brad noted, the event will be live-streamed at <a href="http://www.growthology.org/">Growthology</a> and (one assumes, as usual), the videos will be archived and available.</p>
+<p>Neither your not-very-humble correspondent nor fellow AB (and now Roubini contributor) <a href="http://www.economonitor.com/rebeccawilder/">Rebecca Wilder</a> will be presenting.</p>
+<p>[links completed late; apologies to Ezra, Matt, and Rebecca for the delay.]</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/if-there-was-a-public-option-in-ppaca-what-grounds-would-the-supreme-court-use-to-overturn-it.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Links Worth Rants</title>
+		<link>./../../2011/09/links-worth-rants.html</link>
+		<comments>./../../2011/09/links-worth-rants.html#respond</comments>
+		<pubDate>Thu, 01 Sep 2011 16:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ARRA]]></category>
+		<category><![CDATA[EUR]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[ratings]]></category>
+		<category><![CDATA[Republican brand]]></category>
+		<category><![CDATA[reputational risk]]></category>
+		<category><![CDATA[Tyler Cowen]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/links-worth-rants.html</guid>
+		<description><![CDATA[Busy day on several fronts, but these should be discussed and I&#8217;ve already posted one rant this week, so a riff on the second piece would be overkill. Sort of an Open Thread, with four topics. Tyler Cowen argues that, instead of giving out stimulus monies, the government should just hire people directly. No, really: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Busy day on several fronts, but these should be discussed and I&#8217;ve already <a href="http://www.angrybearblog.com/2011/08/sheer-idiocy-european-and-american.html">posted one rant</a> this week, so a riff on the second piece would be overkill. Sort of an Open Thread, with four topics.</p>
+<ol>
+<li>Tyler Cowen argues that, instead of giving out stimulus monies, <a href="http://marginalrevolution.com/marginalrevolution/2011/08/how-ineffective-was-the-stimulus-really.html">the government should just hire people directly</a>. No, really:<br />
+
+<p>
+</p>
+<blockquote><p>Let’s say seventy percent of the stimulus gets spent on labor at all, and only forty-two percent of that gets spent on unemployed labor&#8230;.That’s less than thirty percent of the initial expenditure being spent on unemployed labor and that is before any other problems with the expenditures kick in.  It’s hard for me to see that as a triumph of the program (NB: we are only talking about one part of ARRA here); would direct government employment have overhead costs that high?</p></blockquote>
+<p>
+<p>
+<br />UPDATE: Matt Yglesias <a href="http://thinkprogress.org/yglesias/2011/08/31/309145/mercatus-study-confirms-arras-success/">comes the same conclusion I did</a>: that the Jones and Rothschild study advocates &#8220;a targeted make-work program for unemployed people.&#8221;  And Mike Konczal does the definitive takedown of pretending the study reads as anything other than that <a href="http://rortybomb.wordpress.com/2011/09/01/did-the-arra-hire-the-unemployed-or-just-shift-jobs-around-the-employed/">ARRA was successful and too small</a>.</p>
+</li>
+<li>Anyone who thinks that S&#038;P will be in business five years from now should <a href="http://www.bloomberg.com/news/2011-08-31/subprime-mortgage-bonds-getting-aaa-rating-s-p-denies-to-u-s-treasuries.html">read this piece</a>.  Not even the market is stupid enough to believe that house prices cannot decline 5%, or that the costs of payment delays and the like will not eat the &#8220;value&#8221; of these securities.  That&#8217;s not unique; what has changed is that investors <em>are saying so</em>.
+</li>
+<li>Marshall Auerback suggests that <a href="http://neweconomicperspectives.blogspot.com/2011/08/tale-of-three-germanys-is-germany.html">Germany may be preparing to exit the Euro</a>.  My rough sketches suggest that&#8217;s a bad idea for their banks, but it might do their companies some good.  As he notes, &#8220;[his] <a href="http://neweconomicperspectives.blogspot.com/2011/05/to-save-euro-germany-has-to-quit.html">view</a>, which was once considered borderline crazy, is now getting more serious consideration.&#8221;
+</li>
+<li>Everyone who claimed that Jon Huntsman is a &#8220;sensible, sane Republican&#8221; <a href="http://thinkprogress.org/economy/2011/08/31/309249/huntsman-taxes-rich/">owes the rest of us a sackcloth-and-ashes level apology</a>. Anyone who still does it is a pawn or an idiot.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/links-worth-rants.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Forthcoming Tyler Cowen articles that will be Echoed by Felix Salmon</title>
+		<link>./../../2011/08/forthcoming-tyler-cowen-articles-that-will-be-echoed-by-felix-salmon.html</link>
+		<comments>./../../2011/08/forthcoming-tyler-cowen-articles-that-will-be-echoed-by-felix-salmon.html#respond</comments>
+		<pubDate>Mon, 08 Aug 2011 14:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ratings]]></category>
+		<category><![CDATA[Tyler Cowen]]></category>
+		<category><![CDATA[US Rating]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/forthcoming-tyler-cowen-articles-that-will-be-echoed-by-felix-salmon.html</guid>
+		<description><![CDATA[References are here (Cowen) and here (Salmon).* Just because Charlie Sheen got drunk, did some other drugs, and committed adultery doesn&#8217;t mean he&#8217;ll do it again. Just because someone who calls himself Jack the Ripper has killed two women in London doesn&#8217;t mean he&#8217;ll do it again. Just because the U.S. dropped a hydrogen bomb [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>References are <a href="http://marginalrevolution.com/marginalrevolution/2011/08/a-few-quick-thoughts-on-the-likely-pending-sp-downgrade.html">here</a> (Cowen) and <a href="http://blogs.reuters.com/felix-salmon/2011/08/06/the-credibility-and-integrity-of-sp%E2%80%99s-ratings-action/">here</a> (Salmon).*</p>
+<ol>
+<li>Just because Charlie Sheen got drunk, did some other drugs, and committed adultery doesn&#8217;t mean <a href="http://en.wikipedia.org/wiki/Charlie_Sheen#Family_and_relationships">he&#8217;ll do it again</a>.</p>
+</li>
+<li>Just because someone who calls himself Jack the Ripper has killed two women in London doesn&#8217;t mean <a href="http://en.wikipedia.org/wiki/Jack_the_Ripper">he&#8217;ll do it again</a>.
+</li>
+<li>Just because the U.S. dropped a hydrogen bomb that emits massive amounts of radiation on Hiroshima doesn&#8217;t mean <a href="http://en.wikipedia.org/wiki/Nagasaki">they&#8217;ll do it again</a>.
+</li>
+<li>Just because Megan McArdle <a href="http://agonyin8fits.blogspot.com/2011/07/megan-mcardle-is-one-smart-cookie.html">makes mistakes when she tries to do financial analysis</a> doesn&#8217;t mean <a href="http://delong.typepad.com/sdj/2010/09/did-megan-mcardle-really-graduate-from-a-business-school.html">she&#8217;ll do it again</a>.</li>
+</ol>
+<p>Feel free to add more in comments.</p>
+<p>Cowen, by the way, wins the intellectually-inconsistent-in-a-short-period award (partially because Felix&#8217;s argument meanders more than Moses in the desert):<br />
+<br />
+<blockquote>[T]he “we should have had a much bigger stimulus” argument is unlikely to go down in intellectual history as the correct view. Instead, Ken Rogoff and Scott Sumner are likely to go down as the prophets of our times. We needed a big dose of inflation, promptly, right after the downturn. Repeat and rinse as necessary.</p></blockquote>
+<p>Shorter Tyler Cowen: we didn&#8217;t need to put a lot more dollars into the economy than we did. Instead, we needed to put a lot more dollars into the economy than we did.</p>
+<p><strong>UPDATE</strong>: <a href="http://economistsview.typepad.com/economistsview/">Mark Thoma</a> is collecting reaction to the S&#038;P&#8217;s alleged rationale as only he does.  See especially <a href="http://economicsofcontempt.blogspot.com/2011/08/on-s-downgrades-and-idiots.html">Economics of Contempt&#8217;s post</a> and this e-mail from the <a href="http://economistsview.typepad.com/economistsview/2011/08/retired-moodys-sovereign-rating-director-the-sp-downgrade-is-unwarranted.html">someone who has Been There and Done That</a>.</p>
+<p>*Who follows up his far-too-nuanced-for-me &#8220;<a href="http://blogs.reuters.com/felix-salmon/2011/08/08/the-downgrade-faq/">FAQ</a>.&#8221; But I am a Bear of Very Little Brain compared to such analysis.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/forthcoming-tyler-cowen-articles-that-will-be-echoed-by-felix-salmon.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Libertarians Looking Vaguely in the Direction of Apostasy</title>
+		<link>./../../2011/05/libertarians-looking-vaguely-in-the-direction-of-apostasy.html</link>
+		<comments>./../../2011/05/libertarians-looking-vaguely-in-the-direction-of-apostasy.html#respond</comments>
+		<pubDate>Wed, 04 May 2011 13:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Presimetrics]]></category>
+		<category><![CDATA[Tyler Cowen]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/libertarians-looking-vaguely-in-the-direction-of-apostasy.html</guid>
+		<description><![CDATA[by Mike Kimel Libertarians Looking Vaguely in the Direction of Apostasy Tyler Cowen is a prominent libertarian, a professor at GMU and Director of the Mercatus Institute. He is also on very, very dangerous ground. Lately he has had a couple of posts &#8211; the latest one here &#8211; that quote a new book by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>Libertarians Looking Vaguely in the Direction of Apostasy</strong></p>
+<p>Tyler Cowen is a prominent libertarian, a professor at GMU and Director of the Mercatus Institute.  He is also on very, very dangerous ground.  Lately he has had a couple of posts &#8211; the latest one <a href="http://marginalrevolution.com/marginalrevolution/2011/05/was-world-war-ii-good-for-the-american-economy.html">here</a> &#8211; that quote a new book by <a href="http://www.amazon.com/Great-Leap-Forward-Depression-Financial/dp/0300151098/ref=sr_1_1?ie=UTF8&#038;qid=1303730935&#038;sr=8-1/marginalrevol-20">Alexander Fields</a>.  I haven&#8217;t read the book yet, but it seems to describe the 1930s as a period of great innovation despite pervasive misery.</p>
+<p>But some of the passages Tyler quotes come tantalizingly close to noting that the economy was actually growing very rapidly by 1939.  But what happens if he realizes it isn&#8217;t just after 1939, that real growth under FDR was faster than under any President since data has been collected &#8211; even if you leave out 1941 through 1945.  See Figure 1 at <a href="http://www.presimetrics.com/blog/?p=325">this post</a>.  (Or that FDR was followed by LBJ, and then JFK, and then Clinton.)  What if he takes a look at <a href="http://www.presimetrics.com/blog/?p=224">private investment during the New Deal era</a>.  What if he looks at the <a href="http://www.angrybearblog.com/2010/04/1920s-depression-glenn-beck-thomas.html">relationship between tax rates and economic downturns</a> or <a href="http://www.angrybearblog.com/2010/04/1920s-depression-glenn-beck-thomas_19.html">comparison of growth rates</a> between the &#8220;roaring 20s&#8221; favored by libertarian myth and the New Deal era?  </p>
+<p>Could a person really remain a libertarian if they realized things like that?  Cowen has a lot at stake.  I wonder if he&#8217;ll take the next step.  </p>
+<p>Note&#8230; <a href="http://econlog.econlib.org/archives/2011/05/notes_from_the_3.html">Arnold Kling</a> is also skating on the same ground.  As of this writing, his readers, usually good for at least a few comments on every post, are stunned into silence. </p>
+<p>Cross-posted at the <a href="http://www.presimetrics.com/blog/?p=488">Presimetrics blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/libertarians-looking-vaguely-in-the-direction-of-apostasy.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

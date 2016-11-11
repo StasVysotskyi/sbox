@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CRA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Subprime and the crisis</title>
+		<link>./../../2012/03/subprime-and-the-crisis.html</link>
+		<comments>./../../2012/03/subprime-and-the-crisis.html#respond</comments>
+		<pubDate>Tue, 27 Mar 2012 01:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CRA]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/subprime-and-the-crisis.html</guid>
+		<description><![CDATA[Financeaddict comments on a St. Louis Fed study: Their research asks whether there’s evidence that lenders changed their behavior to meet CRA, Fannie or Freddie-mandated goals by: making more subprime loans than they otherwise would have? lending to riskier borrowers than they otherwise would have? charging risky borrowers less than they otherwise would have? &#8230;If [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://financeaddict.com/2012/03/governments-role-in-the-subprime-crisis" target="_blank">Financeaddict</a> comments on a <a href="http://research.stlouisfed.org/wp/2012/2012-005.pdf" target="_blank">St. Louis Fed study</a>:   <br />
+<blockquote>Their research asks whether there’s evidence that lenders changed their behavior to meet CRA, Fannie or Freddie-mandated goals by:
+<ul>
+<li>making more subprime loans than they otherwise would have? </li>
+<li>lending to riskier borrowers than they otherwise would have? </li>
+<li>charging risky borrowers less than they otherwise would have?</li>
+</ul>
+<p>&#8230;If the banks were strongly influenced by their desire to meet affordable housing targets then they should have made more of the kind of loans that would qualify and less of the kind of loans that would not qualify. These relative changes should show up as anomalies in an otherwise continuous data pattern, but the researchers’ examinations of 722,157 securitized subprime mortgages made in California and Florida from 2004-2006 found no evidence of this.  The same held true for the other two research questions. Hernández-Murillo, Ghent and Owyang did not find that lenders gave lower (i.e. better) prices to borrowers falling inside the threshold vs. those falling outside. Nor did they find evidence that lenders lent more often to qualifying riskier borrowers (those who would go on to be seriously delinquent within the first two years after receiving the loan) than they did to riskier borrowers whose loans would not qualify. <br /><a name="more"></a>So, to recap, the subprime story went something like this: foolish borrowers borrowed and foolish lenders lent. The evidence appears to show that lenders did not change their behavior in order to hit the affordable housing targets that the government imposed on them. While the government’s programs to encourage affordable housing may have other flaws they did not, at any rate, directly cause the subprime crisis. Myth busted.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/subprime-and-the-crisis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fannie and Freddie and William Black</title>
+		<link>./../../2011/01/fannie-and-freddie-and-william-black.html</link>
+		<comments>./../../2011/01/fannie-and-freddie-and-william-black.html#respond</comments>
+		<pubDate>Thu, 13 Jan 2011 01:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CRA]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/fannie-and-freddie-and-william-black.html</guid>
+		<description><![CDATA[William Black writes this post Fannie and Freddie’s Managers bought Nonprime Paper for the same Reason Merrill Did: (hat tip Rebecca) This subdivides into four arguments: the Community Reinvestment Act (CRA), Congress’ rejection of an administration proposal to give OFHEO greater supervisory powers, specifically, the power to place Fannie and Freddie in receivership, the ability [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>William Black writes this post<a target="_blank" href="http://neweconomicperspectives.blogspot.com/2011/01/fannie-and-freddies-managers-bought.html"> Fannie and Freddie’s Managers bought Nonprime Paper for the same Reason Merrill Did</a>: (hat tip Rebecca)</p>
+<blockquote><p>This subdivides into four arguments: the Community Reinvestment Act (CRA), Congress’ rejection of an administration proposal to give OFHEO greater supervisory powers, specifically, the power to place Fannie and Freddie in receivership, the ability of Fannie and Freddie to borrow due to their status as Government-Sponsored Enterprises (GSEs), and the rules on Fannie and Freddie making a rising percentage of their loans to those with below median income.</p></blockquote>
+<p>Clear and concise.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/fannie-and-freddie-and-william-black.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Simple Answers to Simple Questions, CRA edition</title>
+		<link>./../../2009/06/simple-answers-to-simple-questions-cra-edition.html</link>
+		<comments>./../../2009/06/simple-answers-to-simple-questions-cra-edition.html#respond</comments>
+		<pubDate>Fri, 26 Jun 2009 15:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[CRA]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[Paul Krugman]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/06/simple-answers-to-simple-questions-cra-edition.html</guid>
+		<description><![CDATA[Dear Barry: The need for posts such as this one recurs because the large majority of economists are idiots. (Multiple exceptions noted—but not enough to change the truth of the initial statement.) As the regulatory reform report notes (quoted by PK at the last link above): In fact, enforcement of CRA was weakened during the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dear <a target="_blank" href="http://www.ritholtz.com/blog/">Barry</a>:</p>
+<p>The need for posts such as <a target="_blank" href="http://www.ritholtz.com/blog/2009/06/cra-thought-experiment/">this one</a> recurs because the large majority of economists are idiots. (<a target="_blank" href="http://economistsview.typepad.com/economistsview/2008/09/once-again-it-w.html">Multiple</a> <a target="_blank" href="http://delong.typepad.com/egregious_moderation/2009/06/felix-salmon-john-carney-mendacious-hack.html">exceptions</a> <a target="_blank" href="http://krugman.blogs.nytimes.com/2009/06/17/more-notes-on-the-regulation-plan/">noted</a>—but not enough to change the truth of the initial statement.)</p>
+<p>As the regulatory reform report notes (quoted by PK at the last link above):<br />
+<blockquote>In fact, enforcement of CRA was weakened during the boom and the worst abuses were made by firms not covered by CRA.</p></blockquote>
+<p>But the truth should never be allowed to get in the way of Economic Theory.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/06/simple-answers-to-simple-questions-cra-edition.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

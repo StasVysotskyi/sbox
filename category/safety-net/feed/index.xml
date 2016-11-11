@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>safety net &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Guest post: U.S. has 18th best unemployment benefits in OECD</title>
+		<link>./../../2012/04/guest-post-u-s-has-18th-best-unemployment-benefits-in-oecd.html</link>
+		<comments>./../../2012/04/guest-post-u-s-has-18th-best-unemployment-benefits-in-oecd.html#respond</comments>
+		<pubDate>Sat, 14 Apr 2012 12:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[safety net]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/guest-post-u-s-has-18th-best-unemployment-benefits-in-oecd.html</guid>
+		<description><![CDATA[Guest post by Kenneth Thomas of Middle Class Political Economist U.S. has 18th best unemployment benefits in OECD; also trails 13 non-OECD countries Tim Vlandas at EU Welfare States flags some important recent International Monetary Fund data on the generosity of a number of countries&#8217; unemployment benefits. The metric used is the gross replacement rate [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Guest post by Kenneth Thomas of <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/04/us-has-18th-best-unemployment-benefits.html">Middle Class Political Economist</a></p>
+<p>U.S. has 18th best unemployment benefits in OECD; also trails 13 non-OECD countries</p>
+<p>  Tim Vlandas at <a href="http://euwelfarestates.blogspot.com/2012/04/world-ranking-in-unemployment-benefit.html">EU Welfare States</a> flags some important recent International Monetary Fund data on the generosity of a number of countries&#8217; unemployment benefits. The metric used is the gross replacement rate (GRR) the ratio of unemployment benefits to a worker&#8217;s previous wages. </p>
+<p>The United States gives, on average, a miserly 27.5% of previous wages in unemployment benefits, behind 17 OECD members, though ahead of 11 others (no data was given for OECD members Iceland, Luxembourg, Mexico, Slovak Republic, and Slovenia). Not only that, the U.S. falls behind 13 non-OECD members, including Algeria, Taiwan, and Ukraine, all of which have at least double the replacement rate of the U.S.    </p>
+<p>Why is this important? As Vlandas points out,<br />
+<blockquote>A high replacement rate&#8230;ensures that the negative effects of rising unemployment on aggregate demand are mitigated. It also prevents workers from falling into poverty when they lose their jobs.</p></blockquote>
+<p>Furthermore, the generosity of unemployment insurance interacts with the state of other employment protections. As regular readers of this blog will recall, <a href="http://middleclasspoliticaleconomist.blogspot.com/2011/09/labor-day-us-has-weakest-employment.html">the United States has the absolute worst employment protections in the OECD</a>, by a large margin compared to most other members. As commenter Norm Breyfogle rightly noted in response to that post, if your protection from both individual and mass firings are weak, you really need good unemployment insurance. As the data here show, however, U.S. workers are not well-protected with unemployment insurance.  </p>
+<p><a name="more"></a><br />I won&#8217;t reproduce Vlandas&#8217; <a href="http://euwelfarestates.blogspot.com/2012/04/world-ranking-in-unemployment-benefit.html">entire table</a>, but I will highlight the leaders and some other significant countries.  </p>
+<div><a href="http://1.bp.blogspot.com/-6_Ap4ewe6lA/T4lw7NVNN2I/AAAAAAAAA1Y/gi-DFoJnZJg/s1600/unempluyment.PNG" imageanchor="1"><img border="0" height="220" src="http://1.bp.blogspot.com/-6_Ap4ewe6lA/T4lw7NVNN2I/AAAAAAAAA1Y/gi-DFoJnZJg/s320/unempluyment.PNG" width="320"></a></div>
+<p>To compare it in another way, according to an <a href="http://www.imf.org/external/pubs/ft/wp/2011/wp11154.pdf">IMF working paper</a> (Figure 1, p. 21), the average GRR for high-income countries in 2005 was about 38%, compared to the United States&#8217; 27.5%. U.S. workers get relatively low unemployment benefits compared to other industrialized countries.  <br />Moreover, as I showed in February, the length of unemployment is at its longest since record-keeping started in 1947. The following FRED graph gives both the mean and median length of unemployment, both of which hit double their previous record in the current jobs recession.<br />  <br /><img alt="FRED Graph" height="384" src="http://research.stlouisfed.org/fred2/graph/fredgraph.png?&#038;id=LNU03008275,LNU03008276&#038;scale=Left,Left&#038;range=Max,Max&#038;cosd=1948-01-01,1967-07-01&#038;coed=2012-03-01,2012-03-01&#038;line_color=%230000ff,%23ff0000&#038;link_values=false,false&#038;line_style=Solid,Solid&#038;mark_type=NONE,NONE&#038;mw=4,4&#038;lw=1,1&#038;ost=-99999,-99999&#038;oet=99999,99999&#038;mma=0,0&#038;fml=a,a&#038;fq=Monthly,Monthly&#038;fam=avg,avg&#038;fgst=lin,lin&#038;transformation=lin,lin&#038;vintage_date=2012-04-14,2012-04-14&#038;revision_date=2012-04-14,2012-04-14" width="640"><br /><img alt="Loading ..." src="http://research.stlouisfed.org/fred2/graph/images/loading.gif"><br />Loading &#8230;<br />Thus, in a country where employment protections are weaker than in any comparable nation, and which is still just below postwar records for length of unemployment, we face the additional problem of low unemployment benefits, a factor which exerts an additional drag on growth.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/guest-post-u-s-has-18th-best-unemployment-benefits-in-oecd.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Even critics of the safety net&#8230;</title>
+		<link>./../../2012/02/even-critics-of-the-safety-net.html</link>
+		<comments>./../../2012/02/even-critics-of-the-safety-net.html#respond</comments>
+		<pubDate>Sat, 18 Feb 2012 13:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 Presidential elections]]></category>
+		<category><![CDATA[local economics]]></category>
+		<category><![CDATA[safety net]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/even-critics-of-the-safety-net.html</guid>
+		<description><![CDATA[This article in the New York Times (Even critics of the Safety Net) presents a gentle desription of some voter feelings about the political and economic &#8216;issues&#8217; of this economy and election. I have a lot of different feelings about the description of people interviewed. The current media surrounding the election campaigning does not allow [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This article in the New York Times (<a href="http://www.nytimes.com/2012/02/12/us/even-critics-of-safety-net-increasingly-depend-on-it.html?pagewanted=1" target="_blank">Even critics of the Safety Net</a>) presents a gentle desription of some voter feelings about the political and economic &#8216;issues&#8217; of this economy and election. I have a lot of different feelings about the description of people interviewed.  The current media surrounding the election campaigning does not allow for voter foibles and confusions, and appears to demand stark responses so far.  I do wish the author could have pressed for more thinking on the part of the people interviewed to illustrate how such ambivalence plays out in real life.</p>
+<p><strong>Update</strong>:  I will have a post taking a look at the author&#8217;s writing, which is actually a piece of propaganda if you follow the statements of &#8216;fact&#8217; and lack of easily added context for the figures and stated problems.  Hence the author chose (or the editors, perhaps) instead  to promote the confusions without educating readers or those interviewed.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/even-critics-of-the-safety-net.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Duncan Black, Ph.D. who Specializes in the Economies of Cities, Explains It All to You</title>
+		<link>./../../2011/01/duncan-black-ph-d-who-specializes-in-the-economies-of-cities-explains-it-all-to-you.html</link>
+		<comments>./../../2011/01/duncan-black-ph-d-who-specializes-in-the-economies-of-cities-explains-it-all-to-you.html#respond</comments>
+		<pubDate>Tue, 04 Jan 2011 05:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[entitlements reform]]></category>
+		<category><![CDATA[frames]]></category>
+		<category><![CDATA[Idiocy]]></category>
+		<category><![CDATA[safety net]]></category>
+		<category><![CDATA[social security]]></category>
+		<category><![CDATA[Tim Duy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/duncan-black-ph-d-who-specializes-in-the-economies-of-cities-explains-it-all-to-you.html</guid>
+		<description><![CDATA[Bruce has made this point repeatedly. Dr. Black puts it in more direct language: [I]nevitably the Social Security Trustees will, perfectly justifiably, tweak a few assumptions about future economic activity so that there will be a DOOM scenario, an EVERYTHING&#8217;S AWESOME scenario, and a &#8220;uh oh maybe in about 40 years we will have a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Bruce has made this point repeatedly.  Dr. Black <a href="http://www.eschatonblog.com/2011/01/social-security-will-never-be-in.html">puts it in more direct language</a>:<br />
+<blockquote>[I]nevitably the Social Security Trustees will, perfectly justifiably, tweak a few assumptions about future economic activity so that there will be a DOOM scenario, an EVERYTHING&#8217;S AWESOME scenario, and a &#8220;uh oh maybe in about 40 years we will have a problem&#8221; scenario. And then Fred Hiatt will print another million ZOMG WE MUST DESTROY SOCIAL SECURITY NOW IN ORDER TO SAVE IT FORTY YEARS FROM NOW columns and some future president will marvel at those worthless IOUS and blah blah blah.</p>
+<p>We know how this works.</p></blockquote>
+<p>And the <a href="http://delong.typepad.com/sdj/2011/01/yes-gene-sperling-really-is-a-liberal.html">Sensible</a> <a href="http://motherjones.com/kevin-drum/2011/01/doing-deal-social-security">Centrists</a>* are gathering behind someone who <a href="http://digbysblog.blogspot.com/2011/01/good-liberal.html">wants to do just that</a>.</p>
+<p>When <a href="http://capitalgainsandgames.com/blog/andrew-samwick/2093/he-worked-goldman-sachs-he-didnt-inhale">the Voice in the Wilderness is Andrew Samwick</a> (who is at least honest about his willingness to steal from the Trust Fund), two things are certain:
+<ol>
+<li>Jason Furman should work on his c.v., and</li>
+<li>Even as only Nixon could go to China (because only Nixon was enough of a bastard to sacrifice Tibet to Chou En-Lai), only the Obama Administration can turn the Social Safety Net into something the Republicans &#8220;saved&#8221; (by making it look like <a href="http://www.google.com/imgres?imgurl=http://www.theoccidentalobserver.net/authors/Dresden.jpg&#038;imgrefurl=http://www.theoccidentalobserver.net/authors/Sunic-RaceIV.html&#038;h=326&#038;w=433&#038;sz=30&#038;tbnid=gWVHTMDiqBqv0M:&#038;tbnh=95&#038;tbnw=126&#038;prev=/images%3Fq%3Ddresden%2Bafter%2Bbombing&#038;zoom=1&#038;q=dresden+after+bombing&#038;hl=en&#038;usg=__6rrSDlo3mtcn4Q8ANGKD6QKWt4I=&#038;sa=X&#038;ei=cpkiTbXQAYWBlAea6tWLDA&#038;sqi=2&#038;ved=0CCkQ9QEwAw">Dresden</a>).</li>
+</ol>
+<p>UPDATE: Tim Duy at his branch of Ecoonomist&#8217;s View <a href="http://economistsview.typepad.com/timduy/2011/01/what-is-rubins-legacy.html">piles on</a> (h/t <a href="http://www.interfluidity.com/">Steve Randy Waldman</a>&#8216;s Twitter feed, or maybe <a href="http://blogs.reuters.com/felix-salmon/">Felix Salmon</a>&#8216;s), giving the lie to whatever was left of the DeLong argument that being left of a cadre of Bob Rubins makes one a &#8220;liberal.&#8221;  Pull quote:<br />
+<blockquote>The strong Dollar policy takes shape in 1995.  At that point, Rubin made it clear that the rest of the world was free to manipulate the value of the US Dollar to pursue their own mercantilist interests.  This should have been more obvious at the time given that China was last named a currency manipulator was 1994, but the immensity of that decision was lost as the tech boom engulfed America.</p>
+<p>Moreover, Rubin adds insult to injury in the Asian Financial Crisis, by using the IMF as a club to enact far reaching reforms on nations seeking aid.  The lesson learned &#8211; never, ever run a current account deficit.  Accumulating massive reserves is the absolute only way to guarantee you can always tell the nice men from the IMF and the US Treasury to get off your front porch.</p></blockquote>
+<p>Go <a href="http://economistsview.typepad.com/timduy/2011/01/what-is-rubins-legacy.html">Read the Whole Thing</a>.</p>
+<p><em>Full Disclosure Update</em>: Bob Rubin&#8217;s son is a college classmate of mine.  Haven&#8217;t really seen him in the past not-quite-thirty years.</p>
+<p>*I&#8217;m 99.44% certain those are assigned correctly. The Sensible one thinks that &#8220;attempt[ing] to push Clinton administration economic policy a little further to the left&#8221; was a Liberal position, while the Centrist is stupid enough not to believe people who have said for years that they intend to pick his pocket have something valuable to contribute to a discussion of his welfare, and does not remember that he lived through a decade when &#8220;the program [was] officially in balance.&#8221;</p>
+<p>If H*ll exists as a form of reincarnation, my next life will be spent as a Centrist. If all my sins are venial and Purgatory awaits, I could live with being Sensible. At least until my neighbors <a href="http://delong.typepad.com/sdj/2011/01/post-christmas-shopping-in-the-wc.html">couldn&#8217;t send their academically-achieving issue to college for purely monetary reasons</a>, after which point I would consider <a href="http://delong.typepad.com/sdj/2011/01/welcome-to-the-teens.html">this post</a> to be rampant optimism.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/duncan-black-ph-d-who-specializes-in-the-economies-of-cities-explains-it-all-to-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Economics of History, Douthat-Style</title>
+		<link>./../../2011/01/the-economics-of-history-douthat-style.html</link>
+		<comments>./../../2011/01/the-economics-of-history-douthat-style.html#respond</comments>
+		<pubDate>Mon, 03 Jan 2011 21:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[demographics]]></category>
+		<category><![CDATA[human capital]]></category>
+		<category><![CDATA[Idiocy]]></category>
+		<category><![CDATA[NYT]]></category>
+		<category><![CDATA[Ross Douthat]]></category>
+		<category><![CDATA[safety net]]></category>
+		<category><![CDATA[social science]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/the-economics-of-history-douthat-style.html</guid>
+		<description><![CDATA[I try not to pay attention—and not provide a direct link—to the NYT&#8217;s Stupidest Conservative. It&#8217;s one of the greatest advantages of having Susan of Texas around: you can go there and see anything I might write, done better, and (in this case) with cute graphics. But when Brad DeLong falls down on the job—dealing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I try not to pay attention—and not provide a direct link—to the NYT&#8217;s Stupidest Conservative. It&#8217;s one of the greatest advantages of having Susan of Texas around: you can go there and see <a href="http://agonyin8fits.blogspot.com/2011/01/every-sperm-is-ross-douthat-waiting-to.html">anything I might write, done better, and (in this case) with cute graphics</a>.</p>
+<p>But when Brad DeLong <a href="http://delong.typepad.com/sdj/2011/01/ross-douthat-on-the-shortage-of-white-babies.html">falls down on the job</a>—dealing well with the social, but not at all with the economic, aspect—it is time to go once (and, I hope, only once) into the breach.</p>
+<p>Douthat, as <a href="http://delong.typepad.com/sdj/2011/01/ross-douthat-on-the-shortage-of-white-babies.html">quoted by DeLong</a>:<br />
+<blockquote>Prior to 1973, 20 percent of births to white, unmarried women (and 9 percent of unwed births over all) led to an adoption. Today, just 1 percent of babies born to unwed mothers are adopted, and would-be adoptive parents face a waiting list that has lengthened beyond reason.</p></blockquote>
+<p>First thing to note: these are not necessarily comparable sets, for reasons detailed by <a href="http://pandagon.net/index.php/site/comments/why_being_anti_choice_is_misogynist_period/">Amanda Marcotte</a> (op. cit. DeLong as well). Since the babies of today are conceived more voluntarily (in concept; <a href="http://www.angrybearblog.com/2011/01/rich-stay-healthy-sick-stay-poor.html">my perpetual caveat about access</a> certainly abides here), you would expect those <em>eligible</em> to be adopted to decline as well. That is, the 19% drop (or 95% drop in percentage terms) in white babies being adopted (or maybe it&#8217;s a 8% drop from 9% to 1%, which would be 89% in percentage terms) is the effect you would expect with fewer &#8220;unwanted&#8221; births. People don&#8217;t offer children for adoption unless they can&#8217;t raise them.</p>
+<p>So Douthat&#8217;s statistics do, if anything, show that overall life is <em><strong>improved</strong></em> since 1973. We can agree that fewer unwanted babies is a good thing, no?</p>
+<p>But if I&#8217;m reading Douthat&#8217;s prose correctly, there&#8217;s a far greater structural problem. Concentrating only on &#8220;white&#8221; babies— that is, conceding that Douthat is considering a bare majority, if that, of the country—we see that the system he fondly remembers <em>produced a 20% surplus of children born out of wedlock for whom the state or its equivalents needed to care</em>.</p>
+<p>Even ignoring the conditions under which many of those births occurred, that basically means that for one in every five children born out of wedlock, <em>no more than</em> four were successfully adopted.</p>
+<p>The odds are that the ratio is much higher: after all, &#8220;births to white, unmarried women&#8221; is a large set. Some of those were likely by choice. Some of those likely were followed soon thereafter by marriage. Some of them had &#8220;pre-arranged&#8221; adoption within the family (or <em>de facto</em> adoption by the woman&#8217;s extended family; see Palin, Bristol, for a contemporary example).</p>
+<p>I don&#8217;t know the numbers, but if you told me that the above accounted for slightly more than half of the category, I wouldn&#8217;t be surprised.</p>
+<p>But that leaves about 40% of those babies needing to be adopted. And by Douthat&#8217;s own data, only 20% of them were.</p>
+<p>So the <strong>best-case scenario</strong> is that, for each one of us who was adopted, there was a minimum of 1/4 of a person who wasn&#8217;t—and probably closer to a 1:1 ratio.</p>
+<p>In Douthat&#8217;s world, women are supposed to feel guilty <em>ex post</em> because they made a decision. Does that mean that adoptees in the U.S. are supposed to feel guilty because they were adopted and someone else wasn&#8217;t? Or that our parents should feel guilty because they chose us, and not someone else?</p>
+<p>From an economic analysis, the pre-1973 situation was one of significant excess supply, and the current 1% adoption rate is beneficial to the chances of a potential adoptee being adopted, while the &#8220;would-be adoptive parents [who] face a waiting list&#8221; have both an abundant opportunity to provide a relatively better lifestyle for children born in developing economies and to take interim steps such as fostering to ensure that they really want to change their lifestyle enough to raise children.</p>
+<p>No economist in his right mind would consider the pre-1973 environment romanced by Douthat to be more optimal than the current one, unless he really loves human suffering and wasting human capital.</p>
+<p>UPDATE: Tom Levenson at Balloon Juice <a href="http://www.balloon-juice.com/2011/01/05/further-to-douthat-babies-babies-everywhere/">went out and found some numbers</a> that—to no one&#8217;s surprise, I trust—don&#8217;t support Douthat&#8217;s Delusion either.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/the-economics-of-history-douthat-style.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Rich Stay Healthy, the Sick Stay Poor</title>
+		<link>./../../2011/01/the-rich-stay-healthy-the-sick-stay-poor.html</link>
+		<comments>./../../2011/01/the-rich-stay-healthy-the-sick-stay-poor.html#respond</comments>
+		<pubDate>Sun, 02 Jan 2011 18:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic development]]></category>
+		<category><![CDATA[Health care costs]]></category>
+		<category><![CDATA[health care thoughts]]></category>
+		<category><![CDATA[human capital]]></category>
+		<category><![CDATA[just life]]></category>
+		<category><![CDATA[safety net]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/the-rich-stay-healthy-the-sick-stay-poor.html</guid>
+		<description><![CDATA[Health and Economic Development Primer in one easy lesson (via SocProf&#8217;s Twitter feed): This is not surprising to see the contrast between the prosperous (at least until now) areas, in green where chronic illnesses prevail but are diseases tied to aging, as opposed to the semi-periphery and periphery where infectious / parasitic diseases are prevalent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Health and Economic Development Primer <a href="http://globalsociology.com/2011/01/02/the-visual-du-jour-live-long-and-prosper-prosper-and-live-long/">in one easy lesson</a> (via SocProf&#8217;s Twitter feed):<br />
+<blockquote>This is not surprising to see the contrast between the prosperous (at least until now) areas, in green where chronic illnesses prevail but are diseases tied to aging, as opposed to the semi-periphery and periphery where infectious / parasitic diseases are prevalent along with accidental deaths. Obviously, to be born and live in a prosperous society makes life more secure on different levels.</p></blockquote>
+<p>Extending lifespans and expanding health has been, for the most part, a Macro story of discontinuities.</p>
+<p>The rise of vaccines (with a possible contribution from the coincident rise of people getting a high school education) got the Developed World to the point where Major Organ Failure became a primary factor.</p>
+<p>Lungs are first: pneumonia and tuberculosis don&#8217;t kill the young so often as they did. (Vaccines, testing).</p>
+<p>The heart was next.  Major advances in the immediate post-WW II (what the Europeans tend to call &#8220;post-war&#8221;) period—up to and through transplants and ever-advancing bypass surgeries—made it more difficult to die because your heart was weak or flawed.</p>
+<p>The next step is the brain; rather more problematic, though progress gets made.</p>
+<p>Note that the key assumption in all of the above is access to and use of the available advances. In a system that <em>de facto</em> rations by ability to pay (the U.S.), there is a greater likelihood that the rich will live longer—or, more accurately, that the poor will die unnecessarily sooner.  Which is <a href="http://www.cbo.gov/ftpdocs/91xx/doc9104/LifeExpectancy_Brief.1.1.shtml">what has been happening</a>.</p>
+<p>This post dedicated to the memory of Isaac Asimov, who survived a heart attack for fifteen years and a triple-bypass that gave him nine more years of writing (<a href="http://en.wikipedia.org/wiki/Isaac_Asimov#Illness_and_death">though with collateral effects that would not occur today</a>).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/the-rich-stay-healthy-the-sick-stay-poor.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Maybe Songsmith isn&#8217;t Completely Useless after all</title>
+		<link>./../../2009/02/maybe-songsmith-isnt-completely-useless-after-all.html</link>
+		<comments>./../../2009/02/maybe-songsmith-isnt-completely-useless-after-all.html#respond</comments>
+		<pubDate>Sun, 08 Feb 2009 16:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[Mankiw]]></category>
+		<category><![CDATA[MSFT]]></category>
+		<category><![CDATA[safety net]]></category>
+		<category><![CDATA[social security]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/maybe-songsmith-isnt-completely-useless-after-all.html</guid>
+		<description><![CDATA[After the first round, I was convinced that Microsoft&#8217;s songsmith was at best, a way to produce mash-ups for the tonally impaired. Kieran Healy has convinced me otherwise, with this piece: capitalism in action, set to music: I believe this is what we meant when we talked about &#8220;creative destruction,&#8221; back in the days when [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After the first round, I was convinced that Microsoft&#8217;s songsmith was at best, a way to produce mash-ups for the tonally impaired.</p>
+<p><a href="http://www.kieranhealy.org/blog/archives/2009/02/05/paging-richard-macduff/">Kieran Healy has convinced me otherwise</a>, with this piece: capitalism in action, set to music:<br />
+
+</p>
+<p>I believe this is what we meant when we talked about &#8220;creative destruction,&#8221; back in the days when economists <a href="http://gregmankiw.blogspot.com/2009/02/my-preferred-fiscal-stimulus.html">weren&#8217;t just trying to eviscerate the safety net to &#8220;balance&#8221; the budget</a> (and whose <a href="http://outsidetheinterzone.blogspot.com/2009/02/8-years-of-tax-cuts.html">previous efforts worked so well</a> we should certainly have faith in their current proclamations).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/maybe-songsmith-isnt-completely-useless-after-all.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Welfare Reform not a Disaster, Interlude; or What Do We Mean When We Say Aid</title>
+		<link>./../../2009/02/welfare-reform-not-a-disaster-interlude-or-what-do-we-mean-when-we-say-aid.html</link>
+		<comments>./../../2009/02/welfare-reform-not-a-disaster-interlude-or-what-do-we-mean-when-we-say-aid.html#respond</comments>
+		<pubDate>Tue, 03 Feb 2009 05:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Clinton]]></category>
+		<category><![CDATA[economic development]]></category>
+		<category><![CDATA[multiplier]]></category>
+		<category><![CDATA[safety net]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/welfare-reform-not-a-disaster-interlude-or-what-do-we-mean-when-we-say-aid.html</guid>
+		<description><![CDATA[Those of you who want to argue that something being &#8220;just symbolism&#8221; are invited to consider the fate of &#8220;Aid to Families with Dependent Children.&#8221; AFDC is clear and precise. It tells us that we are helping a specific set of people: Families with Dependent Children. Not just the father and the mother, but the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Those of you who want to argue that something being &#8220;just symbolism&#8221; are invited to consider the fate of &#8220;Aid to Families with Dependent Children.&#8221;</p>
+<p>AFDC is clear and precise.  It tells us that we are helping a specific set of people: Families with Dependent Children.  Not just the father and the mother, but the next generation of human capital as well.  The people who are supposed to be the cogs in the engine of capitalism.</p>
+<p>A funny thing happened on the way out of &#8220;welfare reform&#8221; (discussed by Robert <a target="blank" href="http://angrybear.blogspot.com/2009/01/welfare-reform-not-disaster.html">here</a> and <a target="blank" href="http://angrybear.blogspot.com/2009/02/welfare-reform-not-disaster-part-ii.html">here</a>): the program got renamed to &#8220;Temporary Assistance for Needy Families.&#8221;  Note that the emphasis is now on the transience of the assistance, and the families are described as &#8220;needy&#8221; before they are families. No mention of children at all; might well be great-grandma and a bunch of septagenerians living on their Social Security checks and whatever they stuffed under the mattress in the manner of <a target="blank" href="http://www.newyorker.com/arts/critics/books/2007/07/02/070702crbo_books_updike?currentPage=all">John Updike&#8217;s father</a>.*</p>
+<p>Another &#8220;funny&#8221; thing that happens on the way through welfare reform is that state block grants lead to strange allocations.</p>
+<p>There is a version of this in international development; let&#8217;s call it the Easterly Paradox.**  Generally, what you do is look at the aid a country officially received over the past X number of years (X generally >20) and declared with a Harumph! that, if the people had been given that money directly, they would have $XX,XXX each.</p>
+<p>What you don&#8217;t bother mentioning is that 85-90% of that money—75% if the country is extremely lucky—went to domestic supppliers of &#8220;intellectual property.&#8221;  That is, it went to U.S. management consulting teams (generally at full retail) who &#8220;taught&#8221; people their method of irrigation or record-keeping or something else that was essential.***</p>
+<p>Short version: our foreign aid budget subsidizes domestic firms significantly more than it produces actual foreign aid.</p>
+<p>You would think, though, that the same thing would not happen domestically.  But it appears you would be wrong.</p>
+<p>Using the recently-released <a href="http://www.census.gov/prod/www/abs/statab2006_2009.html">Statistical Abstract data</a>, following are graphic displays of the amount of money allocated to TANF that was actually spent as aid from 2003 to 2006. (Click individual graphics to enlarge.)</p>
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SXTVXp6hAeI/AAAAAAAAAQI/jhwXt3lB6B4/s1600-h/tanfavg20032006.JPG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SXTVXp6hAeI/AAAAAAAAAQI/jhwXt3lB6B4/s400/tanfavg20032006.JPG" border="0" alt=""></a>
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SXTVXWFfPZI/AAAAAAAAAQA/iG8xCuHYNgc/s1600-h/tanf2006.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SXTVXWFfPZI/AAAAAAAAAQA/iG8xCuHYNgc/s400/tanf2006.JPG" border="0" alt=""></a></p>
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SXTVXClxaaI/AAAAAAAAAP4/GUGguU42LA4/s1600-h/tanf2005.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SXTVXClxaaI/AAAAAAAAAP4/GUGguU42LA4/s400/tanf2005.JPG" border="0" alt=""></a></p>
+<p>Note: The following graphic is accurate.  The state of Mississippi in 2004 spent a <em>negative</em> US$7MM on TANF aid.</p>
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SXTVW9W1Y-I/AAAAAAAAAPw/qFzOIrj6_Ow/s1600-h/tanf2004.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SXTVW9W1Y-I/AAAAAAAAAPw/qFzOIrj6_Ow/s400/tanf2004.JPG" border="0" alt=""></a></p>
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SXTVWVGFzHI/AAAAAAAAAPo/6uMgV8Y4Y3I/s1600-h/tanf2003.JPG"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SXTVWVGFzHI/AAAAAAAAAPo/6uMgV8Y4Y3I/s400/tanf2003.JPG" border="0" alt=""></a></p>
+<p>In summary, for the four years of most recent data, the U.S. has averaged spending less than 50% of the monies allocated to TANF on providing actual Assistance to Needy Families.</p>
+<p>The next time someone tells you we spend too much money on helping people, point out that most of that money goes to people who are employed as administrators, counselor, and finance officers.</p>
+<p>*Let&#8217;s ignore the anecdotal evidence that, if there was one reason that Naderites kept citing for their opposition to Gore, it was &#8220;welfare reform.&#8221;</p>
+<p>**Pause while three people get <a href="http://en.wikipedia.org/wiki/Easterlin_paradox">the joke</a>.</p>
+<p>***See Paul O&#8217;Neill&#8217;s exasperation in Ron Susskind&#8217;s <em>The Price of Loyalty</em> when he tried to explain that transporting water to a village on a small scale would cost $25,000, not the $25MM-ish that Arthur Andersen had told the local leaders.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/welfare-reform-not-a-disaster-interlude-or-what-do-we-mean-when-we-say-aid.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

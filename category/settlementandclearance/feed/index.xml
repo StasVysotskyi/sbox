@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SettlementandClearance &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Markets and Liquidity, Part 1 of Many</title>
+		<link>./../../2010/10/markets-and-liquidity-part-1-of-many.html</link>
+		<comments>./../../2010/10/markets-and-liquidity-part-1-of-many.html#respond</comments>
+		<pubDate>Tue, 12 Oct 2010 19:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[SettlementandClearance]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/markets-and-liquidity-part-1-of-many.html</guid>
+		<description><![CDATA[I&#8217;ve been working on White Paper on Liquidity and the idea of a &#8220;market,&#8221; and plan to post some pieces of it here over the next week or so. But this is too good to pass up, and I&#8217;m late to the game as is. On 15 September, the CFTC and the SEC held a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been working on White Paper on Liquidity and the idea of a &#8220;market,&#8221; and plan to post some pieces of it here over the next week or so.</p>
+<p>But this is too good to pass up, and I&#8217;m late to the game as is.</p>
+<p>On 15 September, the CFTC and the SEC held a joint &#8220;public roundtable discussion&#8221; on Swap Execution Facilities (SEFs).  Part 1 is <a href="http://www.sec.gov/news/openmeetings/2010/jac091510-panel1.asx">here</a>, Part 2 <a href="http://www.sec.gov/news/openmeetings/2010/jac091510-panel2.asx">here</a>.</p>
+<p>What is most amazing, if you didn&#8217;t pay attention to the markets, is how few actual transactions occur in the &#8220;derivatives market&#8221;—at least according to people who work in the Industry and are discussants.</p>
+<p>Take, for example, the Credit Swaps Market. According to ISDA, the <a href="http://www.bloomberg.com/apps/news?sid=a4AtVMqwawtc&#038;pid=newsarchive">Credit Default Swaps Market in 2009 declined to $38.6 trillion</a>; that&#8217;s $38,600,000,000,000, give or take forty or fifty billion.<br /><a name="more"></a></p>
+<p>Sounds like a lot, no? Strangely, there&#8217;s virtually no liquidity associated with that $38.6T. According to the testimony in Part 1, the most frequently traded CDS—GE, presumably because they bring good things to life (or at least have DoD contracts)—trades around 15 times a day.  That might be impressive for a penny stock, but it&#8217;s not exactly the type of thing that makes you think &#8220;Wow, that&#8217;s a market!&#8221;</p>
+<p>The implications are clear: the bid-offer will be wide (think FX rates from your local bank, or gold prices from <a href="http://www.ritholtz.com/blog/2010/07/glenn-beck-goldline/">Goldline</a>), the loss when one tries to get out of the trade makes &#8220;driving a new car off the lot&#8221; look like a blip, and any dispute will be resolved against your favor.</p>
+<p>In short, there is—and should be—very little retail demand for these products, for very good reason.  Paul Volcker&#8217;s description of <a href="http://blogs.wsj.com/marketbeat/2009/12/08/volcker-praises-the-atm-blasts-finance-execs-experts/">the ATM as the only financial innovation in the past 25 years that helped people</a> has never seemed so true.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/markets-and-liquidity-part-1-of-many.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

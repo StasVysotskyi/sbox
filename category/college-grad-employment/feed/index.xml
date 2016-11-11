@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>college grad employment &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>No jobs for college grads</title>
+		<link>./../../2012/05/no-jobs-for-college-grads.html</link>
+		<comments>./../../2012/05/no-jobs-for-college-grads.html#respond</comments>
+		<pubDate>Tue, 08 May 2012 11:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[college grad employment]]></category>
+		<category><![CDATA[EPI]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/no-jobs-for-college-grads.html</guid>
+		<description><![CDATA[No jobs for college grads.  A report from the Economic Policy Institute shows that recent college graduates who will be eligible to cast their first votes in a presidential election are unable to find jobs. According to the report, unemployment for young college graduates was 10.4% in 2010, and the underemployment rate was 19.8%. For young [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No jobs for college grads.</p>
+<p> A <a href="http://www.epi.org/files/2012/bp340-labor-market-young-graduates.pdf">report</a> from the <a href="http://www.epi.org/publication/bp340-labor-market-young-graduates/">Economic Policy Institute</a> shows that recent college graduates who will be eligible to cast their first votes in a presidential election are unable to find jobs. According to the report, unemployment for young college graduates was 10.4% in 2010, and the underemployment rate was 19.8%. For young high school graduates, the statistics were even grimmer: unemployment was 32.7% in 2010, and the underemployment rate was 55.9%.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/no-jobs-for-college-grads.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

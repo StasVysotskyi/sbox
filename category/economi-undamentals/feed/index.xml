@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economi undamentals &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dylan Ratigan Town Hall Session on Jobs, Innovation</title>
+		<link>./../../2011/01/dylan-ratigan-town-hall-session-on-jobs-innovation.html</link>
+		<comments>./../../2011/01/dylan-ratigan-town-hall-session-on-jobs-innovation.html#respond</comments>
+		<pubDate>Sat, 29 Jan 2011 01:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economi undamentals]]></category>
+		<category><![CDATA[innovation]]></category>
+		<category><![CDATA[jpbs]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/dylan-ratigan-town-hall-session-on-jobs-innovation.html</guid>
+		<description><![CDATA[Hat tip Yves Smith for pointing us to this: 8 PM EST Watch Dylan Ratigan Town Hall Session on Jobs, Innovation Check in here at 8 PM to watch the Dylan Ratigan “Innovation in America” panel discussion as part of its Steel On Wheels Tour tonight at 8pm EST at the University of Denver. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hat tip Yves Smith for pointing us to this:</p>
+<p><a target="_blank" href="http://www.nakedcapitalism.com/2011/01/8-pm-est-watch-dylan-ratigan-town-hall-session-on-jobs-innovation.html">8 PM EST Watch Dylan Ratigan Town Hall Session on Jobs, Innovation</a></p>
+<blockquote><p>Check in here at 8 PM to watch the Dylan Ratigan “Innovation in America” panel discussion as part of its Steel On Wheels Tour tonight at 8pm EST at the University of Denver.</p>
+<p>The panel will include Andrew Jenks, from MTV’s World of Jenks, Nicole Glaros, Managing Director of TechStars Boulder, and Matt Miller of The Washington Post and host of Left, Right &#038; Center.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/dylan-ratigan-town-hall-session-on-jobs-innovation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

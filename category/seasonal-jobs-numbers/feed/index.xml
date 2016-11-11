@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>seasonal jobs numbers &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Jobs reporting…gained and lost confusions</title>
+		<link>./../../2012/08/jobs-reportinggained-and-lost-confusions.html</link>
+		<comments>./../../2012/08/jobs-reportinggained-and-lost-confusions.html#respond</comments>
+		<pubDate>Mon, 06 Aug 2012 13:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bill McBride]]></category>
+		<category><![CDATA[Brad Plummer]]></category>
+		<category><![CDATA[seasonal jobs numbers]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/jobs-reportinggained-and-lost-confusions.html</guid>
+		<description><![CDATA[I noticed in comments on Spencer England&#8217;s post for this month&#8217;s Employment Situation that the 1.2 million jobs lost number was put forth as fact and a reason to dismiss BLS numbers outright. Links to a more careful and complete look at the numbers follows: Brad Plummer at the WaPo discusses two issues with employment [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I noticed in comments on Spencer England&#8217;s post for this month&#8217;s Employment Situation that the 1.2 million jobs lost number was put forth as fact and a reason to dismiss BLS numbers outright.  Links to a more careful and complete look at the numbers follows:</p>
+<p>Brad Plummer at the WaPo discusses two issues with employment and seasonal factors: <a href="http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/08/05/wait-the-u-s-economy-actually-lost-1-2-million-jobs-in-july/">Wait, the U.S. economy actually lost 1.2 million jobs in July?</a></p>
+<p>Bill McBride at Calculated Risk adds his own analysis and charts in this post&#8230;<a href="http://www.calculatedriskblog.com/2012/08/payroll-employment-and-seasonal-factors.html">Payroll Employment and Seasonal Factors</a></p>
+<p>Take the time to note limits as well as information gained in this very general number used for many different reasons&#8230;.there is also a lot of data available to see trends within the aggregated number.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/jobs-reportinggained-and-lost-confusions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

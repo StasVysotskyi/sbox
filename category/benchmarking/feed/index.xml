@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>benchmarking &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Cozy peer benchmarking&#8230; Ceo pay soars</title>
+		<link>./../../2011/10/cozy-peer-benchmarking-ceo-pay-soars.html</link>
+		<comments>./../../2011/10/cozy-peer-benchmarking-ceo-pay-soars.html#respond</comments>
+		<pubDate>Mon, 10 Oct 2011 09:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[benchmarking]]></category>
+		<category><![CDATA[ceo pay]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/cozy-peer-benchmarking-ceo-pay-soars.html</guid>
+		<description><![CDATA[The practice of ‘peer benchmarking’ and cozy relationships on executive boards have contributed to a steep rise in CEO pay since the 1970s, reports Peter Whoriskey in The Washington Post’s latest “Breakaway Wealth” report. Pay data 2010.]]></description>
+				<content:encoded><![CDATA[<p>The practice of ‘peer benchmarking’ and cozy relationships on executive boards have contributed to a steep rise in CEO pay since the 1970s, reports Peter Whoriskey in The Washington Post’s latest <a target="_blank" href="http://www.washingtonpost.com/business/economy/cozy-relationships-and-peer-benchmarking-send-ceos-pay-soaring/2011/09/22/gIQAgq8NJL_story.html">“Breakaway Wealth” report</a>.</p>
+<p><a target="_blank" href="http://www.washingtonpost.com/wp-srv/business/pay-database/index.html">Pay data</a> 2010.</p>
+<p><a href="http://4.bp.blogspot.com/-t58wreYNVf4/TpLjkMF7VNI/AAAAAAAAAvI/FdexiDzN1tQ/s1600/ceopay.jpg"><img src="http://4.bp.blogspot.com/-t58wreYNVf4/TpLjkMF7VNI/AAAAAAAAAvI/FdexiDzN1tQ/s320/ceopay.jpg" border="0" alt=""></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/cozy-peer-benchmarking-ceo-pay-soars.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

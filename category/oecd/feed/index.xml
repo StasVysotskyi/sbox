@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OECD &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Measuring trade deficits and trade flows value</title>
+		<link>./../../2013/01/measuring-trade-deficits-and-trade-flows-value.html</link>
+		<comments>./../../2013/01/measuring-trade-deficits-and-trade-flows-value.html#respond</comments>
+		<pubDate>Wed, 16 Jan 2013 14:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[OECD]]></category>
+		<category><![CDATA[trade deficit]]></category>
+		<category><![CDATA[value added trade]]></category>
+		<category><![CDATA[WTO]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/measuring-trade-deficits-and-trade-flows-value.html</guid>
+		<description><![CDATA[The Washington Post calls attention to changes in measuring international trade values: The U.S. trade deficit with China may be much smaller than thought according to new trade measurements that capture the flow of raw materials and intermediate goods as they work their way around the world into final products. In a significant revision to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The <a target="_blank" href="http://www.washingtonpost.com/business/economy/us-china-deficit-may-be-lower-than-thought/2013/01/16/d474122a-5f5f-11e2-9940-6fc488f3fecd_story.html?wprss=rss_economy&#038;tid=pp_widget">Washington Post</a> calls attention to changes in measuring international trade values:</p>
+<blockquote><p>The U.S. trade deficit with China may be much smaller than thought according to new trade measurements that capture the flow of raw materials and intermediate goods as they work their way around the world into final products.</p>
+<p>In a significant revision to economic record keeping the Organization for Economic Cooperation and Development and the World Trade Organization have patched together international databases that show not just the value of final goods trading hands between countries – the traditional method of measuring imports and exports.</p>
+<p>Rather, they have tried to unpack each step that a good takes through what has become an increasingly fragmented global system – with raw materials from one country becoming steel in another, becoming a car part in a third, becoming a finished auto in a fourth that is then exported to a fifth.</p>
+<p>[snip]</p>
+<p>In releasing the study, the WTO and OECD highlighted how the data could influence the world trade agenda. They argue, for example, that the impact of tariffs around the world can’t be fully understood without looking at value chains, since a final product may include import duties from several different stops.</p>
+<p>Officials from the WTO and OECD plan to discuss their findings at a press conference on Wednesday. </p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/measuring-trade-deficits-and-trade-flows-value.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>U.S. Trails at Least 15 OECD Countries in Median Wealth</title>
+		<link>./../../2012/07/u-s-trails-at-least-15-oecd-countries-in-median-wealth.html</link>
+		<comments>./../../2012/07/u-s-trails-at-least-15-oecd-countries-in-median-wealth.html#respond</comments>
+		<pubDate>Fri, 20 Jul 2012 02:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[median wealth]]></category>
+		<category><![CDATA[OECD]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/u-s-trails-at-least-15-oecd-countries-in-median-wealth.html</guid>
+		<description><![CDATA[by Kenneth Thomas U.S. Trails at Least 15 OECD Countries in Median Wealth Via @exiledonline, I learned today (July 18) that Canadians are richer than Americans. This is rather surprising, since GDP per capita is higher in the U.S than in Canada.: $48,100 vs. $40,300 (at purchasing power parity or PPP), according to the CIA World [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Kenneth Thomas</p>
+<p>U.S. Trails at Least 15 OECD Countries in Median Wealth </p>
+<p>Via @exiledonline, I learned today (July 18) that Canadians are richer than Americans. This is rather surprising, since GDP per capita is higher in the U.S than in Canada.: $48,100 vs. $40,300 (at purchasing power parity or PPP), according to the <a href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/2004rank.html">CIA World Factbook</a>. But in fact things are much worse than that, as 15 OECD countries (plus Singapore and Taiwan) have higher median wealth than the U.S. does. There may even be more, as the Credit Suisse report I discuss below does not give median wealth data for several countries with higher mean wealth than the U.S.    </p>
+<p>Most reporting has been based on a story that was run in the <a href="http://www.theglobeandmail.com/commentary/canadians-are-richer-than-they-think/article4380634/">June 30th <i>Globe and Mail</i></a> claiming that average (mean) Canadian household wealth had reached $363,202 vs. just under $320,000 in the U.S. This is not a particularly informative statistic, however, since wealth is even more unevenly distributed than income, and income in the U.S. is already highly unequally distributed. What we really need is median net worth, i.e. the level at the exact middle of the net worth distribution in a country. G&#038;M commenter &#8220;TJMone&#8221; picks up that point, receiving an answer from &#8220;porkbarrel pundit&#8221;: a <a href="https://infocus.credit-suisse.com/data/_product_documents/_shop/324292/2011_global_wealth_report_databook.pdf">Credit Suisse report</a> from October 2011 (via <a href="http://lsminsurance.ca/life-insurance-canada/2011/12/canadas-net-worth-tops-the-united-states">LSM Insurance</a>), shows that the median net worth per adult in Canada was $89,014, compared to just $52,752 in the U.S. (all figures in U.S. dollars).    </p>
+<p>American reporting based on the study in the G&#038;M did not start until 18 days later, when <a href="http://www.usnews.com/news/articles/2012/07/18/for-the-first-time-canadians-now-richer-than-americans">an article</a> in <i>U.S. News &#038; World Report</i> picked it up (Canadians are right: no one in the U.S. is paying attention to them). Moreover, no one picked up on the much better data in the Credit Suisse report until later in the day, when <a href="http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/07/18/are-canadians-richer-than-americans/">Dylan Matthews</a> at Wonkblog wrote a great story on it (there are many high-quality comments, too). It turns out that lots of OECD countries, including economic basket cases Italy, Spain, and Ireland, have higher median wealth than we do. See the chart below:</p>
+<p><img alt="http://www.washingtonpost.com/blogs/ezra-klein/files/2012/07/medianwealth.jpg" height="480" src="http://www.washingtonpost.com/blogs/ezra-klein/files/2012/07/medianwealth.jpg" width="640"><br />Source: Dylan Matthews, based on data from Credit Suisse    </p>
+<p><a name="more"></a></p>
+<p>It is mind boggling that median Australian net wealth per adult is four times that of the U.S., and Italy is three times as high. Ireland and Spain, meanwhile, are also higher despite having housing busts similar to that in the United States. What is going on here?    </p>
+<p>Part of the answer is more equal income distribution. According to the Credit Suisse report, mean wealth per adult is just shy of 5 times median wealth in the U.S., whereas in Canada it&#8217;s a little less than a 3:1 ratio (see Table 7-1). Other countries with higher median but lower mean net worth per adult are Taiwan, Finland, Germany, Ireland, Israel, the Netherlands, New Zealand, and Spain. Australia has a higher mean net worth than the U.S., but its ratio of mean to median net worth per adult is less than 2:1.    </p>
+<p>Another part of the answer may be that in many other wealthy countries, households have less debt. If you remember <a href="http://sickothemovie.com/">Michael Moore&#8217;s movie</a> <i>Sicko</i>, in one scene he interviews an upper-middle class French family and asks them what debt they have. Their only significant debt is their mortgage, because they didn&#8217;t have to take out loans to go to college. The Credit Suisse report finds this pattern (unfortunately, only mean debt, not median debt). Mean debt per adult (see Table 2-4) is $59,362 in 2011 for the United States, whereas for France it is $40,873, Germany $33,424, and Italy only $24,291. Of course, this isn&#8217;t true of all countries: Ireland and Switzerland both have much higher mean debt per adult, but they also have about twice the median wealth per adult of the U.S.    </p>
+<p>This analysis is hardly exhaustive; I bet a good book could be written on the subject.    </p>
+<p>One final point: Matthews skewers the claim by <i>Globe and Mail</i> author Michael Adams (whose firm conducted the study discussed in his article) and later commenters on both sides of the border who accepted Adams&#8217; claim that this was a historical first. As he shows with U.S. and Canadian government data, Canada&#8217;s median household net worth was significantly higher in 2004-5, before the crisis, than here in the U.S. Given the huge disparities between the United States and some of the other countries, it is likely that net worth per adult has been higher in a number of these countries for quite some time. These data reflect trends that have been developing for a long time, and are not purely driven by the economic crisis or by any single set of policies. But they make for sobering reading, and deserve more than the superficial analysis most of the U.S. press has given them so far. Bravo to Matthews for a great piece of analysis.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/u-s-trails-at-least-15-oecd-countries-in-median-wealth.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The US unemployment rate: European levels without the European safety net</title>
+		<link>./../../2011/07/the-us-unemployment-rate-european-levels-without-the-european-safety-net.html</link>
+		<comments>./../../2011/07/the-us-unemployment-rate-european-levels-without-the-european-safety-net.html#respond</comments>
+		<pubDate>Sun, 10 Jul 2011 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[g7]]></category>
+		<category><![CDATA[labor markets]]></category>
+		<category><![CDATA[OECD]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/the-us-unemployment-rate-european-levels-without-the-european-safety-net.html</guid>
+		<description><![CDATA[Jobs growth is a lagging indicator of economic activity, so the June report confirms that the US economy has been in a deep rut (Marshall Auerback calls it a &#8216;fully-fledged New York City style pot hole&#8217;). Yes, the US economy is growing; but sub-2% really &#8216;feels&#8217; like stagnation, if not recession for many. As always, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jobs growth is a lagging indicator of economic activity, so the June report confirms that the US economy has been in a deep rut (Marshall Auerback calls it a <a href="http://neweconomicperspectives.blogspot.com/2011/07/time-to-panic-ii.html">&#8216;fully-fledged New York City style pot hole&#8217;</a>). Yes, the US economy is growing; but sub-2% really &#8216;feels&#8217; like stagnation, if not recession for many. As always, <a href="http://www.angrybearblog.com/2011/07/july-employment-situation.html">Spencer provides </a> a fantastic summary of the employment report here on AB: &#8216;bad news&#8217;, he says.</p>
+<p>I call it abysmal, both relative to history and on a cross section. The chart below illustrates the unemployment rates across the G7 spanning 1995 to 2011.</p>
+<p><a href="http://4.bp.blogspot.com/-XNfQYEInMw0/ThmkBEqsYII/AAAAAAAADwo/KSxNTWNEsOI/s1600/urate_chart.jpg"><img src="http://4.bp.blogspot.com/-XNfQYEInMw0/ThmkBEqsYII/AAAAAAAADwo/KSxNTWNEsOI/s400/urate_chart.jpg" border="0" alt=""></a>Across the G7 economies, the level of the US unemployment rate is second only to France. This is <a href="http://stats.oecd.org/index.aspx?queryid=251">true on a harmonized basis as well</a>.<br />READ MORE AFTER THE JUMP!<br /><a name="more"></a><br />The speed at which the US unemployment rate reached European levels was abrupt. Only the UK has seen such a swift deterioration in labor market conditions.</p>
+<p><a href="http://2.bp.blogspot.com/-0Lwi1HVbdw0/ThmkBDWyEcI/AAAAAAAADww/rmY4HlM_e8Q/s1600/urate_chart_indexed.jpg"><img src="http://2.bp.blogspot.com/-0Lwi1HVbdw0/ThmkBDWyEcI/AAAAAAAADww/rmY4HlM_e8Q/s400/urate_chart_indexed.jpg" border="0" alt=""></a>The chart above illustrates the same time series as in the first unemployment chart, but the rates are indexed to 2005 for comparability. France&#8217;s high level of unemployment is structural. In contrast, the US level of unemployment is NOT, not even close.</p>
+<p><a href="http://3.bp.blogspot.com/-HYF2uxrdMAo/ThnNRaiG1PI/AAAAAAAADxA/ld7YTr5i0pw/s1600/protection_index.jpg"><img src="http://3.bp.blogspot.com/-HYF2uxrdMAo/ThnNRaiG1PI/AAAAAAAADxA/ld7YTr5i0pw/s400/protection_index.jpg" border="0" alt=""></a>The chart above illustrates the components of the <a href="http://www.oecd.org/document/11/0,3746,en_2649_37457_42695243_1_1_1_37457,00.html">OECD&#8217;s indicators of employment protection</a>. Also, see a <a href="http://www.dallasfed.org/research/swe/2001/swe0105c.pdf">short note by the Dallas Fed</a> highlighting the differences between the French and US labor markets (and the <a href="http://www.oecd.org/dataoecd/42/51/1941679.pdf">1994 OECD jobs study</a>).</p>
+<p>The French labor market is quite rigid, which leads to a structurally elevated unemployment rate and expansive unemployment compensation (see <a href="http://www.dallasfed.org/research/swe/2001/swe0105c.pdf">this follow up </a>to the OECD 1994 jobs strategy report). The US Labor markets is much more fluid, which is why the unemployment rate has surged relative to comparable economies in Europe (see second chart).</p>
+<p>European levels of unemployment without the European safety net.</p>
+<p><a href="http://4.bp.blogspot.com/-sTTR9_EF1Sk/Thnod6MlOpI/AAAAAAAADxI/-7G6yxlv2r0/s1600/benefits_CHART.jpg"><img src="http://4.bp.blogspot.com/-sTTR9_EF1Sk/Thnod6MlOpI/AAAAAAAADxI/-7G6yxlv2r0/s400/benefits_CHART.jpg" border="0" alt=""></a>The chart illustrates the maximum number of months that a worker can claim unemployment insurance for the year 2007. In normal times, French workers can collect benefits for up to 23 months by law, where the US worker collects for just 6 months. The tax and benefit policies data are updated infrequently, and listed on the <a href="http://www.oecd.org/document/3/0,3746,en_2649_34637_39617987_1_1_1_1,00.html#statistics">OECD&#8217;s website</a> (<a href="http://www.oecd.org/dataoecd/38/16/44508994.xls">excel file link</a>).</p>
+<p>Seriously, shouldn&#8217;t Congress be focused on the depressed state of the US labor market, rather than a &#8216;scaled back&#8217; version of <a href="http://www.nytimes.com/2011/07/10/us/politics/10debt.html?hp">deficit cutting</a>? Addressing one will clearly impact the other &#8211; it goes both ways. Unfortunately, the government&#8217;s pushing in the wrong direction (cutting deficits brings further unemployment rather reducing unemployment drops the deficits).</p>
+<p>Rebecca Wilder</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/the-us-unemployment-rate-european-levels-without-the-european-safety-net.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What a Group to be In</title>
+		<link>./../../2009/12/what-a-group-to-be-in.html</link>
+		<comments>./../../2009/12/what-a-group-to-be-in.html#comments</comments>
+		<pubDate>Thu, 24 Dec 2009 04:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Health care costs]]></category>
+		<category><![CDATA[OECD]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/what-a-group-to-be-in.html</guid>
+		<description><![CDATA[Per the Health at a Glance Chart Set, Powerpoint, available here: All OECD countries have achieved universal or near-universal health care coverage, except Turkey, Mexico and the United States And it&#8217;s even more impressive when you go to Slide 36 (whose header is quoted above) and realise that the Public Coverage in those three states [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Per the Health at a Glance Chart Set, Powerpoint, available <a href="http://www.oecdilibrary.org/content/book/health_glance-2009-en">here</a>:<br />
+<blockquote>All OECD countries have achieved universal or near-universal health care coverage, except Turkey, Mexico and the United States</p></blockquote>
+<p>And it&#8217;s even more impressive when you go to Slide 36 (whose header is quoted above) and realise that the Public Coverage in those three states is:
+<ol>Mexico: 82.5<br />Turkey: 67.2<br />United States: 27.4</ol>
+<p>Any room to bend the curve?  Certainly looks as if there might be:
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SzLoXwBlC7I/AAAAAAAAAW0/UW8xkyCTt_U/s1600-h/OECD+Health+Pct+GDP+2009.JPG"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SzLoXwBlC7I/AAAAAAAAAW0/UW8xkyCTt_U/s400/OECD+Health+Pct+GDP+2009.JPG" border="0" alt=""></a></p>
+<p>Well, at least Turkey and Mexico can feel good about themselves.  Happy Xmas!</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/what-a-group-to-be-in.html/feed/index.html</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+	</channel>
+</rss>

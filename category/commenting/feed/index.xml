@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>commenting &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Posts and comments</title>
+		<link>./../../2013/03/posts-and-comments.html</link>
+		<comments>./../../2013/03/posts-and-comments.html#respond</comments>
+		<pubDate>Wed, 06 Mar 2013 15:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[commenting]]></category>
+		<category><![CDATA[Invisible Hand]]></category>
+		<category><![CDATA[writng posts]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/posts-and-comments.html</guid>
+		<description><![CDATA[I dearly love comment sections on certain websites. Some are entertaining, and some are guaranteed to lead to links for further thought. Others are stocked with slogans and utterances of magical thought without caveat. However, what can be missed are those posts which do not draw much comment&#8230;it needs to be mentioned that these posts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I dearly love comment sections on certain websites.  Some are entertaining, and some are guaranteed to lead to links for further thought.  Others are stocked with slogans and utterances of magical thought without caveat. However, what can be missed are those posts which do not draw much comment&#8230;it needs to be mentioned that these posts can be read widely based on stats for visits.  Hence this post to reassure contributors&#8230;check your stats.</p>
+<p>Then there are those posts which much later in the news cycle or even months later catch on&#8230;but don&#8217;t spark commentary.  And sometimes something just needs saying.</p>
+<p>From <i>The New Yorker</i>via <a href="http://www.aguanomics.com/2013/03/monday-funnies.html">Monday funnies</a>:
+<p><a href="http://4.bp.blogspot.com/-9sDT3pkNLqo/UTdPK94bWwI/AAAAAAAABi4/MhwHRe0WxF0/s1600/posts.jpg" imageanchor="1"><img border="0" src="http://4.bp.blogspot.com/-9sDT3pkNLqo/UTdPK94bWwI/AAAAAAAABi4/MhwHRe0WxF0/s320/posts.jpg"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/posts-and-comments.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Notice on commenting</title>
+		<link>./../../2011/03/notice-on-commenting.html</link>
+		<comments>./../../2011/03/notice-on-commenting.html#respond</comments>
+		<pubDate>Thu, 17 Mar 2011 22:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[commenting]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/notice-on-commenting.html</guid>
+		<description><![CDATA[Comments have gotten heated and way off base (not a political statement 🙂 if the goal is adding knowledge and a thorough critique of ideas that are presented. I will be taking a more active role in moderation. I think we had crossed a boundary somewhere along the line. The Brown-Johnston back and forth seemed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Comments have gotten heated and way off base (not a political statement <img src="https://s.w.org/images/core/emoji/2/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> if the goal is adding knowledge and a thorough critique of ideas that are presented.  I will be taking a more active role in moderation. I think we had crossed a boundary somewhere along the line.</p>
+<p>The Brown-Johnston back and forth seemed a good choice because it involved multiple points to address and demanded the reader actually read an entire post and replies.  Too often we stop at one point we question or occur to us that is missing, reply, and leave it at that, only to find it was dealt with later in the posting or comments. </p>
+<p>(There are a number here that stop conservation completely unless giving each other the finger is debate)</p>
+<p>In addition, such as today authors will be coming by to comment such as David Cay Johnston is doing today and later this evening Ian Fletcher should, so there is incentive to behave as if we have guests in the house.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/notice-on-commenting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

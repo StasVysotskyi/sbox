@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>end of the world &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>What Scares Me</title>
+		<link>./../../2008/03/what-scares-me.html</link>
+		<comments>./../../2008/03/what-scares-me.html#respond</comments>
+		<pubDate>Thu, 27 Mar 2008 02:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[end of the world]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/what-scares-me.html</guid>
+		<description><![CDATA[Reader João Carlos notes in comments: The real problem guys isn&#8217;t that the FED needs to save the banks or the economy goes caput. The real problem is that maybe the FED doesn&#8217;t have enough ammunition to save the banks. There are a lot of derivatives in the banks&#8217; books. While all mortgages&#8217; securities are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Reader  João Carlos notes in comments:</p>
+<blockquote><p>The real problem guys isn&#8217;t that the FED needs to save the banks or the economy goes caput.</p>
+<p>The real problem is that maybe the FED doesn&#8217;t have enough ammunition to save the banks.</p>
+<p>There are a lot of derivatives in the banks&#8217; books. While all mortgages&#8217; securities are currently caput (yes, all, with the house&#8217;s prices going down down down down, everyone is sub-prime, including those that are prime), soon we will see other derivatives (commercial estates, credit cards, etc) going caput too.</p>
+<p>So, it is possible that FED will try everything possible and impossible and still fail, because the hole is a Black Hole.</p></blockquote>
+<p>Cactus here.  I&#8217;m not at all sold on the idea that even if half the investment banks on Wall Street collapsed, we&#8217;d be in Great Depression-land.  But I do note this&#8230;  if the problem really is severe enough that the Fed cannot handle it, its best to let Wall Street melt to the ground.  See, what creates something resembling a South American country during the hyperinflation days is the public catching a whiff that there&#8217;s something going on that both the central government and the Central Bank are powerless to stop.  Citibank collapsing won&#8217;t do it.  An attempt to save Citibank that fails will.</p>
+<p>Note to Ben Bernanke and Henry Paulson:  having the public pay for Jim Cayne&#8217;s country club membership and other retirement bennies just isn&#8217;t worth the risk.  Please stop.  Please.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/what-scares-me.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

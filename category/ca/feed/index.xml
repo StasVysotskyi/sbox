@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ca &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Reaction to the McCain Economic &#034;Plan&#034; &#8212; Energy Issues</title>
+		<link>./../../2008/07/reaction-to-the-mccain-economic-plan-energy-issues.html</link>
+		<comments>./../../2008/07/reaction-to-the-mccain-economic-plan-energy-issues.html#respond</comments>
+		<pubDate>Fri, 11 Jul 2008 12:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ca]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[John McCain]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/reaction-to-the-mccain-economic-plan-energy-issues.html</guid>
+		<description><![CDATA[by Tom Bozzo I was working on a much more detailed post when The Onion, Priceless National Treasure it is, gave a portion of the subject the treatment it arguably deserves. Somewhat more seriously, though, the McCain briefing document is heavy with what would be long-term solutions to an array of more-or-less urgent short-term problems. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo</p>
+<p>I was working on a much more detailed post when The Onion, Priceless National Treasure it is, gave a portion of the subject the <a href="http://www.theonion.com/content/opinion/were_investing_so_much_in">treatment</a> it arguably deserves.</p>
+<p>Somewhat more seriously, though, the McCain <a href="http://www.johnmccain.com/Images/Issues/JobsforAmerica/briefing.pdf">briefing document</a> is heavy with what would be long-term solutions to an array of more-or-less urgent short-term problems.
+<ul>
+<li>Oil drilling: The near-term features of the McCain program for the oil market amount to Really Tough Talk (&#8220;John McCain believes we should send a strong message to world markets&#8221;).  There&#8217;s nothing in the plan to address near-term supply tightness &#8212; and they&#8217;re so slick with that Intarwebby thing that the <a href="http://www.johnmccain.com/Informing/Issues/4dbd2cc7-890e-47f1-882f-b8fc4cfecc78.htm">campaign web site</a> still proposes to <a href="http://www.mcclatchydc.com/242/story/37393.html">stop filling the SPR</a>.  The big issue, though, is the expectation that guys like <a href="http://angrybear.blogspot.com/2008/07/t-boone-pickens-places-his-bet-on-wind.html">T. Boone Pickens</a> are right and the current amount of global supply (85-90 million barrels/day) is about all we can expect to see, versus well over 100 million b/d in recent official forecasts.  Undoing that effect requires adding Saudi Arabia-like quantities to the market more-or-less permanently, not the couple million barrels/day that off-limits U.S. sources will produce at their peak in a couple of decades.  I wouldn&#8217;t expect a big price response.  Should McCain manage to win and enact his plan (or Republican pro-drillers manage to peel off Democrats who think we need to Do Something!1!!), don&#8217;t go putting down a deposit on that Escalade.</li>
+<li>Transportation: Apart from the <a href="http://economistsview.typepad.com/economistsview/2008/06/you-make-the-ca.html">silly battery prize</a>, the big proposal is a tax credit for zero-emissions cars.  There are worse ideas, but a big shift to electric cars would require R&#038;D and other investments in the electricity grid, distributed power technologies, and the like which could use considerable funding (see money to be thrown at coal, below).  As for other transportation modes, there are no other transportation modes as far as the published McCain program is concerned.  So in McCain world, the path out of transportation-caused oil dependency is from power plants to your future car&#8217;s battery pack.</li>
+<li>Electricity: The McCain plans, as we&#8217;ve previously seen, promote nuclear and &#8220;clean coal.&#8221;  The 45 new reactors would probably be needed just to maintain nuclear&#8217;s share of the generation portfolio, given the age of the fleet.  As it happens, the nuclear industry is more aggressive than McCain, with applications for 15 reactors somewhere in the <a href="http://www.nrc.gov/reactors/new-licensing/new-licensing-files/expected-new-rx-applications.pdf">NRC permitting pipeline</a>, and 19 more applications expected between now and 2010.  Getting nuclear economics to work would be greatly facilitated by the <a href="http://www.johnmccain.com/Informing/Issues/da151a1c-733a-4dc1-9cd3-f9ca5caba1de.htm">McCain cap-and-trade plan</a>, whose absence in the briefing document is a huge omission, <a href="http://angrybear.blogspot.com/2008/07/how-serious-is-mccain-about-cap.html">whatever we&#8217;re to make of it</a>.  The &#8220;clean coal&#8221; program is in <a href="http://www.nytimes.com/2008/05/30/business/30coal.html?pagewanted=all">disarray</a> and would need substantial funding to get back on track, but with theoretically more efficient approaches to carbon capture just taking their <a href="http://pubs.acs.org/cen/news/86/i09/8609notw1.html">initial steps out of the laboratory</a>, it&#8217;s not obvious that McCain can do much to get the technology to market very far ahead of the 2020s time frame assumed by the Electric Power Research Institute, not exactly a tree-hugger&#8217;s hangout by throwing his $2 billion/year at the problem.  Meanwhile, there are no specific plans to fund any other needed electricity-system R&#038;D.  Making the renewables tax credit permanent is a genuinely useful feature of the McCain program, if not exactly a radical proposal, and otherwise staying out of the way of renewables development is not bad for a Republican.</li>
+<li>Energy Efficiency: McCain is pro-CAFE and pro-energy-efficient building, but doesn&#8217;t stake a position on whether current and forthcoming standards are adequate or how they might be improved.  Should oil prices drop substantially, we&#8217;d need some substance here to support McCain&#8217;s anti-oil-dependency rhetoric, as the &#8217;90s experience shows.</li>
+</ul>
+<p>So what do we have?  Long-term commitments to do Things Republicans Like (drill for oil, burn coal) surrounded with a lot of hand-waving and redirection as to how those will solve current problems.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/reaction-to-the-mccain-economic-plan-energy-issues.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

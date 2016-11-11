@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>campaign finance reform &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Trevor Potter on Citizen&#8217;s United</title>
+		<link>./../../2012/06/trevor-potter-on-citizens-united.html</link>
+		<comments>./../../2012/06/trevor-potter-on-citizens-united.html#respond</comments>
+		<pubDate>Fri, 01 Jun 2012 11:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[campaign finance reform]]></category>
+		<category><![CDATA[Citizens United]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/trevor-potter-on-citizens-united.html</guid>
+		<description><![CDATA[Trevor Potter offers a thorough treatment (for an article sized piece) of the Citizen&#8217;s United decision by the US Supreme Court in a speech at an Annual Meeting of the American Law Institute. The link is to the transcript via Alternet. &#8230;coverage is so successful because it accurately describes a campaign finance world that seems too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.alternet.org/story/155598/How_I_Became_Stephen_Colbert%27s_Lawyer_--_And_Joined_the_Fight_to_Rescue_Our_Democracy_from_Citizens_United/?page=entire">Trevor Potter</a> offers a thorough treatment (for an article sized piece) of the <i>Citizen&#8217;s United </i>decision by the US Supreme Court in a speech at an Annual Meeting of the American Law Institute. The link is to the transcript via Alternet.</p>
+<blockquote><p>&#8230;coverage is so successful because it accurately describes a campaign finance world that seems too surreal to be true.  A system that claims to require disclosure of money spent to elect or defeat candidates, but in fact provides so many ways around that requirement as to make disclosure optional; a system that says that “independent expenditures” cannot be limited as a matter of Constitutional law because they cannot corrupt because they are “totally independent” of candidates and parties—&#8230;</p></blockquote>
+<p>Beverly Mann points us to a June 14 date for SCOTUS review of the case:</p>
+<blockquote><p>Here&#8217;s a link to a SCOTUSblog article from yesterday laying out the Court&#8217;s timeline and options concerning how they&#8217;ll proceed in the Montana case. They&#8217;re expected to decide on June 14 whether to simply summarily reverse the Montana Supreme Court without briefing and oral argument, or instead to agree to decide the case after full briefing and oral argument next term:  <a href="http://www.scotusblog.com/2012/05/montana-detainee-cases-set/" target="_blank">http://www.scotusblog.com/2012/05/montana-detainee-cases-set/</a>.  I expect them to do the latter. But, who knows?</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/trevor-potter-on-citizens-united.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

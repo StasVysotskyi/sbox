@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>great moderation &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Vague Thoughts on The Theory of the Firm, the Business Cycle and Kurt Vonnegut</title>
+		<link>./../../2009/11/vague-thoughts-on-the-theory-of-the-firm-the-business-cycle-and-kurt-vonnegut.html</link>
+		<comments>./../../2009/11/vague-thoughts-on-the-theory-of-the-firm-the-business-cycle-and-kurt-vonnegut.html#respond</comments>
+		<pubDate>Mon, 02 Nov 2009 16:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[capital labor ratio]]></category>
+		<category><![CDATA[Cobb-Douglas]]></category>
+		<category><![CDATA[economic development]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[great moderation]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+		<category><![CDATA[RBC theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/vague-thoughts-on-the-theory-of-the-firm-the-business-cycle-and-kurt-vonnegut.html</guid>
+		<description><![CDATA[Robert Waldmann Don&#8217;t say you weren&#8217;t warned. I am trying to understand the effects of the switch from mechanically controlled machine tools to electronically controlled machine tools and then to digitally controlled machine tools. I don&#8217;t really know much about machine tools, but, then again, I don&#8217;t know much about firms or the business cycle [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Don&#8217;t say you weren&#8217;t warned. I am trying to understand the effects of the switch from mechanically controlled machine tools to electronically controlled machine tools and then to digitally controlled machine tools. I don&#8217;t really know much about machine tools, but, then again, I don&#8217;t know much about firms or the business cycle either. My thoughts after the jump.</p>
+<p>update: spelling checked</p>
+<p>I warn again, don&#8217;t trust any claims of fact in this post. </p>
+<p>The reference to Kurt Vonnegut is a reference to &#8220;player piano&#8221; a dystopian vision of mass unemployment due to industrial robots. It seems that Mr Vonnegut never checked how many people are actually employed in manufacturing, since he asserted that there would be massive unemployment even if people demanded services from other people. So I am not going to predict massive unemployment.</p>
+<p>I am partly stimulated by the Nobel Memorial Prize committee which gave the prize to Oliver Williamson for new contributions to the old theory of the firm &#8212; that is for trying to figure out the optimal amount of vertical integration. In very brief Williamson argued that vertical integration is efficient when intermediate goods are made with inflexible capital. </p>
+<p>IIRC They key example is stamps for bashing metal which shape metal into one form. He noted that arms length market transactions don&#8217;t work in this case. Once the parts supplier has sunk money into the specific capital, the final goods manufacture can pay a price equal to marginal cost giving it 0 return on the sunk cost. Thus only a fool will sink money in capital which produces a good for only one possible customer without any guarantees. A long term contract promising to by a fixed amount of the part for a fixed price can make the transaction possible. Similarly things work out fine if the parts are made by the same firm which makes the final product, since the firm has no incentive to take advantage of itself.</p>
+<p>(a bit of jargon here. To pay marginal cost to a supplier who has paid a fix cost of building specialized capital is called &#8220;to seize the quasi-rent produced by the capital.&#8221; I will <s>strike</s>stick with &#8220;take advantage of&#8221; below.)</p>
+<p>Note the example depends on the inflexibility of capital. Once it applied to grinding and assembling as well as stamping. That is, I am changing the subject to equipment which grinds, assembles, welds etc. The specific example of metal stamps still works, but many other productive processes have evolved in a way that protects a parts supplier from ruthless bargaining by their customer, the final goods producer.</p>
+<p>Once upon a time, machines which ground and welded and so forth were controlled by the hands of skilled artisans. Also parts were put together by human hands. Then it was noted that a machine could do that on its own with its active bits (drill bits for example) guided by metal guides, by oddly shaped metal parts through which other metal parts slid or by oddly shaped gears.</p>
+<p>This made it possible to substitute pieces of metal for people and the pieces of metal demanded no wages. The problem is that the machine could do only one thing. To make the mechanically controlled machine tool do something else, new metal parts had to be designed and made and the mechanically controlled machine tool and to be disassembled and reassembled. This process is called &#8220;re-tooling&#8221;. </p>
+<p>Then technology shifted to analog electronically controlled machine tools (as described by Kurt Vonnegut). The movements were controlled by electronic signals read off a magnetic tape. The machine tool could be, in effect, retooled by leading it through the new motions once. I don&#8217;t know how this was done, but I assume that a manual control (like a joystick or something) was plugged in and the tape recorder was set to record. Then someone could try to make the machine tool perform a new task and keep trying and recording over the tape till the controller did it well (via the joystick). Probably frustrating, but quicker than designing, casting disassembling and reassembling.</p>
+<p>Then they went digital. Now the motions are described with equations and the new instructions are typed on a keyboard. No one with skilled hands was needed (I mean the equations could be typed in by hunt and peck if necessary). The tragic irrelevance of the artisan in the digital age was made by <a target="_blank" href="http://www.amazon.com/Forces-Production-History-Industrial-Automation/dp/0195040465/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1257300958&#038;sr=8-1">David</a> <a target="_blank" href="http://www.amazon.com/s/ref=nb_ss_1_13?url=search-alias%3Dstripbooks&#038;field-keywords=progress+without+people&#038;x=0&#038;y=0&#038;sprefix=Progress+with">Noble</a> (who was allegedly denied tenure at MIT, because he noted that technology is not everyone&#8217;s friend).</p>
+<p>This made manufacturing much more flexible. This reduced the optimal degree of vertical integration. If suppliers just have to reprogram their machine tools when their current customer tries to take advantage of them, then they don&#8217;t neeed to be a long term contracts nor is efficiency enhanced if they merge with their customer. </p>
+<p>Why low and behold, large firms are outsourcing more and more in the age of digitally operated machine tools. I&#8217;m sure Prof. Williamson has noted this fact which supports his analysis.</p>
+<p>I am interested in something else &#8212; the business cycle. I think that increased flexibility helps us understand the late great moderation (near absence of the business cycle form 1982 through 2007), the reduction in temporary layoff unemployment, the unprecedented current average duration of unemployment, and the joblessness of recent recoveries.</p>
+<p>The point is that it used to be that a rule of manufacturing is that when demand is slack one shuts down and retools. Producing new products and improving efficiency required a fairly long period without production &#8212; the period during which the machine tools were disassembled. Relatively few people were employed disassembling, and reassembling the mechanically controlled machine tools. Thus temporary layoffs were a necessary part of innovation. Given that, firms decided to schedule them at a time when demand was slack. If all firms have the same policy, recessions can happen due to a sunspot. In practice they had something to do with monetary policy and/or oil shocks, but the instability of the system made frequent severe recessions possible.</p>
+<p>If it takes minutes not weeks or months to digitally retool, then there is no technological need for temporary layoffs. It might be better to deal with slack demand by cutting prices rather than production. Sometimes firms will choose to shut down a factory permanently, but they will have less reason to shut it down for weeks or months but not forever.</p>
+<p>In fact, there has been a massive reduction in temporary layoff unemployment, and, in particular, in temporary layoff unemployment during recessions. This implies weaker recoveries &#8212; permanently laid off workers need to find new jobs and expanding firms need to find workers. In particular, this implies a less rapid increase in employment in recoveries. Finally it obviously implies longer average spells of unemployment for the same unemployment rate.</p>
+<p>Many stylized facts about the changes in the business cycle can be explained by increased flexibility of capital, including, in particular, digitally operated machine tools.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/vague-thoughts-on-the-theory-of-the-firm-the-business-cycle-and-kurt-vonnegut.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

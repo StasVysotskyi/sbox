@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>severe povery &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Record Severe Poverty II</title>
+		<link>./../../2011/09/record-severe-poverty-ii.html</link>
+		<comments>./../../2011/09/record-severe-poverty-ii.html#respond</comments>
+		<pubDate>Tue, 13 Sep 2011 15:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Robert Waldmann]]></category>
+		<category><![CDATA[severe povery]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/record-severe-poverty-ii.html</guid>
+		<description><![CDATA[The Census Bureau has released estimates of poverty in 2010. Coverage focused on the headline poverty rate which is horrible enough. Much worse, 6.7% of people in the USA suffered severe poverty, that is lived in households with income less than half the poverty line. This is the highest severe poverty rate on record (the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Census Bureau has released estimates of poverty in 2010. Coverage focused on the headline poverty rate which is horrible enough. Much worse, 6.7% of people in the USA suffered severe poverty, that is lived in households with income less than half the poverty line. This is the highest severe poverty rate on record (the series only goes back to 1975 &#8212; I don&#8217;t know why). </p>
+<p><a href="http://www.census.gov/hhes/www/poverty/data/historical/people.html">Look at Table Five.</a></p>
+<p>I blame welfare reform.  Yes the severe recession and slow recovery is a major factor, but the 2010 ratio of the severe poverty rate and the poverty rate is 0.444 which is also the highest on record.  That ratio is a crude way of looking at the effect of welfare reform. </p>
+<p>Like the poverty rate, the severe poverty rate goes up in recessions, goes up when inequality increases and goes down when per capita income grows. However, the pattern is very different with a long term trend of increasing severe poverty and no correspond trend of the headline poverty rate. <br /><a name="more"></a></p>
+<p>I think it is clear that this can be explained with two acronyms AFDC and TANF. In 1975 the economy was in bad shape, the poverty rate was 12.3 % which is not vastly lower than the 2010 poverty rate of 15.1%. The severe poverty rate was 3.7 % less than 56% of the current rate. The fraction of people in poverty but not severe poverty was 0.301 in 1975 much lower than it is now.</p>
+<p>During the period of high inflation, the real value of welfare benefits declined. This explains at least part of the increase in severe poverty. In 1983 the poverty rate peaked at 15.2% and the severe poverty rate peaked at 5.9%. Compared to 1983 a smaller fraction of people are in poverty but a larger fraction of people are in severe poverty. I think that welfare reform is the only plausible explanation.</p>
+<p>If the ratio of number in severe poverty to number in poverty were the same as in 1983 the severe poverty rate would be less than 5.9%.  </p>
+<p>This post is an update of <a href="http://www.angrybearblog.com/2010/09/all-time-record-level-of-severe-poverty.html">my post about the 2009 severe poverty rate </a>(I admit to cutting and pasting as if such an admission were necessary).  The political debate has not taken the record severe poverty rate into consideration. Quite the opposite. As far as I know, no politician dares discuss reversing welfare reform.   </p>
+<p> I think the still widely accepted conclusion that welfare reform was a great success is based on two gross and obvious errors. </p>
+<p>First the matter was considered to have been decided by 2000. Only specialists reconsidered the analysis of welfare reform with any data not collected during the amazing boom of the late 90s. </p>
+<p>Second a huge amount of attention is focused on the poverty rate and almost no one ever looks at the severe poverty rate. It is as if people think that it doesn&#8217;t matter how poor one is once one is under the poverty line. This is more extreme than not caring about income distribution. </p>
+<p>But it is accepted as a fact that welfare reform worked like a charm. Evidence which isn&#8217;t more than 11 years old, and the fact that $11,000 <br />It&#8217;s almost as if most people had no clue what it is like to be poor so that they don&#8217;t even know that the poor are much poorer than they used to be.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/record-severe-poverty-ii.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

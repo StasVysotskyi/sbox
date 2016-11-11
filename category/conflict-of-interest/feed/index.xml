@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>conflict of interest &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Conflict of Interest</title>
+		<link>./../../2012/01/conflict-of-interest.html</link>
+		<comments>./../../2012/01/conflict-of-interest.html#respond</comments>
+		<pubDate>Thu, 12 Jan 2012 15:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[conflict of interest]]></category>
+		<category><![CDATA[current economic policy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/conflict-of-interest.html</guid>
+		<description><![CDATA[The Wall Street Journal reports: Under new rules adopted by the American Economic Association at its annual meeting here last week, economists will have to disclose financial ties and other potential conflicts of interest in papers published in academic journals. Backers argue such disclosures will help restore faith in the profession by giving both policy makers and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>The <a href="http://online.wsj.com/article/SB10001424052970203436904577148940410667970.html" target="_blank">Wall Street Journal</a> reports:</div>
+<blockquote><div>Under new rules adopted by the American Economic Association at its annual meeting here last week, economists will have to disclose financial ties and other potential conflicts of interest in papers published in academic journals. Backers argue such disclosures will help restore faith in the profession by giving both policy makers and the public more information with which to evaluate economists&#8217; advice.</div>
+</blockquote>
+<p><a href="http://econospeak.blogspot.com/2012/01/making-assa-out-of-u-and-me.html" target="_blank">Peter Dorman</a> also comments.</p>
+<p>Dr, Goose supplies some of the sarcasm I felt concerning transparency and the field of economics with this post:</p>
+<p><a href="http://www.limericksecon.com/2012/01/conflict-of-interest.html">Conflict of Interest</a></p>
+<p>Said an econ professor named Booth,   <br />While instructing America&#8217;s youth:    <br />&#8220;The Original Sin    <br />Of the business I&#8217;m in    <br />Is to advocate, heedless of truth.</p>
+<p><a name="more"></a></p>
+<p>Members of the American Economics Association took a big step forward this past weekend at their annual meeting in Chicago, when they voted to adopt a <a href="http://online.wsj.com/article/SB10001424052970203436904577148940410667970.html">code of ethics</a> to address conflicts of interest. The 2010 Academy Award-winning documentary film &#8220;Inside Job&#8221; shone a <a href="http://www.youtube.com/watch?v=AmMISMFN6XQ">harsh light</a> on the ties of well-known economists to companies that later went bust in the financial crisis. Director Charles Ferguson charged that social scientists&#8217; lucrative and undisclosed ties to corporate interests caused them first to miss the signs of the impending crisis, and then to recommend policies that benefited their clients at the expense of the broader economy. Inside the AEA, professors such as the University of Illinois&#8217; Deirdre McCloskey echoed and amplified that view: &#8220;The master sin, in American economics especially, is advocacy without regard for the truth,&#8221; she said to fellow delegates.</p>
+<p>The new code of ethics is a first corrective step, limited to disclosure of potential conflicts of interest. AEA members will now have to disclose all sources of financing for their research and all &#8220;significant&#8221; financial relationships with groups or individuals with a &#8220;financial, ideological or political stake&#8221; therein.<br />(reposted with permission from the author.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/conflict-of-interest.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

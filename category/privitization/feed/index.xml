@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>privitization &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Magna Carta and privitization</title>
+		<link>./../../2012/07/the-magna-carta-and-privitization.html</link>
+		<comments>./../../2012/07/the-magna-carta-and-privitization.html#respond</comments>
+		<pubDate>Tue, 24 Jul 2012 13:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[magna carta]]></category>
+		<category><![CDATA[privitization]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/the-magna-carta-and-privitization.html</guid>
+		<description><![CDATA[Via Toms Dispatch Tomgram: Noam Chomsky, The Great Charter, Its Fate, and Ours&#8230;Posted by Noam Chomsky comes this essay on our long traditions in the battle of the commons and &#8216;privatization&#8217;.   It is an interesting read.   (hat tip Dale)]]></description>
+				<content:encoded><![CDATA[<p>Via Toms Dispatch <a href="http://www.tomdispatch.com/blog/175571/" target="_blank">Tomgram: Noam Chomsky, The Great Charter, Its Fate, and Ours&#8230;Posted by Noam Chomsky</a> comes this essay on our long traditions in the battle of the commons and &#8216;privatization&#8217;.   It is an interesting read.   (hat tip Dale)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/the-magna-carta-and-privitization.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

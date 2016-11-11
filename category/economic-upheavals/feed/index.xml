@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economic upheavals &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Eighty Years Ago Today</title>
+		<link>./../../2009/10/eighty-years-ago-today.html</link>
+		<comments>./../../2009/10/eighty-years-ago-today.html#respond</comments>
+		<pubDate>Thu, 29 Oct 2009 15:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic upheavals]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[Stock Market]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/eighty-years-ago-today.html</guid>
+		<description><![CDATA[(Data via Yahoo! Finance)]]></description>
+				<content:encoded><![CDATA[<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/Sum8z-0Oz2I/AAAAAAAAATI/8qKtRW-xqgs/s1600-h/djiaoct1929.JPG"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/Sum8z-0Oz2I/AAAAAAAAATI/8qKtRW-xqgs/s400/djiaoct1929.JPG" border="0" alt=""></a></p>
+<p>(Data via <a target="_blank" href="http://finance.yahoo.com/q/hp?s=%5EDJI&#038;a=09&#038;b=1&#038;c=1929&#038;d=09&#038;e=30&#038;f=1929&#038;g=d">Yahoo! Finance</a>)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/eighty-years-ago-today.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

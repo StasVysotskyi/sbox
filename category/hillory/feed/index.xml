@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hillory &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>In the eye of the beholder</title>
+		<link>./../../2008/05/in-the-eye-of-the-beholder.html</link>
+		<comments>./../../2008/05/in-the-eye-of-the-beholder.html#respond</comments>
+		<pubDate>Mon, 12 May 2008 17:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Annie Oakley]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[Hillory]]></category>
+		<category><![CDATA[Obama]]></category>
+		<category><![CDATA[terrorism]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/in-the-eye-of-the-beholder.html</guid>
+		<description><![CDATA[Came across a couple of videos. This first one is an issue of perspective on the thought of what is terroism or what is a terroist act. This second one is just plain funny (at least to me). It spoofs on the Annie Oakley comment by Senator Obama. On the economy side of things using [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Came across a couple of videos.  This first one is an issue of perspective on the thought of what is terroism or what is a terroist act.</p>
+<p>This second one is just plain funny (at least to me).  It spoofs on the Annie Oakley comment by Senator Obama.</p>
+<p>On the economy side of things using my GFP (gross flower production), things were not as good as last year.  What started off as a year with a bang, is now looking to be equal to last years numbers.  We were up 21% end of March.  End of April we were up 4.7%. As of Mother&#8217;s Day, 2.6% on the year.  Interestingly, looking at credit card use for the holiday months Valentines was up 23%, Easter was up 13% and now Mother&#8217;s Day is down 27%.  This is the shift I saw starting last August.  But, cash sales are up for May 33%.  They were up for January and February, but cash sales were down both March and April.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/in-the-eye-of-the-beholder.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

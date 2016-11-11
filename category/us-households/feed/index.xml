@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>US households &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Lifted from comments</title>
+		<link>./../../2011/09/lifted-from-comments.html</link>
+		<comments>./../../2011/09/lifted-from-comments.html#respond</comments>
+		<pubDate>Wed, 21 Sep 2011 11:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econnomic growth]]></category>
+		<category><![CDATA[housing]]></category>
+		<category><![CDATA[Spencer England]]></category>
+		<category><![CDATA[US households]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/lifted-from-comments.html</guid>
+		<description><![CDATA[Lifted from comments on the housing situation by Spencer&#8230;Housing vs. Household formation. Of course the point also being&#8230;what is going to be the source of growth for US citizens? kharris comments and adds another contributing factor on the housing market: &#8230;Banks already have pretty nearly all the housing assets they care to have, thank you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lifted from comments on the housing situation by <a target="_blank" href="http://www.angrybearblog.com/2011/09/housing-vs-household-formation.html">Spencer&#8230;Housing vs. Household formation</a>. Of course the point also being&#8230;what is going to be the source of growth for US citizens?</p>
+<blockquote><p> <a target="_blankl" href="http://www.angrybearblog.com/2011/09/housing-vs-household-formation.html#comments"><strong>kharris</strong> comments</a> and adds another contributing factor on the housing market:</p>
+<p>&#8230;Banks already have pretty nearly all the housing assets they care to have, thank you very much. If banks don&#8217;t want more housing assets, then they won&#8217;t lend much money against houses. That reluctance to lend is going to keep effective housing demand down, even if demographics are favorable.   </p>
+<p>And herein lies the problem. Housing demographics are responding to labor market conditions, and financial conditions.  Each needs to improve, and the failure of either to improve limits improvement in the other.  We traditionally rely on housing to lead recoveries, and there are self-reinforcing limitations on housing right now.  Rather than overall growth responding to housing, this time housing needs overall growth.  That means we need some other source of growth to lead.  </p>
+<p>In response to that situation, one party says &#8220;cut taxes and regulation and (mumble, mumble, mumble), and then the economy will be great and all our problems will be gone.&#8221;  The other party says &#8220;the best we can do is go small and pretend it&#8217;s enough.&#8221;  There is no alternative source of growth in either of those.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/lifted-from-comments.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NBER &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Current doldrums are just jobless, sales-less recovery</title>
+		<link>./../../2010/09/current-doldrums-are-just-jobless-sales-less-recovery.html</link>
+		<comments>./../../2010/09/current-doldrums-are-just-jobless-sales-less-recovery.html#respond</comments>
+		<pubDate>Mon, 20 Sep 2010 14:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[NBER]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/09/current-doldrums-are-just-jobless-sales-less-recovery.html</guid>
+		<description><![CDATA[NBER just made official what we all knew they would say: the Great Recession ended in June of 2009. For those who are encouraged, note that they also do not indicate that there was a recession from March of 1933 to May of 1937, that the eighteen (18) months indicated is the longest since 1929-1933, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>NBER just made official <a href="http://news.yahoo.com/s/nm/20100920/bs_nm/us_usa_economy_nber">what we all knew they would say</a>: the Great Recession ended in June of 2009.</p>
+<p>For those who are encouraged, note that they also <a href="http://www.nber.org/cycles/cyclesmain.html">do not indicate that there was a recession from March of 1933 to May of 1937</a>, that the eighteen (18) months indicated is the longest since 1929-1933, and that eighteen months is—coincidentally—the average duration of the recessions between the World Wars. (The success of the Great Moderation is palpable.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/09/current-doldrums-are-just-jobless-sales-less-recovery.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Say It Ain&#8217;t So</title>
+		<link>./../../2010/02/say-it-aint-so.html</link>
+		<comments>./../../2010/02/say-it-aint-so.html#respond</comments>
+		<pubDate>Wed, 17 Feb 2010 20:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[NBER]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[securitization]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/say-it-aint-so.html</guid>
+		<description><![CDATA[NBER paper of the day: We analyze asset-backed commercial paper conduits which played a central role in the early phase of the financial crisis of 2007-09. We document that commercial banks set up conduits to securitize assets while insuring the newly securitized assets using credit guarantees. The credit guarantees were structured to reduce bank capital [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>NBER <a href="http://www.nber.org/papers/w15730">paper of the day</a>:<br />
+<blockquote>We analyze asset-backed commercial paper conduits which played a central role in the early phase of the financial crisis of 2007-09. We document that commercial banks set up conduits to securitize assets while insuring the newly securitized assets using credit guarantees. The credit guarantees were structured to reduce bank capital requirements, while providing recourse to bank balance sheets for outside investors. Consistent with such recourse, we find that banks with more exposure to conduits had lower stock returns at the start of the financial crisis; that during the first year of the crisis, asset-backed commercial paper spreads increased and issuance fell, especially for conduits with weaker credit guarantees and riskier banks; and that losses from conduits mostly remained with banks rather than outside investors. These results suggest that banks used this form of securitization to concentrate, rather than disperse, financial risks in the banking sector while reducing their capital requirements.</p></blockquote>
+<p>UPDATE: <s>If anyone knows of</s> Tom points us to <a href="http://pages.stern.nyu.edu/~sternfin/pschnabl/acharya_schnabl_suarez.pdf">an &#8220;ungated&#8221; version</a> from three weeks ago<s>, please mention it in comments or e-mail</s>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/say-it-aint-so.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NBER generally gets it right</title>
+		<link>./../../2008/12/nber-generally-gets-it-right.html</link>
+		<comments>./../../2008/12/nber-generally-gets-it-right.html#respond</comments>
+		<pubDate>Mon, 01 Dec 2008 19:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[Floyd Norris]]></category>
+		<category><![CDATA[NBER]]></category>
+		<category><![CDATA[Recessions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/nber-generally-gets-it-right.html</guid>
+		<description><![CDATA[Brad DeLong suggested a bit before the U.S. election that there was virtually no non-political reason for NBER not to admit the United States was in a recession.* A little late, but they generally got it right. As Floyd Norris notes: The National Bureau of Economic Research said today that the current recession began a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Brad DeLong suggested a bit before the U.S. election that <a href="http://delong.typepad.com/sdj/2008/10/the-recession-2.html">there was virtually no non-political reason for NBER not to admit the United States was in a recession</a>.*</p>
+<p>A little late, but they generally got it right.  As <a href="http://norris.blogs.nytimes.com/2008/12/01/its-a-recession/">Floyd Norris notes</a>:<br />
+<blockquote>The National Bureau of Economic Research said today that the current recession began a year ago, in December 2007.</p>
+<p>I’ve been arguing for some time that the recession started around then (between October 2007 and January 2008), but for much of that time it was a lonely vigil, with few economists in agreement until things fell apart in September.</p></blockquote>
+<p>I would still argue for October 2007;the &#8220;peak&#8221; in December was related more to a Certain Holiday than anything real. (It&#8217;s not called &#8220;Black Friday&#8221; in honor of <a href="http://www.nydailynews.com/ny_local/2008/11/28/2008-11-28_worker_dies_at_long_island_walmart_after.html">workers who get trampled</a>.)  But at least they called it, which will make it more difficult to argue that &#8220;the recession started on Obama&#8217;s watch.&#8221;</p>
+<p>Sorry, <a href="http://neweconomist.blogs.com/new_economist/2008/08/scary-ken.html">New Economist</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/nber-generally-gets-it-right.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

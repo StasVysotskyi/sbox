@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Obama appointment &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Bernanke Interlude</title>
+		<link>./../../2010/01/bernanke-interlude.html</link>
+		<comments>./../../2010/01/bernanke-interlude.html#respond</comments>
+		<pubDate>Tue, 26 Jan 2010 17:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bernanke]]></category>
+		<category><![CDATA[Obama appointment]]></category>
+		<category><![CDATA[Obama economic policy]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/bernanke-interlude.html</guid>
+		<description><![CDATA[Via David Wessel&#8217;s Twitter feed, the WSJ publishes a letter: Ben Bernanke is a good person, a fine academic and a well-respected professor. But those traits have no bearing on whether he should be reconfirmed as Federal Reserve chairman&#8230;. Applying accountability principles, there&#8217;s no way Chairman Bernanke should be reconfirmed by the Senate, let alone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://twitter.com/davidmwessel">David Wessel&#8217;s Twitter feed</a>, the WSJ <a href="http://online.wsj.com/article/SB10001424052748703808904575025203988090076.html">publishes a letter</a>:<br />
+<blockquote>Ben Bernanke is a good person, a fine academic and a well-respected professor. But those traits have no bearing on whether he should be reconfirmed as Federal Reserve chairman&#8230;.</p>
+<p>Applying accountability principles, there&#8217;s no way Chairman Bernanke should be reconfirmed by the Senate, let alone reappointed by the Obama administration&#8230;.He&#8217;s been at the helm from the very beginning of this Great Recession. That alone warrants a &#8220;no&#8221; vote on reconfirmation.</p></blockquote>
+<p>At this point, I feel obligated to note that if you&#8217;re going to declare this The Great Recession—i.e., if you are assuming the chance of having the third Depression is over*—then Bernanke deserves credit, not blame. (Even those of us who do not assume we&#8217;re out of the woods admit we aren&#8217;t quite sunk yet, though 17.3% unemployment is problematic at best.)<br />
+<blockquote>In addition, the Fed&#8217;s behavior over the past 15 months has put America on a very dangerous path. The Fed has increased the monetary base (high-powered or wholesale money) by the largest amount ever, from colonial times to the present, times 10. Without an exit strategy, inflation is a virtual certainty over the coming decade, while an effective exit strategy virtually assures a further weakening of the U.S. economy. [emphasis mine]</p></blockquote>
+<p>This is Gospel for the WSJ editorial page, and a logical confusion of the first order.  Any &#8220;exit strategy&#8221; assumes that the conflict is primarily over, so any exit strategy would, by definition, not weaken—let alone &#8220;further weaken,&#8221; which suggests that the writer&#8217;s faith that &#8220;the Great Recession&#8221; is accurate is wavering—the economy. (We can, and will, discuss where All That Money Has Gone; suffice to say, it&#8217;s not exactly producing a Multiplier Effect.)</p>
+<p>But the writer saves the best for last.<br />
+<blockquote>And lastly, on a more personal note, [Bernanke] doesn&#8217;t have the gravitas of a Paul Volcker, Alan Greenspan or William McChesney Martin. In this day and age of crisis management, gravitas is essential. Almost anyone would be better than Mr. Bernanke.</p></blockquote>
+<p>Well, at least Arthur Burns is conspicuously excluded. It&#8217;s nice to know that <a href="http://angrybear.blogspot.com/2010/01/pseudo-psychology-of-psupply-pside.html">Arthur Laffer</a> believes in gravitas, while <a href="http://en.wikipedia.org/wiki/Dick_Cheney_hunting_incident">his best-known disciple</a> believes &#8220;<a href="http://www.ontheissues.org/2004/Dick_Cheney_Budget_+_Economy.htm">deficits don&#8217;t matter</a>.&#8221;</p>
+<p>*Yes, I could 1873-77 as a Depression in the United States. Looking at the evidence, it would be difficult not to.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/bernanke-interlude.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Time Series Analysis</title>
+		<link>./../../2009/09/time-series-analysis.html</link>
+		<comments>./../../2009/09/time-series-analysis.html#respond</comments>
+		<pubDate>Mon, 07 Sep 2009 22:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[11 September]]></category>
+		<category><![CDATA[Bush Administration]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[Obama]]></category>
+		<category><![CDATA[Obama appointment]]></category>
+		<category><![CDATA[Politics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/time-series-analysis.html</guid>
+		<description><![CDATA[From what I can tell, this is an accurate sequence: 6 August 2001: Presidential Daily Briefing (PDB) given to GWB entitled &#8220;bin Ladin Determined to Strike in US.&#8221; 11 September 2001: On the 36th Anniversary of Augusto Pinochet&#8217;s US-President-ordered, CIA-supported, Coup in Chile, Bin Laden&#8217;s forces, weel, strike in the US. ca. 26 October 2004: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From what I can tell, this is an accurate sequence:</p>
+<ol>
+<li><a target="_blank" href="http://news.findlaw.com/hdocs/docs/terrorism/80601pdb.html">6 August 2001</a>: Presidential Daily Briefing (PDB) given to GWB entitled &#8220;bin Ladin Determined to Strike in US.&#8221;</p>
+</li>
+<li>11 September 2001:  On the 36th Anniversary of <a target="_blank" href="http://en.wikipedia.org/wiki/1973_Chilean_coup_d'%C3%A9tat#U.S._Role">Augusto Pinochet&#8217;s US-President-ordered, CIA-supported, Coup in Chile</a>, Bin Laden&#8217;s forces, weel, <a href="http://www.cnn.com/SPECIALS/2001/memorial/">strike in the US</a>.
+</li>
+<li><a target="_blank" href="http://www.911truth.org/article.php?story=20041026093059633">ca. 26 October 2004</a>: Anthony &#8220;Van&#8221; Jones signs &#8220;truth petition&#8221; which requests investigation into, among other things, &#8220;<a target="_blank" href="http://en.wikipedia.org/wiki/Van_Jones#9.2F11_Truth_petition">unanswered questions that suggest that people within the current administration may indeed have deliberately allowed 9/11 to happen</a>.&#8221;
+</li>
+<li>04 September 2006:  Condoleezza Rice admits (1) above <a target="_blank" href="http://crooksandliars.com/2006/09/05/condoleezza-rice-facing-ben-veniste-9-11-commission">publicly at the 9-11 Commission hearings</a>, eliminating the last vestige of plausible* deniability about foreknowledge of the attacks within, and at the highest levels of, the Administration.
+</li>
+<li>06 September 2009:  Three years and three days after Ms. Rice admitted that the GWB Administration—in the kindest possible interpretation—allowed 11 Sep 2001 to happen,** Van Jones resigns from the current Administration because he (along with John <em>Men are from Mars, Women are from Venus</em> Gray, a former Bush Administraion official, and a previous Ambassador to Iraq) exercised an American&#8217;s First Amendment rights (&#8220;<a target="_blank" href="http://www.law.cornell.edu/constitution/constitution.billofrights.html#amendmenti">to petition the government for a redress of grievances</a>&#8220;)  with a resulting inquiry that confirmed the justness of the original Petition.</li>
+</ol>
+<p>Don&#8217;t worry; nothing to see there. Right?</p>
+<p>*No, declaring that you considered the PDB to be a discussion of &#8220;history&#8221; is not plausible in any real sense of that word.<br />**Whether as an act of malice or incompetence is left as an exercise, with the clear possibility of a spectrum of answers depending upon which officials are discussed.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/time-series-analysis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What Obama Means when he says &#034;the troops&#034;</title>
+		<link>./../../2009/05/what-obama-means-when-he-says-the-troops.html</link>
+		<comments>./../../2009/05/what-obama-means-when-he-says-the-troops.html#respond</comments>
+		<pubDate>Thu, 14 May 2009 02:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obama appointment]]></category>
+		<category><![CDATA[rule of law]]></category>
+		<category><![CDATA[torture]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/05/what-obama-means-when-he-says-the-troops.html</guid>
+		<description><![CDATA[Meet the New Boss; Same as the Old Boss. Andrew Sullivan points out the obvious link from yesterday&#8217;s appointment to today&#8217;s &#8220;reversal&#8220;: It was a point of pride that the Red Cross would never be allowed in the door, Jeff says. This is important because it defied the Geneva Conventions, which require that the Red [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Meet the New Boss; Same as the Old Boss.</p>
+<p>Andrew Sullivan <a target="_blank" href="http://andrewsullivan.theatlantic.com/the_daily_dish/2009/05/they-wont-have-access-and-they-never-will.html">points out the obvious link</a> from yesterday&#8217;s appointment <a target="_blank" href="http://www.esquire.com/features/ESQ0806TERROR_102">to today&#8217;s &#8220;reversal</a>&#8220;:<br />
+<blockquote>It was a point of pride that the Red Cross would never be allowed in the door, Jeff says. This is important because it defied the Geneva Conventions, which require that the Red Cross have access to military prisons. &#8220;Once, somebody brought it up with the colonel. &#8216;Will they ever be allowed in here?&#8217; And he said absolutely not. He had this directly from General McChrystal and the Pentagon that there&#8217;s no way that the Red Cross could get in — they won&#8217;t have access and they never will. This facility was completely closed off to anybody investigating, even Army investigators.&#8221;</p></blockquote>
+<p>People keep telling me that America is a better place since 20 January 2009.  As with the claims of economic recovery &#8220;right around the corner,&#8221; there is precious little evidence.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/05/what-obama-means-when-he-says-the-troops.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A new shopper at the Pentagon</title>
+		<link>./../../2009/02/a-new-shopper-at-the-pentagon.html</link>
+		<comments>./../../2009/02/a-new-shopper-at-the-pentagon.html#respond</comments>
+		<pubDate>Tue, 24 Feb 2009 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Military expenditures]]></category>
+		<category><![CDATA[Obama appointment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/a-new-shopper-at-the-pentagon.html</guid>
+		<description><![CDATA[by divorced one like Bush Via Multi Medium comes a link to Boston.com for an article regarding another Obama appointment. President Obama late this afternoon nominated Harvard professor Ashton B. Carter, a leading authority on arms control, to take on a surprising new role, according to top administration officials &#8212; as the Pentagon&#8217;s chief weapons [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by divorced one like Bush</p>
+<p>Via <a href="http://multi-medium.net/2009/02/23/new-approach-to-defense-spending">Multi Medium</a> comes a link to <a href="http://www.boston.com/news/politics/politicalintelligence/2009/02/harvard_expert.html">Boston.com</a> for an article regarding another Obama appointment.  <br />
+<blockquote>President Obama late this afternoon nominated Harvard professor Ashton B. Carter, a leading authority on arms control, to take on a surprising new role, according to top administration officials &#8212; as the Pentagon&#8217;s chief weapons buyer.</p>
+<p>Instead, from his perch at Harvard&#8217;s Kennedy School, Carter has been criticizing the Pentagon for buying too many armaments it doesn&#8217;t need, decrying what he calls a lack of discipline and &#8220;failure to take account of cost growth in weapons systems and defense services.&#8221;</p></blockquote>
+<p>Of course the battle lines are being drawn.</p>
+<p>There is a brief on Professor Carter&#8217;s qualifications.  He has worked to clean up the nuclear proliferation, establishing relations with old Russian countries and involving Russia in the Bosnia Peace Plan, not to mention experience with the issue of terrorism.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/a-new-shopper-at-the-pentagon.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ARRA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Links Worth Rants</title>
+		<link>./../../2011/09/links-worth-rants.html</link>
+		<comments>./../../2011/09/links-worth-rants.html#respond</comments>
+		<pubDate>Thu, 01 Sep 2011 16:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ARRA]]></category>
+		<category><![CDATA[EUR]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[ratings]]></category>
+		<category><![CDATA[Republican brand]]></category>
+		<category><![CDATA[reputational risk]]></category>
+		<category><![CDATA[Tyler Cowen]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/links-worth-rants.html</guid>
+		<description><![CDATA[Busy day on several fronts, but these should be discussed and I&#8217;ve already posted one rant this week, so a riff on the second piece would be overkill. Sort of an Open Thread, with four topics. Tyler Cowen argues that, instead of giving out stimulus monies, the government should just hire people directly. No, really: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Busy day on several fronts, but these should be discussed and I&#8217;ve already <a href="http://www.angrybearblog.com/2011/08/sheer-idiocy-european-and-american.html">posted one rant</a> this week, so a riff on the second piece would be overkill. Sort of an Open Thread, with four topics.</p>
+<ol>
+<li>Tyler Cowen argues that, instead of giving out stimulus monies, <a href="http://marginalrevolution.com/marginalrevolution/2011/08/how-ineffective-was-the-stimulus-really.html">the government should just hire people directly</a>. No, really:<br />
+
+<p>
+</p>
+<blockquote><p>Let’s say seventy percent of the stimulus gets spent on labor at all, and only forty-two percent of that gets spent on unemployed labor&#8230;.That’s less than thirty percent of the initial expenditure being spent on unemployed labor and that is before any other problems with the expenditures kick in.  It’s hard for me to see that as a triumph of the program (NB: we are only talking about one part of ARRA here); would direct government employment have overhead costs that high?</p></blockquote>
+<p>
+<p>
+<br />UPDATE: Matt Yglesias <a href="http://thinkprogress.org/yglesias/2011/08/31/309145/mercatus-study-confirms-arras-success/">comes the same conclusion I did</a>: that the Jones and Rothschild study advocates &#8220;a targeted make-work program for unemployed people.&#8221;  And Mike Konczal does the definitive takedown of pretending the study reads as anything other than that <a href="http://rortybomb.wordpress.com/2011/09/01/did-the-arra-hire-the-unemployed-or-just-shift-jobs-around-the-employed/">ARRA was successful and too small</a>.</p>
+</li>
+<li>Anyone who thinks that S&#038;P will be in business five years from now should <a href="http://www.bloomberg.com/news/2011-08-31/subprime-mortgage-bonds-getting-aaa-rating-s-p-denies-to-u-s-treasuries.html">read this piece</a>.  Not even the market is stupid enough to believe that house prices cannot decline 5%, or that the costs of payment delays and the like will not eat the &#8220;value&#8221; of these securities.  That&#8217;s not unique; what has changed is that investors <em>are saying so</em>.
+</li>
+<li>Marshall Auerback suggests that <a href="http://neweconomicperspectives.blogspot.com/2011/08/tale-of-three-germanys-is-germany.html">Germany may be preparing to exit the Euro</a>.  My rough sketches suggest that&#8217;s a bad idea for their banks, but it might do their companies some good.  As he notes, &#8220;[his] <a href="http://neweconomicperspectives.blogspot.com/2011/05/to-save-euro-germany-has-to-quit.html">view</a>, which was once considered borderline crazy, is now getting more serious consideration.&#8221;
+</li>
+<li>Everyone who claimed that Jon Huntsman is a &#8220;sensible, sane Republican&#8221; <a href="http://thinkprogress.org/economy/2011/08/31/309249/huntsman-taxes-rich/">owes the rest of us a sackcloth-and-ashes level apology</a>. Anyone who still does it is a pawn or an idiot.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/links-worth-rants.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>risk &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Risk = Freedom?</title>
+		<link>./../../2013/02/risk-freedom.html</link>
+		<comments>./../../2013/02/risk-freedom.html#respond</comments>
+		<pubDate>Mon, 11 Feb 2013 16:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econospeak]]></category>
+		<category><![CDATA[freedom]]></category>
+		<category><![CDATA[Peter Dorman]]></category>
+		<category><![CDATA[risk]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/risk-freedom.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak speaks to the current selling of big idea models of the world (re-posted with permission from the author): There’s a review on the Dissent website by Steve Randy Waldman of Freaks of Fortune: The Emerging World of Capitalism and Risk in America by Jonathan Levy. The book sounds interesting, but it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://econospeak.blogspot.com/2013/02/risk-freedom.html">Peter Dorman</a> at Econospeak speaks to the current selling of big idea models of the world (re-posted with permission from the author):</p>
+<p>There’s a review on the <a href="http://www.dissentmagazine.org/online_articles/the-risk-ownership-society#prclt-9tUWfN1s"><i>Dissent</i> website</a> by Steve Randy Waldman of <i>Freaks of Fortune: The Emerging World of Capitalism and Risk in America</i> by Jonathan Levy. The book sounds interesting, but it is apparently based on a commonplace but false understanding of the relationship between freedom and risk-taking. </p>
+<p>At the individual level it is absolutely true that we face a tradeoff between risk and freedom. You can opt for a secure life, but only at the expense of creativity, individualism, moral courage and all the other Emersonian goodies. Each one of us, every day, faces this choice. Mostly it is just a matter of a tiny bit of risk-taking, but these moments add up, and from time to time there is a fundamental fork in the road. We make our own freedom.</p>
+<p>But the social level is another story. Individuals take the array of risks as given; society can choose how much risk its members will face and what their risk-freedom tradeoffs will be, at least up to a point. If the objective is to minimize all risk of any sort, especially all risks to health and income, the result will be stultifying. But that’s not where we are on the Great Risk Curve.</p>
+<p><a name="more"></a></p>
+<p> Rather, the debates we have are about whether to cut back or extend social insurance programs like Social Security and Medicare, social protections like TANF and Medicaid, and more or less regulation of finance, pollution and such. It seems clear to me that more security of this sort, which limits the downside risk individuals face in their personal lives, reduces the cost of living freely.    </p>
+<p>Examples are everywhere. Ample unemployment insurance makes it easier to work for a startup or switch jobs in general rather than being held down by too strong a need for job security. A stronger public pension system encourages entrepreneurship: people can hazard their savings by starting a business rather than hoarding everything for old age. Social guarantees for basic needs make it possible for artists to risk making art their day job. Professors with tenure (big time risk reduction) can take more controversial positions on public issues. (I don’t say they always do this, but they do it more than they would if all professors were temps.) In each case there is a real tradeoff between freedom and security at the individual level, but society can create programs that relax it, so it takes less courage to live freely.  </p>
+<p>That’s what I don’t like about the nanny state rhetoric. Yes, of course the state can go too far and overprotect us from risks we would do better to face ourselves. But the state we actually live in goes too far in the other direction. With a stronger safety net we could have less risk and more freedom.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/risk-freedom.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

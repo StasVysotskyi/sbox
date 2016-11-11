@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Little Depression &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Scariest Graphic I Made All Week, or, Still More on Excess Reserves and &#034;Money&#034;</title>
+		<link>./../../2012/03/the-scariest-graphic-i-made-all-week-or-still-more-on-excess-reserves-and-money.html</link>
+		<comments>./../../2012/03/the-scariest-graphic-i-made-all-week-or-still-more-on-excess-reserves-and-money.html#respond</comments>
+		<pubDate>Sat, 31 Mar 2012 03:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[Cursive-Z recession]]></category>
+		<category><![CDATA[economic recovery]]></category>
+		<category><![CDATA[excess reserves]]></category>
+		<category><![CDATA[Flow of Funds]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[Kauffman Institute]]></category>
+		<category><![CDATA[Little Depression]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[Tim Duy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/the-scariest-graphic-i-made-all-week-or-still-more-on-excess-reserves-and-money.html</guid>
+		<description><![CDATA[One of the nice things about the Kauffman Foundation&#8217;s Blogger Conference is the time to let the mind wander and look at data after having your brain scoured. One of the worst things is realizing too late that you&#8217;ve got a Really Ugly Graphic, and most of the people who could help with it are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of the nice things about the Kauffman Foundation&#8217;s Blogger Conference is the time to let the mind wander and look at data after having your brain scoured.</p>
+<p>One of the worst things is realizing too late that you&#8217;ve got a Really Ugly Graphic, and most of the people who could help with it are gone.</p>
+<p>Four hours ago at dinner, I was sitting between <a href="http://delong.typepad.com/">Brad DeLong</a> and <a href="http://economistsview.typepad.com/timduy/">Tim Duy</a> (who pointed out some good contemporary performers of Real Country Music), but I didn&#8217;t have this graphic with me.  Now Tim is on a plane and Brad is teaching students, and my best option is to ask the AB commentariat if the following graphic scares them as much as it does me.
+<p><a href="http://3.bp.blogspot.com/-949gkDNHmYA/T3Z6svugnBI/AAAAAAAAA6c/oIQn9YQInI8/s1600/M1LXRES201202.PNG"><img src="http://3.bp.blogspot.com/-949gkDNHmYA/T3Z6svugnBI/AAAAAAAAA6c/oIQn9YQInI8/s320/M1LXRES201202.PNG" border="0" alt=""></a></p>
+<p>Even given my hobby-horse attitude toward Excess Reserve (i.e., the Sheer Unmitigated Contempt with which I treat the idea that reserves in general—let alone <em>Excess</em> Reserves—should &#8220;earn&#8221; interest), the dropping-off-a-cliff impression (and the overall downward trend, even keeping in mind that we do not Seasonally Adjust Excess Reserves, and therefore Seasonal Effects are clear) almost seems to explain why the 32nd month of the &#8220;recovery&#8221; feels as if it&#8217;s just possibly starting something.</p>
+<p>To be fair—and a hearty &#8220;thank you&#8221; to <a href="http://oldprof.typepad.com/">Jeff Miller of A Dash of Insight</a> for reminding me that most people believe the Fed concentrates on M2, not M1—the broader index shows an upward trend (again, discounting the recent decline as a Seasonal Effect):</p>
+<p><a href="http://2.bp.blogspot.com/-6NmmJ74qFfA/T3Z9TdVA8sI/AAAAAAAAA6o/L-KnowzOnh4/s1600/M2LXRES201202.PNG"><img src="http://2.bp.blogspot.com/-6NmmJ74qFfA/T3Z9TdVA8sI/AAAAAAAAA6o/L-KnowzOnh4/s320/M2LXRES201202.PNG" border="0" alt=""></a></p>
+<p>Otoh, an overall ca. 5% increase in &#8220;Net M2,&#8221; as it were, over a year in which the dollar has increasingly appeared to be the only reasonable &#8220;Safe Haven&#8221; doesn&#8217;t seem all that large either.</p>
+<p>I&#8217;ve yet to play with the data beyond this, so I leave it to the AB comentariat:</p>
+<ol>
+<li>Do you believe there is something here?</li>
+<li>If so, any guesses what it is? Or anything you want to know about it?</li>
+<li>If not, what else should we be looking at where Excess Reserves may/should/will (depending upon your degree of certainty) affect the value of the data and/or Real Economic Growth?</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/the-scariest-graphic-i-made-all-week-or-still-more-on-excess-reserves-and-money.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Must-Read of the Day, non-NBER edition</title>
+		<link>./../../2012/02/must-read-of-the-day-non-nber-edition.html</link>
+		<comments>./../../2012/02/must-read-of-the-day-non-nber-edition.html#respond</comments>
+		<pubDate>Mon, 13 Feb 2012 20:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[economic recovery]]></category>
+		<category><![CDATA[FRB]]></category>
+		<category><![CDATA[Little Depression]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[Tim Duy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/must-read-of-the-day-non-nber-edition.html</guid>
+		<description><![CDATA[Tim Duy body-slams St. Louis FRB President James Bullard: Estimates of potential GDP are not simple extrapolations of actual GDP from the peak of the last business cycles. They are estimates of the maximum sustainable output given fully employed resources. The backbone of the CBO&#8217;s estimates is a Solow Growth model. So I don&#8217;t think [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tim Duy <a href="http://economistsview.typepad.com/timduy/2012/02/its-worse-than-you-think.html">body-slams St. Louis FRB President James Bullard</a>:</p>
+<blockquote><p>Estimates of potential GDP are not simple extrapolations of actual GDP from the peak of the last business cycles. They are estimates of the maximum sustainable output given fully employed resources.  The backbone of the <a href="http://www.cbo.gov/ftpdocs/30xx/doc3020/PotentialOutput.pdf">CBO&#8217;s estimates is a Solow Growth model</a>.  So I don&#8217;t think that <a href="http://noahpinionblog.blogspot.com/2012/02/jim-bullard-chucks-solow-growth-model.html">Noah Smith is quite accurate when he says</a>:</p>
+<blockquote><p>So, basically, what we have here is Bullard saying that the <a href="http://en.wikipedia.org/wiki/Neoclassical_growth_model">neoclassical (Solow) growth model</a> &#8211; and all models like it &#8211; are wrong. He&#8217;s saying that a change in asset prices can cause a permanent change in the equilibrium capital/labor ratio. </p></blockquote>
+<p>Bullard can&#8217;t be saying the Solow growth model is wrong because he doesn&#8217;t realize that such a model is the basis for the estimates he is criticizing. [first and last link in the original; Noah Smith link copied from elsewhere in the original post]</p></blockquote>
+<p>Go <a href="http://economistsview.typepad.com/timduy/2012/02/its-worse-than-you-think.html">Read the Whole Thing</a>.  For those of you too lazy to do that without incentive, here&#8217;s the conclusion:<br />
+<blockquote>Bottom Line:  Bullard really went down an intellectual dead end last week.  He criticized the focus on potential output, but revealed that he doesn&#8217;t really understand the concept of potential output either empirically or theoretically.  He then compounds that error by arguing against the current stance of monetary policy, but fails to provide an alternative policy path.  And the presumed policy path, tighter policy, looks likely to only worsen the distortions he argues the Fed is creating.  I just don&#8217;t see where Bullard thinks he is taking us.</p></blockquote>
+<p><a href="http://economistsview.typepad.com/timduy/2012/02/its-worse-than-you-think.html">It&#8217;s Worse Than You Think</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/must-read-of-the-day-non-nber-edition.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Most Important Set of Graphics You&#8217;ll Find in a BIS Speech</title>
+		<link>./../../2012/01/the-most-important-set-of-graphics-youll-find-in-a-bis-speech.html</link>
+		<comments>./../../2012/01/the-most-important-set-of-graphics-youll-find-in-a-bis-speech.html#respond</comments>
+		<pubDate>Thu, 05 Jan 2012 21:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Japan]]></category>
+		<category><![CDATA[Little Depression]]></category>
+		<category><![CDATA[US economy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/the-most-important-set-of-graphics-youll-find-in-a-bis-speech.html</guid>
+		<description><![CDATA[I&#8217;m still in catch-up mode, but I keep coming back to this presentation (PDF)—four times now. It&#8217;s a speech by BoJ member Masaaki Shirakawa in Tokyo on the 22nd of December last year to the Board of Councillors of Nippon Keidanren (Japan Business Federation), entitled &#8220;Globalization and population aging &#8211; challenges facing Japan.&#8221; Go through [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m still in catch-up mode, but I keep coming back to <a href="http://www.bis.org/review/r111227b.pdf">this presentation</a> (PDF)—four times now. It&#8217;s a speech by BoJ member Masaaki Shirakawa in Tokyo on the 22nd of December last year to the Board of Councillors of Nippon Keidanren (Japan Business Federation), entitled &#8220;Globalization and population aging &#8211; challenges facing Japan.&#8221;</p>
+<p>Go through the whole thing, but—most especially for U.S. readers—Chart 5.
+<p><a href="http://1.bp.blogspot.com/-jo1E8G8yvq4/TwYGLdsTjLI/AAAAAAAAAt8/VM_e2y_tuFg/s1600/BoJ%2B22Dec2011%2Bchart%2B5.PNG"><img src="http://1.bp.blogspot.com/-jo1E8G8yvq4/TwYGLdsTjLI/AAAAAAAAAt8/VM_e2y_tuFg/s320/BoJ%2B22Dec2011%2Bchart%2B5.PNG" border="0" alt=""></a></p>
+<p>Pay especial attention to Bank Lending and Housing Prices.  Then Riddle Me This, as it were: If U.S. housing prices are stable or basically plateaued overall, then there isn&#8217;t a growing decline in credit quality from that sector (the way there was in Japan over the comparable period).</p>
+<p>So why is bank lending in the U.S. so low and going lower?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/the-most-important-set-of-graphics-youll-find-in-a-bis-speech.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

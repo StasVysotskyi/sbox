@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>QE-ll &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>QE-II MMMCLXXVI</title>
+		<link>./../../2011/05/qe-ii-mmmclxxvi.html</link>
+		<comments>./../../2011/05/qe-ii-mmmclxxvi.html#respond</comments>
+		<pubDate>Sat, 28 May 2011 18:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[QE-ll]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/qe-ii-mmmclxxvi.html</guid>
+		<description><![CDATA[Another edition of my diatribe on QE-II. Here I reply to Noah in comments who discussed debt deflation and also explain my guess about what happened going beyond the evidence. Why does expected inflation matter (so that we should be pleased at an increase in nominal interest rates not matched by an equal increase in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Another edition of my diatribe on QE-II.  Here I reply to Noah in comments who discussed debt deflation and also explain my guess about what happened going beyond the evidence.</p>
+<p><a name="more"></a></p>
+<p>Why does expected inflation matter (so that we should be pleased at an increase in nominal interest rates not matched by an equal increase in real rates) ?  I can see how the real interest rate matters (no sign of an effect &#8212; literally I can&#8217;t guess if the change is up or down).</p>
+<p>I can see how actual inflation can make a difference.  But how does expected future inflation make a difference.  One way is if someone has a 30 year fixed interest rate mortgage without the option to repay immediately (or a substantial penalty for early repayment).   That person will consume less if expected inflation falls because the expected present value of interest payments will rise and they can&#8217;t refinance.  </p>
+<p>I am sure that there is at least one such mortgage somewhere (there is at least one of everything).  I&#8217;m not so sure there are a thousand.  My understanding is that there are two possibilities &#8212; fixed rate with option to repay and refinance and floating rate.</p>
+<p>Now let me motivate the null hypothesis (that QE-II did very little as would QE-III).  What if the interest elasticity of demand for 7 year Treasury notes is huge ?  First we can&#8217;t tell this from looking at market prices &#8212; elasticity is a statement about the slope (and level) of demand not the market clearing price for slowly changing quantities.  Second this means that reducing the amount of 7 year notes to be held by the public would have a small effect on, well first of all the price of those notes (which has gone *down* during the period of the QE-II purchases) and secondarily on everything else. </p>
+<p>The point is that the QE-II experiment makes it possible to identify the demand curve for 7 year notes for the very first time.  And with $600,000 less on the market, their price has gone down.  This is proof of nothing (two data points with a large disturbance term can&#8217;t be).  But it is just about all the relevant evidence we have.</p>
+<p>Now what would we expect to see if this elasticity were very high ?  Of course investors didn&#8217;t know that (like economists many thought QE-II would have a big impact).  I would guess an increase in price when QE II is anticipated but actual purchases haven&#8217;t started, then a decrease in price when the actual purchases start and it turns out that they didn&#8217;t have the anticipated effect.  </p>
+<p>This is exactly what happened.  A coincidence ?  Very possible, but the 7 year nominal interest rate looks exactly precisely as it should if lots of people thought QE-II would work and they were totally wrong.</p>
+<p>Look at the graph</p>
+<p>http://research.stlouisfed.org/fred2/graph/?graph_id=43182&#038;category_id=0</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/qe-ii-mmmclxxvi.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

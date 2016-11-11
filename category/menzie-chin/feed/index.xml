@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Menzie Chin &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Cyclically Adjusted Budget Balance: Shrinking Rapidly</title>
+		<link>./../../2013/03/the-cyclically-adjusted-budget-balance-shrinking-rapidly.html</link>
+		<comments>./../../2013/03/the-cyclically-adjusted-budget-balance-shrinking-rapidly.html#respond</comments>
+		<pubDate>Sat, 16 Mar 2013 18:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[budget balance]]></category>
+		<category><![CDATA[Menzie Chin]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/the-cyclically-adjusted-budget-balance-shrinking-rapidly.html</guid>
+		<description><![CDATA[Since I put a &#8216;liberal&#8217; name in a previous post, I will also put up a &#8216;conservative&#8217; name on budget balances: Menzie Chin at Econbrowser points to other CBO numbers&#8230; The Cyclically Adjusted Budget Balance: Shrinking Rapidly The CBO has just released estimates of the cyclically adjusted budget balance (or, specifically, the budget balance without automatic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since I  put a &#8216;liberal&#8217; name in a previous post, I will also put up a &#8216;conservative&#8217; name on budget balances:  <a href="http://www.econbrowser.com/archives/2013/03/the_cyclically_1.html" target="_blank">Menzie Chin at <i>Econbrowser</i></a> points to other CBO numbers&#8230;</p>
+<blockquote><p>The Cyclically Adjusted Budget Balance: Shrinking Rapidly</p>
+<p>The CBO has just released estimates of the <a href="http://www.cbo.gov/publication/43999">cyclically adjusted budget balance</a> (or, specifically, the budget balance without automatic stabilizers). The cyclically adjusted budget balance is a better measure of the fiscal stance. The evolution of this series is interesting.</p></blockquote>
+<p><a href="http://2.bp.blogspot.com/-SSkBEqEknHM/UUS7AOH6dJI/AAAAAAAABkQ/aIKFyzxrP5A/s1600/reagan_obama_budgetbalances+(1).gif" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/-SSkBEqEknHM/UUS7AOH6dJI/AAAAAAAABkQ/aIKFyzxrP5A/s320/reagan_obama_budgetbalances+(1).gif"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/the-cyclically-adjusted-budget-balance-shrinking-rapidly.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

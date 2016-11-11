@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FERC &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>David Cay Johnston has noticed a tax giveaway through FERC</title>
+		<link>./../../2010/06/david-cay-johnston-has-noticed-a-tax-giveaway-through-ferc.html</link>
+		<comments>./../../2010/06/david-cay-johnston-has-noticed-a-tax-giveaway-through-ferc.html#respond</comments>
+		<pubDate>Thu, 24 Jun 2010 12:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[FERC]]></category>
+		<category><![CDATA[subsidies]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/david-cay-johnston-has-noticed-a-tax-giveaway-through-ferc.html</guid>
+		<description><![CDATA[by Linda Beale David Cay Johnston has noticed a tax giveaway through FERC [hat tip to Tax Prof; edited to correct typo and provide links] David Cay Johnston, writing in Tax Notes, has focused on a tax giveaway that most of us have missed&#8211;a provision that permits partnerships that own pipelines to charge consumers for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>by Linda Beale</strong></p>
+<p><a target="_blank" href="http://ataxingmatter.blogs.com/tax/2010/06/david-cay-johnston-has-noticed-a-tax-giveaway-through-ferc.html"><strong>David Cay Johnston has noticed a tax giveaway through FERC</strong></a></p>
+<p>[hat tip to Tax Prof; edited to correct typo and provide links]</p>
+<p>David Cay Johnston, writing in Tax Notes, has focused on a tax giveaway that most of us have missed&#8211;a provision that permits partnerships that own pipelines to charge consumers for a tax that they don&#8217;t actually pay, resulting in considerable profits for the partners of the partnerships with little or no accompanying tax liability. See Master LImited Partnerships: Paying Other People&#8217;s Taxes, 129 Tax Notes 1393 (Jun. 21, 2010), available for free at tax.com, <a target="_blank" href="http://tax.com/taxcom/taxblog.nsf/Permalink/UBEN-86LJ4E?OpenDocument">here</a>. There&#8217;s also a brief explanatory video by Johnston, <a target="_blank" href="http://www.youtube.com/watch?v=V9SwDUNG8S0">here</a>. This pipeline policy stems from the Federal Energy Regulatory Commission and a 2007 court decision upholding the shift. ExxonMobil Oil Corp v. FERC, 487 F.3d 945 (DC Cir. 2007).</p>
+<p>As Johnston explains:</p>
+<blockquote><p>For a traditional corporate owned pipeline, these costs include the corporate income tax on company profits. However, the income taxes ofn individual investors have never before counted as a cost of providing service. &#8230;. [But] even though the MLP does not pay the corporate income tax, FERC lets MLP pipelines include income tax in the rates charged to customers. FERC policy assumes the top marginal rate. Since the only income tax paid is by individual owners, this means that the rates include the individual income tax the MLP investors owe. In other words, you are forced to pay the income taxes of the MLP investors when you buy natural gas or petroleum products that were transported on [a publicly traded partnership&#8217;s] pipeline. Id.</p></blockquote>
+<p>In fact, Johnston notes, the consumers pay the partners&#8217; income taxes &#8220;even if they are only &#8216;potential&#8217; taxes.&#8221; The result is incredible profits for partners in the partnership owning the pipelines.</p>
+<blockquote><p>The math here is stunning. When rates include a tax that does not exist, the investors make out like, well, bandits. Investors in an MLP pocket 75 percent more inn after-tax profits than they would if they invested in a traditional corporation owning a pipeline. Id.</p></blockquote>
+<p>FERC lost the originall BP West Coast case, so then it just issued a statement of policy, with private meetings between commissioners and lobbyists to agree to a general rule allowing a maximum tax to be in included in the rate calculation, even if there were no business level tax to affect business profits (and only individual investor taxes, which are not costs of any business). The court allowed this new policy to survive, based on extraordinary deference to the agency, even for an arbitrary and capricious standard of review. Isn&#8217;t it clear that allowing an agency to decide that companies that operate through non-taxed partnerships can nonetheless increase their rates by a non-paid tax is an arbitrary and capririous decision that is unfair to regulated entities as well as to consumers&#8211;especially when the order of magnitude is considered&#8211;$1.6 billion a year for gas pipelines and $1.3 billion a year for petroleum pipelines. Johnston notes that such pipelines consequently have rent-like profits of 42% of revenues, four times the typical margin for the 12,000 largest corporations.</p>
+<p>Further, this tax shifting is inflated by FERC&#8217;s own regulatory practices.</p>
+<blockquote><p>FERC has acknowledged that there is some over-collection by oil pipelines and yet it continues to grant rate hikes based not on costs, but on an index. &#8230;[T]he overcollection is pure profit except for the income tax burden, which is shifted to customers. Id. at 1395</p></blockquote>
+<p>Johnston makes two important points (paraphrased here): </p>
+<p>1.   Every industry has an incentive to get this treatment, since the &#8220;tax&#8221; is hidden from consumers and goes directly to industry investors&#8217; bottom lines, resulting in a small charge to everybody and a huge gain to the industry investors<br />It would be very simple for Congress to pass this advantage along to more industries, just by a minor change to the loophole exempting industries from the publicly traded partnership provisions intended result (treating publicly traded partnerships like corporations subject to the corporate tax). </p>
+<p>2.   And he notes that such treatment of monoplies is disturbing as a matter of principle, violating &#8220;two long-standing principles of rate regulation that are fundamental to fairness and integrity&#8221;&#8211;that owners be entitled to recover costs and earn a reasonable return on equity and that customers only be charged for actdual expenses. This is a trend towards &#8220;corporate socialism, under which profits are concentrated through government action and losses are socialized through bailouts.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/david-cay-johnston-has-noticed-a-tax-giveaway-through-ferc.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

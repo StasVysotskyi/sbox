@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gulf Storms &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Oil prices VS Storms</title>
+		<link>./../../2008/08/oil-prices-vs-storms.html</link>
+		<comments>./../../2008/08/oil-prices-vs-storms.html#respond</comments>
+		<pubDate>Tue, 05 Aug 2008 23:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Gulf Storms]]></category>
+		<category><![CDATA[oil]]></category>
+		<category><![CDATA[Prices]]></category>
+		<category><![CDATA[speculation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/08/oil-prices-vs-storms.html</guid>
+		<description><![CDATA[By: Divorced one like Bush Being that there is a lot of “authoritative” talking going on about the cause of the up&#8217;s and down&#8217;s of oil and one cause being suggested is the anticipation of storms, I thought looking at the history of storms and oil price would help toward answering the hypothesis of oil [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By: Divorced one like Bush</p>
+<p>Being that there is a lot of “authoritative” talking going on about the cause of the up&#8217;s and down&#8217;s of oil and one cause being suggested is the anticipation of storms, I thought looking at the history of storms and oil price would help toward answering the hypothesis of oil prices rising in anticipation of storm damage.</p>
+<p>Using the daily price of <a href="http://tonto.eia.doe.gov/dnav/pet/hist/rwtcd.htm">WTI Cushing/Oklahoma oil </a>I charted the relationship of price to the storm dates.  I use 6 price points.  A. 2 Monday&#8217;s before, B. Friday before, C. Monday before, D. Day of Storm, E. Friday after, F. 1 week after day of storm.  Any number in parenthesize is the price for the next open trading day.  When the storm fell on a week end, I counted 1 week after and used the next Monday.</p>
+<p>Chart after the fold.</p>
+<p><a href="http://2.bp.blogspot.com/_ea3-LcbrX8A/SJjiAC5fexI/AAAAAAAAAIQ/cz798iTWXl0/s1600-h/Oil+Price+vs+Storm+Dates.JPG"><img src="http://2.bp.blogspot.com/_ea3-LcbrX8A/SJjiAC5fexI/AAAAAAAAAIQ/cz798iTWXl0/s400/Oil+Price+vs+Storm+Dates.JPG" border="0" alt=""></a><br />I do not do correlation calculations.  But, I think this chart shows that there is no significant speculation in pricing based on Gulf storms.  There are 4 times that the price 1 wk post storm is lower than 2 Monday&#8217;s prior to the storm.  They are in order: Dolly 7/23/08 down $22.95, Dennis 7/10/05 down $2.66, Rita down 2.58 9/24/05 and Opal 10/4/95 down $0.10.  Of these 4, Rita has the highest pre-storm climb of $3.92 or 6%.  Dolly only showed a 2% climb pre-storm but there has been a 16% drop since her high 2 weeks before she hit.</p>
+<p>The interesting string is the 4 storms of 2005.   Katrina and Rita are the only storms that show some possibility of a storm pricing effect within this series.  Katrina with an almost $2.00 (3%) rise in 2 wks and then a decline of $4.50 until the price jumped $4.30 in 1 week before Rita.   However, the next trading day after Rita, the price was down $1.23  and 1 week later it was within $0.93 of the 2 weeks prior to tropical storm Cindy of 7/5/05 ( 2.5 months time between the two).  As to this year, the price is just plain going down since the peak 2 weeks before hurricane Dolly which is 1 month of downward trend before the republicans started filling hot air balloons.   </p>
+<p>It appears that if there is a storm pricing effect, it is a recent phenomenon and of a rather small and short lived event.  Being a new event in oil pricing, I would suggest that what effect there is, is purely emotional and related to the emotional climate we are living in.  Gun shy?  We only have fear to fear?  Or, maybe it is an herd mentality learned that a storm is a good excuse to make a quick dollar. That would be herd mentality market manipulation.  Oh no, did I just ruin it for everyone?</p>
+<p>Guess we are going to have to find someone talking with more authority than what we have had so far regarding the cause oil pricing.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/08/oil-prices-vs-storms.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

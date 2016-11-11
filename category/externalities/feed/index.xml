@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Externalities &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Should Potential Employers have Access to Credit Scores ?</title>
+		<link>./../../2010/07/should-potential-employers-have-access-to-credit-scores.html</link>
+		<comments>./../../2010/07/should-potential-employers-have-access-to-credit-scores.html#respond</comments>
+		<pubDate>Mon, 26 Jul 2010 11:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[adverse selection]]></category>
+		<category><![CDATA[credit]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[Externalities]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/should-potential-employers-have-access-to-credit-scores.html</guid>
+		<description><![CDATA[Robert Waldmann Oh good, Kevin Drum and Matthew Yglesias disagree. This is bound to be interesting. Drum remembers the good old days when liberals had less respect for the standard results of simple neoclassical economic models. The specific issue is that firms are using credit scores to decide who to hire. This can trap some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Oh good, Kevin Drum and Matthew Yglesias disagree. This is bound to be interesting.</p>
+<p>Drum remembers the good old days when liberals had less respect for the standard results of simple neoclassical economic models. </p>
+<p>The specific issue is that firms are using credit scores to decide who to hire. This can trap some people as they can&#8217;t improve their credit score without a job and can’t get a job with their current credit score. Kevin Drum <a href="http://motherjones.com/kevin-drum/2010/07/liberalism-and-business-community">thinks the practice should be banned.</a> Matthew Yglesias isn&#8217;t sure. </p>
+<p><a name="more"></a></p>
+<p>Yglesias <a href="http://yglesias.thinkprogress.org/2010/07/credit-scores-and-employment/">wrote</a><br />
+<blockquote>But at the same time I try to adhere to the principle I outlined here and resist the urge to call for regulating the business practices of private firms when the issue isn&#8217;t pollution or some other case where the externalities are clear. After all, it seems like either this credit check business is a sound business practice (in which case allowing it is making the economy more efficient and ultimately building a more prosperous tomorrow) or else it&#8217;s an unsound business practice (in which case competition should drive it out).</p></blockquote>
+<p>That is actually a pretty radical position. I wonder what clear externality the 64 civil rights act addressed. I&#8217;m quite sure Yglesias doesn&#8217;t think what he seemed to assert, but I want to figure out what he had in mind.</p>
+<p>Drum responds &#8220;More important is the fact that we liberals shouldn&#8217;t view the relationship between businesses and individuals as solely economic transactions&#8221; and gives an example<br />
+<blockquote>Here&#8217;s an example. Back in 1968, Congress passed the Truth in Lending Act. Among other things, it made credit card companies liable for charges on stolen credit cards over $50. In a purely economic sense, there&#8217;s really no excuse for this. </p></blockquote>
+<p>Ah how naïve. There is always an excuse based on economic theory (with the assumption of full rationality) for any policy. I view any assertion to the contrary as a personal challenge. This one is easy. Drum argues that the regulation creates a moral hazard problem as we are more careless with our wallets. I see his moral hazard and raise him an adverse selection (Hint: adverse selection is a great tool for justifying regulations as market outcomes are inefficient if there is adverse selection).</p>
+<p>So let&#8217;s say everyone is better off with the regulation so the most wallet guarding yet not risk averse person is willing to pay extra to the bank in exchange for this protection. That doesn&#8217;t mean that this will be the market outcome. Let’s say a credit card company introduces a new card with the $50 limit. It will attract all the people who can&#8217;t keep track of their wallets. It will also attract people who commit a rare kind of fraud giving their card to an accomplice, having the accomplice buy stuff and then reporting it lost. There aren&#8217;t many of those, but there are enough that the extra interest (or other fees) that the company would have to charge would drive away everyone but the fraudsters and the most absent minded yet risk averse (I raise my hand). So the new product would enter the adverse selection death spiral.</p>
+<p>The only solution is to force everyone to buy the protection which everyone wants if the fee is the actuarially fair fee for 100% coverage. Oh look, that’s the current law. That was easy. No sweat, no equations. </p>
+<p>I mean Kevin you consider the health care reform debate and recall how forcing people to buy insurance, whether they want it or not, can be Pareto improving in a standard economic model. </p>
+<p>Now on the original topic, I side with Drum. I think there is an externality. If people are rendered unemployable, maybe because of their fecklessness maybe because of their unluckiness there are externalities. For one thing the standard argument for <em>laissez faire</em> assumes we are totally selfish and absolutely needs that assumption to get the result. If desperate unemployable people cause others pain, then there is an externality. Another simpler externality is crime. People who are excluding from employment have little to lose from turning to crime. That’s an externality.</p>
+<p>I’m pretty sure Yglesias&#8217;s idea is that both of these are arguments for redistribution from rich to poor and that such redistribution is more efficiently obtained by taxing and transferring. First, self esteem can&#8217;t be transferred. Good examples for the children can&#8217;t be transferred either. More importantly, there is no way that the feckless poor are getting much in the USA. You make policy with the electorate you have not the electorate you want. US voters are very willing to regulate business. They are totally unwilling to transfer money to people who firms don’t want to employ, because they seem to be irresponsible.</p>
+<p>Assuming a social planner who taxes and transfers optimally is like assuming regulators can&#8217;t be captured or assuming that CO2 doesn&#8217;t cause global warming. That’s not the world we live it. I think we have to transfer however we can and that includes hiding information from potential employers. The loss in efficiency is a social loss only if one assumes that income distribution doesn&#8217;t matter (or assumes that there are optimal lump sum taxes and transfers which is an oxymoron). The link clicking reader will notice that my arguments are pretty much orthogonal to Drum’s.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/should-potential-employers-have-access-to-credit-scores.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How&#8217;s that Secession Plan Working?</title>
+		<link>./../../2009/04/hows-that-secession-plan-working.html</link>
+		<comments>./../../2009/04/hows-that-secession-plan-working.html#respond</comments>
+		<pubDate>Wed, 29 Apr 2009 13:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Externalities]]></category>
+		<category><![CDATA[spillover effects]]></category>
+		<category><![CDATA[taxation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/hows-that-secession-plan-working.html</guid>
+		<description><![CDATA[Putting a human face on the need for public goods and services. Perhaps Rick Perry will take the next step from asking for help and realise that being a country means more than just not paying taxes.]]></description>
+				<content:encoded><![CDATA[<p>Putting <a target="_blank" href="http://www.chron.com/disp/story.mpl/front/6398202.html">a human face</a> on the need for public goods and services.</p>
+<p>Perhaps Rick Perry will take the next step from <a target="_blank" href="http://www.sanmarcosrecord.com/local/local_story_115145845.html">asking for help</a> and realise that being a country means more than just not paying taxes.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/hows-that-secession-plan-working.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Advantage to Sin Taxes is Relatively Low IED</title>
+		<link>./../../2009/03/the-advantage-to-sin-taxes-is-relatively-low-ied.html</link>
+		<comments>./../../2009/03/the-advantage-to-sin-taxes-is-relatively-low-ied.html#respond</comments>
+		<pubDate>Fri, 20 Mar 2009 21:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[Externalities]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[hyperinflation]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[tax burden]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/03/the-advantage-to-sin-taxes-is-relatively-low-ied.html</guid>
+		<description><![CDATA[My Loyal Reader notes that the economic survival of Zimbabwe&#8217;s current government is now largely dependent on sin taxes: As he presented his revised 2009 budget to parliament, Finance Minister Tendai Biti noted that &#8220;indirect taxes made up of customs and excise duty have contributed 88 percent of government revenue, which means that the government [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My Loyal Reader notes that the economic survival of Zimbabwe&#8217;s current government is now <a target="blank" href="http://edition.cnn.com/2009/WORLD/africa/03/18/zimbabwe.finance/">largely dependent on sin taxes</a>:<br />
+<blockquote>As he presented his revised 2009 budget to parliament, Finance Minister Tendai Biti noted that &#8220;indirect taxes made up of customs and excise duty have contributed 88 percent of government revenue, which means that the government has been literally sustained by beer and cigarettes.&#8221;</p></blockquote>
+<p>Those who are planning to &#8220;go Galt&#8221; will need also to Sin No More.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/03/the-advantage-to-sin-taxes-is-relatively-low-ied.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why I Can&#8217;t Read Ta-Nehisi Coates</title>
+		<link>./../../2009/02/why-i-cant-read-ta-nehisi-coates.html</link>
+		<comments>./../../2009/02/why-i-cant-read-ta-nehisi-coates.html#respond</comments>
+		<pubDate>Sat, 21 Feb 2009 03:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Externalities]]></category>
+		<category><![CDATA[meta]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/why-i-cant-read-ta-nehisi-coates.html</guid>
+		<description><![CDATA[In the past two minutes of checking out Coates&#8217;s latest—well worth reading, otherwise—there have been banner and frame adverts for: The Atlantic Business, edited by Megan McArdle, &#8220;Decoding the Mysteries of Today&#8217;s Economic Order&#8221; or McMegan Explains Modern Business Models (a.k.a. &#8220;Built to Flip&#8221;) All to You and &#8220;Need Advice? Ask Jeffrey Goldberg&#8220; Sorry, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In the past two minutes of checking out <a href="http://ta-nehisicoates.theatlantic.com/">Coates&#8217;s latest</a>—well worth reading, otherwise—there have been banner and frame adverts for:
+<ol>
+<li><em>The Atlantic Business</em>, edited by <a href="http://firemeganmcardle.blogspot.com/">Megan McArdle</a>, &#8220;Decoding the Mysteries of Today&#8217;s Economic Order&#8221; or <a href="http://www.kathryncramer.com/kathryn_cramer/2009/01/shorter-megan-mcardle.html">McMegan</a> <a href="http://agonyin8fits.blogspot.com/2009/02/oh.html">Explains</a> <a href="http://firemeganmcardle.blogspot.com/2009/02/in-case-you-were-wondering.html">Modern Business Models</a> (a.k.a. &#8220;Built to Flip&#8221;) All to You and</li>
+<li>&#8220;Need Advice? Ask <a href="http://instaputz.blogspot.com/2009/02/greenwald-vs-goldberg.html">Jeffrey</a> <a href="http://www.salon.com/opinion/greenwald/2009/02/20/goldberg/index.html">Goldberg</a>&#8220;</li>
+</ol>
+<p>Sorry, but from now on, I&#8217;ll depend on <a href="http://www.google.ca/search?hl=en&#038;as_q=&#038;as_epq=Ta-Nehisi+Coates&#038;as_oq=&#038;as_eq=&#038;num=10&#038;lr=&#038;as_filetype=&#038;ft=i&#038;as_sitesearch=delong.typepad.com&#038;as_qdr=all&#038;as_rights=&#038;as_occt=any&#038;cr=&#038;as_nlo=&#038;as_nhi=&#038;safe=images">Brad DeLong</a> to do the heavy lifting.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/why-i-cant-read-ta-nehisi-coates.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I Wish I TA&#8217;ed Monopolistic Competition instead of Economic Development</title>
+		<link>./../../2008/11/i-wish-i-taed-monopolistic-competition-instead-of-economic-development.html</link>
+		<comments>./../../2008/11/i-wish-i-taed-monopolistic-competition-instead-of-economic-development.html#respond</comments>
+		<pubDate>Sat, 15 Nov 2008 04:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Externalities]]></category>
+		<category><![CDATA[legal games]]></category>
+		<category><![CDATA[lessons in admitting error publicly]]></category>
+		<category><![CDATA[monopolistic competition]]></category>
+		<category><![CDATA[MSFT]]></category>
+		<category><![CDATA[reputational risk]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/11/i-wish-i-taed-monopolistic-competition-instead-of-economic-development.html</guid>
+		<description><![CDATA[Everyone should read Joe Wilcox&#8217;s update, based on the release of more court docs, on the ongoing saga of Why Vista Sucked on Release. (Short version: because Intel asked.) Teaser quote, which would look fine in Mankiw or Krugman&#8217;s next Macro text: Based on the available information, I come to an easy conclusion: One monopoly [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Everyone should read Joe Wilcox&#8217;s update, based on the release of more court docs, on the ongoing saga of Why Vista Sucked on Release.  (Short version: because Intel asked.)</p>
+<p><a href="http://www.microsoft-watch.com/content/corporate/intel-microsoft_vistagate_part_3.html?kc=MWRSS02129TX1K0000535">Teaser quote</a>, which would look fine in Mankiw or Krugman&#8217;s next Macro text:</p>
+<blockquote><p>Based on the available information, I come to an easy conclusion: One monopoly colluded with another for economic gain—and in this instance causing harm to Microsoft, its partners and customers. Matters were even worse than intended, because Microsoft delayed Vista: </p>
+<ol>
+<li>Vista-inferior chip sets stayed in market longer than they otherwise should have. </li>
+<li>More consumers bought PCs incapable of fully running Aero Glass.</li>
+<li>Notebooks were disproportionately affected, because the state of the art was even lower than for desktops.</li>
+</ol>
+</blockquote>
+<p>So if the guys at Compaq wonder why I will never buy one of their products again, they may have a legitimate argument that it wasn&#8217;t <em>all</em> their fault.  But it doesn&#8217;t change the reality—or, if you prefer, the Externality.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/11/i-wish-i-taed-monopolistic-competition-instead-of-economic-development.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Coffee, Tea, or You?</title>
+		<link>./../../2008/11/coffee-tea-or-you.html</link>
+		<comments>./../../2008/11/coffee-tea-or-you.html#respond</comments>
+		<pubDate>Sat, 08 Nov 2008 05:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2008 presidential]]></category>
+		<category><![CDATA[Externalities]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/11/coffee-tea-or-you.html</guid>
+		<description><![CDATA[I assume everyone heard about Starbucks offering a free cup of what they call coffee to anyone who went in on Tuesday and said they voted. Via a young woman who would probably prefer I not name her, a store in NYC went one better. (And the offers were non-rival.)]]></description>
+				<content:encoded><![CDATA[<p>I assume everyone heard about Starbucks offering a free cup of <a href="http://eatourbrains.com/EoB/2007/07/28/all-shook-up/">what they call coffee</a> to anyone who went in on Tuesday and said they voted.</p>
+<p>Via a young woman who would probably prefer I not name her, a store in NYC <a href="http://www.babeland.com/sexinfo/features/get-out-vote-sex-toys/">went one better</a>. (And the offers were non-rival.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/11/coffee-tea-or-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What We Learn from Sports</title>
+		<link>./../../2008/11/what-we-learn-from-sports.html</link>
+		<comments>./../../2008/11/what-we-learn-from-sports.html#respond</comments>
+		<pubDate>Sat, 01 Nov 2008 23:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[education cost]]></category>
+		<category><![CDATA[Externalities]]></category>
+		<category><![CDATA[sports]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/11/what-we-learn-from-sports.html</guid>
+		<description><![CDATA[Compare and contrast: Philadelphia, after a first-time-in-25-years win: The School District of Philadelphia &#8211; as if to prove you don&#8217;t need miserable weather to rain on a parade &#8211; has no plans to close for a victory celebration, no matter how momentous the occasion might be. &#8220;Our expectations are that students will report to school [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Compare and contrast:</p>
+<p>Philadelphia, <a href="http://www.philly.com/philly/news/breaking/20081029_No_day_off_for_Phila__schools_for_a_victory_parade.html">after a first-time-in-25-years win</a>:</p>
+<blockquote><p>The School District of Philadelphia &#8211; as if to prove you don&#8217;t need miserable weather to rain on a parade &#8211; has no plans to close for a victory celebration, no matter how momentous the occasion might be.</p>
+<p>&#8220;Our expectations are that students will report to school just like any other weekday &#8211; and report on time,&#8221; said Fernando Gallard, spokesman for the school district, this morning.</p></blockquote>
+<p>An entire Georgia county, <a href="http://sports.espn.go.com/ncf/news/story?id=3674820">before a midseason football game</a>:<br />
+<blockquote>Call it a case of the Red and Black flu.</p>
+<p>Tired of struggling to find enough teachers to staff its classrooms on the Friday before the annual Georgia-Florida football game, the Clarke County (Ga.) School District &#8212; which includes Athens, home of the University of Georgia &#8212; decided to cancel school altogether.</p></blockquote>
+<p>As a Philadelphia native, I&#8217;m proud of the first decision (which was, undoubtedly, be honored in its breech).  As an MBA from the University of Georgia, I&#8217;m embarrassed.</p>
+<p>But not so much as <a href="http://scores.espn.go.com/ncf/boxscore?gameId=283060061">the UGA fans probably are</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/11/what-we-learn-from-sports.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>All That Positional Warfare For Nothing</title>
+		<link>./../../2008/06/all-that-positional-warfare-for-nothing.html</link>
+		<comments>./../../2008/06/all-that-positional-warfare-for-nothing.html#respond</comments>
+		<pubDate>Sat, 21 Jun 2008 18:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Auto Industry]]></category>
+		<category><![CDATA[Externalities]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/06/all-that-positional-warfare-for-nothing.html</guid>
+		<description><![CDATA[by Tom Bozzo This ran on AutoWeek&#8217;s &#8220;But Wait, There&#8217;s More&#8230;&#8221; page, under the heading &#8220;This week&#8217;s sign the automotive apocalypse is nigh&#8221; (sorry, no link): &#8230;[A]ccording to a General Motors study: 88 percent of women surveyed would rather chat up someone who owns the latest fuel-efficient car versus the latest sports car. I suppose [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo</p>
+<p>This ran on AutoWeek&#8217;s &#8220;But Wait, There&#8217;s More&#8230;&#8221; page, under the heading &#8220;This week&#8217;s sign the automotive apocalypse is nigh&#8221; (sorry, no link):<br />
+<blockquote>&#8230;[A]ccording to a General Motors study:
+<ul>
+<li>88 percent of women surveyed would rather chat up someone who owns the latest fuel-efficient car versus the latest sports car.</li>
+</ul>
+</blockquote>
+<p>I suppose as long as automobile marketers have social-status anxiety to work with, they&#8217;re still in business.  This may also be among ways it&#8217;s not bad at all to live in one of Those Neighborhoods where you <a href="http://delong.typepad.com/sdj/2008/06/record-prius-pa.html">can&#8217;t throw a rock without hitting a Prius</a>, so buying an econobox would increase social status.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/06/all-that-positional-warfare-for-nothing.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

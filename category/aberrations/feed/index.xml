@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>aberrations &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Aberrations</title>
+		<link>./../../2008/04/aberrations.html</link>
+		<comments>./../../2008/04/aberrations.html#respond</comments>
+		<pubDate>Mon, 14 Apr 2008 12:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[aberrations]]></category>
+		<category><![CDATA[comparing presidents]]></category>
+		<category><![CDATA[real gdp per capita]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/aberrations.html</guid>
+		<description><![CDATA[There&#8217;s a graph I put up a few times, and it always leads to comments and e-mails from folks on the right. Its this one, showing growth rates in real GDP per capita over the length of each Presidency starting with Ike: The response goes more or less as follows: 1. JFK and LBJ presided [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a graph I put up a few times, and it always leads to comments and e-mails from folks on the right.  Its this one, showing growth rates in real GDP per capita over the length of each Presidency starting with Ike:</p>
+<p><a href="http://4.bp.blogspot.com/_yBU2IH33oeM/R4bdfdumL6I/AAAAAAAAA80/yYHmZlEFR2A/s1600-h/dynamic+scoring+-+real+GDP+per+capita+graph.jpg"><img src="http://4.bp.blogspot.com/_yBU2IH33oeM/R4bdfdumL6I/AAAAAAAAA80/yYHmZlEFR2A/s320/dynamic+scoring+-+real+GDP+per+capita+graph.jpg" border="0" alt=""></a></p>
+<p>The response  goes more or less as follows:</p>
+<p>1.  JFK and LBJ presided over fast growth because JFK cut taxes and because the rest of the world hadn&#8217;t caught up to America&#8217;s manufacturing engine.<br />2.  Carter didn&#8217;t really produce growth.  The figures must be mistaken.<br />3.  Clinton was just lucky to be President at a time when the dot com boom happened.  Plus there was the Republican Revolution.</p>
+<p>Now, the problem with 1. is that the JFK tax cuts actually weren&#8217;t JFK tax cuts, they were LBJ tax cuts in JFK&#8217;s name, pushed through in 1964, so they can&#8217;t possibly explain 1961, 1962, or 1963.  And the cut in tax rates seemed to produce a very different effect during the LBJ years than under the Reagan or GW years &#8211; much, much faster real growth, and a shrinking debt to boot.   And BTW, the issue of the debt matters a lot &#8211; Government spending is a component of GDP, so you can push up GDP by pulling a Reagan, namely having the government explode the deficit and spending the money, leaving a bill for one&#8217;s successors.</p>
+<p>As to the bit about the rest of the world catching up&#8230;  was the US&#8217; position relative to the rest of the world so much different from 1961 to 1968 than it had been in the eight years prior, or the eight years following?  Seriously? </p>
+<p>As to Carter&#8230; his last year in office was awful.  He inherited a mess &#8211; inflation, disco, and an energy crisis being among the chief problems &#8211; but there was pretty solid growth during his first three years.  His last year in office wasn&#8217;t so hot, but even with that, he did better than all but LBJ, JFK, Clinton and Reagan.  </p>
+<p>Then we get to Clinton.  His fiscal responsibility is credited to Newt and the dot com boom, despite the fact that receipts started rising in 1993 (think tax hikes) and outlays started falling the same year, long before the Republican Revolution or the dot com boom took off.  (Pictures <a href="http://angrybear.blogspot.com/2007/08/comparing-presidents-receipts-outlays.html">here</a> &#8211; take a look, its a pretty linear trend.) </p>
+<p>So the conclusion we are supposed to reach is that four out of the top five administrations when it comes to growth in real GDP per capita since 1953 were aberrations of some sort, that if it weren&#8217;t for random circumstances, or had they not followed the Republican mantra, they would have grown much slower.  </p>
+<p>Its easier for some people to assume that every single one of the Democrats in the sample was an aberration of some sort than to assume that Ronald Reagan, the only Republican among the top five, was the aberration.  </p>
+<p>Of course, the implication of this is obvious &#8211; unless every single one of the Republicans other than Reagan was an aberration too, the growth rate in real GDP per capita we should expect to see, on average, is more similar to the one produced by the red bars on the right side of the graph than that produced by the blue bars on the left side of the graph.  Don&#8217;t these people realize, as Ronald Reagan himself told us in his <a href="http://www.presidency.ucsb.edu/ws/index.php?pid=43130">first inaugural address</a>, that &#8220;we&#8217;re too great a nation to limit ourselves to small dreams&#8221;?  Of course, if we&#8217;re going to achieve bigger dreams, we need to have realistic plans, not just plans based on erroneous assumptions that history has shown, over and over, will not work.<br />END</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/aberrations.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

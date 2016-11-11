@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>real gdp per capita &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tax Rates v. Real GDP Growth Rates, a Scatter Plot</title>
+		<link>./../../2011/01/tax-rates-v-real-gdp-growth-rates-a-scatter-plot.html</link>
+		<comments>./../../2011/01/tax-rates-v-real-gdp-growth-rates-a-scatter-plot.html#respond</comments>
+		<pubDate>Wed, 26 Jan 2011 11:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Income tax]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+		<category><![CDATA[real gdp per capita]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/tax-rates-v-real-gdp-growth-rates-a-scatter-plot.html</guid>
+		<description><![CDATA[by Mike Kimel Tax Rates v. Real GDP Growth Rates, a Scatter PlotCross posted at the Presimetrics blog. This post was submitted by Kaleberg. In this post, I will look at the relationship between top marginal income tax rates and real GDP growth using a scatter plot. I am inordinately fond of scatter plots. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>Tax Rates v. Real GDP Growth Rates, a Scatter Plot</strong>Cross posted at the <a href="http://www.presimetrics.com/blog/?p=307">Presimetrics blog</a>.</p>
+<p>This post was submitted by <strong>Kaleberg</strong>.  </p>
+<p>In this post, I will look at the relationship between top marginal income tax rates and real GDP growth using  a scatter plot.  </p>
+<p>I am inordinately fond of scatter plots. The nice thing about a scatter plot is that you can present a lot of data in a fairly small space, so rather than just comparing tax rates at time period t against real GDP growth rates from period t to t+1, I can also show real GDP growth rates from period t to t+2, from t to t+3, and from t to t+4.  (I.e., the scatter plot shows tax rates at any given time, and the growth rates over one year, two years, three years, and four years.)  </p>
+<p>The vertical axis is the GDP growth rate, the geometric average for multiple years. The horizontal average is the top marginal tax rate. The one year comparison is shown in dark blue, and each subsequent year is shown with a paler color and a smaller marker.</p>
+<p><a href="http://4.bp.blogspot.com/_8UVGnCIfOVk/TT_5n4rT91I/AAAAAAAAAg8/UQj16asciMQ/s1600/scatter.bmp"><img src="http://4.bp.blogspot.com/_8UVGnCIfOVk/TT_5n4rT91I/AAAAAAAAAg8/UQj16asciMQ/s400/scatter.bmp" border="0" alt=""></a>Figure 1</p>
+<p>Data is for the period from 1929 to 2009 (i.e., all the years available from the BEA.)<br /><a name="more"></a></p>
+<p>Lower top marginal tax rates seem to limit economic growth with a rate of about 60% seeming to divide the restricted growth phase from the unrestricted growth phase. There might be a little falloff when the tax rate passes 90%, or there might not.  There are lackluster growth rates associated with higher and lower top marginal tax rates. Mediocre growth is not all that hard to achieve. Finally, if high top marginal tax rates had a multi-year effect, we&#8217;d see a distinctive pattern in paler blue in this chart, but we don&#8217;t. The paler blue, longer term comparisons seem bounded by the single year effect.</p>
+<p>&#8212;</p>
+<p>The data used in this scatterplot is the same data used to build the bar chart in this <a href="http://www.presimetrics.com/blog/?p=278">this post</a>.</p>
+<p>&#8212;<br />Note from Mike Kimel &#8211; as always, if you want the spreadsheet (I have a copy of Kaleberg&#8217;s work), send me an e-mail.  I&#8217;m at my first name dot my last name at gmail.com, and my first name is &#8220;mike.&#8221;  My last name has only one &#8220;m.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/tax-rates-v-real-gdp-growth-rates-a-scatter-plot.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Government Site to Check</title>
+		<link>./../../2009/11/government-site-to-check.html</link>
+		<comments>./../../2009/11/government-site-to-check.html#respond</comments>
+		<pubDate>Tue, 03 Nov 2009 12:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic development]]></category>
+		<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[economic stimulus]]></category>
+		<category><![CDATA[Fiscal stimulus]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[real gdp per capita]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/government-site-to-check.html</guid>
+		<description><![CDATA[Mish sends us to &#8220;Track the Money,&#8221; recovery.gov&#8217;s breakdown of where funds have been sent and spent. He&#8217;s not happy, but I suspect he&#8217;s suffering the Jared Bernstein Problem: only looking at one side of the equation. But—and this is the key &#8220;but&#8221;—the reason it is right to do that is that ARRA money has [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Mish sends us to &#8220;<a target="_blank" href="http://www.recovery.gov/Pages/home.aspx">Track the Money</a>,&#8221; recovery.gov&#8217;s breakdown of where funds have been sent and spent.</p>
+<p>He&#8217;s not happy, but I suspect he&#8217;s suffering the <a target="_blank" href="http://delong.typepad.com/sdj/2009/10/in-which-jared-bernstein-does-a-bad-bad-thing.html">Jared Bernstein Problem</a>: only looking at one side of the equation.</p>
+<p>But—and this is the key &#8220;but&#8221;—the reason it is right to do that is that ARRA money has two-way flow.  It supports jobs and production, both priming the pump and moving production forward.  This works if (1) the cost is minimal and (2) the production will be saleable (avoid the &#8220;double-dip&#8221;).  Which implies (1) domestic interest rates must remain near zero and either (2a) U.S. consumer demand for domestic goods must increase or (2b) the U.S. dollar must depreciate, making our goods more desired abroad.</p>
+<p>All of the above is reasonable and conceivable, even if it does imply the stock market may be overvalued.</p>
+<p>And if the recent reports are true, the biggest effect of the stimulus has been in <a target="_blank" href="http://www.businessweek.com/ap/financialnews/D9B9P3LO1.htm">stabilizing education</a>, which reaps long-term benefits, as conservative economist Ed Glaeser <a target="_blank" href="http://economix.blogs.nytimes.com/2009/10/06/what-happened-to-argentina/">noted last month</a>.</p>
+<p>But that&#8217;s the stimulus.  The bailout money, well, that&#8217;s another question.  And another post.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/government-site-to-check.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spencer on Industrial Production Report</title>
+		<link>./../../2008/09/spencer-on-industrial-production-report.html</link>
+		<comments>./../../2008/09/spencer-on-industrial-production-report.html#respond</comments>
+		<pubDate>Mon, 15 Sep 2008 15:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[gas shortages]]></category>
+		<category><![CDATA[real gdp per capita]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/spencer-on-industrial-production-report.html</guid>
+		<description><![CDATA[I&#8217;m on vacation, but had time to notice with all that is going on in the financial markets nobody noticed that industrial production fell 1.1% in August. Moreover, the June and July data were revised down. This is another observation supporting the analysis that third quarter real GDP growth will be very weak and maybe [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m on vacation, but had time to notice with all that is going on in the financial markets nobody noticed that industrial production fell 1.1% in August.  Moreover, the June and July data were revised down.</p>
+<p><a href="http://4.bp.blogspot.com/_Zh1bveXc8rA/SM6B9OT_T9I/AAAAAAAAAZY/B_zh_R-g-lo/s1600-h/Clipboard01.jpg"><img src="http://4.bp.blogspot.com/_Zh1bveXc8rA/SM6B9OT_T9I/AAAAAAAAAZY/B_zh_R-g-lo/s320/Clipboard01.jpg" alt="" border="0"></a>This is another observation supporting the analysis that third quarter real GDP growth will be very weak and maybe even negative even though we have no trade data yet.  But with real personal consumption expenditures down in June and nominal retail sales down in July the third quarter is looking much weaker than the first half.</p>
+<p>P.S.  I read several blogs reporting on gas shortages and price gouging, but Saturday as I drove from Atlanta to Charleston I  bought gas at $4.23.  What am I missing?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/spencer-on-industrial-production-report.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Aberrations</title>
+		<link>./../../2008/04/aberrations.html</link>
+		<comments>./../../2008/04/aberrations.html#respond</comments>
+		<pubDate>Mon, 14 Apr 2008 12:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[aberrations]]></category>
+		<category><![CDATA[comparing presidents]]></category>
+		<category><![CDATA[real gdp per capita]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/aberrations.html</guid>
+		<description><![CDATA[There&#8217;s a graph I put up a few times, and it always leads to comments and e-mails from folks on the right. Its this one, showing growth rates in real GDP per capita over the length of each Presidency starting with Ike: The response goes more or less as follows: 1. JFK and LBJ presided [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a graph I put up a few times, and it always leads to comments and e-mails from folks on the right.  Its this one, showing growth rates in real GDP per capita over the length of each Presidency starting with Ike:</p>
+<p><a href="http://4.bp.blogspot.com/_yBU2IH33oeM/R4bdfdumL6I/AAAAAAAAA80/yYHmZlEFR2A/s1600-h/dynamic+scoring+-+real+GDP+per+capita+graph.jpg"><img src="http://4.bp.blogspot.com/_yBU2IH33oeM/R4bdfdumL6I/AAAAAAAAA80/yYHmZlEFR2A/s320/dynamic+scoring+-+real+GDP+per+capita+graph.jpg" border="0" alt=""></a></p>
+<p>The response  goes more or less as follows:</p>
+<p>1.  JFK and LBJ presided over fast growth because JFK cut taxes and because the rest of the world hadn&#8217;t caught up to America&#8217;s manufacturing engine.<br />2.  Carter didn&#8217;t really produce growth.  The figures must be mistaken.<br />3.  Clinton was just lucky to be President at a time when the dot com boom happened.  Plus there was the Republican Revolution.</p>
+<p>Now, the problem with 1. is that the JFK tax cuts actually weren&#8217;t JFK tax cuts, they were LBJ tax cuts in JFK&#8217;s name, pushed through in 1964, so they can&#8217;t possibly explain 1961, 1962, or 1963.  And the cut in tax rates seemed to produce a very different effect during the LBJ years than under the Reagan or GW years &#8211; much, much faster real growth, and a shrinking debt to boot.   And BTW, the issue of the debt matters a lot &#8211; Government spending is a component of GDP, so you can push up GDP by pulling a Reagan, namely having the government explode the deficit and spending the money, leaving a bill for one&#8217;s successors.</p>
+<p>As to the bit about the rest of the world catching up&#8230;  was the US&#8217; position relative to the rest of the world so much different from 1961 to 1968 than it had been in the eight years prior, or the eight years following?  Seriously? </p>
+<p>As to Carter&#8230; his last year in office was awful.  He inherited a mess &#8211; inflation, disco, and an energy crisis being among the chief problems &#8211; but there was pretty solid growth during his first three years.  His last year in office wasn&#8217;t so hot, but even with that, he did better than all but LBJ, JFK, Clinton and Reagan.  </p>
+<p>Then we get to Clinton.  His fiscal responsibility is credited to Newt and the dot com boom, despite the fact that receipts started rising in 1993 (think tax hikes) and outlays started falling the same year, long before the Republican Revolution or the dot com boom took off.  (Pictures <a href="http://angrybear.blogspot.com/2007/08/comparing-presidents-receipts-outlays.html">here</a> &#8211; take a look, its a pretty linear trend.) </p>
+<p>So the conclusion we are supposed to reach is that four out of the top five administrations when it comes to growth in real GDP per capita since 1953 were aberrations of some sort, that if it weren&#8217;t for random circumstances, or had they not followed the Republican mantra, they would have grown much slower.  </p>
+<p>Its easier for some people to assume that every single one of the Democrats in the sample was an aberration of some sort than to assume that Ronald Reagan, the only Republican among the top five, was the aberration.  </p>
+<p>Of course, the implication of this is obvious &#8211; unless every single one of the Republicans other than Reagan was an aberration too, the growth rate in real GDP per capita we should expect to see, on average, is more similar to the one produced by the red bars on the right side of the graph than that produced by the blue bars on the left side of the graph.  Don&#8217;t these people realize, as Ronald Reagan himself told us in his <a href="http://www.presidency.ucsb.edu/ws/index.php?pid=43130">first inaugural address</a>, that &#8220;we&#8217;re too great a nation to limit ourselves to small dreams&#8221;?  Of course, if we&#8217;re going to achieve bigger dreams, we need to have realistic plans, not just plans based on erroneous assumptions that history has shown, over and over, will not work.<br />END</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/aberrations.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

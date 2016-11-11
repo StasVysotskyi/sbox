@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>public debt &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Deficits, Debt, Debt Subject to the Limit, Off Budget, Trust Fund: Building your 2013 Toolkit</title>
+		<link>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html</link>
+		<comments>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html#respond</comments>
+		<pubDate>Thu, 03 Jan 2013 20:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[analytical perspectives on the budget]]></category>
+		<category><![CDATA[CBO]]></category>
+		<category><![CDATA[debt to the penny]]></category>
+		<category><![CDATA[omb]]></category>
+		<category><![CDATA[public debt]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html</guid>
+		<description><![CDATA[All of the terms in the post title have at least two usages, some of which map upon to common sense ideas from business or household budgeting, some not. Unfortunately the usages that don&#8217;t tend to be those used in federal budget reporting, and the result is untold confusion. Now one way out would be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>All of the terms in the post title have at least two usages, some of which map upon to common sense ideas from business or household budgeting, some not. Unfortunately the usages that don&#8217;t tend to be those used in federal budget reporting, and the result is untold confusion. Now one way out would be to listen to me. Then again the relevant line on my CV under &#8216;Budget Reporting&#8217; reads &#8216;Some Guy&#8217;, &#8216;U of Intertoobz&#8217;. So really the only way out is to start to build your own Budget, Debt and Deficit Toolkit. And this post is intended to give you a start using sources provided by the official scorekeepers of such things: the U.S. Treasury, the Congressional Budget Office (CBO), the President&#8217;s Office of Management and Budget (OMB) and the Joint Committee on Taxation (JCT).</p>
+<p>First stop is the U.S. Treasury Department&#8217;s Bureau of Public Debt and their web application <a href="http://www.treasurydirect.gov/NP/BPDLogin?application=np" target="_blank">Debt to the Penny</a>. This handy application allows you to track Total Public Debt and its two components Debt Held by the Public and Intragovernmental Holdings to the literal penny as of the close of the daily books the last business day but one. That is if you check the site on Tuesday it will give you final numbers for Friday. And a search today gave me the results for Monday the 31st (since Tuesday was a Federal Holiday) with Total Public Debt of $16,432,730,050,569.12 . This number is almost exactly the same as Debt Subject to the Limit differing only in the last seven or eight digits, which change so fast that you wouldn&#8217;t be able to see the difference. Debt Subject to the Limit is set by Congress and under current law is $16.394 trillion. With the result shown in the following official graph <a href="http://www.treasurydirect.gov/govt/charts/charts_debt.htm" target="_blank">Debt Subject to the Limit Graph</a> which shows total Public Debt Subject to the Limit (dark blue) passing through the Limit (orange) on the 31st.</p>
+<p>Without comment (we are just building a toolkit here) we can move from Debt to Deficit. Here things get more complicated but probably the simplest tool available to us from official sources is found in CBOs annual <a href="http://www.cbo.gov/publication/42905" target="_blank">The Budget and Economic Outlook: Fiscal Years 2012 to 2022</a> and the literal top line numbers from that is Summary Table 1 (click to embiggen)
+<div><a href="http://2.bp.blogspot.com/-g8SQ5G41_yo/UOXXplXP-_I/AAAAAAAABRk/7PXaavzhSZQ/s1600/CBO+Table+1-1.tiff" imageanchor="1"><img border="0" height="210" src="http://2.bp.blogspot.com/-g8SQ5G41_yo/UOXXplXP-_I/AAAAAAAABRk/7PXaavzhSZQ/s320/CBO+Table+1-1.tiff" width="320"></a></div>
+<p>Note that in this Summary table the bolded words Deficit (-) or Surplus unmodified by any adjective are unequivocably the sum of &#8216;On-budget&#8217; and &#8216;Off-budget&#8217; surplus/deficit. This isn&#8217;t the only usage of &#8216;deficit&#8217; in CBO reporting, and in a weird twist of terminology is NOT the same as what they call &#8216;primary deficit&#8217;, but it is a fair equivalent to what both CBO and the MSM term &#8216;THE deficit&#8217;. For example take a standard news story from just today <a href="http://www.christianpost.com/news/fy2011-federal-deficit-1299000000000-60984/" target="_blank">FY2011 Federal Deficit = $1,299,000,000,000</a> or just a minor update of the figure from the Table.</p>
+<p>I&#8217;ll flesh out some of the implications of this in Comments and in later posts but will leave with two points. One almost the entirety of the &#8216;Off budget&#8217; surplus of $67 billion is the result of an increase in assets of the Social Security Trust Fund. It is NOT a measure of cash flow nor does cash flow measure into it. Two the claim that &#8216;Social Security doesn&#8217;t contribute to the deficit&#8217; is not quite right. It can and does contribute to the bottom line. But in either positive (surplus) or negative (deficit) directions. And in 2011 a cash flow negative Social Security Trust Fund ran a surplus for the purposes of THE federal deficit as defined.</p>
+<p>More tools and more discussion later.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Debt is a drug</title>
+		<link>./../../2012/09/debt-is-a-drug.html</link>
+		<comments>./../../2012/09/debt-is-a-drug.html#respond</comments>
+		<pubDate>Fri, 28 Sep 2012 14:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Paul Krugman]]></category>
+		<category><![CDATA[private debt]]></category>
+		<category><![CDATA[public debt]]></category>
+		<category><![CDATA[Steve Roth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/debt-is-a-drug.html</guid>
+		<description><![CDATA[Paul Krugman writes on debt and austerity some more, and a link to Steve Roth&#8217;s post It&#8217;s private debt from December 2011 is mentioned in comments near the start of that thread. Steve&#8217;s post had 101 comments of a serious nature and is a really good thread I believe.]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://krugman.blogs.nytimes.com/2012/09/28/debt-is-a-drug-and-so-is-austerity/">Paul Krugman</a> writes on debt and austerity some more, and a link to Steve Roth&#8217;s post <a target="_blank" href="http://www.angrybearblog.com/2011/12/its-private-debt-stupid.html">It&#8217;s private debt</a> from December 2011 is mentioned in comments near the start of that thread.  Steve&#8217;s post had 101 comments of a serious nature and is a really good thread I believe.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/debt-is-a-drug.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Social Security &#038; the Debt Limit</title>
+		<link>./../../2011/04/social-security-the-debt-limit.html</link>
+		<comments>./../../2011/04/social-security-the-debt-limit.html#respond</comments>
+		<pubDate>Sun, 10 Apr 2011 17:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[debt limit]]></category>
+		<category><![CDATA[public debt]]></category>
+		<category><![CDATA[social security]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/social-security-the-debt-limit.html</guid>
+		<description><![CDATA[{Crossposted from dKos Social Security Defenders Group} Social Security has been off the radar this week for obvious reasons, progressives being more focused on efforts of Republicans to win the War on Women via the Continuing Resolution. Plus while Paul Ryan&#8217;s original Roadmap proposed privatization of Social Security his Budget proposal for next year left [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>{Crossposted from dKos Social Security Defenders Group}</p>
+<p>Social Security has been off the radar this week for obvious reasons, progressives being more focused on efforts of Republicans to win the War on Women via the Continuing Resolution. Plus while Paul Ryan&#8217;s original Roadmap proposed privatization of Social Security his Budget proposal for next year left it mostly aside (except for an obscure &#8216;trigger&#8217; mechanism for future cuts) in favor of a trillion dollar assault on Medicaid and a proposal to voucherize Medicare. Which only leaves one current assault vehicle, the pending bill to raise the Debt Limit which under current estimates needs to happen by mid May, and sure enough there are rumblings to this effect, no changes to Social Security, no votes to raise the Debt Limit from the Republicans.</p>
+<p>So this seems an opportune time to explain the actual relation between Social Security and Public Debt and the paradoxical effects on debt from cuts to future benefits. Because all else held even all this does is increase real debt over the medium term (25 years) while reducing purely theoretical debt over the God help us Infinite Future Horizon. Conceptual unpacking in Extended.<a name="more"></a>As usual a good starting point for the serious student is the <a href="http://www.whitehouse.gov/sites/default/files/omb/budget/fy2012/assets/concepts.pdf">Budget Concepts and Budge Process</a> (pdf) section of the <a href="http://www.whitehouse.gov/omb/budget/Analytical_Perspectives">Analytical Perspectives of the Budget</a> (html index) released each year by OMB to illustrate the President&#8217;s budget both conceptually and historically.</p>
+<p>But even beofre citing definitions I would like to direct Kossacks (and any visitors-welcome!) to a very handy web tool maintained by Treasury called <a href="http://www.treasurydirect.gov/NP/BPDLogin?application=np">Debt to the Penny</a> which true to its name will give you total federal debt to the penny at the end of any specified business day or over date ranges. For example as of close of business Thursday total &#8216;Public Debt&#8217; was $14,264,245,526,311.58. This figure is the sum of &#8216;Debt Held by the Public&#8217; at $9,652,195,544,012.12 and &#8216;Intragovernmental Holdings&#8217; at $4,612,049,982,299.46 (&#8216;debt to the penny&#8217; meaning what it says).</p>
+<p>Now &#8216;Intragovernmental Holdings&#8217; is what OMB calls &#8216;Debt held by Government accounts&#8217; which in turn &#8220;means the debt the Treasury Department owes to accounts within the Federal Government. Most of it results from the surpluses of the Social Security and other trust funds, which are required by law to be invested in Federal securities.&#8221; So the commonly expressed opinion that Social Security Trust Funds are not counted in that total $14 trillion of debt cited in the MSM is dead wrong, they constitute $2.6 tn of that $4.6 tn of &#8216;Intragovernmental Holdings&#8217; or 18% of the total $14.3 tn in Public Debt. In fact Social Security is by far the biggest creditor the U.S. has, with Treasury holdings double those of the Fed and two and a half times that of our largest foreign lender the Chinese.</p>
+<p>&#8216;Public Debt&#8217; is not precisely the same as &#8216;Debt Subject to the Limit&#8217; but for all practical purposes it is the same $14 tn plus, for those interested Treasury supplies the following in their FAQ<br />
+<blockquote>What&#8217;s the difference between the Public Debt Outstanding and the Public Debt Subject to Limit?</p>
+<p>The Public Debt Outstanding represents the face amount or principal amount of marketable and non-marketable securities currently outstanding. The Public Debt Subject to Limit is the maximum amount of money the Government is allowed to borrow without receiving additional authority from Congress. Furthermore, the Public Debt Subject to Limit is the Public Debt Outstanding adjusted for Unamortized Discount on Treasury Bills and Zero Coupon Treasury Bonds, Miscellaneous debt (very old debt), Debt held by the Federal Financing Bank and Guaranteed Debt</p></blockquote>
+<p>.<br />With the conceptual background set, lets see how Social Security Trust Fund Operations interact with the Debt Limit.</p>
+<p>And the answer is simple, though a little counter-intuitive. If Trust Fund principal balances go up in any given year due to a surplus of income over cost adding new offsetting Special Treasuries then so does &#8216;Intragovernmental Holdings&#8217; and so in turn &#8216;Public Debt&#8217;. On the other hand if in any year total cost exceeds total income including interest,  the flow of offsetting Special Treasuries is reversed, then Trust Fund principal goes down and in turn so does Public Debt. In between those two outcomes is a series of years where income EXCLUDING interest trails cost, but the accruing interest covers the gap, in which case the rate of principal increase is slowed and so the rate of growth of total Public Debt due to increased amounts of Intragovernmental Holdings.</p>
+<p>Put all of that together and what do you get? Short term cuts in Social Security benefits absent any changes in revenue INCREASE the rate of principal accumulations of Intragovernmental Holdings and so ADD TO DEBT SUBJECT TO THE LIMIT. And the same is true for any benefit change starting before the projected date the Trust Funds hit their maximum, which right now is about $4.2 tn in 2023.</p>
+<p>Which is why holding Social Security hostage to this year&#8217;s Debt Limit is simple bullshit. one has nothing to do with the other, and any attempts to start phasing in benefit changes via changes in the index (as B-S would starting in 2012) makes total Debt Subject to the Limit HIGHER and not lower. In fact far from giving our children and grandchildren a break it would absent other changes just time shift debt repayment forward in time while making the principal balances and hence ultimate payment amounts larger. It is all more Bait and Switch, just sophistry using ideas about seeming fiscal rectitude to screw over worker-retirees starting ten years out.</p>
+<p>(But such a move would reduce &#8216;Unfunded Liabilities&#8217;, which opponents of SS wrongly equate to &#8216;Debt&#8217;. They aren&#8217;t but that will be the subject of a later post.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/social-security-the-debt-limit.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Debt Limit Bill and Social Security Benefit Cuts</title>
+		<link>./../../2011/01/debt-limit-bill-and-social-security-benefit-cuts.html</link>
+		<comments>./../../2011/01/debt-limit-bill-and-social-security-benefit-cuts.html#respond</comments>
+		<pubDate>Thu, 06 Jan 2011 14:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[public debt]]></category>
+		<category><![CDATA[social security]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/debt-limit-bill-and-social-security-benefit-cuts.html</guid>
+		<description><![CDATA[(cross posted at SocialSecurityDefender.blogspot.com) Well the first line of attack is opening up. Lindsay Graham is threatening to hold up the Debt Limit Increase Bill, and so potentially throw this whole country and perhaps the world into default unless he gets cuts to Social Security. This is insane on several levels, not least because the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>(cross posted at SocialSecurityDefender.blogspot.com)</p>
+<p>Well the first line of attack is opening up. Lindsay Graham is threatening to hold up the Debt Limit Increase Bill, and so potentially throw this whole country and perhaps the world into default unless he gets cuts to Social Security.</p>
+<p>This is insane on several levels, not least because the two things have nothing to do with each other to start with. To understand this we have to back off and examine four different categories of debt: Public Debt, Debt Held by the Public, Intragovernmental Holdings, and Debt Subject to the Limit. Total Public Debt and Debt Subject to the Limit are essentially the same dollar figures (an explanation of the difference here: <a target='_blank"' href="http://www.treasurydirect.gov/govt/resources/faq/faq_publicdebt.htm#LimitDifferences">Limit Difference</a>), so when you compare the dollar total for the former from this link with the current limit as reported in the papers you can see how close we are: <a href="http://www.treasurydirect.gov/NP/BPDLogin?application=np">Debt to the Penny</a>. So yes something needs to be done, but how does Social Security fit in?</p>
+<p>It doesn&#8217;t. As you can see &#8216;Public Debt&#8217; is the sum of &#8216;Debt Held by the Public&#8217; and &#8216;Intragovernmental Holdings&#8217; which latter includes the current $2.6 trillion Social Security Trust Funds. But cutting Social Security benefits in the short to medium term just makes Public Debt GO UP (or at under some formulations stay even).</p>
+<p>If Social Security on a combined basis (OASDI) or for either component (OAS or DI) takes in more in taxes than it spends those surplus dollars plus interest on the existing Trust Fund get credited to the Funds in the forms of Special Treasuries. But those assets, though real as any other bond, also respesent obligations and so add to Debt Subject to the Limit. Meaning that any action that reduces the flow out in the form of benefit cuts/retirement age or increase the flow in via cap increases simply add to the bottom line and so make the country reach the Debt Limit FASTER. Now some big name economists say this isn&#8217;t really true, that instead the net effect is a wash. Well okay, I don&#8217;t buy it thinking they have confused an textbook accounting identity for a real world operation, but either way cutting Social Security benefit cuts DOES NOT HELP IN ANY WAY WITH THE DEBT LIMIT.</p>
+<p>It is not clear whether Lindsay Graham understands that he is simply holding the world&#8217;s economy and the retirement benefits of millions of people in the future hostage to a simple hatred of the New Deal. But no one else should be fooled, cuts to Social Security and particularly phased in cuts in future decades have nothing to do with U.S. actual debt obligations in Spring 2010. It is pure blackmail.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/debt-limit-bill-and-social-security-benefit-cuts.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>QEII: Who really owns US Treasury Debt</title>
+		<link>./../../2010/11/qeii-who-really-owns-us-treasury-debt.html</link>
+		<comments>./../../2010/11/qeii-who-really-owns-us-treasury-debt.html#respond</comments>
+		<pubDate>Thu, 04 Nov 2010 14:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[public debt]]></category>
+		<category><![CDATA[public perceptions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/qeii-who-really-owns-us-treasury-debt.html</guid>
+		<description><![CDATA[by Bruce Webb Okay readers and Bears, give me a hand here, because some of our standard narrative on &#8216;unsustainable&#8217; US debt seems to be turned on its head. The standard narrative is simple: we have $13 trillion in US Treasury debt, and most of it, or at least the new issuances are dependent on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb</p>
+<p>Okay readers and Bears, give me a hand here, because some of our standard narrative on &#8216;unsustainable&#8217; US debt seems to be turned on its head. The standard narrative is simple: we have $13 trillion in US Treasury debt, and most of it, or at least the new issuances are dependent on the Chinese Central Bank continuing to purchase that debt. Which in turn has led to such things as that new ad; <a target="_blank" href="http://beforeitsnews.com/story/230/950/China_and_America:_Now_They_Work_for_Us_-_The_Powerful_Ad_You_See_and_Ponder.html">How Great Nations Fall: &#8220;Now They Work for Us&#8221;</a>. Well how does this actually stand up to numeric scrutiny?</p>
+<p>Okay the first place to start is Treasury&#8217;s <a target="_blank" href="http://www.treasurydirect.gov/NP/BPDLogin?application=np">Debt to the Penny</a> web application where we are dutifully told that total &#8216;Public Debt&#8217; is $13.723 trillion as of close of business Tuesday Election Day. But as Bear readers know that total is broken into two sub-totals &#8216;Debt Held by the Public&#8217; and &#8216;Intragovernmental Holdings&#8217; with the respective totals being $9.133 trillion and $4.590 trillion. And of that latter we know that $2.6 trillion is held in the Social Security Trust Funds. Now some opponents of Social Security claim that the Trust Funds just hold &#8216;Phony IOUs&#8217; which on their logic means that they, and so presumedly the rest of &#8216;Intragovernmental Holdings&#8217; are not really debt at all and really should be using the $9 trillion as &#8216;Real&#8217; debt. But even without assenting to this phony argument it is true that Special Treasuries are not marketable. Which doesn&#8217;t mean they don&#8217;t have value but does ensure that they will never flood the market which only has theoretical access to the $9 trillion in Regular treasuries in current circulation.</p>
+<p>Of that $9 trillion how much is actually owned by foreigners and specifically the Chinese Central Bank? Well we need to turn to another Treasury tool: <a target="_blank" href="http://www.treas.gov/tic/mfh.txt">Foreign Holders of US Treasuries</a> where we find out that total foreign holdings are estimated at $4.213 trillion of which $2.772 are considered &#8216;Foreign Official&#8217; , that is presumedly foreign exchange reserves by various central banks, while total Chinese mainland holdings are $868.4 billion. Now we could argue whether we should add Hong Kong&#8217;s total of $137.8 billion to that or ask with Brad Setser how much of holdings in &#8216;Carib Banking Centers&#8217;, the Channel Islands offshore banks included under &#8216;Great Britain&#8217; or the traditional havens for safe money of Luxembourg and Switzerland are really held on behalf of China but I think we would be hard pressed to come up with a total of more than $1.1-$1.2 trillion held by Chinese private and public entities. Which is less than 10% of total &#8216;Public Debt&#8217; and perhaps 13% of &#8216;Debt Held by the Public&#8217;. This is hardly an &#8216;ownership&#8217; position. Plus if we look at month to month totals we see that &#8216;Mainland China&#8217; holdings are down significantly from their peaks last fall at $938.3 billion even as total foreign holdings are up $636 billion over that time. Meaning that contrary to popular belief not all of our financial eggs are actually in a Chinese basket, other countries are stepping up to the plate as needed.</p>
+<p>But Chinese holdings are just the background for this post which was inspired by some really provocative numbers in this NYT story this morning: <a target="_blank" href="http://www.nytimes.com/2010/11/04/business/economy/04fomc.html?hp=&#038;adxnnl=1&#038;adxnnlx=1288882983-NKwvlJK7joTklQD+YJ/SAw">Fed Will Buy $600 Billion in Debt, Hoping to Spur Growth</a>. When we put the numbers in this article in the context of the numbers, a new and startling narrative starts to emerge. But you will have to chase this post under the fold to see it. <a name="more"></a></p>
+<p>The starting point are these three grafs:<br />
+<blockquote>The Fed said it would buy an additional $600 billion in long-term Treasury securities by the end of June 2011, somewhat more than the $300 billion to $500 billion that many in the markets had expected.</p>
+<p>The central bank said it would also continue its program, announced in August, of reinvesting proceeds from its mortgage-related holdings to buy Treasury debt. The Fed now expects to reinvest $250 billion to $300 billion under that program by the end of June, making the total asset purchases in the range of $850 billion to $900 billion.</p>
+<p>That would just about double the $800 billion or so in Treasury debt currently on the Fed’s balance sheet.</p></blockquote>
+<p>Time to break out that four-function calculator: After subtracting $4.590 trillion of mostly unmarketable &#8216;Intragovernmental Holdings&#8217; we are left with the $9.133 trillion of &#8216;Debt Held by the Public&#8217;. Of that $2.772 are in &#8216;Foreign Official&#8217; of which some (large?) percentage will be in essentially irreducable foreign currency reserves by the various Central Banks, leaving maybe as little as $7 trillion actually exposed to the market on any given day minus whatever is held by various private entities and sovereign wealth funds in the typical &#8216;flight to safety&#8217; function of U.S. Treasuries. Now what the NYT is telling us is that the Fed ALREADY holds $800 billion of that and is prepared to purchase some $900 billion more over the next year putting it on track to holding around 25% of the total market for Treasuries. Which by my calculations will make it the second largest creditor of the Federal Government after Social Security. But where Social Security mostly contents itself it taking its interest payments in the form of Special Treasuries, i.e. the government&#8217;s own paper, the Fed turns over all its profits from operations over to the Treasury, which in this case includes all the interest on the near trillion dollars in debt they are buying.</p>
+<p>In the face of all the screeching by the deficit hawks about unsustainable debt and debt service and $13 trillion and our children and grand-children what are the implications of between Intragovernmental Holdings and the Fed balance sheet that more than half of that debt is held by the Federal Government or its Agencies (of which I am going to count the fed as one). Are all of those folk who claim that &#8216;Governments can&#8217;t really owe themselves their own debt&#8217; in relation to Social Security simply willing to discount &#8216;real&#8217; debt by 50% and more? Because apparently the Fed is confident enough in its and the Treasury&#8217;s credit that it is willing to snap up a full eighth of current Debt Held by the Public in purchases on the open market.</p>
+<p>I don&#8217;t know what all this means, as I have said before I am a number pointer and not a number cruncher, but these numbers seem pretty eye-opening to me. Crunch away me hearties!</p>
+<p>(BTW this also raises questions about the so-far Invisible Bond Vigilantes. After you subtract out &#8216;Intragovernmental Holdings&#8217;, the Fed balance sheet and &#8216;Foreign Official&#8217; you start to see a &#8216;tail wagging dog&#8217; story emerging, who exactly do you make a run on the dollar when the Fed is offering to buy pretty much everything you are willing to sell?)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/qeii-who-really-owns-us-treasury-debt.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#034;Run Government Like a Business&#034; = Deficit Spending</title>
+		<link>./../../2010/08/run-government-like-a-business-deficit-spending.html</link>
+		<comments>./../../2010/08/run-government-like-a-business-deficit-spending.html#respond</comments>
+		<pubDate>Mon, 09 Aug 2010 02:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[corporations]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Fiscal policy]]></category>
+		<category><![CDATA[Fiscal stimulus]]></category>
+		<category><![CDATA[governance]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[public debt]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/run-government-like-a-business-deficit-spending.html</guid>
+		<description><![CDATA[We&#8217;re used to that line by now. Ross Perot—one of the more prominent people who got rich due to government contracts—used it, Carly Fiorina and Meg Whitman are using it (while desperately hoping you don&#8217;t pay attention to how they ran Lucent/HP or eBay), and Aaron Sorkin even had Charles Grodin say it in Dave, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;re used to that line by now.  Ross Perot—one of the more prominent people who got rich due to government contracts—used it, Carly Fiorina and Meg Whitman are using it (while desperately hoping you don&#8217;t pay attention to how they ran Lucent/HP or eBay), and Aaron Sorkin even had Charles Grodin say it in <em>Dave</em>, if only to establish his Sensible Centrist cred.</p>
+<p>So how are businesses running their debt-laden firms?  Ask <a href="http://blogs.wsj.com/economics/2010/08/07/number-of-the-week-cheap-money-isnt-free/">the WSJ and ye shall receive</a>:<br />
+<blockquote>U.S. corporations have taken full advantage of low interest rates, going on a bond-issuing binge that has left them with tons of cash, which they appear to be holding largely as insurance against a new bout of financial turmoil, rather than spending on new hires. Nonfinancial companies were sitting on about $8.4 trillion in cash as of the end of March, or about 7% of all company assets, the highest level since 1963. Even before its [$1.5 billion at the bargain-basement interest rate of only 1%] bond issue, IBM had $12.3 billion in cash and short-term investments, which accounted for about 12% of all its assets.</p></blockquote>
+<p>The WSJ is, of course, worried about The Savers:<br />
+<blockquote>Meanwhile, though, savers are seeing some of the worst nominal returns in decades. As of June, the weighted average interest rate on deposits, money-market funds and other highly liquid investments stood at only 0.29%. Returns on riskier investments aren’t great, either: The average yield on near-junk bonds with maturities close to 30 years stood at about 5.9% this week.</p></blockquote>
+<p>As Brad DeLong <a href="http://delong.typepad.com/sdj/2010/07/doug-henwood-questions-the-cbos-long-term-economic-forecast.html">said recently, in a slightly different context</a>, &#8220;I share [the] belief that these numbers ought to be higher. But I also think that I don&#8217;t have very good reasons to claim that I am right that they should be higher.&#8221;</p>
+<p>Neither does the market.</p>
+<p>And it&#8217;s not as if those companies were all saving during the Good Times. Indeed, they were arguably more poorly managed than the government. As <a href="http://norris.blogs.nytimes.com/2008/12/10/shareholder-value/">Floyd Norris noted almost two years ago</a>:<br />
+<blockquote>Over the last four years, since the buyback boom began, from the fourth quarter of 2004 through the third quarter of 2008, companies in the S&#038;P500 showed:</p>
+<blockquote><p>Reported earnings: $2.42 trillion<br />Stock buybacks: $1.73 trillion<br />Dividends: $0.91 trillion</p></blockquote>
+</blockquote>
+<p>The net flows there is <strong>-$220B</strong>, give or take a billion.  It&#8217;s spending roughly $1.10 for every dollar you earn.  And, to make matters worse, nearly twice as much was spent to make people go away (buybacks) than to reward loyalty (dividends).</p>
+<p>If the government really were to be run like a successful business—the way the S&#038;P500 are run, the way IBM is run—they would be borrowing long-term right now at <a href="http://www.bloomberg.com/markets/rates-bonds/government-bonds/us/">that 2.82% 10-year or even than 4.00% 30-year rate</a>.</p>
+<p>If it&#8217;s good enough for IBM, it should be good enough for the U.S. Government.  The Mitt Romneys and Ross Perots have been telling us that for years; many we should listen?<br />
+
+<p><a href="http://reddit.com/submit"> <img src="http://reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/run-government-like-a-business-deficit-spending.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The answer is the domestic private sector</title>
+		<link>./../../2010/07/the-answer-is-the-domestic-private-sector.html</link>
+		<comments>./../../2010/07/the-answer-is-the-domestic-private-sector.html#respond</comments>
+		<pubDate>Tue, 20 Jul 2010 17:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[public debt]]></category>
+		<category><![CDATA[US household]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/the-answer-is-the-domestic-private-sector.html</guid>
+		<description><![CDATA[Jim Hamilton used the Federal Reserve Flow of Funds data to present a question: who will buy “the additional $8 trillion in net new debt that would be issued over the next decade under the CBO&#8217;s alternative fiscal scenario.” I thought that the analysis was curious and too &#8220;partial&#8221;. If one believes the deleveraging story, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.econbrowser.com/archives/2010/07/whos_buying_all.html">Jim Hamilton</a> used the Federal Reserve Flow of Funds data to present a question: who will buy “the additional $8 trillion in net new debt that would be issued over the next decade under the CBO&#8217;s alternative fiscal scenario.” </p>
+<p>I thought that the analysis was curious and too &#8220;partial&#8221;. If one believes the deleveraging story, then domestic private saving is going to rise. The answer to his question seems pretty obvious…</p>
+<p><a href="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TETpl_PMvwI/AAAAAAAADLA/QFABdKiVLuY/s1600/Treasury_holdings.PNG"><img src="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TETpl_PMvwI/AAAAAAAADLA/QFABdKiVLuY/s400/Treasury_holdings.PNG" alt="" border="0"></a>Let’s say that consumption goes back back to the <a href="http://www.newsneconomics.com/2008/10/consumption-back-to-63-of-gdp.html">1960’s-style 62% of GDP</a>, then get ready for household Treasury accumulation. Spanning the decade of 1960, households held on average 30% of the Treasury&#8217;s liabilities.</p>
+<p>A simple example illustrates my point. If the Treasury’s book doubles to $16.5 trillion, and the household share of Treasury holdings rises to 30% – as of Q1 2010 the stock of Treasuries outstanding was just about $8.3 trillion (see <a href="http://federalreserve.gov/releases/z1/Current/z1.pdf">L.209 here</a>) – then households will accumulate over $4 trillion of those new Treasuries. That&#8217;s just households, and holding all else equal (like financial funds  and businesses).</p>
+<p>So the answer is: the domestic private sector.</p>
+<p>Rebecca Wilder<br /><a name="more"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/the-answer-is-the-domestic-private-sector.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Another 28 Days</title>
+		<link>./../../2009/12/another-28-days.html</link>
+		<comments>./../../2009/12/another-28-days.html#comments</comments>
+		<pubDate>Wed, 16 Dec 2009 01:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[inflation]]></category>
+		<category><![CDATA[interest rates]]></category>
+		<category><![CDATA[national debt]]></category>
+		<category><![CDATA[public debt]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/another-28-days.html</guid>
+		<description><![CDATA[Following up on this post, a 4-week auction over year-end (PDF) that sold at 0.00% interest, with a coverage ratio of 4.4:1. (Yield unchanged from the previous week, and the week before that.) Who could see Looming Inflation in this? See next post.]]></description>
+				<content:encoded><![CDATA[<p>Following up on <a href="http://angrybear.blogspot.com/2009/12/worried-about-interest-rates-why.html">this post</a>, a <a href="http://www.treasurydirect.gov/instit/annceresult/press/preanre/2009/R_20091215_1.pdf">4-week auction</a> <em>over year-end</em> (PDF) that sold at 0.00% interest, with a coverage ratio of 4.4:1.  (Yield unchanged from the previous week, and the week before that.)</p>
+<p>Who could see Looming Inflation in this?  See next post.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/another-28-days.html/feed/index.html</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Worried about Interest Rates? WHY?</title>
+		<link>./../../2009/12/worried-about-interest-rates-why.html</link>
+		<comments>./../../2009/12/worried-about-interest-rates-why.html#comments</comments>
+		<pubDate>Wed, 09 Dec 2009 22:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[interest rates]]></category>
+		<category><![CDATA[national debt]]></category>
+		<category><![CDATA[public debt]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/worried-about-interest-rates-why.html</guid>
+		<description><![CDATA[Not only did the U.S. Treasury just sell $29 Billion worth of four-week bills at par (i.e., they got $29 Billion for them, and will return $29 Billion on 29 December), but the bid to cover ratio was over 5:1 (pdf link; had $154B in bids for $29B in securities). This is down 0.06% from [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Not only did the U.S. Treasury just sell $29 Billion worth of four-week bills at par (i.e., they got $29 Billion for them, and will return $29 Billion on 29 December), but <a href="http://treasurydirect.gov/instit/annceresult/press/preanre/2009/R_20091208_1.pdf">the bid to cover ratio was <strong>over 5:1</strong></a> (pdf link; had $154B in bids for $29B in securities).</p>
+<p>This is down 0.06% from <a href="http://treasurydirect.gov/instit/annceresult/press/preanre/2009/R_20091201_1.pdf">last week&#8217;s auction</a> (pdf again).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/worried-about-interest-rates-why.html/feed/index.html</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+		</item>
+		<item>
+		<title>&#8216;Headline&#8217; Surplus/Deficit and &#8216;Headline&#8217; Debt</title>
+		<link>./../../2009/04/headline-surplusdeficit-and-headline-debt.html</link>
+		<comments>./../../2009/04/headline-surplusdeficit-and-headline-debt.html#respond</comments>
+		<pubDate>Fri, 17 Apr 2009 02:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[budget deficits]]></category>
+		<category><![CDATA[public debt]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/headline-surplusdeficit-and-headline-debt.html</guid>
+		<description><![CDATA[by Bruce Webb In the course of a post called the The Vanishing Surplus-Revealed there arose a semantic dispute about what &#8216;surplus&#8217; means. Well I maintain that the answer to that question is not in authorial intent but instead on audience reception. If you are writing for a popular audience you have an obligation to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb</p>
+<p>In the course of a post called the <a target="_blank" href="http://angrybear.blogspot.com/2009/04/vanishing-surplus-revealed.html">The Vanishing Surplus-Revealed</a> there arose a semantic dispute about what &#8216;surplus&#8217; means. Well I maintain that the answer to that question is not in authorial intent but instead on audience reception. If you are writing for a popular audience you have an obligation to write in a way that is in accord with their normal understanding. In the course of that discussion I was directed to the following paper by Michael Boskin. But I took away from it totally the opposite message from that of the commenter. (Bolding mine).  <a target="_blank" href="http://www.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/briefs/policybrief_nov04.pdf">Sense and Nonsense About Federal Deficits <br />and Debt</a><br />
+<blockquote>&#8220;To make sense of these issues, economists employ several related measures in addition to the traditional nominal cash budget balance (see Table 1).&#8221;  </p>
+<p>Table 1  <br />Alternative Budget Surplus/Deficit Concepts  </p>
+<p>1. Unified nominal surplus/deficit = nominal revenues – nominal outlays; “headline” numbers  <br /> 2. Operating surplus/deficit = unified deficit – net investment (public capital investment &#8211; depreciation of public capital)  <br />   3. Primary surplus/deficit = unified deficit – interest outlays on inherited debt  <br />   4. Cyclically adjusted surplus/deficit: unified deficit adjusted to “high employment,” i.e., removes effect (+ and – ) of business cycle on revenues and outlays; i.e., removes effect of “automatic stabilizers”  <br />   5. Standardized surplus/deficit: adjusts unified deficit for business cycle and some other transitory items, e.g., the inflation component of interest, receipts from allies for Desert Storm, deposit insurance outlays for failed S&#038;Ls, that are unlikely to affect real income</p></blockquote>
+<p> I would agree with Boskin that when people hear the word &#8216;surplus&#8217; unqualified they will understand it in the &#8216;traditional&#8217; &#8216;headline&#8217; sense, which is to say as a product of the Unified Budget surplus/deficit.</p>
+<p>I say this not to just refight the stale battle (though comments are welcome) but instead to take the &#8216;headline&#8217; characterization from Boskin and apply it to debt. What then would &#8216;headline debt&#8217; be? Discussion below the fold</p>
+<p>I suggest that when people hear the term &#8216;federal debt&#8217; they normally understand that to be total Public Debt as portrayed on such things as the  <a target="_blank" href="http://www.brillig.com/debt_clock/">U.S. National Debt Clock</a> whose most famous version is seen in Times Square. This version summarizes the debt situation as follows<br />
+<blockquote>The Outstanding Public Debt as of 15 Apr 2009 at 05:13:40 PM GMT is:  $11,176,896,295,826.53<br />The estimated population of the United States is 306,006,590<br />so each citizen&#8217;s share of this debt is $36,525.02.<br />The National Debt has continued to increase an average of $3.84 billion per day since September 28, 2007!<br />Concerned? Then tell Congress and the White House</p></blockquote>
+<p> A search on &#8216;Obama $11 trillion debt&#8217; returns 108,000 hits and many quite literally using this in their headline. For example a CBS online piece from March 17th is quite explicit. <a target="_blank" href="http://www.cbsnews.com/blogs/2009/03/17/politics/politicalhotsheet/entry4872310.shtml">National Debt Hits Record $11 Trillion</a> and reports it as follows:<br />
+<blockquote>The Federal Government’s flood of red ink hit another high-water mark as the Treasury Department quietly reported today that the National Debt hit $11-trillion for the first time ever. <br />To be exact, the Debt now stands at $11,033,157,578,669.78. Divide it by the U.S. population and it comes up to over $36,000 in debt for every man, woman and child among us.</p>
+<p>And the government is running up mountains of debt with increasing speed. It took just over 5 ½ months for Uncle Sam to go another trillion dollars deeper in debt since hitting $10-trillion last September 30th. It’s the fastest jump in U.S. history. <br />The hundreds of billions of dollars being spent as part of the federal bailout of the financial markets is a leading factor in the rapid increase. Over $400-billion in debt has been accrued in the 57 days since President Obama took office.</p>
+<p>And the federal budget he unveiled last month projects even faster increases in the National Debt. It’ll hit $12.7-trillion by the end of the fiscal year on September 30th. The Administration’s four year estimate shows that by the end of September 2012, the Debt will have soared to $16.2-trillion – which amounts to nearly 100% of the projected Gross Domestic Product that year.</p></blockquote>
+<p> I don&#8217;t even think that there is any dispute that in popular discussion that &#8216;debt&#8217; is heard to mean what is more technically known as total Public Debt.</p>
+<p> On the other hand if you go to the Treasury&#8217;s <a target="_blank" href="http://www.treasurydirect.gov/NP/BPDLogin?application=np">Debt to the Penny</a> you will get a more complex view. At the close of business April 13th, total Public Debt stood at $11,169,978,555,115.48. But this breaks down to two components, Debt held by the Public at $6.893 trillion and Intragovernmental Holdings at $4.276 trillion. This in turn breaks down as follows. (chart from Wiki)<br /><a href="http://4.bp.blogspot.com/_fjW71B3WLTQ/SeYckQHuSJI/AAAAAAAAAKM/DAtKwabVBHM/s1600-h/Holders_of_the_National_Debt_Dec08.gif"><img src="http://4.bp.blogspot.com/_fjW71B3WLTQ/SeYckQHuSJI/AAAAAAAAAKM/DAtKwabVBHM/s400/Holders_of_the_National_Debt_Dec08.gif" border="0" alt=""></a><br />First thing of note, the OAS, DI, HI, SMI Trust Funds all are treated separately. Second note interest on those Trust Funds ARE counted as Public Debt, the $2.203 trillion shown as OAS debt in the chart above equating exactly to the year end balance and assets respectively in the following two balance sheet from the Dec. 2008 Montly Trust Fund Report.<br /><a href="http://2.bp.blogspot.com/_fjW71B3WLTQ/SeYgWvLb48I/AAAAAAAAAKU/kUOD4FiaZcU/s1600-h/Dec+08+Trust+Fund.jpg"><img src="http://2.bp.blogspot.com/_fjW71B3WLTQ/SeYgWvLb48I/AAAAAAAAAKU/kUOD4FiaZcU/s400/Dec+08+Trust+Fund.jpg" border="0" alt=""></a><br /><a href="http://3.bp.blogspot.com/_fjW71B3WLTQ/SeYgWlsUb6I/AAAAAAAAAKc/e1pAqni3yEs/s1600-h/Monthly+TF+Balance+Dec+08.jpg"><img src="http://3.bp.blogspot.com/_fjW71B3WLTQ/SeYgWlsUb6I/AAAAAAAAAKc/e1pAqni3yEs/s400/Monthly+TF+Balance+Dec+08.jpg" border="0" alt=""></a><br />(Note too that the second balance sheet showed $0 in &#8220;Interest receivable&#8221; while the second showed that of $52.95 billion in interest earned year-to-date fully $52.85 billion was credited in December leaving only $100 million credited in Oct and Nov. Meaning you can&#8217;t just pick any month of the year and draw conclusions, in total context only June and Dec are meaningful.)</p>
+<p>So &#8216;Public Debt&#8217; as reported on the Debt Clock includes total Trust Fund balances including interest earned as of Dec 2008. The Trust Funds&#8217; interest are thus included in what I am calling &#8216;Headline debt&#8217;. And those totals assume that we are accounting on Boskin&#8217;s definition 1 of surplus/deficit, which in turn makes &#8216;headline surplus/deficit&#8217; equate to  Unified Budget surplus/deficit.</p>
+<p>Now you can argue that this is not the right way for policy makers to think about debt. For example OMB Director Orszag argues as follows:<br />
+<blockquote>How much does the federal government owe?  It might seem like a simple question to ask those of us wearing the green eyeshades, but there are lots of different concepts used to answer it.  For example, at the end of fiscal year 2008:<br />Debt held by the public net of financial assets— the measure I find to be most meaningful — stood at $5.3 trillion (37 percent of GDP).<br />Debt held by the public was equal to about $5.8 trillion (41 percent of GDP).<br />Gross debt equaled $10.0 trillion (70 percent of GDP).<br />What do each of these concepts represent?</p>
+<p>Let me proceed in reverse order, and begin with gross debt.  Gross debt has two components: debt held by the public—which I will discuss more in a moment— and intragovernmental debt.   Intragovernmental debt is, essentially, debt that the government owes to itself—as of the end of last year, it totaled $4.2 trillion.  The majority of this debt is issued to the Social Security Trust Fund, and most of the remainder is issued to other trust funds, such as the Civil Service Retirement and Medicare Trust Funds.  These trust funds are required to invest their surpluses in government bonds.  While the federal government will certainly make good on the IOUs issued to these trust funds, they should not be counted when assessing the financial state of the federal government as a whole.</p></blockquote>
+<p>. Yet most commenters do use Gross debt as the proper measure. Orszag again (bolding mine)<br />
+<blockquote>One branch of the government issuing debt to another branch may make one branch poorer relative to the other branch—but it does not affect the overall financial state of the government.   For example, when I tell my daughter and son that I owe them each $10 for their allowances, I am poorer, and they are richer—as a family, though, there is no change in our overall finances. That’s why the Congressional Budget Office, the Office of Management and Budget (including under the prior administration), and the Government Accountability Office all agree that gross debt is not a meaningful metric for assessing the government’s current fiscal position.   Yet, the world being what it is, this number is quoted often.</p></blockquote>
+<p>Those who argue that interest earned on the Trust Fund should not be considered in deciding Social Security policy (in effect abrogating the Trust Fund) cannot use total Public Debt when criticizing Obama budgets, not at least without being intellectually inconsistent. Because by 2019 about $2.5 trillion in total outstanding Public Debt will be the product of Social Security TF interest and interest on that interest</p>
+<p>Which makes the  CBO&#8217;s March 2009 OASDI Baseline cut both ways. <br /><a href="http://2.bp.blogspot.com/_fjW71B3WLTQ/SeW-nYq1_tI/AAAAAAAAAKE/D3893JRbfZ4/s1600-h/OASDI+March+2009+CBO.jpg"><img src="http://2.bp.blogspot.com/_fjW71B3WLTQ/SeW-nYq1_tI/AAAAAAAAAKE/D3893JRbfZ4/s400/OASDI+March+2009+CBO.jpg" border="0" alt=""></a><br />If you want to argue that the key for policy making is really &#8216;Primary Surplus&#8217; and not Unified Budget &#8216;Surplus&#8217; then you need to subtract out TF interest from your Obama budget forecasted additions to Public Debt. Which is to say to move in Orszag&#8217;s direction. Of course many people will try to have it both ways as is convenient instead of using an honest oranges to oranges approach.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/headline-surplusdeficit-and-headline-debt.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

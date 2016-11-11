@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WSJ &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Cutting Corporate Rates May Cost Billions</title>
+		<link>./../../2012/11/cutting-corporate-rates-may-cost-billions.html</link>
+		<comments>./../../2012/11/cutting-corporate-rates-may-cost-billions.html#respond</comments>
+		<pubDate>Tue, 13 Nov 2012 13:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Corporate Taxes]]></category>
+		<category><![CDATA[tax cuts]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/cutting-corporate-rates-may-cost-billions.html</guid>
+		<description><![CDATA[Via Taxprof blogWall Street Journal: Tax Twist: At Some Firms, Cutting Corporate Rates May Cost Billions: What Uncle Sam has given to the earnings of companies like Citigroup, AIG, and Ford he soon might take away. President Barack Obama has said, most recently during last month&#8217;s presidential debates, that the 35% U.S. corporate tax rate [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://taxprof.typepad.com/taxprof_blog/2012/11/wsj-.html" target="_blank">Taxprof blog</a><br /><i>Wall Street Journal:  Tax Twist: At Some Firms, Cutting Corporate Rates May Cost Billions</i>:<br />
+<blockquote>What Uncle Sam has given to the earnings of companies like Citigroup, AIG, and Ford he soon might take away.
+<p>President Barack Obama has said, most recently during last month&#8217;s presidential debates, that the 35% U.S. corporate tax rate should be cut. That would mean lower tax bills for many companies. But it also could prompt large write-downs by Citigroup, AIG, Ford and other companies that hold piles of &#8220;deferred tax assets,&#8221; or DTAs.<br />After posting big losses, these companies have tax credits and deductions they can use to defray future tax bills, thus providing a boost to earnings. But a tax-rate reduction means some of those credits and deductions, counted as assets on the balance sheet, would be worth less, since lower tax bills would mean fewer opportunities to use them before they expire. That would force the companies to write down their value, resulting in charges against earnings.</p>
+<p>&#8230;<br />&#8230;the company believes tax change should &#8220;include transition measures that mitigate impacts and avoid negative unintended results&#8221; for companies that based their planning on the current tax system.</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/cutting-corporate-rates-may-cost-billions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Charlie Stross Discovers that The WSJ has been Teaching to the Test</title>
+		<link>./../../2011/10/charlie-stross-discovers-that-the-wsj-has-been-teaching-to-the-test.html</link>
+		<comments>./../../2011/10/charlie-stross-discovers-that-the-wsj-has-been-teaching-to-the-test.html#respond</comments>
+		<pubDate>Wed, 12 Oct 2011 17:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[fraud]]></category>
+		<category><![CDATA[Murdoch]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/charlie-stross-discovers-that-the-wsj-has-been-teaching-to-the-test.html</guid>
+		<description><![CDATA[And, therefore, ripping off its (at least European) advertisers: The Guardian has just broken a new story about News International: Wall Street Journal circulation scam claims senior Murdoch executive: Andrew Langhoff resigns as European publishing chief after exposure of secret channels of cash to help boost sales figures. To quote a little bit of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>And, therefore, <a href="http://www.antipope.org/charlie/blog-static/2011/10/going-down-hard.html">ripping off its (at least European) advertisers</a>:<br />
+<blockquote>The Guardian has just broken a new story about News International: <a href="http://www.guardian.co.uk/media/2011/oct/12/wall-street-journal-andrew-langhoff">Wall Street Journal circulation scam claims senior Murdoch executive</a>: Andrew Langhoff resigns as European publishing chief after exposure of secret channels of cash to help boost sales figures.</p>
+<p>To quote a little bit of the extensive — and hair-raising — article:</p>
+<blockquote><p>One of Rupert Murdoch&#8217;s most senior European executives has resigned following Guardian inquiries about a circulation scam at News Corporation&#8217;s flagship newspaper, the Wall Street Journal.</p>
+<p>The Guardian found evidence that the Journal had been channelling money through European companies in order to secretly buy thousands of copies of its own paper at a knock-down rate, misleading readers and advertisers about the Journal&#8217;s true circulation.</p></blockquote>
+</blockquote>
+<p>Misleading is British-newspaper-speak for &#8220;defrauding.&#8221;  As Charlie explains:<br />
+<blockquote>[A]udited circulation figures are the bedrock on which advertising revenue is based — the higher the ABC figures, the more the publisher can charge advertisers per inch of paper. Note that for many newspapers or periodicals, <em>advertising accounts for up to 80-90% of revenue</em>; you, the reader, are merely there as a draw for the real customers, the advertisers, who will pay more for pages that are seen by more eyeballs.</p>
+<p>This kind of circulation ramping looks like bare-faced fraud.</p></blockquote>
+<p>If that&#8217;s been happening in the U.S. as well, Charlie&#8217;s expectations may come true:<br />
+<blockquote>And while the large corporate advertisers might be willing to put up with dirty tricks aimed at the readers, this is something else. (I expect a collapse in NewsCo&#8217;s advertising revenue, not to mention an imminent FBI investigation &#8230;) </p></blockquote>
+<p>(cross-posted from <a href="http://xnerg.blogspot.com/">Skippy the Bush Kangaroo</a>)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/charlie-stross-discovers-that-the-wsj-has-been-teaching-to-the-test.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Grass is Green, Sky is Blue</title>
+		<link>./../../2010/07/grass-is-green-sky-is-blue.html</link>
+		<comments>./../../2010/07/grass-is-green-sky-is-blue.html#respond</comments>
+		<pubDate>Fri, 30 Jul 2010 13:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cursive-Z recession]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/grass-is-green-sky-is-blue.html</guid>
+		<description><![CDATA[The WSJ and the Commerce Department realize what everyone else already knew. The recession was deeper &#8212; and subsequent recovery slower &#8212; than the government originally estimated, the Commerce Department said Friday.]]></description>
+				<content:encoded><![CDATA[<p>The WSJ and the Commerce Department <a href="http://online.wsj.com/article/SB10001424052748703578104575397520711904834.html?mod=WSJ_hps_MIDDLETopStories">realize what everyone else already knew</a>.<br />
+<blockquote>The recession was deeper &#8212; and subsequent recovery slower &#8212; than the government originally estimated, the Commerce Department said Friday.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/grass-is-green-sky-is-blue.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economists = Idiots? Part 1829</title>
+		<link>./../../2010/07/economists-idiots-part-1829.html</link>
+		<comments>./../../2010/07/economists-idiots-part-1829.html#respond</comments>
+		<pubDate>Wed, 21 Jul 2010 16:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[excess reserves]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[FRBOperations]]></category>
+		<category><![CDATA[interest rates]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[RFR]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/economists-idiots-part-1829.html</guid>
+		<description><![CDATA[It was their idea, so it&#8217;s no surprise they like paying interest on reserves, even excess reserves: For quite a while, the Fed was quite happy to have that money on its books. Indeed, the power to pay interest on reserves was considered a key tool to keep control over all the liquidity the Fed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It was their idea, so it&#8217;s no surprise they like <a href="http://blogs.wsj.com/economics/2010/07/21/ending-interest-on-reserves-wont-help-economy-much/">paying interest on reserves, even excess reserves</a>:<br />
+<blockquote>For quite a while, the Fed was quite happy to have that money on its books. Indeed, the power to pay interest on reserves was considered a key tool to keep control over all the liquidity the Fed pumped into the system during the financial crisis. The Fed wanted to see bank lending increase, but in a controlled fashion, so as not to fan the flames of an inflation surge.</p>
+<p>But as worries about the outlook have risen, the game has changed. Some see a move to drive all those reserves into the economy as a key way to produce better economic growth. Markets got to thinking Fed Chairman Ben Bernanke would indicate this as a possible path when he testifies before the Senate Wednesday and the House of Representatives Thursday on the economic and monetary policy outlook.</p>
+<p>Economists, however, think ending the interest on reserves policy would be a bad idea.</p></blockquote>
+<p>Right, because the $2,534,722.22 a year paid in interest on $1 Billion in excess reserves is a drop in the bucket for the U.S. Federal deficit.</p>
+<p>And because the risk-free rate of return that features in so many economic models should be different for intermediaries (financial institutions) than wealth-creators (businesses).</p>
+<p>And because &#8220;excess reserves&#8221; are money issued by the government which is inflationary because of the multiplier effect of money—which, of course, assumes the money is being invested. (As this money is, in taxing our tax dollars and giving them to Vikram Pandit, Ken Lewis, Lloyd Blankfein, and Jamie Dimon [in descending order of theft; YMMV].)</p>
+<p>And, of course, because that $1 Billion that is not being used in the economy would only produce about $5-8 Billion in GDP, which is roughly, what, 50,000 to 80,000 new jobs?</p>
+<p>But, of course, banks have better use for the money than potential workers.<br />
+<blockquote>[Barclays Capital’s Joseph Abate] noted much of the money that constitutes this giant pile of reserves is &#8220;precautionary liquidity.&#8221; If banks didn&#8217;t get interest from the Fed they would shift those funds into short-term, low-risk markets such as the repo, Treasury bill and agency discount note markets, where the funds are readily accessible in case of need. Put another way, Abate doesn&#8217;t see this money <em>getting tied up in bank loans or the other activities that would help increase credit, in turn boosting overall economic momentum</em>. [emphasis mine]</p></blockquote>
+<p>Oh, well, since they&#8217;re not going to lend the money anyway, we should have no trouble paying them interest on it. What is The Fed other than a mattress stuffed by tax dollars?</p>
+<p>The key phrase is &#8220;precautionary liquidity.&#8221; If you assume that the recovery started in June or July of last year,* then you would expect &#8220;excess reserves&#8221; held for &#8220;precautionary liquidity&#8221; to have declined over time, as the need for &#8220;precautions&#8221; is reduced as the economy becomes safer. But that hasn&#8217;t been the case.</p>
+<p>Choose one (or both) from: (1) the banks don&#8217;t believe the economy is recovering or (2) the banks are holding assets on their books at higher levels than they know they are worth, and are therefore using &#8220;excess reserves&#8221; to cover real losses until they can&#8217;t any more.</p>
+<p>It is unclear whether Abate sees the banks&#8217;s unwillingness to be intermediaries as a feature. But at least he knows not everyone is doing it.<br />
+<blockquote>Abate buttressed his argument that banks really just want to stay liquid by noting who is holding reserves at the Fed. He said the 25 largest U.S. banks account for just over half of aggregate reserve levels, with three by themselves making up 21% of the reserves.</p></blockquote>
+<p>So the biggest of the Too Big to Fail banks have decided not to act as financial intermediaries, preferring instead to continue feeding from the taxpayer trough (where the $25MM in interest really is a drop in the bucket) and/or pretend that they are more solvent than they really are.</p>
+<p>And, according to the Wall Street Journal, economists believe we should continue to <em>pay</em> those banks for misvaluing their assets and refusing to perform their economic function.</p>
+<p>The economic theory I learned is that capital is paid its marginal product.  The marginal product of those excess reserves is zero, while the required reserves are intended to explicitly provide &#8220;precautionary liquidity.&#8221;</p>
+<p>Unless the TBTF banks are arguing that the Fed&#8217;s current Reserve Requirements are too low—a possibility, perhaps, though <a href="http://www.ft.com/cms/s/0/40271298-9428-11df-a3fe-00144feab49a.html">the FT cites evidence contrariwise</a>—the basis of all economic and financial theory indicates that they <em>should</em> receive no interest on those reserves.</p>
+<p>An &#8220;economist&#8221; who says otherwise is either lying or selling something.</p>
+<p>*I would argue—see <a href="http://www.angrybearblog.com/2010/07/are-you-better-off-than-you-were-year.html">yesterday&#8217;s post</a>—that June 2009 is rather eliminated by the non-recovery of more than half the states&#8217;s job markets a full year later.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/economists-idiots-part-1829.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Are you better off than you were a year ago? 28 States Say No.</title>
+		<link>./../../2010/07/are-you-better-off-than-you-were-a-year-ago-28-states-say-no.html</link>
+		<comments>./../../2010/07/are-you-better-off-than-you-were-a-year-ago-28-states-say-no.html#respond</comments>
+		<pubDate>Tue, 20 Jul 2010 16:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cursive-Z recession]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[employment report]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/are-you-better-off-than-you-were-a-year-ago-28-states-say-no.html</guid>
+		<description><![CDATA[The WSJ Economics Blog, discussing June 2010 unemployment rates by state, uses the headline &#8220;Most Regions Show Improvement&#8220;* I suppose we should be encouraged by the headline and not look at the text: Washington, DC and 16 states recorded jobless rates in excess of 10%. North and South Dakota continued to have the lowest rates [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The WSJ Economics Blog, discussing June 2010 unemployment rates by state, uses the headline &#8220;<a href="http://blogs.wsj.com/economics/2010/07/20/most-states-post-drop-in-jobless-rates/?utm_source=feedburner&#038;utm_medium=feed&#038;utm_campaign=Feed%3A+wsj%2Feconomics%2Ffeed+%28WSJ.com%3A+Real+Time+Economics+Blog%29&#038;utm_content=Google+Reader">Most Regions Show Improvement</a>&#8220;*</p>
+<p>I suppose we should be encouraged by the headline and not look at the text:<br />
+<blockquote>Washington, DC and 16 states recorded jobless rates in excess of 10%. North and South Dakota continued to have the lowest rates in the country, at 3.6% and 4.5%, respectively.</p>
+<p>Despite the improvements in the jobless rates, <strong>27 states posted a decline in payroll employment, while 21 notched increases.</strong> Montana and Alaska had the highest percentage increase from the previous month, while New Mexico and Nevada reported the largest percentage drops. [emphasis mine]</p></blockquote>
+<p>Less money is being paid in a majority of states. The clearest explanation, then, remains that the &#8220;decline&#8221; in U-3 reflects people dropping out of the work force, not being employed.</p>
+<p>It gets more interesting if you look at the Year-on-Year Change. There, 28 of the 50 states show a U-3 unemployment rate that is <strong>higher than or equal to</strong> last year&#8217;s. (The District of Columbia&#8217;s U-3 rate declined by 0.1% over that time, so it is only 10.0% now.)</p>
+<p>And the improvements are, lest we forget, from a high plateau.  The 14 states with the greatest drop in their unemployment rate year-on-year have an average <em>current</em> rate of 8.4%—and a median rate of 8.95%, the average being skewed by the above-mentioned North Dakota, <a href="http://quickfacts.census.gov/qfd/states/38000.html">with it&#8217;s 9.3 people per square mile and total population under 650,000, 37% of which are not of working age</a>.</p>
+<p>Dropping North Dakota from the &#8220;biggest YoY winners&#8221; moves the median current unemployment rate to 10.0%, while the average is slightly above 8.75%.</p>
+<p>If this is a recovery, then <a href="http://www.angrybearblog.com/2009/12/quote-of-decade-if-it-goes-way-i-expect.html">my December 2009 prediction</a> that this will turn out to be a &#8220;cursive-zed&#8221; recession may turn out to be optimism.</p>
+<p>*Also, &#8220;<a href="http://blogs.wsj.com/economics/2010/07/20/most-states-post-drop-in-jobless-rates/">Jobless Rates Drop in Most States</a>.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/are-you-better-off-than-you-were-a-year-ago-28-states-say-no.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What You Measure is What You Try to Manage, FRB edition</title>
+		<link>./../../2010/02/what-you-measure-is-what-you-try-to-manage-frb-edition.html</link>
+		<comments>./../../2010/02/what-you-measure-is-what-you-try-to-manage-frb-edition.html#respond</comments>
+		<pubDate>Mon, 01 Feb 2010 19:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[unemployment]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/what-you-measure-is-what-you-try-to-manage-frb-edition.html</guid>
+		<description><![CDATA[For those who were thrilled by the positive general prospects in Rebecca&#8217;s post, the WSJ presents words to die/foreclose by: If that seems at odds with the economy’s recent strength, keep in mind that the unemployment rate is usually one of the last places recovery shows up. Many of us are having trouble forgetting that, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For those who were thrilled by the positive general prospects in <a href="http://angrybear.blogspot.com/2010/02/consumers-around-world-are-generally.html">Rebecca&#8217;s post</a>, the WSJ presents words <a href="http://blogs.wsj.com/economics/2010/02/01/after-the-tape-ism-suggests-2010-momentum-job-growth/">to die/foreclose by</a>:<br />
+<blockquote> If that seems at odds with the economy’s recent strength, keep in mind that the unemployment rate is usually one of the last places recovery shows up.</p></blockquote>
+<p>Many of us are having trouble forgetting that, as the &#8220;flat&#8221; consumer confidence makes clear.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/what-you-measure-is-what-you-try-to-manage-frb-edition.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bernanke Part 2 of 2: Leaders Lead, or Just Say No</title>
+		<link>./../../2010/01/bernanke-part-2-of-2-leaders-lead-or-just-say-no.html</link>
+		<comments>./../../2010/01/bernanke-part-2-of-2-leaders-lead-or-just-say-no.html#respond</comments>
+		<pubDate>Tue, 26 Jan 2010 20:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bernanke]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[Obama Administration]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/bernanke-part-2-of-2-leaders-lead-or-just-say-no.html</guid>
+		<description><![CDATA[The world would be a much better place if people had listened to Tom last August: Now some elite opinion favors Ben Bernanke&#8217;s reappointment, but politicians are irritated over Fed stonewalling of bailout oversight and others (e.g. Dean Baker) point out that Ben Bernanke who put the Fed throttles to the firewall to save the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The world would be a much better place if people <a href="http://angrybear.blogspot.com/2009/08/thanks-to-ben-bernanke-ben-bernanke.html">had listened to Tom last August</a>:<br />
+<blockquote>Now some <a href="http://www.nytimes.com/2009/08/20/business/20bernanke.html?hp">elite opinion</a> favors Ben Bernanke&#8217;s reappointment, but politicians are irritated over Fed stonewalling of bailout oversight and others (e.g. <a href="http://www.prospect.org/csnc/blogs/beat_the_press_archive?month=08&#038;year=2009&#038;base_name=marketplace_radio_skips_the_bu">Dean Baker</a>) point out that Ben Bernanke who put the Fed throttles to the firewall to save the world is also the Ben Bernanke who carried over Greenspan policy until it was too late. [links in original]</p></blockquote>
+<p>Not a strong enough source for you?  How about <a href="http://delong.typepad.com/sdj/2010/01/the-internets-chief-bernanke-apologist-officer-speaks.html">the Internet&#8217;s Chief Bernanke Apologist</a>?  Brad DeLong <a href="http://delong.typepad.com/sdj/2009/08/obama-to-reappoint-fed-chairman-ben-bernanke---wsjcom.html">last August</a>:<br />
+<blockquote>I am surprised that he is being reappointed. I would have thought that the combination of people angry because he has given too much public money to the banks and people angry because he didn&#8217;t stop the recession would together make him damaged and that Obama would want to bring in a fresh face&#8211;never mind that Bernanke had no way to try to lessen the recession save by policy steps that inevitably involve giving money to the banks.</p></blockquote>
+<p>Tom also dealt with that:<br />
+<blockquote>To which the obvious response is, duh, who says it has to be one or the other? A reality-based critique of the bailouts allows them to be both effective at saving the world and unconscionable screw-jobs that kept an array of bad actors from paying for their greed and incompetence. (The latter clearly feeds a lot of the underlying sentiment of the tea partiers, even if it&#8217;s ultimately the greedy and incompetent who are marshalling it.) However, considering Team Obama&#8217;s political tone-deafness, it&#8217;ll be a pleasant but major surprise if they let Bernanke go back to Princeton for some R&#038;R.</p></blockquote>
+<p>And DeLong himself (today) <a href="http://blogs.wsj.com/economics/2010/01/25/economists-react-should-bernanke-stay-at-the-fed/"><s>moves the goalposts</s>notes where the problem is centered</a>:<br />
+<blockquote>[Bernanke] is no longer the academic intellectual who advocates inflation targetting. He is, instead, the voice for the consensus of the Federal Open Market Committee–and a member of that committee who can, by his own internal arguments, move that consensus at the margin. So he is going to reflect that consensus&#8230;.[A] Fed chair who doesn&#8217;t reflect the consensus in public has less power to move the consensus in private. From my perspective, I don’t think that there’s anything wrong with Ben Bernanke’s (private, intellectual, academic) analysis of the current situation. What is wrong is that the FOMC consensus is wrong—and Bernanke’s public statements reflect that wrong consensus. So here I tend to blame Obama more than I blame Bernanke for the recent character of Bernanke’s public statements–for the fact that Fed policy and rhetoric right now is not more Gagnonesque, because Obama could have done things over the past year to move the FOMC consensus that he has not done. [emphases mine]</p></blockquote>
+<p>This is a true statement—but it is no less true now than it was in August, and Ben Bernanke has been the ostensible leader of the FRB since then—and, indeed, since 2.5 years before then, as the crisis was unfolding.</p>
+<p>In the past four years, Bernanke has &#8220;led&#8221; the Federal Reserve.  And even those who are not sympathetic to <a href="http://pragcap.com/steve-keen-the-economic-case-against-bernanke">Steve Keen&#8217;s interpretation of Bernanke&#8217;s flaws</a> (h/t Yves and Naked Capitalism, <a href="http://www.nakedcapitalism.com/2010/01/steve-keen-the-economic-case-against-bernanke.html">who printed it themselves as well</a>) would have to agree that the sounds coming from the <a href="http://dallasfed.org/news/speeches/fisher/2010/fs100112.cfm">Fishers</a>* and <a href="http://www.marketwatch.com/story/feds-hoenig-urges-quick-action-on-sharp-rate-hike-2010-01-07">Hoenigs</a>, not to mention <a href="http://www.antemedius.com/content/bernanke-wants-steal-social-security-and-medicare-pay-wall-street-excesses">Bernanke himself</a>, are more reminiscent of <a href="http://lefarkins.blogspot.com/2010/01/creeping-morgenthauism.html">Morgenthau</a> than <a href="http://www.huffingtonpost.com/charles-gasparino/volcker-is-finally-gettin_b_435726.html">Volcker</a>.</p>
+<p>Which should have been the death knell for his renomination.  To turn Brad DeLong&#8217;s statement on its side:  Ben Bernanke has been unable to lead and change the consensus of the Federal Reserve Board, even marginally, to be more in line with what Ben Bernanke, the skilled economist, knows would be a better policy.</p>
+<p>Leaders lead.  Ben Bernanke hasn&#8217;t and doesn&#8217;t.*  For that alone, he should be replaced, and Janet Yellen nominated to replace him.</p>
+<p>*This one was reprinted, without several of the cronyism acknowledgements, in the WSJ comics section today. I prefer the original.</p>
+<p>**The similarity to the Canadian Liberal Party&#8217;s selection of <a href="http://en.wikipedia.org/wiki/St%C3%A9phane_Dion#Liberal_Leadership_candidate_.28April.E2.80.93December_2006.29"><s>Celine</s> Stephane Dion</a> as their leader should not be overlooked.  That they had the good sense to replace him after one term is a sign of sanity the Obama Administration would have been wise to consider. (That they compounded the mistake by replacing him with a pro-torture American conservative is a mistake from which one would expect the Obama Administration could and presumably will learn.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/bernanke-part-2-of-2-leaders-lead-or-just-say-no.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bernanke Interlude</title>
+		<link>./../../2010/01/bernanke-interlude.html</link>
+		<comments>./../../2010/01/bernanke-interlude.html#respond</comments>
+		<pubDate>Tue, 26 Jan 2010 17:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bernanke]]></category>
+		<category><![CDATA[Obama appointment]]></category>
+		<category><![CDATA[Obama economic policy]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/bernanke-interlude.html</guid>
+		<description><![CDATA[Via David Wessel&#8217;s Twitter feed, the WSJ publishes a letter: Ben Bernanke is a good person, a fine academic and a well-respected professor. But those traits have no bearing on whether he should be reconfirmed as Federal Reserve chairman&#8230;. Applying accountability principles, there&#8217;s no way Chairman Bernanke should be reconfirmed by the Senate, let alone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://twitter.com/davidmwessel">David Wessel&#8217;s Twitter feed</a>, the WSJ <a href="http://online.wsj.com/article/SB10001424052748703808904575025203988090076.html">publishes a letter</a>:<br />
+<blockquote>Ben Bernanke is a good person, a fine academic and a well-respected professor. But those traits have no bearing on whether he should be reconfirmed as Federal Reserve chairman&#8230;.</p>
+<p>Applying accountability principles, there&#8217;s no way Chairman Bernanke should be reconfirmed by the Senate, let alone reappointed by the Obama administration&#8230;.He&#8217;s been at the helm from the very beginning of this Great Recession. That alone warrants a &#8220;no&#8221; vote on reconfirmation.</p></blockquote>
+<p>At this point, I feel obligated to note that if you&#8217;re going to declare this The Great Recession—i.e., if you are assuming the chance of having the third Depression is over*—then Bernanke deserves credit, not blame. (Even those of us who do not assume we&#8217;re out of the woods admit we aren&#8217;t quite sunk yet, though 17.3% unemployment is problematic at best.)<br />
+<blockquote>In addition, the Fed&#8217;s behavior over the past 15 months has put America on a very dangerous path. The Fed has increased the monetary base (high-powered or wholesale money) by the largest amount ever, from colonial times to the present, times 10. Without an exit strategy, inflation is a virtual certainty over the coming decade, while an effective exit strategy virtually assures a further weakening of the U.S. economy. [emphasis mine]</p></blockquote>
+<p>This is Gospel for the WSJ editorial page, and a logical confusion of the first order.  Any &#8220;exit strategy&#8221; assumes that the conflict is primarily over, so any exit strategy would, by definition, not weaken—let alone &#8220;further weaken,&#8221; which suggests that the writer&#8217;s faith that &#8220;the Great Recession&#8221; is accurate is wavering—the economy. (We can, and will, discuss where All That Money Has Gone; suffice to say, it&#8217;s not exactly producing a Multiplier Effect.)</p>
+<p>But the writer saves the best for last.<br />
+<blockquote>And lastly, on a more personal note, [Bernanke] doesn&#8217;t have the gravitas of a Paul Volcker, Alan Greenspan or William McChesney Martin. In this day and age of crisis management, gravitas is essential. Almost anyone would be better than Mr. Bernanke.</p></blockquote>
+<p>Well, at least Arthur Burns is conspicuously excluded. It&#8217;s nice to know that <a href="http://angrybear.blogspot.com/2010/01/pseudo-psychology-of-psupply-pside.html">Arthur Laffer</a> believes in gravitas, while <a href="http://en.wikipedia.org/wiki/Dick_Cheney_hunting_incident">his best-known disciple</a> believes &#8220;<a href="http://www.ontheissues.org/2004/Dick_Cheney_Budget_+_Economy.htm">deficits don&#8217;t matter</a>.&#8221;</p>
+<p>*Yes, I could 1873-77 as a Depression in the United States. Looking at the evidence, it would be difficult not to.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/bernanke-interlude.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Today in &#034;Economists Are NOT Totally Clueless&#034; (Part 1 of 2 or 3)</title>
+		<link>./../../2009/12/today-in-economists-are-not-totally-clueless-part-1-of-2-or-3.html</link>
+		<comments>./../../2009/12/today-in-economists-are-not-totally-clueless-part-1-of-2-or-3.html#comments</comments>
+		<pubDate>Wed, 30 Dec 2009 02:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Calculated Risk]]></category>
+		<category><![CDATA[deadweight loss]]></category>
+		<category><![CDATA[Housing Prices]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/today-in-economists-are-not-totally-clueless-part-1-of-2-or-3.html</guid>
+		<description><![CDATA[The WSJ collects reactions to the release of the latest Case-Shiller index. Let&#8217;s look at two, just for fun: One in four mortgages are currently underwater. Foreclosure and delinquency rates, which hit a record high at the end of the third quarter of 2009, are therefore likely to continue to rise, perhaps sharply. In addition [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The WSJ collects <a href="http://blogs.wsj.com/economics/2009/12/29/economists-react-prices-have-further-to-fall/?utm_source=feedburner&#038;utm_medium=feed&#038;utm_campaign=Feed:+wsj/economics/feed+(WSJ.com:+Real+Time+Economics+Blog)&#038;utm_content=Google+Reader">reactions to the release of the latest Case-Shiller index</a>. Let&#8217;s look at two, just for fun:<br />
+<blockquote>One in four mortgages are currently underwater. Foreclosure and delinquency rates, which hit a record high at the end of the third quarter of 2009, are therefore likely to continue to rise, perhaps sharply. In addition to this, the inventory of homes for sale remains near record highs. … Despite the recent positive reports on housing prices, we believe that prices have further to fall—about another 5%-10%. — Patrick Newport, IHS Global Insight&#8230;.</p>
+<p>When the Case-Shiller index began increasing in the summer, there were concerns that exaggerated seasonal patterns were an important driver, as trends had briefly improved in the summer of 2008 as well. However, while some seasonality does appear to have been present, the fact that the Case-Shiller home price index is continuing to increase is good news. We still believe that home prices could fall a bit over the course of 2010, but the majority of the price adjustment has probably already occurred. — Abiel Reinhart, J.P. Morgan Chase</p></blockquote>
+<p>I&#8217;m not cherry-picking here.  I could make fun of the excluded &#8220;the long-awaited U.S. housing market recovery is well upon us&#8221; all day, but I&#8217;ll leave that one to <a href="http://www.calculatedriskblog.com/">CR</a> (who, I now see, has already done a <a href="http://www.calculatedriskblog.com/2009/12/are-homes-now-cheap.html">Variation on the Theme</a>).</p>
+<p>But let&#8217;s look at pieces of the two points, and see why I&#8217;m not sanguine (besides being long housing, that is):
+<ol>
+<li>One in four mortgages are currently underwater.  One in four = 25%.</li>
+<li>&#8220;[W]e believe that prices have further to fall—about another 5%-10%.&#8221;</li>
+<li>&#8220;[T]he Case-Shiller home price index is continuing to increase&#8221;</li>
+<li>&#8220;Home prices could fall a bit over the course of 2010, but the majority of the price adjustment has probably already occurred.&#8221;</li>
+</ol>
+<p>Even if you take all of those at face value, you have to combine Bad Economics and Bad Policy to assume the worst is near over.</p>
+<p>Details below the fold.<br /><a name="more"></a><br />Bad Economics:  If 25% of households are underwater right now, it would be foolish to assume that those people would <em>or should</em> stay in their house. (<a href="http://www.interfluidity.com/v2/364.html">Steve Randy Waldman made this point a while back</a>.)</p>
+<p>This doesn&#8217;t mean that all 25% of those householders should move.  There are major transaction costs in moving, not the least of which is the cost of moving itself.  Renting will not be <a href="http://online.wsj.com/article/SB126040517376983621.html">a better deal</a> for everyone, but more and more people are going to realize that <strong>not</strong> walking away will be A Bad Idea, damaging the future of their child and themselves long after any credit report impact will have dissipated.</p>
+<p>And if prices are still 5-10% above where they will be, the decision will become that much more inevitable, especially in areas where employment is lagging.</p>
+<p>Looking at the &#8220;bright spot&#8221;—the counterintuitive rise in the Case-Shiller Index—which looks <a href="http://blogs.wsj.com/economics/2009/12/29/a-look-at-case-shiller-by-metro-area-december-update/">less firm</a> than one might gather from the commenters—we see that this is another Second Derivative Problem: the pace of the decline has slowed (7.3% YOY) and the gain (&#8220;a seasonally adjusted 0.4%&#8221;) comes primarily from two areas (Phoenix, which has the largest YOY decline in the Index, and SF), with only five other positive gains over the month, none greater than 0.4% (SD; New York City is flat).</p>
+<p>There are green shoots there, but they are on rather fallow ground.</p>
+<p>Bad Policy is made clear in the last point: &#8220;the majority of the price adjustment has probably already occurred.&#8221;</p>
+<p>Let&#8217;s assume that statement is true.  We are, therefore, slightly away from equilibrium, but probably close enough.</p>
+<p>But 25% of householders are underwater.  And probably 80% of those—one in five &#8220;homeowners&#8221;—would have their economic situation improved by walking away and renting.</p>
+<p>The term that comes to mind is &#8220;deadweight loss.&#8221;  And let&#8217;s look at that in the next post.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/today-in-economists-are-not-totally-clueless-part-1-of-2-or-3.html/feed/index.html</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+		<item>
+		<title>Capitalism deserves a better defense, or Reasons to Short the Old Firm, Pre-BK</title>
+		<link>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html</link>
+		<comments>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html#respond</comments>
+		<pubDate>Mon, 13 Apr 2009 18:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[adverse selection]]></category>
+		<category><![CDATA[leverage]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html</guid>
+		<description><![CDATA[Ken Houghton&#8217;s Loyal Reader directed my attention to this WSJ blog entry, commenting on, and attempting to provide cover for, the management and actions of The Old Firm. I&#8217;m sympathetic to the general argument—Ace Greenberg&#8217;s naming of Jimmy Cayne to succeed him was incredibly bad judgment that had real consequences, but not malice aforethought—but the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ken Houghton&#8217;s Loyal Reader directed my attention to <a target="_blank" href="http://blogs.wsj.com/deals/2009/04/13/what-is-the-difference-between-a-ponzi-scheme-and-an-investment-bank/">this WSJ blog entry</a>, commenting on, and attempting to provide cover for, the management and actions of The Old Firm.</p>
+<p>I&#8217;m sympathetic to the general argument—Ace Greenberg&#8217;s naming of Jimmy Cayne to succeed him was incredibly bad judgment that had real consequences, but not malice aforethought—but the WSJ&#8217;s attempt to defend upper management rather goes off the rails.*</p>
+<p>Let&#8217;s look at some of the analytical parts of the article:<br />
+<blockquote>Investment banks were certainly imprudent in leveraging themselves 33 to 1; but they also announced it publicly in their quarterly statements.</p></blockquote>
+<p>&#8220;Certainly imprudent&#8221; is having unprotected sex with someone who clearly has open genital and/or oral herpes sores.  33x is larger even than the Cox-allowed 30x leverage (which was imprudent in the first place). &#8220;Thirty times leverage; it&#8217;s not just imprudent, it&#8217;s the law.&#8221;</p>
+<p>UPDATE:  My Loyal Reader e-mails:<br />
+<blockquote>Cohan writes that only at the end of a quarter was Bear around 40:1 and most of the rest of the time it was at 50 or 55:1&#8230;.JPMorgan Chase at the time of the takeover calculated that out of $300 billion Bear Stearns counted as assets, $220 billion could be considered &#8220;toxic&#8221;.</p></blockquote>
+<p>So even Moore&#8217;s 33:1 is known to be optimistic. And having more than 73% of your &#8220;assets&#8221; rated as &#8220;toxic&#8221; isn&#8217;t prudent management: it&#8217;s doubling-down while <a target="blank" href="http://itmightbedangerous.blogspot.com/2008/06/draft-review-about-process.html">hitting on 17</a>.</p>
+<p>We all know that the Prudent Investor definition has been redefined beyond reality, but it&#8217;s difficult to believe anyone would consider BSC&#8217;s practices to compile with reasonable Standards and Practices.<br />
+<blockquote>Shareholders, in turn, never complained as long as the banks were making money in 2006 and 2007. It was only when the music stopped and the economy turned bad that shareholders started to blame the banks for shifty dealings.</p></blockquote>
+<p>And it was only when Madoff admitted there were no more assets that &#8220;shareholders&#8221; complained.  Are we supposed to take some affirmative defense from this, or is Heidi Moore just clueless? (You can chose &#8220;and&#8221; if you want.)<br />
+<blockquote>Meanwhile, regulators are said to still be curious about what caused the “bear raids” that took down Bear Stearns and Lehman and threatened Morgan Stanley and Goldman Sachs.</p></blockquote>
+<p>They&#8217;re welcome to be curious, but the minute Alan Schwartz went on CNBC and said, &#8220;We think we&#8217;re solvent&#8221; is the minute anyone with any brains and capital went massively short Bear.  And they were late to the party, since anyone in the market with any brains and knowledge of MBS ramifications—think the guy at Solly who called Michael Lewis and said &#8220;Buy potatoes&#8221; as Chernobyl was happening—knew exactly who was going to be Most Likely to Pay Off if you bought (again, common knowledge) some proverbially-undervalued far OOTM put options.</p>
+<p>In fairness, Cohan appears to believe this is a smoking gun.  But we&#8217;ve heard those rumours since before the bankruptcy, and Bear Stearns is not Iceland.  If Cohan&#8217;s correct in his assertion on Stewart&#8217;s show that the people who bought all those OOTM put options were hedge funds that had previously used BSC for their Clearing Agent, then they voted with their feet in the face of reality.</p>
+<p>And the rest of the market isn&#8217;t dumb.  They could see who was buying, and what their previous relationship with Bear had been.  And they would see Alan Schwartz and realise this is not the man who is going to make it between the Scylla and Charybdis.  And they would take that—along with things such as Goldman&#8217;s immediate affirmation when the rumours starting about Lehmann and Bear that Lehmann would continue to be a respected competitor and trading partner—and be able to add.</p>
+<p>As the Beatles said, &#8220;One and one and one is three/Got to go short Bear cause he&#8217;s so hard to see.&#8221;</p>
+<p>But the WSJ wants you to think that going even beyond Christopher &#8220;I never saw a regulation I planned to enforce&#8221; Cox&#8217;s SEC-permitted leverage ratios is not a violation of the law, and that hedge funds who see incompetence and near-bankruptcy do not act on that information.</p>
+<p>The coolest thing about the Stewart/Cohan interview was when Cohan said &#8220;creative destruction&#8221; and Stewart immediately came back with Schumpeter by name. Maybe this is why Heidi Moore&#8217;s piece opens by calling Stewart &#8220;our nation’s foremost financial commentator.&#8221; (Take that, Paul Krugman!)  But the attempts to argue that The Old Firm was substantively different from a Ponzi scheme are going to need a better case made than she does.</p>
+<p>Capitalism deserves a better defense.</p>
+<p>*They specifically miss connecting the dots on where there was clear fraud committed by management—and I suspect Cohan did as well, since no one who talks about the book seems to mention it. <strong>UPDATE</strong>: I&#8217;m now told he did deal with it, but sloughed it off. So expect <a target="blank" href="http://www.nakedcapitalism.com/">Yves</a> or <a target="blank" href="http://www.ritholtz.com/blog/">Barry</a> or <a href="http://blogs.reuters.com/felix-salmon/">Felix</a> (blogroll update candidate, btw) or <a target="blank" href="http://paul.kedrosky.com/">Paul</a> (maybe even <a target="blank" href="http://globaleconomicanalysis.blogspot.com/">Mish</a>, who has the mindset for the job)—someone who pays a lot more day-to-day attention to the market than I can right now—to jump on this one in the near future.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

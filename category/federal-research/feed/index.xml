@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>federal research &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>A boom in shale gas? Credit the feds.</title>
+		<link>./../../2011/12/a-boom-in-shale-gas-credit-the-feds.html</link>
+		<comments>./../../2011/12/a-boom-in-shale-gas-credit-the-feds.html#respond</comments>
+		<pubDate>Thu, 22 Dec 2011 14:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[alternative energy investment]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[federal research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/12/a-boom-in-shale-gas-credit-the-feds.html</guid>
+		<description><![CDATA[A boom in shale gas? Credit the feds.  By Michael Shellenberger and Ted Nordhaus (hat tip to Barry Ritholtz) Since the high-profile bankruptcy of Solyndra, the solar company that received $535 million in federal loan guarantees, many have concluded that government efforts to promote energy technologies are doomed to fail. Critics cite the abandoned synthetic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.washingtonpost.com/opinions/a-boom-in-shale-gas-credit-the-feds/2011/12/07/gIQAecFIzO_print.html" target="_blank">A boom in shale gas? Credit the feds</a>.</p>
+<p> By Michael Shellenberger and Ted Nordhaus (hat tip to <a href="http://www.ritholtz.com/blog/2011/12/10-tuesday-pm-reads-13/" target="_blank">Barry Ritholtz</a>)<br />
+<blockquote>Since the high-profile <a href="http://www.washingtonpost.com/politics/solyndra-energy-department-failed-to-sound-alarm-as-solar-company-sank/2011/11/04/gIQAGQgfBN_story.html">bankruptcy of Solyndra</a>, the solar company that received $535 million in federal loan guarantees, many have concluded that government efforts to promote energy technologies are doomed to fail. Critics cite the abandoned synthetic fuels program, attempts to capture carbon pollution from coal plants and next-generation nuclear reactors as further proof of this conclusion.<br />Many often point to the shale gas revolution as evidence that the private sector, in response to market forces, is better than government bureaucrats at picking technological winners. It’s a compelling story, one that pits inventive entrepreneurs against slow-moving technocrats and self-dealing politicians.<br />The problem is, it isn’t true.<br />…..<br />While details vary, the story is basically the same for nuclear power, natural gas turbines, solar panels, and wind turbines — pretty much every significant energy technology since World War II. That’s because the private sector alone cannot sustain the kind of long-term investments necessary for big technological breakthroughs in the midst of volatile energy markets and short-term pressure to produce profits.<br />No doubt, government energy innovation investments could be made more efficiently and effectively. But it would be a mistake to imagine that we’d be better off without them. </p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/12/a-boom-in-shale-gas-credit-the-feds.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

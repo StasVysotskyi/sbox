@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Antigua &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>WTO and Antigua follow up</title>
+		<link>./../../2008/03/wto-and-antigua-follow-up.html</link>
+		<comments>./../../2008/03/wto-and-antigua-follow-up.html#respond</comments>
+		<pubDate>Sat, 29 Mar 2008 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Antigua]]></category>
+		<category><![CDATA[WTO]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/wto-and-antigua-follow-up.html</guid>
+		<description><![CDATA[Arstechnica had thoughts on WTO mediation and US indignation about IP rights. The second case concerns Antigua and Barbuda, a small Caribbean country home to all sorts of online vices, including gambling and DRM circumvention. Antigua took the US to the WTO years ago over charges that the US was unfairly criminalizing access to Antiguan [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://arstechnica.com/news.ars/post/20080325-ip-hypocrisy-us-likes-wto-rulings-only-when-it-wins.html">Arstechnica</a> had thoughts on WTO mediation and US indignation about IP rights.</p>
+<blockquote><p>The second case concerns Antigua and Barbuda, a small Caribbean country home to all sorts of online vices, including gambling and DRM circumvention. Antigua took the US to the WTO years ago over charges that the US was unfairly criminalizing access to Antiguan gambling websites while still allowing US-based horse racing sites to function. The WTO ruled against the US on several occasions, including a 2007 ruling that found the US had not yet bothered to comply with previous rulings.</p>
+<p>In retaliation, Antigua has announced a radical plan in an attempt to force its larger neighbor to play ball. The Antiguan government has recently stated that it will allow piracy of US intellectual property such as movies and movies unless the US changes its gambling policy (though this move has yet to be authorized by the WTO).</p>
+<p>Apparently, it&#8217;s easy to get hot and bothered when it&#8217;s industries from your country that claim to be badly affected by rules elsewhere. When it comes to the claims of other countries, though, even claims that have been validated by the WTO, it&#8217;s much easier to see the complexity of the situation, to spend years arguing those complexities before judges, and to do nothing even when compelled by rulings.</p>
+<p>This sort of behavior makes it that much harder to assert some kind of moral high ground when China, Russia, and others pick and choose which of their WTO obligations they are going to comply with.</p></blockquote>
+<p>Certainly a David and Goliath situation, but moral symbols have a way of boomeranging when trying to make your case in another arena. Just in case you were wondering.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/wto-and-antigua-follow-up.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

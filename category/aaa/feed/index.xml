@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AAA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Simon Johnson&#8230;You Get What You Pay For</title>
+		<link>./../../2011/09/simon-johnson-you-get-what-you-pay-for.html</link>
+		<comments>./../../2011/09/simon-johnson-you-get-what-you-pay-for.html#respond</comments>
+		<pubDate>Thu, 08 Sep 2011 17:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AAA]]></category>
+		<category><![CDATA[bonds]]></category>
+		<category><![CDATA[Standard and Poor]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/simon-johnson-you-get-what-you-pay-for.html</guid>
+		<description><![CDATA[Simon Johnson comments on Standard and Poor&#8217;s irrational ratings: Standard &#038; Poor’s downgrade of United States government debt last month has been much debated, but not enough attention has been devoted to the fact, reported last week by Bloomberg News, that it continues to rate securities based on subprime mortgages as AAA. In short, S.&#038;P. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://economix.blogs.nytimes.com/2011/09/08/you-get-what-you-pay-for/">Simon Johnson</a> comments on Standard and Poor&#8217;s irrational ratings:<br />
+<blockquote>
+<p><a href="http://topics.nytimes.com/top/news/business/companies/standard_and_poors/index.html?inline=nyt-org">Standard &#038; Poor’s</a> downgrade of United States government debt last month has been much debated, but not enough attention has been devoted to the fact, <a href="http://www.bloomberg.com/news/2011-08-31/subprime-mortgage-bonds-getting-aaa-rating-s-p-denies-to-u-s-treasuries.html">reported last week</a> by Bloomberg News, that it continues to rate securities based on subprime mortgages as AAA.</p>
+<p>In short, S.&#038;P. is suggesting that these mortgages are more creditworthy than the United States government — a striking proposition. Leave aside for a moment that S.&#038;P. made a big mistake in its analysis of the <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/f/federal_budget_us/index.html?inline=nyt-classifier">federal budget</a> (as <a href="http://baselinescenario.com/2011/08/16/how-big-is-the-deficit-anyway/">explained</a> by James Kwak in our blog). Just focus on all the things that can go wrong with subprime mortgages: housing prices can fall, people can lose jobs, the economy may fall into <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/r/recession_and_depression/index.html?inline=nyt-classifier">recession</a> and so on.</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/simon-johnson-you-get-what-you-pay-for.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

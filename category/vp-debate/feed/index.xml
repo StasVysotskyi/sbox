@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VP debate &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The 1964 Tax Cuts and Economic Growth &#8211; Paul Ryan Edition</title>
+		<link>./../../2012/10/the-1964-tax-cuts-and-economic-growth-paul-ryan-edition.html</link>
+		<comments>./../../2012/10/the-1964-tax-cuts-and-economic-growth-paul-ryan-edition.html#respond</comments>
+		<pubDate>Mon, 15 Oct 2012 01:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 Presidential elections]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+		<category><![CDATA[VP debate]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/the-1964-tax-cuts-and-economic-growth-paul-ryan-edition.html</guid>
+		<description><![CDATA[by Mike Kimel The 1964 Tax Cuts and  Economic Growth &#8211; Paul Ryan Edition  During last week&#8217;s Vice Presidential debates, Paul Ryan stated: “Jack Kennedy lowered tax rates, increased growth.”  There was some commentary about Biden&#8217;s response (&#8220;Oh, now you&#8217;re Jack Kennedy.&#8221;) but just about everyone seems to miss what I think is the important point. Take [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p>The 1964 Tax Cuts and  Economic Growth &#8211; Paul Ryan Edition<br />   <br />During last week&#8217;s Vice Presidential debates, Paul Ryan stated: “Jack Kennedy lowered tax rates, increased growth.”<br />    <br />There was some commentary about Biden&#8217;s response (&#8220;Oh, now you&#8217;re Jack Kennedy.&#8221;) but just about everyone seems to miss what I think is the important point. Take a look at the graph below:</p>
+<div><a href="http://1.bp.blogspot.com/-d6KUFM-_QCs/UHtoO9hI0wI/AAAAAAAABFM/zXa-uQe9MXE/s1600/Kennedy+Tax+Cuts,+Growth+20121014.jpg" imageanchor="1"><img border="0" height="192" src="http://1.bp.blogspot.com/-d6KUFM-_QCs/UHtoO9hI0wI/AAAAAAAABFM/zXa-uQe9MXE/s320/Kennedy+Tax+Cuts,+Growth+20121014.jpg" width="320"></a></div>
+<p>    </p>
+<p>The so-called Kennedy tax cuts occurred in 1964, the year following JFK&#8217;s assassination, and were pushed through by Lyndon Johnson. Now take a look at 1964, and consider the likely outcomes when people who<br />think events in 1964 &#8220;increased growth&#8221; determine tax policy.  Data on real GDP from the <a href="http://www.bea.gov/national/xls/gdplev.xls" target="_blank">Bureau of Economic Analysis</a>, the government agency responsible for computing the series.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/the-1964-tax-cuts-and-economic-growth-paul-ryan-edition.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

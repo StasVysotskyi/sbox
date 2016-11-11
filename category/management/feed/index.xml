@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>management &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Economics and Bosses</title>
+		<link>./../../2011/02/economics-and-bosses.html</link>
+		<comments>./../../2011/02/economics-and-bosses.html#respond</comments>
+		<pubDate>Mon, 28 Feb 2011 04:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[Ken Houghton]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[MPK]]></category>
+		<category><![CDATA[MPL]]></category>
+		<category><![CDATA[pensions]]></category>
+		<category><![CDATA[retirement]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/economics-and-bosses.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak, who is smarter and nicer than I am,* boils down the question: [D]o you believe that managers normally make the right decisions over how to run organizations? If you believe that premise, please explain: Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Peter Dorman at Econospeak, who is smarter and nicer than I am,* <a href="http://econospeak.blogspot.com/2011/02/are-bosses-always-right.html">boils down the question</a>:<br />
+<blockquote>[D]o you believe that managers normally make the right decisions over how to run organizations?</p></blockquote>
+<p>If you believe that premise, please explain:
+<ol>
+<li>Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, but their successors—who supposedly are more capable—are only capable of offering defined contribution?</li>
+<li>That &#8220;underfunded pension benefits&#8221; are evil, but &#8220;overunded&#8221; pensions led to the LBO (now &#8220;Private Equity&#8221;) movement of the 1980s.</li>
+<li>That, in the 1980s, GM being $1B underfunded caused Congress to pass a bill allowing pensions to become fully funded over 20 years—and that most of those targets were missed?</li>
+</ol>
+<p>If bosses are so good at managing &#8220;ongoing concerns,&#8221; why do they take their payments upfront?  What does—and should—this tell us about discount rates?</p>
+<p>*This is a fairly low standard, outside of people who work in finance.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/economics-and-bosses.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Heavy Flow (not an iPad post)</title>
+		<link>./../../2010/02/heavy-flow-not-an-ipad-post.html</link>
+		<comments>./../../2010/02/heavy-flow-not-an-ipad-post.html#respond</comments>
+		<pubDate>Thu, 04 Feb 2010 21:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ALM]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[Flow of Funds]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/heavy-flow-not-an-ipad-post.html</guid>
+		<description><![CDATA[Was 2009 a great year to be a bank? The headlines all say so. (The 140 U.S. banks that were closed by the FDIC last year may disagree some.) But, as Isabelle Kaminska of Alphaville notes, very little of the gains posted for last year came from anything related to talent: Deutsche Bank reported net [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Was 2009 a great year to be a bank? The headlines all say so. (The 140 U.S. banks that were closed by the FDIC last year may disagree some.)  But, as Isabelle Kaminska of Alphaville notes, <a href="http://ftalphaville.ft.com/blog/2010/02/04/140896/deutsche-bank-the-flow-rider/">very little of the gains posted for last year came from anything related to talent</a>:<br />
+<blockquote>Deutsche Bank reported net income of €5bn for the year 2009 on Thursday, compared to a €3.9bn loss in 2008.</p>
+<p>This, we would say, is a pretty impressive turnaround in anyone’s business&#8230;.</p>
+<p>Deutsche attributes much of that growth to the successful re-orientation of its business towards customer business and liquid, ‘flow’ products. While it’s not broken out within the results, we’re willing to bet that a large slice of that re-orientation was therefore focused on managing flow emanating from the group’s ever growing synthetic exchange-traded-product and foreign exchange businesses — both of which happen to do very well when spreads are wide, and volatility is high.</p></blockquote>
+<p>When I first started working in the investment side of the banking industry, 20-some years ago, the traders and marketers were especially careful to distinguish themselves from the &#8220;retail&#8221; side of banking.  Indeed, the retail bankers were described as &#8220;9-6-3&#8221; people: lend at 9%, take deposits at 6%, and be on the golf course by 3:00.</p>
+<p>Now that that same type of effort is producing all those record profits, is it time to decide that the legendary &#8220;management skills&#8221; of Jimmy Cayne, Vikram Pandit, and Neutron Jack (who turned GE from a products company into a finance company) might not have been all that different from that of a polyester-suited small-town bank manager?</p>
+<p><a name="more"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/heavy-flow-not-an-ipad-post.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eagles Update</title>
+		<link>./../../2010/02/eagles-update.html</link>
+		<comments>./../../2010/02/eagles-update.html#respond</comments>
+		<pubDate>Wed, 03 Feb 2010 22:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[football]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/eagles-update.html</guid>
+		<description><![CDATA[For those who missed it yesterday, Palace defeated the Wolves at Selhurst Park last night, 3-1 (only a goal in the 90th minute breaking the shutout) behind a hat trick from defenseman-moved-forward Danny Butterfield, who played a similar role in Saturday&#8217;s 2-0 win over Peterborough. Most interesting is this observation from Palace manager Neil Warnock: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For those who missed it yesterday, Palace defeated the Wolves at Selhurst Park last night, 3-1 (only a goal in the 90th minute breaking the shutout) behind a hat trick from defenseman-moved-forward Danny Butterfield, who played a similar role in Saturday&#8217;s 2-0 win over Peterborough.</p>
+<p>Most interesting is <a href="http://www.guardian.co.uk/football/2010/feb/03/fa-cup-crystal-palace-notts-county">this observation from Palace manager Neil Warnock</a>:<br />
+<blockquote>&#8220;Transfer deadline day was a long day for me. I think Fulham offered £30,000 for three of our academy players, and Chelsea came in for some too. That&#8217;s disgusting. And everybody knows that [the full-back Nathaniel] Clyne almost went to Wolves yesterday, and I was disappointed with the offer we accepted for him. But he turned them down and the money we would have got for him we&#8217;ll get from this Cup run now.&#8221;</p></blockquote>
+<p>Fire sales rarely make economic sense if you&#8217;re caretaking a Going Concern and willing to provide bridge financing.  That <a href="http://www.guardian.co.uk/football/2010/feb/02/crystal-palace-loan-players-wages-agilo">the latter was secured</a> the day after the Transfer Deadline may not be coincident.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/eagles-update.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Transfer Deadline Day and Poor Incentive Alignment</title>
+		<link>./../../2010/02/transfer-deadline-day-and-poor-incentive-alignment.html</link>
+		<comments>./../../2010/02/transfer-deadline-day-and-poor-incentive-alignment.html#respond</comments>
+		<pubDate>Mon, 01 Feb 2010 23:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[football]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/transfer-deadline-day-and-poor-incentive-alignment.html</guid>
+		<description><![CDATA[The big news of Transfer Deadline Day was that Nathaniel Clyne turned down a move from The Eagles to The Wolves.*  As The Guardian noted: [This] will please everyone at Crystal Palace who isn&#8217;t an administrator. Let’s look at the timeline and the reality. Palace was ninth in the Premier Championship [thanks to Tim in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The big news of <a href="http://www.guardian.co.uk/football/2010/feb/01/transfer-deadline-day-live" target="_blank">Transfer Deadline Day</a> was that Nathaniel Clyne turned down a move from The Eagles to The Wolves.*  As The Guardian noted:<br />
+<blockquote>
+<p>[This] will please everyone at Crystal Palace who isn&#8217;t an administrator.</p>
+</blockquote>
+<p>Let’s look at the timeline and the reality.
+<ol>
+<li>Palace was ninth in the <s>Premier</s> Championship [thanks to Tim in comments] League at the time they were put into Administration. (Owners could not pay bills.)</li>
+<li>Being put into Administration carries with it a <strong>10-point</strong> penalty <em>on the team.</em> This moved them from ninth to twentieth—from in contention for <s>the FA Cup</s> Coca Cola Championship playoffs [ibid. to Tim] and possible Promotion to the borderline of Relegation.
+<p>UPDATE 2: The Eagles&#8217;s current FA Cup matchup—being one of five remaining Championship League teams in the Round of 16—is a replay today (3:00pm EST) with&#8230;the Wolves.  Yes, the same team to which Clyne declined a transfer. Looking at <a href="http://www.thisislondon.co.uk/standard-sport/football/article-23801512-neil-warnock-is-banking-on-fa-cup-cash-to-keep-crystal-palace-afloat.do">the economics of today&#8217;s game</a> (h/t My Loyal Reader), there is 90,000 quid to get through to the next round, and an expectation of 247,500 in additional revenues from that round. So the proposed 1.5MM transfer fee for Clyne and Moses has to be adjusted by the decrease in probability (from positive to virtually zero) of receiving that 337,500.  Even if you assume only a 40% chance of winning at home, that&#8217;s an immediate 135,000 quid—9%—decline in the value of the sale.</p>
+</li>
+<li>Note that the team itself did not change in the least at that point.</li>
+<li>This puts two factors into play: a relegated Eagles squad would be worth less, but the Administrators are looking for short-term cash flow that can best be achieved by selling top players. (We should call this a “borrowing constraint,” perhaps, save that it was the lack of an initial borrowing constraint and the resultant overextension that led to the situation in the first place, so perhaps it is a resource allocation issue.) </li>
+</ol>
+<p>The strange thing is that, without the penalty, the incentives of the Administrators would be better-aligned with the long-term goals of the team: putting the best possible product on the field and selling an attractive commodity.**
+<p>Note, however, that the previous owners suffer no incremental reputational risk as the team is sold, even though they failed to prepare the <strike>firm</strike> team for those next steps. (Think Sandy Weill and The Big C or Neutron Jack and the DoD-subsid[iar]y/mortgage lender.) The damage after their departure is borne solely by the players.  In this particular case, Nathaniel Clyne’s move of support for the Eagles should be a stronger symbol for potential acquirers of the F.C. than the 1.5 million quid would have been.</p>
+<p>*Dissent on this point from <a href="http://en.wikipedia.org/wiki/Robbie_Keane" target="_blank">Tottenham</a> supporters is understandable, if wrong.  Yes, it was a boring day on the transfer front.</p>
+<p>**This doesn’t mean that they might not still be trying to sell players, just that there wouldn’t be a “Fire Sale” sign on their foreheads, which should produce marginally better deals, i.e., those that are <em>more closely</em> aligned with the longer-term interests of the team.</p>
+<p>UPDATE 1: Tim in comments notes, correctly, that Administration does, at least, pay the players, leaving transfer fees a possibility. The purpose of Administration remains, however, (1) keeping the League orderly and (2) being able to sell the franchise to other buyers for as much as possible.  Since transfer fees are based on negotiation, and Administration (&#8220;fire sale&#8221;) prices seem by definition to be below those that would be negotiated if it were One&#8217;s Own Money.</p>
+<p>So assuming one expects the Eagles to remain a Going Concern—that is, that Selhurst Park next season won&#8217;t be being developed into a Harrod&#8217;s—taking the transfer fee upfront is at best a wash, and more likely a reduction in the franchise&#8217;s value. Especially in a case where there is risk of Relegation.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/transfer-deadline-day-and-poor-incentive-alignment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>QOTD: There are Shareholders and then there are Share Holders</title>
+		<link>./../../2009/10/qotd-there-are-shareholders-and-then-there-are-share-holders.html</link>
+		<comments>./../../2009/10/qotd-there-are-shareholders-and-then-there-are-share-holders.html#respond</comments>
+		<pubDate>Tue, 06 Oct 2009 18:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[fiduciary responsibility]]></category>
+		<category><![CDATA[governance]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[Stock Market]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/qotd-there-are-shareholders-and-then-there-are-share-holders.html</guid>
+		<description><![CDATA[The Epicurean Dealmaker notes that the stock market &#8220;game&#8221; is irrevocably rigged against the individual investor, and the best thing anyone can do is realise that is so: I believe [Leo E. Strine Jr, vice chancellor of the Delaware Court of Chancery]&#8217;s analysis should conclusively disabuse participants in the current debate over financial regulatory reform [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Epicurean Dealmaker notes that the stock market &#8220;game&#8221; is irrevocably rigged against the individual investor, and <a target="_blank" href="http://epicureandealmaker.blogspot.com/2009/10/res-ipsa-loquitur.html">the best thing anyone can do is realise that is so</a>:<br />
+<blockquote>I believe [Leo E. Strine Jr, vice chancellor of the Delaware Court of Chancery]&#8217;s analysis should conclusively disabuse participants in the current debate over financial regulatory reform of two related notions&#8230;.The second is the canard that all public shareholders are alike, and they all share the same interests and motivations.</p>
+<p>Realizing that the second of these is false, and that Fidelity Investments and SAC Capital do not have the same investment timeframe and objectives as Aunt Millie or even the Ohio Teachers Pension Fund, would have a highly salutary effect on the beliefs and behavior of truly long-term shareholders.</p>
+<p>If nothing else, getting Aunt Millie to realize she is the only one in the shark tank without a safety cage should do her a world of good. [emphasis mine]</p></blockquote>
+<p>Read <a target="_blank" href="http://epicureandealmaker.blogspot.com/2009/10/res-ipsa-loquitur.html">the whole thing</a>, as well as <a target="_blank" href="http://dealbook.blogs.nytimes.com/2009/10/05/dealbook-dialogue-leo-strine/">Mr. Strine&#8217;s piece in the NYT&#8217;s DealBook that inspired it</a>, for a glimpse of the soft, white underbelly of corporate governance and management.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/qotd-there-are-shareholders-and-then-there-are-share-holders.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dear Brad, This is the person you say we &#034;don &#8216;t have time&#034; to worry about</title>
+		<link>./../../2008/09/dear-brad-this-is-the-person-you-say-we-don-t-have-time-to-worry-about.html</link>
+		<comments>./../../2008/09/dear-brad-this-is-the-person-you-say-we-don-t-have-time-to-worry-about.html#respond</comments>
+		<pubDate>Fri, 19 Sep 2008 23:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[agency theory]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/dear-brad-this-is-the-person-you-say-we-don-t-have-time-to-worry-about.html</guid>
+		<description><![CDATA[My Loyal Reader sends another example of those glorious, worthy individuals about whom &#8220;we do not have time&#8221; to worry: Former [AIG] Chief Executive Officer Maurice &#8220;Hank&#8221; Greenberg may try to end government involvement in the company &#8220;as prompt [sic] as possible,&#8221; his attorney David Boies said in an interview this week. Greenberg&#8230;has said the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My Loyal Reader sends another example of  <a href="http://www.bloomberg.com/apps/news?pid=20601087&#038;sid=agUbc_f0nSuU&#038;refer=home">those glorious, worthy individuals</a> about whom &#8220;we do not have time&#8221; to worry:<br />
+<blockquote>Former [AIG] Chief Executive Officer Maurice &#8220;Hank&#8221; Greenberg may try to end government involvement in the company &#8220;as prompt [sic] as possible,&#8221; his attorney David Boies said in an interview this week. Greenberg&#8230;has said the takeover might have been avoided if AIG got a bridge loan, tapped private investors and sold assets.</p></blockquote>
+<p>&#8220;<a href="http://us.imdb.com/title/tt0088170/quotes">Aye, and if my grandmother had wheels, she&#8217;d be a wagon!</a>&#8220;</p>
+<p>Did I mention that Greenberg has frequent contact with AIG&#8217;s Board of Directors of AIG, so assuming that he&#8217;s stupid enough to only be suggesting this <em>now</em> is a real stretch?  Did I mention <a href="http://angrybear.blogspot.com/2008/09/saying-it-all.html">that the Fed Rule cited specifically restricts their action to &#8220;unusual and exigent circumstances&#8221;</a>?</p>
+<p>Did I mention that the odds that Hank Greenberg was deliberately deceiving some reporter (and that his deception was cited as reality by a rather optimistic Bloomberg scribe) probably approach infinity?</p>
+<p>The <a href="http://en.wikipedia.org/wiki/Maurice_R._Greenberg">sainted 83-year-old Trilateral Commission member</a> continues:<br />
+<blockquote>&#8220;How can it be the right move if shareholders lose 80 percent of their equity?&#8221; he said in a Sept. 17 interview. Greenberg, the CEO for almost four decades until [he was ousted in] 2005, controlled about 11 percent of the shares through personal holdings and investment firms he runs before the takeover agreement, the largest stake.</p></blockquote>
+<p>Yep, I really want to bail this guy&#8217;s company out, since clearly shareholders &#8220;losing 80% [or 79.9%] of their equity&#8221; <a href="http://finance.yahoo.com/echarts?s=F#chart3:symbol=f;range=19970103,20080919;indicator=volume;charttype=line;crosshair=on;ohlcvalues=0;logscale=on;source=undefined">would</a> <a href="http://finance.yahoo.com/q?s=FNM">never</a> <a href="http://finance.yahoo.com/q?s=FRE">happen</a> <a href="http://finance.yahoo.com/echarts?s=CMGI#chart2:symbol=cmgi;range=my;indicator=volume;charttype=line;crosshair=on;ohlcvalues=0;logscale=on;source=undefined">to</a> <a href="http://finance.yahoo.com/echarts?s=JDSU#chart2:symbol=jdsu;range=my;indicator=volume;charttype=line;crosshair=on;ohlcvalues=0;logscale=on;source=undefined">any</a> <a href="http://finance.yahoo.com/q/bc?s=MER&#038;t=5y&#038;l=on&#038;z=m&#038;q=l&#038;c=">public</a> <a href="http://finance.yahoo.com/q/bc?s=GM&#038;t=5y">company</a>. (Yes, I picked obvious ones.)</p>
+<p>Apparently, Maurice &#8220;Hank&#8221; Greenberg believes we have time, and he&#8217;s a lot more involving in the genesis and exigesis of the current crisis than we are.  So why would we disagree with him?  The return to the &#8220;good&#8221; intertemporal equilibrium may be at stake.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/dear-brad-this-is-the-person-you-say-we-don-t-have-time-to-worry-about.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Because this worked so well last time&#8230;</title>
+		<link>./../../2008/09/because-this-worked-so-well-last-time.html</link>
+		<comments>./../../2008/09/because-this-worked-so-well-last-time.html#respond</comments>
+		<pubDate>Sun, 07 Sep 2008 00:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[corporate crime]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/because-this-worked-so-well-last-time.html</guid>
+		<description><![CDATA[Via Drs. DeLong and Black, the WaPo reports that this version of the S&#038;L crisis will repeat the mistakes of the last one: Instead of giving each company a big capital infusion upfront, the government could make quarterly injections as the companies&#8217; losses warrant, the sources said. This would be an attempt to minimize the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via Drs. <a href="http://delong.typepad.com/sdj/2008/09/bush-administra.html">DeLong</a> and <a href="http://www.eschatonblog.com/2008_08_31_archive.html#6248052711832110997">Black</a>, the <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/09/05/AR2008090503351_pf.html">WaPo reports</a> that this version of the S&#038;L crisis will repeat the mistakes of the last one:<br />
+<blockquote>Instead of giving each company a big capital infusion upfront, the government could make quarterly injections as the companies&#8217; losses warrant, the sources said. This would be an attempt to minimize the initial cost of the rescue. [emphasis mine]</p></blockquote>
+<p>And why are they doing this?  Who gets protected while the hemorrhaging continues?<br />
+<blockquote>The value of the companies&#8217; common stock would be diluted but not wiped out, while the holdings of other securities, including company debt and preferred shares might be protected by the government.</p></blockquote>
+<p>So who are the <a href="http://finance.yahoo.com/q/mh?s=FNM">major individual holders of the stock</a>?  Why, the directors of the company, the five of whom listed hold over 2.1 million shares.</p>
+<p>That is, the same people who were tasked with ensuring that the company was well run—and have failed miserably at it—are being saved by the form of the bailout, while the cost—again, judging by the lessons of the slow-motion S&#038;L meltdown—will be increasing for the taxpayers.</p>
+<p>The next time someone asks me if I believe in &#8220;free-market capitalism,&#8221; I&#8217;m going to ask if they believe in the Easter Bunny.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/because-this-worked-so-well-last-time.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>There&#8217;s almost $200 lying on the street; WWTD?</title>
+		<link>./../../2008/08/theres-almost-200-lying-on-the-street-wwtd.html</link>
+		<comments>./../../2008/08/theres-almost-200-lying-on-the-street-wwtd.html#respond</comments>
+		<pubDate>Tue, 26 Aug 2008 01:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[finance]]></category>
+		<category><![CDATA[interest rates]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[risk aversion]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/08/theres-almost-200-lying-on-the-street-wwtd.html</guid>
+		<description><![CDATA[Since I&#8217;m cash-strapped for the next few years, I&#8217;m looking for ways (legally, semi-legal, other) to make money. Thank the L-rd for WaMu. Let&#8217;s see: HELOC is at Prime &#8211; 0.76%, currently 4.24%. So I can: Take $25,000 from HELOC. Invest in FDIC-insured WaMu CD for 12 months at 5.00%. Profit until the fourth 0.25% [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since I&#8217;m cash-strapped for the next few years, I&#8217;m looking for ways (legally, semi-legal, other) to make money.</p>
+<p><a href="http://calculatedrisk.blogspot.com/2008/08/wamu-offering-5-12-month-cds.html">Thank the L-rd for WaMu</a>.</p>
+<p>Let&#8217;s see:  HELOC is at <a href="http://www.bankrate.com/brm/ratewatch/wsjPrimeRate.asp">Prime</a> &#8211; 0.76%, currently 4.24%. So I can:</p>
+<ol>
+<li>Take $25,000 from HELOC.</li>
+<li>Invest in FDIC-insured WaMu CD for 12 months at 5.00%.</li>
+<li>Profit until the fourth 0.25% rate hike, which should be at least a year.</li>
+</ol>
+<p>Make $190, give or take, risk free if nothing changes.</p>
+<p>Hmmm, maybe I should make that $50K. In the form of my new motto:  WWTD?  (<a href="http://angrybear.blogspot.com/2008/08/economist-who-doesnt-believe-people.html">What Would Tyler Do?</a>)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/08/theres-almost-200-lying-on-the-street-wwtd.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Just a distraction</title>
+		<link>./../../2008/05/just-a-distraction.html</link>
+		<comments>./../../2008/05/just-a-distraction.html#respond</comments>
+		<pubDate>Sun, 18 May 2008 15:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[baseball]]></category>
+		<category><![CDATA[institutions]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[risk aversion]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/just-a-distraction.html</guid>
+		<description><![CDATA[25*30 = 750 104/750 = 13.9% For those more conversant in the &#8220;disincentives of enforcement&#8221; literature than I, can you back into the Rational Expectation of Enforcement Practices that would lead nearly 14% of a population to conclude it is maximizing utility? And, given your calculation, what would that say about the Management Practices of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>25*30 = 750</p>
+<p><a href="http://sports.espn.go.com/mlb/news/story?id=3401868&#038;campaign=rss&#038;source=ESPNHeadlines">104</a>/750 = 13.9%</p>
+<p>For those more conversant in the &#8220;disincentives of enforcement&#8221; literature than I, can you back into the Rational Expectation of Enforcement Practices that would lead nearly 14% of a population to conclude it is maximizing utility?</p>
+<p>And, given your calculation, what would that say about the Management Practices of the organization?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/just-a-distraction.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

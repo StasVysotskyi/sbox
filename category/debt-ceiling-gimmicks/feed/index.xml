@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>debt ceiling gimmicks &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Incessant-Cutesy-Gimmicks Party</title>
+		<link>./../../2013/01/the-incessant-cutesy-gimmicks-party.html</link>
+		<comments>./../../2013/01/the-incessant-cutesy-gimmicks-party.html#respond</comments>
+		<pubDate>Wed, 23 Jan 2013 17:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[debt ceiling gimmicks]]></category>
+		<category><![CDATA[GOP]]></category>
+		<category><![CDATA[The Incessant-Cutesy-Gimmicks Party]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/the-incessant-cutesy-gimmicks-party.html</guid>
+		<description><![CDATA[Just wondering how much longer it will take the Republicans to recognize that being the Incessant Cutesy Gimmicks Party isn’t an attractive political position.]]></description>
+				<content:encoded><![CDATA[<p>Just wondering how much longer it will take the Republicans to recognize that being <a href="http://www.slate.com/blogs/moneybox/2013/01/22/gop_debt_ceiling_bill_is_constitutionally_dubious.html">the Incessant Cutesy Gimmicks Party</a> isn’t an attractive political position. </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/the-incessant-cutesy-gimmicks-party.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

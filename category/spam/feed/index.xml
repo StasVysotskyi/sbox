@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>spam &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Angry Bear switching to captcha temporarily if need be</title>
+		<link>./../../2012/11/angry-bear-switching-to-captcha-temporarily-if-need-be.html</link>
+		<comments>./../../2012/11/angry-bear-switching-to-captcha-temporarily-if-need-be.html#respond</comments>
+		<pubDate>Wed, 14 Nov 2012 15:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[spam]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/angry-bear-switching-to-captcha-temporarily-if-need-be.html</guid>
+		<description><![CDATA[Angry Bear comments has been switched to using the blogger word verification system until the spam aimed at us is controlled.  Our counter shows over five thousand spams eliminated since Nov. 8th.  We have avoided using the CAPTCHA filter because spam was at a relative nuisance level, but this period of time has seen a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Angry Bear comments has been switched to using the blogger word verification system until the spam aimed at us is controlled.  Our counter shows over five thousand spams eliminated since Nov. 8th.  We have avoided using the CAPTCHA filter because spam was at a relative nuisance level, but this period of time has seen a denial of service sort of bombardment.  When it is sorted out or on our new wordpress platform I hope to return us to open comments.  The convenience to readers is worth the effort.</p>
+<p>Thanks to Bears (Bruce and me especially, but shoutout if I missed you&#8230;it is not as if we signed off on each one) for keeping the boards clear.</p>
+<p>Update:  I will try &#8216;registered users comment only&#8217; first, so have switched off captacha, which I abhor after one use.  Any other suggestions?  Blogger support is not really available.</p>
+<p>Update 2:  I believe the robos have been tamed.  Back to business for us all.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/angry-bear-switching-to-captcha-temporarily-if-need-be.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Angry Bear comments section</title>
+		<link>./../../2012/11/angry-bear-comments-section.html</link>
+		<comments>./../../2012/11/angry-bear-comments-section.html#respond</comments>
+		<pubDate>Tue, 13 Nov 2012 15:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[spam]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/angry-bear-comments-section.html</guid>
+		<description><![CDATA[Apparently Angry Bear comments have been the subject of a spam bombardment, mostly about buying prescription drugs but also sports equipment. I have contacted the Blogger team by e-mail, and have asked other Bears to help keep current comment sections clear so readers can maintain their comments on posts. Sorry for the annoyance. I miss [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apparently Angry Bear comments have been the subject of a spam bombardment, mostly  about buying prescription drugs but also sports equipment.  I have contacted the Blogger team by e-mail, and have asked other Bears to help keep current comment sections clear so readers can maintain their comments on posts.  Sorry for the annoyance.  I miss our Askimet filter!</p>
+<p>Update:  9:36 AM&#8230;.maybe the algorithms have caught up to the sources.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/angry-bear-comments-section.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

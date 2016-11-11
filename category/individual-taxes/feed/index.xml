@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>individual taxes &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Effect of Individual Income Tax Rates on the Economy, Part 4: 1950 &#8211; 1968</title>
+		<link>./../../2011/09/the-effect-of-individual-income-tax-rates-on-the-economy-part-4-1950-1968.html</link>
+		<comments>./../../2011/09/the-effect-of-individual-income-tax-rates-on-the-economy-part-4-1950-1968.html#respond</comments>
+		<pubDate>Sun, 04 Sep 2011 18:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[individual taxes]]></category>
+		<category><![CDATA[taxation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/the-effect-of-individual-income-tax-rates-on-the-economy-part-4-1950-1968.html</guid>
+		<description><![CDATA[by Mike Kimel This post is the fourth in a series that looks at the relationship between real economic growth and the top individual marginal tax rate. The first looked at the period from 1901 to 1928, the second from 1929 to 1940, the third from 1940 to 1950. This week we look at 1950 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.presimetrics.com/blog/">Mike Kimel</a></p>
+<p>This post is the fourth in a series that looks at the relationship between real economic growth and the top individual marginal tax rate.  The first looked at the period from 1901 to 1928, the second from 1929 to 1940, the third from 1940 to 1950.  This week we look at 1950 &#8211; 1968.</p>
+<p>Before I begin, a quick recap&#8230;  both the <a href="http://www.angrybearblog.com/2011/08/effect-of-individual-income-tax-rates.html">1901 &#8211; 1928 period</a> and the <a href="http://www.angrybearblog.com/2011/08/effect-of-individual-income-tax-rates_22.html">1929 &#8211; 1940</a> failed to show the textbook relationship between taxes and growth.  In fact, it seems that for both those periods, there was at least a bit of support for the notion that growth was faster in periods of rising tax rates than in periods when tax rates were coming down.  In the <a href="http://www.angrybearblog.com/2011/08/effect-of-individual-income-tax-rates_29.html">1940 &#8211; 1950</a> period, we did observe slower economic growth following a tax hike and faster economic growth followed a tax reduction.  However, that happened when the top marginal tax rate was boosted above 90%.  </p>
+<p>There were also a few other findings that might be surprising given the poor acquaintance Americans have with data.  For example, the so-called Roaring 20s were a period in which the economy was often in recession.  The New Deal era, on the other hand, coincided with some of the fastest economic growth rates this country has seen since reliable data has been kept.  Additionally, rather than leading to faster economic growth, the economy actually slowed, a lot, during World War 2.  </p>
+<p>Real GDP figures used in this post come from <a href="http://www.bea.gov/national/xls/gdplev.xls">Bureau of Economic Analysis.</a>  Top individual marginal tax rate figures used in this post come from the <a href="http://www.irs.gov/pub/irs-soi/histab23.xls">IRS</a> [<strong>link fixed</strong>].  As in previous posts, I’m using growth rate from one year to the next (e.g., the 1980 figure shows growth from 1980 to 1981) to avoid “what leads what” questions. If there is a causal relationship between the tax rate and the growth rate, the growth rate from 1980 to 1981 cannot be causing the 1980 tax rate.</p>
+<p>Now that the preliminaries are done, if I was following the same pattern I followed in other posts I&#8217;d post a graph showing real GDP growth rates and tax rates.  But this time I&#8217;m going to hold off on that graph for a few more paragraphs.  Instead, I want to discuss an extremely pervasive myth about the period, and how that affects our understanding of economic of the era.  The myth involves the so-called Kennedy Tax Cuts.  Ask most economists and they&#8217;ll tell you:  the economy was in the doldrums until Kennedy cut taxes from 91% to 70%.  After that shot in the arm, growth took off like a shot.  There is a second myth, but it is more confused:  the myth of the idyllic 1950s.  That one says that there was rapid growth in the 1950s because the US had little economic competition, what with the rest of Free World haven&#8217;t been destroyed during World War 2.  It doesn&#8217;t reconcile that well with the Kennedy tax cut myth since, of course, for the Kennedy tax cuts to pull the economy out of the doldrums caused by a 91% tax rate, the economy has to be in the doldrums rather than idyllic when tax rates are 91%.</p>
+<p>So let&#8217;s look at what happened.  The graph below shows growth rates for the period.  (I&#8217;m not including tax rates quite yet&#8230; that comes later.)</p>
+<p><a href="http://4.bp.blogspot.com/-M5qkVx3U4PE/TmPGSAVaPoI/AAAAAAAAAhs/Tb4FR3mYmC0/s1600/Figure%2B1%252C%2B1950%2B-%2B1968.jpg"><img src="http://4.bp.blogspot.com/-M5qkVx3U4PE/TmPGSAVaPoI/AAAAAAAAAhs/Tb4FR3mYmC0/s320/Figure%2B1%252C%2B1950%2B-%2B1968.jpg" border="0" alt=""></a></p>
+<p>Well, growth rates in the 1950s weren&#8217;t steady.  There were a lot of ups and downs.  During three years in the 1950s, growth rates equaled or exceeded those in Reagan&#8217;s best year.  But it was also a period in which in which there were two recessions (and two more between 1945 and 1950, and another one in 1960) and the economy actually shrunk in two different years.  The 1950s can&#8217;t be characterized as idyllic nor as the doldrums. </p>
+<p>Now, there is a point in the graph that seems consistent with the idea that Kennedy did something that was a game changer.  Kennedy took office in January 1961, while the economy was going through the downward part of the cycle we had seen repeated since 1950.  And then&#8230; instead of the economy continuing on its downward trajectory, growth picked up and accelerated (with one blip), staying (mostly) above 5% through about 1965.  LBJ of course, took office when JFK was shot on November 22, 1963 so in this version of history, presumably, the end of the Kennedy boom came about when LBJ started inflicting socialism on us.  The only fly in that ointment to that story, of course, is that while hitting the same growth rate as Reagan achieved in his best ever year was not uncommon in the 1950s when the top marginal tax rate was 91%, it stopped happening after JFK.</p>
+<p>Which is all well and good, except for one detail apparent in the graph below which shows both the growth rate and the tax rate:</p>
+<p><a href="http://3.bp.blogspot.com/-1-BrR5tPmVg/TmPGSdrckAI/AAAAAAAAAh0/Moagrbe0Sqw/s1600/Figure%2B2%252C%2B1950%2B-%2B1968.jpg"><img src="http://3.bp.blogspot.com/-1-BrR5tPmVg/TmPGSdrckAI/AAAAAAAAAh0/Moagrbe0Sqw/s320/Figure%2B2%252C%2B1950%2B-%2B1968.jpg" border="0" alt=""></a></p>
+<p>As figure 2 shows, the cut in the top marginal rate occurred in 1964 (91% to 77%) and 1965 (77% to 70%).  Yes, the Kennedy tax cuts were pushed through by LBJ after Kennedy was dead, and  growth rates had already been fast and getting faster for several years before they occurred.  Worse, real growth in the 1960s reached their peak &#8211; the acceleration that had begun years earlier all of a sudden came to a halt &#8211; when the tax cuts occurred.  For the remainder of LBJ&#8217;s term, growth remained strong, but not as strong as it had been earlier.  For instance, the average of the annual growth rates of the 1961 to 1962, 1962 to 1963, and 1963 to 1964 years when tax rates were 91% was 5.41%.  The average from 1966 to 1967, 1967 to 1968, and 1968 to 1969, after the tax rates were dropped was 3.49%.  (Yes, I know, in his last year LBJ raised tax rates back to 75.25%, but even then it was well below the 91% before the tax cuts.)  </p>
+<p>This is not, repeat, remotely consistent with the myth I keep hearing about the Kennedy tax cuts.</p>
+<p>So far in this series&#8230;  it seems the evidence has been at least weakly against the idea that tax cuts lead to faster economic growth in the 1901 &#8211; 1928, 1929 &#8211; 1940, and 1950 &#8211; 1968 periods.  The 1940 &#8211; 1950 period does seem to behave consistently with that notion, though it is worth noting that it happened when tax rates were above 90%.  Next post in the series:  1968 &#8211; 1980.  </p>
+<p>As always, if you want my spreadsheets, drop me a line.  I&#8217;m at my first name which is mike and a period and my last name which is kimel (note that I&#8217;m not from the wealthy branch of the family that can afford two &#8220;m&#8221;s &#8211; make sure you only put one &#8220;m&#8221; in there) at gmail period com.  </p>
+<p><a name="more"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/the-effect-of-individual-income-tax-rates-on-the-economy-part-4-1950-1968.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Effect of Individual Income Tax Rates on the Economy, Part 1: 1901 &#8211; 1928</title>
+		<link>./../../2011/08/the-effect-of-individual-income-tax-rates-on-the-economy-part-1-1901-1928.html</link>
+		<comments>./../../2011/08/the-effect-of-individual-income-tax-rates-on-the-economy-part-1-1901-1928.html#respond</comments>
+		<pubDate>Sun, 14 Aug 2011 23:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economy]]></category>
+		<category><![CDATA[income taxes]]></category>
+		<category><![CDATA[individual taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/the-effect-of-individual-income-tax-rates-on-the-economy-part-1-1901-1928.html</guid>
+		<description><![CDATA[by Mike Kimel The Effect of Individual Income Tax Rates on the Economy, Part 1: 1901 &#8211; 1928 In 1913, the 16th Amendment to the Constitution led to the income tax system we know and don&#8217;t love today. Since that time, in fact, since way before that time, people have been arguing about the effect [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>The Effect of Individual Income Tax Rates on the Economy, Part 1: 1901 &#8211; 1928</strong> </p>
+<p>In 1913, the 16th Amendment to the Constitution led to the income tax system we know and don&#8217;t love today.  Since that time, in fact, since way before that time, people have been arguing about the effect of taxes on the economy.  Over the next few posts, I will take a systematic look at the relationship between individual tax rates and the economy going as far back as the data allows in the United States.</p>
+<p>In most of these posts, I will measure the effect of the economy using growth in real GDP per capita.  However, that series only dates back to 1929.  So in today&#8217;s post, which will focus on the period up to December 1928, I will look at the recessions (using official dates from the <a href="http://www.nber.org/cycles.html">NBER</a> and compare that to top individual marginal tax rates as published in the <a href="http://www.angrybearblog.com/www.irs.gov/pub/irs-soi/histab23.xls">IRS&#8217; statistics of income historical table 23</a>.</p>
+<p>The graph below shows the top marginal tax rate (black line) and periods in which the economy was in recession (gray bars) going back to January 1901.  (Note &#8211; the economy was in a recession from June of 1899 to December 1900, so January 1901 is a nice &#8220;clean slate&#8221; date at which to start.)  </p>
+<p><a href="http://4.bp.blogspot.com/-hWeel4ZxERk/TkhdlowX3SI/AAAAAAAAAq8/UcKIo90LuEQ/s1600/individual%2Bincome%2Btaxes.jpg"><img src="http://4.bp.blogspot.com/-hWeel4ZxERk/TkhdlowX3SI/AAAAAAAAAq8/UcKIo90LuEQ/s320/individual%2Bincome%2Btaxes.jpg" border="0" alt=""></a>Figure 1.</p>
+<p><a name="more"></a></p>
+<p>I think the graph above lends itself to be division into three more or less discrete periods.  The first is the pre-tax period from 1901 until 1912.  The second is the &#8220;rising tax&#8221; period from 1913 through 1918, and the third is the &#8220;falling tax&#8221; period from 1919 to 1928.  </p>
+<p>Now, if you asked the typical economics professor  or politician or conservative to rank three periods &#8211; no individual income taxes, rising individual income tax rates, and falling individual income tax rates &#8211; in terms of time spent in recession, you&#8217;d probably hear this back, &#8220;The economy will spend less time in recession when there are no income taxes, and the most time in recession when tax rates are rising.&#8221;  </p>
+<p>But that isn&#8217;t what the data shows.  The time spent in recession is pretty comparable.  The percentage of months under recession in the pre-tax period is 43.8%.  The percentage of months under recession in the rising tax period is 40.3%.  The percentage of months under recession in the falling tax period is 42.5%.</p>
+<p>Now let&#8217;s talk some nuance.  A recession is not a recession is not a recession.  For instance, the recession that began in 1907 was pretty severe, and is often referred to as the Panic of 1907.  The recession of 1918 was caused by the end of WW2.  And then there&#8217;s one more detail worth mentioning, the elephant not in the room so to speak.  The graph doesn&#8217;t show what happened in 1929, following just over a decade of tax cuts (in which time the top marginal rate fell from 77% to 24%), we had the Great Depression.  </p>
+<p>Next post in the series:  <strong>The Great Depression and the New Deal</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/the-effect-of-individual-income-tax-rates-on-the-economy-part-1-1901-1928.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

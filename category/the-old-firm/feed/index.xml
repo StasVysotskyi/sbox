@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Old Firm &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The 30-Year Amortizing Mortgage is a Win-Win (Part 1 of a Series)</title>
+		<link>./../../2011/07/the-30-year-amortizing-mortgage-is-a-win-win-part-1-of-a-series.html</link>
+		<comments>./../../2011/07/the-30-year-amortizing-mortgage-is-a-win-win-part-1-of-a-series.html#respond</comments>
+		<pubDate>Fri, 22 Jul 2011 02:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GSEs]]></category>
+		<category><![CDATA[MBS]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/the-30-year-amortizing-mortgage-is-a-win-win-part-1-of-a-series.html</guid>
+		<description><![CDATA[Even the normally level-headed Buce—who knows better and lets us know he knows better—tries to give Tyler Cowen’s broadside at Fannie and Freddie the benefit of some (contrived) doubt.  I’ve already screamed about the legerdemain of Cowen’s post elsewhere, so let’s go for the philosophical underpinnings. Let’s give some ground first.  Buce is spot-on with: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Even the normally level-headed Buce—who knows better and lets us know he knows better—<a href="http://underbelly-buce.blogspot.com/2011/07/tyler-on-fanniefreddie.html" target="_blank">tries to give Tyler Cowen’s broadside at Fannie and Freddie the benefit of some (contrived) doubt</a>.  I’ve already screamed about the legerdemain of Cowen’s post <a href="http://delong.typepad.com/sdj/2011/07/hoisted-from-comments-risk-controls-at-fannie-mae-during-the-mid-2000s.html" target="_blank">elsewhere</a>, so let’s go for the philosophical underpinnings.
+<p>Let’s give some ground first.  Buce is spot-on with:</p>
+<blockquote><p>One is the question whether Fannie/Freddie misbehaved in the years leading up to the pop.  On that point, I don&#8217;t think anybody can quarrel that Fannie (at least) has an appalling record of institutional misbehavior: rapacious and corrupt and willing to do whatever it could to pervert the lawful structure of good government&#8211;<strong>in short, they behaved like a money center bank. </strong>[emphasis mine]</p>
+</blockquote>
+<p>I can and will quarrel that it depends on how you define “misbehaved.”  As <a href="http://delong.typepad.com/sdj/2011/07/hoisted-from-comments-bakho-on-how-fannie-and-freddie-should-always-have-been-arms-of-the-treasury.html" target="_blank">Bakho notes chez DeLong</a>:</p>
+<p> <a name="more"></a><br />
+<blockquote>
+<p>Freddie/Fannie responded to the housing bubble once they started losing market share. The pressure on the private F/F was to regain market share.</p>
+<p>Would a fully public F/F be under the same pressure to increase market share? No. The pressure would have been for a public institution to not compete with the private sector and only write those loans the private sector was unwilling to write.</p>
+</blockquote>
+<p>Again, I’ll quibble that last sentence—it should read “loans the private sector could not make profitably,” but that’s part of the argument below and generally the phrases should mean the same. But if you believe the risk is being managed properly by the money center and investment banks, there’s no reason <em>ex ante</em> to believe that Fannie and Freddie misbehaved.  The “non-conforming” products all fill a consumer need, though some have <strong>very </strong>limited markets that are truly appropriate. </p>
+<p>Balloon mortgages, floating-rate mortgages with (and without) long-term caps,  or even IO mortgages make sense for a small subset of people. For balloon mortgages, think people who receive regular, annual bonuses.  The second is a yield-curve play for the borrower: either the upfront cost of the cap charged to the borrower gives the bank a cushion or the risk of high rates remains with the borrower. (The latter is a bad idea for anyone at risk of being liquidity-constrained.) The third is more difficult to justify—partially because it should carry a higher interest rate—but might be appropriate for second-home mortgages and the like.</p>
+<p>Even I won’t try to defend negative-amortization purchase loans. Any bank or firm that believed—and certainly those that still believe—that such a product has any reason to exist should be closed with prejudice, since its managers and directors clearly have no clue how to run a mortgage-related business.</p>
+<p>(Exception noted: reverse mortgages are philosophically reasonable, though I personally don’t believe they are either reasonable or valuable as they are currently sold, especially if you consider all of the non-economic reasons. But reverse mortgages do not have the same risk profile for the bank that reverse-amortization loans do, so the argument is more over demand than supply.)</p>
+<p>So there might be a market for all of the products that got headlines in the early and mid-Noughts. The problem is that—even with the size of the U.S. housing market—those niche products are likely to be unprofitable, given the fixed costs, reporting requirements, and back-office operations needed to manage and evaluate the products.</p>
+<p>To no one’s great surprise (I trust), the first thing that went was conformance to those reporting and management requirements.</p>
+<p>But that still wasn’t enough, especially in the case of the Bubble, so people who might have survived bullet loans or even amortizing floaters with or without caps ended up getting, er, encouraged to take loans that had a worse profile for them.  Buce carps:</p>
+<blockquote><p>[The GSEs] were willing to make the right noises about serving  public purpose but at the end of the day they had no more interest in the larger public good than Stan O&#8217;Neal, Dick Fuld or Jimmie Cayne.</p>
+</blockquote>
+<p>That may have been true at the top—my view of Daniel “acts like Harry” Mudd’s guidance of Fannie is no secret—but the risk controls at Fannie were far superior to the controls Jimmy Cayne enabled. Don’t believe me?  Ask <a href="http://www.rgm.com/articles/fortune3.html" target="_blank">Paul Friedman</a>:</p>
+<blockquote><p>&#8220;It took two or three weeks to mark,&#8221; explained Friedman. &#8220;It literally took a dozen people on the mortgage desk night and day, and a bunch of our research people night and day and weekends, three weeks to value this stuff, which tells you just how illiquid it was.&#8221;</p>
+<p>By the time they did figure out what most of it was worth, the firm had miscalculated badly. &#8220;We thought there was $400 million-ish of cushion, and in fact, as it turned out, we missed by like $1 billion out of $1.5 billion,&#8221; says Friedman. &#8220;It was not even close. You would think you could get it to the nearest billion, and a lot of it was the market deteriorating dramatically in that five or six weeks. But it was just a guess to begin with.&#8221;</p>
+</blockquote>
+<p>Don’t get me wrong: I consider this the equivalent of the Bancroft family getting all uppity about how Rupert “ruined their brand” or whatever. Instead of paying for projects and systems that could do that work, Bear upper management—not excluding Paul Friedman—took the cash home every year and budgeted their IT department(s) for the next year. The man who controls the purse strings and prioritization complaining about the system inadequacies may well be the 21st century equivalent of the obligatory teen who kills both her parents and pleads for mercy because she’s an orphan.</p>
+<p>But, taking Paul Friedman at his word, his systems couldn’t do in 2007 what Fannie Mae’s could do in 2001.  And if the risk cannot be evaluated properly, the price isn’t going to be right. Doesn’t mean it’s too high or too low, just that it’s not going to be right.</p>
+<p>So when those “bridge securitizations” (as it were)—mortgages purchased to securitize—become “pier loans” because no one wants to buy the security, you better have priced the loan appropriately, because it’s all going on your books and against your capital.</p>
+<p>From what I can tell, what made Bear—and very probably Lehmann—different from all others is that they had their own mortgage origination units.  So after all the other “private label issuers” (read: non-GSEs) stopped buying mortgages for MBSes around Hallowe’en of 2006, Bear was still buying from its own pipeline for another two or three months.  (By February of 2007, even Bear wasn’t buying.)</p>
+<p>Note therefore, that </p>
+<p>And any economists can tell you what happens when Q<sub>s</sub> > Q<sub>d</sub>.  But Buce has more fun:</p>
+<blockquote><p>Or, they wanted that until they didn’t want it, which is to say until they started pouring gasoline on a bonfire.</p>
+</blockquote>
+<p>I suspect that’s not exactly true.  Looking at the flows, it appears more that the Mudd Dynasty (and a poke or two from the Bush Administration) resulted in the GSEs being basically the only Origination game in town—“extend and pretend” started early.  As I* have often noted, by August of <strong>2007</strong>, both Lehmann and Bear were issuing debt—and, <a href="http://blogs.reuters.com/felix-salmon/files/2011/07/aaa.jpg" target="_blank">with due respects to Felix</a> (and <a href="http://www.angrybearblog.com/2008/11/credit-rating-game.html" target="_blank">Robert</a> <a href="http://www.angrybearblog.com/2010/05/quote-of-day.html" target="_blank">multiple</a> <a href="http://www.angrybearblog.com/2009/09/rating-agency-incentives.html" target="_blank">times</a> <a href="http://www.angrybearblog.com/2010/05/no-one-could-have-predicted.html" target="_blank">etc.</a>)—the market (as I have <a href="http://www.angrybearblog.com/2008/09/roubinis-not-wrong-but.html" target="_blank">noted before</a>) knew that <a href="http://www.bloomberg.com/apps/news?pid=newsarchive&#038;sid=aFbRONWfpjU8" target="_blank">all was not well</a> and any investor who was truly “rational” was paying attention to spreads.  (The rest were running “<a href="http://latimesblogs.latimes.com/money_co/2008/09/the-credit-cris.html" target="_blank">money market funds</a>.”*) </p>
+<p>So if you want to argue that the GSEs extended the crisis, you’ll get no argument from me (so long as you note that, even there, they had help from the Administration and its allies).</p>
+<p>So where am I quibbling?  Try <a href="http://underbelly-buce.blogspot.com/2011/07/tyler-on-fanniefreddie.html" target="_blank">here</a>:</p>
+<blockquote><p>I do think that defenders of Fannie/Freddie get a bit ahead of their skis sometimes, and I suspect the reason is that they fear for the institutions <i>per se</i>; the defenders  see their enemies as wanting to put Fannie/Freddie out of business and they don&#8217;t want Fannie/Freddie to go.  Me, I&#8217;m still on the fence on that issue.  It&#8217;s not obvious to me that we need  government-sponsored mortgage market makers.  I can see you don&#8217;t want to terminate tonight&#8211;or there would be no lending <i>at all</i>.  But schedule departure for five, ten years down the road, could be a good idea.</p>
+</blockquote>
+<p>Uh, “our enemies” <em>do </em>want “to put Fannie/Freddie out of business.” They have said so. So the quibble is whether it is “obvious we need  government-sponsored mortgage market makers.” And the evidence of that—remember the past, live the present—is clear that we do.</p>
+<p>But that’s the next post.</p>
+<p> </p>
+<p>*Only someone as deliberately clueless as Tim Geithner acts, or an economist, could believe that just because something calls itself a “money market fund” means it cannot “break the buck.” The number of the Deliberately Clueless has been expanding in recent months.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/the-30-year-amortizing-mortgage-is-a-win-win-part-1-of-a-series.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Gift that Keeps on Giving</title>
+		<link>./../../2010/08/the-gift-that-keeps-on-giving.html</link>
+		<comments>./../../2010/08/the-gift-that-keeps-on-giving.html#respond</comments>
+		<pubDate>Thu, 19 Aug 2010 17:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CMBS]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[MBS]]></category>
+		<category><![CDATA[recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/the-gift-that-keeps-on-giving.html</guid>
+		<description><![CDATA[During the discussions about the Fannie Mae project I still regret having turned down, one of the topics was which security would be better for a portfolio (assuming their risk-adjusted prices provided the same value): a four-year-old MBS or a seven-year-old MBS? I noted that the four-year-old MBS provided more potential upside but came gradually [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>During the discussions about <a href="http://www.angrybearblog.com/2010/08/interlude-self-indulgent-advt.html">the Fannie Mae project I still regret having turned down</a>, one of the topics was which security would be better for a portfolio (assuming their risk-adjusted prices provided the same value): a four-year-old MBS or a seven-year-old MBS?</p>
+<p>I noted that the four-year-old MBS provided more potential upside but came gradually to agree that the seven-year-old security was preferable: an MBS that is that &#8220;seasoned&#8221; is effectively a generic amortizing bond.  There shouldn&#8217;t be any surprises—in either direction—so a portfolio manager would prefer it.</p>
+<p>As usual, The Old Firm manges to prove that what <em>should</em> be correct for an MBS <a href="http://www.reuters.com/article/idUSWNA817520100819">isn&#8217;t necessarily so for a CMBS</a>:<br />
+<blockquote>Standard &#038; Poor&#8217;s Ratings Services today lowered its ratings on<br />three classes of commercial mortgage pass-through certificates from Bear<br />Stearns Commercial Mortgage Securities Trust 2002-TOP6, a U.S. commercial<br />mortgage-backed securities (CMBS) transaction&#8230;.</p>
+<p>The downgrade of class M to &#8216;D&#8217; follows a principal loss sustained by the<br />class, which was detailed in the August 2010 remittance report&#8230;.</p>
+<p>The principal loss and corresponding credit support erosion resulted from the<br />liquidation of an asset&#8230;.The Nortel Networks asset is a 281,758-sq.-ft. office<br />property in Richardson, Texas. The asset had a total exposure of $28.6<br />million. The asset was transferred to the special servicer in September 2009<br />and became real estate owned (REO) in March 2010. The trust incurred a $12.0<br />million realized loss when the asset was liquidated during the August<br />reporting period&#8230;[T]he loss severity for this asset was 44.2%</p></blockquote>
+<p>As <a href="http://www.calculatedriskblog.com/2010/08/jingle-mail-from-hyatt-hotels.html">corporations are increasingly using &#8220;jingle mail</a>,&#8221; the prospect for the future of CMBSes—even those that went through several good years. Or for the concept of an &#8220;ongoing concern,&#8221; or a strong recovery. (That latter concept seems to fade with <a href="http://macromarketmusings.blogspot.com/2010/08/its-happening-aggregate-demand.html">each</a> <a href="http://robertreich.org/post/953941192/forget-a-double-dip-were-still-in-one-long-big">passing</a> <a href="http://economistsview.typepad.com/economistsview/2010/08/initial-claims-for-unemployment-increase-to-500000.html">day</a>.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/the-gift-that-keeps-on-giving.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Capitalism deserves a better defense, or Reasons to Short the Old Firm, Pre-BK</title>
+		<link>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html</link>
+		<comments>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html#respond</comments>
+		<pubDate>Mon, 13 Apr 2009 18:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[adverse selection]]></category>
+		<category><![CDATA[leverage]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html</guid>
+		<description><![CDATA[Ken Houghton&#8217;s Loyal Reader directed my attention to this WSJ blog entry, commenting on, and attempting to provide cover for, the management and actions of The Old Firm. I&#8217;m sympathetic to the general argument—Ace Greenberg&#8217;s naming of Jimmy Cayne to succeed him was incredibly bad judgment that had real consequences, but not malice aforethought—but the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ken Houghton&#8217;s Loyal Reader directed my attention to <a target="_blank" href="http://blogs.wsj.com/deals/2009/04/13/what-is-the-difference-between-a-ponzi-scheme-and-an-investment-bank/">this WSJ blog entry</a>, commenting on, and attempting to provide cover for, the management and actions of The Old Firm.</p>
+<p>I&#8217;m sympathetic to the general argument—Ace Greenberg&#8217;s naming of Jimmy Cayne to succeed him was incredibly bad judgment that had real consequences, but not malice aforethought—but the WSJ&#8217;s attempt to defend upper management rather goes off the rails.*</p>
+<p>Let&#8217;s look at some of the analytical parts of the article:<br />
+<blockquote>Investment banks were certainly imprudent in leveraging themselves 33 to 1; but they also announced it publicly in their quarterly statements.</p></blockquote>
+<p>&#8220;Certainly imprudent&#8221; is having unprotected sex with someone who clearly has open genital and/or oral herpes sores.  33x is larger even than the Cox-allowed 30x leverage (which was imprudent in the first place). &#8220;Thirty times leverage; it&#8217;s not just imprudent, it&#8217;s the law.&#8221;</p>
+<p>UPDATE:  My Loyal Reader e-mails:<br />
+<blockquote>Cohan writes that only at the end of a quarter was Bear around 40:1 and most of the rest of the time it was at 50 or 55:1&#8230;.JPMorgan Chase at the time of the takeover calculated that out of $300 billion Bear Stearns counted as assets, $220 billion could be considered &#8220;toxic&#8221;.</p></blockquote>
+<p>So even Moore&#8217;s 33:1 is known to be optimistic. And having more than 73% of your &#8220;assets&#8221; rated as &#8220;toxic&#8221; isn&#8217;t prudent management: it&#8217;s doubling-down while <a target="blank" href="http://itmightbedangerous.blogspot.com/2008/06/draft-review-about-process.html">hitting on 17</a>.</p>
+<p>We all know that the Prudent Investor definition has been redefined beyond reality, but it&#8217;s difficult to believe anyone would consider BSC&#8217;s practices to compile with reasonable Standards and Practices.<br />
+<blockquote>Shareholders, in turn, never complained as long as the banks were making money in 2006 and 2007. It was only when the music stopped and the economy turned bad that shareholders started to blame the banks for shifty dealings.</p></blockquote>
+<p>And it was only when Madoff admitted there were no more assets that &#8220;shareholders&#8221; complained.  Are we supposed to take some affirmative defense from this, or is Heidi Moore just clueless? (You can chose &#8220;and&#8221; if you want.)<br />
+<blockquote>Meanwhile, regulators are said to still be curious about what caused the “bear raids” that took down Bear Stearns and Lehman and threatened Morgan Stanley and Goldman Sachs.</p></blockquote>
+<p>They&#8217;re welcome to be curious, but the minute Alan Schwartz went on CNBC and said, &#8220;We think we&#8217;re solvent&#8221; is the minute anyone with any brains and capital went massively short Bear.  And they were late to the party, since anyone in the market with any brains and knowledge of MBS ramifications—think the guy at Solly who called Michael Lewis and said &#8220;Buy potatoes&#8221; as Chernobyl was happening—knew exactly who was going to be Most Likely to Pay Off if you bought (again, common knowledge) some proverbially-undervalued far OOTM put options.</p>
+<p>In fairness, Cohan appears to believe this is a smoking gun.  But we&#8217;ve heard those rumours since before the bankruptcy, and Bear Stearns is not Iceland.  If Cohan&#8217;s correct in his assertion on Stewart&#8217;s show that the people who bought all those OOTM put options were hedge funds that had previously used BSC for their Clearing Agent, then they voted with their feet in the face of reality.</p>
+<p>And the rest of the market isn&#8217;t dumb.  They could see who was buying, and what their previous relationship with Bear had been.  And they would see Alan Schwartz and realise this is not the man who is going to make it between the Scylla and Charybdis.  And they would take that—along with things such as Goldman&#8217;s immediate affirmation when the rumours starting about Lehmann and Bear that Lehmann would continue to be a respected competitor and trading partner—and be able to add.</p>
+<p>As the Beatles said, &#8220;One and one and one is three/Got to go short Bear cause he&#8217;s so hard to see.&#8221;</p>
+<p>But the WSJ wants you to think that going even beyond Christopher &#8220;I never saw a regulation I planned to enforce&#8221; Cox&#8217;s SEC-permitted leverage ratios is not a violation of the law, and that hedge funds who see incompetence and near-bankruptcy do not act on that information.</p>
+<p>The coolest thing about the Stewart/Cohan interview was when Cohan said &#8220;creative destruction&#8221; and Stewart immediately came back with Schumpeter by name. Maybe this is why Heidi Moore&#8217;s piece opens by calling Stewart &#8220;our nation’s foremost financial commentator.&#8221; (Take that, Paul Krugman!)  But the attempts to argue that The Old Firm was substantively different from a Ponzi scheme are going to need a better case made than she does.</p>
+<p>Capitalism deserves a better defense.</p>
+<p>*They specifically miss connecting the dots on where there was clear fraud committed by management—and I suspect Cohan did as well, since no one who talks about the book seems to mention it. <strong>UPDATE</strong>: I&#8217;m now told he did deal with it, but sloughed it off. So expect <a target="blank" href="http://www.nakedcapitalism.com/">Yves</a> or <a target="blank" href="http://www.ritholtz.com/blog/">Barry</a> or <a href="http://blogs.reuters.com/felix-salmon/">Felix</a> (blogroll update candidate, btw) or <a target="blank" href="http://paul.kedrosky.com/">Paul</a> (maybe even <a target="blank" href="http://globaleconomicanalysis.blogspot.com/">Mish</a>, who has the mindset for the job)—someone who pays a lot more day-to-day attention to the market than I can right now—to jump on this one in the near future.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Grass is Green, Sky is Blue, The WSJ Lies to You</title>
+		<link>./../../2008/12/grass-is-green-sky-is-blue-the-wsj-lies-to-you.html</link>
+		<comments>./../../2008/12/grass-is-green-sky-is-blue-the-wsj-lies-to-you.html#respond</comments>
+		<pubDate>Fri, 05 Dec 2008 15:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[jourmalism]]></category>
+		<category><![CDATA[naked Capitalism]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/grass-is-green-sky-is-blue-the-wsj-lies-to-you.html</guid>
+		<description><![CDATA[Among their editorial suggestions for replacing Tim Geither as head of the New York FRB: Better choices would include &#8230;David Malpass, an economist who worked at the Reagan Treasury and long predicted the credit bubble&#8230;. Yes, you saw that correctly. David Malpass. Strangely, they don&#8217;t describe him as &#8220;David Malpass, former Chief Economist for Bear [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Among their <a href="http://online.wsj.com/article/SB122843659214281369.html?mod=djemEditorialPage">editorial suggestions for replacing Tim Geither as head of the New York FRB</a>:<br />
+<blockquote>Better choices would include &#8230;David Malpass, an economist who worked at the Reagan Treasury and long predicted the credit bubble&#8230;.</p></blockquote>
+<p>Yes, you saw that correctly.</p>
+<p>David Malpass.</p>
+<p>Strangely, they don&#8217;t describe him as &#8220;David Malpass, <a href="http://bigpicture.typepad.com/comments/2008/03/malpass-ass.html">former Chief Economist for Bear Stearns</a>, who long advocated taking monies out of your house because appreciation in housing prices changed &#8220;<a href="http://www.nytimes.com/2005/05/22/business/yourmoney/22view.html?_r=1&#038;adxnnl=1&#038;adxnnlx=1228489230-pp+qqFkPTCIa3fCQpbK8Iw">the structure of the household portfolio</a>.&#8221;</p>
+<p>And that &#8220;long predicted the credit bubble&#8221;?  This is a family blog, so I can&#8217;t call that horseshit.  So let&#8217;s look at what Malpass said in August of 2007—the point at which his firm was issuing bonds at what were essentially junk levels—<a href="http://online.wsj.com/article/SB118645120890190059.html">about the bubble, in the very pages of the WSJ</a>:<br />
+<blockquote>Another aspect of the market disruption is a dramatic stand-off between bond buyers and sellers: Buyers in both housing and debt markets are using the market discontinuity to claw prices and terms back to Earth. The slowdown talk weighing on equities also reflects the Wall Street view that debt, mortgage and takeover businesses have replaced General Motors as the economy&#8217;s bellwether. According to the bears: As goes the credit market, so goes the economy.</p>
+<p>Fortunately, Main Street is not that fickle. Housing and debt markets are not that big a part of the U.S. economy, or of job creation. It&#8217;s more likely the economy is sturdy and will grow solidly in coming months, and perhaps years.</p>
+<p>Unlike the 1998 seizure in credit markets to which many are now drawing comparisons, reservoirs of global liquidity are full to overflowing, not empty as they were that year. The deep 1997-1998 Asian crisis has been replaced with an all-cylinder boom. Unemployment rates are falling all around the world, while China&#8217;s equities have continued hitting new highs. [emphases mine]</p></blockquote>
+<p>The other nominees are little better, including the <a href="http://www.nakedcapitalism.com/2007/11/feds-gary-stern-makes-lame-arguments.html">Gary Stern</a>, current head of the Minneapolis Fed of &#8220;<a href="http://www.portfolio.com/views/blogs/market-movers/2008/10/22/the-credit-crunch-isnt-a-myth?tid=true">Credit Crisis? What crisis?</a>&#8221; fame. (At least Stern <a href="http://blogs.wsj.com/economics/2008/03/27/minneapolis-fed-president-keeps-eye-on-the-ball/">admits he doesn&#8217;t care about finance as much as some other things</a>.)  But Malpass—and the lies told in support of him—should be beyond the pale even by WSJ standards.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/grass-is-green-sky-is-blue-the-wsj-lies-to-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Not Since Mother Courage and Her Children&#8230;*</title>
+		<link>./../../2008/09/not-since-mother-courage-and-her-children.html</link>
+		<comments>./../../2008/09/not-since-mother-courage-and-her-children.html#respond</comments>
+		<pubDate>Sun, 21 Sep 2008 20:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+		<category><![CDATA[The Writing on the Wall]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/not-since-mother-courage-and-her-children.html</guid>
+		<description><![CDATA[At a high level, Floyd Norris explains it all to you. UDATED, AND PULLED TO THE FORE: For the more detailed view (h/t Barry R.), the soon to be late, not very lamented, New York Sun presents the details: The SEC allowed five firms — the three that have collapsed plus Goldman Sachs and Morgan [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>At a high level, <a href="http://norris.blogs.nytimes.com/2008/09/15/and-then-there-were-two/">Floyd Norris explains it all to you</a>.</p>
+<p>UDATED, AND PULLED TO THE FORE: For the more detailed view (h/t <a href="http://bigpicture.typepad.com/comments/2008/09/regulatory-exem.html">Barry R.</a>), the <a href="http://www.nytimes.com/2008/09/21/nyregion/22sun.html?_r=1&#038;hp=&#038;oref=slogin&#038;pagewanted=print">soon to be late</a>, <a href="http://nielsenhayden.com/makinglight/archives/010545.html">not very lamented</a>, New York Sun <a href="http://www.nysun.com/business/ex-sec-official-blames-agency-for-blow-up/86130/?print=5279202221">presents the details</a>:<br />
+<blockquote>The SEC allowed five firms — the three that have collapsed plus Goldman Sachs and Morgan Stanley — to more than double the leverage they were allowed to keep on their balance sheets and remove discounts that had been applied to the assets they had been required to keep to protect them from defaults.</p>
+<p>Making matters worse, according to Mr. Pickard, who helped write the original rule in 1975 as director of the SEC&#8217;s trading and markets division, is a move by the SEC this month to further erode the restraints on surviving broker-dealers by withdrawing requirements that they maintain a certain level of rating from the ratings agencies.</p></blockquote>
+<p>and the solution <strong>going forward</strong> (that is, after you give these guys $700 billion) will be an even weaker form:<br />
+<blockquote>The SEC said it has no plans to re-examine the impact of the 2004 changes to the net capital rule, and last week, it put out a proposal to revise the rule once again. This time, it is looking to remove the requirement that broker dealers maintain a certain rating from the ratings agencies.</p></blockquote>
+<p>Because nothing says &#8220;faith in the institution&#8221; like a non-investment grade rating.</p>
+<p>*Title explanation: Mother Courage at the beginning of the play has two (2) children.  By the end, she has two less than that.  The play closes with her &#8220;silent scream&#8221; as she drags her cart along.</p>
+<p>If you had only seen that final scene, you would think it is a tragedy <em>of</em> Mother Courage, not one caused by her. Working from memory: One of her children dies because she sends him(?) something that might be salable—in the middle of a battlefield.  The other is similarly sacrificed.  It is the reverse of the &#8220;because he&#8217;s an orphan&#8221; joke.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/not-since-mother-courage-and-her-children.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trickle-Down in Action?</title>
+		<link>./../../2008/09/trickle-down-in-action.html</link>
+		<comments>./../../2008/09/trickle-down-in-action.html#respond</comments>
+		<pubDate>Wed, 03 Sep 2008 21:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/trickle-down-in-action.html</guid>
+		<description><![CDATA[The Yahoo! headline says most of it: GMAC slashing workforce; reducing mortgage lending. I discussed the GMAC problems at Marginal Utility almost eighteen months ago. Things haven&#8217;t gotten much better since then. But some of the Mortgage Industry players have changed partners: Lender GMAC Financial Services said Wednesday it will close all of its 200 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Yahoo! headline says most of it: <a href="http://biz.yahoo.com/ap/080903/gmac_financial_restructuring.html">GMAC slashing workforce; reducing mortgage lending</a>.</p>
+<p>I discussed the GMAC problems at Marginal Utility <a href="http://atbozzo.blogspot.com/2007/03/buy-gm-cars-mortgage-market-needs-to-be.html">almost eighteen months ago</a>.  Things haven&#8217;t gotten much better since then.  But some of the Mortgage Industry players have changed partners:<br />
+<blockquote>Lender GMAC Financial Services said Wednesday it will close all of its 200 retail offices and lay off about 5,000 employees as part of plan to reduce its mortgage lending and servicing because of the housing market downturn.</p>
+<p>The majority of the layoffs are slated for GMAC&#8217;s mortgage lending division, Residential Capital LLC, known as ResCap, and will reduce work force at the unit by 60 percent, the company said.</p>
+<p>&#8220;While these actions are extremely difficult, they are necessary to position ResCap to withstand this challenging environment,&#8221; Tom Marano, ResCap&#8217;s chairman and CEO, said in a statement. &#8220;Conditions in the mortgage and credit markets have not abated and, therefore, we need to respond aggressively by further reducing both operating costs and business risk.&#8221;</p></blockquote>
+<p>Tom Marano—who knows mortgages and the mortgage market inside and out—was, prior to his moving to ResCap, the head of mortgage origination at Bear Stearns.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/trickle-down-in-action.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Variation on &#034;Pay the$2&#034; Joke</title>
+		<link>./../../2008/08/variation-on-pay-the2-joke.html</link>
+		<comments>./../../2008/08/variation-on-pay-the2-joke.html#respond</comments>
+		<pubDate>Thu, 14 Aug 2008 19:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[finance]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/08/variation-on-pay-the2-joke.html</guid>
+		<description><![CDATA[My Loyal Reader sends this link, with this pull quote: &#8220;They had four major and respected law firms advising them, as well as Lazard,&#8221; said Markel. &#8220;And all of them, all of them were advising the board that there was zero value in a bankruptcy for shareholders as well as losses to creditors.&#8221; When are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My Loyal Reader sends <a href="http://amlawdaily.typepad.com/amlawdaily/2008/08/new-york-judge.html">this link</a>, with this pull quote:<br />
+<blockquote>&#8220;They had four major and respected law firms advising them, as well as Lazard,&#8221; said Markel. &#8220;And all of them, all of them were advising the board that there was zero value in a bankruptcy for shareholders as well as losses to creditors.&#8221;</p></blockquote>
+<p>When are the JPMChase shareholders going to file a suit against Mr. Dimon et al. for their foolish paying of an additional $8/share?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/08/variation-on-pay-the2-joke.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#034;Yours!&#034;</title>
+		<link>./../../2008/07/yours.html</link>
+		<comments>./../../2008/07/yours.html#respond</comments>
+		<pubDate>Fri, 04 Jul 2008 00:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/07/yours.html</guid>
+		<description><![CDATA[Fed values Bear Stearns assets at a level where it has only cost them $100,000nothing—so far. (Indeed, there&#8217;s a $50,000 &#8220;buffer&#8221; left.) Strangely, the scuttlebutt in the market yesterday was that the valuation should be around $24 billion. Or at least that&#8217;s how I read this paragraph: If the portfolio&#8217;s value were to drop to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Fed <a href="http://www.bloomberg.com/apps/news?pid=20601087&#038;sid=aCDr9h0OSZtI">values Bear Stearns assets</a> at a level where it has <s>only</s> cost them <s>$100,000</s>nothing—so far. (Indeed, there&#8217;s a $50,000 &#8220;buffer&#8221; left.)</p>
+<p>Strangely, the scuttlebutt in the market <a href="http://www.reuters.com/articlePrint?articleId=USN0148556720080702">yesterday</a> was that the valuation should be around $24 billion. Or at least that&#8217;s how I read this paragraph:<br />
+<blockquote>If the portfolio&#8217;s value were to drop to below about $24 billion, that could indicate mortgage-backed securities have fared even worse in the second quarter than markets have already reflected, analysts said.</p></blockquote>
+<p>So the Fed thinks the market for those securities is about 23% higher than market professionals were telling Reuters it was yesterday.</p>
+<p>If I were a Fed policymaker, and I hadn&#8217;t been worying about <a href="http://www.newyorkfed.org/markets/tslf.html">the TSLF</a> before, I would be now.</p>
+<p>via <a href="http://calculatedrisk.blogspot.com/2008/07/fed-bear-stearns-assets-worth-289.html">CR</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/07/yours.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ancient History</title>
+		<link>./../../2008/06/ancient-history.html</link>
+		<comments>./../../2008/06/ancient-history.html#respond</comments>
+		<pubDate>Tue, 17 Jun 2008 02:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[baseball]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+		<category><![CDATA[war]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/06/ancient-history.html</guid>
+		<description><![CDATA[Celebrating a past era, probably in the late 1980s: Celebrating a War of Consensus, early 1992: Also early 1992 (for me), more than any other, the symbol of a firm (before Alan Raised a Cayne): Extra credit: Name the book used as background for the 1973 Mets tribute card and the unopened Desert Storm card [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Celebrating a past era, probably in the late 1980s:
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SFcecZXc7gI/AAAAAAAAAHo/u4DoZvlKCPg/s1600-h/1973+v2.jpg"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SFcecZXc7gI/AAAAAAAAAHo/u4DoZvlKCPg/s400/1973+v2.jpg" border="0" alt=""></a></p>
+<p>Celebrating a War of Consensus, early 1992:</p>
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SFce_cSexnI/AAAAAAAAAIA/c_VCz3vMxAQ/s1600-h/Desert+Storm.jpg"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SFce_cSexnI/AAAAAAAAAIA/c_VCz3vMxAQ/s400/Desert+Storm.jpg" border="0" alt=""></a></p>
+<p>Also early 1992 (for me), more than any other, the symbol of a firm (before Alan Raised a Cayne):</p>
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SFceeB5Xq-I/AAAAAAAAAH4/8uuotSTVIQw/s1600-h/Bear+paper+clips.jpg"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/SFceeB5Xq-I/AAAAAAAAAH4/8uuotSTVIQw/s400/Bear+paper+clips.jpg" border="0" alt=""></a></p>
+<p>Extra credit: Name the book used as background for the 1973 Mets tribute card and the unopened Desert Storm card pack. (Hint: it was the last edition without a coauthor.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/06/ancient-history.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

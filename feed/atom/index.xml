@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="./../wp-atom.php"
+   >
+	<title type="text">Angry Bear</title>
+	<subtitle type="text">Slightly left of center economic commentary  on news, politics and the economy.</subtitle>
+
+	<updated>2016-11-11T12:45:21Z</updated>
+
+	<link rel="alternate" type="text/html" href="./../index.html" />
+	<id>./index.html</id>
+	<link rel="self" type="application/atom+xml" href="./index.html" />
+
+	<generator uri="https://wordpress.org/" version="4.6.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Real wages decline; literally no one notices]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/real-wages-decline-literally-no-one-notices.html" />
+		<id>http://angrybearblog.com/2013/03/real-wages-decline-literally-no-one-notices.html</id>
+		<updated>2016-11-11T12:21:14Z</updated>
+		<published>2013-03-26T23:48:00Z</published>
+		<category scheme="./../index.html" term="Inequality" /><category scheme="./../index.html" term="wages" />		<summary type="html"><![CDATA[Cross-posted from Middle Class Political Economist. Your read it here first: Real wages fell 0.2% in 2012, down from $295.49 (1982-84 dollars) to $294.83 per week, according to the 2013 Economic Report of the President. Thus, a 1.9% increase in nominal wages was  more than wiped out by inflation, marking the 40th consecutive year that [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/real-wages-decline-literally-no-one-notices.html"><![CDATA[<p>Cross-posted from <a href="http://www.middleclasspoliticaleconomist.blogspot.com/">Middle Class Political Economist</a>.</p>
+<p>Your read it here first: Real wages fell 0.2% in 2012, down from $295.49 (1982-84 dollars) to $294.83 per week, according to the 2013 <a href="http://www.whitehouse.gov/sites/default/files/docs/erp2013/ERP2013_Appendix_B.pdf"><i>Economic Report of the President</i></a>. Thus, a 1.9% increase in nominal wages was  more than wiped out by inflation, marking the <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/03/basics-real-wages-remain-below-their.html">40th consecutive year</a> that real wages have remained below their 1972 peak.</p>
+<p>Yet no one in the media noticed, or at least none thought it newsworthy. I searched the web and the subscription-only Nexis news database, and there are literally 0 stories on this. So I meant it when I said you read it here first. In fact, there was little press coverage of the report at all, in sharp contrast to last year.g</p>
+<p>Below are the gory details. The data source is Appendix Table B-47, &#8220;Hours and Earnings in Private Non-Agricultural Industries, 1966-2012.&#8221; The table has been completely revised since last year&#8217;s edition of the report. The data is for production and non-supervisory workers in the private sector, about 80% of the private workforce, so we are able to focus on what&#8217;s happening to average workers rather than those with high incomes.. I use weekly wages rather than hourly because there has been substantial variation (with a long-term decline) in the number of hours worked per week, from 38.5 in 1966 to 33.7 in 2012. The table below takes selected years to reduce its size.</p>
+<p>Year     Weekly Earnings (1982-84 dollars)</p>
+<p>1972     $341.73 (peak)<br />
+1975     $314.77<br />
+1980     $290.80<br />
+1985     $284.96<br />
+1990     $271.10<br />
+1992     $266.46 (lowest point; 22% below peak)<br />
+1995     $267.17<br />
+2000     $285.00<br />
+2005     $285.05<br />
+2010     $297.79<br />
+2011     $295.49<br />
+2012     $294.83 (still 14% below peak)</p>
+<p>This decline is especially amazing when we consider that private non-farm productivity has doubled in this period:</p>
+<div><a href="http://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=OPHNFB"> <img src="http://research.stlouisfed.org/fred2/data/OPHNFB_Max_630_378.png" alt="Graph of Nonfarm Business Sector: Output Per Hour of All Persons" width="630" height="378" border="0" /> </a></div>
+<div></div>
+<div>But, if you&#8217;ve been paying attention, you know the drill: higher productivity plus lower wages = greater inequality. The question is, why aren&#8217;t our media paying attention when real wages fall, yet again?Update: <a href="http://blogs.seattletimes.com/jontalton/2013/03/25/real-wages-fell-in-2012/">Jon Talton</a> at the <i>Seattle Times</i> has now taken note of this.</div>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/real-wages-decline-literally-no-one-notices.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/real-wages-decline-literally-no-one-notices.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[People hardly noticed]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/people-hardly-noticed.html" />
+		<id>http://angrybearblog.com/2013/03/people-hardly-noticed.html</id>
+		<updated>2016-11-11T12:45:21Z</updated>
+		<published>2013-03-26T20:32:00Z</published>
+		<category scheme="./../index.html" term="Uncategorized" />		<summary type="html"><![CDATA[http://www.thefiscaltimes.com/Articles/2013/03/25/Half-of-American-Workers-Didnt-Notice-They-Got-Hit-with-a-Tax-Hike.aspx#page1 &#160; We’ve already seen evidence that consumers have largely shrugged off this year’s expiration of the payroll tax holiday. A new survey from Bankrate.com suggests one reason, beyond the housing rebound and stock market rally: many simply haven’t seen the hit to their paychecks. Tax hike? What tax hike? The payroll tax rate reverted [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/people-hardly-noticed.html"><![CDATA[<p><a title="http://www.thefiscaltimes.com/Articles/2013/03/25/Half-of-American-Workers-Didnt-Notice-They-Got-Hit-with-a-Tax-Hike.aspx#page1" href="http://www.thefiscaltimes.com/Articles/2013/03/25/Half-of-American-Workers-Didnt-Notice-They-Got-Hit-with-a-Tax-Hike.aspx#page1">http://www.thefiscaltimes.com/Articles/2013/03/25/Half-of-American-Workers-Didnt-Notice-They-Got-Hit-with-a-Tax-Hike.aspx#page1</a></p>
+<p>&nbsp;</p>
+<p>We’ve already seen evidence that consumers have <a href="http://www.thefiscaltimes.com/Articles/2013/02/26/Consumer-Confidence-Rebounds-but-Will-It-Last.aspx">largely shrugged off</a> this year’s expiration of the payroll tax holiday. A new survey from Bankrate.com suggests one reason, beyond the housing rebound and stock market rally: many simply haven’t seen the hit to their paychecks. Tax hike? What tax hike?</p>
+<p><a href="http://www.thefiscaltimes.com/Life-Money/Personal-Economics/Taxes-Personal.aspx?utm_source=Slug&amp;utm_medium=Link"><img src="http://www.thefiscaltimes.com/Articles/2013/03/25/~/media/Images/Inline/Slugs/Taxes_Slug.ashx?w=170&amp;h=113&amp;as=1" alt="" width="170" height="113" border="0" /></a></p>
+<p>The payroll tax rate reverted to 6.2 percent this year after two years at 4.2 percent. Yet nearly half of working Americans surveyed (48 percent) said they haven’t noticed the higher taxes. Another 7 percent said they haven’t been affected.</p>
+<p><img src="http://www.brimg.net/images/financial-security/Mar2013FinSec1FinancialReview.png?w=275&amp;h=275&amp;as=1" alt="" width="275" height="275" align="left" border="0" /></p>
+<p>“Even more of a surprise was who it was that hadn’t noticed,” says Greg McBride, senior financial analyst at Bankrate. While conventional wisdom held that lowest-income households would be hit hardest by the tax increase and would be most likely to scale back their spending, Bankrate survey of 1,006 workers, which was conducted by Princeton Survey Research Associates International, found the opposite.</p>
+<p>Read more at <a href="http://www.thefiscaltimes.com/Articles/2013/03/25/Half-of-American-Workers-Didnt-Notice-They-Got-Hit-with-a-Tax-Hike.aspx#RHi57kKuS5MWtpgr.99">http://www.thefiscaltimes.com/Articles/2013/03/25/Half-of-American-Workers-Didnt-Notice-They-Got-Hit-with-a-Tax-Hike.aspx#RHi57kKuS5MWtpgr.99</a></p>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/people-hardly-noticed.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/people-hardly-noticed.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Tom Goldstein of SCOTUSblog tweets, during the short break after the first hour of argument in the California Prop 8 case, that …]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/tom-goldstein-of-scotusblog-tweets-during-the-short-break-after-the-first-hour-of-argument-in-the-california-prop-8-case-that.html" />
+		<id>http://angrybearblog.com/2013/03/tom-goldstein-of-scotusblog-tweets-during-the-short-break-after-the-first-hour-of-argument-in-the-california-prop-8-case-that.html</id>
+		<updated>2013-03-26T15:18:00Z</updated>
+		<published>2013-03-26T15:18:00Z</published>
+		<category scheme="./../index.html" term="Defense of Marriage Act (DOMA); California&#039;s Proposition 8" /><category scheme="./../index.html" term="John Roberts" /><category scheme="./../index.html" term="Lyle Denniston" /><category scheme="./../index.html" term="Reuters" /><category scheme="./../index.html" term="SCOTUSblog" /><category scheme="./../index.html" term="the Supreme Court; Tom Goldstein" />		<summary type="html"><![CDATA[Breaking: 1st update- #prop8 unlikely to be upheld; either struck down or #scotus won’t decide case. More in 30 mins. This is the more important of the two gay-marriage cases.  Tomorrow’s argument will be on the constitutionality of the federal Defense of Marriage Act (DOMA), but almost no one (best as I can tell), thinks [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/tom-goldstein-of-scotusblog-tweets-during-the-short-break-after-the-first-hour-of-argument-in-the-california-prop-8-case-that.html"><![CDATA[<p>
+<div dir="ltr"></div>
+<div dir="ltr"><a href="https://twitter.com/SCOTUSblog/status/316560034295324672">Breaking</a>: 1st update-<a href="https://twitter.com/search?q=%23prop8&#038;src=hash"> #prop8</a> unlikely to be upheld; either struck down or<a href="https://twitter.com/search?q=%23scotus&#038;src=hash"> #scotus</a> won’t decide case. More in 30 mins.</div>
+<div dir="ltr">This is the more important of the two gay-marriage cases.  Tomorrow’s argument will be on the constitutionality of the federal Defense of Marriage Act (DOMA), but almost no one (best as I can tell), thinks the Court will uphold the constitutionality of that Act.  The real suspense* is in the Prop 8 case.  So …. </p>
+<p>UPDATE: <a href="http://www.scotusblog.com/2013/03/the-proposition-8-oral-argument/">Here&#8217;s</a> Tom Goldstein&#8217;s post-argument report. </p>
+<p>SECOND UPDATE:  <a href="http://newsandinsight.thomsonreuters.com/Legal/News/2013/03_-_March/Supreme_Court_raises_doubts_on_California_marriage_case/">This one&#8217;s</a> from Reuters.  It seems to me that the Roberts comment quoted in the article is very significant.  In a good way.</p>
+<p>THIRD (and final, for at least a few hours) UPDATE: <a href="http://www.scotusblog.com/2013/03/argument-recap-on-marriage-kennedy-in-control/">Here’s</a> SCOTUSblog’s Lyle Denniston’s take.  He’s my (and many, many others’) go-to guy on all things Supreme. He seems to think that they’ll simply dismiss the Supreme Court case, saying that the petition grant was “improvidently granted,” leaving the Ninth Circuit opinion intact. </p>
+<div dir="ltr">That would leave intact the Ninth Circuit ruling&#8211;which was that, because California already had been allowing same-sex marriage before Prop. 8 was approved in 2006, in localities that approved it, the state could not suddenly render those marriages null and void.  Doing so would violate the Fourteenth Amendment’s Due Process clause.  And since some gays already were allowed to be married, and their marriages would continue to be recognized by the state, refusing to allow other gays to marry would violate the Fourteenth Amendment’s Equal Protection clause. That’s the ruling that would remain in effect if the Supreme Court rules that the Prop. 8 petitioners have no legal standing to be a party to the case.  </div>
+<p>
+<div dir="ltr">That now seems more likely to me than the other option that would allow them to avoid deciding on whether same-sex marriage is a constitutional right.  That other option would be to rule that “the petitioners”&#8211;the group that earlier asked the Ninth Circuit, and then asked the Supreme Court, to “vacate” the lower-court rulings and uphold the constitutionality of Prop. 8&#8211;don’t have “standing” to be a party to the lawsuit, because they would have no injury from a court ruling striking down Prop. 8 that is sufficiently direct and significant to meet the Article III standing requirement.  </div>
+<p>
+<div dir="ltr">If they go the “no standing” route, that would leave intact not the Ninth Circuit ruling based on narrow grounds but instead the lower, trial-court judge’s ruling, which was based on much broader grounds.  The effect would be somewhat, but not entirely the same, whichever of these two options they choose. </div>
+<p>
+<div dir="ltr">As I understand it, if they choose the option that leaves the Ninth Circuit opinion in place, that would mean that localities in California would have the option to allow same-sex marriage but would  not be required to allow it, although all government entities throughout the state would have to recognize any same-sex marriage as legal. If they instead choose the option that vacates the Ninth Circuit opinion and restores the lower, trial-court ruling, by ruling that the petitioners have, and had, no legal standing to appeal from the trial-court ruling either in the Ninth Circuit Court of Appeals or in the Supreme Court, that would mean that, for now, in central California, within the trial-court level federal court district where the case was filed and where the trial-court ruling was issued, Prop. 8 would be invalid and all localities within that court district would be required to allow same-sex marriage. </p>
+</div>
+<p>&#8212;- </p>
+<p>*Originally, I used the word &#8220;action,&#8221; but changed it to &#8220;suspense&#8221; because if the Court strikes down DOMA as unconstitutional, that would be big, important action. I really meant &#8220;suspense,&#8221; because I do think the striking of DOMA is highly likely; not much suspense on that.  But tomorrow&#8217;s argument will give some hint about whether I&#8217;m right.</p></div>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/tom-goldstein-of-scotusblog-tweets-during-the-short-break-after-the-first-hour-of-argument-in-the-california-prop-8-case-that.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/tom-goldstein-of-scotusblog-tweets-during-the-short-break-after-the-first-hour-of-argument-in-the-california-prop-8-case-that.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Is ‘overbanked’ going to be a common household word?]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/is-overbanked-going-to-be-a-common-household-word.html" />
+		<id>http://angrybearblog.com/2013/03/is-overbanked-going-to-be-a-common-household-word.html</id>
+		<updated>2013-03-26T10:53:00Z</updated>
+		<published>2013-03-26T10:53:00Z</published>
+		<category scheme="./../index.html" term="European Union" /><category scheme="./../index.html" term="Eurozone" /><category scheme="./../index.html" term="too big to fail" /><category scheme="./../index.html" term="too big to prosecute" />		<summary type="html"><![CDATA[Via The Big Picture and Ritholz comes Nervousness in over banked Europe Go no further than the following two charts to understand why markets freaked out over Dijsselbloem’s comments.    Europe is way overbanked and vulnerable to financial sector shocks.Even in the so-called “safe haven” Switzerland the banking system is outsized relative to the country’s GDP.  [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/is-overbanked-going-to-be-a-common-household-word.html"><![CDATA[<p>Via <a target="_blank" href="http://www.ritholtz.com/blog/2013/03/nervousness-in-over-banked-europe-slams-markets/">The Big Picture</a> and Ritholz comes <a target="_blank" href="http://macromon.wordpress.com/2013/03/25/nervousness-in-over-banked-europe-hits-markets/">Nervousness in over banked Europe</a></p>
+<blockquote><p>Go no further than the following two charts to understand why markets freaked out over Dijsselbloem’s comments.    Europe is way overbanked and vulnerable to financial sector shocks.<br />Even in the so-called <a href="http://macromon.wordpress.com/2011/08/18/seriously-swissie-a-safe-have-during-a-banking-crisis/">“safe haven” Switzerland</a> the banking system is outsized relative to the country’s GDP.  Compare the relative size of UBS, for example,  to the largest bank in the U.S.,  JP Morgan.  Nuff said.</p></blockquote>
+<p>
+<div><a href="http://2.bp.blogspot.com/-TbDeUaKNzV8/UVF85s_6GyI/AAAAAAAABlg/p2e3uikJB3Q/s1600/bank-assetsgdp.jpg" imageanchor="1"><img border="0" src="http://2.bp.blogspot.com/-TbDeUaKNzV8/UVF85s_6GyI/AAAAAAAABlg/p2e3uikJB3Q/s1600/bank-assetsgdp.jpg" height="258" width="400"></a></div>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/is-overbanked-going-to-be-a-common-household-word.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/is-overbanked-going-to-be-a-common-household-word.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Nature bats last]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/nature-bats-last.html" />
+		<id>http://angrybearblog.com/2013/03/nature-bats-last.html</id>
+		<updated>2013-03-26T10:46:00Z</updated>
+		<published>2013-03-26T10:46:00Z</published>
+		<category scheme="./../index.html" term="David Zetland. water economics" />		<summary type="html"><![CDATA[David Zetland writes a well written nine page look at the limits of economics in at least the media and political level, and a look at the limits of what economic models have to offer most people. This will be a series of posts highlighting major points over time. The paper must be downloaded to [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/nature-bats-last.html"><![CDATA[<p>David Zetland writes a well written nine page look at the limits of economics in at least the media and political level, and a look at the limits of what economic models have to offer most people. This will be a series of posts highlighting major points over time. The paper must be downloaded to read.</p>
+<p>by David Zetland Wageningen UR &#8211; Environmental Economics and Natural Resources Group; PERC &#8211; Property and Environment Research Center</p>
+<p><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2230931">Economists Owe Ecology an Apology</a><br />March 9, 2013</p>
+<p>Part 2 from the series <a href="http://www.angrybearblog.com/2013/03/economists-owe-ecology-apology.html">Economists owe ecology an apology</a></p>
+<p>Nature bats last </p>
+<p>“When we try to pick out anything by itself, we find it hitched to everything else in the Universe.&#8221; —John Muir (1911)</p>
+<p>“The economic problem of society is…a problem of the utilization of knowledge which is not given to anyone in its totality.&#8221; —F.A. Hayek (1945)</p>
+<p>John Muir and fellow conservationists, environmentalists and ecologists understood the world not as a machine to bend to man’s will but as a life-supporting organism that reckless humans could damage. They worried about the conversion of wetlands to farm lands, of forests to timber, of rivers to ditches of industrial effluent. Their worries were not based on simple calculations of costs and benefits; they were based on endless observations of the delicate, surprising and endless connections among flora and fauna, rocks and rivers, air and light. They worried that we were harming the ecosystems supporting our prosperity under the dual influences of ignorance and hubris. Economists sympathetic to these views worried that complex human interactions could be mismanaged and damaged like ecosystems. F.A. Hayek, Ronald Coase, Elinor Ostrom and other institutional economists argued against oversimplifying complex systems into reduced-form models and suggested simple policies and limited actions when it came to managing society.</p>
+<p><a name="more"></a></p>
+<p>Their humility did not appeal to politicians who liked to direct, bureaucrats who liked to push and pull, or industrialists whose machines rested at the center of (calculated) national wealth—all of them active managers when it came to manipulating factors and adjusting accounts in a quest to achieve the optimal mix of visible costs and benefits. Machine managers disliked fuzzy, vast conceptualizations of biomes that evolved in chaotic directions; they preferred the mechanisms and flow diagrams of industrial consultants who bestrode the world delivering a future from logical minds uncluttered by doubt. Sure, they added columns and rows to “internalize the externalities&#8221; in their ledgers, but they could not add what they could not measure. Their optimal exploitation and discharge diagrams seemed complete, but they failed to include the wisdom of ages: don’t shit where you eat.</p>
+<p>It was soon clear that the absence of evidence of problems does not equal the absence of problems; unexpected damages pulled expected outcomes off course. Although trouble could be blamed on techno-optimism, national security, consumerism, and other forces, economists deserve blame for promoting accounts, models and theories that promised to quantify life quality, optimize human action, and integrate the environment, but they failed. Not all economists should be blamed for these failures—we’ll hear from them below—but the mainstream majority can be. Their dominance and influence drove the process and created a reputation which only some of us deserve but all of us bear. Let’s review the charges.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/nature-bats-last.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/nature-bats-last.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Open thread March 26, 2013]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/open-thread-march-26-2013.html" />
+		<id>http://angrybearblog.com/2013/03/open-thread-march-26-2013.html</id>
+		<updated>2013-03-26T10:34:00Z</updated>
+		<published>2013-03-26T10:34:00Z</published>
+		<category scheme="./../index.html" term="open thread" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="./../2013/03/open-thread-march-26-2013.html"><![CDATA[]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/open-thread-march-26-2013.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/open-thread-march-26-2013.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/46.html" />
+		<id>http://angrybearblog.com/2013/03/46.html</id>
+		<updated>2013-03-26T10:13:00Z</updated>
+		<published>2013-03-26T10:13:00Z</published>
+		<category scheme="./../index.html" term="Uncategorized" />		<summary type="html"><![CDATA[http://www.dailykos.com/story/2013/03/20/1195579/-Ryan-Social-Security-Roadmap-the-Reischauer-Blahous-Commission When the Ryan Roapmap to Prosperity/2013 Republican House Budget was released some otherwise sharp observers like Ezra Klein claimed it just gave Social Security a pass: Here is Paul Ryan’s path to a balanced budget in three sentences: He cuts deep into spending on health care for the poor and some combination of education, [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/46.html"><![CDATA[<p>http://www.dailykos.com/story/2013/03/20/1195579/-Ryan-Social-Security-Roadmap-the-Reischauer-Blahous-Commission</p>
+<p>When the Ryan Roapmap to Prosperity/2013 Republican House Budget was released some otherwise sharp observers like Ezra Klein claimed it just gave Social Security a pass:</p>
+<p>Here is Paul Ryan’s path to a balanced budget in three sentences: He cuts deep into spending on health care for the poor and some combination of education, infrastructure, research, public-safety, and low-income programs. The Affordable Care Act’s Medicare cuts remain, but the military is spared, as is Social Security. There’s a vague individual tax reform plan that leaves only two tax brackets — 10 percent and 25 percent — and will require either huge, deficit-busting tax cuts or increasing taxes on poor and middle-class households, as well as a vague corporate tax reform plan that lowers the rate from 35 percent to 25 percent.</p>
+<p>Paul Ryan’s budget: Social engineering with a side of deficit reduction </p>
+<p>Well Ezra got played. Actually Ryan built in language designed to force a &#8216;reform&#8217; of Social Security IN THE VERY FIRST YEAR. And in a way certain to be based on a cuts only &#8216;fix&#8217; that by the way can be fully blamed on the President and two Presidential appointees or at worst the &#8216;bipartisan&#8217; process involved. But understanding why this is so requires some unpacking of the language and the underlying concepts Ryan uses to hide his fingerprints.</p>
+<p>Below the fold will be found the bulk of Sec 704 of the Legislative Text of the 2013 Chairman&#8217;s Mark of the House Republican Budget. (pdf) The bold portions are added by me and discussed below the text and in comments.</p>
+<p>(b) POLICY STATEMENT ON SOCIAL SECURITY.—It is the policy of this resolution that Congress should work on a bipartisan basis to make Social Security sustainably solvent. This resolution assumes reform of a current law trigger, such that: <br />(1) If in any year the Board of Trustees of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund annual Trustees Report determines that the 75-year actuarial balance of the Social Security Trust Funds is in deficit, and the annual balance of the Social Security Trust Funds in the 75th year is in deficit, the Board of Trustees shall, no later than September 30 of the same calendar year, submit to the President recommendations for statutory reforms necessary to achieve a positive 75-year actuarial balance and a positive annual balance in the 75th-year. Recommendations provided to the President must be agreed upon by both Public Trustees of the Board of Trustees. <br />(2) Not later than December 1 of the same calendar year in which the Board of Trustees submit their recommendations, the President shall promptly submit implementing legislation to both Houses of Congress including his recommendations necessary to achieve a positive 75-year actuarial balance and a positive annual balance in the 75th year. The Majority Leader of the Senate and the Majority Leader of the House shall introduce the President’s legislation upon receipt. <br />(3) Within 60 days of the President submitting legislation, the committees of jurisdiction to which the legislation has been referred shall report the bill which shall be considered by the full House or Senate under expedited procedures. <br />(4) Legislation submitted by the President shall— (A) protect those in or near retirement; (B) preserve the safety net for those who count on Social Security the most, including those with disabilities and survivors; (C) improve fairness for participants; (D) reduce the burden on, and provide certainty for, future generations; and (E) secure the future of the Disability Insurance program while addressing the needs of those with disabilities today and improving the determination process.<br />Okay a lot to unpack here. In the Annual Report of the Trustees of Social Security one finds three different measures of actuarial balance/solvency: &#8216;Short term&#8217; (10 years), &#8216;Long term&#8217; (75 years), and &#8216;Infinite Future&#8217;. Actuarial balance is defined as having each actuarial period show a positive Trust Fund balance with an ending balance equal to one year of reserves. For &#8216;short term&#8217; the test is stricter, it requires that EACH YEAR in the period show that one year of reserves (Trust Fund Ratio = 100), while long term limits itself to the actuarial period as a whole and its last year. Under current law the Trustees are required to recommend Congress take action whenever the combined Trust Funds fail the short term test. In so doing the Trustees also supply numbers for a cuts only or revenue only fix whether implemented immediately or at the point of actual shortfall but don&#8217;t make SPECIFIC recommendations, that being the job of the Legislative branch. <br />The Ryan Roadmap changes this in multiple fundamental ways. Currently Social Security on a combined basis and the Old Age Trust Fund in isolation pass the short term test with some comfort. On the other hand the Disability Trust Fund failed it some time back. Still Congress is not forced to do anything at all but monitor the situation. But if we take the long term test Social Security has been in failure mode each of the last 20 years plus. The Ryan Budget changes current law to make the long term test the &#8216;trigger point&#8217; and as such mandates that SOCIAL SECURITY IS BROKEN RIGHT NOW. And moreover under this law MUST BE FIXED AND PERMANENTLY THE FIRST YEAR AFTER REPORT RELEASE.</p>
+<p>That is far from &#8216;sparing&#8217; Social Security as Klein would have it, Ryan actually puts it at the front of the line for Presidential and Legislative action. Under this language the release of the next Trustees Report after enactment triggers a Sept 1 deadline for a specific set of recommendations to the President, and for the President by Dec 1 to submit those recommendations or others constrained by the language of the act to establish &#8216;sustainable solvency&#8217; to Congress which in turn starts a 60 day clock for the entire committee process and an &#8216;expedited process&#8217; to be followed by the House and Senate after that.</p>
+<p>While there is no strict statutory deadline for release of the Social Security Report prior to the last few years it was released like clockwork on March 30, meaning that this legislation even if enacted wouldn&#8217;t normally be triggered until the 2014 Report. On the other hand the SS Report has been released late the last few years and so in Ryan&#8217;s dreams this process could be triggered THIS YEAR with action to be completed by next Summer at the latest.</p>
+<p>And it is at this point that we get the turd in the punchbowl. Under Ryan&#8217;s bill the initial recommendations have to be approved by BOTH the Public Trustees. Which if the Public Trustees were selected by some apolitical process under criteria that they actually serve the public interest at large might just be seen as isolating the recommendations from the explicitly political Trustees (under law the Commissioner of Social Security, and the Secretaries of Treasury, HHS, and Labor). But instead the Public Trustees are explicitly political with a legal mandate that they come from different parties. Moreover there is little to prevent a President from choosing an opposite party Public Trustee sympathetic to his goals or perversely choosing a same party Trustee hostile to the majority position of his own party.</p>
+<p>Which is what we have now. The two current Public Trustees are Charles (Chuck) Blahous, previously Bush&#8217;s point man on privatization, for the Republicans and Robert Reischauer for the Democrats. A polite way of describing Reischauer would be &#8216;deficit hawk&#8217; and &#8216;entitlements crisis&#8217; promoter. Less polite people (like me) would describe him as Peter G Peterson&#8217;s representative to the Social Security Trustees. While Blahous is rather unapologetically employed by the Koch Brothers&#8217; funded Mercatus Institute at GMU. And per Ryan EITHER or BOTH have an effective VETO on the initial recommendations. So while there would not be an official &#8216;Reischauer-Blahous Commission&#8217; that is kind of a distinction without a difference. Because lets just say it is not hard to predict what the &#8216;Commission&#8217; recommendations are going to look like, compared to them Chained-CPI would be a love tap. Which may be the plan all along. Not least on the part of the White House.</p>
+<p>Now reality based Kossacks might well point out that the Roadmap is D.O.A. Which is of course correct. On the other hand just today Dick Durbin, formerly a certain Senator Obama&#8217;s mentor, introduced a plan for a &#8216;bi-partisan&#8217; Social Security Commission that would itself introduce a fact track process eerily similar to the one in the Roadmap. And you don&#8217;t have to be a raving paranoid to not predict that Presidential or Democratic Senate leadership appointments to that Commission are likely to resemble Erksine Bowles and Robert Reischauer more than say Senators Sanders and Begich.</p>
+<p>Is the fix in? Well that is what Comments are for.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/46.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/46.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[oligarch]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/oligarch.html" />
+		<id>http://angrybearblog.com/2013/03/oligarch.html</id>
+		<updated>2013-03-26T10:08:00Z</updated>
+		<published>2013-03-26T10:08:00Z</published>
+		<category scheme="./../index.html" term="Uncategorized" />		<summary type="html"><![CDATA[Why Does No One Speak of America’s Oligarchs? One of the striking elements of the demonization of Cyprus was how it was depicted as a willing tool of Russian money launderers and oligarchs. Never mind the fact, as we pointed out, that Cyprus is not a tax haven but a low-tax jurisdiction, and in stark [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/oligarch.html"><![CDATA[<h5><a href="http://www.nakedcapitalism.com/2013/03/why-does-no-one-speak-of-americas-oligarchs.html">Why Does No One Speak of America’s Oligarchs?</a></h5>
+<p>One of the striking elements of the demonization of Cyprus was how it was depicted as a willing tool of Russian money launderers and oligarchs. Never mind the fact, as we pointed out, that Cyprus is <a href="http://www.nakedcapitalism.com/2013/03/repeat-after-me-cyprus-is-was-not-a-tax-haven.html">not a tax haven but a low-tax jurisdiction</a>, and in stark contrast with the Caymans and Malta, has double-taxation treaties signed with 46 nations and has (now more likely had) with six more being ratified. Nor is it much of a tax secrecy jurisdiction, according to the Financial Secrecy Index.</p>
+<p>Read more at <a href="http://www.nakedcapitalism.com/2013/03/why-does-no-one-speak-of-americas-oligarchs.html#dd4UQ0vDY25qjLV7.99">http://www.nakedcapitalism.com/2013/03/why-does-no-one-speak-of-americas-oligarchs.html#dd4UQ0vDY25qjLV7.99</a></p>
+<p> </p>
+<p>Confucius said that the beginning of wisdom was learning to call things by their proper names. The time is long past to kid ourselves about the nature of the ruling class in America and start describing it accurately, as an oligarchy.   </p>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/oligarch.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/oligarch.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Where the Story Begins]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/where-the-story-begins.html" />
+		<id>http://angrybearblog.com/2013/03/where-the-story-begins.html</id>
+		<updated>2013-03-26T02:57:00Z</updated>
+		<published>2013-03-26T02:57:00Z</published>
+		<category scheme="./../index.html" term="Uncategorized" />		<summary type="html"><![CDATA[We generally start this evening with the birth of Moses (Exodus 2:2-3; &#8220;And the woman conceived , and bare a son: and when she saw him that he was a goodly child, she hid him three months. 3 And when she could not longer hide him, she took for him an ark of bulrushes, and [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/where-the-story-begins.html"><![CDATA[<p>We generally start this evening with the birth of Moses (<a href="http://www.biblestudytools.com/kjv/exodus/passage.aspx?q=exodus+2:2-3">Exodus 2:2-3</a>; &#8220;And the woman conceived , and bare a son: and when she saw him that he was a goodly child, she hid him three months. 3 And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river&#8217;s brink.&#8221;) or at the earliest the declaration of Pharaoh (<a href="http://www.biblestudytools.com/kjv/exodus/1-22.html">1:22</a>; &#8220;And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.&#8221;)  But understanding only comes if you start a bit earlier, and realize the demographic dilemma, highlighted by <a href="http://www.biblestudytools.com/kjv/exodus/passage.aspx?q=exodus+1:5-10">Exodus 1:5-10</a>: </p>
+<blockquote><p>And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already. 6 And Joseph died, and all his brethren, and all that generation. 7 And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them. 8 Now there arose up a new king over Egypt, which knew not Joseph. 9 And he said unto his people, Behold, the people of the children of Israel are more and mightier than we: 10 Come on, let us deal wisely with them; lest they multiply , and it come to pass, that, when there falleth out any war, they join also unto our enemies , and fight against us, and so get them up out of the land.</p></blockquote>
+<p>which does not work out as planned (<a href="http://www.biblestudytools.com/kjv/exodus/passage.aspx?q=exodus+1:11-14">Exodus 1:11-14</a>): </p>
+<blockquote><p>Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses. 12 But the more they afflicted them, the more they multiplied and grew . And they were grieved because of the children of Israel. 13 And the Egyptians made the children of Israel to serve with rigour: 14 And they made their lives bitter with hard bondage, in mortar, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour.</p></blockquote>
+<p>And is only compounded by the actions of Shiphrah and Puah, in the first documented example of <em>traison de clercs</em>, <a href="http://www.biblestudytools.com/kjv/exodus/passage.aspx?q=exodus+1:15-21">Exodus 1:15-21</a>: </p>
+<blockquote><p>And the king of Egypt spake to the Hebrew midwives , of which the name of the one was Shiphrah, and the name of the other Puah: 16 And he said , When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live . 17 But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive . 18 And the king of Egypt called for the midwives , and said unto them, Why have ye done this thing, and have saved the men children alive ? 19 And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them. 20 Therefore God dealt well with the midwives : and the people multiplied , and waxed very mighty . 21 And it came to pass, because the midwives feared God, that he made them houses.</p></blockquote>
+<p>Given the choice between democracy and rule, Pharaoh opted for the latter. And so the story begins at the table&#8211;though not of the Exodus.
+<div></div>
+<div>Happy Pesach!</p>
+</div>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/where-the-story-begins.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/where-the-story-begins.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Due process rights]]></title>
+		<link rel="alternate" type="text/html" href="./../2013/03/due-process-rights.html" />
+		<id>http://angrybearblog.com/2013/03/due-process-rights.html</id>
+		<updated>2013-03-25T22:25:00Z</updated>
+		<published>2013-03-25T22:25:00Z</published>
+		<category scheme="./../index.html" term="domestic policy" /><category scheme="./../index.html" term="drones" /><category scheme="./../index.html" term="fifth amendment" /><category scheme="./../index.html" term="foreign policy" /><category scheme="./../index.html" term="Robert Waldmann" />		<summary type="html"><![CDATA[Lifted from Robert Waldmann&#8217;sStochastic Thoughts: 32. Note that the US constitution grants the same due process rights to citizens and non citizens. This time I pick on Steve Benen who wrote &#8220;The drones themselves are a fairly new tool, but the use of technology is tangential to the underlying point about the use of force, [&#8230;]]]></summary>
+		<content type="html" xml:base="./../2013/03/due-process-rights.html"><![CDATA[<p>Lifted from <a href="http://rjwaldmann.blogspot.com/2013/03/number-32-of-my-regular-posts.html" target="_blank">Robert Waldmann&#8217;s</a>Stochastic Thoughts: </p>
+<p>32.  Note that the US constitution grants the same due process rights to citizens and non citizens. </p>
+<p>This time I pick on <a href="http://maddowblog.msnbc.com/_news/2013/03/25/17458228-right-policy-wrong-questions?lite" target="_blank">Steve Benen</a> who wrote</p>
+<p>&#8220;The drones themselves are a fairly new tool, but the use of technology is tangential to the underlying point about the use of force, and in the case of U.S. citizens accused of terrorism abroad, due process rights.&#8221;</p>
+<p>My comment</p>
+<p>You seem to be of the impression that the due process rights of US citizens are different than the due process rights of non citizens &#8221; in the case of U.S. citizens accused of terrorism abroad, due process rights.&#8221;  There is no basis for this view in the constitution.  The 5th amendment declares that there are due process rights (its framers certainly saw this as recognizing a fact not creating a right).  It contains no reference at all to citizenship.</p>
+<p>Here is the 5th Amendment</p>
+<p>&#8220;No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.&#8221;</p>
+<p><a name="more"></a></p>
+<p>How do you imagine that an amendment which begins &#8220;no person&#8221; implies that due process rights are an issue only in the case of citizens ?</p>
+<p>This isn&#8217;t just my reading of the text (which is not at all ambiguous).  US courts have consistently held that non citizens have due process rights (note I didn&#8217;t say &#8220;all non citizens&#8221;).</p>
+<p>Hmm it sure sounds like the 5th amendment bans war which involves killing people without giving them trials first.  The many provisions for declaring war and such like are in the main body of the Constitution and might be considered repealed by the 5th (as the provision that states must return escaped slaves is not considered to be current constitutional law).  Similarly the common law right to use deadly force in self defence might be considered to have been eliminated by the 5th amendment.</p>
+<p>But I might not be crazy and I don&#8217;t imagine for a second that the 5th amendment banned war or self defence. I do insist that it allows no distinction between US citizens and non citizens.  The Civil war was particularly horrible, but the legality of union troops killing confederate troops in battle was not (widely) contested.</p>
+<p>It is clear that the 5th amendment concerns killing people who are in government custody, that is the death penalty.  It does not refer to killing people who haven&#8217;t been captured and can&#8217;t feasibly be captured.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="./../2013/03/due-process-rights.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="./../2013/03/due-process-rights.html/feed/atom/index.html" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+	</feed>

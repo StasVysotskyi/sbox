@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scott Sumner &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Debt, Recession, and That Ol&#8217; Devil Denominator</title>
+		<link>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html</link>
+		<comments>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html#respond</comments>
+		<pubDate>Thu, 23 Aug 2012 18:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Critical Thinking]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[Paul Krugman]]></category>
+		<category><![CDATA[Recessions]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/debt-recession-and-that-ol-devil-denominator.html</guid>
+		<description><![CDATA[Krugman recently presented this graph, showing household debt as a percentage of GDP. and made this comment. Second, a dramatic rise in household debt, which many of us now believe lies at the heart of our continuing depression. There are those who seem to believe that if Krugman says it, it must be wrong.   Here [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Krugman recently <a href="http://krugman.blogs.nytimes.com/2012/07/18/thirty-troubling-years/">presented this graph</a>, showing household debt as a percentage of GDP.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AK"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AK" width="400"></a></div>
+<p>and made this comment.</p>
+<blockquote><div>Second, a dramatic rise in household debt, which many of us now believe lies at the heart of our continuing depression. </div>
+</blockquote>
+<p>There are those who seem to believe that if Krugman says it, it must be wrong.   Here is Scott Sumner&#8217;s<a href="http://www.themoneyillusion.com/?p=15389"> reaction</a>.</p>
+<blockquote><p>What do you see?  I suppose it’s in the eye of the beholder, but I see  three big debt surges:  1952-64, 1984-91, and 2000-08.  The first debt  surge was followed by a golden age in American history; the boom of  1965-73.  The second debt surge was followed by another golden age, the  boom of 1991-2007.  And the third was followed by a severe recession.   What was different with the third case?  The Fed adopted a tight money  policy that caused NGDP growth to crash, which in turn sharply raised  the W/NGDP ratio.  <a href="http://krugman.blogs.nytimes.com/2012/07/17/nominally-legal/" target="_blank">Krugman has another recent post</a> that shows further evidence of the importance of sticky wages.  Forget about debt and focus on NGDP.  It’s NGDP instability that creates problems, not debt surges.</p></blockquote>
+<p>Bold emphasis is provided by Marcus Nunes, who <a href="http://thefaintofheart.wordpress.com/2012/07/18/to-really-understand-the-depression-we-have-to-stop-pulling-red-herrings-from-the-hat/">goes on to say:</a></p>
+<blockquote><p>Why does the share of debt rise? I believe it reflects peoples  “optimism” about future prospects. In the chart below I break down  Krugman´s chart and separate mortgage and non-mortgage household debt as  a share of NGDP. I also add the behavior of the stock market (here  represented by the Dow-Jones Index).</p></blockquote>
+<p>[See the linked Nunes post for his chart.] </p>
+<p><a name="more"></a></p>
+<p>Eye of the beholder, indeed.  Nunes makes an expectations-based argument, and adds:<br />
+<blockquote>Non-mortgage debt remains relatively stable after 1965, fluctuating in the range of 17% to 22% of NGDP. No problem there. </p></blockquote>
+<p>But the reality is that non-mortgage debt has grown quasi-exponentially in the post WW II period.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9Dw"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9Dw" width="400"></a></div>
+<p>Sumner, as always, beats the NGDP drum.  </p>
+<p>My friend Art <a href="http://newarthurianeconomics.blogspot.com/2012/07/marcus-debt-is-red-herring.html">takes a jaundiced view of the Sumner-Nunes interpretation</a>.   He gets it exactly right.  To see why, let&#8217;s go back and have a look at  the data.  Here is straight CMDEBT (Household Credit Market Debt  Outstanding,) presented as YoY percent change &#8211; not distorted by a GDP  divisor.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AN"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AN" width="400"></a></div>
+<p>Sumner  sees a debt surge from 1952 to 1964.  I see a secular decrease in the  YoY rate of debt growth from over 15% to under 5% by about 1966.</p>
+<p>Sumner  sees a debt surge from 1984 to 1991.  I see a decrease in the YoY rate  of debt growth from over 15% to about 5% over that same span. </p>
+<p>Sumner  sees a debt surge from 2000 to 2008.  I see a modest rise into a broad  peak between 2003 and 2006, with a net decrease in the rate of debt  growth over the 2000 to 2007 period.  In CY 2008 debt growth goes  negative.  Here&#8217;s a close-up view.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AO"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AO" width="400"></a></div>
+<p>So much for optimism-fueled debt growth.  </p>
+<p>Between  the non-existent debt surges Sumner sees a golden age from 1965 to  1973.  I&#8217;m a bit puzzled by a golden age boom that straddles one  recession and leads directly into another; though I will admit that  average GDP growth then looks impressive compared to the GDP growth of  the last decade.  But the thing that Sumner misses within his &#8220;golden  age&#8221; is the big debt surge from 1971 to 1974.  </p>
+<p>By my reckoning, Sumner is incapable of identifying either a debt surge or an economic boom.   </p>
+<p>So  what is going on here?  Sumner and Nunes either fail to realize or  deliberately ignore that the quantity CMDEBT/GDP has a denominator.   Let&#8217;s look at GDP.  Here is YoY GDP growth over the post WW II period.   And, of course, this is NGDP &#8211; not inflation adjusted &#8211; the very  quantity to which Sumner ascribes so much gravitas.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AP"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AP" width="400"></a></div>
+<p>The average GDP growth over the period 1948 to 2007 is 7.04%<br />The average over the &#8220;debt surge&#8221; period 1952 to 1964 is 5.35%<br />The average over the  &#8220;debt surge&#8221; period 1984 to 1991 is 6.85%<br />The average over the  &#8220;debt surge&#8221; period 2000 to 2007 is 5.24%</p>
+<p>What  we have are three periods of below average GDP growth, two of them  substantially so.  The middle one is only slightly below average, but  that is misleading since there is a steep decline in GDP growth over the  period.</p>
+<p>Consider C = A/B.  If B is small or  decreasing, it will tend to make C large or increasing.  To ascribe all  of the changes in C to changes in A is to ignore that Ol&#8217; Devil  Denominator.   </p>
+<p>Sumner does bring up NGDP growth late  in the passage quoted above, but I don&#8217;t get his point.  If I&#8217;m reading  him correctly, he claims that NGDP growth crashed between 2000 and 2008,  and that caused the Debt/GDP ratio to rise.  But NGDP growth was  sharply up from 2001 to 2003, relatively steady through 2006, and never  crashed until 2008.  If there is any sense in his argument, somebody  will have to explain it to me.    </p>
+<p>What actually  happened was a real debt surge &#8211; but it was between 1997 and 2004.   Meanwhile, GDP growth both before and after the 2000-2003 dip was around  6 to 7%.  Then, in 2006, household debt growth and GDP growth both  started to slump, and in 2008 took a nose dive together.</p>
+<p>Sumner  and Nunes have made a very fundamental error &#8211; not so much in the math  itself as in the application of logic.  This is sloppy thinking, and any  conclusions drawn from it must be highly suspect.</p>
+<p>To get a handle on what is really going on, let&#8217;s look at debt growth and GDP growth together.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9C6"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9C6" width="400"></a></div>
+<p>  <br />They  don&#8217;t move in lock-step, but the similarity is striking.  Specifically,  every recession except 2001 corresponds exactly to a minimum in debt growth.  So Sumner&#8217;s advice to &#8220;<i>forget about debt</i>&#8221;  looks like it&#8217;s missing something very important &#8211; specifically that  the household component of spending [aka GDP growth] has been debt  financed.  To put it in context, have a look at Krugman&#8217;s first graph in  the article linked above.   It shows what we all know, but some chose  to ignore &#8211; that median wages have stagnated for 40 years.</p>
+<p>In  my narrative, the reason household debt grew to almost 100% of GDP is  that stagnating incomes have not been able to support the cost of the  American life style &#8211; due to decades of inflation, but probably largely  driven by the costs of health care and education.  Remember &#8211; contra the  prevailing view of economists today &#8211; spending, and therefore GDP  growth, <a href="http://www.angrybearblog.com/2012/04/another-look-at-wealth-and-consumption.html">is directly dependent on income, not on wealth</a>.  </p>
+<p>Debt  is a useful tool that develops into a problem when it becomes too  burdensome to service.  Looking at debt as a percentage of GDP provides a  clue as to how serviceable the debt is.  When you also consider that  all of the GDP growth over several decades has gone to the top income  earners, you can see that the debt servicing problem is made that much  worse for the average person.  </p>
+<p>Nunes thinks debt rises  when people are optimistic about the future, and he weaves a narrative  based on that idea.  He then blames the 2008 collapse on bad policy,  including a contractionary Fed.   He appears to want spending growth,  but refuses to recognize the exhausted ability of ordinary people to  spend.</p>
+<p>In my view &#8211; and I think the data supports it &#8211;  Krugman and Art have this exactly right.  And, as is nearly always the  case, those who disagree with PK on what is happening in the real word  have to invent a fantasy-world explanation &#8211; or, if I can borrow an  especially tortured metaphor from Nunes,  <i>pull a red herring out of a hat</i>.</p>
+<p>Cross-posted at <a href="http://jazzbumpa.blogspot.com/2012/08/debt-recession-and-that-ol-devil.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>If there was a Public Option in PPACA, what grounds would the Supreme Court use to overturn it?</title>
+		<link>./../../2012/03/if-there-was-a-public-option-in-ppaca-what-grounds-would-the-supreme-court-use-to-overturn-it.html</link>
+		<comments>./../../2012/03/if-there-was-a-public-option-in-ppaca-what-grounds-would-the-supreme-court-use-to-overturn-it.html#respond</comments>
+		<pubDate>Thu, 29 Mar 2012 22:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+		<category><![CDATA[Tyler Cowen]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/if-there-was-a-public-option-in-ppaca-what-grounds-would-the-supreme-court-use-to-overturn-it.html</guid>
+		<description><![CDATA[The above is a more-than-semi-serious question. I&#8217;ll be blogging/tweeting the Kauffman Foundation&#8217;s Bloggers&#8217;s Forum tomorrow from 9:30-3:30 EDT (8:30-2:30 here in Kansas City; 6:30-12:30 in DeLong/Thomaville; in Hawaii, they&#8217;re still watching Dave Garroway). You can tell it has reached maturity because tomorrow&#8217;s presenters include J. Bradford DeLong, Scott Sumner, Tyler Cowen, and Karl Smith—and that&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The above is a more-than-semi-serious question.</p>
+<p>I&#8217;ll be blogging/tweeting the Kauffman Foundation&#8217;s Bloggers&#8217;s Forum tomorrow from 9:30-3:30 EDT (8:30-2:30 here in Kansas City; 6:30-12:30 in DeLong/Thomaville; in Hawaii, they&#8217;re still watching Dave Garroway).</p>
+<p>You can tell it has reached maturity because tomorrow&#8217;s presenters include <a href="http://delong.typepad.com/">J. Bradford DeLong</a>, <a href="http://www.themoneyillusion.com/">Scott Sumner</a>, <a href="http://marginalrevolution.com/">Tyler Cowen</a>, and <a href="http://modeledbehavior.com/">Karl Smith</a>—and that&#8217;s just the first panel (&#8220;Recovery and Long-Term Growth&#8221;). </p>
+<p><a href="http://economistsview.typepad.com/">Mark Thoma</a>, <a href="http://econlog.econlib.org/">Arnold Kling</a>, and the Former Dynamic Duo [<a href="http://www.washingtonpost.com/blogs/ezra-klein">Ezra Klein</a> and <a href="http://www.slate.com/blogs/moneybox.html">Matt Yglesias</a>] are all scheduled to follow.</p>
+<p>As Brad noted, the event will be live-streamed at <a href="http://www.growthology.org/">Growthology</a> and (one assumes, as usual), the videos will be archived and available.</p>
+<p>Neither your not-very-humble correspondent nor fellow AB (and now Roubini contributor) <a href="http://www.economonitor.com/rebeccawilder/">Rebecca Wilder</a> will be presenting.</p>
+<p>[links completed late; apologies to Ezra, Matt, and Rebecca for the delay.]</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/if-there-was-a-public-option-in-ppaca-what-grounds-would-the-supreme-court-use-to-overturn-it.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Gold Index, April 1933 &#8211; February 1934, Courtesy of Scott Sumner</title>
+		<link>./../../2011/11/the-gold-index-april-1933-february-1934-courtesy-of-scott-sumner.html</link>
+		<comments>./../../2011/11/the-gold-index-april-1933-february-1934-courtesy-of-scott-sumner.html#respond</comments>
+		<pubDate>Thu, 17 Nov 2011 20:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Gold]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/the-gold-index-april-1933-february-1934-courtesy-of-scott-sumner.html</guid>
+		<description><![CDATA[By Mike Kimel The Gold Index, April 1933 &#8211; February 1934, Courtesy of Scott Sumner I&#8217;ve been having a bit of a back and forth with Scott Sumner of The Money Illusion over the degree to which monetary policy, in particular the devaluation of the dollar, affected the economy in 1933. (My most recent post [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Mike Kimel</p>
+<p>The Gold Index, April 1933 &#8211; February 1934, Courtesy of Scott Sumner</p>
+<p>I&#8217;ve been having a bit of a back and forth with Scott Sumner of <a href="http://www.themoneyillusion.com/">The Money Illusion</a> over the degree to which monetary policy, in particular the devaluation of the dollar, affected the economy in 1933.  (My most recent post on the issue is <a href="http://www.angrybearblog.com/2011/11/scaling-to-new-depths-with-scott-sumner.html">here</a>.)</p>
+<p>In private correspondence, Sumner provided me with the draft for three chapters of a manuscript he is working on.  I can safely say that whether or not I agree with his findings, Sumner has done his homework &#8211; the draft is meticulously researched and abounds with details corroborating his findings.  Of particular interest to me was a Table 8.2, which shows weekly figures for a number of series from April 15, 1933 to the first week of February, 1934.  Sumner has graciously agreed to let me post that table.  I don&#8217;t want to freeride on his efforts to much, so I&#8217;m only reproducing the first few columns.<br /><a name="more"></a><br /><a href="http://4.bp.blogspot.com/-RSjr1SiAFwI/TsVdWgb6RnI/AAAAAAAAAxE/-4rj2Q2mzLY/s1600/Sumner%2527s_Table.jpg"><img src="http://4.bp.blogspot.com/-RSjr1SiAFwI/TsVdWgb6RnI/AAAAAAAAAxE/-4rj2Q2mzLY/s320/Sumner%2527s_Table.jpg" border="0" alt=""></a>Figure 1</p>
+<p>I believe the most interesting thing in the table is &#8211; what has been the cause of some discussion between the two of us &#8211; is the Gold Index.  From the footnote to the table in the manuscript:</p>
+<blockquote><p>The gold index is the Annualist Index of Commodity Prices measured in gold terms. </p></blockquote>
+<p>Sumner collected that data manually from old trade journals.  I haven&#8217;t been able to find that data online.  What the data shows, to quote Sumner, is that &#8220;an ounce of gold could buy more internationally traded goods in 1934 than 1933.  That’s what the 815 to 650 is showing—falling prices in gold terms.&#8221;  </p>
+<p>Here&#8217;s a graph of the series:</p>
+<p><a href="http://2.bp.blogspot.com/-WpFur6VaM_0/TsVdWq0silI/AAAAAAAAAxQ/G-QbJ-GlUdI/s1600/Sumner%2527s_Table2.jpg"><img src="http://2.bp.blogspot.com/-WpFur6VaM_0/TsVdWq0silI/AAAAAAAAAxQ/G-QbJ-GlUdI/s320/Sumner%2527s_Table2.jpg" border="0" alt=""></a>Figure 2</p>
+<p>Addendum <em>by Ken</em>: Here&#8217;s the Gold Index data listed above with the Vertical Axis rescaled:
+<p><a href="http://3.bp.blogspot.com/-Om1KdrdB9aU/TsV8CaDKuEI/AAAAAAAAAq4/c7qtHg-tH9k/s1600/Sumner%2B2%2B-%2BGold%2BIndex%2Baxis%2Bchanges.PNG"><img src="http://3.bp.blogspot.com/-Om1KdrdB9aU/TsV8CaDKuEI/AAAAAAAAAq4/c7qtHg-tH9k/s320/Sumner%2B2%2B-%2BGold%2BIndex%2Baxis%2Bchanges.PNG" border="0" alt=""></a>Figure 3</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/the-gold-index-april-1933-february-1934-courtesy-of-scott-sumner.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scaling to New Depths* with Scott Sumner</title>
+		<link>./../../2011/11/scaling-to-new-depths-with-scott-sumner.html</link>
+		<comments>./../../2011/11/scaling-to-new-depths-with-scott-sumner.html#respond</comments>
+		<pubDate>Wed, 16 Nov 2011 20:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Fiscal policy]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/scaling-to-new-depths-with-scott-sumner.html</guid>
+		<description><![CDATA[by Mike Kimel Scaling to New Depths* with Scott Sumner I&#8217;ve been having a bit of back and forth with Scott Sumner. Here is his latest post, helpfully entitled: &#8220;A suggestion for Mike Kimel.&#8221; His key suggestion: &#8220;Please take a close look at the data from the Great Depression, before doing more posts claiming I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a target="_blank" href="http://www.presimetrics.com/blog/">Mike Kimel</a></p>
+<p>Scaling to New Depths* with Scott Sumner</p>
+<p>I&#8217;ve been having a bit of back and forth with Scott Sumner.  <a href="http://www.themoneyillusion.com/?p=11919&#038;cpage=1">Here</a> is his latest post, helpfully entitled: &#8220;A suggestion for Mike Kimel.&#8221;</p>
+<p>His key suggestion: <br />
+<blockquote>&#8220;Please take a close look at the data from the Great Depression, before doing more posts claiming I don’t know the facts.&#8221;</p></blockquote>
+<p>He then goes on to point out he&#8217;s been studying the 1933 period for 20 years.   From there he goes on to explain my first mistake:</p>
+<blockquote><p>He insists that FDR’s dollar depreciation program began in October 1933, even though all economic historians agree in began in mid-April 1933, when the exchange rate for the dollar began declining (against gold and against other currencies.)  He insists prices began rising before FDR took office off, which is not true.  He presents a graph that he claims shows prices rising before FDR took office, but his graph shows inflation rates, not the price level.  In fact, the graph actually supports my argument that inflation didn’t turn positive until after FDR took office.  There’s a difference between the rate of inflation and the price level.</p></blockquote>
+<p>OK.  Let&#8217;s redo the graph showing not inflation but rather the price level.  And I&#8217;ll keep it very simple&#8230;  I will limit it to two points.  Well, three, though the third is not exactly on the curve so to speak.  As before, I&#8217;m still using PPI because its the publicly available source most closely related to the prices Sumner seems to be discussing, and I&#8217;ll use the graphics tool at the <a href="http://research.stlouisfed.org/fred2/graph/?id=PPIACO">Federal Reserve Economic Database (FRED)</a>
+<p><a href="http://2.bp.blogspot.com/-0QABZ__fyoA/TsQpi52scwI/AAAAAAAAAqE/d_pKQwDoJ0Q/s1600/Figure%2B1%2B-%2BScaling%2Bto%2BNew%2BDepths%2Bwith%2BScott%2BSumner.jpg"><img src="http://2.bp.blogspot.com/-0QABZ__fyoA/TsQpi52scwI/AAAAAAAAAqE/d_pKQwDoJ0Q/s320/Figure%2B1%2B-%2BScaling%2Bto%2BNew%2BDepths%2Bwith%2BScott%2BSumner.jpg" border="0" alt=""></a>Figure 1.<br /><a name="more"></a><br />The graph shows the PPI for February and March of 1933.  FDR took office in March 1933. </p>
+<p>As I noted in <a href="http://www.angrybearblog.com/2011/11/scott-sumner-digs-deeper.html#comments">my previous post</a>,</p>
+<blockquote><p>You can see the decline in prices halt and start reversing even before he took office.</p></blockquote>
+<p>Now, I don&#8217;t remember arguing that inflation didn&#8217;t turn positive before then.  To me, its a big deal that PPI hit rock bottom and reversed itself.  Getting out of free-fall was in itself a big deal.   Here&#8217;s a graph for 1929 to 1934 to give you an idea:
+<p><a href="http://4.bp.blogspot.com/-_mu_zTXc6as/TsQqQgrfHFI/AAAAAAAAAqQ/3lZxHDMYxqk/s1600/Figure%2B2%2B-%2BScaling%2Bto%2BNew%2BDepths%2Bwith%2BScott%2BSumner.jpg"><img src="http://4.bp.blogspot.com/-_mu_zTXc6as/TsQqQgrfHFI/AAAAAAAAAqQ/3lZxHDMYxqk/s320/Figure%2B2%2B-%2BScaling%2Bto%2BNew%2BDepths%2Bwith%2BScott%2BSumner.jpg" border="0" alt=""></a>Figure 2.</p>
+<p>Note that February 1933 happened to be the low point for PPI during its entire history, and the PPI had been calculated since 1913. </p>
+<p>But there&#8217;s another important point in the quote I provided above, namely this: </p>
+<blockquote><p>He insists that FDR’s dollar depreciation program began in October 1933, even though all economic historians agree in began in mid-April 1933, when the exchange rate for the dollar began declining (against gold and against other currencies.)</p></blockquote>
+<p>This isn&#8217;t quite right.  As I&#8217;ll make clear, I don&#8217;t think the dollar actually depreciated against gold until January 1934.  Sumner was so insistent on this depreciation occurring before then that I spent a bit of time on google and found a story by <a href="http://www.moneychanges.org/2011/04/jesse-jones-gives-inside-story-on-fdr-gold-and-great-depression/">Jesse Jones</a>, head of the Reconstruction Finance Corporation, about how FDR had him and soon to be Treasury Secretary Morgenthau help him (FDR) revalue the price of gold. </p>
+<p>Now, I am not an economic historian, and I&#8217;m not sure I know any these days, so for all I know, Sumner is correct about what all economic historians agree happened.  I am, instead a data guy.  I like data.  Scratch that.  I love data.  I go through data in my spare time.   Most of the stuff I do at this blog, for instance, has absolutely nothing to do with my day job.  Nothing.  But its an opportunity to play with data.  My wife usually scratches her head wondering why I do this kind of thing, but everyone needs a hobby and I don&#8217;t watch tv.</p>
+<p>One thing I&#8217;ve learned with data is that its generally important to go back as close to the original source of data as possible.  Another is to know something about your sources.  Go through the data.  Read footnotes. </p>
+<p>So in that spirit, I decided to try see what I can learn by looking for data from the era or thereabouts, ideally coming directly from the folks who collect it.  I have not succeeded in finding a series that shows what Sumner claims.  In fact, data from around that era, particularly on gold prices, isn&#8217;t easy to come by.  But I have found a few examples.</p>
+<p>For instance, Table Number 230 of the <a href="http://www2.census.gov/prod2/statcomp/documents/1936-05.pdf">1936 Statistical Abstract of the United States</a> shows the supply of gold in the United States on June 30 of each year (going back annually to 1887, and with selected years before then).  The data seems to originate with the Treasury and the Fed, though I haven&#8217;t been able to locate the contemporaneous originals.</p>
+<p>Footnote 1 reads in part:</p>
+<blockquote><p>By a proclamation of the President dated Jan. 31, 1934 the weight of the gold dollar was reduced from 25.8 to 15 5/21 grains of gold, 0.9 fine. The value of gold is therefore based on $35 per fine ounce beginning June 1934; theretofore it is based on $20.67 per fine ounce.</p></blockquote>
+<p>In other words a couple months after Sumner and other economic historians believe the dollar had started losing value against gold, the Fed and/or the Treasury were reporting to the Census (which publishes the Statistical Abstract) that the price of gold was still exactly the same as it had been.) </p>
+<p>Now, its possible the Census or the Fed or the Treasury made a mistake and it went uncorrected by the time of the 1936 Statistical Abstract.   So one source is not enough, especially when Sumner and &#8220;all economic historians&#8221; agree it is wrong. </p>
+<p>Which leads to a Fed document called <a href="http://fraser.stlouisfed.org/publications/bms/issue/61/download/134/section14.pdf">Banking and Monetary Statistics 1914 &#8211; 1941</a>.  This is from the section on gold (bottom paragraph, left hand column, page 522)</p>
+<blockquote><p>All figures are in dollars, calculated at the rate of $20.67 per fine ounce of gold through January 1934 and $35 per fine ounce thereafter (except that the figures for the year 1934 in Table 159 are based upon the $35 gold price).  The change in rate results from the fact that on January 31, 1934, the dollar was devalued by 40.94 per cent in terms of gold in accordance with a proclamation issued by the President.</p></blockquote>
+<p>If you&#8217;re curious, $35 &#8211; $20.67 = $14.33.  $14.33 happens to be 40.94% of $35. </p>
+<p>The document is chock full of tables that show, including other things, the monthly value of US gold holdings.    Where dollar figures are involved, those tables also carry a helpful note indicating the price as $20.67 an ounce through January 1934, and $35 an ounce thereafter.  Note that the Fed valued monthly holdings at $20.67 an ounce in April, May, June, July, August, September, October, November and December of 1933 when, all along, according to Scott Sumner who spent 20 years studying the era and &#8220;all economic historians,&#8221; insist the price of gold had been rising at the time.</p>
+<p>I&#8217;ve stumbled on a few other sources as well but they don&#8217;t look any different.  I&#8217;m just not seeing the series that shows the dollar price of gold rising during the months from April 1933 to January 1934. </p>
+<p>So what is going on?  I&#8217;m going to split the baby here and suggest that both Scott Sumner and &#8220;all economic historians&#8221; are right that there was a devaluation, and the Fed and the Treasury and the Statistical Abstract of the United States were (and are) right that there wasn&#8217;t.  But the way in which they are right is very definitely not a good thing for Scott Sumner and &#8220;all economic historians.&#8221;</p>
+<p>See, as I said above, I&#8217;m not an economic historian, but I did spend my formative years in South American in the 1970s and 1980s.  As anyone who spent roughly the same years in the region as I did could tell you, or as any Zimbabwean can do today, during times of turmoil (which can last decades) the official exchange rate can come to bear no relationship with the actual price at which a currency trades against something that is considered more stable and more desirable to hold.  Heck, you don&#8217;t have to track down someone from Arrgentina or Zimbabwe &#8211; ask any European who ever visited the Soviet Block and traded in some Western currency at the airport or the border about how unrealistic official exchange rates could be.  In many an economic basket case, the likelihood that a transaction takes place at anything resembling the official exchange rate is similar to the probability that someone walks into a Chevrolet dealership and pays the MSRP, in cash. </p>
+<p>And like the MSRP, the official exchange rate has a purpose.  Yes, there&#8217;s always someone clueless or coerced enough to pay that price.  But for the most part, its a fiction that either serves as a baseline for something or papers over something the government wants to really do, usually printing money.  Its a handy excuse to get from point A to point B, and if the excuse doesn&#8217;t fly, another one will do.</p>
+<p>My guess, and I&#8217;ll repeat that I&#8217;m not an economic historian, is that when FDR and Jones and Morgenthau were picking prices out of the air, it was in that vein.  The country was in turmoil when FDR took office, and there were fears that if things got worse there would be an armed insurrection.  It wasn&#8217;t a time for half measures.  My guess is the mood in the White House at the time was best summarized by a quote decades later from the immortal John Candy, &#8220;There&#8217;s a time to think, and a time to act. And this, gentlemen, is no time to think.&#8221;  </p>
+<p>So what did the fiction of changing the price gold accomplish if nobody else believe that the price had actually changed?  I suspect it meant, in practice, that the Reconstruction Finance Corporation could pay more than $20.67 an ounce for gold.  And why would the RFC (which, I note, could borrow outside the budget) want to pay more than $20.67 an ounce for gold if that was the price everyone was accepting?</p>
+<p>Think of the RFC the way you think of the Fed trying to bail out banks in recent years &#8211; loaning money at below market rates to banks who then used the money to buy Treasuries which paid higher rates.  In effect, paying more than $20.67 an ounce was a way to funnel riskless profits to banks.  (Of course, the RFC often replaced management, but things have gotten permissive as well as more sophisticated in recent decades.) </p>
+<p>Which brings us back to Sumner and &#8220;all economic historians&#8221; being right, at least technically.  Yes, the currency was being devalued throughout much of 1933, but no, it wasn&#8217;t.  Not really.  There were a series of fictional devaluations that served a specific purpose, but which nobody else made believe was real (and its possible which almost nobody else was aware were happening &#8211; don&#8217;t ask me, I&#8217;m not an economic historian).   Pretending otherwise, and using that fictional data to do an analysis is the equivalent of trying to understand the East German economy in 1974 using the exchange rates a traveler would have received at Checkpoint Charlie during that year.</p>
+<p>* The title comes from a book put out by Mad Magazine in the 1970s or 1980s.  Sorry I can&#8217;t be more specific &#8211; it has been a while</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/scaling-to-new-depths-with-scott-sumner.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sumner, Skidelsky, Keynes and Liquidity Traps</title>
+		<link>./../../2011/11/sumner-skidelsky-keynes-and-liquidity-traps.html</link>
+		<comments>./../../2011/11/sumner-skidelsky-keynes-and-liquidity-traps.html#respond</comments>
+		<pubDate>Tue, 08 Nov 2011 19:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic history]]></category>
+		<category><![CDATA[economic recovery]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[Mike Kimel]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/sumner-skidelsky-keynes-and-liquidity-traps.html</guid>
+		<description><![CDATA[by Mike Kimel I was searching for some information and I stumbled on a post Scott Sumner wrote last year about Robert Skidelsky&#8217;s biography of John Maynard Keynes. I haven&#8217;t read Skidelsky&#8217;s book, nor do I know Skidelsky, and its been awful long time since I read Keynes, but this seems an odd complaint: I’m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong><a href="http://presimetrics.com/">Mike Kimel</a></strong></p>
+<p>I was searching for some information and I stumbled on a post Scott Sumner wrote last year about <a href="http://www.themoneyillusion.com/?p=7914">Robert Skidelsky&#8217;s biography of John Maynard Keynes</a>. I haven&#8217;t read Skidelsky&#8217;s book, nor do I know Skidelsky, and its been awful long time since I read Keynes, but this seems an odd complaint:</p>
+<blockquote><p>I’m afraid that his analysis is both misleading and inaccurate. The US gradually depreciated the dollar between April 1933 and February 1934. During that period unemployment was nearly 25% and T-bill yields were close to zero. Keynes argued that monetary stimulus would not be effective under those circumstances, and Skidelsky seems to accept his interpretation (which was published in the NYT during December 1933.)</p>
+<p>[Note that Keynes certainly did believe in the &#8220;pushing on a string&#8221; theory&#8211;I frequently get commenters insisting that Keynes didn&#8217;t believe in liquidity traps.]</p>
+<p>Unfortunately, Keynes and Skidelsky are wrong. <a name="more"></a> The US Wholesale Price Index rose by more than 20% between March 1933 and March 1934. In the Keynesian model that’s not supposed to happen. The broader “Cost of Living” rose about 10%. Industrial production rose more than 45%.</p></blockquote>
+<p>Sumner goes on to impugn Skidelsky:</p>
+<blockquote><p>The &#8220;disappointing&#8221; results that Skidelsky mentions come from cherry-picking a few misleading data points.</p></blockquote>
+<p>All that seems very odd to me. If I were making an argument that conventional monetary policy doesn&#8217;t work in a liquidity trap, but that the traditional Keynesian prescription does, I&#8217;d start that argument with something very much like the sentences Sumner wrote right after stating &#8220;Unfortunately, Keynes and Skidelsky are wrong.&#8221;*</p>
+<p>Using the graphing tool from <a href="http://research.stlouisfed.org/fred2/graph/?id=CPIAUCNS#">FRED</a>, the Federal Reserve Economic Database maintained by the St. Louis Fed, we can show the one year percentage change in both PPI (producer price index) and CPI (consumer price index) from January 1932 to December 1935. 
+<p><a href="http://4.bp.blogspot.com/-kjiWj7_BMfg/TrgTPwr6pSI/AAAAAAAAApQ/YWfDI-_ssJc/s1600/Figure%2B1.jpg"><img src="http://4.bp.blogspot.com/-kjiWj7_BMfg/TrgTPwr6pSI/AAAAAAAAApQ/YWfDI-_ssJc/s320/Figure%2B1.jpg" border="0" alt=""></a></p>
+<p>Here&#8217;s what we see: after some massive deflation during the Great Depression, prices start to rise more or less when FDR took office. The annual percentage change in PPI peaked around 23% and change in February 1934, and the CPI peaked a few months later at about 5.6%. </p>
+<p><a href="http://www.themoneyillusion.com/?p=308">Elsewhere</a>, Sumner attributes that to:</p>
+<blockquote><p>We all know what happened next (well not exactly, but I’ll explain that in another post), so let’s jump ahead to 1933. FDR takes office in March, promising to boost wholesale prices back up to pre-Depression levels. He uses several tools, but the most effective was loosely based on Irving Fisher’s “compensated dollar plan.” Fisher’s plan was to raise the price of gold one percent each time the price level fell one percent. An obscure agricultural economist named George Warren was a big fan of Fisher’s idea, and sold it to FDR with all sorts of fancy charts.</p>
+<p>And it worked.</p>
+<p>Initially it worked better than any other macroeconomic policy in American history. But at first the policy’s success was mostly accidental, just a matter of talking the dollar down, not enacting Fisher’s specific plan. Nevertheless, prices immediately began rising sharply. Industrial production rose 57% between March and July, regaining over half the ground lost in the previous 3 1/2 years. Then in late July FDR decided to cartelize the economy and sharply raised wages (the <a href="http://en.wikipedia.org/wiki/National_Industrial_Recovery_Act">NIRA</a>) and industrial output immediately began falling. By late October FDR was desperate for another dose of inflation, and asked Warren to come up with a plan. They decided to have the US government buy gold at a price that would be continually increased in order to reflate the price level.</p></blockquote>
+<p>Sumner even helpfully tells us:</p>
+<blockquote><p>It was a very confusing plan, as they never bought enough gold to equate the government buying price with the free market price in London. </p></blockquote>
+<p>I agree that what Sumner describes is confusing. And yes, the times were desperate, and FDR was flailing around throwing all sorts of things against a wall to see what would work, but when I look at the graph above, and take into account the extremely rapid economic growth that took place during the New Deal era, I see a much simpler story.</p>
+<p>
+<ol>
+<li>Aggregate demand was very slack when FDR took office.</p>
+</li>
+<li>FDR showed up in Washington with a plan to start spending a lot of money and thus boost aggregate demand.
+</li>
+<li>The immediate effect was to convince factories they&#8217;d be running down their inventories. That boosted producer prices. It had a much smaller effect on consumer prices because everyone knew the gubmint was going to buy a heck of a lot more producer goods than consumer goods. (The government did buy some consumer goods for the various programs, plus there was a spillover effect, but as the graph clearly shows, the action was on the producer side.)
+</li>
+<li>After a bit of time, the public realized FDR wasn&#8217;t planning just a one-off, but rather a sustained program of purchases of industrial items. That led them to start using some of their idle capacity, which meant not just selling the fixed amount that was in inventory. The rate of price increases thus dropped.
+</li>
+<li>GDP increased at the fastest rate in the United States peacetime history since data has been kept. There was a big hiccup, of course, in 1937 when the government cut back on spending for a while.</li>
+</ol>
+<p>By contrast, here&#8217;s Sumner explaining his theory:</p>
+<blockquote><p>There is a great deal of evidence that I won&#8217;t get into here that suggests the suspension of the gold standard in March 1933, and gradual devaluation between April and February 1934, almost certainly explain most of the increase in goods prices, stock prices, and industrial production during that period. But why? Not because it boosted our trade balance, which actually worsened as the rapid recovery pulled in imports.</p>
+<p>Both Gauti and I believe that only the rational expectations hypothesis can explain these events. He focuses on how the regime change led to higher inflation expectations, and thus reduced real interest rates. I prefer to think in terms of specific policy signals sent as rising gold prices changed the future expected gold price, and hence the future expected money supply. I don&#8217;t see any non-Ratex explanation that can account for the extraordinary rise in prices and output during March-July 1933. Nominal interest rates didn&#8217;t change much, and open market purchases in 1932 (under the constraint of the gold standard) had accomplished little or nothing.</p></blockquote>
+<p>So&#8230;. his story requires the devaluation of the currency to worsen the trade balance, and rational expectations to cause a one time explosion in industrial prices and a rather smaller recovery in consumer prices. Rational expectations, however, that came an abrupt halt, at roughly the same amount of time one would predict companies might decide that demand will be sustained enough to start producing more rather than just selling off inventory sitting in warehouses. And his story doesn&#8217;t explain why growth was so much faster during the New Deal era than any other period of peacetime since the US began keeping data, nor why there was the big hiccup in 1937. </p>
+<p>Sumner is essentially trying to tell a story about an unusual set of events, but his story seems to assume that most extraordinary events of the era (and what sets that era apart) kind of just happened to occur for no particular reason so he misses the big picture and ends up focusing on details. With all due respect to Sumner, I prefer to think the US economy is not Forrest Gump.</p>
+<p>*I can imagine a &#8220;monetary&#8221; prescription that I think would help tremendously in a liquidity trap, but it doesn&#8217;t look at all like what was done in the 1930s, or what was done since 2007, or from what I can tell, what Sumner suggests. That can be a post for another time.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/sumner-skidelsky-keynes-and-liquidity-traps.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is Scott Sumner Reality Based ?</title>
+		<link>./../../2011/03/is-scott-sumner-reality-based.html</link>
+		<comments>./../../2011/03/is-scott-sumner-reality-based.html#respond</comments>
+		<pubDate>Fri, 25 Mar 2011 11:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Robert Waldman]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/is-scott-sumner-reality-based.html</guid>
+		<description><![CDATA[Scott Sumner wrote If pressed, Keynesians will usually point to real interest rates as the right measure of monetary ease or tightness. By that criterion the Fed adopted an ultra-tight monetary policy in late 2008. Monetarists will usually say that M2 is the best criteria for the stance of monetary policy. By that criterion the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Scott Sumner <a href="http://www.themoneyillusion.com/?p=9390">wrote</a></p>
+<blockquote><p>If pressed, Keynesians will usually point to real interest rates as the right measure of monetary ease or tightness. By that criterion the Fed adopted an ultra-tight monetary policy in late 2008. Monetarists will usually say that M2 is the best criteria for the stance of monetary policy. By that criterion the ECB adopted an ultra-tight monetary policy in late 2008. And yet it’s difficult to find a single prominent macroeconomist (Keynesian or monetarist) who has publicly called either Fed or ECB policy ultra-tight in recent years. Maybe tight relative to what is needed, but not simply “tight.”</p></blockquote>
+<p>To me this means that he claims that US real interest rates have been high &#8220;in recent years&#8221;.  Of course he also says &#8220;in late 2008&#8221; but suggests that the real interest rates then were a policy choice and that the policy continues.</p>
+<p>In fact real interest rates in the US are extraordinarily low.  The 5 tear real interest rate is negative.  I think Sumner made a definite claim about published numbers which is definitely false.</p>
+<p>Sorry I don&#8217;t know how to embed Fred graphs.  Please click <a href="http://research.stlouisfed.org/fred2/graph/?graph_id=38929&#038;category_id=0">this link</a>.</p>
+<p>I added the chart for you &#8212; spencer</p>
+<p>update: thanks spencer.  Also I have added the link to Prof. Sumner&#8217;s post.</p>
+<p><a href="http://3.bp.blogspot.com/-MN0i55geqJM/TYySxPNEsKI/AAAAAAAABko/BGIR1GaUZew/s1600/Clipboard01.bmp"><img src="http://3.bp.blogspot.com/-MN0i55geqJM/TYySxPNEsKI/AAAAAAAABko/BGIR1GaUZew/s320/Clipboard01.bmp" alt="" border="0"></a></p>
+<p>More after the jump.<br /><a name="more"></a></p>
+<p>I&#8217;d say he is crazy and delusional.  Basically, I&#8217;m convinced that his methodolical a priori is that everything is determined by monetary policy.   Since unemployment is high, he claims US monetary policy is tight.  I think you quoted a declaration of religious faith and not a description of reality.</p>
+<p>I don&#8217;t agree with Sumner&#8217;s claim about Keynesians.  In fact Keynesians follow Taylor (a Republican hack and new Keynesian) and evaluate monetary policy by comparing the federal funds rate to the level given by a Taylor rule.  The absolutely standard view among Keynesians is that the loosest possible monetary policy occurs when the federal funds rate is essentially zero.  This explains why all Keynesians agree that US monetary policy has been very loose since the crisis began.</p>
+<p>Note the careful qualifier &#8220;late 2008.&#8221;  He has picked a cherry.  In particular in late 2008 world financial markets were in a total panic with a desperate race for liquidity.  This drove up the price of normal nominal treasuries and drove down the price of any asset with a thinner market (that is all other assets).  This was not a shift in monetary policy (just as no Keynesians would call it a shift in monetary policy).  It was also very brief.</p>
+<p>The current 5 year real interest rate in the USA is negative.  Real interest rates are extremely extremely low in the USA.  But Sumner will not allow facts to weaken his absolute faith, so he decided to ignore all evidence from 2009, 2010 and 2011.  He just talked about a brief spike about which neither the Fed nor any other entity could do anything.</p>
+<p>He tried to write something which was technically true, but he slipped up. I quote with a totally fair elision</p>
+<p>&#8220;By that criterion the Fed adopted an ultra-tight monetary policy in late 2008.<br />late 2008. &#8230; Fed &#8230; policy ultra-tight in recent years.&#8221;  Late 2008 is not years recent or otherwise.  It is part of one year.  Sumner&#8217;s absurd claim is based on describing a few months over two years ago as &#8220;recent years&#8221;.  Basically he claims that because real interest rates were briefly high years ago (during a panic) they are high now.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/is-scott-sumner-reality-based.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

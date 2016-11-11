@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PIH &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The glass is half full eh one fourth full. Would you believe slightly damp ?</title>
+		<link>./../../2011/04/the-glass-is-half-full-eh-one-fourth-full-would-you-believe-slightly-damp.html</link>
+		<comments>./../../2011/04/the-glass-is-half-full-eh-one-fourth-full-would-you-believe-slightly-damp.html#respond</comments>
+		<pubDate>Mon, 11 Apr 2011 19:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[maximizing behavior]]></category>
+		<category><![CDATA[PIH]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/the-glass-is-half-full-eh-one-fourth-full-would-you-believe-slightly-damp.html</guid>
+		<description><![CDATA[Paul Krugman To be fair, applying maximizing thinking has achieved some major successes even in macroeconomics. The permanent income/life cycle style of consumption theory does a much better job of accounting for the stylized facts about spending than the old, mechanical consumption function. The natural rate hypothesis, with its crucial implication that high inflation would [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://krugman.blogs.nytimes.com/2011/04/11/golden-oldies-wonkish/#preview">Paul Krugman </a></p>
+<blockquote><p>To be fair, applying maximizing thinking has achieved some major successes even in macroeconomics. The permanent income/life cycle style of consumption theory does a much better job of accounting for the stylized facts about spending than the old, mechanical consumption function. The natural rate hypothesis, with its crucial implication that high inflation would get built into expectations and not reduce unemployment, was the result of (loose) maximizing reasoning.</p></blockquote>
+<p>I have two discouraging thoughts.  First both of the examples of a useful application of the assumption of maximizing behavior are due to Milton Friedman (and others).  This shows that Milton Friedman can say useful things while appealing to maximization.  I think we can conclude that either the concept of maximization is useful or Milton Friedman was so smart that he could say smart things when standing one foot, rubbing his belly, patting his head, and talking about maximizing agents.  I&#8217;m afraid the question of which conclusion is more plausible answers itself. Outside of macro we have Arrow and Samuelson and well a bunch of smart people who can say smart things and solve equations at the same time.<br /><a name="more"></a></p>
+<p>Second I now wonder if the PIH glass is half full.  Consider a model of totally myopic backward looking agents with habit formation, so consumption moves sluggishly towards current income.  This can give consumption depending on lagged income &#8212; say a geometric lag.  Which of the stylized facts expalained by the PIH are also explained by this not at all optimizing model ?  I think basically all of them.  The model is due to Stever Marglin who was a bit too heterodox to get attention.  But I think it works as well as the PIH.  </p>
+<p>Taking an equation for x and re-interpreting it as giving x* and making an error correction model of (x-x*) is exactly what macroeconomists used to do before the Rational expectations revolution. It is exactly what Sargent denounces as not taking a model seriously.  And, I think, it fits consumption just as well as the PIH.</p>
+<p>Oh and as for the shifting Phillips curve, one can go back to a golden oldy &#8220;The General Theory of Employment Interest and Money&#8221; to find a very clear warning that one better not treat a Phillips curve as a structural equation (only slighly hampered by the lack of the terms &#8220;Phillips&#8221; and &#8220;structural&#8221;).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/the-glass-is-half-full-eh-one-fourth-full-would-you-believe-slightly-damp.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

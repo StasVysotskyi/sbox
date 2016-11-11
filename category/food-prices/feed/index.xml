@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>food prices &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Fowl and Fishy Inflation</title>
+		<link>./../../2012/11/fowl-and-fishy-inflation.html</link>
+		<comments>./../../2012/11/fowl-and-fishy-inflation.html#respond</comments>
+		<pubDate>Thu, 01 Nov 2012 15:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[food prices]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[oil prices]]></category>
+		<category><![CDATA[QE]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/fowl-and-fishy-inflation.html</guid>
+		<description><![CDATA[It has been suggested that the rapid increase in the prices of fish, fowl, meat and eggs for about two years following October, 2009 was the result of QE causing inflation in these items.  From this Calculated Risk graph, we can get the QE date line.  QE was announced on Nov 25, 2008, and expanded [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It has been suggested that the rapid increase in the prices of <i>fish, fowl, meat and eggs</i> for about two years following October, 2009 was the result of QE causing inflation in these items.  From <a href="http://1.bp.blogspot.com/-zoPsh48ZiKU/T-ybVwebLSI/AAAAAAAAN84/f-oGQvaBh9U/s1600/SP500QEJune2012.jpg">this Calculated Risk graph</a>,  we can get the QE date line.  QE was announced on Nov 25, 2008, and  expanded in April 2009.  It ended in May, 2010.  QE II was hinted at in  Sept, 2010, announced in Nov 2010, and ended in August 2011.</p>
+<p>The  timing correspondence is less than stellar, since the YoY increase in  prices for those food items dropped like a rock from October, &#8217;08 though  Oct. &#8217;09.  It then shot up to a 7 1/2 year high in May of 2011.</p>
+<p>This can be seen in the red line of Graph 1, which also shows the CPI for all items except food and energy (CPILFESL) in blue.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=cjv"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=cjv" width="400"></a></div>
+<div> Graph 1 YoY Price increases for Selected Food Stuffs and All Items Less Food and Energy</div>
+<p>To  assume a cause and effect relationship, you have to account for a time  lag of a year from the announcement and 6 months from the expansion of  QE to the turn around in those price increases from the Oct &#8217;09 bottom.   Remember, through the first 11 months of QE, the YoY change in those  prices dropped dramatically.  Between May and November, 2010, while no  QE program was in effect, these prices had the steepest part of their  rise.  After QE II ended in August, 2011, the YoY price increase  remained high for those items until the end of the year, and then fell  rapidly.</p>
+<p>A longer view reveals that the increase in those food prices oscillates continuously around the <i>All Items Less Food and Energy</i> line.  The trough to trough period is irregular, averaging 3.52 years  with a standard deviation of 0.45 year (5 measurements).   The trough to  trough time from May, &#8217;06 to Oct., &#8217;09 was a very typical 3.4 years.   It is very hard to look at that graph and see anything unusual about the  2008-2012 region, other than the depth of the trough shortly after the  Great Recession.</p>
+<p>It appeared to me that the blue line  of Graph 1 might be a crude approximation of a long average of the red  line.  This turns out not quite to be the case, since the two lines are  measuring different baskets of goods.  What we have is the YoY increase  for these food items oscillating around its own mean. That sounds like a  tautology, but let&#8217;s look a little deeper.</p>
+<p>Graph 2  shows the same data, along with some long averages of the food stuffs  YoY price increase line.   These are the 5 Yr (light blue), 8 Yr  (yellow), and 13 Yr (purple) moving averages, and the average for the  whole data set, 2.9 (bright green).  I&#8217;ve also included an envelope one  standard deviation (3.06) above (5.96) and below (-0.17) the mean in  dark green.</p>
+<div><a href="http://2.bp.blogspot.com/-fMhjpfDLaQ0/UJGOLZzqKkI/AAAAAAAACCs/yqKBh69hzPE/s1600/fishy+fowl+inflation.jpg"><img border="0" height="271" src="http://2.bp.blogspot.com/-fMhjpfDLaQ0/UJGOLZzqKkI/AAAAAAAACCs/yqKBh69hzPE/s400/fishy+fowl+inflation.jpg" width="400"></a></div>
+<div>Graph 2 YoY Price increases for Selected Food Stuffs with Avgs and All Items Less Food and Energy</div>
+<p>This  (sort of) resembles a control chart.  The +/- Std. Dev. envelope isn&#8217;t a  hard barrier, but does tend to turn the data path back toward the mean,  unless something strange happens.  Frex, the big rise from late &#8217;02 to  early &#8217;04 followed the Iraq invasion and resulting disruption in  petroleum pricing.  The &#8217;09 trough was the result of the Great  Recession.  These are explainable variations.</p>
+<p>Note also  that the moving average lines tended to run below the CPILFESL line  prior to late 2002, and have tended to run above it since.  This is to  be expected since these items are basically the top of the food chain  and have several layers of fuel dependent contributors in their cost  structure.  Recall that until 2002, fuel prices were low, and since then  (except for the Great Recession) <a href="http://research.stlouisfed.org/fredgraph.png?g=cjB">have increased steadily</a>.</p>
+<p>I&#8217;m  quite sympathetic to the idea that QE has done very little to help ease  the economic doldrums following the GR.  But I see no reason at all to  believe that it has contributed to the pain and suffering of ordinary  citizens at either the grocery store or the gas pump.</p>
+<p>Maybe there have been real downsides to QE.  Any thoughts on what they might be and how to quantify them?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/fowl-and-fishy-inflation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More on the Middle East</title>
+		<link>./../../2011/02/more-on-the-middle-east.html</link>
+		<comments>./../../2011/02/more-on-the-middle-east.html#respond</comments>
+		<pubDate>Tue, 01 Feb 2011 14:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Egypt]]></category>
+		<category><![CDATA[food prices]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[middle class]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/more-on-the-middle-east.html</guid>
+		<description><![CDATA[The NYT reports today of further developments in the Middle East. Jordan&#8217;s Royal Palace says the king has sacked his government in the wake of street protests and has asked an ex-army general to form a new Cabinet. King Abdullah&#8217;s move comes after thousands of Jordanians took to the streets — inspired by the regime [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.nytimes.com/aponline/2011/02/01/world/middleeast/AP-ML-Jordan-Cabinet.html">The NYT</a> reports today of further developments in the Middle East.</p>
+<blockquote><p>Jordan&#8217;s Royal Palace says the king has sacked his government in the wake of street protests and has asked an ex-army general to form a new Cabinet. </p>
+<p>King Abdullah&#8217;s move comes after thousands of Jordanians took to the streets — inspired by the regime ouster in Tunisia and the turmoil in Egypt — and called for the resignation of Prime Minister Samir Rifai who is blamed for a rise in fuel and <a target="_blank" href="http://topics.nytimes.com/top/reference/timestopics/subjects/f/food_prices/index.html?inline=nyt-classifier">food prices</a> and slowed political reforms. </p>
+<p>The Royal Palace says Rifai&#8217;s Cabinet resigned on Tuesday. </p></blockquote>
+<p><a target="_blank" href="http://econospeak.blogspot.com/2011/01/whither-egypt.html">Barkley Rosser</a> offers a take off point for the international aspects of the Egyptian turmoil, and a <a target="_blank" href="http://econospeak.blogspot.com/2011/01/political-economic-basis-of-egyptian.html">beginning look</a> at the history of the politics/economics of the nation.</p>
+<blockquote><p>Yesterday, Juan Cole posted on  <a target="_blank" href="http://www.juancole.com/2011/01/egypts-class-conflict.html">Class Conflict in Egypt</a>. As usual, very insightful on the poltical economic foundations of this uprising. He argues that the original base of support for the Nasserist regime that took over in a coup in 1952 was rural land reform, with the rural middle class that got land still the base of the regime. However, over time with urbanization and slow growth and the rise of corruption since Mubarak took over, that base has eroded. <br /><a name="more"></a><br />Nasser also gained credibility for throwing out the British and standing up to other outsiders (with the US and Soviets ironically siding with him in the 1956 Suez Crisis against the UK, France, and Israel).</p>
+<p>Real wages doubled between 1960 and 1970, when Nasser died, but stagnated after that until 2000, with nearly zero real per capita income growth and a worsening income distribution. Neo-liberal policies, including relaxation of food price controls in the 1990s, did not produce much, although growth did increase after 2000, running at a 5-6% rate. But it has not been enough to provide jobs for the many urban youth, particularly the better educated ones.</p>
+<p>Also, since 1980 the regime has been seen as supported by outsiders, particularly the US, Israel, Britain, and France, in contrast to the Nasser period. As economic problems surged with the food price spikes in 2008 and the subsequent Great Recession in the world economy, this made for a weak foundation of support for the regime. We should expect any successor to take a more independent line, especially the moderate El-Baradei who was so badly treated by the US previously. </p>
+<p>I must note, however, that while inequality has increased, it is not all that bad compared to many other countries, with Egypt&#8217;s current Gini coefficient of 34.0 putting it in 90th place in terms of inequality in the world.</p>
+<p>Finally, I note that the chances for Mohamed El-Baradei succeeding Mubarak (eventually anyway) have increased with him receiving the support of the Ikhwan, the Muslim Brotherhood. However, there are other more radical Islamist groups in Egypt calling for an Islamist state with Shari&#8217;a imposed as law, although they appear to be a minority on that side, even though they are more moderate than the expelled Egyptian Islamic Jihad, whose leaders include the #2 and #3 figures in al-Qaeda.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/more-on-the-middle-east.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

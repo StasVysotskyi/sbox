@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Adair Turner &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Adair Turner on government spending</title>
+		<link>./../../2013/02/adair-turner-on-government-spending.html</link>
+		<comments>./../../2013/02/adair-turner-on-government-spending.html#respond</comments>
+		<pubDate>Sun, 17 Feb 2013 14:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Adair Turner]]></category>
+		<category><![CDATA[global recession]]></category>
+		<category><![CDATA[government intervention]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/adair-turner-on-government-spending.html</guid>
+		<description><![CDATA[Adair Turner, chairman of Britain’s Financial Services Authority offers his take on government policy and &#8220;spending&#8221; side of policies. From Reuters comes this comment on the speech.  I haven&#8217;t seen much coverage. Wednesday night may have marked the “emperor’s new clothes” moment of the Great Recession, in which the world suddenly realizes its rulers are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.fsa.gov.uk/static/pubs/speeches/0206-at.pdf" target="_blank">Adair Turner, chairman of Britain’s Financial Services Authority</a> offers his take on government policy and &#8220;spending&#8221; side of policies.</p>
+<p><a href="http://blogs.reuters.com/anatole-kaletsky/2013/02/07/a-breakthrough-speech-on-monetary-policy/" target="_blank">From Reuters</a> comes this comment on the speech.  I haven&#8217;t seen much coverage.<br />
+<blockquote>Wednesday night may have marked the “emperor’s new clothes” moment of the Great Recession, in which the world suddenly realizes its rulers are suffering from a delusion that doesn’t have to be humored. That delusion today is economic fatalism: the idea that nothing can be done to break the paralysis in the global economy and therefore that a “new normal” of mass unemployment and declining living standards is inevitable for years or decades to come.</p>
+<p>That such economic fatalism is nonsensical is the key message of a truly historic speech delivered on Wednesday by Adair Turner, chairman of Britain’s Financial Services Authority and one of the most influential financial policymakers in the world. Turner argues that a virtually surefire method of stimulating economic activity exists today and that politicians and central bankers can no longer treat it as taboo: Newly created money should be handed out to the citizens or governments of countries that are mired in stagnation and such monetary financing of tax cuts or government spending should continue until economic activity revives.</p></blockquote>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/adair-turner-on-government-spending.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

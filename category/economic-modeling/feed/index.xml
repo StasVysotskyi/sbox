@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economic modeling &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Bill Gates is naive, data is not objective</title>
+		<link>./../../2013/02/bill-gates-is-naive-data-is-not-objective.html</link>
+		<comments>./../../2013/02/bill-gates-is-naive-data-is-not-objective.html#respond</comments>
+		<pubDate>Sat, 02 Feb 2013 01:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cathy O'Niel]]></category>
+		<category><![CDATA[economic modeling]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/bill-gates-is-naive-data-is-not-objective.html</guid>
+		<description><![CDATA[by Cathy O&#8217;Niel       and re-posted with permission of the author who writes her own posts for her blog mathbabe, who works and teaches in New York city as a quant with style. This piece is a comment on data collection, not his intent. Bill Gates is naive, data is not objective In [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Cathy O&#8217;Niel       and re-posted with permission of the author who writes her own posts for her blog <a href="http://mathbabe.org/2013/01/29/bill-gates-is-naive-data-is-not-objective/" title="http://mathbabe.org/2013/01/29/bill-gates-is-naive-data-is-not-objective/">mathbabe</a>, who works and teaches in New York city as a quant with style. This piece is a comment on data collection, not his intent.</p>
+<p> Bill Gates is naive, data is not objective</p>
+<p>In <a href="http://online.wsj.com/article/SB10001424127887323539804578261780648285770.html?mod=WSJ_hp_mostpop_read">his recent essay in the Wall Street Journal</a>, Bill Gates proposed to “fix the world’s biggest problems” through “good measurement and a commitment to follow the data.” Sounds great!</p>
+<p>Unfortunately it’s not so simple.</p>
+<p>Gates describes a positive feedback loop when good data is collected and acted on. It’s hard to argue against this: given perfect data-collection procedures with relevant data, specific models do tend to improve, according to their chosen metrics of success. In fact this is almost tautological.</p>
+<p>As I’ll explain, however, rather than focusing on how individual models improve with more data, we need to worry more about which models and which data have been chosen in the first place, why that process is successful when it is, and – most importantly – who gets to decide what data is collected and what models are trained.</p>
+<p>Take Gates’s example of Ethiopia’s commitment to health care for its people. Let’s face it, it’s not new information that we should ensure “each home has access to a bed net to protect the family from malaria, a pit toilet, first-aid training and other basic health and safety practices.” What’s new is the political decision to do something about it. In other words, where Gates credits the measurement and data-collection for this, I’d suggest we give credit to the political system that allowed both the data collection and the actual resources to make it happen.</p>
+<p><a name="more"></a></p>
+<p>Gates also brings up the campaign to eradicate polio and how measurement has helped so much there as well. Here he sidesteps an enormous amount of politics and debate about how that campaign has been fought and, more importantly, how many scarce resources have been put towards it. But he has framed this fight himself, and has collected the data and defined the success metric, so that’s what he’s focused on.</p>
+<p>Then he talks about teacher scoring and how great it would be to do that well. Teachers might not agree, and I’d argue they are correct to be wary about scoring systems, especially if they’ve experienced the <a href="http://mathbabe.org/2012/03/06/the-value-added-teacher-model-sucks/">random number generator</a> called the Value Added Model. Many of the teacher strikes and failed negotiations are being caused by this system where, again, the people who own the model have the power.<br />Then he talks about college rankings and suggests we replace the flawed US News &#038; World Reports system with his own idea, namely “measures of which colleges were best preparing their graduates for the job market”. Note I’m not arguing for keeping that US News &#038; World Reports model, which is <a href="http://mathbabe.org/2013/01/14/should-the-u-s-news-world-reports-college-ranking-model-be-open-source/">embarrassingly flawed</a> and is <a href="http://www.nytimes.com/2012/01/31/education/claremont-mckenna-college-says-it-exaggerated-sat-figures.html?_r=0">consistently gamed</a>. But the question is, who gets to choose the replacement?</p>
+<p>This is where we get the closest to seeing him admit what’s really going on: that the person who defines the model defines success, and by obscuring this power behind a data collection process and incrementally improved model results, it seems somehow sanitized and objective when it’s not.</p>
+<p>Let’s see some more example of data collection and model design not being objective:
+<ol>
+<li>We see that <a href="http://sciencenordic.com/gender-equality-crash-test-dummies-too">cars are safer for men than women</a> because the crash-test dummies are men. </li>
+<li>We see that <a href="http://well.blogs.nytimes.com/2013/01/21/an-unexpected-road-hazard-obesity/">cars are safer for thin people</a> because the crash-test dummies are thin. </li>
+<li>We see <a href="https://www.aamc.org/newsroom/reporter/november2012/313994/viewpoint.html">drugs are safer and more effective for white people</a> because blacks are underrepresented in clinical trials (which is a <a href="http://health.usnews.com/usnews/health/healthday/080114/black-americans-still-wary-of-clinical-trials.htm">whole other story about power and data collection in itself</a>). </li>
+<li>We see that <a href="http://www.guardian.co.uk/artanddesign/2013/jan/25/racism-colour-photography-exhibition">Polaroid film used to only pick up white skin</a> because it was optimized for white people. </li>
+<li>We see that <a href="http://www.nytimes.com/interactive/2013/01/25/business/Who-Trusts-the-Banks.html?emc=eta1">poor people are uninformed <em>by definition</em></a> of how we take opinion polls (read the fine print).</li>
+</ol>
+<p>Bill Gates seems genuinely interested in tackling some big problems in the world, and I wish more people thought long and hard about how they could contribute like that. But the process he describes so lovingly is in fact highly fraught and dangerous.<br />Don’t be fooled by the mathematical imprimatur: behind every model and every data set is a political process that chose that data and built that model and defined success for that model.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/bill-gates-is-naive-data-is-not-objective.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

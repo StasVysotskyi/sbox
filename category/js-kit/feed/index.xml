@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>js kit &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>js-kit commenting system</title>
+		<link>./../../2011/02/js-kit-commenting-system.html</link>
+		<comments>./../../2011/02/js-kit-commenting-system.html#respond</comments>
+		<pubDate>Sat, 05 Feb 2011 14:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[js kit]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/js-kit-commenting-system.html</guid>
+		<description><![CDATA[Readers have noticed and commented on the abrupt change in the commenting format last week. Angry Bear&#8217;s discounted subscription to echo pro expired and became echo live, which is geared to a social networking format (links to twitter and facebook and other perks). Echo pro costs $100/month minimum for companies with 1 M pageviews a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Readers have noticed and commented on the abrupt change in the commenting format last week.  Angry Bear&#8217;s discounted subscription to echo pro expired and became echo live, which is geared to a social networking format (links to twitter and facebook and other perks).</p>
+<p>Echo pro costs $100/month minimum for companies with 1 M pageviews a month.</p>
+<p>I contacted the CEO of JS-Kit, Kris Loux, and asked for help since Angry Bear is mostly out of pocket for us all.  The ads bring in money to cover expenses now but that is a big hit.</p>
+<p>Mr. Loux has graciously waived the fee for echo pro for Angry Bear, so I want to publicly thank him for his kindness, and making our job that much easier.  Echo pro allows greater control of the format of comments.</p>
+<p>We are also eligible for a &#8216;free&#8217; upgrade to the new e2 format scheduled to come online later this year.  (I am not familiar with the details of this format yet).  </p>
+<p>Anyway, thanks for sticking with us during an abrupt change and your patience, and thanks to js-kit for their help.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/js-kit-commenting-system.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

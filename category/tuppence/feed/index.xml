@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tuppence &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Whence Fall the Banks of England, England Falls, 2007 version</title>
+		<link>./../../2008/12/whence-fall-the-banks-of-england-england-falls-2007-version.html</link>
+		<comments>./../../2008/12/whence-fall-the-banks-of-england-england-falls-2007-version.html#respond</comments>
+		<pubDate>Mon, 29 Dec 2008 19:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Disney]]></category>
+		<category><![CDATA[investments]]></category>
+		<category><![CDATA[tuppence]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/whence-fall-the-banks-of-england-england-falls-2007-version.html</guid>
+		<description><![CDATA[Shira, the kids, and the m-i-l went to see Mary Poppins on Broadway for the former&#8217;s birthday. In this version, the father still works for the bank and is given a choice early on: he can loan money to someone who promises to invest the money in business ventures in Foreign Lands and make marvelous [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Shira, the kids, and the m-i-l went to see <em>Mary Poppins</em> on Broadway for the former&#8217;s birthday.</p>
+<p>In this version, the father still works for the bank and is given a choice early on: he can loan money to someone who promises to invest the money in business ventures in Foreign Lands and make marvelous returns, or he can loan money to a man who comes in with a local business plan to build a factory, employ local people, and make money. The gentleman even gives sixpence to each of the father&#8217;s children, somewhat strengthening the mirroring of the tuppence scene in the original:<br />
+
+</p>
+<p>But, of course, the other bankers all loan to the man who wants investors, and the father is suspended for not doing so.</p>
+<p>Until, of course, the investment turns out to be a Ponzi scheme, and the factory turns out to be the loan that &#8220;saves the bank.&#8221;</p>
+<p>Instead, AIG will be giving out bonuses with TARP monies in March of 2009, and the only failures are among the sweeps and unemployed nannies.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/whence-fall-the-banks-of-england-england-falls-2007-version.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ranking &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Doing Business, World Bank ranking</title>
+		<link>./../../2007/10/doing-business-world-bank-ranking.html</link>
+		<comments>./../../2007/10/doing-business-world-bank-ranking.html#respond</comments>
+		<pubDate>Thu, 04 Oct 2007 15:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[business]]></category>
+		<category><![CDATA[ranking]]></category>
+		<category><![CDATA[world bank]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2007/10/doing-business-world-bank-ranking.html</guid>
+		<description><![CDATA[Just a little break from the usual. Did you know you can pay your taxes easier in Iraq than in the US? I stumbled across this today. It is the World Bank page on Doing Business. It ranks 178 countries on 10 topics. You can resort the order depending on 3 different settings. When you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Just a little break from the usual. Did you know you can pay your taxes easier in Iraq than in the US?</p>
+<p>I stumbled across this today. It is the <a href="http://www.doingbusiness.org/economyrankings/?IncomeId=0">World Bank page on Doing Business</a>. It ranks 178 countries on 10 topics. You can resort the order depending on 3 different settings. When you initially open the page you see the overall order.</p>
+<p>Interestingly, the US with it&#8217;s over all ranking of 3, under ease of paying taxes: 76th. Iraq ranked 37 under this topic and is not even at the bottom over all! It even ranks 40th on registering property. But it is 164th on starting a business and once you start it, you probably can&#8217;t close it as that topic ranks 178 (the bottom).</p>
+<p>Have fun.</p>
+<p>Update: There is a report that goes along with this. <a href="http://rru.worldbank.org/Documents/DoingBusiness/DB-2005-Overview.pdf"> Doing Business in 2005</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2007/10/doing-business-world-bank-ranking.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

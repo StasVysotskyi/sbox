@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>math &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The song of PI</title>
+		<link>./../../2012/12/the-song-of-pi.html</link>
+		<comments>./../../2012/12/the-song-of-pi.html#respond</comments>
+		<pubDate>Sat, 15 Dec 2012 22:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[math]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/the-song-of-pi.html</guid>
+		<description><![CDATA[Robert Waldmann points to Song of PI:]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann points to <i>Song of PI</i>:</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/the-song-of-pi.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Yes, The Right Wing Lies When They Say Obama is a Profligate Spender</title>
+		<link>./../../2012/09/yes-the-right-wing-lies-when-they-say-obama-is-a-profligate-spender.html</link>
+		<comments>./../../2012/09/yes-the-right-wing-lies-when-they-say-obama-is-a-profligate-spender.html#respond</comments>
+		<pubDate>Mon, 10 Sep 2012 14:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[conservative thought]]></category>
+		<category><![CDATA[deficit spending]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[lies]]></category>
+		<category><![CDATA[math]]></category>
+		<category><![CDATA[Obama]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/yes-the-right-wing-lies-when-they-say-obama-is-a-profligate-spender.html</guid>
+		<description><![CDATA[Part III &#8211; How to think about time series data. For reference:Part II  Federal Spending as a Fraction of GDP Part I  Federal Spending Growth Some commentors to the previous posts have rightly concluded that I consider spending under Obama in the context of historical trends.  In fact, if you don&#8217;t consider historical trends, you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Part III &#8211; How to think about time series data.</p>
+<p>For reference:<br />Part II  <a href="http://www.angrybearblog.com/2012/09/why-spendinggdp-is-terrible-horrible-no.html">Federal Spending as a Fraction of GDP</a></p>
+<p>Part I  <a href="http://www.angrybearblog.com/2012/09/a-quick-look-at-federal-spending.html">Federal Spending Growth</a></p>
+<p>Some  commentors to the previous posts have rightly concluded that I consider  spending under Obama in the context of historical trends.  In fact, if  you don&#8217;t consider historical trends, you are ignoring the most  important element of context that is available.  I only mentioned trends  briefly in Part II, but the directional changes in the graphs of Parts I  and II implicitly suggest them.</p>
+<p>Time series data that  relate to the size of the population, the government, or the economy  generally follow a quasi-exponential growth pattern.  I say <i>quasi-</i> because a perfect exponential growth pattern  results from a continuous  constant rate of growth, while real world growth rates vary from year.   Graph 3 of Part II shows how these variations have occurred over  several decades.  Usually this does not result in a large or permanent  deformation in the shape of a quasi-exponential curve, since the growth  rate typically oscillates irregularly around a mean value that only  changes slowly over time.</p>
+<p>Graph 2 in Part II shows that  the spending and GDP growth curves stay close to exponential tracks  over long time spans.  It also illustrates that the recent recession was  one of those rare times when growth rates deviated substantially.</p>
+<p>Human  eye-brain coordination doesn&#8217;t deal well with exponential curve  shapes.  Straight lines are much easier to comprehend and extrapolate.   Graphing quasi-exponential data on a log scale reduces the curve to a  quasi-straight line that is much easier to use and understand.</p>
+<p>Graph  1 shows Federal Spending and GDP, since 1995, plotted on a log scale.   Constant growth results in a straight line segment, and a higher growth  rate causes a steeper slope.  Zero growth shows up as a horizontal  line.   I&#8217;ve again included a line for 5 times spending, to get a close  overlay with the GDP line.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=aqW"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=aqW" width="400"></a></div>
+<div> Graph 1.  Spending and GDP since 1995 (log scale)</div>
+<p><a name="more"></a></p>
+<p>There  is an upward bend in the spending line in 2000.  This is most easily  seen in the blue line.  During the 90&#8217;s, we can see that GDP grew faster  than spending.  In 2001-2, GDP growth flat-lined, as expected during a  recession. Then, from 20002 to 2008, the growth rates for GDP and  spending were close to identical.  Both lines twist during the most  recent recession.  Curiously, spending growth was flat for a large  portion of 2008.</p>
+<p>Since the recession, the spending lines are very close to flat, and GDP growth has been anemic.  Here is a close up.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=ar7"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=ar7" width="400"></a></div>
+<div>Graph 2.  Spending and GDP since 2007 (log scale)</div>
+<p>Graph 3 provides context, all the way back to 1947.  Ponder the inflection points and slope changes at your leisure.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=ara"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=ara" width="400"></a></div>
+<div>Graph 2.  Spending and GDP since 1947 (log scale)</div>
+<p>Note  that there are only two flat-ish spots in the spending lines: now, and  during the Eisenhower administration. The current administration has, at  least temporarily, broken the decades-long trend in continuous spending  increases.  </p>
+<p>To emphasize the obvious, spending growth  is now very close to zero.  In context, this is remarkable.  Saying  Obama is a profligate spender is a lie.  </p>
+<p>In this post, I am not suggesting that the rate of spending growth under any president is good, bad, appropriate or inappropriate.  I am only pointing out what was and is.  </p>
+<p>So, this is how you think about time series data.<br />0)  Forget your preconceived notions.    (Frex:I had no idea that spending  growth has essentially stopped until I looked at the data.)<br />1) Identify trends. The history of time series data provides meaningful context.<br />2) Identify break points and trend changes.  These are key data points.<br />3) Note the directions of these changes.<br />4) Think hard about what these observations are actually telling you, not what you want them to say.<br />5) Double down on 4) if you are looking at a ratio.  Ponder that denominator. <br />6) Don&#8217;t cherry pick.  It&#8217;s dishonest.</p>
+<p>There  are a lot of ways to look at a data set: linear and log scales, rate of  change, etc.  Chose the one that gives the clearest picture of the data  you want to analyze, or simplifies the analysis, or makes it easier to  understand.  Studying different views can be informative, as can a  comparison of different data sets.  </p>
+<p><a href="http://research.stlouisfed.org/fred2/graph/?g=ara">Here is the working page at FRED for the graphs in this post</a>.  I encourage the interested reader to spend some time working with the capabilities of this very powerful tool.</p>
+<p>Editorial Comment:<br />In  case it&#8217;s not obvious, I&#8217;ll tell you that I write these posts because  they interest me and I think they generate some knowledge, or at least  information, that is worth sharing.  I have virtually no interest in the  fool&#8217;s errand of convincing anybody that I am right &#8211; either the data  analysis convinces you or it doesn&#8217;t.  So unless you have better data,  or can point out some specific flaw in my reasoning [and then tell me  specifically and in detail how to get it right] don&#8217;t bother arguing  with me.</p>
+<p>I appreciate rational discourse, and am always  willing to engage thoughtful readers. I&#8217;m also willing to be proven  wrong by a cogent argument.  That said, though, I don&#8217;t really care if  anyone comments.  At this point, I&#8217;d <i>almost</i> rather nobody  did.  But if you chose to, please do me the courtesy of having your  comment be somewhere in the general vicinity of on-topic.  And &#8211; fair  warning: naked assertions and unsubstantiated ideologically approved  talking points will be scoffed at, so please check that nonsense at the  door.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/yes-the-right-wing-lies-when-they-say-obama-is-a-profligate-spender.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Spending/GDP is a Terrible, Horrible, No Good, Very Bad Metric For Judging Obama&#8217;s Performance</title>
+		<link>./../../2012/09/why-spendinggdp-is-a-terrible-horrible-no-good-very-bad-metric-for-judging-obamas-performance.html</link>
+		<comments>./../../2012/09/why-spendinggdp-is-a-terrible-horrible-no-good-very-bad-metric-for-judging-obamas-performance.html#respond</comments>
+		<pubDate>Fri, 07 Sep 2012 18:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Clinton]]></category>
+		<category><![CDATA[conservative thought]]></category>
+		<category><![CDATA[deficit spending]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[lies]]></category>
+		<category><![CDATA[math]]></category>
+		<category><![CDATA[Obama]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/why-spendinggdp-is-a-terrible-horrible-no-good-very-bad-metric-for-judging-obamas-performance.html</guid>
+		<description><![CDATA[A post like this really shouldn&#8217;t be necessary, but part of the right wing canard that Obama has been a profligate spender is based on spending as a percentage of GDP. It looks like this &#8211; Graph 1. Graph 1.  Fed Expenditures/GDP Sure enough, by the end of Clinton&#8217;s term the ratio had fallen from [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A post like this really shouldn&#8217;t be necessary, but part of the right wing canard that <a href="http://www.angrybearblog.com/2012/09/a-quick-look-at-federal-spending.html">Obama has been a profligate spender</a> is based on spending as a percentage of GDP.</p>
+<p>It looks like this &#8211; Graph 1.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=ajA"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=ajA" width="400"></a></div>
+<div>Graph 1.  Fed Expenditures/GDP</div>
+<p>Sure  enough, by the end of Clinton&#8217;s term the ratio had fallen from Reagan&#8217;s  high of 24% to a modern low of 19%.  But note that the 19% value wasn&#8217;t  typical.  It was the end point of a decade-long decline.  And, yep,  there&#8217;s Obama with an all-time-high approaching 26%.</p>
+<p>What  otherwise intelligent, and sometimes even famous people seem to ignore  though, is that every ratio has not only a numerator but also that <a href="http://www.angrybearblog.com/2012/08/debt-recession-and-that-ol-devil.html">ol&#8217; devil denominator</a>.    Let&#8217;s have a look at both of them.  Graph 2 shows GDP and Expenditures  since 1980, expressed in $ Billions.  I&#8217;ve also added a line  representing 5* Expenditures, since 20% of GDP is a reasonable rough  estimate for the post WW II era.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=ak0"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=ak0" width="400"></a></div>
+<div>Graph 2.  Expenditures and GDP Compared</div>
+<p>Actually,  the 5x Expenditures line runs pretty consistently above the GDP line,  telling us two things that we should have already known from looking at  Graph 1.  First, Expenditures greater than 20% of GDP have been the norm  since before 1980, and 2) Clinton&#8217;s final number is not representative  of anything other than a single year.  Using it as a comparator is  cherry-picking and fundamentally dishonest.</p>
+<p>The 5x line  also emphasizes that the majority of the spending increase under Obama  unavoidably occurred during the officially designated recession.  The  GDP line shows that, post recession, GDP growth has not recovered to the  pre-recession trend line.  In fact, growth has established a new trend  line with a lower slope.  This is unprecedented in the scope of FRED  historical data.  My guess is that insufficient Federal spending has  been a big drag on this recovery.  But it&#8217;s also true that GDP growth  has been in secular decline since the Reagan administration.  Note that skewing the denominator down will automatically skew the ratio up.  This is what Bill Clinton calls &#8220;arithmetic.&#8221;</p>
+<p>Slicing  across this a different way, Graph 3 gives us year-over-year percentage  growth in Expenditures and GDP, dating back to the Eisenhower  administration.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=akg"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=akg" width="400"></a></div>
+<div>Graph 3.  YoY % Change in Expenditures and GDP</div>
+<p>A few simple observations:<br />&#8211; The spending increase during the recent recession was modest by any standard, and dwarfed by earlier surges.<br />&#8211; That increase, coupled with the most severe GDP decline since the <i>other</i> Great Depression gave our beloved ratio a terrible, horrible, no good, very bad double whammy.<br />&#8211; GDP growth during this recovery is only marginally better than it was during the 2001-2 low, and far below Clinton era levels.<br />&#8211; Clinton was the most consistently frugal president of the post WW II era &#8211; until now.<br />&#8211; Since the recession was declared over, B. Hoover Obama has been <i>miserly</i>.</p>
+<p>One  can legitimately argue that Obama&#8217;s approach to the economy has been  excessively conservative.  Krugman has made this point repeatedly.  I  often say that Clinton governed to the right of Eisenhower &#8211; who was a  genuine deficit hawk &#8211; and that Obama is to the right of Clinton. That  is intended to be slightly hyperbolic, but using this data as the  benchmark, it&#8217;s dead on.</p>
+<p>Any questions?</p>
+<p>Cross posted at <a href="http://jazzbumpa.blogspot.com/2012/09/why-spendinggdp-is-terrible-horrible-no.html">Retirement Blues</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/why-spendinggdp-is-a-terrible-horrible-no-good-very-bad-metric-for-judging-obamas-performance.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Watch Donald. He&#8217;s worth your time</title>
+		<link>./../../2012/08/watch-donald-hes-worth-your-time.html</link>
+		<comments>./../../2012/08/watch-donald-hes-worth-your-time.html#respond</comments>
+		<pubDate>Sat, 25 Aug 2012 13:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[aguanomics]]></category>
+		<category><![CDATA[David Zetland]]></category>
+		<category><![CDATA[math]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/watch-donald-hes-worth-your-time.html</guid>
+		<description><![CDATA[Via David Zetland&#8217;s Aguanomics comes this reminder (1959) of &#8216;why math is fun&#8217; worked for kids.  He didn&#8217;t see it till taking calculus.  Can you imagine it being produced now?]]></description>
+				<content:encoded><![CDATA[<p>Via David Zetland&#8217;s <a href="http://www.aguanomics.com/" target="_blank">Aguanomics</a> comes this reminder (1959) of &#8216;why math is fun&#8217; worked for kids.  He didn&#8217;t see it till taking calculus.  Can you imagine it being produced now?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/watch-donald-hes-worth-your-time.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

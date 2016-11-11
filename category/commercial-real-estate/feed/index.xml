@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>commercial real estate &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Plural of Datum is Foreboding</title>
+		<link>./../../2009/09/the-plural-of-datum-is-foreboding.html</link>
+		<comments>./../../2009/09/the-plural-of-datum-is-foreboding.html#respond</comments>
+		<pubDate>Mon, 14 Sep 2009 18:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[commercial real estate]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[recession]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/the-plural-of-datum-is-foreboding.html</guid>
+		<description><![CDATA[Via Dr. Black, CR describes Washington, D.C. real estate as &#8220;the commercial version of the subprime situation.&#8221; Two points: CR knows better, most of the time, than to believe that there was a &#8220;subprime situation&#8221; in any sense other than &#8220;We Are All Subprime Now.&#8221; [edited for tone] Possibly more importantly, Washington, D.C., is one [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via Dr. Black, CR describes Washington, D.C. real estate as &#8220;<a target="_blank" href="http://www.calculatedriskblog.com/2009/09/dc-commercial-version-of-subprime.html">the commercial version of the subprime situation</a>.&#8221;</p>
+<p>Two points:
+<ol>
+<li>CR knows better, most of the time, than to believe that there was a &#8220;subprime situation&#8221; in any sense other than &#8220;<a target="_blank" href="http://www.calculatedriskblog.com/2008/02/were-all-subprime-now.html">We Are All Subprime Now</a>.&#8221; [edited for tone]</p>
+</li>
+<li>Possibly more importantly, Washington, D.C., is one of the few areas that has, relatively speaking, maintained employment levels during the current recession.</li>
+</ol>
+<p>If D.C. is having CRE problems, is it any wonder the rest of the country is in a jobless &#8220;recovery&#8221; at best?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/the-plural-of-datum-is-foreboding.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

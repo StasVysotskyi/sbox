@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economi &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Actually, &#034;The Field&#034; is Odds-on</title>
+		<link>./../../2008/10/actually-the-field-is-odds-on.html</link>
+		<comments>./../../2008/10/actually-the-field-is-odds-on.html#respond</comments>
+		<pubDate>Thu, 09 Oct 2008 02:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[economi]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/actually-the-field-is-odds-on.html</guid>
+		<description><![CDATA[Via Mankiw, who notes that &#8220;among economists listed&#8221; at PinnacleSports, Martin Feldstein is the favorite. I was going to snark that that must be because they have a lousy field for bettors, but Mankiw links to Ladbrokes, too, where people rationally expect that declaring Economics once and for all irrelevant (i.e., giving the award to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://gregmankiw.blogspot.com/2008/10/nobel-odds.html">Mankiw</a>, who notes that &#8220;among economists listed&#8221; at <a href="http://www.pinnaclesports.com/lines.aspx?type=contestcategory&#038;contesttype1=nobel+prize&#038;contesttype2=2008+nobel+prize+in+economics">PinnacleSports</a>, Martin Feldstein is the favorite.</p>
+<p>I was going to snark that that must be because they have a lousy field for bettors, but Mankiw links to <a href="http://www.ladbrokes.com/lbr_sports?action=go_generic_link&#038;level=TYPE&#038;key=210003529&#038;disp_sort_id=28&#038;category=&#038;subtypes=">Ladbrokes</a>, too, where people rationally expect that declaring Economics once and for all irrelevant (i.e., giving the award to Fama and/or French [UPDATE: Tyler Cowen <a href="http://www.marginalrevolution.com/marginalrevolution/2008/10/what-ever-happe.html">disagrees</a>.) is The Way to Bet.</p>
+<p>Comparing the two lists, there is only one possible conclusion: PinnacleSports has a lousy field for bettors.</p>
+<p>Sadly, neither has EconoSpeak favorite <a href="http://econospeak.blogspot.com/2008/09/possible-economics-nobels.html">William Easterlin</a> on the list, while my pick*—<a href="http://www.nyu.edu/econ/dept/vitae/baumol.htm">William Baumol</a>—rates as ones of the longest betting shots at Ladbrokes.</p>
+<p>*I&#8217;ve been wrong every year, so selling Baumol at 40:1 is probably a better bet than Phillies over Dodgers or Red Sox over Tampa Bay.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/actually-the-field-is-odds-on.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

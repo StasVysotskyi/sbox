@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>grey markets &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Migrant money tops $530bn</title>
+		<link>./../../2013/02/migrant-money-tops-530bn.html</link>
+		<comments>./../../2013/02/migrant-money-tops-530bn.html#respond</comments>
+		<pubDate>Fri, 08 Feb 2013 16:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[grey markets]]></category>
+		<category><![CDATA[migrant money]]></category>
+		<category><![CDATA[Stormy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/migrant-money-tops-530bn.html</guid>
+		<description><![CDATA[Stormy writes (lifted from an e-mail):Some developing nations are winners: France, England&#8230;others, the U.S. are very big losers. Banks take a hefty cut&#8230; Migrants billions overshadow aid.  This article is an interesting sidebar to the global economy, enormously powerful and consequential. Worth reading and thinking about. From the The Guardian For decades it was a largely unnoticed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Stormy writes (lifted from an e-mail):<br />Some developing nations are winners: France, England&#8230;others, the U.S. are very big losers. Banks take a hefty cut&#8230; <a href="http://www.guardian.co.uk/global-development/2013/jan/30/migrants-billions-overshadow-aid">Migrants billions overshadow aid</a>.  This article is an interesting sidebar to the global economy, enormously powerful and consequential. Worth reading and thinking about.</p>
+<p>From the <a href="http://www.guardian.co.uk/global-development/2013/jan/30/migrants-billions-overshadow-aid" title="http://www.guardian.co.uk/global-development/2013/jan/30/migrants-billions-overshadow-aid">The Guardian</a><br />
+<blockquote>For decades it was a largely unnoticed feature of the global economy, a blip of a statistic that hinted at the tendency of expatriates to send a little pocket money back to families in their home countries.<br />But now, the flow of migrant money around the world has shot up to record levels as more people than ever cross borders to live and work abroad. It&#8217;s known as remittance money, and in 2012 it topped $530bn (£335bn), according to the latest <a href="http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTDECPROSPECTS/0,,contentMDK:22759429~pagePK:64165401~piPK:64165026~theSitePK:476883,00.html#Remittances">World Bank</a> figures.<br />The amount has tripled in a decade and is now more than three times larger than total global <a href="http://www.guardian.co.uk/global-development/aid">aid</a> budgets, sparking serious debate as to whether <a href="http://www.guardian.co.uk/global-development/migration">migration</a> and the money it generates is a realistic alternative to just doling out aid. If remittances at the level recorded by the <a href="http://www.guardian.co.uk/business/worldbank">World Bank</a>were a single economy, it would be the 22nd largest in the world, bigger than Iran or Argentina.<br />…<br />India and China were the biggest beneficiaries of remittances last year, each receiving more than $60bn, followed by the Philippines ($24bn), Mexico ($24bn), and Nigeria ($21bn). Egypt, the sixth largest, has seen the value of remittances surge from less than $9bn in 2008 to nearly $18bn last year.<br />For some smaller economies, remittances can account for huge proportions of national income. Tajikistan and Liberia receive the equivalent of 47% and 31% of their respective GDPs from workers abroad.<br />…<br />Globally, there are more than 214 million migrants; if they lived in one country, it would be the fifth most populous, trailing only China, India, America and Indonesia.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/migrant-money-tops-530bn.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

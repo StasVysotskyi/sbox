@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>recission &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Because &#034;Free Enterprise&#034; is Good for You</title>
+		<link>./../../2010/02/because-free-enterprise-is-good-for-you.html</link>
+		<comments>./../../2010/02/because-free-enterprise-is-good-for-you.html#respond</comments>
+		<pubDate>Wed, 10 Feb 2010 22:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[Obama Administration]]></category>
+		<category><![CDATA[recission]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/because-free-enterprise-is-good-for-you.html</guid>
+		<description><![CDATA[The Rude Pundit does what Obama Administration doesn&#8217;t have the will to: &#8220;United Health Care in Colorado turned down 2-year old Aislin Bates of Denver, Colorado for coverage because they said she was too thin.&#8221; &#8230; &#8220;8-month old Jaxon Thornburgh of Dallas, Texas was denied health insurance because he needed simple therapy to help with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Rude Pundit <a href="http://rudepundit.blogspot.com/2010/02/wheres-pro-health-care-reform-ads-when.html">does what Obama Administration doesn&#8217;t have the will to</a>:<br />
+<blockquote> &#8220;United Health Care in Colorado turned down 2-year old Aislin Bates of Denver, Colorado for coverage because they said she was too thin.&#8221; &#8230;  &#8220;8-month old Jaxon Thornburgh of Dallas, Texas was denied health insurance because he needed simple therapy to help with an easily curable condition.&#8221; &#8230; &#8220;In New Jersey, HealthAmerica denied doctor-recommended life-saving treatment to cancer patient Kyler VanNocker, who is 5 years old.&#8221; &#8230;&#8221;Call your Senators and tell them that your children shouldn&#8217;t ever have to risk losing their health insurance.&#8221;</p></blockquote>
+<p>Ask your Senators who talk about economic issues why they don&#8217;t believe in Human Capital.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/because-free-enterprise-is-good-for-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

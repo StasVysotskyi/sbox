@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>blog administration &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Comments section misbehaving</title>
+		<link>./../../2011/11/comments-section-misbehaving.html</link>
+		<comments>./../../2011/11/comments-section-misbehaving.html#respond</comments>
+		<pubDate>Tue, 22 Nov 2011 01:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[blog administration]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/comments-section-misbehaving.html</guid>
+		<description><![CDATA[The comments section (js kit) is not registering correctly at the comment label but are actually being left&#8230;please click on comments to take you to the whole post page and leave them. If you have noticed missing comments let me know via angrybearblog at gmail. The error appears to be in the permalink code and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The comments section (js kit) is not registering correctly at the comment label but  are actually being left&#8230;please click on comments to take you to the whole post page and leave them.  If you have noticed missing comments let me know via angrybearblog at gmail.</p>
+<p>The error appears to be in the permalink code and needs repair.  On it but am learning a new set of function and lines.</p>
+<p>Dan</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/comments-section-misbehaving.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

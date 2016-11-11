@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>regulators &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Markets Need Regulators &#8211; Food Edition</title>
+		<link>./../../2013/02/markets-need-regulators-food-edition.html</link>
+		<comments>./../../2013/02/markets-need-regulators-food-edition.html#respond</comments>
+		<pubDate>Sat, 23 Feb 2013 13:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[market]]></category>
+		<category><![CDATA[Mike Kimel]]></category>
+		<category><![CDATA[regulators]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/markets-need-regulators-food-edition.html</guid>
+		<description><![CDATA[by Mike Kimel Markets Need Regulators &#8211; Food Edition Back in college, I had a chat with one of my more libertarian economics professors about the need for regulation. He thought regulation was completely un-necessary. &#8220;But what about mislabeled food?&#8221; I asked, &#8220;How do we even know that what is labeled on the side of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p>Markets Need Regulators &#8211; Food Edition</p>
+<p>Back in college, I had a chat with one of my more libertarian economics professors about the need for regulation.  He thought regulation was completely un-necessary.</p>
+<p>&#8220;But what about mislabeled food?&#8221; I asked, &#8220;How do we even know that what is labeled on the side of the box or the can is what is inside?&#8221;</p>
+<p>His reply was one I&#8217;ve heard, in one variation or another, many times since, &#8220;A company that sells customers something than they ordered will quickly go out of business.&#8221;</p>
+<p>I&#8217;ve known it was BS every time I heard that, but it is interesting and unfortunate to see validation lately.</p>
+<p>In the US, we have <a href="http://articles.chicagotribune.com/2013-02-21/news/ct-met-phony-fish-20130221_1_seafood-fraud-fish-fraud-grouper-samples">mislabeledfish</a>:</p>
+<blockquote><p>Chicago diners who think they are eating red snapper may actually be munching on goldbanded jobfish.</p>
+<p>Those who order Alaskan cod may really be tucking into a threadfin slickhead. And fans of yellowtail could just be getting a fish tale.</p>
+<p>These are some of the findings of a Chicago fish fraud investigation to be released Thursday by conservancy group Oceana.</p>
+<p>After its troubling seafood fraud investigations in East and West Coast cities over the last two years, the group expanded its testing to other cities, including Chicago. Thirty of 93 fish samples taken from Chicago restaurants, retail chains and sushi bars were mislabeled, mirroring percentages found in other cities.</p>
+<p>Eight of nine Chicago red snapper samples tested by Oceana turned out to be different fish, the report said. And none of the three<br />yellowtail samples tested was actually yellowtail. Single samples sold as corvina, jack, mackerel and even perch did not match those descriptions, according to Oceana&#8217;s DNA tests.</p>
+<p>The ocean conservancy organization does not list the names of the restaurants or stores where it bought the fish because &#8220;we didn&#8217;t know where, along the supply chain, the mislabeling first occurred,&#8221; said Beth Lowell Oceana&#8217;s seafood fraud campaign director.&#8221;So we didn&#8217;t want to call out businesses that may not have known their fish was mislabeled.&#8221;</p></blockquote>
+<p>This comes in the heel of the horsemeat (and occasionally donkey meat) sold as beef scandal in Europe.</p>
+<p>What is interesting is that a) these behaviors have been going on for a long time and b) they were either spotted by a shrunken regulator (in Europe) or a non-profit (in the US).  The market&#8217;s incentives didn&#8217;t stop any of the players involved.</p>
+<p><a name="more"></a></p>
+<p>Now, one could respond that &#8220;this didn&#8217;t actually harm anyone&#8217;s health.&#8221;  That may be true, but it is fraud. Lack of damage isn&#8217;t true of all cases.  We&#8217;ve all read about cases where adulterated food products did kill, where mechanical components that didn&#8217;t meet stated standards caused deadly accidents, or pharmaceuticals that weren&#8217;t as stated caused tremendous harm.  Different fields have different stories.  Decades ago, I knew people who worked with blood banks, buying and selling blood products for use in medical and pharmaceutical tests and manufacturing.  Apparently it wasn&#8217;t uncommon for low quality, poorly tested, and badly identified blood from East Germany to be surreptitiously mislabeled as its high quality, tested-to-the-nines West German equivalent, and with a wink and a nod, enter the bloodstream so to speak.  Who knows how many people were harmed by that?  More familiar to most Americans these days is the mislabeling of financial products &#8211; there were an awful lot of risky financial products mislabeled as being AAA safe.</p>
+<p>For commerce to work, confidence in the products being sold needs to exist.  But the marketplace by itself can&#8217;t provide that &#8211; the financial incentive apparently is just a bit too strong for some of the players.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/markets-need-regulators-food-edition.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

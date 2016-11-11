@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fed regulation. jobs &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Federal regulation versus jobs…not much there</title>
+		<link>./../../2011/11/federal-regulation-versus-jobsnot-much-there.html</link>
+		<comments>./../../2011/11/federal-regulation-versus-jobsnot-much-there.html#respond</comments>
+		<pubDate>Wed, 16 Nov 2011 13:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[fed regulation. jobs]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/federal-regulation-versus-jobsnot-much-there.html</guid>
+		<description><![CDATA[The Washington Post points us to a study on the overall impact of regulations and jobs: The critique of regulations fits into a broader conservative narrative about government overreach. But it also comes after a string of disasters in recent years that were tied to government regulators falling short, including the financial crisis of 2008, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.washingtonpost.com/business/economy/does-government-regulation-really-kill-jobs-economists-say-overall-effect-minimal/2011/10/19/gIQALRF5IN_story.html?hpid=z1">Washington Post</a> points us to a study on the overall impact of regulations and jobs:<br />
+<blockquote>
+<p>The critique of regulations fits into a broader conservative narrative about government overreach. But it also comes after a string of disasters in recent years that were tied to government regulators falling short, including the financial crisis of 2008, the BP oil spill and the West Virginia mining accident last year.</p>
+<p><a href="http://www.bls.gov/news.release/mslo.t02.htm">Data</a> from the <a href="http://www.whorunsgov.com/Institutions/Labor/Offices/OS/BLS">Bureau of Labor Statistics</a> show that very few layoffs are caused principally by tougher rules.</p>
+<p>Whenever a firm lays off workers, <a href="http://www.bls.gov/">the bureau</a> asks executives the biggest reason for the job cuts.</p>
+<p>In 2010, 0.3 percent of the people who lost their jobs in layoffs were let go because of “government regulations/intervention.” By comparison, 25 percent were laid off because of a drop in business demand.</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/federal-regulation-versus-jobsnot-much-there.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

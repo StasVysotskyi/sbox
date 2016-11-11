@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>neuro-scoence &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>This is your Brain on Rose-Coloured Glasses</title>
+		<link>./../../2009/09/this-is-your-brain-on-rose-coloured-glasses.html</link>
+		<comments>./../../2009/09/this-is-your-brain-on-rose-coloured-glasses.html#respond</comments>
+		<pubDate>Tue, 08 Sep 2009 11:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Behavioral Economics]]></category>
+		<category><![CDATA[neuro-scoence]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/this-is-your-brain-on-rose-coloured-glasses.html</guid>
+		<description><![CDATA[by Noni Mausa &#8220;Rose coloured glasses&#8221; has long been used to imply an optimistic view of the world makes people stupidly cheerful. Turns out, the real case may be exactly the opposite. Good mood produces better attention and better problem solving. From the CBC science program &#8220;Quirks and Quarks:&#8221; This is your Brain on Rose-Coloured [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Noni Mausa</p>
+<p>&#8220;Rose coloured glasses&#8221; has long been used to imply an optimistic view of the world makes people stupidly cheerful.</p>
+<p>Turns out, the real case may be exactly the opposite. Good mood produces better attention and better problem solving.</p>
+<p>From the CBC science program &#8220;Quirks and Quarks:&#8221;</p>
+<p>This is your Brain on Rose-Coloured Glasses:</p>
+<p>http://www.cbc.ca/quirks/archives/08-09/qq-2009-06-20.html</p>
+<p>http://www.cbc.ca/quirks/media/2008-2009/mp3/qq-2009-06-20_04.mp3</p>
+<p>Sure, being in a good mood changes the way you see the world, but it also looks like it changes the way the brain works. Dr. Adam Anderson, an Assistant Professor of Psychology at the University of Toronto, has been using functional MRI to look at how the mood we&#8217;re in affects the way the brain works. Anderson had people look at a picture that either put them in a good mood or a bad mood, and then had them do a simple task that measured their attention. </p>
+<p>At the same time, he looked at their brain activation levels with the fMRI scans. It turns out that people in a positive mood took in more information about the world around them, while people in a negative mood took in less. Anderson says the brain is like a camera and the particular mood we&#8217;re in is kind of like a lens that determines how much of the world we see. The idea is that the way we perceive the world &#8212; and therefore think about it &#8212; is heavily influenced by our emotional state.</p>
+<p>The original paper (with a much less interesting title) is here:</p>
+<p>Opposing Influences of Affective State Valence on Visual Cortical Encoding</p>
+<p><a href="http://www.jneurosci.org/cgi/content/short/29/22/7199" target="_blank">Taylor W. Schmitz,1,2 Eve De Rosa,1,2,3 and Adam K. Anderson1,2,3</a> </p>
+<p>In the study distressed people, when asked to do a simple attention task, literally did not perceive visual information presented at the same time as the information involved in their task. In contrast, people in a good mood saw the task and non-task information. (Neither group was asked about this &#8212; the perception or non-perception was gaged via MRI tracking.) The interview is well worth a listen.</p>
+<p>The researcher also mentions that people with a wider grasp of data have been shown to be better at arriving at novel solutions to problems.</p>
+<p>My take-away from this is that anxiety makes people &#8220;stupid,&#8221; leads to poor decisions, and gives them tunnel vision. Therefore, I would say that anyone who stirs up your anxiety is not doing you a favour, whether that&#8217;s what they attend or not.</p>
+<p>Today we have an America full of stressed and anxious citizens. No wonder we have tea parties and rallies with people screaming about health care. And no wonder there&#8217;s such right-wing and business opposition to measures that would both save money, and also relieve citizens&#8217; worries. Relaxed, smart Americans are bad for the business model, don&#8217;cha know?<br />_______________________________________<br />by Noni Mausa</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/this-is-your-brain-on-rose-coloured-glasses.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

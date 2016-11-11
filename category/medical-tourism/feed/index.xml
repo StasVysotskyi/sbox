@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>medical tourism &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Medical Tourism and Importing Pharmaceuticals</title>
+		<link>./../../2008/03/medical-tourism-and-importing-pharmaceuticals.html</link>
+		<comments>./../../2008/03/medical-tourism-and-importing-pharmaceuticals.html#respond</comments>
+		<pubDate>Fri, 21 Mar 2008 11:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Health Insurance]]></category>
+		<category><![CDATA[importing pharmaceuticals]]></category>
+		<category><![CDATA[medical tourism]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/medical-tourism-and-importing-pharmaceuticals.html</guid>
+		<description><![CDATA[This is a post about 1) medical tourism and 2) importing pharmaceuticals from Canada. I heard something that piqued my interest the other day, so I did eight seconds worth of searching on-line and found this: While no one expects the Federal government to embrace medical tourism for Medicare or Medicaid reimbursement purposes, private insurance [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This is a post about 1) medical tourism and 2) importing pharmaceuticals from Canada.</p>
+<p>I heard something that piqued my interest the other day, so I did eight seconds worth of searching on-line and found <a href="http://www.imakenews.com/iln/e_article001011951.cfm">this</a>:</p>
+<blockquote><p>While no one expects the Federal government to embrace medical tourism for Medicare or Medicaid reimbursement purposes, private insurance companies are beginning to develop, and have already developed, plans that include a medical tourism component.</p></blockquote>
+<p>The article goes on, discussing some of the legal issues associated with medical tourism paid for by private insurance companies.  Its interesting, but I want to take this in a different direction:   consider the brouhaha about importing pharmaceuticals from Canada.  Pharmaceutical companies sell the same drugs in Canada (and pretty much else) for less &#8211; a lot less.  Thus, its cheaper to buy a given drug from Canada and ship it back to the US than it is to buy it in the US, even if it was designed and manufactured in the US.  But the argument made by the insurance companies and many folks on the right is that this would stifle innovation, because if you pay pharmaceutical companies only what they are willing to charge Canadians, they won&#8217;t develop new drugs.  </p>
+<p>But this argument should apply to medical tourism, which in effect sets a minimum baseline price on all sorts of procedures, including exotic ones like heart surgery and brain surgery.  (Horror of horrors, it also means that while abroad, the patient will be consuming pharmaceuticals sold at much lower costs than in the US market!)  To be consistent, those who oppose allowing consumers the option of importing pharmaceuticals from Canada should also be opposed to allowing people to travel abroad for surgery.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/medical-tourism-and-importing-pharmaceuticals.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

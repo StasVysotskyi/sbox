@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PPIP &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>I Told You So</title>
+		<link>./../../2010/10/i-told-you-so.html</link>
+		<comments>./../../2010/10/i-told-you-so.html#respond</comments>
+		<pubDate>Sat, 23 Oct 2010 14:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[FDIC]]></category>
+		<category><![CDATA[PPIP]]></category>
+		<category><![CDATA[TARP]]></category>
+		<category><![CDATA[Tim Geithner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/i-told-you-so.html</guid>
+		<description><![CDATA[Robert Waldmann is pleased to note that he was right and that Paul Krugman and Joeseph Stiglitz were wrongggg. They claimed that PPIP was a huge giveaway, because purchases of toxic assets would be 85% financed by no-recourse loans from the FDIC. I noted that this financing would only be available if the FDIC (not [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann is pleased to note that he <a href="http://www.angrybearblog.com/2009/05/bullet-dodged.html">was</a> <a href="http://www.angrybearblog.com/2009/03/geithner-plan-better-than-leaked.html">right</a> and that Paul Krugman and Joeseph Stiglitz were wrongggg.  They claimed that PPIP was a huge giveaway, because purchases of toxic assets would be 85% financed by no-recourse loans from the FDIC.  I noted that this financing would only be available if the FDIC (not just Treasury) agreed, and that the FDIC had no intention of being taken to the cleaners.</p>
+<p>Now I read that, so far, <a href="http://www.bloomberg.com/news/2010-10-22/ppip-funds-surge-36-on-average-in-first-year-treasury-says.html">PPIP has generated a 36% annual return for the Treasury.</a>  That&#8217;s not the point. The point is that it has generated approximately no profit or loss for the FDIC, because the FDIC refused to be played for suckers.  They key sentence is<br />
+<blockquote>The Treasury is an equal equity partner in each of the funds and provided debt financing for the $29.4 billion program.</p></blockquote>
+<p>Note that the acronym FDIC doesn&#8217;t appear.  </p>
+<p>*Sorry for the brief uninformative title.  I foolishly <a href="http://www.angrybearblog.com/2009/05/bullet-dodged.html">precommitted to the title</a>:<br />
+<blockquote>OK so Masaccio is a great painter but I don&#8217;t know if he is right about the final outcome of the legacy loan portion of the Geithner plan. If he is I will write a post entitled &#8220;I Told You So.&#8221;</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/i-told-you-so.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

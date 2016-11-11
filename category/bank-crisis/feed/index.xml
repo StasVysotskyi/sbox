@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bank Crisis &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Simon Johnson on Tim Geithner and Elizabeth Warren</title>
+		<link>./../../2011/03/simon-johnson-on-tim-geithner-and-elizabeth-warren.html</link>
+		<comments>./../../2011/03/simon-johnson-on-tim-geithner-and-elizabeth-warren.html#respond</comments>
+		<pubDate>Fri, 18 Mar 2011 12:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[Banks and Financial Institutions]]></category>
+		<category><![CDATA[Daniel Crawford]]></category>
+		<category><![CDATA[Great Recession]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/simon-johnson-on-tim-geithner-and-elizabeth-warren.html</guid>
+		<description><![CDATA[Simon Johnson offers pointed criticism of the role Timothy Geithner has played to date in the Great Recession and bank regulation, in particular as an advisor and architect to the Obama economic team and how that policy is presented and pursued in Congress. Another worthwhile read.]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://baselinescenario.com/2011/03/17/whos-afraid-of-elizabeth-warren/">Simon Johnson offers pointed criticism</a> of the role Timothy Geithner has played to date in the Great Recession and bank regulation, in particular as an advisor and architect to the Obama economic team and how that policy is presented and pursued in Congress.   Another worthwhile read.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/simon-johnson-on-tim-geithner-and-elizabeth-warren.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why didn&#8217;t CDO purchasers just pool for themselves ?</title>
+		<link>./../../2009/09/why-didnt-cdo-purchasers-just-pool-for-themselves.html</link>
+		<comments>./../../2009/09/why-didnt-cdo-purchasers-just-pool-for-themselves.html#respond</comments>
+		<pubDate>Mon, 21 Sep 2009 22:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[asymmetrical information]]></category>
+		<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[CDO]]></category>
+		<category><![CDATA[tranche]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/why-didnt-cdo-purchasers-just-pool-for-themselves.html</guid>
+		<description><![CDATA[Robert Waldmann One brief question about structured finance and a possible answer. Why did investors need financial operators to make pools for them ? Now it is easier to make sense of financial intermediaries which pool than of those which pool and tranche. The obvious explanation is that an investor investing a small amount of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>One brief question about structured finance and a possible answer.  Why did investors need financial operators to make pools for them ?   Now it is easier to make sense of financial intermediaries which pool than of those which pool and tranche.  The obvious explanation is that an investor investing a small amount of money can&#8217;t buy a diversified portfolio without paying absurd amounts in odd lot fees.</p>
+<p>However, this doesn&#8217;t seem to fit the CDO market.  Correct me in comments if I&#8217;m wrong, but I thought the final investors were entities with a good bit of money to invest &#8212; pension funds, endowments, insurance companies etc.  Importantly one can achieve almost as good a risk return portfolio buying only assets in a randomly chosen subset of say 10% of all assets.  The variance of a portfolio is a sum of say the market variance plus &#8230; plus idiosyncratic variance on single assets.  So a term which can&#8217;t be diversified away plus stuff plus terms which are proportional to the inverse of the number of assets in the portfolio.</p>
+<p>I have an idea.  People investing other people&#8217;s money in fixed income instruments do not like to pool, because it is too easy ex post to find a better portfolio of fixed income instruments.  Some will default.  The principal is likely to note one bond that defaulted and ask the manager why he bought that bond not the similar one which didn&#8217;t default.  </p>
+<p>Letting someone else pool means you get an asset which pays a fairly high fairly safe return and those ugly but unimportant specific underlying assets which defaulted are hiden from the principal&#8217;s eyes.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/why-didnt-cdo-purchasers-just-pool-for-themselves.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interlude</title>
+		<link>./../../2009/02/interlude.html</link>
+		<comments>./../../2009/02/interlude.html#respond</comments>
+		<pubDate>Wed, 18 Feb 2009 19:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[capital adequacy]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/interlude.html</guid>
+		<description><![CDATA[What my brain wants to do: Bank capitalisation, stress testing, book value, and discussion of other data that clearly indicates the need for the nationalisation of several LARGE banks. What my brain is currently capable of doing: The cheerleader who saves the world? Hayden Pantierre (Heroes) George W. Bush (ex-President of the USA) Christy Carlin [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>What my brain wants to do:</p>
+<p>Bank capitalisation, stress testing, book value, and discussion of other data that clearly indicates the need for the nationalisation of several LARGE banks.</p>
+<p>What my brain is currently capable of doing:
+<p></p>
+<div>
+<p>The cheerleader who saves the world?</p>
+<ul>
+<li><label for="4893727">Hayden Pantierre (Heroes)</label></li>
+<li><label for="4893728">George W. Bush (ex-President of the USA)</label></li>
+<li><label for="4893729">Christy Carlin Romano (Kim Possible)</label></li>
+</ul>
+<p><a href="http://www.acepolls.com/polls/842570-the-cheerleader-who-saves-the-world/results">View Results</a><br /><a href="http://www.acepolls.com/create">Create a Blog Poll</a></p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/interlude.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Maybe Songsmith isn&#8217;t Completely Useless after all</title>
+		<link>./../../2009/02/maybe-songsmith-isnt-completely-useless-after-all.html</link>
+		<comments>./../../2009/02/maybe-songsmith-isnt-completely-useless-after-all.html#respond</comments>
+		<pubDate>Sun, 08 Feb 2009 16:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[Mankiw]]></category>
+		<category><![CDATA[MSFT]]></category>
+		<category><![CDATA[safety net]]></category>
+		<category><![CDATA[social security]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/maybe-songsmith-isnt-completely-useless-after-all.html</guid>
+		<description><![CDATA[After the first round, I was convinced that Microsoft&#8217;s songsmith was at best, a way to produce mash-ups for the tonally impaired. Kieran Healy has convinced me otherwise, with this piece: capitalism in action, set to music: I believe this is what we meant when we talked about &#8220;creative destruction,&#8221; back in the days when [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After the first round, I was convinced that Microsoft&#8217;s songsmith was at best, a way to produce mash-ups for the tonally impaired.</p>
+<p><a href="http://www.kieranhealy.org/blog/archives/2009/02/05/paging-richard-macduff/">Kieran Healy has convinced me otherwise</a>, with this piece: capitalism in action, set to music:<br />
+
+</p>
+<p>I believe this is what we meant when we talked about &#8220;creative destruction,&#8221; back in the days when economists <a href="http://gregmankiw.blogspot.com/2009/02/my-preferred-fiscal-stimulus.html">weren&#8217;t just trying to eviscerate the safety net to &#8220;balance&#8221; the budget</a> (and whose <a href="http://outsidetheinterzone.blogspot.com/2009/02/8-years-of-tax-cuts.html">previous efforts worked so well</a> we should certainly have faith in their current proclamations).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/maybe-songsmith-isnt-completely-useless-after-all.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Legacy Merrill Lynch employees better hope BofA doesn&#8217;t declare bankrutcy before late June</title>
+		<link>./../../2009/01/legacy-merrill-lynch-employees-better-hope-bofa-doesnt-declare-bankrutcy-before-late-june.html</link>
+		<comments>./../../2009/01/legacy-merrill-lynch-employees-better-hope-bofa-doesnt-declare-bankrutcy-before-late-june.html#respond</comments>
+		<pubDate>Sun, 25 Jan 2009 01:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[corporate crime]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[governance]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/legacy-merrill-lynch-employees-better-hope-bofa-doesnt-declare-bankrutcy-before-late-june.html</guid>
+		<description><![CDATA[A correspondent notes CJR found a good scoop by the FT: Merrill Lynch paid out about $4 billion in bonuses just days before Bank of America took it over, the Financial Times says this morning. What raises the eyebrows is the timing: Merrill paid its bonuses before the year was even up, “an unusual step” [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A correspondent notes CJR found a <a target="_blank" href="http://www.cjr.org/the_audit/good_scoop_by_the_ft.php">good scoop by the FT</a>:<br />
+<blockquote>Merrill Lynch paid out about $4 billion in bonuses just days before Bank of America took it over, the Financial Times says this morning.</p>
+<p>What raises the eyebrows is the timing: Merrill paid its bonuses before the year was even up, “an unusual step” because bonuses in past years weren’t paid until late January or early February.</p></blockquote>
+<p>But, of course, by then, the bonuses would have been under the auspices of Bank of America, since that deal closed 1 January 2009.*</p>
+<p>My favorite pull quote combines issues of corporate governance, moral hazard, and risk (mis)management:<br />
+<blockquote>The timing is notable because the money was paid as Merrill’s losses were mounting and Ken Lewis, BofA’s chief executive, was seeking additional funds from the government’s troubled asset recovery programme to help close the deal.</p>
+<p>Merrill and BofA shareholders voted to approve the takeover on December 5. Three days later, Merrill’s compensation committee approved the bonuses, which were paid on December 29.</p></blockquote>
+<p>I&#8217;ve never been a believer in Ken Lewis&#8217;s alleged skills as a banker—his wins have been ones of sewlf-admitted collusion, while his &#8220;free market&#8221; purchases have generally been abject failures, the cost savings more than lost in knowledge failures—and this specific instance looks as if he got played badly.</p>
+<p>If BofA paid or is paying retention bonuses as well, Lewis should be terminated with extreme prejudice and the entire BofA board should be removed by the shareholders.** It&#8217;s not as if (<a href="http://www.nytimes.com/2009/01/24/business/24bank.html?hp=&#038;pagewanted=print">it is filled with crack financial wizards.</a>):<br />
+<blockquote>[T]he Bank of America board, whose ranks include the mayor of Spartanburg, S.C.; a retired general, Tommy R. Franks; and the former chairman and chief executive of Lowe’s&#8230;.</p></blockquote>
+<p>*BofA, memory serving, pays its bonuses in early February—but one somehow suspects that the question would not have been about the timing of the payments.</p>
+<p>**I was going to say &#8220;with pitchforks, if necessary,&#8221; but that might be taken as extremism, since we&#8217;re not talking about civilians.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/legacy-merrill-lynch-employees-better-hope-bofa-doesnt-declare-bankrutcy-before-late-june.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>If Ever There Were a Tipping Point in the Nationalisation Discussions&#8230;</title>
+		<link>./../../2009/01/if-ever-there-were-a-tipping-point-in-the-nationalisation-discussions.html</link>
+		<comments>./../../2009/01/if-ever-there-were-a-tipping-point-in-the-nationalisation-discussions.html#respond</comments>
+		<pubDate>Mon, 19 Jan 2009 20:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[Fiscal stimulus]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[Paul Krugman]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/if-ever-there-were-a-tipping-point-in-the-nationalisation-discussions.html</guid>
+		<description><![CDATA[Willem Buiter, whose early posts at Maverecon were the epitome of restraint, calls for nationalisation: By throwing cheap money with little conditionality at the banks, the Fed and the US Treasury may get bank lending going again. By subsidizing new capital injections, they reward bad porfolio choices by the existing shareholders. By letting the executive [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Willem Buiter, whose early posts at <a href="http://blogs.ft.com/maverecon/">Maverecon</a> were the epitome of restraint, <a href="http://blogs.ft.com/maverecon/2009/01/time-to-take-the-banks-into-full-public-ownership/">calls for nationalisation</a>:<br />
+<blockquote>By throwing cheap money with little conditionality at the banks, the Fed and the US Treasury may get bank lending going again.  By subsidizing new capital injections, they reward bad porfolio choices by the existing shareholders.  By letting the executive leadership and the board stay on, they further increase moral hazard, by rewarding  failed managers and boards that have failed in their fiduciary duties.  All this strengthens the incentives for future excessive risk taking.</p>
+<p>There is a better alternative. The alternative is to inject additional capital into the banks by taking all the banks into full public ownership.  With the state as sole owner, the existing top executives and the existing board members can be fired without any golden handshakes.  That takes care of one important form of moral hazard.  Although publicly owned, the banks would be mandated to operate on ordinary commercial principles.  Managers could be incentivised by linking remuneration to multi-year profitability. The incentives for excessive liquidity accumulation and for excessively cautious lending policies that exist for partially nationalised banks and for banks fearing nationalisation would, however, be eliminated.</p></blockquote>
+<p>He also addresses the sticking point on the formation of the &#8220;bad bank&#8221;: if the government already owns the assets, the sale price becomes an accounting question.  Not that that is necessarily good, but at least it limits some of the profiteering.</p>
+<p>Read <a href="http://blogs.ft.com/maverecon/2009/01/time-to-take-the-banks-into-full-public-ownership/">the whole thing</a>.</p>
+<p>Via <a href="http://krugman.blogs.nytimes.com/2009/01/19/minds-thinking-alike/">Krugman</a>, who was via <a href="http://angrybear.blogspot.com/2009/01/whats-in-water-in-chicago.html">Robert</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/if-ever-there-were-a-tipping-point-in-the-nationalisation-discussions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eliot L. Spitzer, is back</title>
+		<link>./../../2008/11/eliot-l-spitzer-is-back.html</link>
+		<comments>./../../2008/11/eliot-l-spitzer-is-back.html#respond</comments>
+		<pubDate>Mon, 17 Nov 2008 18:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[economic crisis]]></category>
+		<category><![CDATA[Eliot Spitzer]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/11/eliot-l-spitzer-is-back.html</guid>
+		<description><![CDATA[By: Divorced one like Bush I was wondering why Mr. Spitzer had not been heard from? Was his personal indiscretion so great that his knowledge and expertise would not trump such? He has an opinion at the Washington Post yesterday. The new president&#8217;s team must soon get to the root causes of the mistakes that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By: Divorced one like Bush</p>
+<p>I was wondering why Mr. Spitzer had not been heard from?  Was his personal indiscretion so great that his knowledge and expertise would not trump such?  </p>
+<p>He has an opinion at the <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/11/13/AR2008111303634.html?hpid=opinionsbox1">Washington Post yesterday</a>. </p>
+<blockquote><p>The new president&#8217;s team must soon get to the root causes of the mistakes that have brought us to the economic precipice. Yes, we have all derided the explosion of leverage, the failure to regulate derivatives, the flood of subprime lending that was bound to default and the excesses of CEO compensation. But these are all mere manifestations of three deeper structural problems that require greater attention: misconceptions about what a &#8220;free market&#8221; really is, a continuing breakdown in corporate governance and an antiquated and incoherent federal financial regulatory framework.</p></blockquote>
+<blockquote><p>One of the great advantages U.S. capital markets have enjoyed over the decades has been the view &#8212; held worldwide &#8212; that there was an underlying integrity to the representations market participants made, because the regulatory framework in which they were made was believed to provide genuine oversight. But as we all know, the laws requiring such integrity are meaningless without a government dedicated to enforcing them. </p>
+<p>We do not need additional fragmented areas of federal regulation to handle hedge funds, sovereign wealth funds or derivatives. We need a unified approach that addresses the underlying issues: what kinds of leverage we wish to tolerate, how to measure risk, how much disclosure various trading products should provide.</p>
+<p>Three overarching priorities should guide government actions in the new structure. First, we need better control of systemic risk.<br />Second, investors must be protected with adequate, accurate information. Firms must offer transparency both to individual investors and to government regulators. <br />[third]&#8230;we will have to step back from the current environment in which government has become a guarantor of all major risk. The so-called moral hazard will serve to devalue risk in the market, and this too will have a debilitating long-term effect on capital flows. Only if private actors have to bear the real risks they incur will the market function properly. We are now perilously close to nationalizing risk.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/11/eliot-l-spitzer-is-back.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dear US Citizen, It is your labor being conscripted</title>
+		<link>./../../2008/09/dear-us-citizen-it-is-your-labor-being-conscripted.html</link>
+		<comments>./../../2008/09/dear-us-citizen-it-is-your-labor-being-conscripted.html#respond</comments>
+		<pubDate>Fri, 26 Sep 2008 19:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[draft]]></category>
+		<category><![CDATA[labor]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/dear-us-citizen-it-is-your-labor-being-conscripted.html</guid>
+		<description><![CDATA[by Divorced one like Bush I just have to get this out because I fear we will not learn from this experience if we do not face up to what really is being put on the line in this crisis: Our labor. I am angry. And I am making this personal. It is personal. I&#8217;m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Divorced one like Bush</p>
+<p>I just have to get this out because I fear we will not learn from this experience if we do not face up to what really is being put on the line in this crisis: Our labor.   I am angry.  And I am making this personal.  It is personal.  I&#8217;m speaking to you We the People.</p>
+<p>What every solution is proposing in its most boiled down pure form is the conscription of our labor.  It is nothing less.  Only, it is not conscription for altruistic reasons.  It is conscription in service of the most basic of needs: survival.  </p>
+<p>From this point forward, any gains in productivity will no longer be applied  in total toward our quest for a more perfect union and the pursuit of happiness.   Think about how much progress will  have to be made in labor productivity rise just to offset the $900 billion already tallied and the now additional $700 billion such that we do not lose our current standard of living.  If we can not make the increase, how much lost standard of living does this represent?   How much more do I have to work, or how much of what I work now will go toward this crisis resolution instead of bettering my life?  These are the questions we as citizens should be asking.  It&#8217;s not like we can all just pay this off by writing a check from our savings.  Even if we could, it represents future gains in our personal growth lost.</p>
+<p>It is not  money.  It is not the taxes to be paid.  It is not the wealth lost.  It is the most basic of human life sustaining and rewarding experiences being taken: labor.  Our labor.   That which provided the bases for the value of our nation&#8217;s worth. </p>
+<p>That this crisis resolution is being talked about in dollars does a complete injustice to all of the labor that has come prior to this historic moment.  The failure of the system, the loss of value, the loss of the integrate of the system is a testament to the abuse (physical and emotional) that the US citizen has been enduring.  That the discussions (and I understand that we have to discuss the mechanics to resolve the crisis) by our elected does not come from the perspective that it is our labor being taken, being assigned is the lie we have allowed ourselves to live.  We have not made what takes place in our country personal. It is always abstract in our national discussions.  </p>
+<p>WAKE UP! KNOCK, KNOCK, HELLOOOOOOOO&#8230;this is real.  This is happening.  You are going to be working, laboring, sweating, getting tired, getting fustrated, longer years of work, more worn out in our retirement from now on.  No one else is going to be paying this off.  You and I will be paying this off.</p>
+<p>It is our fault too, because we are the government. WE ARE THE GGOVERNMENT!  (Please keep saying this until it is as natural an understanding as is drinking water to stay healthy.)  And, that is the dichotomy to this crisis.  In the end the abuse we have endured, the labor we have wasted, the labor we will now forfeit to future social maturity is our own damn fault because, for what ever reason or excuse, we failed to labor within the primary structure of our life&#8217;s existence that supports all we believed about our wealth: One Voice, One vote.</p>
+<p>So learn the lesson.  Remember the lesson.  Teach the lesson.  To not learn, to forget is to forfeit via conscription your most personal possession: Your labor.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/dear-us-citizen-it-is-your-labor-being-conscripted.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Paulson and Bernanke loan interview</title>
+		<link>./../../2008/09/paulson-and-bernanke-loan-interview.html</link>
+		<comments>./../../2008/09/paulson-and-bernanke-loan-interview.html#respond</comments>
+		<pubDate>Fri, 26 Sep 2008 18:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[Bernanke]]></category>
+		<category><![CDATA[Daily Show]]></category>
+		<category><![CDATA[Paulson]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/paulson-and-bernanke-loan-interview.html</guid>
+		<description><![CDATA[by divorced one like Bush So, they want a loan&#8230;]]></description>
+				<content:encoded><![CDATA[<p>by divorced one like Bush</p>
+<p>So, they want a loan&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/paulson-and-bernanke-loan-interview.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

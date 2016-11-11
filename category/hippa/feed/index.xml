@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HIPPA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Health Care thoughts: Privacy and Security</title>
+		<link>./../../2011/01/health-care-thoughts-privacy-and-security.html</link>
+		<comments>./../../2011/01/health-care-thoughts-privacy-and-security.html#respond</comments>
+		<pubDate>Fri, 14 Jan 2011 03:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care thoughts]]></category>
+		<category><![CDATA[HIPPA]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/health-care-thoughts-privacy-and-security.html</guid>
+		<description><![CDATA[by Tom aka Rusty Rustbelt Health Care: Privacy and SecurityTechnology both enabled these offenses and enabled the discovery of the offenses. First: Three employees and a contract nurse were terminated from the Tuscon University Medical Center for looking at medical records of the Tuscon shooting victims. None are accused of leaking any information. Second: Darling [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom aka Rusty Rustbelt</p>
+<p><strong>Health Care: Privacy and Security</strong><br />Technology both enabled these offenses and enabled the discovery of the offenses.</p>
+<p><strong>First:</strong></p>
+<p>Three employees and a contract nurse were terminated from the Tuscon University Medical Center for looking at medical records of the Tuscon shooting victims. None are accused of leaking any information.</p>
+<p><strong>Second</strong>:</p>
+<p>Darling daughter called me this week during the 11 o&#8217;clock news. Ohio Health had announced that patient data from Grant Hospital in Columbus had been compromised. She has been a patient there in the last six months.</p>
+<p>An employee had stolen computers from the IT inventory, attempted to wipe the hard drives and then to sell the computers. Whatever data was lost was encrypted and the probability of a compromise is low, but Grant will be required to do the full court press on HIPAA security procedures (at no small cost).</p>
+<p>Tom aka Rusty Rustbelt</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/health-care-thoughts-privacy-and-security.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

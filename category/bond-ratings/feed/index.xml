@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bond ratings &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Ratings Matter for the Euro Area</title>
+		<link>./../../2012/01/ratings-matter-for-the-euro-area.html</link>
+		<comments>./../../2012/01/ratings-matter-for-the-euro-area.html#respond</comments>
+		<pubDate>Tue, 17 Jan 2012 00:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bond ratings]]></category>
+		<category><![CDATA[bonds; debt; ECB; Eurozone]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/ratings-matter-for-the-euro-area.html</guid>
+		<description><![CDATA[As you all have heard, Friday was (again) S&#038;P&#8217;s day in the limelight. The rating agency downgraded over half of the 16 Euro area countries put on credit watch negative in December 2011. A quick look at my feed shows several takes on S&#038;P&#8217;s action: the Economist&#8217;s Free Exchange comments on the now soft-core country, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As you all have heard, Friday was (<a href="http://www.standardandpoors.com/servlet/BlobServer?blobheadername3=MDT-Type&#038;blobcol=urldata&#038;blobtable=MungoBlobs&#038;blobheadervalue2=inline%3B+filename%3DUS_Downgraded_AA%2B.pdf&#038;blobheadername2=Content-Disposition&#038;blobheadervalue1=application%2Fpdf&#038;blobkey=id&#038;blobheadername1=content-type&#038;blobwhere=1243942957443&#038;blobheadervalue3=UTF-8">again</a>) S&#038;P&#8217;s day in the limelight. The rating agency <a href="http://www.standardandpoors.com/ratings/articles/en/us/?articleType=HTML&#038;assetID=1245327294763">downgraded over half of the 16 Euro area countries</a> put on credit watch negative in December 2011. A quick look at my feed shows several takes on S&#038;P&#8217;s action: the <a href="http://www.economist.com/blogs/freeexchange/2012/01/euro-zone-crisis">Economist&#8217;s Free Exchange</a> comments on the now soft-core country, France; <a href="http://curiouscapitalist.blogs.time.com/2012/01/16/what-sps-downgrades-mean-for-the-euros-future/">Michael Schuman hammers</a> out the implications of the EA policy makers&#8217; &#8216;misguided&#8217; approach; <a href="http://globalspin.blogs.time.com/2012/01/13/as-france-gets-downgraded-sarkozys-re-election-chances-get-slimmer/">Bruce Crumley</a> (h/t Schuman) sees problems for Sarkozy; and as always, one of my favorite authors, <a href="http://www.economonitor.com/edwardhugh/2012/01/16/the-massendowngrade-effect/">Edward Hugh, </a>eloquently characterizes the downgrades in the context of the real economy.<a name="more"></a></p>
+<p>However, there&#8217;s one curt take on the downgrade that I disagree with. <a href="http://econospeak.blogspot.com/2012/01/irrelevance-of-bond-ratings.html">Barkley Rosser</a> at EconoSpeak (h/t <a href="http://www.angrybearblog.com/2012/01/irrelevance-of-bond-ratings.html">Angry Bear</a>) compares the downgrade of France and Austria from AAA to AA+ as the same as a downgrade to the US or Japan. Furthermore, his title implies that these downgrades are irrelevant. I wholly disagree. There is one simple reason for this: France and Austria are subject to high rollover risk, while the US and Japan are not. Why? Because France and Austria do not have monetary autonomy over the currency in which their debt is issued (euros, to which the ECB holds the right to supply), so all debt issued can be treated as foreign-currency debt. Debt issued by the US and Japan is primarily local-currency debt.</p>
+<p>A bit of background on ratings. When S&#038;P, for example, changes its rating for a country, the rating that market participants (and the press) usually discuss is the foreign-currency rating. There&#8217;s another rating, the local-currency rating, that is used to quantify the risk associated with bonds denominated in the currency issued by the monetary authority. Now, for countries like the US and Japan, where the lion&#8217;s share of its debt issuance is denominated in its local currency, foreign-currency ratings are largely meaningless. The central banks in the US and Japan can always monetize debt issuance when needed. However, for any country in the Euro area (even Germany), debt is issued in a currency over which it has no effective control. Therefore, the foreign-currency rating is the one that matters.</p>
+<p>For foreign-currency ratings, external indebtedness and leverage trajectories are key metrics. The next couple of quarters are likely to show either an improvement or deterioration in these metrics. If the real economy has not stabilized &#8211; <a href="http://www.ecb.int/press/pressconf/2012/html/is120112.en.html">the ECB desperately hopes</a> it has &#8211; and turns downward in coming months and quarters, creditors in euros will favor the markets with the higher credit metrics, Germany, Netherlands, and Finland relative to those with lower metrics, France and Austria. Better put: if the growth trajectory is worse than expected &#8211; <a href="http://www.ecb.int/stats/prices/indic/forecast/html/table_3_2011q4.en.html">the 63 respondents to the ECB&#8217;s Q4 Survey of  Professional Forecasters</a> expect +0.8% GDP growth in 2012 &#8211; spreads to <a href="http://www.bloomberg.com/apps/quote?ticker=GDBR10:IND">German bunds</a> http://www.blogger.com/img/blank.gif(the only remaining AAA with a stable outlook, as rated by S&#038;P) will rise.</p>
+<p>Ratings do matter for the EA countries. S&#038;P&#8217;s action is a harbinger of <a href="http://www.ft.com/intl/cms/s/0/987fd2fe-3ddc-11e1-91ba-00144feabdc0.html?ftcamp=rss#axzz1jdgb6if3">bad economic and political things to come</a>, not lower rates.</p>
+<p>This post was originally published on my Roubini Global EconoMonitor blog, <a href="http://www.economonitor.com/rebeccawilder/2012/01/16/ratings-matter-for-the-euro-area/">The Wilder View</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/ratings-matter-for-the-euro-area.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

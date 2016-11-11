@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>food supply &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Letting the Fox Guard the Henhouse&#8230;not a metaphor!</title>
+		<link>./../../2012/05/letting-the-fox-guard-the-henhouse-not-a-metaphor.html</link>
+		<comments>./../../2012/05/letting-the-fox-guard-the-henhouse-not-a-metaphor.html#respond</comments>
+		<pubDate>Wed, 23 May 2012 16:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[food supply]]></category>
+		<category><![CDATA[omb]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/letting-the-fox-guard-the-henhouse-not-a-metaphor.html</guid>
+		<description><![CDATA[Cost savings?  I don&#8217;t know much about this industry except for the press, but I am thinking switching to vegan style, except Monsanto comes to mind. (Turn on being flip switch).  Instead of an answer. I would ask two beginning questions:  Is this a trend?  Should I be increasingly concerned about our supply chain? From [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Cost savings?  I don&#8217;t know much about this industry except for the press, but I am thinking switching to vegan style, except Monsanto comes to mind. (Turn on being flip switch).  Instead of an answer. I would ask two beginning questions:  Is this a trend?  Should I be increasingly concerned about our supply chain?</p>
+<p>From OMB Watch alert <a href="http://www.ombwatch.org/node/12039" target="_blank">Letting the Fox Guard the Hen house</a>:</p>
+<blockquote><p>The U.S. Department of Agriculture&#8217;s (USDA) Food Safety and Inspection Service (FSIS) made the front page of The New York Times this week for its proposal to change the way chickens and other poultry are inspected in processing plants before they are sent to supermarkets and butcher shops all across the country. In January, the agency published a controversial new proposal that would shift responsibility for inspections away from agency inspectors and allow employees of the slaughtering plants to judge their own handiwork. We’re not the only ones who think asking chicken producers to police themselves might be a bad idea.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/letting-the-fox-guard-the-henhouse-not-a-metaphor.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

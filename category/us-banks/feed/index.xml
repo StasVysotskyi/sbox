@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>US banks &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Too efficient NOT to consolidate</title>
+		<link>./../../2009/12/too-efficient-not-to-consolidate.html</link>
+		<comments>./../../2009/12/too-efficient-not-to-consolidate.html#comments</comments>
+		<pubDate>Mon, 07 Dec 2009 00:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[US banks]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/too-efficient-not-to-consolidate.html</guid>
+		<description><![CDATA[Cross-posted at News N Economics blog, by Rebecca Here’s yet another historical record broken in 2009: “Only three insured institutions were chartered in the [third] quarter, the smallest quarterly total since World War II.” This fact is from the FDIC’s latest Quarterly Banking Profile. There are probably non-economic reasons for this, i.e., the application process [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Cross-posted at News N Economics blog, by Rebecca</p>
+<p>Here’s yet another historical record broken in 2009:<br />
+<blockquote>“Only three insured institutions were chartered in the [third] quarter, the smallest quarterly total since World War II.”</p></blockquote>
+<p> This fact is from the FDIC’s latest <a href="http://www2.fdic.gov/qbp/2009sep/qbp.pdf">Quarterly Banking Profile</a>. There are probably non-economic reasons for this, i.e., the application process to qualify as a new charter institution (see the types of charters here) is likely much more stringent than in previous years; but nevertheless, this fact reiterates the trend in the number of banking institutions, most definitely down.</p>
+<p><a href="http://4.bp.blogspot.com/_Et4TQ-a0gGU/SxwZ3FyBMfI/AAAAAAAACpA/3i-vFcvEpdA/s1600-h/bank__fail_chart.png"><img src="http://4.bp.blogspot.com/_Et4TQ-a0gGU/SxwZ3FyBMfI/AAAAAAAACpA/3i-vFcvEpdA/s320/bank__fail_chart.png" alt="" border="0"></a>The FDIC is awash in problem institutions. The well reported number of bank failures jumped to 132 in 2009 (as of November 20, and you can find the data <a href="http://www2.fdic.gov/hsob/SelectRpt.asp?EntryTyp=30">here</a>). However, that’s just share of the much larger “problem”. According to the same quarterly profile, there are now 552 “Problem” institutions in the FDIC charter system holding $346 billion of assets on balance – that’s 2.4% of <a href="http://bea.gov/national/index.htm#gdp">nominal GDP</a>.<a name="more"></a></p>
+<p>As such, it seems that consolidation is all but a foregone conclusion. But watch out, because the new 4-letter-style phrase, “too big to fail”, is heavy on the tongues of US policymakers. Senator Bernard Sanders (Vermont) introduced the “Too Big To Fail Is Too Big to Exist” bill last month, which defines such an institution as (see the bill <a href="http://sanders.senate.gov/files/AYO09C99.pdf">here</a>):<br />
+<blockquote>&#8220;any entity that has grown so large that its failure would have a catastrophic effect on the stability of either the financial system or the United States economy without substantial Government assistance.&#8221;</p></blockquote>
+<p>Ahem, so how big is that? Peter Boone and Simon Johnson at the <a href="http://baselinescenario.com/2009/11/26/how-big-is-too-big/">Baseline Scenario</a> define “too big to fail” as bank liabilities amounting to 2% of GDP (roughly):<br />
+<blockquote>&#8220;So to us, 2 percent of G.D.P. seems about right. This would mean every bank in our country would have no more than about $300 billion of liabilities.</p>
+<p>A large American corporation would still be able to do all its transactions using several banks. They would even be better off — competition would ensure that margins are low and the banks give the corporates a good deal. This would help end the situation where banks take an ever-increasing share of profits from our successful nonfinancial corporations (as seen in the rising share of <a href="http://www.theatlantic.com/doc/200905/imf-advice">bank value added in G.D.P. in recent decades</a>).&#8221;</p></blockquote>
+<p>But there are economic efficiencies, like scale economies, that need to be considered. David C. Wheelock and Paul W. Wilson at the St. Louis Fed find statistically significant increasing returns to scale (i.e., bigger banks, lower costs) in the US banking system. They use a non-parametric estimator to estimate a model of bank costs and find the following (<a href="http://research.stlouisfed.org/wp/2009/2009-054.pdf">link to paper</a>, and bolded font by yours truly):<br />
+<blockquote>&#8220;The present paper adds to a growing body of evidence that banks face increasing returns over a large range of sizes. We use nonparametric local linear estimation to evaluate both ray-scale and expansion-path scale economies for a panel data set comprised of quarterly observations on all U.S. commercial banks during 1984-2006. Using either measure, we find that most U.S. banks operated under increasing returns to scale. The fact that most banks faced increasing returns as recently as 2006 suggests that the U.S. banking industry will continue to consolidate and the average size of U.S. banks is likely to continue to grow unless impeded by regulatory intervention. Our results thus indicate that while regulatory limits on the size of banks may be justified to ensure competitive markets or to limit the number of institutions deemed too-big-to-fail, preventing banks from attaining economies of scale is a potential cost of such intervention.&#8221;</p></blockquote>
+<p>Better put: the cost of consumer and firm loans will be higher in the long run if too much intervention prevents the banking system from capturing scale economies. Furthermore, they suggest that even the largest institutions experience increasing returns (i.e., <a href="http://www.ffiec.gov/nicpubweb/nicweb/Top50Form.aspx">these</a>).</p>
+<p>I should say that I have absolutely no experience in non-parametric estimation and cannot vouch for the econometrics. However, the results are timely; and furthermore, the Federal Reserve Bank of St. Louis&#8217; <a href="http://research.stlouisfed.org/econ/">economics research</a> is well-regarded. Point: I trust it.</p>
+<p>As a note, David Wheelock wrote a very interesting piece a while back about the inefficiencies of mortgage foreclosure moratoria during the Great Depression …interesting stuff (paper <a href="http://research.stlouisfed.org/wp/2008/2008-038.pdf">link here</a>).</p>
+<p>Rebecca Wilder</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/too-efficient-not-to-consolidate.html/feed/index.html</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

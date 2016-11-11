@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BofA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Bank of America, Kafka, and I &#8211; A Continuing Relationship</title>
+		<link>./../../2011/11/bank-of-america-kafka-and-i-a-continuing-relationship.html</link>
+		<comments>./../../2011/11/bank-of-america-kafka-and-i-a-continuing-relationship.html#respond</comments>
+		<pubDate>Sun, 20 Nov 2011 21:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BofA]]></category>
+		<category><![CDATA[foreclosures]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/bank-of-america-kafka-and-i-a-continuing-relationship.html</guid>
+		<description><![CDATA[by Mike Kimel Bank of America, Kafka, and I &#8211; A Continuing Relationship A year and a half ago I wrote a post about how Countrywide, by then a division of Bank of America, had filed to foreclose on our home, apparently on the basis that someone with a similar name to the previous owner [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p>Bank of America, Kafka, and I &#8211; A Continuing Relationship</p>
+<p>A year and a half ago I wrote a post about how Countrywide, by then a division of Bank of America, had <a href="http://www.angrybearblog.com/2010/07/countrywide-goes-kafka-first-person.html">filed to foreclose on our home,</a> apparently on the basis that someone with a similar name to the previous owner of the home owed them money.  Needless to say, we were surprised given that a) we had no relationship with B of A, b) we had made a point to always pay more than was due on our mortgage each month, c) nobody with the name of the person they were trying to collect from had ever owned the home (I&#8217;ve seen the property records going back to when the house was built) and d) as surreal and the whole thing was, we had to hire an attorney to make the whole mess go away.</p>
+<p>In part because of that experience, some time after that my wife and I closed out all of our B of A accounts.  Or so I thought.  In the process of closing out my account, our account balance by definition became zero.  This is important because when one&#8217;s balance is below $2,500, one is charged a monthly service fee.  Apparently, we have been assessing monthly service fees since the point where we thought we closed our accounts.  It seems that now we are carrying a negative balance that happens to equal a multiple of the service fee on an account that I closed a while ago.  <br /><a name="more"></a><br />Now, the Supreme Court has stated that corporations are essentially similar to a person.  But imagine if a person did something like this.  Imagine what would happen to me, for instance, if I filed papers to foreclose on a branch of B of A using, as an excuse, the fact that someone that B of A had no relationship with owed me money.  And what would happen if I followed that up some time later by sending B of A a bill for services they not only had not requested, but had been most vehement that they didn&#8217;t want.  In addition to being charged with fraud, I imagine at this point it would also be considered harassment.  </p>
+<p>In general, a human being behaving this way would face consequences.  Even a human being well-connected enough not to have to worry about being arrested by the cops or prosecuted by the DA still has to worry about whether the next time his intended victim would be waiting with a shotgun.  B of A, on the other hand, truly has no constraints on its behavior.  No matter how unprofitable its behavior, it has been deemed too big to fail.  And society, having made the decision to privilege some sociopaths, also implicitly made the decision that everyone else qualifies as prey.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/bank-of-america-kafka-and-i-a-continuing-relationship.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

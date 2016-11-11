@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hacked email account &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>I’m sooooo not happy that my main email account was hacked today&#8230;</title>
+		<link>./../../2013/02/im-sooooo-not-happy-that-my-main-email-account-was-hacked-today.html</link>
+		<comments>./../../2013/02/im-sooooo-not-happy-that-my-main-email-account-was-hacked-today.html#respond</comments>
+		<pubDate>Sun, 10 Feb 2013 21:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[hacked email account]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/im-sooooo-not-happy-that-my-main-email-account-was-hacked-today.html</guid>
+		<description><![CDATA[… but I’m really grateful that so many friends and acquaintances, including Dan C., have let me know.  (My favorite, from my friend “A”: “Beverly, someone is sending spam around in your name!”) I’m luckier than the Bush family, though.  At least whoever hacked my account just wanted to use my email identity to try [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>… but I’m really grateful that so many friends and acquaintances, including Dan C., have let me know.  (My favorite, from my friend “A”: “Beverly, someone is sending spam around in your name!”) </p>
+<p>I’m luckier than <a href="http://www.nytimes.com/2013/02/10/opinion/sunday/dowd-im-begging-dont-hack-the-hacks.html?_r=0">the Bush family</a>, though.  At least whoever hacked my account just wanted to use my email identity to try to sell a diet plan, not send photos of me in the shower or shaving (my legs).  Much less, send pictures I’ve painted (with finger paints, back in kindergarten). </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/im-sooooo-not-happy-that-my-main-email-account-was-hacked-today.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

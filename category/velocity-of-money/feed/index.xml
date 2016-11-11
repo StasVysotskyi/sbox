@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>velocity of money &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Paul Krugman is Very, Very Wrong</title>
+		<link>./../../2012/04/paul-krugman-is-very-very-wrong.html</link>
+		<comments>./../../2012/04/paul-krugman-is-very-very-wrong.html#respond</comments>
+		<pubDate>Sat, 21 Apr 2012 00:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[money supply]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/paul-krugman-is-very-very-wrong.html</guid>
+		<description><![CDATA[by Mike Kimel Update &#8230;Since this post has gotten a lot of attention, jump here for myfinal word on this topic. I&#8217;m sure I&#8217;m missing something here, because Paul Krugman is so often extremely perceptive, but I think here he is very, very wrong. He writes: The naive (or deliberately misleading) version of Fed policy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://presimetrics.com/">Mike Kimel</a></p>
+<p>Update &#8230;Since this post has gotten a lot of attention, jump here for <a href="http://www.angrybearblog.com/2012/04/they-also-serve-who-only-stand-and.html">my<br />final word</a> on this topic.</p>
+<p>I&#8217;m sure I&#8217;m missing something here, because Paul Krugman is so often extremely perceptive, but I think <a href="http://krugman.blogs.nytimes.com/2012/04/20/plutocrats-and-printing-presses/">here</a> he is very, very wrong.  He writes:<br />
+<blockquote>The naive (or deliberately misleading) version of Fed policy is the claim that Ben Bernanke is “giving money” to the banks. What it actually does, of course, is buy stuff, usually short-term government debt but nowadays sometimes other stuff. It’s not a gift.</p>
+<p>To claim that it’s effectively a gift you have to claim that the prices the Fed is paying are artificially high, or equivalently that interest rates are being pushed artificially low. And you do in fact see assertions to that effect all the time. But if you think about it for even a minute, that claim is truly bizarre.</p></blockquote>
+<p>Um, I dunno.  Perhaps on specific day to day operations Ben B. is not giving money to the banks, but things look very different with a 30,000 foot view.  (I suspect &#8220;the banks&#8221; most people mean if they say there are  giveaways going on are not all banks but rather a small subset of basket cases.) Remember the toxic asset purchase?  When the Fed spends over a trillion bucks paying the face value for securities whose real worth has declined to a fraction of that face value, to me that is both an expansion of the money supply and a give-away to those from whom one &#8220;purchases&#8221; those assets.  There have been any number of similar, er, programs the Fed has run in the last few years which have had the same purpose:  injecting money into a small number of entities that made extremely bad lending decisions in ways that specifically avoid making those entities pay any sort of market or reasonable price for that money.  </p>
+<p>That isn&#8217;t the only error in Krugman&#8217;s post.  He also tells us this:</p>
+<blockquote><p>Furthermore, Fed efforts to do this probably tend on average to hurt, not help, bankers. Banks are largely in the business of borrowing short and lending long; anything that compresses the spread between short rates and long rates is likely to be bad for their profits. And the things the Fed is trying to do are in fact largely about compressing that spread, either by persuading investors that it will keep short rates at zero for a longer time or by going out and buying long-term assets. These are actions you would expect to make bankers angry, not happy — and that’s what has actually happened.</p></blockquote>
+<p>Yes, the Fed is sending a message that it well keep short rates at zero for a while longer.  But which short rates and which long rates is Krugman talking about?  Because banks can borrow at one rate &#8211; the effective federal funds rate, and they loan money to the public at a number of other rates. </p>
+<p>I wandered over to FRED, the economic database of the St. Louis Fed and downloaded the <a href="http://research.stlouisfed.org/fred2/series/FF/downloaddata?cid=118">Effective Federal Funds rate</a> and the <a href="http://research.stlouisfed.org/fred2/series/MORTGAGE30US/downloaddata?cid=114">Average 30-Year Mortgage rate</a>, which should be a good representation of a long rate used in loans by banks to the public.</p>
+<p>The thirty-year mortgage is first reported on 5/7/1976 and is reported weekly thereafter.  The FF tends to be reported a day or two earlier or later depending on the week, holiday schedules, and the like.  Here&#8217;s what the 30-year Mortgage less the Fed Funds rate looks going back that far:</p>
+<p><a href="http://3.bp.blogspot.com/-OUdCp7RhdLw/T5H7FSkCmgI/AAAAAAAAA8M/UDbjyZG5ahE/s1600/Krugman%2BPost%252C%2BFigure%2B1.jpg"><img alt="" border="0" src="http://3.bp.blogspot.com/-OUdCp7RhdLw/T5H7FSkCmgI/AAAAAAAAA8M/UDbjyZG5ahE/s320/Krugman%2BPost%252C%2BFigure%2B1.jpg"></a></p>
+<p>As is evident from the graph, whatever the Fed has been doing since the recession began in December of 2007, it isn&#8217;t compressing the spread between the 30-year mortgage rate and the Fed Funds rate.  </p>
+<p>Perhaps things might look different if the Fed followed more of a Banco do Brasil model, where the public could borrow directly from the Central Bank.  But as things stand, pace Krugman, the Fed&#8217;s interventions since the recession began have only increased the spread between the rate at which banks can borrow and the rate at which they can loan out money.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/paul-krugman-is-very-very-wrong.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>About That, er, Monetary Expansion&#8230;</title>
+		<link>./../../2011/10/about-that-er-monetary-expansion.html</link>
+		<comments>./../../2011/10/about-that-er-monetary-expansion.html#respond</comments>
+		<pubDate>Sun, 09 Oct 2011 12:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[Bernanke]]></category>
+		<category><![CDATA[excess reserves]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/about-that-er-monetary-expansion.html</guid>
+		<description><![CDATA[Brad DeLong has a spat with Scott Sumner: The IS-LM model led economic historians to argue money was easy in 1929-30, because rates fell sharply. It led modern Keynesians to assume that money was easy in 2008, because rates fell sharply&#8230; Well, I would say that not just &#8220;modern Keynesians&#8221; but a lot of people [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Brad DeLong <a href="http://delong.typepad.com/sdj/2011/10/is-lm-watch-in-the-country-of-the-one-eyed-the-self-blinded-man-is-in-bad-shape-department.html">has a spat with Scott Sumner</a>:</p>
+<blockquote><blockquote>The IS-LM model led economic historians to argue money was easy in 1929-30, because rates fell sharply. It led modern Keynesians to assume that money was easy in 2008, because rates fell sharply&#8230;</p></blockquote>
+<p>Well, I would say that not just &#8220;modern Keynesians&#8221; but a lot of people believed that monetary policy was expansionary in 2008.</p>
+<p>They believed so not just because (safe) nominal (and real) interest rates were falling, but because the money supply was expanding. Indeed, since 2007 the Federal Reserve has tripled the monetary base</p></blockquote>
+<p><a name="more"></a></p>
+<p>But there remains a reason I suggest that cutting off Tim Geithner&#8217;s (and/or Ben Bernanke&#8217;s) private parts, stuffing them into his mouth, and perp-walking him publicly down Dewy Square* would be a good re-election move for the Obama Administration, and it comes back to basic economics. Specifically, Brad DeLong&#8217;s favorite monetary equation</p>
+<p>
+<blockquote>MV = PY</p></blockquote>
+<p>Now, most of the time, we derive V—Velocity. We kinda sorta hafta. The velocity of money is not something that you really observe directly; to solve the equation for V(i), we have to know Y, P, and M.</p>
+<p>But then we&#8217;re making assumptions about them. Two of them are probably reasonable:</p>
+<p>
+<blockquote>Y = GDP (or GNP if you add in XM, but let&#8217;s not). We shorthand this as &#8220;aggregate output.&#8221; Even if we weren&#8217;t pretending it&#8217;s constant in the short-term, we can fairly well define this and hold to the definition. GDP=GDP, as it were.</p>
+<p>P = Price Level. This is slightly more difficult conceptually, because we aren&#8217;t going to include everything. But if we assume (short-term) that the &#8220;market basket&#8221; is constant (or at least fungible**), we can come up with a representative index level and just treat this as &#8220;inflation.&#8221;</p></blockquote>
+<p>The third, however, is more problematic:</p>
+<p>
+<blockquote>M is the Base Money Supply, <em>which is circulating</em>.</p></blockquote>
+<p>Recall that V = Velocity, or, the number of times in a year that a dollar is spent, a definition that led to Keynes&#8217;s observation that V isn&#8217;t so much a constant (pace Fisher) as dependent on interest rates—V(i). This doesn&#8217;t (or, more accurately, shouldn&#8217;t) change much in the short-term, even at the zero-bound.</p>
+<p>But &#8220;velocity&#8221; assumes money is circulating, which why it is multiplied by the Monetary Base from the start. If the monetary base has all the mobility of an overBotoxed actor&#8217;s face, we&#8217;re going to have a problem. I would call the following graphic &#8220;Where&#8217;s the Real Increase in the Monetary Base?&#8221;</p>
+<p><a href="http://3.bp.blogspot.com/-uYr4lzQEQBg/TpDpoHlYIII/AAAAAAAAAmA/cUkphxKcFTI/s1600/BASE%2Band%2BEXCRESNS.PNG"><img border="0" alt="" src="http://3.bp.blogspot.com/-uYr4lzQEQBg/TpDpoHlYIII/AAAAAAAAAmA/cUkphxKcFTI/s320/BASE%2Band%2BEXCRESNS.PNG"></a></p>
+<p>The above graphic is Ben Bernanke&#8217;s fault. And even Brad DeLong knows this. The proof below the fold.</p>
+<p>Or, at least, he strongly suggests he does, <a href="http://delong.typepad.com/sdj/2011/10/david-wessel-on-what-the-fed-might-do-and-i-think-ought-to-have-already-done.html">citing WSJ columnist David Wessel</a>:</p>
+<p></p>
+<blockquote><p>The Fed is not out of ammo, the economists at the Bank Credit Analyst insist&#8230;</p>
+<p>The three:</p>
+<blockquote><p>Target a higher inflation rate or pre-specified level for the consumer price index or nominal gross domestic product. Problem: &#8220;could undermine the Fed’s long-standing commitment to price stability.&#8221;</p>
+<p>Stimulate bank lending by putting a tax on excess reserves, hoping that banks will the lend out the money if the have to pay borrowers to take the loans. Problem: &#8220;could lead to the collapse of money market funds and the disintermediation of the financial system.&#8221;</p>
+<p>Buy corporate debt, equities, real estate or foreign currency. Problem: Could require an act of Congress. &#8220;Given that the U.S. economy remains stuck in a liquidity trap,&#8221; Berezin concludes, &#8220;fiscal policy would be the most straightforward way to stimulate….However, the likelihood that the U.S. will receive major fiscal stimulus anytime soon is close to zero.&#8221;</p></blockquote>
+</blockquote>
+<p>I&#8217;m not sanguine about the latter. Even absent economic issues (which are minimal in the current environment), the political ones are problematic.*** That it makes more sense than telling people to put their money into a 401(k) that consists 90% of company stock is a low bar to jump. On the other hand, buying Yuan until it has to appreciate is worth exploring.</p>
+<p>The first has been getting traction for years. And I admit I can&#8217;t decide who was stupider: the people who set a 2% target on no evidence (sorry, <a href="http://macroblog.typepad.com/macroblog/2010/02/do-we-need-to-rethink-macroeconomic-policy.html">David</a>, I held to this even after reading <a href="http://www.imf.org/External/Pubs/FT/staffp/2001/01a/pdf/khan.pdf">your</a> <a href="http://imf.org/external/Pubs/FT/staffp/1998/12-98/pdf/ghosh.pdf">cites</a>) or the people who decided a &#8220;2% target&#8221; meant &#8220;<=." It now has enough traction that it will get out of the avalanche about the time the snow melts. So that leaves the second one. Which brings us back to the Monetary Equation problem. Recall that the definition of Velocity is "the number of times in a year that a dollar is spent." I buy something at the Dollar Store, they use that dollar to buy more products and pay employees, the suppliers and employees buy more supplies and other products, respectively, etc.**** So Brad DeLong ("I see no risks in attempting any of these three--and great risks in continuing to dither") agrees with Peter Berezin of Bank Credit Analyst (and me) that we don't want banks holding Excess Reserves as a matter of monetary policy at the zero bound. Fundamental principle of economics: you want to tax things you wish to discourage. You want to subsidize things you wish to encourage. As the Rabbi once said, "All else is commentary." So what did the Federal Reserve do <a href="http://www.federalreserve.gov/newsevents/press/monetary/20081006a.htm">in the face of a desperate attempt from the Fed to stimulate the Base Money Supply</a>?</p>
+<blockquote><p>The Financial Services Regulatory Relief Act of 2006 originally authorized the Federal Reserve to begin paying interest on balances held by or on behalf of depository institutions beginning October 1, 2011. The recently enacted Emergency Economic Stabilization Act of 2008 accelerated the effective date to October 1, 2008.</p>
+<p>Employing the accelerated authority, the Board has approved a rule to amend its Regulation D (Reserve Requirements of Depository Institutions) to direct the Federal Reserve Banks to pay interest on required reserve balances (that is, balances held to satisfy depository institutions&#8217; reserve requirements) and on excess balances (balances held in excess of required reserve balances and clearing balances).</p></blockquote>
+<p>this lead to something that will surprise no economist of any caliber, let alone a Professor at Princeton:</p>
+<p><a href="http://4.bp.blogspot.com/-RMKFhaA4Ksw/TpEA1b5vxGI/AAAAAAAAAmQ/lxm-s5XYjIc/s1600/image003.jpg"><img border="0" alt="" src="http://4.bp.blogspot.com/-RMKFhaA4Ksw/TpEA1b5vxGI/AAAAAAAAAmQ/lxm-s5XYjIc/s320/image003.jpg"></a></p>
+<p>By the time of the stimulus, roughly that amount had been taken out of circulation as the change in Excess Reserves. Even if every cent had been well-allocated, it was already out of circulation.</p>
+<p>Ben Bernanke giveth, but Ben Bernanke taketh away even more, in spades.</p>
+<p>What Monetary Stimulus?</p>
+<p>*Again, I don&#8217;t encourage this action. But if you think I can&#8217;t create or find a suggestion for each of the Occupy locations, you haven&#8217;t read and seen enough Jacobean drama.</p>
+<p>**Whether we replace my wife&#8217;s three-year old mobile with either a &#8220;free&#8221; Droid or a &#8220;free&#8221; iPhone 3GS probably doesn&#8217;t have a significant effect. Economists pretend that the &#8220;steak-chicken&#8221; model is similar.</p>
+<p>***Short version: You think the tempest-in-a-teapot that is Solyndra is getting discussion? Try that times ten when three or four REITs and a few companies go under. (Amazingly, those who complain about the &#8220;low&#8221; return on Government securities also loudly complain when the Government invests in non-risk-free securities.)</p>
+<p>****It is left as a side-note that increasing the Velocity of Money is yet another way to reduce tax rates, all else equal. It is also left as a side-note that people who talk about &#8220;double taxation&#8221; of (voluntarily disbursed) dividends are economic ignoramuses, and that there are many economists who talk in that manner in no way invalidates the first half of this sentence.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/about-that-er-monetary-expansion.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why There&#8217;s Little Inflation, In One Easy Graphic</title>
+		<link>./../../2011/02/why-theres-little-inflation-in-one-easy-graphic.html</link>
+		<comments>./../../2011/02/why-theres-little-inflation-in-one-easy-graphic.html#respond</comments>
+		<pubDate>Thu, 17 Feb 2011 22:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AD]]></category>
+		<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[economic ideology]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Keynes]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/why-theres-little-inflation-in-one-easy-graphic.html</guid>
+		<description><![CDATA[Ex-food and energy, inflation is at 0.9% for the past twelvemonth. Even if you include those in the longer measure, annual inflation has been 1.7%. (Recall that we paid an average of more than $3.00/gallon for most of the Spring of 2010, for instance.) There is a simple reason &#8220;everyone&#8221; expected higher numbers: they were [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ex-food and energy, inflation is at 0.9% for the past twelvemonth. Even if you include those in the longer measure, <a href="http://economix.blogs.nytimes.com/2011/02/17/putting-the-inflation-report-in-perspective/">annual inflation has been 1.7%</a>. (Recall that we paid an average of more than $3.00/gallon <a href="http://www.eia.doe.gov/oil_gas/petroleum/data_publications/wrgp/mogas_history.html">for most of the Spring of 2010</a>, for instance.)</p>
+<p>There is a simple reason &#8220;everyone&#8221; expected higher numbers: they were looking at money supply, not circulation.</p>
+<p>As Jim Hamilton <a href="http://www.econbrowser.com/archives/2011/02/money_and_reser.html">notes</a>, money is only supply when its being circulated.</p>
+<p>The &#8220;intermediaries&#8221; aren&#8217;t intermediates; they&#8217;re <a href="http://en.wikipedia.org/wiki/Single_point_of_failure">SPOFs</a>. Hamilton&#8217;s graphic tells all:
+<p><a href="http://3.bp.blogspot.com/-fprm5aqHizY/TV2WieaWN2I/AAAAAAAAAeM/UcGGyEhAhmY/s1600/reserves_feb_11.gif"><img src="http://3.bp.blogspot.com/-fprm5aqHizY/TV2WieaWN2I/AAAAAAAAAeM/UcGGyEhAhmY/s320/reserves_feb_11.gif" border="0" alt=""></a></p>
+<p>All that &#8220;extra&#8221; money is being kept in mattresses. Financial-Institution-shaped mattresses, but mattresses nonetheless. The velocity of monetary reserves is 0. So the weighted-average velocity of money is much less than the standard formula would imply.</p>
+<p>There is inflation out there. For instance, China, whose &#8220;stimulus&#8221; was <a href="http://www.theatlantic.com/business/archive/2011/02/the-political-failure-of-keynesian-economics/71363/">an impossible 17% of its GDP</a> (h/t <a href="http://agonyin8fits.blogspot.com/2011/02/let-my-stimulus-go.html">Susan of Texas</a>, of course), is seeing inflation.</p>
+<p>The U.S. needs to deal with financial institution mattress stuffing before it can have such problems.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/why-theres-little-inflation-in-one-easy-graphic.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Keynes and Picasso: Stimulative Conspicuous Consumption?</title>
+		<link>./../../2010/12/keynes-and-picasso-stimulative-conspicuous-consumption.html</link>
+		<comments>./../../2010/12/keynes-and-picasso-stimulative-conspicuous-consumption.html#respond</comments>
+		<pubDate>Sun, 26 Dec 2010 23:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[capital gains]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/keynes-and-picasso-stimulative-conspicuous-consumption.html</guid>
+		<description><![CDATA[by Bruce Webb Digby points us to the following NYT piece: At $106.5 Million, a Picasso Sets an Auction Record with what is in one sense an understandable bitter comment &#8220;Hey, dead artists need work too.&#8221; And as a comment on the odd priorities of our plutocracy a reasonable moral judgement, but as an economic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb</p>
+<p>Digby points us to the following NYT piece: <a target="_blank" href->At $106.5 Million, a Picasso Sets an Auction Record</a> with what is in one sense an understandable bitter comment &#8220;Hey, dead artists need work too.&#8221; And as a comment on the odd priorities of our plutocracy a reasonable moral judgement, but as an economic evaluation? Maybe not. And perhaps some of the real economists can fill me in here.</p>
+<p>Per the story the last time this work changed hands it was for $19,800. Which should mean that someone is exposed to capital gains on pretty much the full amount of the sales price. Even at 15% that is a reasonable chunk of change. Plus the seller has to put the net dollars SOMEWHERE, even if that is just buying more fine art. Now nothing guarantees that the proceeds will get spent/invested in the U.S., but unless the seller spends it all on tons of Bolivian blow it all gets injected somewhere in the world economy. Meanwhile the buyer had to free up capital from somewhere in order to pay for the painting, and while it is possible this was done by selling assets for a loss, or in the course of a tax-free exchange, chances are good that this ended up with another taxable event and/or unlocked previously unproductive capital. Plus the buyer had to come up with a substantial commission, another taxable event (to the dealer) and one likely to inject some spending of its own. Plus someone is going to receive a good sized insurance premium payment, and who knows the proximate result might be some blue collar jobs going to armed guards.</p>
+<p>Now not every instance of conspicuous consumption has benign effects, huge money spent on diamonds, or ivory, or furs from endangered species means dollars ending up in the hands of organized crime or to the extent that there is a difference in the hands of kleptocratic dictators, but the transfer of existing pieces of fine art is on balance pretty benign (as opposed to true antiquities).</p>
+<p>Obviously circumstances alter cases, there are a bazillion possible variables that might make this deal actually economically pernicious, but on balance aren&#8217;t the odds much better than even that this injection of $120 million (including commission and costs) into the economy has a net Keynesian effect? I am not saying that the path to economic nirvana runs along the road of the worlds top 400 billionaires deciding to spend $150,000,000 each on fine art, or collectible stamps or coin, particularly if they are just selling things back and forth within the same pool, but at a minimum some dollars are shaken free in the form of tax, commissions or wages at each transaction. And it is not like they are crowding most of us out of that particular market, I will never be bidding on a Picasso anything.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/keynes-and-picasso-stimulative-conspicuous-consumption.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>When S != I</title>
+		<link>./../../2010/07/when-s-i.html</link>
+		<comments>./../../2010/07/when-s-i.html#respond</comments>
+		<pubDate>Tue, 27 Jul 2010 09:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[excess reserves]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[intermediation]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/when-s-i.html</guid>
+		<description><![CDATA[As Brad DeLong has noted, Tim Geithner believes it is time for “the economy has now recovered sufficiently for government to begin to make way for private business investment.”  In short, he expects “the private sector” to do the heavy lifting in these joyous times of economic recovery. Cynics among us—why, yes, that might well [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As Brad DeLong <a href="http://delong.typepad.com/sdj/2010/07/department-of-huh-has-the-obama-administraton-lost-its-mind-department.html" target="_blank">has noted</a>, Tim Geithner believes it is time for “the economy has now recovered sufficiently for government to begin to make way for private business investment.”  In short, he expects “the private sector” to do the heavy lifting in these joyous times of economic recovery.</p>
+<p>Cynics among us—why, yes, that might well include me—would note that the private sector has had to do much of the heavy lifting for the past several quarters, in the face of what is varyingly described as “a precipitous decline in Aggregate Demand” or “a rise in unemployment.” (You say overextended credit, I say bankrupt.)  And that its performance has been, not to put too fine a point on it, exemplary in the face of the constraints presented.</p>
+<p>Yes, I’m praising the efforts of the private sector.  Not just because small businesses especially are trying to sustain current levels of production and services in the face of tightened credit and the aforementioned AD decline, but also because they, as LBJ once observed in another context, have been put into the position of trying to run a race when the shackles are just being removed from their ankles.
+<p>I blame the banks.</p>
+<p>Now you know it’s me.  The problem is, the evidence is on my side.  Recall that the alleged reason we needed to “save” the banks is that they are Financial Intermediaries, taking a slice out of the matching between Investors (Savers, in most economics models) and Capitalists, who borrow to recombine Capital (K) and Labor (L) into a new product that presents a better return than the old one.</p>
+<p>Call it &#8220;creative destruction.&#8221; Call it &#8220;capitalism.&#8221; Call it &#8220;economic growth.&#8221;</p>
+<p>Let us ignore—though it Abides, like Earth or a steaming pile of elephant dung—that the “intermediaries” were making somewhere between 30 and 40% of the total profits in the U.S. for the past decade. We can (1) pretend that those were all payday lenders, (2) be a “first-best economist” and claim that is the way things should be, or (3) realize it’s a problem and leave addressing it for another time.*</p>
+<p>But let us not ignore that capital supply is essential to growth possibilities. With labor abundantly available, the limitation on creating new product is essentially The Big K, and it’s “Main Street” proxy, money.</p>
+<p>As noted above, in most models of economic growth, we treat Savings as being equal to Investment.  This makes sense: even when the Financial Intermediaries were making $3 or $4 of every $10, they were reinvesting in better systems, better technology, better analysis, and better methods.  Low Latency leads to High-Frequency Trading (HFT) which leads to…well, let’s be nice and just say “greater firm profits.”  Even if only 50% of those profits are being directly reinvested, they are being reinvested, while the rest produces at worst greater paper investments and at best a higher velocity of money and/or a multiplier (“trickle-down”) effect from increased spending.**</p>
+<p>Put your money in a Mutual Fund, it’s Invested. Buy a stock, it’s invested.  Put it in a Demand Deposit Account (what used to be a “Savings” or “Checking” account), and it’s invested (“swept”) by the Financial Intermediary, who gives you a share of the profits in the form of interest.</p>
+<p>Not to sound like a broken record, but Excess Reserves put a spanner in that last one.  Don’t believe me, ask economists <a href="http://www.thefiscaltimes.com/Issues/The-Economy/2010/07/23/What-Can-the-Fed-Still-Do.aspx">Bruce Bartlett</a> or <a href="http://www.huffingtonpost.com/joseph-e-gagnon/time-for-a-monetary-boost_b_654944.html">Joe Gagnon</a>.  Or just look at a graphic of M2 and what I’m calling “Intermediary Private Investment” (M2 minus the Excess Reserves maintained by Financial Intermediaries).</p>
+<p> </p>
+<p><a href="http://lh4.ggpht.com/_wM5Pj6NF0jA/TE5T-bY0YbI/AAAAAAAAAa8/Mry87fGpOyQ/s1600-h/FinInstPrivInvest%5B2%5D.png"><img title="FinInstPrivInvest" height="179" alt="FinInstPrivInvest" src="http://lh5.ggpht.com/_wM5Pj6NF0jA/TE5T-qA4SdI/AAAAAAAAAbA/xCgzhizRWlk/FinInstPrivInvest_thumb.png?imgmax=800" width="244" border="0"></a></p>
+<p>As Excess Reserves are not Seasonally Adjusted, I used the NSA version of M2.  As noted in my previous post, up until September of 2008,  the Fed did not pay interest on Excess Reserves (or Reserves, for that matter), so that excess reserves were essentially a rounding error—funds kept because of the asymmetric risk-reward of a miscalculation, or “precautionary savings.”  They tended to total about $1-2 Billion on average, rather minor in the context of $7-8 Trillion.***</p>
+<p>But once you hit September of 2008, the growth in M2 is more than negated by the growth in Excess Reserves. Indeed, the horizontal line on the graphic above is the level of Intermediary Private Investment in August of 2008—nine months into the “Great Recession.”—isn’t exactly reaching for the skies.  But it’s also significantly higher than the current I, as opposed to S.</p>
+<p>(Note that the NSA trend is also downward since the alleged beginning-of-recovery months of June-July, 2009. That the performance has been as good as it has been in such a context is amazing.)</p>
+<p>When Savings=Investment, there is potential for growth. When savings go into mattresses—for good reason, especially in the pre-FDIC days—intermediaries cannot do their job so efficiently as the models presume.</p>
+<p>What are we to call it when Intermediary Private Investment is significantly less than Savings—when not the people, but the intermediaries themselves, are stuffing money into their own, interest-bearing mattress?</p>
+<p>I would suggest “bad economics,” but that term seems too applicable to more general conceits.</p>
+<p>*I would rather lose what is left of my eyesight and hearing than take the second position; others, from Scott Sumner explicitly to Brad DeLong implicitly, have significantly variant mileages, which is why there’s a horserace for describing economic policies in the past decade or so. They are winning, while I received several decent paychecks over the time.</p>
+<p>**It is left as an exercise whether the “trickle-down” effect is positive or significant.</p>
+<p>***Another sign of improved technology is that the growth in reserves decelerates—funds are used more efficiently by the intermediaries—after ca. 1990/1991; the trend moves slightly upward in the Oughts, though that is both relatively minor and possibly due to complications related to the expansion of products offered.</p>
+<p><a href="http://lh5.ggpht.com/_wM5Pj6NF0jA/TE5T-1mjp_I/AAAAAAAAAbE/jqbDCGQRz7E/s1600-h/ExcResTrends%5B2%5D.png"><img title="ExcResTrends" height="179" alt="ExcResTrends" src="http://lh5.ggpht.com/_wM5Pj6NF0jA/TE5T_aWlDNI/AAAAAAAAAbI/IvLR9ZoV1xo/ExcResTrends_thumb.png?imgmax=800" width="244" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/when-s-i.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Catch-Up Links</title>
+		<link>./../../2010/02/catch-up-links.html</link>
+		<comments>./../../2010/02/catch-up-links.html#respond</comments>
+		<pubDate>Fri, 26 Feb 2010 18:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bond; debt; ECB; Eurozone]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[multiplier]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/catch-up-links.html</guid>
+		<description><![CDATA[I have been a Bad Blogger this week. (As opposed to my usual practice, which seems to be described as Blogging Badly.) While I intend to continue the New Tradition (think of me as Waylon, without the speed), following are Snow Day Links: D-Squared was on fire on Wednesday: both Bank Lending Channel and The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have been a Bad Blogger this week. (As opposed to my usual practice, which seems to be described as Blogging Badly.)</p>
+<p>While I intend to continue the New Tradition (think of me as Waylon, without the speed), following are Snow Day Links:</p>
+<p>D-Squared was on fire on Wednesday:  both <a href="http://d-squareddigest.blogspot.com/2010/02/probably-most-important-thing-you-wont.html">Bank Lending Channel</a> and <a href="http://d-squareddigest.blogspot.com/2010/02/foundations-of-mathematics-and-roots-of.html">The Foundations of Mathematics and the Roots of Finance</a> are essential.</p>
+<p>For all those of you—looking straight at you, <a href="http://delong.typepad.com/">o six-footed one</a>—who believe TARP was the right idea to save the economy, here&#8217;s <a href="http://bit.ly/9JCxMO">another data point</a>: &#8220;Overall bank lending in the US economy shrank 7.4% in 2009 — the sharpest drop since 1942.&#8221;</p>
+<p>James Hamilton looks at <a href="http://www.econbrowser.com/archives/2010/02/treasury_supple.html">Those Other Programs that support the banks</a> without providing any funds to the rest of the economy (though I don&#8217;t think he put it that way).</p>
+<p>With all the talk of Liquidity needs and Greek bonds, jck at Alea <a href="http://www.aleablog.com/monthly-trading-volumes-in-greek-government-bonds/">posts an essential chart</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/catch-up-links.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What Was the Job of the Banks in 2009?</title>
+		<link>./../../2010/01/what-was-the-job-of-the-banks-in-2009.html</link>
+		<comments>./../../2010/01/what-was-the-job-of-the-banks-in-2009.html#comments</comments>
+		<pubDate>Thu, 14 Jan 2010 16:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/what-was-the-job-of-the-banks-in-2009.html</guid>
+		<description><![CDATA[What Was the Job of the Banks in 2009?]]></description>
+				<content:encoded><![CDATA[<p>What Was the Job of the Banks in 2009?</p>
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/S08yzJSMDEI/AAAAAAAAAXk/qWuCtJOXxQA/s1600-h/BusandConsLoans20082009.PNG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/S08yzJSMDEI/AAAAAAAAAXk/qWuCtJOXxQA/s400/BusandConsLoans20082009.PNG" border="0" alt=""></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/what-was-the-job-of-the-banks-in-2009.html/feed/index.html</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>Lender of Only Resort?</title>
+		<link>./../../2009/10/lender-of-only-resort.html</link>
+		<comments>./../../2009/10/lender-of-only-resort.html#respond</comments>
+		<pubDate>Sun, 25 Oct 2009 00:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[financial institutions]]></category>
+		<category><![CDATA[Flow of Funds]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[TARP]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/lender-of-only-resort.html</guid>
+		<description><![CDATA[Ken Houghton, having realized there is still a Commercial Paper market, looks at one implication of it. One of the things that gets ignored in all the fussing about government debt is how small it is by comparison to corporate debt. The shortest-term debt, Commercial Paper, can be very interesting. With a maturity that is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ken Houghton, having realized there is still a Commercial Paper market, looks at one implication of it.</p>
+<p>One of the things that gets ignored in all the fussing about government debt is how small it is by comparison to corporate debt.</p>
+<p>The shortest-term debt, Commercial Paper, can be very interesting.  With a maturity that is by definition nine months (270 days) or less—and often for financial institutions overnight, for others rolled over weekly—Commercial Paper can be the lifeblood of an institution.</p>
+<p>For Financial Institutions, it&#8217;s even more extreme. The prime example is <a target="_blank" href="http://en.wikipedia.org/wiki/Drexel_Burnham_Lambert#Downfall">Drexel Burnham Lambert</a>, which failed in large part due to its CP being downgraded, leaving it to turn to the Fed as its Lender of Last Resort. Wikipedia tells the story, using <a target="_blank" href="http://www.amazon.com/Den-Thieves-James-B-Stewart/dp/067179227X/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1256429849&#038;sr=1-1">James B. Stewart&#8217;s <em>Den of Thieves</em></a> as its source:<br />
+<blockquote>Unfortunately for Drexel, one of first hostile deals came back to haunt it at this point. Unocal&#8217;s investment bank at the time of Pickens&#8217; raid on it was the establishment firm of Dillon, Read—and its former chairman, Nicholas F. Brady, was now Secretary of the Treasury. Brady had never forgiven Drexel for its role in the Unocal deal, and would not even consider signing off on a bailout. Accordingly, he, the SEC, the NYSE and the Fed strongly advised Joseph to file for bankruptcy. Later the next day, Drexel officially filed for Chapter 11 bankruptcy protection.</p></blockquote>
+<p>Financial Institutions live and die by their CP sales. Or at least they did before the Greenspan Put.  Here&#8217;s a chart of Domestic Financial CP Outstanding and Excessive Reserves over the past twelvemonth:
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SuOaISCgIBI/AAAAAAAAATA/gDoZtoNOPiQ/s1600-h/exresvcp.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SuOaISCgIBI/AAAAAAAAATA/gDoZtoNOPiQ/s400/exresvcp.JPG" border="0" alt=""></a></p>
+<p>It certainly appears that the banks are using their &#8220;excess reserves&#8221; to make up for an inability to issue Commercial Paper in the amounts they did before.  Perhaps the <a target="_blank" href="spoof://online.wsj.com/article/SB125630114178703763.html;ref://digg.com">Fed Governors who are talking up recovery</a> (h/t David Wessel&#8217;s Twitter feed) should wait until the debt markets strengthen a bit as well.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/lender-of-only-resort.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Perception v. Reality</title>
+		<link>./../../2008/09/perception-v-reality.html</link>
+		<comments>./../../2008/09/perception-v-reality.html#respond</comments>
+		<pubDate>Tue, 16 Sep 2008 19:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[capitalism]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/perception-v-reality.html</guid>
+		<description><![CDATA[Perception, per the NYT: Fed Leaves Key Rate Steady as It Worries About Growth Reality: TSLF (Mar 11), PDCF (Mar 16), expanded acceptable collateral pool (multiple times, most recently Monday), loans to the parent from the subsidiaries to cover capital needs.* And it may not be enough. (Of course it&#8217;s an AIG link.) There&#8217;s more [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Perception, per the NYT:  <a href="http://www.nytimes.com/2008/09/17/business/economy/17fed.html?_r=1&#038;hp&#038;oref=slogin">Fed Leaves Key Rate Steady as It Worries About Growth</a></p>
+<p>Reality:  TSLF (<a href="http://www.federalreserve.gov/newsevents/press/monetary/20080311a.htm">Mar 11</a>), PDCF (<a href="http://www.newyorkfed.org/newsevents/news/markets/2008/rp080316.html">Mar 16</a>), expanded acceptable collateral pool (multiple times, most recently Monday), loans <a href="http://news.yahoo.com/s/nm/20080915/bs_nm/aig_dc">to the parent from the subsidiaries</a> to cover capital needs.*</p>
+<p>And it <a href="http://afp.google.com/article/ALeqM5iKEouJzXiWR0U7YaCesjDAvINNJw">may not be enough</a>. (Of course it&#8217;s an AIG link.)</p>
+<p>There&#8217;s more than one way to manage monetary policy.  And Ben Bernanke is using all of the ones that will <em>not</em> increase aggregate consumer spending.</p>
+<p>At least that&#8217;s the optimistic view.  UPDATE:  Brad DeLong <a href="http://delong.typepad.com/sdj/2008/09/another-judgmen.html">appears to disagree</a>. UPDATE II: But <a href="http://economistsview.typepad.com/economistsview/2008/09/fed-leaves-inte.html">Mark Thoma</a> is thinking the same way I did (though he&#8217;s much better at <a href="http://economistsview.typepad.com/economistsview/2008/09/gut-instinct-an.html">the number-sense game</a>).</p>
+<p>*I note, strictly for the record, that since this was a New York State, not a Federal, initiative, it may well <a href="http://angrybear.blogspot.com/2008/09/heading-into-financial-maelstrom.html">become illegal under the current Administration&#8217;s proposed guidelines for the SEC</a>. If there&#8217;s an intelligent reporter out there, maybe they should ask the campaigns whether they oppose Governor Patterson&#8217;s actions?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/perception-v-reality.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Quick One: Inflationary Credit Recession Strategies</title>
+		<link>./../../2008/05/a-quick-one-inflationary-credit-recession-strategies.html</link>
+		<comments>./../../2008/05/a-quick-one-inflationary-credit-recession-strategies.html#respond</comments>
+		<pubDate>Wed, 07 May 2008 14:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[recession]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[velocity of money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/a-quick-one-inflationary-credit-recession-strategies.html</guid>
+		<description><![CDATA[Tom&#8217;s doing some heavy lifting, PGL is in form, Bruce has started SocSec 101, and the entire economics blogsphere is having so many conniptions over Hillary that you&#8217;d think the CEA was actually the Shadow Government. So I just want start easy, and take a look at three easy-to-compare data points:First, the Federal Funds target [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tom&#8217;s doing some heavy lifting, PGL is in form, Bruce has started SocSec 101, and the entire economics blogsphere is having so many conniptions over Hillary that you&#8217;d think the CEA was actually the Shadow Government.</p>
+<p>So I just want start easy, and take a look at three easy-to-compare data points:<br />First, <a href="http://www.federalreserve.gov/fomc/fundsrate.htm">the Federal Funds target rate</a> since 2007 (I include the last change in 2006 since it was the rate for the first 8.5 months of 2007):
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SCHDRnn4HEI/AAAAAAAAAHY/Z73jPuZHa20/s1600-h/FF+2007-2008.JPG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SCHDRnn4HEI/AAAAAAAAAHY/Z73jPuZHa20/s400/FF+2007-2008.JPG" border="0" alt=""></a></p>
+<p>If you make money easier to get, standard theory says that people will get it.  While this raises the &#8220;threat&#8221; of inflation, it makes credit easier to get as well.  So the theory goes.</p>
+<p>Steven J. Balassi (h/t <a href="http://www.26econ.com/newly-added-econ-blogs/">Aaron Schiff</a> for bringing his blog to my attention) <a href="http://worldlyeconomicthoughts.blogspot.com/2008/05/tighter-lending.html">notes that this isn&#8217;t happening</a>. Pull quote:</p>
+<blockquote><p>Friends in the mortgage industry are telling me you have to be &#8220;rich&#8221; just to get a home loan now.</p></blockquote>
+<p>Even granting I have <a href="http://atbozzo.blogspot.com/2008/05/our-house.html">a vested interest right now</a> in peole being able to get mortgages, this is keeping the market from clearing and expanding the housing crisis.  Again, contrary to the theory that easier money means, well, easier to get money.</p>
+<p>So we have easier money and tighter credit.  The implication is that the banks are keeping that money, no circulating it. No wonder they <a href="http://economistsview.typepad.com/economistsview/2008/05/another-tool-fo.html">want to be paid interest on reserve requirements</a>.*</p>
+<p>But what about the inflation fears of easier money? Surely, if the money is not circulating, that shouldn&#8217;t be a fear?</p>
+<p>Not so fast, says <a href="http://blogs.wsj.com/economics/2008/05/06/kc-feds-hoenig-worries-about-inflation-psychology/">Kansas City Fed  President Thomas Hoenig</a> (h/t <a href="http://economistsview.typepad.com/economistsview/2008/05/links-for-200-6.html">Mark Thoma</a>):<br />
+<blockquote>Hoenig said rising inflationary pressures are &#8220;troublesome&#8221; and a &#8220;serious&#8221; matter. &#8220;The bigger concern is that these increases are beginning to generate an inflation psychology to an extent that I have not seen since the 1970s and early 1980s,&#8221; he said. Hoenig added that &#8220;there is a significant risk that higher inflation will become embedded in the economy and require significant monetary policy tightening to reduce it.&#8221; He tied rising prices primarily to overseas factors, including a &#8220;sizable decline&#8221; in the U.S. dollar’s value.</p></blockquote>
+<p>Welcome to the Global Economy.  But Hoenig is sanguine about the Fed Funds rate, even if he is willing to use the R word:<br />
+<blockquote>Hoenig’s views on the economy were relatively upbeat, even as he described the nation as being &#8220;at the brink of a recession.&#8221; He suggested interest rates were close to where they needed to be.</p>
+<p>&#8220;The current accommodative stance should be sufficient to cushion the economy<br />from a deeper slowdown and the risks that financial disruptions could spill over to the broader economy,&#8221; he said. As the economy and markets improve &#8220;it will be necessary for the Federal Reserve to remove the policy accommodation in a timely manner.&#8221;</p>
+<p>Citing &#8220;room for optimism,&#8221; Hoenig said &#8220;financial markets appear to have stabilized somewhat, and the economy should pick up in the second half of the year as fiscal and monetary stimulus take hold.&#8221; The official said he believe markets’ role in the current turmoil has been overstated, and that higher energy prices and housing woes have exacted the greater toll. He also said he believes the &#8220;credit crunch&#8221; hasn’t proved as damaging as some had feared.</p></blockquote>
+<p>So there we have it.  We have inflation, but cutting rates was the right thing.  And the credit crunch isn&#8217;t too bad, even if only the rich can buy a house.  And that 325 basis points of easing in the past eight months just hasn&#8217;t gotten into the economy yet; give the banks another six months or so.</p>
+<p>I feel better; how about you?</p>
+<p>*Meanwhile, I am reliably informed that Bank of America just cut the rates on their (currently in place) contracts with consultants by 5-15%, depending on length of service (greater for longer).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/a-quick-one-inflationary-credit-recession-strategies.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

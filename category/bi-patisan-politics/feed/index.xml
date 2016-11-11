@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bi-patisan politics &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Silencing the Science on Gun Research</title>
+		<link>./../../2012/12/silencing-the-science-on-gun-research.html</link>
+		<comments>./../../2012/12/silencing-the-science-on-gun-research.html#respond</comments>
+		<pubDate>Mon, 24 Dec 2012 19:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bi-patisan politics]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[fire arms]]></category>
+		<category><![CDATA[guns]]></category>
+		<category><![CDATA[US data]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/silencing-the-science-on-gun-research.html</guid>
+		<description><![CDATA[There is still a lot of headline material concerning the role of guns in our lives, and a lot of anecdotal material and thoughts abound. Also I seem to note an increase in the reporting of police in Lakewood, Washington and firemen in Webster, NY murders by gun makes the news as well. We are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There is still a lot of headline material concerning the role of guns in our lives, and a lot of anecdotal material and thoughts abound.  Also I seem to note an increase in the reporting of <a target="_blank" href="http://usnews.nbcnews.com/_news/2012/12/24/16125861-4-volunteer-firefighters-shot-2-killed-in-apparent-trap?lite">police in Lakewood, Washington</a> and <a target="+_blank" href="http://usnews.nbcnews.com/_news/2012/12/24/16125861-4-volunteer-firefighters-shot-2-killed-in-apparent-trap?lite">firemen in Webster, NY</a> murders by gun makes the news as well.  We are a site that also values data to help in policy decisions as we try to govern ourselves. Hence this article from JAMA caught my attention on the apparent lack of more specific data on injuries and deaths from media.</p>
+<p><a href="http://jama.jamanetwork.com/article.aspx?articleid=1487470" title="http://jama.jamanetwork.com/article.aspx?articleid=1487470">The Journal of the American Medical Association</a> notes in <i>Silencing the Science on Gun Research</i> that basic gahering and reporting data was defunded and/or forbidden by government agencies including the Center for Disease Control and Prevention, National Institute on Alcohol Abuse and Alcoholism, Hational Institute of Health, and other Department of Health agencies. The following is an excerpt:<br />(hat tip reader Tom B.)</p>
+<blockquote><p>The nation might be in a better position to act if medical and public health researchers had continued to study these issues as diligently as some of us did between 1985 and 1997. But in 1996, pro-gun members of Congress mounted an all-out effort to eliminate the National Center for Injury Prevention and Control at the Centers for Disease Control and Prevention (CDC). Although they failed to defund the center, the House of Representatives removed $2.6 million from the CDC&#8217;s budget—precisely the amount the agency had spent on firearm injury research the previous year. Funding was restored in joint conference committee, but the money was earmarked for traumatic brain injury. The effect was sharply reduced support for firearm injury research.</p>
+<p>To ensure that the CDC and its grantees got the message, the following language was added to the final appropriation: “none of the funds made available for injury prevention and control at the Centers for Disease Control and Prevention may be used to advocate or promote gun control.”<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-4">4</a></sup></p>
+<p>Precisely what was or was not permitted under the clause was unclear. But no federal employee was willing to risk his or her career or the agency&#8217;s funding to find out. Extramural support for firearm injury prevention research quickly dried up. Even today, 17 years after this legislative action, the CDC&#8217;s website lacks specific links to information about preventing firearm-related violence.</p>
+<p>When other agencies funded high-quality research, similar action was taken. In 2009, Branas et al<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-5">5</a></sup> published the results of a case-control study that examined whether carrying a gun increases or decreases the risk of firearm assault. In contrast to earlier research, this particular study was funded by the National Institute on Alcohol Abuse and Alcoholism. Two years later, Congress extended the restrictive language it had previously applied to the CDC to all Department of Health and Human Services agencies, including the National Institutes of Health.<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-6">6</a></sup></p>
+<p><a name="more"></a></p>
+<p>The US military is grappling with an increase in suicides within its ranks. Earlier this month, an article by 2 retired generals—a former chief and a vice chief of staff of the US Army— asked Congress to lift a little-noticed provision in the 2011 National Defense Authorization Act that prevents military commanders and noncommissioned officers from being able to talk to service members about their private weapons, even in cases in which a leader believes that a service member may be suicidal.<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-9">9</a></sup><br /><sup></sup>…<br />Given the chance, could researchers achieve similar progress with firearm violence? It will not be possible to find out unless Congress rescinds its moratorium on firearm injury prevention research. Since Congress took this action in 1997, at least 427 000 people have died of gunshot wounds in the United States, including more than 165 000 who were victims of homicide.<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-1">1</a></sup> To put these numbers in context, during the same time period, 4586 Americans lost their lives in combat in Iraq and Afghanistan.<sup><a href="http://jama.jamanetwork.com/#ref-jvp120140-10">10</a></sup></p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/silencing-the-science-on-gun-research.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

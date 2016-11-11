@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>seigniorage &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Cactus and gold</title>
+		<link>./../../2009/03/cactus-and-gold.html</link>
+		<comments>./../../2009/03/cactus-and-gold.html#respond</comments>
+		<pubDate>Wed, 04 Mar 2009 12:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[seigniorage]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/03/cactus-and-gold.html</guid>
+		<description><![CDATA[by cactus Tax cuts aren&#8217;t the only thing that work great in every situation. Hoarding gold works too: Gold is now regarded as a hedge against both inflation and deflation, says Alan Ruskin, the chief international strategist at Greenwich, Connecticut-based RBS Greenwich Capital Markets Inc. The first is reflected in the high dollar price of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by cactus</p>
+<p>Tax cuts aren&#8217;t the only thing that work great in every situation.  Hoarding gold <a target="_blank" href="http://www.bloomberg.com/apps/news?pid=20601072&#038;sid=a2sUvQ.vbcWY&#038;refer=energy">works too</a>:</p>
+<blockquote><p>Gold is now regarded as a hedge against both inflation and deflation, says Alan Ruskin, the chief international strategist at Greenwich, Connecticut-based RBS Greenwich Capital Markets Inc. The first is reflected in the high dollar price of bullion, the second by the surge in gold’s price in euros. </p></blockquote>
+<p>Having been in the presence of gold at different times, I can attest that it also flies, improves mental health, and eliminates odors from cat poop boxes at twenty paces.   But seriously, what the heck does that second sentence even mean?  </p>
+<p>FYI, the &#8220;RBS&#8221; in &#8220;RBS Greenwich Capital Markets Inc.&#8221; stands for Royal Bank of Scotland.  Yes, <a target="_blank" href="http://cbs4denver.com/businesswire/22.0.html?type=national&#038;serviceLevel=f&#038;category=f&#038;filename=EU--Britain-Earns-Roy.xml">that</a> Royal Bank of Scotland.  Now I didn&#8217;t know anything about Alan Ruskin, so I googled him.  It turns out he penned <a target="_blank" href="http://www.gata.org/node/5609">this piece</a> [link fixed- klh] on moral hazard in the Financial Times back in 2007.  </p>
+<p>Anyway, there are a lot of places this post could go, and most of &#8217;em all but write themselves.   Have a go at it in comments.  <br />__________________________________<br />by cactus</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/03/cactus-and-gold.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

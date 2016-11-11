@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>conventional wisdom &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Felix Salmon comments on media bias</title>
+		<link>./../../2011/09/felix-salmon-comments-on-media-bias.html</link>
+		<comments>./../../2011/09/felix-salmon-comments-on-media-bias.html#respond</comments>
+		<pubDate>Fri, 23 Sep 2011 14:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[conventional wisdom]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[Media Bias]]></category>
+		<category><![CDATA[Stock Market]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/felix-salmon-comments-on-media-bias.html</guid>
+		<description><![CDATA[Felix Salmon comments on media bias at Seeking Alpha: But let’s not kid ourselves that there’s any particular reason why global stocks are falling. And especially, let’s not try to invent some spurious reason for the fall, be it broad and inchoate (“global economy fears”) or weirdly specific (“Federal Reserve pessimism”).&#8230;As a general rule, if [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Felix Salmon comments on media bias at <a target="_blank" href="http://seekingalpha.com/article/295341-there-s-no-reason-why-stocks-are-down-today?source=email_the_daily_dispatch">Seeking Alpha</a>:</p>
+<blockquote><p>But let’s not kid ourselves that there’s any particular reason why global stocks are falling. And especially, let’s not try to invent some spurious reason for the fall, be it broad and inchoate (“global economy fears”) or weirdly specific (“Federal Reserve pessimism”).<br /><strong>&#8230;</strong><br />As a general rule, if you see “fears” or “pessimism” in a market-report headline, that’s code for “the market fell and we don’t know why”, or alternatively “the market is volatile and yet we feel the need to impose some spurious causality onto it”.</p>
+<p>This kind of thing matters — because when news organizations run enormous headlines about intraday movements in the stock market, that’s likely to panic the population as a whole. They think that they should care about such things because if it wasn’t important, the media wouldn’t be shouting about it so loudly. And they internalize other fallacious bits of journalistic laziness as well: like the idea that the direction of the stock market is a good proxy for the future health of the economy, or the idea that rising stocks are always a good thing and falling stocks are always a bad thing.</p>
+<p>Or, most invidiously, the idea that the most interesting and important time period when looking at the stock market is one day&#8230;<br /><a name="more"></a></p>
+<p><strong>&#8230;</strong></p>
+<p><a href="http://1.bp.blogspot.com/-wsQr_3CAbLQ/TnycK4CDSOI/AAAAAAAAAuQ/ZYSBadkANXI/s1600/stockmarketchartfelix.jpg"><img src="http://1.bp.blogspot.com/-wsQr_3CAbLQ/TnycK4CDSOI/AAAAAAAAAuQ/ZYSBadkANXI/s320/stockmarketchartfelix.jpg" border="0" alt=""></a></p>
+<p>I’m not going to try to read any great narrative into this chart. But if you want to explain stocks to the broad population, this is the sort of thing you should be showing them. Rather than useless and irrelevant news about what happened to stock prices this morning.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/felix-salmon-comments-on-media-bias.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

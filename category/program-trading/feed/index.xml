@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>program trading &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Liquidity, Markets, and Pricing: A Contemporary Example</title>
+		<link>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html</link>
+		<comments>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html#respond</comments>
+		<pubDate>Tue, 26 Apr 2011 14:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[ALM]]></category>
+		<category><![CDATA[balance sheets]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[price discovery]]></category>
+		<category><![CDATA[program trading]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/liquidity-markets-and-pricing-a-contemporary-example.html</guid>
+		<description><![CDATA[A lot of trading in the Fixed Income (and especially FX) market is done for &#8220;liquidity&#8221; purposes. There is often an underlying goal involved (e.g., push prices higher with small lots, sell large ones at the elevated prices) and frequently such strategies are discussed as &#8220;algorithmic trading.&#8221; (Example: the algorithm estimates that you will need [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A lot of trading in the Fixed Income (and especially FX) market is done for &#8220;liquidity&#8221; purposes. There is often an underlying goal involved (e.g., push prices higher with small lots, sell large ones at the elevated prices) and frequently such strategies are discussed as &#8220;algorithmic trading.&#8221; (Example: the algorithm estimates that you will need to buy 5 $100MM lots of JPY at incrementally higher rates to be able to sell $1B USD at the higher JPY level.)</p>
+<p>The liquidity of the &#8220;markets&#8221; is facilitated by algorithmic trading: the seller for the first five trades in the above example doesn&#8217;t care about the <em>purpose</em> of the counterparty&#8217;s trade, just that the price bid is agreeable.</p>
+<p>Then there are the times <a href="http://digitallife.today.com/_news/2011/04/25/6525101-how-a-book-about-flies-cost-237-million-on-amazon?GT1=43001">when algorithmic pricing goes terribly wrong</a>:<br />
+<blockquote>Eisen began to keep track of the prices until he caught on to what was happening: The two sellers of that particular book — bordeebook and profnath — were adjusting their product prices algorithmically based on competitors:<br />
+<blockquote>Once a day profnath set their price to be 0.9983 times bordeebook’s price. The prices would remain close for several hours, until bordeebook “noticed” profnath’s change and elevated their price to 1.270589 times profnath’s higher price. The pattern continued perfectly for the next week.</p></blockquote>
+<p>The biologist continued to watch the prices grow higher and higher until they hit a peak price of $23,698,655.93 on April 19. On that day &#8220;profnath’s price dropped to $106.23, and bordeebook soon followed suit to the predictable $106.23 * 1.27059 = $134.97.&#8221; This means that someone must&#8217;ve noticed what was happening and manually adjusted the prices. [italics mine]</p></blockquote>
+<p>As a mathematical exercise, the shift from $106.23 to $23,000,000 and change is clear: one dealer must price their copy higher than the other dealer. (If both do so, you get to the same point or higher even quicker.) Similarly, if both dealers price at a fraction below 1.000 of the other, the price will converge toward $0.00 as the algorithm progresses.</p>
+<p>Consider the implication for a potential third seller, though.  Depending on when they check, they may believe they have a book that will make them (if and when sold) rich.  But the &#8220;market&#8221; they see is two computers offering against each other—there is no bid-side shown, and pricing &#8220;to sell&#8221; (say, $850K when both of the others are offered at around $1.7MM) implies that the third potential seller is carrying that asset at an inflated value.</p>
+<p>Market transactions do not require two entities to like each other, or even to understand what the other is trying to do.  Indeed, if your alogirthm is buying at 85.3 JPY/USD and mine is selling at that level, neither of us necessarily cares <em>why</em> the other is transacting.  And the rest of the market sees an actual trade against which they can adjust their pricing.</p>
+<p>It&#8217;s only when the algorithms are trying to do the same thing that $23MM+ books are offered.</p>
+<p>The implication for mark-to-market valuation seems obvious, and is left as an exercise to the reader.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Just Because You&#8217;re Paranoid Doesn&#8217;t Mean Law Enforcement Isn&#8217;t Out to Help You</title>
+		<link>./../../2009/07/just-because-youre-paranoid-doesnt-mean-law-enforcement-isnt-out-to-help-you.html</link>
+		<comments>./../../2009/07/just-because-youre-paranoid-doesnt-mean-law-enforcement-isnt-out-to-help-you.html#respond</comments>
+		<pubDate>Mon, 06 Jul 2009 02:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[finance]]></category>
+		<category><![CDATA[Goldman Sachs]]></category>
+		<category><![CDATA[program trading]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/07/just-because-youre-paranoid-doesnt-mean-law-enforcement-isnt-out-to-help-you.html</guid>
+		<description><![CDATA[From the coolest possibly-corporate-espionage story of the week: If only the FBI were to tackle cases of national security and loss of life with the same speed and precision as they confront presumed high-frequency program trading industrial espionage cases&#8230; especially those that allegedly involve Goldman Sachs. The original is from Reuters.]]></description>
+				<content:encoded><![CDATA[<p>From the coolest <a target="_blank" href="http://zerohedge.blogspot.com/2009/07/is-case-of-quant-trading-industrial.html">possibly-corporate-espionage story of the week</a>:<br />
+<blockquote>If only the FBI were to tackle cases of national security and loss of life with the same speed and precision as they confront presumed high-frequency program trading industrial espionage cases&#8230; especially those that allegedly involve Goldman Sachs.</p></blockquote>
+<p>The original is from <a target="_blank" href="http://blogs.reuters.com/commentaries/2009/07/05/a-goldman-trading-scandal/">Reuters</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/07/just-because-youre-paranoid-doesnt-mean-law-enforcement-isnt-out-to-help-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

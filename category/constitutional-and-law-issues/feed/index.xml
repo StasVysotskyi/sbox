@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>constitutional and law issues &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Adam Liptak, gun legislation, the Supreme Court</title>
+		<link>./../../2012/12/adam-liptak-gun-legislation-the-supreme-court.html</link>
+		<comments>./../../2012/12/adam-liptak-gun-legislation-the-supreme-court.html#respond</comments>
+		<pubDate>Fri, 21 Dec 2012 16:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Adam Liptak]]></category>
+		<category><![CDATA[Beverly Mann (Supreme court)]]></category>
+		<category><![CDATA[constitutional and law issues]]></category>
+		<category><![CDATA[gun control laws]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/adam-liptak-gun-legislation-the-supreme-court.html</guid>
+		<description><![CDATA[More on gun legislation and law: &#8230;the bottom line is that Liptak&#8217;s spot-on, and that I think that the Supreme Court will use that Illinois case that Liptak discusses to make clear that the Second Amendment is not absolute. The Illinois statute bars carrying any weapons in public, even unconcealed ones. I think that, 5-4, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>More on gun legislation and law:</p>
+<blockquote><p>&#8230;the bottom line is that Liptak&#8217;s spot-on, and that I think that the Supreme Court will use that Illinois case that Liptak discusses to make clear that the Second Amendment is not absolute. The Illinois statute bars carrying any weapons in public, even unconcealed ones. </p>
+<p>I think that, 5-4, they&#8217;ll say that that is unconstitutional but that laws banning carrying concealed weapons in public are constitutional. I also think that, now, finally, Congress will pass laws against the sale of semi-automatic weapons and against the sale of ammunition clips of more than 10 bullets, and that once a constitutional challenge to those laws gets to the Supreme Court, the Court will uphold the laws.  </p></blockquote>
+<p>Beverly Mann, lifted from an e-mail to me</p>
+<p><a href="http://www.nytimes.com/2012/12/19/us/gun-plans-dont-conflict-with-justices-08-ruling.html?emc=tnt&#038;tntemail1=y&#038;_r=0">Gun plans don&#8217;t conflict with Justices 08 ruling</a> by Adam Liptak reasons:</p>
+<blockquote><p>Despite the sweeping language of a <a href="http://www.law.cornell.edu/supct/html/07-290.ZO.html">2008 Supreme Court decision</a> that struck down parts of the District of Columbia’s strict gun-control law, the decision appears perfectly consistent with many of the policy options being discussed after the shootings in Newtown, Conn.</p>
+<p>Legal experts say the decision in the case, District of Columbia v. Heller, has been of mainly symbolic importance so far. There have been more than 500 challenges to gun laws and gun prosecutions since Heller was decided, and vanishingly few of them have succeeded.</p></blockquote>
+<p>&#8220;Of the 12 deadliest mass shootings in American history, six have occurred since 2007&#8221; also caught my attention.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/adam-liptak-gun-legislation-the-supreme-court.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

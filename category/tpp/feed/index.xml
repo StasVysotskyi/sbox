@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TPP &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Trans Pacific Partnership</title>
+		<link>./../../2012/07/trans-pacific-partnership.html</link>
+		<comments>./../../2012/07/trans-pacific-partnership.html#respond</comments>
+		<pubDate>Mon, 23 Jul 2012 14:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[NAFTA]]></category>
+		<category><![CDATA[TPP]]></category>
+		<category><![CDATA[trade agreements]]></category>
+		<category><![CDATA[Trans Pacific Partnership]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/trans-pacific-partnership.html</guid>
+		<description><![CDATA[The US Trade Representative website posts: The next negotiating round of the Trans-Pacific Partnership will take place in Leesburg, Virginia from September 6-15, 2012. As in the past, USTR will be hosting a Direct Stakeholder Engagement event to provide stakeholders the opportunity to speak directly and one-on-one with negotiators, raise questions, and share their views [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.ustr.gov/tpp/" target="_blank">The US Trade Representative website</a> posts:  </p>
+<blockquote><p>The next negotiating round of the Trans-Pacific Partnership will take place in Leesburg, Virginia from September 6-15, 2012.  As in the past, USTR will be hosting a Direct Stakeholder Engagement event to provide stakeholders the opportunity to speak directly and one-on-one with negotiators, raise questions, and share their views as well as a stakeholder briefing.</p></blockquote>
+<p>Other links talk about the lack of interim transparency and drafts of agreements to date, continuance of secret deliberations when making decisions on trade &#8216;infractions. and the enhanced ability of companies to sue domestic industries (a la WTO) in domestic courts:</p>
+<p><a href="http://www.commondreams.org/view/2012/07/03-0" target="_blank">The Trans-Pacific Partnership, Global Corporate Coup D&#8217;Etat</a><br />by Lori Wallach, The Nation</p>
+<p><a href="http://www.citizenstrade.org/ctc/wp-content/uploads/2012/06/tppinvestment.pdf" target="_blank">Citizens Trade</a></p>
+<p><a href="http://news.firedoglake.com/2012/06/15/trans-pacific-partnership-documents-show-trade-treaty-could-grow-much-larger-than-nafta/" target="_blank">Firedoglake</a></p>
+<p><a href="http://www.nytimes.com/2012/07/06/world/asia/asean-nations-become-more-integrated.html?emc=tnt&#038;tntemail1=y" target="_blank">The New York Times</a></p>
+<p>Other links appreciated in comments.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/trans-pacific-partnership.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

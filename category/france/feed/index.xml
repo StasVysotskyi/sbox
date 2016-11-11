@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>France &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>France is Stuck in the Mud</title>
+		<link>./../../2012/08/france-is-stuck-in-the-mud.html</link>
+		<comments>./../../2012/08/france-is-stuck-in-the-mud.html#respond</comments>
+		<pubDate>Wed, 15 Aug 2012 13:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[France]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+		<category><![CDATA[recession]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/france-is-stuck-in-the-mud.html</guid>
+		<description><![CDATA[by Rebecca Wilder According to the Eurostat flash estimate, Euro area GDP fell by 0.2% in both the euro area and the EU27 in the second quarter of 2012. In the first quarter of 2012, growth rates were 0.0% in both zones. On balance, the Euro area is very likely in recession despite the fact [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Rebecca Wilder</p>
+<p>According to the <a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-14082012-BP/EN/2-14082012-BP-EN.PDF">Eurostat flash estimate</a>, Euro area GDP fell by 0.2% in both the euro area and the EU27 in the second quarter of 2012. In the first quarter of 2012, growth rates were 0.0% in both zones. On balance, the Euro area is very likely in recession despite the fact that the region successfully skirted the “two negative quarters of growth” rule of recession dating having stagnated in Q1 2012 following a 0.3% contraction in Q4 2011.</p>
+<p>The underlying country GDP estimates for Q2, released by the various statistical agencies, do illustrate a deep divide among the growth prospects across the 17-country Euro area in Q2 2012. Here is a select list of reported growth results (all for Q2 2012 in % Q/Q not annualized):</p>
+<p>Germany, +0.3%<br />France , +0.0%<br />Netherlands, +0.2%<br />Spain, -0.4%<br />Italy, -0.7%<br />Portugal, -1.2%</p>
+<p>The French flash release, in particular, caught my eye: “No growth for the third consecutive quarter” is what <a href="http://www.insee.fr/en/themes/info-rapide.asp?id=26&#038;date=20120814">INSEE titled its publication</a>. The French economy has effectively stalled. Using Eurostat data, the economy has grown just 0.09% (the unrevised numbers) since July 2011. And since Q2 2011, the economy grew just 0.3%. In all, the economy is not technically in recession but it certainly isn’t expanding. To me, the question is, will it go up or down from here?</p>
+<p>Compared to history, the current expansion in France has been nothing short of pathetic. Stuck in the mud.</p>
+<div><a href="http://3.bp.blogspot.com/-wR26sdXZxmw/UCunoJtR27I/AAAAAAAAA90/QR_u3X15YE4/s1600/europe.png" imageanchor="1"><img border="0" height="231" width="320" src="http://3.bp.blogspot.com/-wR26sdXZxmw/UCunoJtR27I/AAAAAAAAA90/QR_u3X15YE4/s320/europe.png"></a></div>
+<p><em>Note: In the chart above, the French dating of business cycles is taken from the OECD, which is available through the FRED database. In the legend, those dates with a (2) indicate short recoveries with an ensuing recession (1 recession and 1 expansion with the same number of quarters as the 2009-2012 expansion). Therefore, the graphs are truncated when the next recession started over the period.</em></p>
+<p><strong><em>Rebecca Wilder</em></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/france-is-stuck-in-the-mud.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

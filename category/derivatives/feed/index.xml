@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>derivatives &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Default Events, Legal Contracts, Derivatives, and Greece</title>
+		<link>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html</link>
+		<comments>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html#respond</comments>
+		<pubDate>Fri, 02 Mar 2012 22:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CDS]]></category>
+		<category><![CDATA[credit markets]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[default]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[euro area]]></category>
+		<category><![CDATA[Greece]]></category>
+		<category><![CDATA[markets]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/default-events-legal-contracts-derivatives-and-greece.html</guid>
+		<description><![CDATA[Barry Ritholtz, who generally knows better, blew a gasket at ISDA for yesterday&#8217;s ruling that Greek bonds are not yet in default. Specifically, &#8220;The International Swaps and Derivatives Association said on Thursday that based on current evidence the Greek bailout would not prompt payments on the credit default swaps.&#8221; > Here is a question for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Barry Ritholtz, who generally knows better, <a href="http://www.ritholtz.com/blog/2012/03/isda-suckers-wanted/">blew a gasket at ISDA</a> for yesterday&#8217;s ruling that Greek bonds are not yet in default.  Specifically,<br />
+<blockquote>
+<blockquote>&#8220;The International Swaps and Derivatives Association said on Thursday that based on current evidence the Greek bailout would not prompt payments on the credit default swaps.&#8221;</p></blockquote>
+<p>></p>
+<p>Here is a question for the crowd: Exactly how brain damaged, foolish and stupid must a trader be to ever buy one of these embarrassingly laughable instruments called derivatives?</p>
+<p>The claim that Greece has not defaulted — despite refusing to make good on their obligations in full or on time — is utterly laughable.</p></blockquote>
+<p>Let&#8217;s sidebar the reality—that there is no true &#8220;market&#8221; for CDS in general, let alone Sovereign Debt CDS; Donald R. van Deventer of Kamakura Corporation has been all over this, both <a href="http://www.kamakuraco.com/Blog.aspx">on his blog</a> and especially <a href="https://twitter.com/#!/dvandeventer">on Twitter</a>—and just note that ISDA made the correct decision.</p>
+<p>Greece has not, to borrow Barry&#8217;s phrase, &#8220;refus[ed] to make good on their obligations in full or on time.&#8221; ISDA did not declare a Default Event yesterday because there has not yet been a Default Event.</p>
+<p>Default Event is a very specific term. The sample in <a href="http://www.tavakolistructuredfinance.com/index.html">Janet Tavakoli</a>&#8216;s <em><a href="http://www.booksamillion.com/product/9780471412663?id=4214424925428">Credit Derivatives and Synthetic Structures</a></em> (a book to which I <a href="http://www.angrybearblog.com/2010/02/in-other-news-larry-king-is-selling.html">have</a> <a href="http://www.angrybearblog.com/2008/09/roubinis-not-wrong-but.html">referred</a> <a href="http://www.angrybearblog.com/2011/01/third-time-someone-will-believe.html">before</a> and undoubtedly will again) runs pretty much three full pages (pp. 88-91).  But the general concept is straightforward: there is a minimum threshold (say, 10% of an issue), the principal or interest due of which the entity explicitly refuses to pay or fails to pay that then materially impacts the buyer of Credit Protection (CDS).</p>
+<p><a name="more"></a><br />Greece has not yet refused to pay anything.*</p>
+<p>There is a payment due on 20 March—19 days still in the future. The financial markets—heck, everyone who runs a diner in Queens—may well believe that no payment will be made on 20 March, but that hasn&#8217;t happened yet.  And the Greek government specifically has <em>not</em> said it won&#8217;t make the payment; it has said, &#8220;Hey, take these bonds instead.&#8221;</p>
+<p>It is true that, <em>cet. par.</em>, the market value of the bonds being offered is about 25% the supposed economic value of the current ones. So anyone taking the deal would have to be assuming that the <em>market</em> value of the current bonds is somewhere around 25, just as the French and German banks have them marked.</p>
+<p>The market may also agree that one of the reasons people may well accept the offer is that, otherwise, they expect that the Greeks <em>will</em> default on the current bonds.  </p>
+<p>But they haven&#8217;t yet, and this is not <a href="http://www.imdb.com/title/tt0181689/">Minority Report</a> (though we can all agree Phil Dick would recognize, if not approve of, the current financial world).</p>
+<p>So ISDA correctly ruled—the key phrase is &#8220;based on current evidence&#8221;—that there is not yet a Default Event.  If everyone says &#8220;we will tender our securities due 20 March for the exchange offered,&#8221; there will not be a default of those bonds.</p>
+<p>You, I, and Bill Gross can all agree that the likelihood of this happening is about equal to the chance that Rick Perry will be elected U.S. President this year.  But there has not been a Default Event.</p>
+<p>Wait two or three weeks.</p>
+<p>The thing Barry most overlooks is that yesterday&#8217;s ISDA ruling is, if anything, <em>good</em> for CDS buyers.</p>
+<p>What will be the economic difference of waiting to holders of the CDSes?  I don&#8217;t know for certain, but if you&#8217;re looking at the standard ISDA CDS contract, there&#8217;s a reasonable assumption that (1) the market price of the bond will not change for the better and (2) it is a certainty that the Accrued Interest on the bond will be greater when they declare a Default Event than it is now.</p>
+<p>Keep in mind: in a standard CDS, declaration of default <em>terminates the contract</em>. Accruals end, market pricing is to be determined by calling a few dealers, and the only thing left is to go through the pockets and look for loose change.**</p>
+<p>Yesterday&#8217;s ISDA ruling means the CDS buyers will be owed more Accrued Interest when (in two, or at most three, weeks) a Default Event is declared.</p>
+<p>What about the principal repayment due?  Recall again that the payment due is generally the net of the current market price <em>subtracted from</em> the initial principal amount (assumed to be par—100—but in any event greater than the current market value).</p>
+<p>I&#8217;m inclined to argue there is optimism in the current market that will not be there in two weeks: it&#8217;s not that liquid a market, there is a floor on the price of the economic equivalent of the new offer, and there is time value in the option to convert.***</p>
+<p>If ISDA had declared default yesterday—that is, assumed that Greece wasn&#8217;t just &#8220;mostly dead&#8221;****—they would have taken the current market price [P<sub>0</sub>]. Even before the delays and roundelays, that was likely to be greater than the market price of those bonds in a week or two[P<sub>1</sub>, when default is declared.</p>
+<p>That is, P<sub>0</sub> is greater than P<sub>1</sub>. And since the payment due is based on [100*****-P<sub>t</sub>], the principal amount due to CDS holders when default is declared will also be greater.</p>
+<p>ISDA followed the letter of the contract: the Greeks have not yet defaulted on an obligation, nor have they stated that they intend to do so.  When they do—there are few, if any, in the market who would treat the clause as a possible &#8220;If&#8221;—a Default Event will be declared and the CDS contracts will be expected to pay as they are due. And that payment will, in all likelihood, be higher than the payment that would have been due if ISDA had ruled differently yesterday.</p>
+<p>And if they don&#8217;t, then I&#8217;ll be agreeing with Barry that the whole thing was a scam from the start—though I would still argue that JPMorganChaseBear stealing more than $1,000,000,000 in customer funds from MF Global clients is a bigger one, which is something like saying that coprophagia is even worse in liquid form.</p>
+<p>When the CDS contracts actually have to be paid, then the fun will begin. If potential for insolvency is your idea of fun. But that&#8217;s another story.</p>
+<p>*They have seen S&#038;P downgrade their credit rating, but that&#8217;s a separate issue.</p>
+<p>**Obligatory reference.  It will pay off.</p>
+<p>***The Worst Case scenario is that you assume the new bonds are the only value in the transaction, and discount their value back over the cost of basically two-week money. The best case scenario is some combination of the price of the new bonds and expectations of either getting a better deal later and/or post-litigation gains.  The lattice may be ugly, but it yields an expected value higher than the Worst Case, and therefore higher than the market price of the bonds as the time to exercise approaches.</p>
+<p>****See ** above.</p>
+<p>*****Or the other initial contract price; in any case, a fixed value greater than P<sub>t</sub>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is the House Trying to Encourage Criminal Activity?</title>
+		<link>./../../2011/06/is-the-house-trying-to-encourage-criminal-activity.html</link>
+		<comments>./../../2011/06/is-the-house-trying-to-encourage-criminal-activity.html#respond</comments>
+		<pubDate>Wed, 15 Jun 2011 14:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[white-collar crime]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/is-the-house-trying-to-encourage-criminal-activity.html</guid>
+		<description><![CDATA[I left out of the last post why David Vitter (claims) he is blocking the two SEC nominees: Sen. David Vitter (R., La.) will block two nominees to the Securities and Exchange Commission until the agency announces whether victims of R. Allen Stanford&#8217;s alleged Ponzi scheme are owed compensation from the Securities Investor Protection Corp&#8230;.&#8220;We&#8217;ve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I left out of the last post <a href="http://online.wsj.com/article/SB10001424052702303848104576385742205738426.html?mod=googlenews_wsj"><em>why</em> David Vitter (claims) he is blocking the two SEC nominees</a>:<br />
+<blockquote>Sen. David Vitter (R., La.) will block two nominees to the Securities and Exchange Commission until the agency announces whether victims of R. Allen Stanford&#8217;s alleged Ponzi scheme are owed compensation from the Securities Investor Protection Corp&#8230;.<br /><a name="more"></a><br />&#8220;We&#8217;ve known for some time that the SEC waited far too long to take action against Allen Stanford, and now they&#8217;re dragging their feet in responding to the victims. I will continue to hold them accountable—including holding these nominations—until these fraud victims get an up-or-down answer from the SEC,&#8221; Mr. Vitter said in a statement.</p></blockquote>
+<p>Well, economics can help him here. Even old economics, such as <a href="http://www.nber.org/books/beck74-1">the pieces cited by Casey Mulligan</a> in a disingenuous piece he wrote for the NYT last week. (No NYT link from this non-subscriber. I believe the NBER pieces are ungated, but haven&#8217;t checked from a network without access.) As the Stigler piece notes, optimal spending should be based on your expectation of catching criminal activity.*</p>
+<p>So I expect that David Vitter is up in arms about <a href="http://www.mcclatchydc.com/2011/06/14/115792/house-ready-to-slash-funding-for.html">what his colleagues in the House are doing</a>:<br />
+<blockquote>The Republican-led House of Representatives is poised to pass, as early as Wednesday, a sweeping spending bill that would slash funding for the regulatory agency responsible for policing against excessive speculation and price manipulation in oil markets. </p></blockquote>
+<p>This rather understates the CFTC&#8217;s purvey. As their website notes:<br />
+<blockquote>Congress created the Commodity Futures Trading Commission (CFTC) in 1974 as an independent agency with the mandate to regulate commodity futures <em><strong>and option markets</strong></em> in the United States. The agency&#8217;s mandate has been renewed and expanded several times since then, most recently by the Commodity Futures Modernization Act of 2000&#8230;.</p>
+<p>[T]he futures industry has become increasingly varied over time and today encompasses a vast array of highly complex financial futures contracts.</p>
+<p>Today, the CFTC assures the economic utility of the futures markets by encouraging their competitiveness and efficiency, protecting market participants against fraud, manipulation, and abusive trading practices, and by ensuring the financial integrity of the clearing process. Through effective oversight, the CFTC enables the futures markets to serve the important function of providing a means for price discovery and offsetting price risk. [emphasis mine]</p></blockquote>
+<p>That&#8217;s right; the CFTC is responsible for regulating derivative trading activity. Which is why&#8230;<br />
+<blockquote>The Obama administration requested more than $300 million for the fiscal year that ends on Sept. 30, <em>a steep increase because the CFTC gained sweeping new powers under last year&#8217;s broad revamp of financial regulation</em>—short-handed as the Dodd-Frank Act.</p></blockquote>
+<p>This is pure Stigler. More responsibility, higher expectation of detecting malfeasance, higher budget necessary for optimal crime enforcement. Otherwise, you end up more criminal activity going undetected as the risk of being caught is reduced.**</p>
+<p>So what is the House doing?<br />
+<blockquote>The House bill would provide $171.9 million for the agency, a decrease of about $30 million from the $202.2 million given to the agency the prior year.</p></blockquote>
+<p>With the duties expanded by around 50%, the budget gets cut by 15%. Within the Stigler framework, we should expect (without any multiplier effect***) that it will be 43% <em>less</em> likely that any given criminal activity that falls under the CFTC&#8217;s jurisdiction will be detected and prosecuted.</p>
+<p>The House wants to make the Stanford Ponzi scheme, or something similar, more likely to occur. Will David Vitter be decrying this, even as he blocks nominees?</p>
+<p>*That this concept is outdated at best is subject for a future post, but it&#8217;s a fine baseline assumption.</p>
+<p>**As I said, it&#8217;s a simplified model, but functional if one assumes continuities.</p>
+<p>***Short version: this is where the model needs to be revised. The incentives to commit crimes are greater (detection less likely). That Mulligan could find no better cite than these works as the defence of his idiocy (as noted, no NYT link from me) is damning.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/is-the-house-trying-to-encourage-criminal-activity.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Some People Call Me Mau-rice</title>
+		<link>./../../2011/06/some-people-call-me-mau-rice.html</link>
+		<comments>./../../2011/06/some-people-call-me-mau-rice.html#respond</comments>
+		<pubDate>Wed, 08 Jun 2011 03:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[deregulation]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/some-people-call-me-mau-rice.html</guid>
+		<description><![CDATA[It&#8217;s not that the data is different; it&#8217;s the interpretation. For instance, Brad DeLong&#8217;s What Obama Needs to Do is three(or four) fine suggestions, one point (2) that hasn&#8217;t worked yet but bears repeating, and a moment (5) of hope that really does required Congressional action, as Stan Collender noted today. But the three good [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s not that the data is different; it&#8217;s the interpretation.</p>
+<p>For instance, Brad DeLong&#8217;s <a href="http://delong.typepad.com/sdj/2011/06/ryan-avent-says-in-a-sense-obama-deserves-to-lose-in-2012.html">What Obama Needs to Do</a> is three(or four) fine suggestions, one point (2) that hasn&#8217;t worked yet but bears repeating, and a moment (5) of hope that really <em>does</em> required Congressional action, <a href="http://capitalgainsandgames.com/blog/stan-collender/2264/wall-street-already-reacting-negatively-debt-ceiling-fight">as Stan Collender noted today</a>.</p>
+<p>But the three good points are things several of us have been saying for years now, and the chance that the Obama Administration is rational enough to do them has only increased by the degree to which Larry Summers is no longer there.  <a href="http://examinedlife.typepad.com/johnbelle/2004/03/if_wishes_were_.html">I want a pony, too</a>.</p>
+<p>So when I suggested <a href="http://www.angrybearblog.com/2011/06/random-notes-3-june-2011.html">a few days ago</a> that Buce was Much Too Generous to Maurice (&#8220;Hank&#8221;) Greenberg <a href="http://underbelly-buce.blogspot.com/2011/05/can-taxpayers-thank-eliot-spitzer-for.html">here</a>, it&#8217;s not that I believe Greenberg was an absolute failure.  He built AIG into what it is today—well, what it was before he lead it to what it became, which is (again) about what it is today.</p>
+<p>And there&#8217;s the rub, if not all of <a href="http://underbelly-buce.blogspot.com/2011/06/ready-when-you-are-ab.html">The Real Story</a>.  So this will be a Very Long Post, with Muliple Sidebars and Anecdotes.  Feel free to skim; it&#8217;s below the fold.<br /><a name="more"></a><br />In the deep, dark past, bankers were respected members of the community.  I mean real bankers: the guys the investment bankers refer to as 9-6-3s: they lend at 9%, they take in deposits at 6%, and they&#8217;re on the golf course at 3:00.  It wasn&#8217;t that they were the only game in town—though often enough they were—but it was a good, straightforward, relatively easy business.  As long as you didn&#8217;t make a big mess (and there were very few chances to do so) and kept your personal life reasonably under control, you got and maintained a great reputation.</p>
+<p>The equivalent of that, in the days before demutualisation, was runnning an insurance company.  You took near-term premia, had long-term obligations at a rate below what the market would pay (on average, in most cases), and you just had to, again, manage your personal relationships and your acquisition of clients. (As with derivatives, a small variation in the fourth decimal place means a lot of money.)  Get ones who are marginally healthier, where the same payout is made one year later, and you&#8217;re a superstar.</p>
+<p>After demutualization, having the stronger balance sheet going in means you&#8217;re in a better position to acquire weaker competitors.  AIG:Insurance::MannyHanny*:Banks</p>
+<p>All with a AAA balance sheet.  Safe, stable investment.  At least until the Noughts.</p>
+<blockquote><p>Sidebar: In the distant past, I traded for a AAA-rated bank. (You can read all about the bank <a href="http://www.amazon.com/Saving-Sun-Mavericks-Financial-Billions/dp/B000HWYKMU/ref=sr_1_fkmr0_1?ie=UTF8&#038;qid=1307476002&#038;sr=1-1-fkmr0">here</a>. Note that the 2003 subtitle has been replaced in the paperback editions by a more accurate one.)</p>
+<p>The thing about working for a AAA is that people <em>come to you</em>.  I went to a party with former coworkers—mostly people who are both smarter and more driven than I am, and whose c.v.s have Rather Famous Names, both Before and After—and the department head (who does not fall into either of those categories, but is a sociopath) was talking about how they were planning to schedule meetings with firms such as Coca-Cola and Annheuser-Busch.</p>
+<p>I had done a large, complicated deal with Annheuser-Busch that morning.  And it wasn&#8217;t my firm&#8217;s U.S. marketing skills or special product knowledge that got us the deal. It was the AAA rating.</p>
+<p>Once they lost, that&#8230;well, Gillian Tett can tell you the rest better than I (who left before that happened).</p></blockquote>
+<p>So when people tell me that Maurice Greenberg was incredibly detail-oriented and carefully managed every aspect of AIG and would have gotten it through the crisis, I&#8217;m naturally suspicious.</p>
+<p>That&#8217;s partially because I know someone who fits that description perfectly: Warren Spector.  He tracked the errors, he knew when the departments were not producing well, he pulled plugs, and he checked risk positions with the best of them.  William Cohan&#8217;s sources may not have told him this, but Warren Spector probably could have saved Bear Stearns.</p>
+<p>And if there had been a few more people like me speaking with Cohan, <em>House of Cards</em> would have turned out more like <em>Fatal Risk</em> than <em><a href="http://www.amazon.com/Indecent-Exposure-Hollywood-Business-Essentials/dp/0060508159">Indecent Exposure</a></em> as if it were told from Begelman&#8217;s perspective.</p>
+<p>Don&#8217;t get me wrong; I speak with people at AIG, and there are those there who firmly believe that Maurice &#8220;Not the Baseball Player&#8221; Greenberg could have saved them, Jack Aubrey-like, from all that followed his reign.  But that&#8217;s faith, not evidence.</p>
+<p>Part of the reason, one suspects, that Cohan marginalizes Spector while Boyd totemizes Greenberg is the AIG Board of Directors ousted Maurice Greenberg at virtually the same time the firm lost its AAA rating. Make no mistake: the Fall happened on Greenberg&#8217;s watch, his legendary attention to detail notwithstanding the balance-sheet distortions that were harbingers of Things to Come.</p>
+<p>Even if we ignore that his direct &#8220;competitors&#8221; in the early Noughts notably included his <a href="http://en.wikipedia.org/wiki/Jeffrey_W._Greenberg">tw</a>o <a href="http://en.wikipedia.org/wiki/Evan_G._Greenberg">sons</a>, Greenberg-as-CIO was always the man with the advantage.  He never ran the firm when it had to compete with others in a relatively-level playing field.</p>
+<p>Credit where due: he found a flaw in the insurance market, and he built a company around it.  So did many others, Mike Milken most obviously among them. Building a firm is an accomplishment; running it is not necessarily the same skillset.</p>
+<p>Similarly, running a AAA firm is relatively easy.  Running a AA or below firm—the firm Maurice Greenberg left his firm in the hands of Martin J. Sullivan, who was (<a href="http://en.wikipedia.org/wiki/Martin_J._Sullivan">per Wikipedia</a>) his selection—is often a different matter.</p>
+<p>It was Sullivan—a UK native—who had to run the AA firm, and on whose watch the AIG Financial Products group under Joseph Cassano went from the operation that compromised AIG&#8217;s AAA rating to the area that took the firm down.</p>
+<p>Would Greenberg have stopped this? There is scant evidence in favor of such an argument.  Greenberg&#8217;s objections in 2008 were to the Board&#8217;s attempt to save the firm by selling-off &#8220;non-core assets.&#8221;  Similarly, none of his back-benching—dangerous back-benching, arguably, given that his holdings in the company make him more visible than the member from Clan Agnew—from 2005 to 2008 was never about the risk that the Financial Products area was expanding too quickly.</p>
+<p>Maurice Greenberg remained, iirc, the largest shareholder of AIG even after his ouster.  In his frequent interviews, he made no secret that he was in contact with multiple board members.  His rather hand-picked successor shepherded the firm into disaster, a disaster architected with pick-up sticks by workers in and from his native land.</p>
+<p>Could Maurice Greenberg have saved AIG?  It&#8217;s nice to think so, but nothing in his actions, statements, or post-crisis recommendations makes that a likely story.</p>
+<p>Maurice Greenberg never ran AIG when it was not The Firm With Which People Wanted to Deal.  He built an impressive edifice, but so did the Sons of Noah—and Buce knows how that ended.**</p>
+<p>So the story that gets told is a man who was Always On Top.  And we forget that this is also the man who put his firm into the position where his successors would never have the same opportunity he did.</p>
+<p>But Buce knows better: <em>hubris</em> is always followed by <em>ate</em>.  The tale of Maurice &#8220;Hank&#8221; Greenberg is the tale of A Man Who Had It All, and who left it to be destroyed by his hand-picked successor and his successors.***</p>
+<p>That&#8217;s not the Success Story we want to tell, but its a lot closer to The Real Story, even ignoring the familial nature of the charges that began this whole discussion.</p>
+<p>So Buce&#8217;s conclusion is, I believe, accurate: Eliot Spitzer did not destroy AIG.  I can make a much better case that Maurice Greenberg did, but can live with the story as it is currently told, where Greenberg led the firm until it entered uncharted waters, and then was forced to turn the rudder over to his First Mate.</p>
+<p>*They may have gone by Chase, but the takeovers were run by the old Manufacturers Hanover team, up to and including J. P. Morgan.</p>
+<p>**Genesis 11:1-9 for the rest of you.</p>
+<p>***And Ed Liddy, who was a ridiculous choice even by Tim Geithner standards.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/some-people-call-me-mau-rice.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Derivatives: greater transparency is needed</title>
+		<link>./../../2010/12/derivatives-greater-transparency-is-needed.html</link>
+		<comments>./../../2010/12/derivatives-greater-transparency-is-needed.html#respond</comments>
+		<pubDate>Sun, 19 Dec 2010 19:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/derivatives-greater-transparency-is-needed.html</guid>
+		<description><![CDATA[by Linda Beale Derivatives: greater transparency is neededcrossposted with Ataxingmatter The big banks got into considerable trouble doing derivatives trades&#8211;especially the credit default swaps where AIG was the major counterparty and the taxpayers ended up bailing out the Big Banks like Goldman Sachs. So surely one of the results of &#8220;financial reform&#8221; in the wake [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Linda Beale</strong></p>
+<p><a href="http://ataxingmatter.blogs.com/tax/2010/12/derivatives-greater-transparency-is-needed.html">Derivatives: greater transparency is needed</a><br />crossposted with Ataxingmatter
+<p>The big banks got into considerable trouble doing derivatives trades&#8211;especially the credit default swaps where AIG was the major counterparty and the taxpayers ended up bailing out the Big Banks like Goldman Sachs.</p>
+<p>So surely one of the results of &#8220;financial reform&#8221; in the wake of the casino banking financial crisis would be utter and complete transparency about derivatives, correct?  One would think so.  But it may not be so.</p>
+<p>For a detailed picture of the way the Big Banks have controlled derivatives trading in order to make it a lucrative noncompetitive market for them and a costly market for derivatives endusers, read the article in the Saturday New York times:  Louise Story, <a href="http://www.nytimes.com/2010/12/12/business/12advantage.html">A Secretive Banking Elite Rules Trading in Derivatives</a>, New York Times, Dec. 11, 2010.</p>
+<p>As Story notes, there is an exclusive group of bankers that has a great deal of say about derivatives trading.  The theoretical purpose is to &#8220;safeguard the integrity&#8221; of the derivatives market.  The real purposes is to &#8220;defend[] the dominance of the big banks&#8221; which the banksters do by thwarting efforts to create transparent markets where end users get real information on prices and fees and comparable trades.</p>
+<p> <a name="more"></a>
+<p>The CFTC chair wants to push for more transparency about the derivatives clearinghouses, which will have more power under the Dodd-Frank bill.  But the banks don&#8217;t want transparency&#8211;in fact, the group of nine banksters that is the subject of the article meets monthly with the ICE Trust clearinghouse, and has enormous influence and power over them. </p>
+<p>But Republicans in Congress aren&#8217;t exactly supportive of financial reform, unsurprisingly.  They&#8217;ve gotten big contributions and backing from Big Banks, and they plan to push back against banking reform.  Apparently they think another crisis like the one that hit us won&#8217;t be so bad.  After all, the banks survived this one just fine (and are making billions off the very low funding costs available to them through the Fed, while charging their depositors and customers huge fees).  As did most of the multimillionaires who own substantial financial assets.  Apparently, those who want to ease back on banking reform don&#8217;t care much for ordinary Americans who are paying through the nose for credit and getting nothing for their deposits.</p>
+<p>Here&#8217;s an excerpt from the piece on the way the Big Banks control the derivatives market by keeping the facts about derivatives trades secret.</p>
+<p>In the midst of the turmoil, regulators ordered banks to speed up plans — long in the making — to set up a clearinghouse to handle derivatives trading. The intent was to reduce risk and increase stability in the market.</p>
+<p>Two established exchanges that trade commodities and futures, the InterContinentalExchange, or ICE, and the Chicago Mercantile Exchange, set up clearinghouses, and, so did Nasdaq.</p>
+<p>Each of these new clearinghouses had to persuade big banks to join their efforts, and they doled out membership on their risk committees, which is where trading rules are written, as an incentive.</p>
+<p>None of the three clearinghouses would divulge the members of their risk committees when asked by a reporter. But two people with direct knowledge of ICE’s committee said the bank members are: Thomas J. Benison of JPMorgan Chase &#038; Company; James J. Hill of Morgan Stanley; Athanassios Diplas of Deutsche Bank; Paul Hamill of UBS; Paul Mitrokostas of Barclays; Andy Hubbard of Credit Suisse; Oliver Frankel of Goldman Sachs; Ali Balali of Bank of America; and Biswarup Chatterjee of Citigroup.</p>
+<p>Through representatives, these bankers declined to discuss the committee or the derivatives market. Some of the spokesmen noted that the bankers have expertise that helps the clearinghouse.</p>
+<p>Many of these same people hold influential positions at other clearinghouses, or on committees at the powerful International Swaps and Derivatives Association, which helps govern the market.</p>
+<p>Critics have called these banks the “derivatives dealers club,” and they warn that the club is unlikely to give up ground easily.</p>
+<p>*****</p>
+<p>For many, there is no central exchange, like the New York Stock Exchange or Nasdaq, where the prices of derivatives are listed. Instead, when a company or an investor wants to buy a derivative contract for, say, oil or wheat or securitized mortgages, an order is placed with a trader at a bank. The trader matches that order with someone selling the same type of derivative.</p>
+<p>Banks explain that many derivatives trades have to work this way because they are often customized, unlike shares of stock. One share of Google is the same as any other. But the terms of an oil derivatives contract can vary greatly.</p>
+<p>And the profits on most derivatives are masked. In most cases, buyers are told only what they have to pay for the derivative contract, say $25 million. That amount is more than the seller gets, but how much more — $5,000, $25,000 or $50,000 more — is unknown. That’s because the seller also is told only the amount he will receive. The difference between the two is the bank’s fee and profit. So, the bigger the difference, the better for the bank — and the worse for the customers.</p>
+<p>It would be like a real estate agent selling a house, but the buyer knowing only what he paid and the seller knowing only what he received. The agent would pocket the difference as his fee, rather than disclose it. Moreover, only the real estate agent — and neither buyer nor seller — would have easy access to the prices paid recently for other homes on the same block.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/derivatives-greater-transparency-is-needed.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Markets and Liquidity, Part 1 of Many</title>
+		<link>./../../2010/10/markets-and-liquidity-part-1-of-many.html</link>
+		<comments>./../../2010/10/markets-and-liquidity-part-1-of-many.html#respond</comments>
+		<pubDate>Tue, 12 Oct 2010 19:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[SettlementandClearance]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/markets-and-liquidity-part-1-of-many.html</guid>
+		<description><![CDATA[I&#8217;ve been working on White Paper on Liquidity and the idea of a &#8220;market,&#8221; and plan to post some pieces of it here over the next week or so. But this is too good to pass up, and I&#8217;m late to the game as is. On 15 September, the CFTC and the SEC held a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been working on White Paper on Liquidity and the idea of a &#8220;market,&#8221; and plan to post some pieces of it here over the next week or so.</p>
+<p>But this is too good to pass up, and I&#8217;m late to the game as is.</p>
+<p>On 15 September, the CFTC and the SEC held a joint &#8220;public roundtable discussion&#8221; on Swap Execution Facilities (SEFs).  Part 1 is <a href="http://www.sec.gov/news/openmeetings/2010/jac091510-panel1.asx">here</a>, Part 2 <a href="http://www.sec.gov/news/openmeetings/2010/jac091510-panel2.asx">here</a>.</p>
+<p>What is most amazing, if you didn&#8217;t pay attention to the markets, is how few actual transactions occur in the &#8220;derivatives market&#8221;—at least according to people who work in the Industry and are discussants.</p>
+<p>Take, for example, the Credit Swaps Market. According to ISDA, the <a href="http://www.bloomberg.com/apps/news?sid=a4AtVMqwawtc&#038;pid=newsarchive">Credit Default Swaps Market in 2009 declined to $38.6 trillion</a>; that&#8217;s $38,600,000,000,000, give or take forty or fifty billion.<br /><a name="more"></a></p>
+<p>Sounds like a lot, no? Strangely, there&#8217;s virtually no liquidity associated with that $38.6T. According to the testimony in Part 1, the most frequently traded CDS—GE, presumably because they bring good things to life (or at least have DoD contracts)—trades around 15 times a day.  That might be impressive for a penny stock, but it&#8217;s not exactly the type of thing that makes you think &#8220;Wow, that&#8217;s a market!&#8221;</p>
+<p>The implications are clear: the bid-offer will be wide (think FX rates from your local bank, or gold prices from <a href="http://www.ritholtz.com/blog/2010/07/glenn-beck-goldline/">Goldline</a>), the loss when one tries to get out of the trade makes &#8220;driving a new car off the lot&#8221; look like a blip, and any dispute will be resolved against your favor.</p>
+<p>In short, there is—and should be—very little retail demand for these products, for very good reason.  Paul Volcker&#8217;s description of <a href="http://blogs.wsj.com/marketbeat/2009/12/08/volcker-praises-the-atm-blasts-finance-execs-experts/">the ATM as the only financial innovation in the past 25 years that helped people</a> has never seemed so true.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/markets-and-liquidity-part-1-of-many.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interlude / Self-Indulgent Advt</title>
+		<link>./../../2010/08/interlude-self-indulgent-advt.html</link>
+		<comments>./../../2010/08/interlude-self-indulgent-advt.html#respond</comments>
+		<pubDate>Tue, 10 Aug 2010 17:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[consumer protection]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[financial reform]]></category>
+		<category><![CDATA[regulation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/interlude-self-indulgent-advt.html</guid>
+		<description><![CDATA[I want one of these positions: The Office of Complex Financial Institutions (which the agency has assigned the acronym CFI) &#8220;will perform continuous review and oversight of bank holding companies with more than $100 billion in assets as well as non-bank financial companies designated as systemically important by the new Financial Stability Oversight Council,&#8221; the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I <a href="http://blogs.wsj.com/economics/2010/08/10/fdic-adds-two-new-divisions-to-gear-up-for-dodd-frank-act/">want one of these positions</a>:<br />
+<blockquote>The Office of Complex Financial Institutions (which the agency has assigned the acronym CFI) &#8220;will perform continuous review and oversight of bank holding companies with more than $100 billion in assets as well as non-bank financial companies designated as systemically important by the new Financial Stability Oversight Council,&#8221; the FDIC said. This division will also be in charge of using the FDIC’s new liquidation powers over &#8220;bank holding companies and non-bank financial companies that fail.&#8221;</p></blockquote>
+<p>If one because it will make me feel less guilty about turning down an opportunity at <a href="http://www.ft.com/cms/s/0/efcdac7e-a0ea-11df-badd-00144feabdc0.html">Fannie Mae</a> earlier this summer.</p>
+<p><a href="http://reddit.com/submit"> <img src="http://reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/interlude-self-indulgent-advt.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Senate passes HR 4173 finance reform conference report</title>
+		<link>./../../2010/07/senate-passes-hr-4173-finance-reform-conference-report.html</link>
+		<comments>./../../2010/07/senate-passes-hr-4173-finance-reform-conference-report.html#respond</comments>
+		<pubDate>Fri, 16 Jul 2010 14:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Dodd-Frank bill]]></category>
+		<category><![CDATA[Elizabeth Warren]]></category>
+		<category><![CDATA[financial reform]]></category>
+		<category><![CDATA[HR 4173]]></category>
+		<category><![CDATA[securitization]]></category>
+		<category><![CDATA[speculative trading]]></category>
+		<category><![CDATA[Tim Geithner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/senate-passes-hr-4173-finance-reform-conference-report.html</guid>
+		<description><![CDATA[by Linda Beale crossposted with Ataxingmatter Senate passes HR 4173 finance reform conference report[updated to add information on Geithner&#8217;s opposition to Warren 7:12 pm] On a 60-39 vote, the US Senate passed the Dodd-Frank H.R. 4173 financial reform conference report today. While the bill imposes some new restrictions and creates a consumer protection agency, most [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>by Linda Beale</strong> <br />crossposted with Ataxingmatter</p>
+<p><a target="_blank" href="http://ataxingmatter.blogs.com/tax/2010/07/senate-passes-hr-4173-finance-reform-conference-report-.html"><strong>Senate passes HR 4173 finance reform conference report</strong></a><br />[updated to add information on Geithner&#8217;s opposition to Warren 7:12 pm]</p>
+<p>On a 60-39 vote, the US Senate passed the <a target="_blank" href="http://www.govtrack.us/congress/bill.xpd?bill=h111-4173">Dodd-Frank H.R. 4173 financial reform conference report</a> today.  While the bill imposes some new restrictions and creates a consumer protection agency, most of the impact will come (if it comes) through regulation as the new systemic risk council oversees bank issues and decides whether activities of banks pose sufficient risk to be regulated or eliminated.  Capital requirements and leverage requirements, for example, are not directly set in the bill.  The US is likely to settle with the capital and leverage standards set by Basle III, the discussions going on now at the Bank for International Settlements regarding updating of the 2004 standards.   In those talks, thje banks lobbying are making inroads on the fairly tough standards originally proposed in December, as officials yield to fears (cited by the banks) that tough capital and leverage requirements will dampen the economic revival.  See, e.g., Damian Paletta and David Enrich, Banks Gain in Rules Debate: Regulators Seen Diluting Strictest New &#8216;Basel&#8217; Curbs; Credit Crunch Fears Remain, Wall St. Journal, July 15, 2010, at A1.<br /><a name="more"></a><br />Query whether we have learned anything from this crisis at all.  Officials remain at the mercy of banks&#8211;bailing them out, providing cheap cost of funds through implicit and explicit guarantees, and letting, even encouraging, them to get back to the old securitization games that allowed them to generate liquid and easy credit without adhering to prudential banking standards since the lender was not the one holding on to the loans over the long term.  Banks argue for remaining entangled with their profitable proprietary trading and derivatives businesses, since they know that the synergies of being able to use cheap depositor funding for their investment-banking activities means high profits for them, even if it may mean socialization of losses down the road.  See Simon Nixon, Barclays Capped by Regulatory Risk, Wall St. J., July 13, 2010, at C10</p>
+<p>Interestingly, Tim Geithner has come out against having Elizabeth Warren appointed as head of the new consumer protection agency created by the reform bill.  Nasiripour, <a target="_blank" href="http://www.huffingtonpost.com/2010/07/15/tim-geithner-opposes-nomi_n_647691.html">Tim Geithner Opposes Nominating Warren to Head new Consumer Agency</a>, Huffington Post, Jul. 15, 2010.  Having watched Prof. Warren in action and read the scathingly honest output of her term at the head of the bailout watchdog commission, I can&#8217;t think of a better person to head the agency.  One suspects that Geithner is concerned about a gradual erosion of the power of the Wall Street clique (Geithner, Summers and Bernancke) with the forceful Warren on the job with the ear of the President.   Personally, I think that power needs to be eroded, so Geithner&#8217;s concern makes Warren an even better choice.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/senate-passes-hr-4173-finance-reform-conference-report.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Derivatives issue tomorrow</title>
+		<link>./../../2010/06/derivatives-issue-tomorrow.html</link>
+		<comments>./../../2010/06/derivatives-issue-tomorrow.html#respond</comments>
+		<pubDate>Thu, 24 Jun 2010 11:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/derivatives-issue-tomorrow.html</guid>
+		<description><![CDATA[The House-Senate conference committee on financial reform takes up the derivatives issue tomorrow. Will they adopt the Senate version (which covers 90% of derivatives according to the CFTC) or the House version which is riddled with loopholes and covers only 60% of derivatives trading?]]></description>
+				<content:encoded><![CDATA[<p>The House-Senate conference committee on financial reform takes up the derivatives issue tomorrow. Will they adopt the Senate version (which covers 90% of derivatives according to the CFTC) or the House version which is riddled with loopholes and covers only 60% of derivatives trading?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/derivatives-issue-tomorrow.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More on derivatives</title>
+		<link>./../../2010/03/more-on-derivatives.html</link>
+		<comments>./../../2010/03/more-on-derivatives.html#respond</comments>
+		<pubDate>Mon, 29 Mar 2010 21:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Great Recession]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/03/more-on-derivatives.html</guid>
+		<description><![CDATA[by cactus Last week I wrote A Simple Explanation of How The Use of Derivatives Created The Great Recession. I want to clarify things with an analogy that at first glance may seem unrelated. Let&#8217;s talk about poker. Its a game that seems to have grown in popularity in the last decade, especially with the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by cactus</p>
+<p>Last week I wrote <a href="http://www.angrybearblog.com/search?updated-max=2010-03-23T11%3A19%3A00-04%3A00&#038;max-results=9">A Simple Explanation of How The Use of Derivatives Created The Great Recession</a>.</p>
+<p>I want to clarify things with an analogy that at first glance may seem unrelated. Let&#8217;s talk about poker. Its a game that seems to have grown in popularity in the last decade, especially with the advent of on-line poker, even if the rate of increase seems to me (and I haven&#8217;t had time to pay much attention lately so take it for what it is) to have slowed in recent years.</p>
+<p>Poker is different from most casino games in that you only play against other players, not against the house. The casino &#8211; online or glitz and mortar takes a rake, which is a piece of each pot. In a tournament, the casino&#8217;s rake comes off the sum total of the entry fees (&#8220;buy-ins&#8221;); what is left after the rake is the prize pool.</p>
+<p>When the rakes are small enough, and they usually are, a good player can have a positive expected return. So&#8230; investors willing to risks can finance players by covering the buy-ins of the players in exchange for a percentage of their winnings. Though poker is a game of skill, luck still matters a great deal, so it probably makes sense to spread one&#8217;s investment either across a large number of tournaments by the same player, or across a large number of entrants in the same tournament. I know of examples where this is being done informally, and I have seen business plans for web-based versions of these approaches on a wider scale, but the market, as such, is currently very unsophisticated. Its good for the players &#8211; they can enter more tournaments, at lower risk. Despite giving up a share of their winnings, they stand to make more money by being able to play more tournaments and tournaments with more expensive buy-ins. I understand that one well-known professional player, Chris Moneymaker (and yes, that is his real name) produced a monster return both for himself and his backer by qualifying for and winning the World Series of Poker with this sort of financing scheme.</p>
+<p>Its not difficult to imagine how such a market could evolve&#8230; if the money is there. Over time, buying shares of a player&#8217;s winnings in a package of tournaments (say ten) in exchange for a share of the player&#8217;s winnings might become common for good players. Over time, some enterprising individuals who know and are trusted by many of the better players might find themselves a niche aggregating players together. The result &#8211; instead of being able to buy into the earnings of a single individual in a ten tournament package, you could buy into the earnings of ten or fifteen players over ten (or more) tournaments. It diversifies the risk a bit for all involved, especially if there was some sort of limited prize sharing among the players in the package. Of course, that&#8217;s a lot more expensive than financing one player&#8230; so that would lead to two additional developments.</p>
+<p>Development 1 &#8211; exchange markets would develop. That would allow for liquidity (investors could more easily get into and out of investments). It would also allow securities to change value over their lifetime. (If none of the players cashed in the first tournament or two, the value of the security would drop, for instance.)</p>
+<p>Development 2 &#8211; margins. Some deep pocket entities would be willing to loan investors money in order to buy into such packages.</p>
+<p>If the market got to this point, perhaps some really sophisticated investors would jump in. They might find &#8211; using sophisticated math &#8211; that it pays to pepper each package of players with a long shot or two. They might notice other thing &#8211; perhaps their models would show that a given security contains too many players with a similar style, or who likely to knock each other out of a given tournament. Short it.</p>
+<p>Meanwhile, the aggregators might notice the growth in demand, and start packaging more marginal players together. Its all good though &#8211; someone with a Ph.D. in econ (or even better, Math or Physics) could demonstrate that a bunch of marginal players put together do, on average, do almost as well as the top players, and hey, its Poker, all you need is a chip and chair. And a bunch of MBAs could put that proof on 17 powerpoint slides and sell it to the county treasurer in any number of locations in this country (and elsewhere), and we&#8217;re not just talking the sticks either.</p>
+<p>If the money keeps flowing in, and the story resonates like tulips, Florida swampland or Pets.com, eventually you have rubes all over the country who think they&#8217;re going to finance a comfy retirement by plonking down for the buy-ins for some slicks who will draw to an inside straight every time. And you can even get insurance on your expected winnings, so what could possibly go wrong? Especially when every taxi driver and waiter in the country, not to mention every editor at the National Review, will happily give you advice on how best to play the derivatives market for poker. Heck, the guy in the Oval Office starts suggesting that this is probably what the country should be doing with its Social Security &#8211; everybody could direct their own account.</p>
+<p>That&#8217;s about when the doo-doo will hit the fan. And here&#8217;s how it starts&#8230; a big investor loses big time. His package of &#8220;Poker Geniuses from Blowing Rock, North Carolina, Class B-7&#8221; comes up a dud. Unfortunately, the dude is leveraged up 50 to 1. Which makes sense, because he couldn&#8217;t lose so it was guaranteed money. Unfortunately, he did lose. So he&#8217;s gotta pay his creditors, and he does so by liquidating some other positions. Due to leverage, a lot of positions. That pushes down the value of those positions, and similar securities. But it does something worse&#8230; for some reason, it makes a few people re-evaluate the likely pay-offs of the securities that they themselves are holding. And if &#8220;Poker Geniuses from Blowing Rock, North Carolina, Class B-7&#8221; can come up empty, what about the &#8220;Potted Plant Poker Playas of Playa del Rey, L Team?&#8221; The folks holding the last tranche to pay off on something they just realized is a dog, and which has already lost value on the market when the big guy started selling left and right to meet his obligations &#8211; what are they going to do? Bear in mind, Goldman beat them out the door by six months, and they&#8217;re leveraged up. 50 to 1. And a payment is due at the end of the week and nobody is answering their calls.</p>
+<p>So the market collapses. In fact, a few other markets collapse &#8211; who knows who has lost so money on Poker derivatives that they are going to go under, and that big multinational that wants a bridge loan does have a division that plays in this kind of thing, right? No bridge loan for you. It turns out that some of the big guys &#8211; the folks who aggregated the players in the first place, and thus understood what sort of dogs were being financed in the first place &#8211; bought into their own sales pitch and are holding piles of this crud. Inevitably, there&#8217;s a bail-out for some of the big boys. The Fed or the Treasury takes the crud off their hands, and gives them top dollar to boot. After all, they&#8217;ve convinced the government that without that market, nobody is going to finance a company that manufactures patio furniture in Indiana. Of course, none of them does get around to loaning money to that company that manufactures patio furniture in Indiana, but that&#8217;s a trivial detail. Enough of the big boys are made whole that everyone who counts is happy. And there is little thing called blackjack&#8230;</p>
+<p>So, what did I miss?</p>
+<p>by cactus</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/03/more-on-derivatives.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Derivatives are useful for Asset-Liability Management. Nu?</title>
+		<link>./../../2010/02/derivatives-are-useful-for-asset-liability-management-nu.html</link>
+		<comments>./../../2010/02/derivatives-are-useful-for-asset-liability-management-nu.html#respond</comments>
+		<pubDate>Tue, 16 Feb 2010 15:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ALM]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[Goldman Sachs]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/derivatives-are-useful-for-asset-liability-management-nu.html</guid>
+		<description><![CDATA[I was going to post something a couple of days ago on Greece&#8217;s derivatives deal, but knew I was missing a key piece. It became prominent yesterday, and Felix&#8217;s summary today gets it spot on: So while it’s entirely fair to blame Greece for trying to hide its debt, and to blame Eurostat for letting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was going to post something a couple of days ago on Greece&#8217;s derivatives deal, but knew I was missing a key piece.</p>
+<p>It became prominent yesterday, and Felix&#8217;s summary today <a href="http://blogs.reuters.com/felix-salmon/2010/02/16/the-greek-derivatives-arent-goldmans-fault/">gets it spot on</a>:<br />
+<blockquote>So while it’s entirely fair to blame Greece for trying to hide its debt, and to blame Eurostat for letting it do so, I think that blaming Goldman is harder. It was surely not the only bank involved in these transactions, and the swaps were simple enough to be shopped around a few different banks to see which one could provide the best deal. Structuring swaps transactions is one of those things which investment banks do. If countries like Greece buy swaps in order to hide their true fiscal status, then that’s the country’s fault, not the banks’. No self-respecting bank would decline such a transaction because they felt it was unfair to Eurostat.</p>
+<p>Yes, I’m sure that Goldman put a team of people onto the Eurostat rules and made that team available to the Greeks. But let’s not blame the advisers here, for structuring something entirely legal and which the Greeks and Italians clearly wanted to be able to do all along. This is a failure of European transparency and coordination; Goldman is a scapegoat. [emphases mine]</p></blockquote>
+<p>In the &#8220;good old days,&#8221; some corporate treasurers would use swaps because they were an off-balance sheet way to bet on the movement of Treasuries.  But the good ones were using them for asset-liability management: reducing their cost of funds and/or the risks associated with that funding.</p>
+<p>Greece is Asset-Liability Management Writ Large—and they made certain that the Eurostat agreements specifically permitted them to do it.  Only an economist would call the result an unintended consequence; the finance world will be surprised if they were the only ones.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/derivatives-are-useful-for-asset-liability-management-nu.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Iceland &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Is Ireland the Poster Child of Growth?</title>
+		<link>./../../2012/07/is-ireland-the-poster-child-of-growth.html</link>
+		<comments>./../../2012/07/is-ireland-the-poster-child-of-growth.html#respond</comments>
+		<pubDate>Wed, 04 Jul 2012 23:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[current economic policy]]></category>
+		<category><![CDATA[economic geography]]></category>
+		<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[Iceland]]></category>
+		<category><![CDATA[Ireland]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/is-ireland-the-poster-child-of-growth.html</guid>
+		<description><![CDATA[by Rebecca Wilder Is Ireland the Poster Child of Growth? I wanted to familiarize myself with the economic statistics in Ireland, so I thought that I’d share my findings with you all. Many politicians refer to Ireland as the poster child of austerity – according to the contentious thesis of expansionary austerity (a review from the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a></p>
+<p>Is Ireland the Poster Child of Growth?</p>
+<p>I wanted to familiarize myself with the economic statistics in Ireland, so I thought that I’d share my findings with you all. Many politicians refer to Ireland as the poster child of austerity – according to the contentious thesis of expansionary austerity (a review from the IMF .pdf <a href="http://www.imf.org/external/pubs/ft/wp/2011/wp11158.pdf">here</a>), is it therefore the poster child of growth? In this post, I review the cyclical data and find that the Irish economy is quite divergent with optimism only evident in the industrial and export sectors. In aggregate, there’s really been no momentum at all.<br />On the one hand, the industrial sector seems to be holding in okay, with the manufacturing PMIs remaining above 50 since March 2012. Furthermore, international saving, or the current account, moved from a 6% of GDP deficit in Q3 2008 to a small surplus in the fourth quarter of 2011 (4-qtr moving average). However, the current account has been deteriorating slightly at the margin, beginning in the second half of 2011.</p>
+<p><em>Note: Except where noted in the legend, all charts below relate to the Irish economy.</em><br /><em><br /></em><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/07/pmi.jpg"><img alt="" height="325" src="http://www.economonitor.com/rebeccawilder/files/2012/07/pmi.jpg" width="422"></a><br /><img alt="" height="319" src="http://www.economonitor.com/rebeccawilder/files/2012/07/ca.jpg" width="423"></p>
+<p><a name="more"></a></p>
+<p>In contrast, the consumer sector is suffering quite explicitly. After yesterday’s revisions to previous months, we now see the harmonized unemployment hovering near its peak rate, 14.6% in May vs. 14.8% peak (in the chart below, the red line maps the pre-revised unemployment rates). Consumer confidence is very low, which implies that retail sales could tumble a bit in coming months. Furthermore, price inflation lost some steam, although it remains above the deflationary period that ended in 2010 by the headline measure. Core inflation dropped off in the last couple of months to just 0.4% Y/Y in May. Finally, for all of the optimism on Ireland, Q4 2011 GNP and GDP are just 1% and 0.7%, respectively, higher than their 2010 lows.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/07/unemployment_rate1.jpg"><img alt="" height="321" src="http://www.economonitor.com/rebeccawilder/files/2012/07/urate.jpg" width="424"></a><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/07/consumer_chart.jpg"><img alt="" height="324" src="http://www.economonitor.com/rebeccawilder/files/2012/07/consumer_chart.jpg" width="415"></a><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/07/inflation.jpg"><img alt="" height="324" src="http://www.economonitor.com/rebeccawilder/files/2012/07/inflation.jpg" width="415"></a><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/07/agg_income.jpg"><img alt="" height="324" src="http://www.economonitor.com/rebeccawilder/files/2012/07/agg_income.jpg" width="415"></a></p>
+<p>It’s probably too early to fully discount the orthodox expansionary austerity thesis – but at the minimum, it does appear as if any economic momentum has been gained primarily through global trade, and that sector is struggling. In all, I’d say that Ireland looks more economically depressed than ambitious and not the poster child of growth.</p>
+<p><strong><em>Rebecca Wilder</em></strong><br /><strong><em><br /></em></strong><br />crossposted with <a href="http://www.economonitor.com/rebeccawilder/2012/07/03/is-ireland-the-poster-child-of-growth/">The Wilder View&#8230;Economonitors</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/is-ireland-the-poster-child-of-growth.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

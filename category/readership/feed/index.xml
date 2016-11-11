@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>readership &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Angry Bear on the rise</title>
+		<link>./../../2008/04/angry-bear-on-the-rise.html</link>
+		<comments>./../../2008/04/angry-bear-on-the-rise.html#respond</comments>
+		<pubDate>Tue, 01 Apr 2008 11:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[readership]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/angry-bear-on-the-rise.html</guid>
+		<description><![CDATA[Angry Bear has been steadily increasing its readership, but in the last three months especially has seen a significant rise in visits. For the first time ever we had over 100,000 visits in March, which is a milestone given that around 60,000 was common. (Real figures can be evaluated on the sitemeter. January saw 90,000, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Angry Bear has been steadily increasing its readership, but in the last three months especially has seen a significant rise in visits. For the first time ever we had over 100,000 visits in March, which is a milestone given that around 60,000 was common. (Real figures can be evaluated on the sitemeter. January saw 90,000, February saw 80,000).</p>
+<p>Of course our friend <a href="http://calculatedrisk.blogspot.com/">Calculated Risk</a> refers many to Angry Bear over several years, but I also want to especially give a hat-tip to <a href="http://realclearmarkets.com/">Real Clear Markets</a> for consistent reference to Angry Bear in their Off the Street section.</p>
+<p><a href="http://blogreport.salon.com/default.aspx">Salon-The Blog Report</a> has carried Angry Bear posts consistently recently. Readers from<a href="http://nakedcapitalism.com/"> Naked Capitalism</a> have come by more often as well.  Mark Thoma at <a href="http://economistsview.typepad.com/">Economist&#8217;s View</a> carries posts from Angry Bear in the weekly links update, listed by author, but seems to be including more of our posts.  Thank you.</p>
+<p>I want to take the time to thank Calculated Risk and Real Clear Markets readers for their vote of confidence.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/angry-bear-on-the-rise.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

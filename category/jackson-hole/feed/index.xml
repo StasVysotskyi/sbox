@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jackson Hole &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>On Woodford in Wyoming</title>
+		<link>./../../2012/09/on-woodford-in-wyoming.html</link>
+		<comments>./../../2012/09/on-woodford-in-wyoming.html#respond</comments>
+		<pubDate>Mon, 03 Sep 2012 23:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jackson Hole]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/on-woodford-in-wyoming.html</guid>
+		<description><![CDATA[I&#8217;m feeling lonely out on this limb, but I think I will defend Bernanke and criticize Woodford ((and admit I only read the concluding section and the first two sections on foreward guidance of his talk) *.pdf but no warning. Open it).  Medium and long term Treasury rates are extraordinarily low.  It seems to me that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div><span lang="EN">I&#8217;m feeling lonely out on this limb, but I think I will defend Bernanke and criticize Woodford ((and admit I only read the concluding section and the first two sections on foreward guidance of <a href="http://kansascityfed.org/publicat/sympos/2012/mw.pdf?sm=jh083112-4">his talk)</a> *.pdf but no warning. Open it).  Medium and long term Treasury rates are extraordinarily low.  It seems to me that we can deduce three things from this. 
+</p>
+</div>
+<div><span lang="EN"></div>
+<div><span lang="EN">1) Pessimism about real GDP
+</p>
+</div>
+<div><span lang="EN">2) Low expected inflation
+</p>
+</div>
+<div><span lang="EN">3) Bond traders are confident that the Fed will keep the target federal funds rate at essentially zero for a good long while (at least through 2015 <a href="http://www.angrybearblog.com/2012/09/monetary-policy-lower-bounds.html">see this</a>)
+</p>
+</div>
+<div><span lang="EN"></div>
+<div><span lang="EN">Krugman and the league of reality based economists like to stress points 1 and 2, but point 3 is just as solid.  No possible forward guidance can get the 5 year rate under 0. 
+</p>
+</div>
+<div><span lang="EN">The Krugman/Woodford/Eggertsson/(apologies to those I missed) point always was that even if the monetary authority can&#8217;t get the safe short term rate lower, it *might* be able to influence the safe short term rate expected to hold a few years in the future.   But how much lower can that expected rate go?  The 5 year rate was 0.66% the last time I checked.  It is hard to imagine that Bernanke can make credible promises about policy after the end of his current term.  A negative real federal funds rate is very very far from normal (I&#8217;d say normal is about 2 % real). There is every sign that the Fed has given about all the forward guidance to bond traders that can be given. 
+</p>
+</div>
+<div><span lang="EN"></div>
+<div><span lang="EN">OK my thoughts on Woodfords thoughts and empirical work on forward guidance.  First I will refer to figures but not cut and paste them (not respect for copyright but laziness). Please click the links.  My only real point is that all of the shifts in interest rates are tiny.  The largest is on the order of 0.15%.  Even if interpreted as a shift in predicted short rates due to a shift in beliefs about the monetary authorities future policy, this just can’t be a big deal.  The results are consistent with important additional benefits from a 15 or maybe a 10 year commitment to extremely low interest rates.  But the current monetary authorities just can’t do that, because they probably won’t be in office.
+</p>
+</div>
+<div><span lang="EN"></div>
+<div>After the jump I work through the first two sections on monetary guidance.</div>
+<div></div>
+<div><span lang="EN"><br /><a name="more"></a></div>
+<div><span lang="EN"></div>
+<div><span lang="EN">I note that the theory of forward guidance section ends with warnings about how difficult it is to make such a policy work
+</p>
+</div>
+<div></div>
+<div>These matters are not simple
+</p>
+</div>
+<div>ones, and require considerable attention to the way the central bank communicates
+</p>
+</div>
+<div>about its objectives, procedures and decisions. The problem is all the more difficultwhen one must communicate about how an unprecedented situation will be dealt with.
+</p>
+</div>
+<div></div>
+<div><span lang="EN">But the part which really bothers me is the discussion of empirical evidence of effects of forward policy guidance.  Section 1.2.1 “Does Central Bank Speech Matter” (which really should be titled “does central Bank Speech other than explicit forward guidance matter”) concludes
+</p>
+</div>
+<div></div>
+<blockquote><p><i><span lang="EN">“one cannot say that these results provide clear
+</p>
+<p></i><i>evidence of an ability to change beliefs about the reaction function.”</i></p></blockquote>
+<div></div>
+<div><span lang="EN">The next section on explicit forward guidance includes the disclaimer
+</p>
+</div>
+<div></div>
+<blockquote><p><i><span lang="EN">“It is therefore of interest to consider what has happened on these occasions, even if one cannot do formal hypothesis tests with such a small sample of events, each rather unique.”</i></p></blockquote>
+<div></div>
+<div><span lang="EN">I’m not sure I agree.  The number of data points is equal to the number of transactions in financial markets.  Figure 1 seems to show statistically significant evidence of a drop of expected future overnight interest rates of about 10 to 15 whole basis points.  Wow.  This could be expected to have uh not much effect on anything anyone cares about because 15 basis points sure aint a lot. 
+</p>
+</div>
+<div></div>
+<div><span lang="EN"> Woodford is a very smart guy but when he writes </div>
+<div><span lang="EN"></div>
+<blockquote><p><i><span lang="EN">“It is useful to note not only that OIS rates for maturities as long as six to twelve months fall, but that the longer maturities fall more; that is, not only does the OIS yield curve fall in response to the announcement, but it flattens.”</i></p></blockquote>
+<div></div>
+<div><span lang="EN">He uses <span lang="EN">bold face type<span lang="EN"> to discuss a difference of 2 or 3 basis points.
+</p>
+</div>
+<div></div>
+<div><span lang="EN">But wait, there’s more.  The 10-15 percent decline at the time of the announcement on April 21 2009 didn’t last
+</p>
+</div>
+<div></div>
+<div><span lang="EN">“One also observes from Figure 2 that, during the first week of June the forward rate shot up again, to a level greater than 50 basis points (and higher than in the period before the “conditional commitment”).
+</p>
+</div>
+<div></div>
+<div><span lang="EN">This is evidence presented by someone who concludes that forward guidance is important – that an extraordinary (perhaps unprecedented) announcement managed to get 12 month rates to decline by up to 15 basis points for about 40 days and 40 nights. 
+</p>
+</div>
+<div></div>
+<div><span lang="EN">Woodford goes on to discuss Fed announcements.   First he notes a decrease of about 10 basis points again. Then he stresses in Figure 4 a decline of around 5 basis points (cheating on the timing one can get it up to around 10 basis points).  Figure 4 has a scale from 5 to 25 basis points.  The legend  includes the note that instead of the 5 year rate, the graph shows the 5 year rate minus 50 basis points.  I can’t make decent figures to save my life, but that’s unusual.  Almost substantively it may be Kosher but is not Kosher for passover to make a tiny change look large by graphing comparable variables on different scales.  Also really Five (<span lang="EN">5<span lang="EN">) basis points. 
+</p>
+</div>
+<div></div>
+<div><span lang="EN">Woodford also discusses evidence other than event studies and then writes </div>
+<div></div>
+<blockquote><p><i>while market movements during a very short time window around an announcement can reasonably be attributed to news contained in the announcement, developments since 2010 of the kind shown in Figures 5 through 8 might alternatively be attributed simply to market participants’ increasing doubts that conditions would warrant an increase in the funds rate target anytime soon, for reasons unrelated to the FOMC’s statements.</i></p></blockquote>
+<div></div>
+<div><span lang="EN">In other words nothing much to see in figures 5 through 8.  He does however note that the median blue chip forecaster made a forecast of the duration of extremely low federal funds rate which corresponded to the FOMCs prediction.  That evidence in figure 5 tends to suggest (just using the median as the only summary statistic) very little room for a larger effect on forecasts of policy based on a (cross my heart and hope to die and if I break my word all shall know that I am no gentleman and should feel free to spit on me) promise not a hedged conditional prediction.  The evidence presented in figure 5 has no effect whatsoever on Woodford’s concluding section in which he discusses how the Fed could give more effective forward guidance.  There is so far in the paper at most a few basis points of evidence that Canadian or US forward guidance could possibly be more convincing.
+</p>
+</div>
+<div></div>
+<div><span lang="EN">Oh noooo it seems I am disagreeing with Lars Svensson too
+</p>
+</div>
+<div></div>
+<blockquote><p><i>In a review of Sweden’s experience, Deputy Governor Lars Svensson (2010) argues that, through December 2008, the Riksbank had been relatively successful at “managing expectations” through its policy.</i></p></blockquote>
+<div></div>
+<div><span lang="EN">So what about evidence ? Case 1
+</p>
+</div>
+<div></div>
+<blockquote><p><i>The result is that an announcement that was intended to shift down the anticipated
+</p>
+<p></i><i>forward path of rates, by announcing that a low rate would be maintained until</i><i>the beginning of 2011, and so to immediately lower longer-term interest rates, had</i><i>exactly the opposite effect: long rates rose, because the entire anticipated forward path of rates shifted up. </i><i>What went wrong? </i>
+</p>
+</blockquote>
+<div></div>
+<div><span lang="EN">Figure 10 shows a shift in the wrong direction of roughly a big big 15 basis points.  The average shift in the event studies is no longer around 0.1% but rather more like 0.05%
+</p>
+</div>
+<div></div>
+<div><span lang="EN">Next
+</p>
+</div>
+<div></div>
+<blockquote><p>Svensson (2010) argues instead that survey data on traders’ forecasts of inflation and growth indicate that they were no more optimistic than the Riksbank, and hence that market participants simply did not accept the Riksbank’s forecasts about <i>its own future approach to policy.</i></p></blockquote>
+<div></div>
+<div><span lang="EN">So now I feel less bad about disagreeing with Svensson too, since Svensson too disputes the claim made by Svensson.  Also Woodford seems to dispute Svensson’s claim
+</p>
+</div>
+<div></div>
+<div>If so, it would seem that the attempt to use forward guidance more aggressively after April 2009 has been associated with a loss of market confidence in the informativeness of the Riksbank’s projections. Whether it will return once macroeconomic conditions have normalized remains to be seen.</div>
+<div></div>
+<div><span lang="EN">But in any case all of the interest rate shifts discussed in the empirical section are so tiny as to matter little. So three out of four have the desired sign.  Wow. 
+</p>
+</div>
+<div><span lang="EN"></div>
+<div><span lang="EN">And this in a speech on the importance of forward guidance !  What could a skeptic add ?</div>
+<div><span lang="EN"></div>
+<div><span lang="EN">OK the standard 2 disclaimers.  Woodford also discusses the direct effect of purchases of risky assets on the risk that private investors feel they are bearing so on asset prices and so on the economy.  He advocates the purchase of more MBS.  I absolutely agree with that.</div>
+<div><span lang="EN"></div>
+<div><span lang="EN">Also, of course, it is better to light one small candle that curse against the darkness.  If indeed more vigorous efforts to influenc forecasts of future monetary policy will have only a small positive effect, then they definitely should be made.  </div>
+<div><span lang="EN"></div>
+<div><span lang="EN">A very strange aspect of the discussion is that people who are sure that it would be easy for monetary authorities to get economies back to full employment quickly are de facto allies of people who expect the effects of shifts in monetary policy to be small but of the right sign.  Both agree on what is to be done, so almost no one stresses the huge scientific disagreements.</div>
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/on-woodford-in-wyoming.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

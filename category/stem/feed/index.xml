@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>STEM &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>When I Steal A Blog Post, I Leave A Link</title>
+		<link>./../../2011/11/when-i-steal-a-blog-post-i-leave-a-link.html</link>
+		<comments>./../../2011/11/when-i-steal-a-blog-post-i-leave-a-link.html#respond</comments>
+		<pubDate>Thu, 10 Nov 2011 20:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[education]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[human capital]]></category>
+		<category><![CDATA[jobless recovery]]></category>
+		<category><![CDATA[STEM]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/when-i-steal-a-blog-post-i-leave-a-link.html</guid>
+		<description><![CDATA[I wanted to look at the WSJ job database, suspecting what I might find, but currently lack the bandwidth in a major way. Fortunately, Noah took some (more) time from his thesis (&#8220;distraction from productive activity&#8221;) and did the dirty work. Apparently, being a STEM undergraduate isn&#8217;t the path to Nirvana:* I went through the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I wanted to look at the <a href="http://graphicsweb.wsj.com/documents/NILF1111/#term=">WSJ job database</a>, suspecting what I might find, but currently lack the bandwidth in a major way.</p>
+<p>Fortunately, Noah took some (more) time from his thesis (&#8220;distraction from productive activity&#8221;) and did the dirty work. Apparently, <a href="http://noahpinionblog.blogspot.com/2011/11/bad-astronomy-does-some-bad-economics.html">being a STEM undergraduate isn&#8217;t the path to Nirvana</a>:*</p>
+<blockquote><p>I went through the Wall Street Journal database that Phil cites, and found the following unemployment rates:</p>
+<li>Genetics: 7.4% unemployed </li>
+<li>Biochemical Sciences: 7.1% unemployed </li>
+<li>Neuroscience: 7.2% unemployed </li>
+<li>Materials Engineering and Materials Science: 7.5% unemployed </li>
+<li>Computer Engineering: 7.0% unemployed </li>
+<li>Biomedical Engineering: 5.9% unemployed </li>
+<li>General Engineering: 5.9% unemployed </li>
+<li>Engineering Mechanics Physics and Science: 6.5% unemployed </li>
+<li>Chemistry: 5.1% unemployed </li>
+<li>Electrical Engineering: 5.0% unemployed </li>
+<li>Molecular Biology: 5.3% unemployed </li>
+<li>Mechanical Engineering and Related Technologies: 6.6% unemployed
+<p>Compare these with a <a href="http://www.mymoneyblog.com/unemployment-rates-vs-level-of-education.html">5.0% unemployment rate for all bachelor&#8217;s degree holders</a> in 2010.</li>
+</blockquote>
+<p>And why do those Astronomy and Astrophysics people** have jobs?<br />
+<blockquote>Earth to [Phil Plait of] Bad Astronomy: your short-list of fully-employed science majors is totally cherry-picked&#8230;.And all those astronomers who have plenty of jobs? Guess what: they&#8217;re employed because <em>they work for the government</em>. Yep, that&#8217;s right, the same government whose ability to provide employment Phil laughs at.</p></blockquote>
+<p>*Raise your hand if you&#8217;re surprised by this. Mine is not up.</p>
+<p>**Full disclosure: I speak as someone whose wife&#8217;s cousin, with a Ph.D. in Astronomy &#038; Astrophysics, currently has a Fellowship in the Astronomy department at <a href="http://berkeley.edu/">DeLongville</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/when-i-steal-a-blog-post-i-leave-a-link.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

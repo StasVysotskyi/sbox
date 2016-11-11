@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Michael Halasy (healthcare) &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Hospital Consolidation and ACO&#8217;s</title>
+		<link>./../../2012/09/hospital-consolidation-and-acos.html</link>
+		<comments>./../../2012/09/hospital-consolidation-and-acos.html#respond</comments>
+		<pubDate>Tue, 25 Sep 2012 02:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ACA]]></category>
+		<category><![CDATA[ACO]]></category>
+		<category><![CDATA[medical expenses]]></category>
+		<category><![CDATA[Michael Halasy (healthcare)]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/hospital-consolidation-and-acos.html</guid>
+		<description><![CDATA[Jason Shafrin over at the Healthcare Economist points to this recent paper over at the RWJF. Interestingly the authors find that hospital consolidation increases prices and could decrease quality. Something that many of us have considered in the past. In concentrated markets, the effects were even more pronounced with price increases over 20% noted. Competition was noted to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jason Shafrin over at the Healthcare Economist <a href="http://healthcare-economist.com/2012/09/20/hospital-consolidation-prices-and-quality/" target="_blank">point</a>s to this recent <a href="http://www.rwjf.org/content/rwjf/en/research-publications/find-rwjf-research/2012/06/the-impact-of-hospital-consolidation.html" target="_blank">paper</a> over at the RWJF. Interestingly the authors find that hospital consolidation increases prices and could decrease quality. Something that many of us have considered in the past.</p>
+<p>In concentrated markets, the effects were even more pronounced with price increases over 20% noted.</p>
+<p>Competition was noted to increase quality under an &#8220;administered&#8221; pricing system, ala the NHS in the UK. The evidence for competition increasing quality in a market system was much more mixed.</p>
+<p>I have thought this for some time, and have even wrote about the concepts of leverage in the past. For example, I have cited a BNET article before. When one examines the the health markets in Milwaukee and Chicago, which are both midwestern cities, and geographically close to each other, one finds higher prices in Milwaukee, with providers not accepting less than 200% of Medicare. Which does not seem intuitive, as there is far more market competition in the health insurance industry there. In Chicago, one insurer, BC-BS, is rather dominant and prices are lower, with providers accepting 112% of Medicare on average. It would seem to make sense that increasing the leverage of the hospitals and providers through the mechanism of consolidation will increase prices. The same thing happens in Milwaukee, which has no dominant insurer, and therefore is unable to exert leverage over the hospital systems in Milwaukee.</p>
+<p>The ACO models as proscribed by the ACA will increase consolidation. By developing an accountable model of care delivery, providers will attempt to consolidate to increase quality and minimize risk exposure in the sense of decreasing reimbursements.</p>
+<p>The problem with the RWJF paper, as it rightly notes, is that the study does not really examine integrated health care systems. When you look at consolidation with true vertical and horizontal integration, it is my belief that quality improves even in the absence of competition. True integration in the case of Mayo Clinic and Kaiser also lowers prices.</p>
+<p>In essence, I don&#8217;t think the problem is consolidation&#8230;..I think the problem is consolidation in the absence of integration.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/hospital-consolidation-and-acos.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cato has truly shocked me….stupefied really</title>
+		<link>./../../2011/10/cato-has-truly-shocked-me-stupefied-really.html</link>
+		<comments>./../../2011/10/cato-has-truly-shocked-me-stupefied-really.html#respond</comments>
+		<pubDate>Sun, 23 Oct 2011 16:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[malpractice]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+		<category><![CDATA[Michael Halasy (healthcare)]]></category>
+		<category><![CDATA[tort reform]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/cato-has-truly-shocked-me-stupefied-really.html</guid>
+		<description><![CDATA[by Michael Halasy Cato has truly shocked me….stupefied really. Those who have followed me at Angry Bear will recall my series on tort reform that I wrote this past year. In particular, I wrote a piece on the possible safety risks that patients would be exposed to, with a 0.02% increase in patient mortality with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Michael Halasy <br />Cato has truly shocked me….stupefied really.</p>
+<p>Those who have followed me at Angry Bear will recall my series on tort reform that I wrote this past year. In particular, I wrote a piece on the possible safety risks that patients would be exposed to, with a 0.02% increase in patient mortality with a 10% reduction in medical malpractice liability costs…  </p>
+<p>Well, just the other day, I received an update from Cato. Now, Michael Cannon is a good guy, and while he and I simply don’t agree on &#8230; well much of anything from a health policy perspective, his colleague, Shirley Svorny, wrote <a href="http://www.cato.org/pub_display.php?pub_id=13780&#038;utm_source=Cato+Institute+Emails&#038;utm_campaign=e370845605-Medical_Malpractice_Damage_Caps10202011&#038;utm_medium=email" target="_blank">this:</a> <br />
+<blockquote>More broadly, patients derive protection from an interdependent system of physician evaluation, penalties, and oversight that includes hospital and health maintenance organization credentialing and privileging activities, specialty boards, and the medical malpractice insurance industry.  Underlying nearly all of these activities is the threat of legal liability for negligent injuries. Reducing physician liability for negligent care by capping court awards, all else equal, will reduce the resources allocated to medical professional liability underwriting and oversight and make many patients worse off. Legislators who see mandatory liability caps as a cost-containment tool should look elsewhere.</p></blockquote>
+<p>I believe that I have been consistent with this…over and over. There are some reforms that could work. So called “indirect” reforms. Joint and Severability reform, mandatory periodic payments, dedicated malpractice courts, patient compensation funds, etc. etc. But direct reforms, IE; caps on noneconomic damages DO NOT WORK. </p>
+<p>So, I have to (gulp) swallow some pride, and tip my hat to Cato….Now I need to go take a shower. I feel a little dirty. <a href="http://www.blogger.com/" name="_GoBack"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/cato-has-truly-shocked-me-stupefied-really.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Guest Post: Latest from Cato&#8230;</title>
+		<link>./../../2011/04/guest-post-latest-from-cato.html</link>
+		<comments>./../../2011/04/guest-post-latest-from-cato.html#respond</comments>
+		<pubDate>Mon, 11 Apr 2011 05:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Media Bias]]></category>
+		<category><![CDATA[medicare]]></category>
+		<category><![CDATA[Michael Halasy (healthcare)]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/guest-post-latest-from-cato.html</guid>
+		<description><![CDATA[Guest post by Michael Halasy Latest from Cato… Kaiser Health News carries an article from Michael Cannon from Cato Institute on the benefits of Ryan&#8217;s proposal on Medicare. Cannon is wrong. First, he begins by advocating for repeal by comparing the roughly 500 billion in cost of the program to the overall debt and deficit, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Guest post by <strong>Michael Halasy</strong></p>
+<p><strong>Latest from Cato…</strong> </p>
+<p><a target='_blank"' href="http://www.kaiserhealthnews.org/Columns/2011/April/040411cannon.aspx">Kaiser Health News</a> carries an article from Michael Cannon from Cato Institute on the benefits of Ryan&#8217;s proposal on Medicare.</p>
+<p>Cannon is wrong.</p>
+<p>First, he begins by advocating for repeal by comparing the roughly 500 billion in cost of the program to the overall debt and deficit, never mentioning that the 500 billion is actually over 10 years. Next he proceeds to Medicare savings, and concludes that there were no mechanisms to constrain Medicare savings&#8230;and he&#8217;s right here. <br /><a name="more"></a><br />However, then he states: &#8220;Even if they were, ObamaCare just spends the presumed savings elsewhere&#8221;. Which comes across snippy, and a little arrogant. Then he talks about vouchers, and the proposal by Congressman Paul Ryan. </p>
+<p>Here&#8217;s what he says: <br />
+<blockquote> Second, the budget should restrain Medicare spending by giving enrollees fixed vouchers they can use to purchase any private health plan of their choice. Poor and sick enrollees should get larger vouchers, but the average voucher amount should grow only at the overall rate of inflation. Because vouchers enable seniors to keep the savings, they will do what ObamaCare won&#8217;t: reduce the wasteful spending that permeates Medicare. Seniors will choose more economical health plans and put downward pressure on prices across the board. Indeed, vouchers are the only way to contain Medicare spending while protecting seniors from government rationing. Skeptics worry that seniors will make bad decisions with their vouchers. They should keep in mind that, according to Obama&#8217;s Council of Economic Advisers, &#8220;nearly 30 percent of Medicare&#8217;s costs could be saved without adverse health consequences.&#8221; In other words, vouchers come with a huge built-in margin of safety: seniors could consume one-third less care without harming their health.</p></blockquote>
+<p>There are some big problems with this, which Mr. Cannon never addresses, or even acknowledges. </p>
+<p>To start with, many seniors are living on constricted, fixed incomes. Even with &#8220;larger&#8221; vouchers, as he suggests, keeping them tied to inflation without addressing the reason for healthcare cost escalation is the same as cutting them out of healthcare altogether&#8230;at least the effect will be the same over time. Healthcare has grown at a rate far above inflation for years (6.2% average over the past 10 years). What this will do is to force low income seniors to skip medications, avoid physician visits, and avoid preventative care. This will end up being more costly down the road. </p>
+<p>The second problem, is that Mr. Cannon is misrepresenting what the Council of Economic Advisors said about Medicare spending. That 30% represents waste within the system, not necessarily (although likely a small percentage is) over treatment of Medicare patients. It&#8217;s a dangerous statement to make. </p>
+<p>Finally, the block grant idea has some merit, but let&#8217;s be honest. That&#8217;s not cost savings&#8230;..that&#8217;s cost shifting. By removing a percentage of federal funding for this patient population, you are forcing the state to pay for it, which is a problem for many cash strapped states already. Mr. Cannon knows all of this, however, he is trying to put a rosy face on an ugly dog.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/guest-post-latest-from-cato.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

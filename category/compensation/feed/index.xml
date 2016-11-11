@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>compensation &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Cost of Labor</title>
+		<link>./../../2011/09/the-cost-of-labor.html</link>
+		<comments>./../../2011/09/the-cost-of-labor.html#respond</comments>
+		<pubDate>Mon, 05 Sep 2011 22:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[capital labor ratio]]></category>
+		<category><![CDATA[compensation]]></category>
+		<category><![CDATA[human capital]]></category>
+		<category><![CDATA[labor]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/the-cost-of-labor.html</guid>
+		<description><![CDATA[The standard model of Economic Development is Romer’s (1989, JPE 1990) adaptation* of Solow’s (1956, 1957) Model.  Basically, became Y = AKα(HL)(1-α) where the H stands for “human capital,” which multiplies the ability of labor. (Think high-skills labor—construction work, plumbing, teaching—where the worker continually “learns by doing” [op cit., Arrow, 1962]. The additional “human capital” [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The standard model of Economic Development is Romer’s (1989, JPE 1990) adaptation* of Solow’s (1956, 1957) Model.  Basically,<br />
+<blockquote>
+<p><img alt="Y=AK^aL^{1-a}\," src="http://upload.wikimedia.org/math/4/8/1/481e35d4e18ad0ca6715fd78d109e75e.png"></p>
+</blockquote>
+<p>became</p>
+<blockquote><p>Y = AK<sup>α</sup>(HL)<sup>(1-α)</sup></p>
+</blockquote>
+<p>where the H stands for “human capital,” which multiplies the ability of labor. (Think high-skills labor—construction work, plumbing, teaching—where the worker continually “learns by doing” [op cit., Arrow, 1962]. The additional “human capital” multiples the effect of the labor.</p>
+<p>One central question is how much of α is attributable to capital and how much is attributable to labor.  Standard Macroeconomics and Economic Development courses teach varying values for α, ranging from around 25% to about 1/3 (33.3%): that is, the mixture is between 3 and 4 parts of Labor to every one part of Capital.</p>
+<p>How does the compensation go?  Well, not quite that way:</p>
+<p> </p>
+<p><a href="http://lh3.ggpht.com/-PysKeU2Pmzw/TmVL_rVfokI/AAAAAAAAAh4/nB1bAuxL2e8/s1600-h/COE%25255B3%25255D.png"><img title="COE" border="0" alt="COE" src="http://lh3.ggpht.com/-bnXdQM5N2wM/TmVL_7BiAtI/AAAAAAAAAh8/o0NtNlO8Abs/COE_thumb%25255B1%25255D.png?imgmax=800" width="644" height="443"></a> </p>
+<p>The banded area is the estimate of actual allocations of capital and labor.  The bars show the compensation to labor (and, therefore, the area above that to 100% are the portion of GDP that is being allocated to capital).</p>
+<p>Economic theory tells us that if something is receiving excessive rents—as capital is clearly doing in the United States—there is suboptimal growth occurring across the economy. The standard method of adjusting for that is to reduce the excessive rents through either the introduction of competition (preferred if possible) or through taxation and redistribution.  Following are the tax rates on Capital v. Labor:</p>
+<div align="center">
+<table border="1" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td valign="top" width="100">
+<p>Labor Tax Bracket</p>
+</td>
+<td valign="top" width="100">
+<p>Capital Gains, Short Term</p>
+</td>
+<td valign="top" width="100">
+<p>Capital Gains, Long Term</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>10%</p>
+</td>
+<td valign="top">
+<p>10%</p>
+</td>
+<td valign="top">
+<p>0%</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>15%</p>
+</td>
+<td valign="top">
+<p>15%</p>
+</td>
+<td valign="top">
+<p>0%</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>25%</p>
+</td>
+<td valign="top">
+<p>25%</p>
+</td>
+<td valign="top">
+<p>15%</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>28%</p>
+</td>
+<td valign="top">
+<p>28%</p>
+</td>
+<td valign="top">
+<p>15%</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>33%</p>
+</td>
+<td valign="top">
+<p>33%</p>
+</td>
+<td valign="top">
+<p>15%</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>35%</p>
+</td>
+<td valign="top">
+<p>35%</p>
+</td>
+<td valign="top">
+<p>15%</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Note also that labor is not necessarily allowed to exclude its “depreciation” above the value of the “standard deduction” ($8,500 for an individual, $11,600 for a married couple). This is clearly a skewed incentive, with preferable tax treatment given to the overvalued resource (capital) at the expense of the undervalued one (labor).</p>
+<p>Happy Labor Day!</p>
+<p>*NBER subscribers can access paper w3173.  Others can just type “Human Capital and Growth: Theory and Evidence” and probably find an ungated copy somewhere.  The uncurious are referred to Wikipedia.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/the-cost-of-labor.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I Do Not Think &#034;Capricious&#034; Means What You Think It Does</title>
+		<link>./../../2011/08/i-do-not-think-capricious-means-what-you-think-it-does.html</link>
+		<comments>./../../2011/08/i-do-not-think-capricious-means-what-you-think-it-does.html#respond</comments>
+		<pubDate>Sat, 27 Aug 2011 02:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[compensation]]></category>
+		<category><![CDATA[high finance]]></category>
+		<category><![CDATA[intermediation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/i-do-not-think-capricious-means-what-you-think-it-does.html</guid>
+		<description><![CDATA[Let the Waves of Pity Begin: More than 80 percent said they don’t believe that their compensation is mainly predicated on performance. Instead, [Capstone managing partner Rik] Kopelan said, young investment bankers worry that it’s &#8220;based on the profitability of the firm, based on how powerful the group heads were, based on capricious things.&#8221; [emphases [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.bloomberg.com/news/2011-08-25/most-junior-bankers-feel-disappointment-with-pay-aspire-to-buyout-jobs.html">Let the Waves of Pity Begin</a>:<br />
+<br />
+<blockquote>More than 80 percent said they don’t believe that their compensation is mainly predicated on performance. Instead, [Capstone managing partner Rik] Kopelan said, young investment bankers worry that it’s &#8220;based on the profitability of the firm, based on how powerful the group heads were, based on capricious things.&#8221; [emphases mine]</p></blockquote>
+<p>Gosh, really?  That would <em>never</em> happen in the real world.</p>
+<p>So why are they so saddened?<br />
+<br />
+<blockquote>One investment banker who participated in the survey described a breach of the &#8220;tacit understanding&#8221; that he or she would be well compensated.</p></blockquote>
+<p>I don&#8217;t know about anyone else, but if you try to use the phrase &#8220;tacit understanding&#8221; to get something valuable from an Investment Banking client, you will quickly find that you no longer have a client.</p>
+<p>But the pain&#8230;<br />
+<br />
+<blockquote>Considering “the sacrifice I make in my personal life (100-hour work weeks, canceled vacations, etc.), this business has to be more rewarding,” the person said, according to Capstone.</p></blockquote>
+<p>You hear a lot about people working 100-hour weeks. Some of it is true. The part that is left out is that those weeks are also filled with a company car home (and often to), meals provided on the expense account, and a guaranteed base salary with a bonus that (for those 100-hour a week jobs) generally runs north of 100% of salary. And that&#8217;s ignoring signing bonuses.<br />
+<br /><a name="more"></a><br />
+<br />Note, by the way, that having a guaranteed salary does <em>not</em> make you an entrepreneur.  Or a farmer. Or a store owner.  Or a restauranteur of any type, from Tom&#8217;s Diner to The Quilted Giraffe. All of whom are also likely to be working 14+ x 7 without pulling <a href="http://www.mergersandinquisitions.com/investment-banking-salaries-mcdonalds/">what some glibly compare to McDonald&#8217;s wages</a>.</p>
+<p>What it does do is gives you an opportunity to move up in an organization, to develop your career, to peak out at compensation of, say, <a href="http://en.wikipedia.org/wiki/Stephen_A._Schwarzman#Career">almost 3/4 of $1,000,000,000 in a year</a>.</p>
+<p>Not exactly on par with what a bodega owner or a farmer has a chance to make.</p>
+<p>And, yes, comp may have dropped a bit since 2007. (I wonder why?) But starting comp is <a href="http://www.astburymarsden.com/documents/Banking%20and%20Financial%20Services%20Salary%20Survey%202010.pdf">still rather high</a> (PDF; keep in mind that the numbers shown are in Pounds, not Dollars; multiple by about 1.6).</p>
+<p>The good news:<br />
+<br />
+<blockquote>&#8220;Fewer and fewer plan on making it a career, because they’re working these long hours and not getting paid as well as they were.&#8221;</p></blockquote>
+<p>
+<p>
+<br />Gosh, what will we do with fewer people in Securities and Investment jobs?<br />
+</p>
+<p>
+<br /><a href="http://4.bp.blogspot.com/-ACVWy0z9XTE/TlhOmhUrDTI/AAAAAAAAAgo/b_LbFgPzkoU/s1600/secandinv.png"><img src="http://4.bp.blogspot.com/-ACVWy0z9XTE/TlhOmhUrDTI/AAAAAAAAAgo/b_LbFgPzkoU/s320/secandinv.png" border="0" alt=""></a><br />
+</p>
+<p>
+<br />Come to think of it, how popular is &#8220;<em>intermediation</em>&#8221; as a career choice since the End of the Reagan Era?<br />
+</p>
+<p>
+<br /><a href="http://2.bp.blogspot.com/-DMpYvI4I-vU/TlhOmWzWLhI/AAAAAAAAAgg/i0ESxVOV730/s1600/usfire.png"><img src="http://2.bp.blogspot.com/-DMpYvI4I-vU/TlhOmWzWLhI/AAAAAAAAAgg/i0ESxVOV730/s320/usfire.png" border="0" alt=""></a><br />
+</p>
+<p>
+<br />The punchline:<br />
+</p>
+<blockquote><p>Last year, according to New York State Comptroller Thomas DiNapoli, Wall Street paid out $20.8 billion in cash bonuses, instead of the $22.5 billion a year earlier.</p></blockquote>
+<p>A mere $25-27,000 per person, sort of. But that&#8217;s cash alone—stock and stock options, for instance, are not included.</p>
+<p>Don&#8217;t worry, though.  I&#8217;m certain everyone who says &#8220;Do you want fries with that?&#8221; is also in line for $25,000 or so in bonus every year.  That&#8217;s why everyone knows the phrase, eh?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/i-do-not-think-capricious-means-what-you-think-it-does.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Unemployment Rate and Compensation Growth</title>
+		<link>./../../2011/03/the-unemployment-rate-and-compensation-growth.html</link>
+		<comments>./../../2011/03/the-unemployment-rate-and-compensation-growth.html#respond</comments>
+		<pubDate>Tue, 22 Mar 2011 10:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[compensation]]></category>
+		<category><![CDATA[Kash Mansori]]></category>
+		<category><![CDATA[unemployment]]></category>
+		<category><![CDATA[wages]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/the-unemployment-rate-and-compensation-growth.html</guid>
+		<description><![CDATA[Crossposted at The Street Light. Last week I took a look at the way that higher labor productivity has not translated into higher worker compensation, particularly during the 1980s and 2000s. This is at odds with classical labor market theory, which suggests that as workers become more productive, their increasing value to firms should cause [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Crossposted at <em><a href="http://streetlightblog.blogspot.com/">The Street Light</a></em>.</p>
+<p>Last week I took a look at the way that <a href="http://streetlightblog.blogspot.com/2011/03/growing-productivity-stagnating.html">higher labor productivity has not translated into higher worker compensation</a>, particularly during the 1980s and 2000s. This is at odds with classical labor market theory, which suggests that as workers become more productive, their increasing value to firms should cause their wages to be bid higher so that their compensation rises accordingly.</p>
+<p>There are a number of possible explanations for the divergence between productivity and compensation, and for how this may play into the broader phenomenon of stagnant wages for average workers. Part of the explanation is that an increasing share of worker compensation takes the form of benefits rather than wages and salaries. As shown in the chart below, fully one-fourth of worker compensation in 2010 took the form of benefits. (Source: <a href="http://www.bea.gov/national/index.htm#personal">BEA personal income data</a>.)</p>
+<p><a href="http://4.bp.blogspot.com/-iWvWl3nGBx0/TYf72Ss56QI/AAAAAAAAAcM/qITOagMhUMc/s1600/benefits%2Bas%2Bshare%2Bof%2Bcomp1.PNG"><img border="0" alt="" src="http://4.bp.blogspot.com/-iWvWl3nGBx0/TYf72Ss56QI/AAAAAAAAAcM/qITOagMhUMc/s400/benefits%2Bas%2Bshare%2Bof%2Bcomp1.PNG"></a></p>
+<p><a name="more"></a><br />This upward trend has been driven almost entirely by the rise of health care costs in the US, and the corresponding rise in health insurance premiums. Note that the one dip in the series in the late 1990s was due to the widespread implementation of HMOs &#8211; but they clearly proved to provide a one-time gain rather than a permanent increase in health insurance efficiency. So part of the reason that workers&#8217; paychecks have not been rising is directly attributable to the rise in health care costs in the US.</p>
+<p>But that&#8217;s not the whole story, and doesn&#8217;t address the question of slowly growing total compensation (as opposed to stagnant wages). There are, I think, reasonable arguments to be made about social and political factors, such as the decline in the power of unions. Along similar lines, <a href="http://rortybomb.wordpress.com/2011/03/18/the-federal-reserve-unions-wage-stagnation-and-risk-shifted-jobs/">Mike Konczal</a> recently wondered to what degree this could be due to the Fed&#8217;s consistent and explicit desire to prevent wage increases.</p>
+<p>And then there&#8217;s plain old supply and demand as a possible explanation. What did the 1980s and 2000s have in common from a macroeconomic point of view? One answer is this: multi-year long periods of high or rising unemployment rates.</p>
+<p>The chart below shows, in blue, the seven-year moving average of the portion of increased labor productivity that were paid to workers in the form of higher compensation. During the 1960s and 70s, for example, workers typically received around 80% of gains in labor productivity over any given seven year period. Then during the 1980s that portion fell to about 40%. Meanwhile, the series in red is the seven-year moving average of the unemployment rate.</p>
+<p><a href="http://3.bp.blogspot.com/-oQoHR5A33KI/TYf9OgNvipI/AAAAAAAAAcU/y1g3u96lLAE/s1600/prod%2Band%2Bcomp3.PNG"><img border="0" alt="" src="http://3.bp.blogspot.com/-oQoHR5A33KI/TYf9OgNvipI/AAAAAAAAAcU/y1g3u96lLAE/s400/prod%2Band%2Bcomp3.PNG"></a><br />To make it a little easier to interpret, I&#8217;ve color coded the 60 years shown in the chart by shading the periods when workers were losing their share of productivity growth red, while the periods when workers were increasing their share of productivity gains are shaded in green. This helps to make it quite clear that &#8220;green&#8221; times &#8211; i.e. times when workers seem to be enjoying more of the gains in productivity &#8211; were periods when unemployment was falling. &#8220;Red&#8221; times (I guess it actually looks more pink than red in this chart) are clearly associated with periods when the unemployment rate was stagnant or rising.</p>
+<p>One implication of this is clear: the high unemployment rate in the US right now, which is expected to decline only slowly over the next several years, is likely to mean that it will be a long time before worker compensation begins to rise as rapidly as worker productivity. Put another way, the overall level of high unemployment right now not only has the obviously enormous personal implications for those who are unemployed &#8212; it also is likely to seriously affect the compensation of workers who have never lost their jobs, for years and years to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/the-unemployment-rate-and-compensation-growth.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Growing Productivity, Stagnating Compensation</title>
+		<link>./../../2011/03/growing-productivity-stagnating-compensation.html</link>
+		<comments>./../../2011/03/growing-productivity-stagnating-compensation.html#respond</comments>
+		<pubDate>Wed, 16 Mar 2011 23:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[compensation]]></category>
+		<category><![CDATA[Kash Mansori]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[wages]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/growing-productivity-stagnating-compensation.html</guid>
+		<description><![CDATA[Crossposted at The Street Light. Yesterday Ezra Klein had a chart (from a paper by Larry Mishel and Heidi Shierholz at EPI) showing that both private sector and public sector wages have been stagnating for the past several years, and have certainly not kept up with productivity growth. I think it’s useful to look at [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Crossposted at <em><a href="http://streetlightblog.blogspot.com/">The Street Light</a></em>.</p>
+<p>Yesterday <a href="http://www.washingtonpost.com/blogs/ezra-klein/post/the-economy-has-been-bad-to-both-public-and-private-sector-workers/2011/03/10/ABHoAAY_blog.html">Ezra Klein</a> had a chart (from a paper by Larry Mishel and Heidi Shierholz at <a href="http://www.epi.org/publications/entry/the_sad_but_true_story_of_wages_in_america">EPI</a>) showing that both private sector and public sector wages have been stagnating for the past several years, and have certainly not kept up with productivity growth. I think it’s useful to look at the relationship between productivity and compensation over a longer time horizon.</p>
+<p>The following chart shows labor productivity and real hourly compensation since 1950. (Data from the <a href="http://www.bls.gov/">BLS</a>.)  Two things strike me particularly about this graph. The first is how closely the two series track each other between 1950 and 1980. During those 30 years labor productivity in the nonfarm business sector of the US economy rose by 92%; real hourly compensation paid to workers rose by a nearly identical 87%. Classical economic theory says that is exactly what we would expect – as workers become more valuable to firms by producing more output with every hour of labor, firms should compete with each other to employ them, driving up wages by an equal amount.</p>
+<p><a href="http://4.bp.blogspot.com/-Pr_4xJgdDHE/TYEavWwvbtI/AAAAAAAAAbc/zi7yjclW7ho/s1600/prod%2Band%2Bcomp1.PNG"><img border="0" alt="" src="http://4.bp.blogspot.com/-Pr_4xJgdDHE/TYEavWwvbtI/AAAAAAAAAbc/zi7yjclW7ho/s400/prod%2Band%2Bcomp1.PNG"></a><br />The second striking feature of this picture is, of course, how much the two series have diverged since the early 1980s. Output per hour of work in 2010 was 87% higher than in 1980, while real hourly compensation was only 38% higher.</p>
+<p>The table below shows changes in labor productivity and hourly compensation by decade. Again, let me draw your attention to two features. First, this data confirms that the “<a href="http://www.nber.org/digest/jun05/w10950.html">great productivity slowdown</a>” of the 1970s and 80s seems to have been vanquished; over the past 15 to 20 years US businesses have been improving productivity at rates as high as during the 1950s and 60s. Yet more evidence that Tyler Cowen’s “Great Stagnation” is <a href="http://www.economist.com/node/21016577">not a productivity story</a>.</p>
+<p><a href="http://4.bp.blogspot.com/-s0DrJjS52UQ/TYEa2gU-IvI/AAAAAAAAAbk/ec4gBHuBHWo/s1600/prod%2Band%2Bcomp2.PNG"><img border="0" alt="" src="http://4.bp.blogspot.com/-s0DrJjS52UQ/TYEa2gU-IvI/AAAAAAAAAbk/ec4gBHuBHWo/s400/prod%2Band%2Bcomp2.PNG"></a><br />The second remarkable feature of this table is that the vast majority of the gap between productivity and hourly compensation comes from the 1980s and 2000s, while during the 1990s workers shared in productivity gains nearly as fully as they did in the 1960s. And that, of course, leads us directly to the $64,000 question: what was it about the 1980s and 2000s that made it so difficult for workers to reap the fruits of their more productive labor?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/growing-productivity-stagnating-compensation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The compensationless recovery</title>
+		<link>./../../2010/08/the-compensationless-recovery.html</link>
+		<comments>./../../2010/08/the-compensationless-recovery.html#respond</comments>
+		<pubDate>Wed, 11 Aug 2010 21:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[compensation]]></category>
+		<category><![CDATA[labor markets]]></category>
+		<category><![CDATA[savings]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/the-compensationless-recovery.html</guid>
+		<description><![CDATA[New York Times David Leonhardt argues that real wages are rising, so those resilient workers that remain employed will benefit from the bounce-back in &#8220;effective pay&#8221;. The problem with this insight is twofold: first, the expansion phase of real hourly compensation, a broader measure of total earnings, is falling; and second, sitting atop a mountain [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.nytimes.com/2010/08/11/business/economy/11leonhardt.html?_r=1&#038;partner=rss&#038;emc=rss">New York Times David Leonhardt argues</a> that real wages are rising, so those resilient workers that remain employed will benefit from the bounce-back in &#8220;effective pay&#8221;. The problem with this insight is twofold: first, the expansion phase of real hourly compensation, a broader measure of total earnings, is falling; and second, sitting atop a mountain of consumer and mortgage debt, the aggregate economy cannot afford a compensationless recovery.</p>
+<p>From the <a href="http://www.nytimes.com/2010/08/11/business/economy/11leonhardt.html?_r=1&#038;partner=rss&#038;emc=rss">NY Times</a>:<br />
+<blockquote>But since this recent recession began in December 2007, real average hourly pay has risen nearly 5 percent. Some employers, especially state and local governments, have cut wages. But many more employers have continued to increase pay.</p>
+<p>Something similar happened during the Great Depression, notes Bruce Judson of the Yale School of Management. Falling prices meant that workers who held their jobs received a surprisingly strong effective pay raise.</p></blockquote>
+<p>Rebecca: The referenced &#8220;real wages&#8221; are the <a href="http://www.bls.gov/news.release/realer.t02.htm">real average hourly earnings figures</a> for production and nonsupervisory workers, <a href="http://www.bls.gov/web/empsit/cestn1.htm">80% </a>of the total nonfarm payroll. The broader measure of total earnings is real hourly compensation (<a href="http://bls.gov/news.release/prod2.htm">see Table A</a> and get the data from the <a href="http://research.stlouisfed.org/fred2/series/COMPRNFB?cid=2">Fred database</a>). Real hourly compensation measures compensation for all workers, including wages, 401k contributions, stock options, tips, and self-employed business owner compensation. (You can see a comparison of the earnings/compensation series in <a href="http://www.bls.gov/opub/mlr/2005/05/art1full.pdf">Exhibit 1 here.</a>)</p>
+<p>Since December 2007, real hourly compensation has increased just 1.3%. Furthermore, the index declined four consecutive quarters through Q2 2010, a first since 1979-1980. If the <a href="http://www.nber.org/cycles/cyclesmain.html">NBER dates </a>the onset of the expansion at Q3 2009 (the first quarter of <a href="http://bea.gov/national/xls/gdplev.xls">po</a><a href="http://bea.gov/national/xls/gdplev.xls">sitive GDP growth</a> in 2009), real hourly compensation will have dropped .7% through Q2 2010! That&#8217;s pathetic compared to the average 2.5% gain during the first 4 quarters of expansion spanning the previous 10 recessions.</p>
+<p><a href="http://4.bp.blogspot.com/_Et4TQ-a0gGU/TGL0MdTiRKI/AAAAAAAADMg/q8TuumBD0ao/s1600/hourly_earnings_table.PNG"><img src="http://4.bp.blogspot.com/_Et4TQ-a0gGU/TGL0MdTiRKI/AAAAAAAADMg/q8TuumBD0ao/s400/hourly_earnings_table.PNG" alt="" border="0"></a>The table lists the gain/loss of real hourly compensation, <a href="http://bls.gov/news.release/prod2.t02.htm">measured by the BLS</a>,  during the recession and early recovery for the business cycle as dated by the <a href="http://www.nber.org/cycles/cyclesmain.html">NBER</a>.</p>
+<p>Here&#8217;s how I see it: the problem is not that real hourly compensation is falling during the the recovery, per se, it&#8217;s that real hourly compensation is falling during the recovery of a  <a href="http://www.amazon.com/Balance-Sheet-Recession-Uncharted-Implications/dp/0470821167">balance sheet recession.</a><a name="more"></a></p>
+<p><a href="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TGLatM1pgTI/AAAAAAAADMI/bqYqyVr36pQ/s1600/recovery_earnings_chart.PNG"><img src="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TGLatM1pgTI/AAAAAAAADMI/bqYqyVr36pQ/s400/recovery_earnings_chart.PNG" alt="" border="0"></a>In the context of wage and compensation growth, the NY Times article was misleading in its comparison of the Great Depression to the &#8217;07-&#8217;09 Great Recession. Mass default during the Great Depression wiped private-sector balance sheets clean, no debt. But not this time around. <a href="http://www.newsneconomics.com/2010/04/reducing-household-financial-leverage.html">We&#8217;re going to need a lot of income growth</a> (the BLS measure of real hourly compensation includes measures of income at the BEA) to increase saving enough to deleverage the aggregate household balance sheet.</p>
+<p><a href="http://www.angrybearblog.com/2010/08/consumer-confidence.html">I&#8217;ll say it again</a>: we can&#8217;t afford a jobless recovery. Specifically, we can&#8217;t afford a compensationless recovery.</p>
+<p>Rebecca Wilder<br /><a href="http://reddit.com/submit"> <img src="http://reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/the-compensationless-recovery.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Productivity Growth</title>
+		<link>./../../2009/11/productivity-growth.html</link>
+		<comments>./../../2009/11/productivity-growth.html#respond</comments>
+		<pubDate>Thu, 05 Nov 2009 16:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[compensation]]></category>
+		<category><![CDATA[labor share]]></category>
+		<category><![CDATA[productivity]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/productivity-growth.html</guid>
+		<description><![CDATA[By Spencer, Third quarter nonfarm productivity rose at a 9.5% annual rate as output rose 4.0% and hours worked fell at a 5.0% rate. Historically, productivity has been a very good leading indicator of real GDP growth lagged two quarters. Productivity is also highly cyclical and the first year of a recovery typically experiences the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Spencer,</p>
+<p>Third quarter nonfarm productivity rose at a 9.5% annual rate as output rose 4.0% and hours worked fell at a 5.0% rate.  Historically, productivity has been a very good leading indicator of real GDP growth lagged two quarters.</p>
+<p><a href="http://4.bp.blogspot.com/_Zh1bveXc8rA/SvLv9AWXR-I/AAAAAAAAA8U/cQqV9JlW0yE/s1600-h/Clipboard01.jpg"><img src="http://4.bp.blogspot.com/_Zh1bveXc8rA/SvLv9AWXR-I/AAAAAAAAA8U/cQqV9JlW0yE/s320/Clipboard01.jpg" alt="" border="0"></a>Productivity is also highly cyclical and the first year of a recovery typically experiences the strongest productivity growth.</p>
+<p><a href="http://4.bp.blogspot.com/_Zh1bveXc8rA/SvLuoNF_yuI/AAAAAAAAA8E/0daJUAfPQ-U/s1600-h/Clipboard03.jpg"><img src="http://4.bp.blogspot.com/_Zh1bveXc8rA/SvLuoNF_yuI/AAAAAAAAA8E/0daJUAfPQ-U/s320/Clipboard03.jpg" alt="" border="0"></a></p>
+<p>Compensation jumped to a 3.8% annual rate, but on a year over year basis it is only up 0.5%.<br />Consequently, the year over year change in unit labor cost was -5.2%, the largest drop in recent years.  With productivity growth this strong and such weak compensation growth it is hard to see how anyone can be seriously concerned about a resurgence of inflation.  Except for oil, even surging commodity prices would not have a significant impact on the overall price level since they account for such a small share of final prices.  Moreover, since potential GDP is a function of productivity growth and labor force growth the argument that the very large GDP gap is overstated does not seem to hold much weight as long as productivity growth is so strong.</p>
+<p><a href="http://2.bp.blogspot.com/_Zh1bveXc8rA/SvLuxGU9NgI/AAAAAAAAA8M/fPa7PYeNZ1g/s1600-h/Clipboard04.jpg"><img src="http://2.bp.blogspot.com/_Zh1bveXc8rA/SvLuxGU9NgI/AAAAAAAAA8M/fPa7PYeNZ1g/s320/Clipboard04.jpg" alt="" border="0"></a><br />I also updated the chart on Labor&#8217;s Share to show  that this trend is actually accelerating.</p>
+<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/SvLucYKJSxI/AAAAAAAAA78/abFmqSf1JLE/s1600-h/Clipboard02.jpg"><img src="http://3.bp.blogspot.com/_Zh1bveXc8rA/SvLucYKJSxI/AAAAAAAAA78/abFmqSf1JLE/s320/Clipboard02.jpg" alt="" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/productivity-growth.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quote of the Day on Executive Pay</title>
+		<link>./../../2009/02/quote-of-the-day-on-executive-pay.html</link>
+		<comments>./../../2009/02/quote-of-the-day-on-executive-pay.html#respond</comments>
+		<pubDate>Sun, 08 Feb 2009 20:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[compensation]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/02/quote-of-the-day-on-executive-pay.html</guid>
+		<description><![CDATA[Via Mark Thoma, Uwe Reinhardt* hits one out of the park on economist&#8217;s research abilities: Evidently, in the mind of economists, Lone Ranger C.E.O.’s can make truly astronomical contributions to a firm’s market capitalization, ceteris paribus, which justifies high bid prices for them. Why Lone Ranger C.E.O.’s who have trashed their firm’s market capitalization should [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://economistsview.typepad.com/economistsview/2009/02/executive-pay.html">Mark Thoma</a>, Uwe Reinhardt* hits one out of the park on <a href="http://economix.blogs.nytimes.com/2009/02/06/supply-demand-and-executive-pay/">economist&#8217;s research abilities</a>:<br />
+<blockquote>Evidently, in the mind of economists, Lone Ranger C.E.O.’s can make truly astronomical contributions to a firm’s market capitalization, ceteris paribus, which justifies high bid prices for them. Why Lone Ranger C.E.O.’s who have trashed their firm’s market capitalization should be sent off to pasture with hundred-million-dollar golden parachutes — which occurs with remarkable frequency — seems to be not much analyzed by economists. Perhaps other things did not remain equal. [emphasis mine]</p></blockquote>
+<p>Or, as Warren Buffett famously observed (roughly): &#8220;If a good manager goes to a bad company, it is generally the reputation of the manager that is changed.&#8221;**  And even Michael Porter, who never saw a manager he didn&#8217;t like, <a href="http://knowledge.wharton.upenn.edu/article.cfm?articleid=1594">recently changed his tune</a>:<br />
+<blockquote>When Porter started out studying strategy, he believed most strategic errors were caused by external factors, such as consumer trends or technological change. &#8220;But I have come to the realization after 25 to 30 years that many, if not most, strategic errors come from within. The company does it to itself.&#8221;</p></blockquote>
+<p>Those of us who know that economists use thr phrase &#8220;technological change&#8221; because &#8220;magic&#8221; would get them laughed out of meetings can only say, &#8220;Gee, Really?&#8221;</p>
+<p>Reinhardt also notes that Robert Frank cites the Gabaix/Lander &#8220;study&#8221; of executive compensation. Reinhardt notes:<br />
+<blockquote>Readers may wonder about the survival of this theory, even among economists, as stock prices have begun to tumble sharply, starting in 2007.</p></blockquote>
+<p>Since I don&#8217;t feel like retreading, here are links to <a href="http://angrybear.blogspot.com/2007/05/why-has-ceo-pay-increased-so-much.html">PGL here in 2007</a> and Tom at the Legacy Blog in <a href="http://atbozzo.blogspot.com/2006/05/news-flash-ceos-are-overpaid.html">2006</a>, <a href="http://atbozzo.blogspot.com/2007/05/from-archives-on-gabaix-and-landier-on.html">2007</a>, and <a href="http://atbozzo.blogspot.com/2008/04/bad-penny.html">2008</a>.</p>
+<p>Reinhardt continues:<br />
+<blockquote>Readers may also wonder why, in the United States, the ratio of total executive compensation (including bonuses and deferred compensation, pensions and perks) to the comparable figure earned by non-management employees rose from 50 in 1980 to 301 by 2003 for the 300 to 400 largest corporations (and to 500 in very large corporations), while that ratio typically has remained so much lower in Europe and in Asia. Are corporate executives in Europe and Asia so vastly inferior to their American counterparts, or is the supply of potential C.E.O.’s so much larger there as to drive down the ratio in, say, Japan, to as low a 3?</p></blockquote>
+<p>Reinhardt promises to talk about the cl*st*rf*ck that is GE (last discussed by me <a href="http://angrybear.blogspot.com/2009/01/ratings-stocks-and-credibility.html">here</a>) in his next post.</p>
+<p>Pass the popcorn.</p>
+<p>*Note to Canadian readers:I&#8217;m told he&#8217;s the Bob Evans of Health Economists in the U.S.</p>
+<p>**Of course, if Bob Nardelli trashes Home Depot and then goes to finish the trashing of Chrysler, he gets richer and it&#8217;s an outlier in the database (which has a growing number of outliers).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/02/quote-of-the-day-on-executive-pay.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

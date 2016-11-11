@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>savings rate &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Does the US Corporate Saving Rate Portend a Lower Unemployment Rate?</title>
+		<link>./../../2012/03/does-the-us-corporate-saving-rate-portend-a-lower-unemployment-rate.html</link>
+		<comments>./../../2012/03/does-the-us-corporate-saving-rate-portend-a-lower-unemployment-rate.html#respond</comments>
+		<pubDate>Thu, 15 Mar 2012 13:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Rebecca Wilder]]></category>
+		<category><![CDATA[savings rate]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/does-the-us-corporate-saving-rate-portend-a-lower-unemployment-rate.html</guid>
+		<description><![CDATA[by Rebecca Wilder Does the US Corporate Saving Rate Portend a Lower Unemployment Rate? An interesting thing happened in Q4 2011: the corporate saving rate declined following two quarters of gains. Nominal net saving by the domestic business sector fell 3%, while nominal gross fixed investment and inventories surged 6% – the two pushed the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a> </p>
+<p>Does the US Corporate Saving Rate Portend a Lower Unemployment Rate? An interesting thing happened in Q4 2011: the corporate saving rate declined following two quarters of gains. Nominal net saving by the domestic business sector fell 3%, while nominal gross fixed investment and inventories surged 6% – the two pushed the saving rate down nearly 40 bps to 2.94% of GDP. The corporate saving rate (gross saving less gross investment) has been on a downward trend since the end of 2009, a welcomed trend by the labor market.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/03/corporate_saving_rate_chart.jpg"><img alt="" height="382" src="http://www.economonitor.com/rebeccawilder/files/2012/03/corporate_saving_rate_chart.jpg" width="582"></a></p>
+<p><a name="more"></a></p>
+<p>There’s a very strong correlation between the corporate saving rate and the unemployment rate, 80% according to a simple bivariate OLS regression. I’ve <a href="http://www.angrybearblog.com/2011/03/its-not-structural-unemployment-its.html">argued in the past</a> that there is some causation to this relationship – but that’s not the point of this post. The point here is that the trend in corporate saving has fallen sufficiently to portend some material declines in the unemployment rate in coming quarters….ALL ELSE EQUAL. For example, a simple bivariate regression would forecast a 7.5% unemployment rate if the corporate saving rate falls another 30 bps to 2.6%.</p>
+<p>The all else equal is important. The primary driver of this quarter’s decline in the corporate saving rate was the 6% increase in nominal investment spending, the largest quarterly gain since 2010 Q2. Amid relatively weak manufacturing orders and the expiration of the depreciation allowance, I expect that this momentum is unlikely to be matched in coming quarters. Will firms start drawing down nominal saving to finance new hires?</p>
+<p>Better put: will the unemployment rate drop to meet the saving rate? Or will the saving rate rise to meet the unemployment rate?</p>
+<p><em><strong>Rebecca Wilder</strong></em><br /><em><strong><br /></strong></em><br />originally published at <a href="http://www.economonitor.com/rebeccawilder/2012/03/14/does-the-us-corporate-saving-rate-portend-a-lower-unemployment-rate/" target="_blank">The Wilder View..Economonitors</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/does-the-us-corporate-saving-rate-portend-a-lower-unemployment-rate.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

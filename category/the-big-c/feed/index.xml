@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Big C &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>In Other News, Larry King is Selling Divorce Insurance</title>
+		<link>./../../2010/02/in-other-news-larry-king-is-selling-divorce-insurance.html</link>
+		<comments>./../../2010/02/in-other-news-larry-king-is-selling-divorce-insurance.html#respond</comments>
+		<pubDate>Mon, 08 Feb 2010 16:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[correlation]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Big C]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/in-other-news-larry-king-is-selling-divorce-insurance.html</guid>
+		<description><![CDATA[Many months ago, I quoted the brilliant Janet Tavakoli&#8216;s book Credit Derivatives and Synthetic Structures: The trader then went on to tell me that Commercial Bank of Korea would sell credit default protection on bonds issued by the Commercial Bank of Korea.&#8220;That&#8217;s very interesting,&#8221; I countered, &#8220;but the credit default option is worthless.&#8221;&#8220;But people are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.angrybearblog.com/2008/09/roubinis-not-wrong-but.html">Many months ago</a>, I quoted the brilliant <a href="http://www.tavakolistructuredfinance.com/index.html">Janet Tavakoli</a>&#8216;s book <a href="http://www.booksamillion.com/product/9780471412663?id=4214424925428">Credit Derivatives and Synthetic Structures</a>:<br />
+<blockquote>The trader then went on to tell me that Commercial Bank of Korea would sell credit default protection on bonds issued by the Commercial Bank of Korea.<br />&#8220;That&#8217;s very interesting,&#8221; I countered, &#8220;but the credit default option is worthless.&#8221;<br />&#8220;But people are doing it,&#8221; persisted the trader.<br />&#8220;That&#8217;s because they don&#8217;t know what they&#8217;re doing,&#8221; I affirmed. &#8220;The correlation between Commercial Bank of Korea and itself is 100 percent. I would pay nothing for that credit protection. It is worthless for this purpose.&#8221;<br />The trader mustered his best grammar, chilliest tone, and most authoritative voice: &#8220;There are those who would disagree with you.&#8221; (p. 85)</p></blockquote>
+<p>Apparently, that anonymous trader—or another <a href="http://nymag.com/daily/intel/2008/06/vikram.html">money-losing risk-mispricing hedge fund manager</a>—is <a href="http://www.risk.net/risk-magazine/news/1590861/citi-plans-crisis-derivatives">now running The Big C</a>:<br />
+<blockquote>Credit specialists at Citi are considering launching the first derivatives intended to pay out in the event of a financial crisis. The firm has drawn up plans for a tradable liquidity index, known as the CLX, on which products could be structured that allow buyers to hedge a spike in funding costs&#8230;.</p>
+<p>&#8220;The great thing about the index is that it hedges your funding costs while being very simple to trade. I believe it will reduce the systemic risk in the industry, akin to how the advent of swaps means people don&#8217;t worry about interest-rate exposures any more – they just pay a fee to hedge it,&#8221; he says.</p></blockquote>
+<p>Because if funding dries up, The Big C will be there to support you!</p>
+<p>I thought this was an attempt to make money on a premium, but it isn&#8217;t:<br />
+<blockquote>Like a swap, the contracts envisaged by Citi would be entered into without an up-front premium, with money changing hands according to the index&#8217;s movements around a fair strike value.</p></blockquote>
+<p>So the model is actually that you pay a higher cost of funds during good times, and during bad times, depend on the ability of your counterparty to make you whole.</p>
+<p>When banks do it, it&#8217;s called &#8220;deposit insurance,&#8221; and it is valuable because in the worst-case scenario, the U.S. Treasury can print money. Since—the last time I checked—Citigroup cannot do that, the option is as valuable as the ability of the bank to perform in a crisis.  How did that work out last time?</p>
+<p>Via <a href="http://twitter.com/alea_">my usually source for financial information</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/in-other-news-larry-king-is-selling-divorce-insurance.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

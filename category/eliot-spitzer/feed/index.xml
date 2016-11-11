@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eliot Spitzer &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Eliot L. Spitzer, is back</title>
+		<link>./../../2008/11/eliot-l-spitzer-is-back.html</link>
+		<comments>./../../2008/11/eliot-l-spitzer-is-back.html#respond</comments>
+		<pubDate>Mon, 17 Nov 2008 18:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[economic crisis]]></category>
+		<category><![CDATA[Eliot Spitzer]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/11/eliot-l-spitzer-is-back.html</guid>
+		<description><![CDATA[By: Divorced one like Bush I was wondering why Mr. Spitzer had not been heard from? Was his personal indiscretion so great that his knowledge and expertise would not trump such? He has an opinion at the Washington Post yesterday. The new president&#8217;s team must soon get to the root causes of the mistakes that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By: Divorced one like Bush</p>
+<p>I was wondering why Mr. Spitzer had not been heard from?  Was his personal indiscretion so great that his knowledge and expertise would not trump such?  </p>
+<p>He has an opinion at the <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/11/13/AR2008111303634.html?hpid=opinionsbox1">Washington Post yesterday</a>. </p>
+<blockquote><p>The new president&#8217;s team must soon get to the root causes of the mistakes that have brought us to the economic precipice. Yes, we have all derided the explosion of leverage, the failure to regulate derivatives, the flood of subprime lending that was bound to default and the excesses of CEO compensation. But these are all mere manifestations of three deeper structural problems that require greater attention: misconceptions about what a &#8220;free market&#8221; really is, a continuing breakdown in corporate governance and an antiquated and incoherent federal financial regulatory framework.</p></blockquote>
+<blockquote><p>One of the great advantages U.S. capital markets have enjoyed over the decades has been the view &#8212; held worldwide &#8212; that there was an underlying integrity to the representations market participants made, because the regulatory framework in which they were made was believed to provide genuine oversight. But as we all know, the laws requiring such integrity are meaningless without a government dedicated to enforcing them. </p>
+<p>We do not need additional fragmented areas of federal regulation to handle hedge funds, sovereign wealth funds or derivatives. We need a unified approach that addresses the underlying issues: what kinds of leverage we wish to tolerate, how to measure risk, how much disclosure various trading products should provide.</p>
+<p>Three overarching priorities should guide government actions in the new structure. First, we need better control of systemic risk.<br />Second, investors must be protected with adequate, accurate information. Firms must offer transparency both to individual investors and to government regulators. <br />[third]&#8230;we will have to step back from the current environment in which government has become a guarantor of all major risk. The so-called moral hazard will serve to devalue risk in the market, and this too will have a debilitating long-term effect on capital flows. Only if private actors have to bear the real risks they incur will the market function properly. We are now perilously close to nationalizing risk.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/11/eliot-l-spitzer-is-back.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

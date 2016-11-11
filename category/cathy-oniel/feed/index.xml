@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cathy O&#8217;Niel &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Finance and belief in how markets work</title>
+		<link>./../../2013/03/finance-and-belief-in-how-markets-work.html</link>
+		<comments>./../../2013/03/finance-and-belief-in-how-markets-work.html#respond</comments>
+		<pubDate>Fri, 15 Mar 2013 13:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cathy O'Niel]]></category>
+		<category><![CDATA[normal distribution]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/finance-and-belief-in-how-markets-work.html</guid>
+		<description><![CDATA[Via Naked Capitalism comes this post from Cathy O&#8217;Niel, Black Scholes and the normal distribution. form her blog mathbabe. (re-posted with permission from the author). There have been lots of comments and confusion, especially in this post, over what people in finance do or do not assume about how the markets work. I wanted to dispel [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://www.nakedcapitalism.com/2013/03/cathy-oneil-black-scholes-and-the-normal-distribution.html#8DRYALIumDeBb9jL.99">Naked Capitalism</a> comes this post from Cathy O&#8217;Niel, <i>Black Scholes and the normal distribution. </i>form her blog <i><a href="http://mathbabe.org/2013/03/12/black-scholes-and-the-normal-distribution/"> mathbabe.</a> </i>(re-posted with permission from the author).</p>
+<p>There have been lots of comments and confusion, <a href="http://mathbabe.org/2013/03/10/modeling-fraud-in-the-financial-system/#comments">especially in this post</a>, over what people in finance do or do not assume about how the markets work. I wanted to dispel some myths (at the risk of creating more).</p>
+<p>First, there’s a big difference between quantitative trading and quantitative risk. And there may be a bunch of other categories that also exist, but I’ve only worked in those two arenas.</p>
+<p><strong>Markets are not efficient</strong></p>
+<p>In quantitative trading, nobody really thinks that “markets are efficient.” That’s kind of ridiculous, since then what would be the point of trying to make money through trading? We essentially make money because they aren’t. But of course that’s not to say they are entirely inefficient. Some approaches to removing inefficiency, and some markets, are easier than others. There can be entire markets that are so old and well-combed-over that the inefficiencies (that people have thought of) have been more or less removed and so, to make money, you have to be more thoughtful. A better way to say this is that the inefficiencies that are left are smaller than the transaction costs that would be required to remove them.</p>
+<p>It’s not clear where “removing inefficiency” ends and where a different kind of trading begins, by the way. In some sense all algorithmic trades that work for any amount of time can be thought of as removing inefficiency, but then it becomes a useless concept.</p>
+<p><a name="more"></a></p>
+<p>Also, you can see from the above that traders have a vested interest to introduce new kinds of markets to the system, because new markets have new inefficiencies that can be picked off.</p>
+<p>This kind of trading is very specific to a certain kind of time horizon as well. Traders and their algorithms typically want to make money in the average year. If there’s an inefficiency with a time horizon of 30 years it may still exist but few people are patient enough for it (I should add that we also probably don’t have good enough evidence that they’d work, considering how quickly the markets change). Indeed the average quant shop is going in the opposite direction, of high speed trading, for that very reason, to find the time horizon at which there are still obvious inefficiencies.</p>
+<p><strong>Black-Scholes</strong></p>
+<p>A long long time ago, before Black Monday in 1987, people didn’t know how to price options. Then <a href="http://en.wikipedia.org/wiki/Black%E2%80%93Scholes">Black-Scholes</a> came out and traders started using the Black-Scholes (BS) formula and it worked pretty well, until Black Monday came along and people suddenly realized the assumptions in BS were ridiculous. Ever since then people have adjusted the BS formula. Everyone.</p>
+<p>There are lots of ways to think about how to adjust the formula, but a very common one is through the <a href="http://en.wikipedia.org/wiki/Volatility_smile">volatility smile</a>. This allows us to remove the BS assumption of constant volatility (of the underlying stock) and replace it with whatever inferred volatility is actually traded on in the market for that strike price and that maturity. As <a href="http://mathbabe.org/2013/03/10/modeling-fraud-in-the-financial-system/#comment-22262">this commenter mentioned</a>, the BS formula is still used here as a convenient reference to do this calculation. If you extend your consideration to any maturity and any strike price (for the same underlying stock or thingy) then you get a <a href="http://en.wikipedia.org/wiki/Volatility_surface#Implied_volatility_surface">volatility surface</a> by the same reasoning.<br />Two things to mention. First, you can think of the volatility smile/ surface as adjusting the assumption of constant volatility, but you can also ascribe to it an adjustment of the assumption of a normal distribution of the underlying stock. There’s really no way to extricate those two assumptions, but you can convince yourself of this by a thought experiment: if the volatility stays fixed but the presumed shape of the distribution of the stocks gets fatter-tailed, for example, then option prices (for options that are far from the current price) will change, which will in turn change the implied volatility according to the market (i.e. the smile will deepen). In other words, the smile adjusts for more than one assumption.</p>
+<p>The other thing to mention: although we’ve done a relatively good job adjusting to market reality when pricing an option, when we apply our current risk measures like <a href="http://en.wikipedia.org/wiki/Value_at_risk">Value-at-Risk</a> (VaR) to options, we still assume a normal distribution of risk factors (one of the risk factors, if we were pricing options, would be the implied volatility). So in other words, we might have a pretty good view of current prices, but it’s not at all clear we know how to make reasonable scenarios of future pricing shifts.</p>
+<p>Ultimately, this assumption of normal distributions of risk factors in calculating VaR is actually pretty important in terms of our view of systemic risks. We do it out of computational convenience, by the way. That and because when we use fatter-tailed assumptions, people don’t like the answer.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/finance-and-belief-in-how-markets-work.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bill Gates is naive, data is not objective</title>
+		<link>./../../2013/02/bill-gates-is-naive-data-is-not-objective.html</link>
+		<comments>./../../2013/02/bill-gates-is-naive-data-is-not-objective.html#respond</comments>
+		<pubDate>Sat, 02 Feb 2013 01:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cathy O'Niel]]></category>
+		<category><![CDATA[economic modeling]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/bill-gates-is-naive-data-is-not-objective.html</guid>
+		<description><![CDATA[by Cathy O&#8217;Niel       and re-posted with permission of the author who writes her own posts for her blog mathbabe, who works and teaches in New York city as a quant with style. This piece is a comment on data collection, not his intent. Bill Gates is naive, data is not objective In [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Cathy O&#8217;Niel       and re-posted with permission of the author who writes her own posts for her blog <a href="http://mathbabe.org/2013/01/29/bill-gates-is-naive-data-is-not-objective/" title="http://mathbabe.org/2013/01/29/bill-gates-is-naive-data-is-not-objective/">mathbabe</a>, who works and teaches in New York city as a quant with style. This piece is a comment on data collection, not his intent.</p>
+<p> Bill Gates is naive, data is not objective</p>
+<p>In <a href="http://online.wsj.com/article/SB10001424127887323539804578261780648285770.html?mod=WSJ_hp_mostpop_read">his recent essay in the Wall Street Journal</a>, Bill Gates proposed to “fix the world’s biggest problems” through “good measurement and a commitment to follow the data.” Sounds great!</p>
+<p>Unfortunately it’s not so simple.</p>
+<p>Gates describes a positive feedback loop when good data is collected and acted on. It’s hard to argue against this: given perfect data-collection procedures with relevant data, specific models do tend to improve, according to their chosen metrics of success. In fact this is almost tautological.</p>
+<p>As I’ll explain, however, rather than focusing on how individual models improve with more data, we need to worry more about which models and which data have been chosen in the first place, why that process is successful when it is, and – most importantly – who gets to decide what data is collected and what models are trained.</p>
+<p>Take Gates’s example of Ethiopia’s commitment to health care for its people. Let’s face it, it’s not new information that we should ensure “each home has access to a bed net to protect the family from malaria, a pit toilet, first-aid training and other basic health and safety practices.” What’s new is the political decision to do something about it. In other words, where Gates credits the measurement and data-collection for this, I’d suggest we give credit to the political system that allowed both the data collection and the actual resources to make it happen.</p>
+<p><a name="more"></a></p>
+<p>Gates also brings up the campaign to eradicate polio and how measurement has helped so much there as well. Here he sidesteps an enormous amount of politics and debate about how that campaign has been fought and, more importantly, how many scarce resources have been put towards it. But he has framed this fight himself, and has collected the data and defined the success metric, so that’s what he’s focused on.</p>
+<p>Then he talks about teacher scoring and how great it would be to do that well. Teachers might not agree, and I’d argue they are correct to be wary about scoring systems, especially if they’ve experienced the <a href="http://mathbabe.org/2012/03/06/the-value-added-teacher-model-sucks/">random number generator</a> called the Value Added Model. Many of the teacher strikes and failed negotiations are being caused by this system where, again, the people who own the model have the power.<br />Then he talks about college rankings and suggests we replace the flawed US News &#038; World Reports system with his own idea, namely “measures of which colleges were best preparing their graduates for the job market”. Note I’m not arguing for keeping that US News &#038; World Reports model, which is <a href="http://mathbabe.org/2013/01/14/should-the-u-s-news-world-reports-college-ranking-model-be-open-source/">embarrassingly flawed</a> and is <a href="http://www.nytimes.com/2012/01/31/education/claremont-mckenna-college-says-it-exaggerated-sat-figures.html?_r=0">consistently gamed</a>. But the question is, who gets to choose the replacement?</p>
+<p>This is where we get the closest to seeing him admit what’s really going on: that the person who defines the model defines success, and by obscuring this power behind a data collection process and incrementally improved model results, it seems somehow sanitized and objective when it’s not.</p>
+<p>Let’s see some more example of data collection and model design not being objective:
+<ol>
+<li>We see that <a href="http://sciencenordic.com/gender-equality-crash-test-dummies-too">cars are safer for men than women</a> because the crash-test dummies are men. </li>
+<li>We see that <a href="http://well.blogs.nytimes.com/2013/01/21/an-unexpected-road-hazard-obesity/">cars are safer for thin people</a> because the crash-test dummies are thin. </li>
+<li>We see <a href="https://www.aamc.org/newsroom/reporter/november2012/313994/viewpoint.html">drugs are safer and more effective for white people</a> because blacks are underrepresented in clinical trials (which is a <a href="http://health.usnews.com/usnews/health/healthday/080114/black-americans-still-wary-of-clinical-trials.htm">whole other story about power and data collection in itself</a>). </li>
+<li>We see that <a href="http://www.guardian.co.uk/artanddesign/2013/jan/25/racism-colour-photography-exhibition">Polaroid film used to only pick up white skin</a> because it was optimized for white people. </li>
+<li>We see that <a href="http://www.nytimes.com/interactive/2013/01/25/business/Who-Trusts-the-Banks.html?emc=eta1">poor people are uninformed <em>by definition</em></a> of how we take opinion polls (read the fine print).</li>
+</ol>
+<p>Bill Gates seems genuinely interested in tackling some big problems in the world, and I wish more people thought long and hard about how they could contribute like that. But the process he describes so lovingly is in fact highly fraught and dangerous.<br />Don’t be fooled by the mathematical imprimatur: behind every model and every data set is a political process that chose that data and built that model and defined success for that model.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/bill-gates-is-naive-data-is-not-objective.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Statisticians aren’t the problem for data science. The real problem is too many posers</title>
+		<link>./../../2012/08/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers.html</link>
+		<comments>./../../2012/08/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers.html#respond</comments>
+		<pubDate>Wed, 01 Aug 2012 13:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cathy O'Niel]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[mathbabe]]></category>
+		<category><![CDATA[Statiticians]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers.html</guid>
+		<description><![CDATA[I met Cathy for coffee in Cambridge when she was presenting at MIT awhile ago.  I liked her style and knowledge.  Re-posted with permission from the author. by Cathy O’Neila data scientist who lives in New York City and writes at mathbabe.org Statisticians aren’t the problem for data science. The real problem is too many [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I met Cathy for coffee in Cambridge when she was presenting at MIT awhile ago.  I liked her style and knowledge.  Re-posted with permission from the author.</p>
+<p><strong>by Cathy O’Neil</strong><br />a data scientist who lives in New York City and writes at <a href="http://mathbabe.org/">mathbabe.org</a></p>
+<p><a href="http://mathbabe.org/2012/07/31/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers/">Statisticians aren’t the problem for data science. The real problem is too many posers</a> <br />(Crossposted on <a href="http://www.nakedcapitalism.com/">Naked Capitalism</a>)</p>
+<p><strong>Cosma Shalizi</strong></p>
+<p>I recently was hugely flattered by <a href="http://cscs.umich.edu/~crshalizi/weblog/925.html">my friend Cosma Shalizi’s articulate argument</a> against <a href="http://mathbabe.org/2011/10/04/data-science-tools-vs-craft/">my position that data science distinguishes itself from statistics</a> in various ways.</p>
+<p>Cosma is a well-read broadly educated guy, and a role model for what a statistician can be, not that every statistician lives up to his standard. I’ve enjoyed talking to him about data, big data, and working in industry, and <a href="http://mathbabe.org/2012/01/22/bad-statistics-debunked/">I’ve blogged about his blogposts</a> as well.</p>
+<p>That’s not to say I agree with absolutely everything Cosma says <a href="http://cscs.umich.edu/~crshalizi/weblog/925.html">in his post</a>: in particular, there’s a difference between being a master at visualizations for the statistics audience and being able to put together a power point presentation for a board meeting, which some data scientists in the internet start-up scene definitely need to do (mostly this is a study in how to dumb stuff down without letting it become vapid, and in reading other people’s minds in advance to see what they find sexy).</p>
+<p>And communications skills are a funny thing; my experience is communicating with an academic or a quant is a different kettle of fish than communicating with the Head of Product. Each audience has its own dialect.<br />But I totally believe that any statistician who willingly gets a job entitled “Data Scientist” would be able to do these things, it’s a self-selection process after all.</p>
+<p><a name="more"></a></p>
+<p><strong>Statistics and Data Science are on the same team</strong><br />I think that casting statistics as the enemy of data science is a straw man play. The truth is, an earnest, well-trained and careful statistician in a data scientist role would adapt very quickly to it and flourish as well, if he or she could learn to stomach the business-speak and hype (which changes depending on the role, and for certain data science jobs is really not a big part of it, but for others may be).</p>
+<p>It would be a petty argument indeed to try to make this into a real fight. As long as academic statisticians are willing to admit they don’t <em>typically</em> spend just as much time (which isn’t to say they never spend as much time) worrying about how long it will take to train a model as they do wondering about the exact conditions under which a paper will be published, and as long as data scientists admit that they mostly just redo linear regression in weirder and weirder ways, then there’s no need for a heated debate at all.<br />Let’s once and for all shake hands and agree that we’re here together, and it’s cool, and we each have something to learn from the other.</p>
+<p><strong>Posers</strong><br /><strong><br /></strong><br />What I <em>really</em> want to rant about today though is something else, namely posers. There are far too many posers out there in the land of data scientists, and it’s getting to the point where I’m starting to regret throwing my hat into that ring.</p>
+<p>Without naming names, I’d like to characterize problematic pseudo-mathematical behavior that I witness often enough that I’m consistently riled up. I’ll put aside hyped-up, bullshit publicity stunts and generalized political maneuvering because I believe that stuff speaks for itself.</p>
+<p>My basic mathematical complaint is that it’s <strong>not enough to just know how to run a black box algorithm</strong>. You actually need to know how and why it works, so that when it doesn’t work, you can adjust. Let me explain this a bit by analogy with respect to the Rubik’s cube, which <a href="http://mathbabe.org/2012/07/18/hcssim-workshop-day-14/">I taught my beloved math nerd high school students to solve using group theory just last week</a>.</p>
+<p><strong>Rubiks</strong><br /><strong><br /></strong><br />First we solved the “position problem” for the 3-by-3-by-3 cube using 3-cycles, and proved it worked, by exhibiting the group acting on the cube, understanding it as a subgroup of <img alt="S_8 \times S_{12}," src="http://s0.wp.com/latex.php?latex=S_8+%5Ctimes+S_%7B12%7D%2C&#038;bg=ffffff&#038;fg=555555&#038;s=0" title="S_8 \times S_{12},"> and thinking hard about things like the sign of basic actions to prove we’d thought of and resolved everything that could happen. We solved the “orientation problem” similarly, with 3-cycles.</p>
+<p>I did this three times, with the three classes, and each time a student would ask me if the algorithm is efficient. No, it’s not efficient, it takes about 4 minutes, and other people can solve it way faster, I’d explain. But the great thing about this algorithm is that it seamlessly generalizes to other problems. Using similar sign arguments and basic 3-cycle moves, you can solve the 7-by-7-by-7 (or any of them actually) and many other shaped Rubik’s-like puzzles as well, which none of the “efficient” algorithms can do.</p>
+<p>Something I could have mentioned but didn’t is that the efficient algorithms are <em>memorized</em> by their users, are basically black-box algorithms. I don’t think people understand to any degree why they work. And when they are confronted with a new puzzle, some of those tricks generalize but not all of them, and they need new tricks to deal with centers that get scrambled with “invisible orientations”. And it’s not at all clear they can solve a tetrahedron puzzle, for example, with any success.</p>
+<p><strong>Democratizing algorithms: good and bad</strong><br /><strong><br /></strong><br />Back to data science. It’s a <em>good thing</em> that data algorithms are getting democratized, and I’m all for there being packages in <a href="http://www.r-project.org/">R</a> or <a href="http://www.gnu.org/software/octave/">Octave</a> that let people run clustering algorithms or steepest descent.</p>
+<p>But, contrary to the message sent by much of <a href="https://www.coursera.org/course/ml">Andrew Ng’s class on machine learning</a>, you actually <em>do</em> need to understand how to invert a matrix at some point in your life if you want to be a data scientist. And, I’d add, if you’re not smart enough to understand the underlying math, then you’re not smart enough to be a data scientist.</p>
+<p>I’m not being a snob. I’m not saying this because I want people to work hard. It’s not a laziness thing, it’s a matter of knowing your shit and being for real. If your model fails, you want to be able to figure out <em>why</em> it failed. The only way to do that is to know how it works to begin with. Even if it worked in a given situation, when you train on slightly different data you might run into something that throws it for a loop, and you’d better be able to figure out what that is. That’s your job.</p>
+<p>As I see it, there are three problems with the democratization of algorithms:
+<ol>
+<li>As described already, it lets people who can load data and press a button describe themselves as data scientists. </li>
+<li>It tempts companies to never hire anyone who actually <em>knows</em> how these things work, because they don’t see the point. This is a mistake, and could have dire consequences, both for the company and for the world, depending on how widely their crappy models get used. </li>
+<li>Businesses might think they have awesome data scientists when they don’t. That’s not an easy problem to fix from the business side: posers can be fantastically successful exactly because non-data scientists who hire data scientists in business, i.e. business people, don’t know how to test for real understanding.</li>
+</ol>
+<p><strong>How do we purge the posers?</strong><br />We need to come up with a plan to purge the posers, they are annoying and making a bad name for data science.</p>
+<p>One thing that will be helpful in this direction is <a href="http://www.columbia.edu/cu/bulletin/uwb/subj/STAT/W4242-20123-001/">Rachel Schutt’s Data Science class at Columbia</a> next semester, which is going to be a much-needed bullshit free zone. Note there’s been a time change that hasn’t been reflected on the announcement yet, namely it’s going to be once a week, Wednesdays for three hours starting at 6:15pm. I’m looking forward to blogging on the contents of these lectures.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/statisticians-arent-the-problem-for-data-science-the-real-problem-is-too-many-posers.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

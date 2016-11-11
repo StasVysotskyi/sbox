@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TBI &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Post-traumatic stress disorder (PTSD) responses</title>
+		<link>./../../2012/01/post-traumatic-stress-disorder-ptsd-responses.html</link>
+		<comments>./../../2012/01/post-traumatic-stress-disorder-ptsd-responses.html#respond</comments>
+		<pubDate>Sat, 28 Jan 2012 11:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[DoD]]></category>
+		<category><![CDATA[PTSD]]></category>
+		<category><![CDATA[TBI]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/post-traumatic-stress-disorder-ptsd-responses.html</guid>
+		<description><![CDATA[Past Angry Bear posts started in 2007, but here are four later posts 2008 and 2009: Brain injury awareness Pattern of misconduct PTSD and our military response What are we going to do now is your choice GAO report 12-154 addresses the notion that this sort of thing is being taken care of. There are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Past Angry Bear posts started in 2007, but here are four later posts 2008 and 2009:</p>
+<p><a href="http://www.angrybearblog.com/2009/03/brain-injury-awareness.html" target="_blank">Brain injury awareness</a> <br /><a href="http://www.angrybearblog.com/2009/01/pattern-of-misdonduct.html" target="_blank">Pattern of misconduct</a> <br /><a href="http://www.angrybearblog.com/2008/06/ptsd-and-our-military-response.html" target="_blank">PTSD and our military response</a> <br /><a href="http://www.angrybearblog.com/2008/01/what-are-we-going-to-do-now-your-choice.html" target="_blank">What are we going to do now is your choice</a>  </p>
+<p><a href="http://www.gao.gov/products/GAO-12-154" target="_blank" title="http://www.gao.gov/products/GAO-12-154">GAO report 12-154</a> addresses the notion that this sort of thing is being taken care of. There are about 80 projects now ongoing to determine best practice within the military culture and organization, which is of course very different than civilian demands placed on personnel.    :<br />
+<blockquote>Post-traumatic stress disorder (PTSD), which falls into the broader field of psychological health (PH), and traumatic brain injury (TBI) are recognized as the signature wounds of the wars in Afghanistan and Iraq. In two reports issued in 2011 (<a href="http://www.gao.gov/products/GAO-11-219">GAO-11-219</a> and <a href="http://www.gao.gov/products/GAO-11-611">GAO-11-611</a>), GAO cited numerous management weaknesses at the Defense Center of Excellence for PH and TBI (DCOE). For the present report, GAO reviewed (1) funding for DOD&#8217;s PH and TBI activities in fiscal years 2007 through 2010 and the accuracy of its reporting on these activities to Congress and (2) DOD&#8217;s ability to coordinate its PH and TBI activities to help ensure that funds are used to support programs of the most benefit to service- members. GAO interviewed DOD officials, reviewed legislation and DOD’s annual reports, and obtained relevant documentation.<br /><strong></strong></p></blockquote>
+<p><a name="more"></a><br />
+<blockquote><strong>…</strong><br />From fiscal year 2007 through fiscal year 2010, DOD activities for the treatment and research of PH and TBI received more than $2.7 billion. In fiscal year 2007, funding for these activities totaled $900 million; in fiscal year 2008, it was $573.8 million; in fiscal year 2009, $395 million; and in fiscal year 2010, $838.6 million. GAO found, however, that the reports DOD provided to Congress on these activities did not include expenditures, as required by law, and that the obligations data they contained were unreliable. Governmentwide policies call for agencies to have effective internal controls to assure accurate reporting of obligations and expenditures. </p></blockquote>
+<blockquote><p>However, the Office of the Assistant Secretary of Defense for Health Affairs has not developed quality control mechanisms to help ensure that data on PH and TBI activities are complete and accurate. Further, although DOD listed patient care among reported costs, it did not specify what those costs included, making it difficult for decisionmakers and Congress to fully understand the costs.<br />No one organization coordinates DOD’s PH and TBI activities.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/post-traumatic-stress-disorder-ptsd-responses.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

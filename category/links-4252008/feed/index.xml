@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Links 4/25/2008 &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Links 4/25/2008 New service for AB</title>
+		<link>./../../2008/04/links-4252008-new-service-for-ab.html</link>
+		<comments>./../../2008/04/links-4252008-new-service-for-ab.html#respond</comments>
+		<pubDate>Thu, 24 Apr 2008 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[international websites]]></category>
+		<category><![CDATA[Links 4/25/2008]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/links-4252008-new-service-for-ab.html</guid>
+		<description><![CDATA[Derivatives predict further increase Naked Capitalism Ambac on suspicious transactions Calculated Risk. Eurotrib, a good site to catch news and economy for and about the many facets of European Union countries. (This is the first site to be added to our international links section for information and points of view from our global neighbors. Seemed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.nakedcapitalism.com/2008/04/derivatives-predict-further-increase-in.html">Derivatives predict further increase</a> Naked Capitalism</p>
+<p><a href="http://calculatedrisk.blogspot.com/2008/04/ambac-on-suspicious-transactions.html">Ambac on suspicious transactions</a> Calculated Risk.</p>
+<p><a href="http://www.eurotrib.com/">Eurotrib</a>, a good site to catch news and economy for and about the many facets of European Union countries. (This is the first site to be added to our international links section for information and points of view from our global neighbors. Seemed a decent thing to do to honor globalization. Referral from reader detlef, Germany. Vetted by stormy. I am not sure he knows this&#8230;he said &#8220;sure, looks good!&#8221;.)</p>
+<p>Especially for links we might not catch as well. Send suggestions for both links of the week and websites that specialize for international viewpoints and information.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/links-4252008-new-service-for-ab.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

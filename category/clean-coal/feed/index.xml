@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>clean coal &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>China and use of coal</title>
+		<link>./../../2010/07/china-and-use-of-coal.html</link>
+		<comments>./../../2010/07/china-and-use-of-coal.html#respond</comments>
+		<pubDate>Wed, 14 Jul 2010 23:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[China]]></category>
+		<category><![CDATA[clean coal]]></category>
+		<category><![CDATA[energy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/china-and-use-of-coal.html</guid>
+		<description><![CDATA[Reader benamery 21 comments on US energy consumption from a previous post at Angry Bear on a better picture of what drives energy consumption in China. The NYT article used air conditioning and shopping malls as one metaphor for the good life that the Chinese are striving for, but he would advise caution for those [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Reader benamery 21 comments on US energy consumption from a <a target="_blank" href="http://www.angrybearblog.com/2010/07/increasing-internal-demand-in-china-for.html">previous post at Angry Bear</a> on a better picture of what drives energy consumption in China.  The NYT article used air conditioning and shopping malls as one metaphor for the good life that the Chinese are striving for, but he would advise caution for those wanting to Americanize our image of China at least in the short term (decades).</p>
+<blockquote><p>Residential air conditioning is only 2.8% of U.S. energy consumption (including electrical system losses at 31.5% system efficiency), and the average occupied square feet is a LOT bigger than a Chinese apartment.  A/C isn&#8217;t the U.S. energy monster, that&#8217;s the private automobile.  A/C uses less energy than residential space heating (5%) or water heating (3.0%) or appliance use (9.4%).  It takes on importance from an energy perspective because it drives electricity PEAK demand (not total energy consumption) in large parts of the country.</p></blockquote>
+<p>A look at another lifting from comments by sparaxis at <a target="_blank" href="http://europe.theoildrum.com/node/6700">Oildrum</a> from China Energy Group at Lawrence Berkeley National Laboratory.<br /><a name="more"></a><br />
+<blockquote>It&#8217;s useful to look at how coal is used in China to assess what future demand may look like. Unlike the US, less than half of China&#8217;s coal is used for power generation, so while important, electricity demand is not the sole driver of coal demand. <br />China uses almost half as much coal for coking to drive its huge iron &#038; steel industry, so that portion of demand will depend on the outlook for steel, half of which is now used in buildings and infrastructure. <br />Also unlike the US, China devotes a lot of coal use to district heating (&#8220;other transformation&#8221; in the graph) in the northern cold climate zones, and that portion is expected to grow only modestly as building reforms increase the efficiency of heat use in buildings. <br />For direct end-use of coal, that is almost all in industry, particularly the cement industry (residential use has fallen to about 80 million tonnes).<br />Given many saturation effects driving both construction and end-use of electricity by 2020, we don&#8217;t see coal continuing its dramatic rise of the last few years. 2010 probably marks the peak of cement production.<br />Under a depletion curve defined by China&#8217;s declared 189 billion tonnes of reserves from the 2003-2005 National Resource Survey, China is currently on what I call a &#8220;sharp peak&#8221; production profile that could reach 3.6 to 3.8 billion tonnes, but not for long.<br />The units in the following graph are in China&#8217;s standard measurement of &#8220;tonnes of coal equivalent&#8221; where 1 tce = 1.37 tonnes raw coal.</p></blockquote>
+<p><a href="http://1.bp.blogspot.com/_8UVGnCIfOVk/TDxLjInyRoI/AAAAAAAAAUY/MUqTlmf_Siw/s1600/coalchina.jpg"><img src="http://1.bp.blogspot.com/_8UVGnCIfOVk/TDxLjInyRoI/AAAAAAAAAUY/MUqTlmf_Siw/s320/coalchina.jpg" border="0" alt=""></a><br />China Energy Group at Lawrence Berkeley National Laboratory</p>
+<p>Other publications include:</p>
+<p><a target="_blank" href="http://china.lbl.gov/research/china-energy-databook/china-energy-primer">The China Energy Primer</a></p>
+<p><a target="_blank" href="http://china.lbl.gov/sites/china.lbl.gov/files/LBNL-2334E.pdf">China’s Coal: Demand, Constraints and Externalities</a></p>
+<p><a target="_blank" href="http://china.lbl.gov/publications/energy-use-china-sectoral-trends-and-f...">Energy Use in China: Sectoral Trends and Future Outlook</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/china-and-use-of-coal.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Coal Combustion Residuals</title>
+		<link>./../../2010/05/coal-combustion-residuals.html</link>
+		<comments>./../../2010/05/coal-combustion-residuals.html#respond</comments>
+		<pubDate>Wed, 12 May 2010 08:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[clean coal]]></category>
+		<category><![CDATA[coal ash]]></category>
+		<category><![CDATA[EPA]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/05/coal-combustion-residuals.html</guid>
+		<description><![CDATA[(hat tip OMB Watch) Coal Combustion Residuals, often referred to as coal ash, are currently considered exempt wastes under an amendment to RCRA, the Resource Conservation and Recovery Act. They are residues from the combustion of coal in power plants and captured by pollution control technologies, like scrubbers. Potential environmental concerns from coal ash pertain [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>(hat tip <a target="_blank" href="http://www.angrybearblog.com/">OMB Watch</a>)</p>
+<p><a target="_blank" href="http://www.angrybearblog.com/">Coal Combustion Residuals</a>, often referred to as coal ash, are currently considered exempt wastes under an amendment to RCRA, the Resource Conservation and Recovery Act.    They are residues from the combustion of coal in power plants and captured by pollution control technologies, like scrubbers. Potential environmental concerns from coal ash pertain to pollution from impoundment and landfills leaching into ground water and structural failures of impoundments, like that which occurred at the Tennessee Valley Authority’s plant in Kingston, Tennessee. The need for national management criteria was emphasized by the December 2008 spill of CCRs from a surface impoundment near Kingston, TN. The tragic spill flooded more than 300 acres of land with CCRs and flowed into the Emory and Clinch rivers.<br />EPA is proposing to regulate for the first time coal ash to address the risks from the disposal of the wastes generated by electric utilities and independent power producers.  EPA is considering two possible options for the management of coal ash for public comment. Both options fall under the Resource Conservation and Recovery Act (RCRA). Under the first proposal, EPA would list these residuals as special wastes subject to regulation under subtitle C of RCRA, when destined for disposal in landfills or surface impoundments. Under the second proposal, EPA would regulate coal ash under subtitle D of RCRA, the section for non-hazardous wastes.     The Agency considers each proposal to have its advantages and disadvantages, and includes benefits which should be considered in the public comment period.   </p>
+<p>Coal Combustion Residuals &#8211; <a target="_blank" href="http://www.angrybearblog.com/">Proposed Rule (PDF)</a> (563 pp, 1.30MB, About PDF) &#8211; Pre-publication Version (signed May 4, 2010) &#8211; We are providing this unofficial pre-publication copy for public reference. This document has not been published in the Federal Register and is not an official version of the final rule. The official rule will be available here as soon as it is published by the Federal Register Office.</p>
+<p>The support materials for this rule and the public comments EPA receives on the proposal are available for public review online at <a target="_blank" href="http://www.angrybearblog.com/">Regulations.gov</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/05/coal-combustion-residuals.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clean Coal and Cap and Trade</title>
+		<link>./../../2009/08/clean-coal-and-cap-and-trade.html</link>
+		<comments>./../../2009/08/clean-coal-and-cap-and-trade.html#respond</comments>
+		<pubDate>Mon, 31 Aug 2009 16:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[carbon cap and trade]]></category>
+		<category><![CDATA[carbon tax]]></category>
+		<category><![CDATA[clean coal]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/clean-coal-and-cap-and-trade.html</guid>
+		<description><![CDATA[Robert Waldmann Joe Strawman argues that the solution to global warming is clean coal technology and in particular sequestering C02 from exhaust from coal fired power plants. Therefore cap and trade is a bad policy, because technology will solve anything soon. In fact, if &#8220;clean coal&#8221; is not a contradiction in terms, the case for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Joe Strawman argues that the solution to global warming is clean coal technology  and in particular sequestering C02 from exhaust from coal fired power plants.  Therefore cap and trade is a bad policy, because technology will solve anything soon.  </p>
+<p>In fact, if &#8220;clean coal&#8221; is not a contradiction in terms, the case for cap and trade  (or a carbon tax) starting right now, is vastly strengthened as I argue after the jump.</p>
+<p>A small tax on carbon or cap and trade with caps so high that rights to emit carbon are cheap will have a large quick effect on C02 emissions.  Electric power companies have coal fired plants and natural gas fired plants, because natural gas fired plants are cheaper and coal is cheaper.  The plants working all the time are coal fired.  The natural gas fired plants work only during hours of peak demand.</p>
+<p>A modest tax on carbon or fairly cheap carbon emission rights will cause power companies to switch this order of use so natural gas fired plants work all the time and coal fired plants work only during hours of peak demand.  </p>
+<p>The question is whether this will reduce C02 emissions or just delay them a few years.  Natural gas supplies are limited.  I guess that a few years of burning natural gas for electricity with reduce them to the point that the price will rise to whatever level required to make burning natural gas for electricity not competitive (even given cap and trade).  My belief is that,  since natural gas is very useful for home heating and making plastic and fertilizer, it won&#8217;t be used to make electricity for very long.  </p>
+<p>However, if clean coal technology is possible, delaying coal burning is almost as good as preventing it forever.  Clean coal technology is definitely not installed now.  If, indeed, it will be installed in a few years, it is critically important to discourage the burning of coal now &#8212; to encourage the use of stop gap measures to put off the burning until coal can be burned cleanly.  </p>
+<p>Thus if one believes that clean coal technology is feasible and just around the corner then one should rationally be more enthusiastic about cap and trade than if one doesn&#8217;t.  </p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/clean-coal-and-cap-and-trade.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

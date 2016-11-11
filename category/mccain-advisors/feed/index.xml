@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>McCain advisors &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The NBER &#8216;Family Members&#8217; who are part of the McCain &#8216;100&#8217;</title>
+		<link>./../../2008/10/the-nber-family-members-who-are-part-of-the-mccain-100.html</link>
+		<comments>./../../2008/10/the-nber-family-members-who-are-part-of-the-mccain-100.html#respond</comments>
+		<pubDate>Wed, 08 Oct 2008 06:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[McCain advisors]]></category>
+		<category><![CDATA[reputational risk]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/the-nber-family-members-who-are-part-of-the-mccain-100.html</guid>
+		<description><![CDATA[Because Hilzoy asked, and I agree with Brad DeLong that it&#8217;s not an unreasonable question. No guarantee the 11 are on this list, of course. This is a simple cross-reference of &#8220;The McCain &#8216;100&#8217;&#8221; and &#8220;NBER Family Members.&#8221; There are 14 Faculty Research Fellows, 13 Research Associates, and 2 OLs on this list.* *I can&#8217;t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Because <a href="http://www.washingtonmonthly.com/archives/individual/2008_10/015032.php">Hilzoy asked</a>, and I agree with Brad DeLong that <a href="http://delong.typepad.com/sdj/2008/10/a-very-good-que.html">it&#8217;s not an unreasonable question</a>.</p>
+<p>No guarantee the 11 are on this list, of course.  This is a simple cross-reference of &#8220;<a href="http://delong.typepad.com/sdj/2008/10/john-mccain-a-2.html">The McCain &#8216;100&#8217;</a>&#8221; and &#8220;<a href="http://www.nber.org/vitae.html">NBER Family Members</a>.&#8221;  There are 14 Faculty Research Fellows, 13 Research Associates, and 2 OLs on this list.*
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SOxScsrGLrI/AAAAAAAAAKY/Ubv4vednc4k/s1600-h/McCain+economists.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SOxScsrGLrI/AAAAAAAAAKY/Ubv4vednc4k/s400/McCain+economists.JPG" border="0" alt=""></a></p>
+<p>*I can&#8217;t find any indication on the NBER website what an &#8220;OL&#8221; is; most of the people so desginated have a c.v. that shows them as being or having been a Research Associate only. Also, while some of the Research Associates (RA) were surveyed, no inference that the people listed above are the ones who returned their surveys should necessarily be made.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/the-nber-family-members-who-are-part-of-the-mccain-100.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The economic crisis explained</title>
+		<link>./../../2008/09/the-economic-crisis-explained.html</link>
+		<comments>./../../2008/09/the-economic-crisis-explained.html#respond</comments>
+		<pubDate>Fri, 19 Sep 2008 16:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[crisis]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[McCain advisors]]></category>
+		<category><![CDATA[satire]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/the-economic-crisis-explained.html</guid>
+		<description><![CDATA[From GOPnot4me asking if this is McCain&#8217;s advisor we get the explaination of what has happened.]]></description>
+				<content:encoded><![CDATA[<p>From <a href="http://gopnot4me.blogspot.com/2008/09/robert-benchley-mccain-economic-guru.html">GOPnot4me</a> asking if this is McCain&#8217;s advisor we get the explaination of what has happened.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/the-economic-crisis-explained.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

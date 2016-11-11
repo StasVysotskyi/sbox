@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bush Administration &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Time Series Analysis</title>
+		<link>./../../2009/09/time-series-analysis.html</link>
+		<comments>./../../2009/09/time-series-analysis.html#respond</comments>
+		<pubDate>Mon, 07 Sep 2009 22:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[11 September]]></category>
+		<category><![CDATA[Bush Administration]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[Obama]]></category>
+		<category><![CDATA[Obama appointment]]></category>
+		<category><![CDATA[Politics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/time-series-analysis.html</guid>
+		<description><![CDATA[From what I can tell, this is an accurate sequence: 6 August 2001: Presidential Daily Briefing (PDB) given to GWB entitled &#8220;bin Ladin Determined to Strike in US.&#8221; 11 September 2001: On the 36th Anniversary of Augusto Pinochet&#8217;s US-President-ordered, CIA-supported, Coup in Chile, Bin Laden&#8217;s forces, weel, strike in the US. ca. 26 October 2004: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From what I can tell, this is an accurate sequence:</p>
+<ol>
+<li><a target="_blank" href="http://news.findlaw.com/hdocs/docs/terrorism/80601pdb.html">6 August 2001</a>: Presidential Daily Briefing (PDB) given to GWB entitled &#8220;bin Ladin Determined to Strike in US.&#8221;</p>
+</li>
+<li>11 September 2001:  On the 36th Anniversary of <a target="_blank" href="http://en.wikipedia.org/wiki/1973_Chilean_coup_d'%C3%A9tat#U.S._Role">Augusto Pinochet&#8217;s US-President-ordered, CIA-supported, Coup in Chile</a>, Bin Laden&#8217;s forces, weel, <a href="http://www.cnn.com/SPECIALS/2001/memorial/">strike in the US</a>.
+</li>
+<li><a target="_blank" href="http://www.911truth.org/article.php?story=20041026093059633">ca. 26 October 2004</a>: Anthony &#8220;Van&#8221; Jones signs &#8220;truth petition&#8221; which requests investigation into, among other things, &#8220;<a target="_blank" href="http://en.wikipedia.org/wiki/Van_Jones#9.2F11_Truth_petition">unanswered questions that suggest that people within the current administration may indeed have deliberately allowed 9/11 to happen</a>.&#8221;
+</li>
+<li>04 September 2006:  Condoleezza Rice admits (1) above <a target="_blank" href="http://crooksandliars.com/2006/09/05/condoleezza-rice-facing-ben-veniste-9-11-commission">publicly at the 9-11 Commission hearings</a>, eliminating the last vestige of plausible* deniability about foreknowledge of the attacks within, and at the highest levels of, the Administration.
+</li>
+<li>06 September 2009:  Three years and three days after Ms. Rice admitted that the GWB Administration—in the kindest possible interpretation—allowed 11 Sep 2001 to happen,** Van Jones resigns from the current Administration because he (along with John <em>Men are from Mars, Women are from Venus</em> Gray, a former Bush Administraion official, and a previous Ambassador to Iraq) exercised an American&#8217;s First Amendment rights (&#8220;<a target="_blank" href="http://www.law.cornell.edu/constitution/constitution.billofrights.html#amendmenti">to petition the government for a redress of grievances</a>&#8220;)  with a resulting inquiry that confirmed the justness of the original Petition.</li>
+</ol>
+<p>Don&#8217;t worry; nothing to see there. Right?</p>
+<p>*No, declaring that you considered the PDB to be a discussion of &#8220;history&#8221; is not plausible in any real sense of that word.<br />**Whether as an act of malice or incompetence is left as an exercise, with the clear possibility of a spectrum of answers depending upon which officials are discussed.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/time-series-analysis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

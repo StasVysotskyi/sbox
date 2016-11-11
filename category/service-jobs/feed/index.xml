@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>service jobs &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Top ten fastest growing occupations</title>
+		<link>./../../2012/12/top-ten-fastest-growing-occupations.html</link>
+		<comments>./../../2012/12/top-ten-fastest-growing-occupations.html#respond</comments>
+		<pubDate>Wed, 12 Dec 2012 12:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[jobs]]></category>
+		<category><![CDATA[manufacturing jobs]]></category>
+		<category><![CDATA[service jobs]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/top-ten-fastest-growing-occupations.html</guid>
+		<description><![CDATA[From the BLS: The 30 occupations with the largest projected employment growth, 2010-20of the top ten, only teachers and nurses require a degree&#8230;and four don&#8217;t even require a high school diploma for entry&#8230;(hat tip reader rjs)]]></description>
+				<content:encoded><![CDATA[<p>From the BLS: <a href="http://bls.gov/news.release/ecopro.t06.htm"><i>The 30 occupations with the largest projected employment growth, 2010-20</i></a><br />of the top ten, only teachers and nurses require a degree&#8230;and four don&#8217;t even require a high school diploma for entry&#8230;(hat tip reader rjs)</p>
+<p><a href="http://4.bp.blogspot.com/-eOlo9GZzLnA/UMcevstcZOI/AAAAAAAABMw/SUs4Piu9gXQ/s1600/occupations.PNG" imageanchor="1"><img border="0" height="400" src="http://4.bp.blogspot.com/-eOlo9GZzLnA/UMcevstcZOI/AAAAAAAABMw/SUs4Piu9gXQ/s400/occupations.PNG" width="367"></a><a href="http://4.bp.blogspot.com/-5rrBT8joEUI/UMce0GPtfHI/AAAAAAAABM4/uoGTkl6RiqI/s1600/occupations2.PNG" imageanchor="1"><img border="0" height="400" src="http://4.bp.blogspot.com/-5rrBT8joEUI/UMce0GPtfHI/AAAAAAAABM4/uoGTkl6RiqI/s400/occupations2.PNG" width="170"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/top-ten-fastest-growing-occupations.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

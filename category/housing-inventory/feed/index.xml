@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>housing inventory &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Will America Ever Recover From The Housing Crisis</title>
+		<link>./../../2012/05/will-america-ever-recover-from-the-housing-crisis.html</link>
+		<comments>./../../2012/05/will-america-ever-recover-from-the-housing-crisis.html#respond</comments>
+		<pubDate>Tue, 15 May 2012 18:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[housing]]></category>
+		<category><![CDATA[housing inventory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/will-america-ever-recover-from-the-housing-crisis.html</guid>
+		<description><![CDATA[This is advertising, but not blatantly so, and is an informative infographic on the current status of our housing crisis. Will America Ever Recover From The Housing Crisis]]></description>
+				<content:encoded><![CDATA[<p>This is advertising, but not blatantly so, and is an informative infographic on the current status of our housing crisis.  <a target="_blank" href="http://www.bankoftheinternet.com/will-america-ever-recover-from-the-housing-crisis">Will America Ever Recover From The Housing Crisis</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/will-america-ever-recover-from-the-housing-crisis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Real Estate Insanity&#8230;working off the excess inventory?</title>
+		<link>./../../2012/04/real-estate-insanity-working-off-the-excess-inventory.html</link>
+		<comments>./../../2012/04/real-estate-insanity-working-off-the-excess-inventory.html#respond</comments>
+		<pubDate>Sun, 29 Apr 2012 13:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[housing]]></category>
+		<category><![CDATA[housing inventory]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[Rusty]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/real-estate-insanity-working-off-the-excess-inventory.html</guid>
+		<description><![CDATA[by Tom aka Rusty Rustbelt Real Estate Insanity So my son and me are thinking about buying a duplex in Ohio and fixing it up this summer. He would live in half and we would rent the other side. Given the number of foreclosures this should be an easy deal, right? Wrong. The realtors tell [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom aka Rusty Rustbelt Real Estate Insanity So my son and me are thinking about buying a duplex in Ohio and fixing it up this summer. He would live in half and we would rent the other side. Given the number of foreclosures this should be an easy deal, right? Wrong.  The realtors tell me no one will finance the properties, not even the banks that own them. Why?  It seems many of the banks did not get around to assigning &#8220;asset managers&#8221; for a year or two, which means the water pipes froze in the winter, burst in the spring and destroyed the interior of the properties. Even when asset managers were promptly assigned, many were incompetent and/or corrupt.  So there are many thousands of properties with reasonable looking exteriors but with ruined interiors. Even with sweat equity labor the fix up costs will be very high.  This will eventually be fixed with bulldozers.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/real-estate-insanity-working-off-the-excess-inventory.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Moody&#8217;s &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Part of the Problem Becomes Part of the Solution</title>
+		<link>./../../2009/11/part-of-the-problem-becomes-part-of-the-solution.html</link>
+		<comments>./../../2009/11/part-of-the-problem-becomes-part-of-the-solution.html#respond</comments>
+		<pubDate>Tue, 17 Nov 2009 20:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Moody's]]></category>
+		<category><![CDATA[ratings]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/part-of-the-problem-becomes-part-of-the-solution.html</guid>
+		<description><![CDATA[Moody&#8217;s had always assumed banks and their securities were &#8220;Too Big to Fail.&#8221; Not any more: Moody’s Investors Service will no longer assume that holders of the securities will benefit from government support to shore up troubled lenders, after the global financial crisis proved this wasn’t the case, Moody’s said in an e-mailed statement today. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Moody&#8217;s had always assumed banks and their securities were &#8220;Too Big to Fail.&#8221;  <a target="_blank" href="http://www.bloomberg.com/apps/news?pid=20601009&#038;sid=avUDyRtb9qdI">Not any more</a>:<br />
+<blockquote>Moody’s Investors Service will no longer assume that holders of the securities will benefit from government support to shore up troubled lenders, after the global financial crisis proved this wasn’t the case, Moody’s said in an e-mailed statement today.</p>
+<p>&#8220;In some cases government bank interventions throughout the crisis have not benefited, and have even hurt, the holders of those instruments,&#8221; Barbara Havlicek, a senior vice- president at Moody’s, said in the statement. &#8220;It is clear that hybrids are highly susceptible to losses due to their unique equity-like features.&#8221;</p></blockquote>
+<p>Since ratings are essentially answering the question &#8220;Should I expect to receive full payment on this security?&#8221; the previous proclivity to rate paper AAA based on the idea that the U.S. Government would make investors whole in the case of a crisis* contributed to rating inflation.</p>
+<p>This change is a welcome first step.</p>
+<p>*This is essentially the same scenario as all the lendings that caused the S&#038;L crisis: &#8220;we think the land has oil in it&#8221; so it&#8217;s worth $X. So the banks lent X. And the land very often didn&#8217;t have oil in it. So $X had been given for a dust pile in West Texas around which the also oilless land was selling, if at all, for Y, X>>Y.  Oops.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/part-of-the-problem-becomes-part-of-the-solution.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

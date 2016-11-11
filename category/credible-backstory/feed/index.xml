@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>credible backstory &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>A credible backstory?</title>
+		<link>./../../2012/04/a-credible-backstory.html</link>
+		<comments>./../../2012/04/a-credible-backstory.html#respond</comments>
+		<pubDate>Thu, 26 Apr 2012 11:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credible backstory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/a-credible-backstory.html</guid>
+		<description><![CDATA[by Mike KimelToday is a travel day for me. I&#8217;m flying to Toronto to give a lecture on ensemble methods, a statistical approach which involves combining estimates produced by other methods. Its something I first worked on in 2001, and come to think about it, perhaps it deserves a post. But not today. Today&#8217;s post, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong><br />Today is a travel day for me. I&#8217;m flying to Toronto to give a lecture on ensemble methods, a statistical approach which involves combining estimates produced by other methods. Its something I first worked on in 2001, and come to think about it, perhaps it deserves a post. But not today. </p>
+<p>Today&#8217;s post, written a few days ago, isn&#8217;t about statistics or economics. In fact, I have no idea what it is is about, but I do want your opinion. What follows is absolutely true with any caveats being due to my poor memory.</p>
+<p>In the late 1990s, I was living in Little Rock, AR, where, on weekends, I used to enjoy mountain biking. Once, while biking with a friend through the woods in the middle of nowhere (if memory serves, we weren&#8217;t even on a trail but rather biking down a dried up riverbed with no signs of civilization for miles around), we stumbled on a coffin. Said coffin was cheaply made of metal and showed clear signs of having spent quality time underground. But there were a couple other more notable things about the coffin. The first is that someone had clearly taken a sledgehammer to the front of the coffin and broken it open. I&#8217;m not sure why &#8211; I would have assumed that the coffin could have simply been opened by lifting the front cover. Another odd thing is that the coffin, which had spent some time underground, was empty. The interior lining was somewhat rotted, providing more evidence that it had spent time underground. </p>
+<p>We looked at the coffin for a few moments, and then, wordlessly, got back on our bikes and went back the way we came. We never rode in that area again. The other night, I was thinking about this long ago episode and realized that though I pride myself as an individual who has a lot of imagination, I can construct no credible backstory for what I saw that day. Can you?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/a-credible-backstory.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

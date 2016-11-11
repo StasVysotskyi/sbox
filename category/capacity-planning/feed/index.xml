@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>capacity planning &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Does this make sense to anyone?</title>
+		<link>./../../2010/06/does-this-make-sense-to-anyone.html</link>
+		<comments>./../../2010/06/does-this-make-sense-to-anyone.html#respond</comments>
+		<pubDate>Mon, 07 Jun 2010 17:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AAPL]]></category>
+		<category><![CDATA[capacity planning]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/does-this-make-sense-to-anyone.html</guid>
+		<description><![CDATA[Steve Jobs is promising a lot of stuff that AT&#038;T is not capable of delivering. Someone needs to explain to me why Steve Jobs is a Brilliant Leader.]]></description>
+				<content:encoded><![CDATA[<p>Steve Jobs is <a href="http://www.engadget.com/2010/06/07/steve-jobs-live-from-wwdc-2010/?sort=newest&#038;refresh=60">promising a lot of stuff</a> that AT&#038;T <a href="http://techcrunch.com/2010/04/30/att-ipad-3g-streaming/">is not capable of delivering</a>.</p>
+<p>Someone needs to explain to me why Steve Jobs is a Brilliant Leader.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/does-this-make-sense-to-anyone.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recessions &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Debt, Recession, and That Ol&#8217; Devil Denominator</title>
+		<link>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html</link>
+		<comments>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html#respond</comments>
+		<pubDate>Thu, 23 Aug 2012 18:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Critical Thinking]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[Paul Krugman]]></category>
+		<category><![CDATA[Recessions]]></category>
+		<category><![CDATA[Scott Sumner]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/debt-recession-and-that-ol-devil-denominator.html</guid>
+		<description><![CDATA[Krugman recently presented this graph, showing household debt as a percentage of GDP. and made this comment. Second, a dramatic rise in household debt, which many of us now believe lies at the heart of our continuing depression. There are those who seem to believe that if Krugman says it, it must be wrong.   Here [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Krugman recently <a href="http://krugman.blogs.nytimes.com/2012/07/18/thirty-troubling-years/">presented this graph</a>, showing household debt as a percentage of GDP.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AK"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AK" width="400"></a></div>
+<p>and made this comment.</p>
+<blockquote><div>Second, a dramatic rise in household debt, which many of us now believe lies at the heart of our continuing depression. </div>
+</blockquote>
+<p>There are those who seem to believe that if Krugman says it, it must be wrong.   Here is Scott Sumner&#8217;s<a href="http://www.themoneyillusion.com/?p=15389"> reaction</a>.</p>
+<blockquote><p>What do you see?  I suppose it’s in the eye of the beholder, but I see  three big debt surges:  1952-64, 1984-91, and 2000-08.  The first debt  surge was followed by a golden age in American history; the boom of  1965-73.  The second debt surge was followed by another golden age, the  boom of 1991-2007.  And the third was followed by a severe recession.   What was different with the third case?  The Fed adopted a tight money  policy that caused NGDP growth to crash, which in turn sharply raised  the W/NGDP ratio.  <a href="http://krugman.blogs.nytimes.com/2012/07/17/nominally-legal/" target="_blank">Krugman has another recent post</a> that shows further evidence of the importance of sticky wages.  Forget about debt and focus on NGDP.  It’s NGDP instability that creates problems, not debt surges.</p></blockquote>
+<p>Bold emphasis is provided by Marcus Nunes, who <a href="http://thefaintofheart.wordpress.com/2012/07/18/to-really-understand-the-depression-we-have-to-stop-pulling-red-herrings-from-the-hat/">goes on to say:</a></p>
+<blockquote><p>Why does the share of debt rise? I believe it reflects peoples  “optimism” about future prospects. In the chart below I break down  Krugman´s chart and separate mortgage and non-mortgage household debt as  a share of NGDP. I also add the behavior of the stock market (here  represented by the Dow-Jones Index).</p></blockquote>
+<p>[See the linked Nunes post for his chart.] </p>
+<p><a name="more"></a></p>
+<p>Eye of the beholder, indeed.  Nunes makes an expectations-based argument, and adds:<br />
+<blockquote>Non-mortgage debt remains relatively stable after 1965, fluctuating in the range of 17% to 22% of NGDP. No problem there. </p></blockquote>
+<p>But the reality is that non-mortgage debt has grown quasi-exponentially in the post WW II period.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9Dw"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9Dw" width="400"></a></div>
+<p>Sumner, as always, beats the NGDP drum.  </p>
+<p>My friend Art <a href="http://newarthurianeconomics.blogspot.com/2012/07/marcus-debt-is-red-herring.html">takes a jaundiced view of the Sumner-Nunes interpretation</a>.   He gets it exactly right.  To see why, let&#8217;s go back and have a look at  the data.  Here is straight CMDEBT (Household Credit Market Debt  Outstanding,) presented as YoY percent change &#8211; not distorted by a GDP  divisor.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AN"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AN" width="400"></a></div>
+<p>Sumner  sees a debt surge from 1952 to 1964.  I see a secular decrease in the  YoY rate of debt growth from over 15% to under 5% by about 1966.</p>
+<p>Sumner  sees a debt surge from 1984 to 1991.  I see a decrease in the YoY rate  of debt growth from over 15% to about 5% over that same span. </p>
+<p>Sumner  sees a debt surge from 2000 to 2008.  I see a modest rise into a broad  peak between 2003 and 2006, with a net decrease in the rate of debt  growth over the 2000 to 2007 period.  In CY 2008 debt growth goes  negative.  Here&#8217;s a close-up view.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AO"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AO" width="400"></a></div>
+<p>So much for optimism-fueled debt growth.  </p>
+<p>Between  the non-existent debt surges Sumner sees a golden age from 1965 to  1973.  I&#8217;m a bit puzzled by a golden age boom that straddles one  recession and leads directly into another; though I will admit that  average GDP growth then looks impressive compared to the GDP growth of  the last decade.  But the thing that Sumner misses within his &#8220;golden  age&#8221; is the big debt surge from 1971 to 1974.  </p>
+<p>By my reckoning, Sumner is incapable of identifying either a debt surge or an economic boom.   </p>
+<p>So  what is going on here?  Sumner and Nunes either fail to realize or  deliberately ignore that the quantity CMDEBT/GDP has a denominator.   Let&#8217;s look at GDP.  Here is YoY GDP growth over the post WW II period.   And, of course, this is NGDP &#8211; not inflation adjusted &#8211; the very  quantity to which Sumner ascribes so much gravitas.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9AP"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9AP" width="400"></a></div>
+<p>The average GDP growth over the period 1948 to 2007 is 7.04%<br />The average over the &#8220;debt surge&#8221; period 1952 to 1964 is 5.35%<br />The average over the  &#8220;debt surge&#8221; period 1984 to 1991 is 6.85%<br />The average over the  &#8220;debt surge&#8221; period 2000 to 2007 is 5.24%</p>
+<p>What  we have are three periods of below average GDP growth, two of them  substantially so.  The middle one is only slightly below average, but  that is misleading since there is a steep decline in GDP growth over the  period.</p>
+<p>Consider C = A/B.  If B is small or  decreasing, it will tend to make C large or increasing.  To ascribe all  of the changes in C to changes in A is to ignore that Ol&#8217; Devil  Denominator.   </p>
+<p>Sumner does bring up NGDP growth late  in the passage quoted above, but I don&#8217;t get his point.  If I&#8217;m reading  him correctly, he claims that NGDP growth crashed between 2000 and 2008,  and that caused the Debt/GDP ratio to rise.  But NGDP growth was  sharply up from 2001 to 2003, relatively steady through 2006, and never  crashed until 2008.  If there is any sense in his argument, somebody  will have to explain it to me.    </p>
+<p>What actually  happened was a real debt surge &#8211; but it was between 1997 and 2004.   Meanwhile, GDP growth both before and after the 2000-2003 dip was around  6 to 7%.  Then, in 2006, household debt growth and GDP growth both  started to slump, and in 2008 took a nose dive together.</p>
+<p>Sumner  and Nunes have made a very fundamental error &#8211; not so much in the math  itself as in the application of logic.  This is sloppy thinking, and any  conclusions drawn from it must be highly suspect.</p>
+<p>To get a handle on what is really going on, let&#8217;s look at debt growth and GDP growth together.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=9C6"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=9C6" width="400"></a></div>
+<p>  <br />They  don&#8217;t move in lock-step, but the similarity is striking.  Specifically,  every recession except 2001 corresponds exactly to a minimum in debt growth.  So Sumner&#8217;s advice to &#8220;<i>forget about debt</i>&#8221;  looks like it&#8217;s missing something very important &#8211; specifically that  the household component of spending [aka GDP growth] has been debt  financed.  To put it in context, have a look at Krugman&#8217;s first graph in  the article linked above.   It shows what we all know, but some chose  to ignore &#8211; that median wages have stagnated for 40 years.</p>
+<p>In  my narrative, the reason household debt grew to almost 100% of GDP is  that stagnating incomes have not been able to support the cost of the  American life style &#8211; due to decades of inflation, but probably largely  driven by the costs of health care and education.  Remember &#8211; contra the  prevailing view of economists today &#8211; spending, and therefore GDP  growth, <a href="http://www.angrybearblog.com/2012/04/another-look-at-wealth-and-consumption.html">is directly dependent on income, not on wealth</a>.  </p>
+<p>Debt  is a useful tool that develops into a problem when it becomes too  burdensome to service.  Looking at debt as a percentage of GDP provides a  clue as to how serviceable the debt is.  When you also consider that  all of the GDP growth over several decades has gone to the top income  earners, you can see that the debt servicing problem is made that much  worse for the average person.  </p>
+<p>Nunes thinks debt rises  when people are optimistic about the future, and he weaves a narrative  based on that idea.  He then blames the 2008 collapse on bad policy,  including a contractionary Fed.   He appears to want spending growth,  but refuses to recognize the exhausted ability of ordinary people to  spend.</p>
+<p>In my view &#8211; and I think the data supports it &#8211;  Krugman and Art have this exactly right.  And, as is nearly always the  case, those who disagree with PK on what is happening in the real word  have to invent a fantasy-world explanation &#8211; or, if I can borrow an  especially tortured metaphor from Nunes,  <i>pull a red herring out of a hat</i>.</p>
+<p>Cross-posted at <a href="http://jazzbumpa.blogspot.com/2012/08/debt-recession-and-that-ol-devil.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/debt-recession-and-that-ol-devil-denominator.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Predicting Recessions, The Great Stagnation, and Will There Be a Double Dip?</title>
+		<link>./../../2011/06/predicting-recessions-the-great-stagnation-and-will-there-be-a-double-dip.html</link>
+		<comments>./../../2011/06/predicting-recessions-the-great-stagnation-and-will-there-be-a-double-dip.html#respond</comments>
+		<pubDate>Mon, 06 Jun 2011 23:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[double dip]]></category>
+		<category><![CDATA[economic recovery]]></category>
+		<category><![CDATA[great stagnation]]></category>
+		<category><![CDATA[Recessions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/predicting-recessions-the-great-stagnation-and-will-there-be-a-double-dip.html</guid>
+		<description><![CDATA[by Mike Kimel Predicting Recessions, The Great Stagnation, and Will There Be a Double Dip? There&#8217;s a lot of talk about a double dip recession these days. I don&#8217;t think there&#8217;s a precise definition of a double dip recession, but I think if there was it would be something like this: &#8220;a recession, followed by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>Predicting Recessions, The Great Stagnation, and Will There Be a Double Dip?</strong></p>
+<p>There&#8217;s a lot of talk about a double dip recession these days.  I don&#8217;t think there&#8217;s a precise definition of a double dip recession, but I think if there was it would be something like this:  &#8220;a recession, followed by a recovery which doesn&#8217;t last very long, leading into another recession.&#8221;    Given the official end of the recession occurred in June of 2009, if the current slow down is (or results in) a recession which gets labeled a double dip, that would imply a double dip recession is one that occurs no more than about two years after the previous recession ended.</p>
+<p><a name="more"></a></p>
+<p>By that standard, there&#8217;s only been one double recession in the last few decades &#8211; a recession began in July &#8217;81, 12 months after the previous one ended.   Before that, you have to go back to the supposedly &#8220;Roaring&#8221; 1920s, when you&#8217;ll find quite a few recessions coming back to back to back.  You&#8217;ll also find multiple and large tax cuts, I might add.  A cool graph of tax rates and recessions from 1920 to 1940 can be found <a href="http://www.angrybearblog.com/2010/04/1920s-depression-glenn-beck-thomas.html">here</a>.  Its really cool because the data just refuses to match up with what they&#8217;ve been teaching in econ classes for the past three decades.</p>
+<p>Now, I was curious &#8211; how do you tell when you&#8217;re in a recession?  (Long time readers may recall my frustration, having called both the start and end of the Great Recession <a href="http://www.angrybearblog.com/2010/09/predicting-start-and-end-of-great.html">in complete anonymity when I had a book to sell!</a>.  I guess the pay is better in being always wrong.  The book, by the way, <a href="http://www.amazon.com/Presimetrics-Presidents-Measure-Issues-ebook/dp/B0041IXRWA/ref=tmm_kin_title_0?ie=UTF8&#038;m=AG56TWVU5XWC2">is still for sale</a> and still provides a very different way of looking at the world that matches up with data very nicely.)  </p>
+<p>In this post, I want to stick to some of the traditional views.  Basically, if you corner enough economists, you might get them to tell you recessions begin if there&#8217;s a big drop in private consumption, private investment, or gov&#8217;t spending.  I hasten to add &#8211; that&#8217;s mostly investment in stuff, not in stocks and bonds.   (Not all economists would agree with each of these items, I might add.   So, let&#8217;s cut to the data and see what it shows.  Data on real (inflation adjusted) private consumption and investment, and government spending is available from the BEA&#8217;s <a href="http://www.bea.gov/national/nipaweb/TableView.asp?SelectedTable=6&#038;ViewSeries=NO&#038;Java=no&#038;Request3Place=N&#038;3Place=N&#038;FromView=YES&#038;Freq=Year&#038;FirstYear=1929&#038;LastYear=2011&#038;3Place=N&#038;Update=Update&#038;JavaB">NIPA Table 1.16</a>.  Quarterly data goes back to 1947, and annual data goes back to 1929.  (And please, please, please, don&#8217;t write to me about using some data set of suspect provenience developed decades after the fact.  I don&#8217;t make up numbers, and I don&#8217;t use anyone else&#8217;s made up numbers either except when I&#8217;m pointing out problems with such data sets.)   Recession dates come from the <a href="http://www.nber.org/cycles.html">NBER</a>. </p>
+<p>Now, for every recession beginning with the one that started in October of &#8217;48, I looked at the change over four quarters in real personal consumption, real private investment, and real gov&#8217;t spending through the quarter in which the recession began.  For the recessions that began in May &#8217;37 and February &#8217;45, quarterly data wasn&#8217;t available, so I looked at the one year change in real personal consumption, real private investment, and real gov&#8217;t spending through the year when the recession began .  The recession of 1929 was ignored because data began that year &#8211; hence, the one year change through 1929 is not available.  </p>
+<p>The table below indicates with an X if there was a drop in any of these three factors for any given recession.  </p>
+<p><a href="http://2.bp.blogspot.com/-PPMC1yThA7s/Te2CxHdeVII/AAAAAAAAAok/JpU9l8iU52s/s1600/Figure_1stagnation.bmp"><img src="http://2.bp.blogspot.com/-PPMC1yThA7s/Te2CxHdeVII/AAAAAAAAAok/JpU9l8iU52s/s320/Figure_1stagnation.bmp" border="0" alt=""></a>Figure 1.</p>
+<p>As the table shows, five of the eight recessions between 1937 and 1973 were preceded by a cut in real gov&#8217;t spending.  None of the recessions after 1973 were preceded by a government spending cut.   On the other hand, cuts in private investment also preceded two recessions that occurred before 1973, and all but one (four out of five) of the recessions that came after that date.  </p>
+<p>So&#8230;  before 1973, cuts in gov&#8217;t may have been responsible for some recessions, and reduced investment may have been responsible for most recessions since the 1970s.  (If that break sounds familiar, it is more less where Tyler Cowen puts the start of his <a href="http://www.amazon.com/Great-Stagnation-Low-Hanging-Eventually-ebook/dp/B004H0M8QS/ref=sr_1_2?ie=UTF8&#038;qid=1307228647&#038;sr=8-2">Great Stagnation</a>, though as I&#8217;ve pointed out, Cowen&#8217;s philosophy doesn&#8217;t allow him to understand <a href="http://www.angrybearblog.com/2011/02/another-look-at-keynesianism-and-great.html">what</a> <a href="http://www.angrybearblog.com/2011/02/critique-of-tyler-cowen-great.html">happened</a> to cause that Great Stagnation.  My guess is this can be added to that list.)  </p>
+<p>In recent decades, big drops in private investment have often been portents of recessions.  And if you&#8217;re wondering&#8230;  according to the May update of Table 1.1.6 (link above), private investment (in 2005 dollars) reached a post-recession high of 1.855 trillion in the third quarter of 2010.  It fell to 1.761  trillion in the fourth quarter of 2010, and 1.813 trillion in the first quarter of 2011.  We won&#8217;t know for a while what happened in the second quarter of 2011, but&#8230;  things are a bit shaky.  Ironically,  at this point in time, one thing that might shellac private investment is a big reduction in gov&#8217;t spending.  Right now I think there&#8217;s a good chance we&#8217;re just going to skate along on feeble growth rather than an outright second recession, but its going to be near miss at best.  Public confidence is really poor, and its easy to see how private investment might fall even further if the gov&#8217;t takes its ball and goes home.  (As regular readers know, I&#8217;m a big deficit hawk so it hurts to write that, though I&#8217;d hope to see the gov&#8217;t spending to be done more rationally than it has been since the whole mess started in 2008.)  Of course, it also would help if <a href="http://www.angrybearblog.com/2010/12/simple-explanation-for-strange-paradox.html">proper incentives were provided</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/predicting-recessions-the-great-stagnation-and-will-there-be-a-double-dip.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Balance sheet recessions</title>
+		<link>./../../2010/12/balance-sheet-recessions.html</link>
+		<comments>./../../2010/12/balance-sheet-recessions.html#respond</comments>
+		<pubDate>Tue, 21 Dec 2010 21:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Recessions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/balance-sheet-recessions.html</guid>
+		<description><![CDATA[Mark Thoma in The Fiscal Times takes a stab at explaining this recession and policy: As this year comes to a close, and as we finally begin the recovery stage of the recession, it’s a good time to look back and ask how policymakers could have improved their response to the downturn. What can we [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.thefiscaltimes.com/Issues/The-Economy/2010/12/21/A-Smarter-Bailout-Could-Have-Shortened-the-Recession.aspx">Mark Thoma in The Fiscal Times</a> takes a stab at explaining this recession and policy:</p>
+<blockquote><p>As this year comes to a close, and as we finally begin the recovery stage of the recession, it’s a good time to look back and ask how policymakers could have improved their response to the downturn. What can we learn from this recession? How can we do better the next time a large financial shock hits the economy? </p>
+<p>There are many ways policy could have been improved; providing more help for state and local governments is high on the list, but I’ll focus on another way: using fiscal policy to help households make up for losses from the recession. This is an important, but too often ignored aspect of recovering from what are known as “<a target="_blank" href="http://voices.washingtonpost.com/ezra-klein/2010/05/richard_koo_on_balance_sheet_r.html">balance sheet recessions</a>.” </p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/balance-sheet-recessions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Tale of Two Recessions</title>
+		<link>./../../2010/02/a-tale-of-two-recessions.html</link>
+		<comments>./../../2010/02/a-tale-of-two-recessions.html#respond</comments>
+		<pubDate>Fri, 05 Feb 2010 19:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[employment]]></category>
+		<category><![CDATA[Recessions]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/a-tale-of-two-recessions.html</guid>
+		<description><![CDATA[Even during the last &#8220;jobless recovery,&#8221; people did not continue to become discouraged. Things have changed.]]></description>
+				<content:encoded><![CDATA[<p>Even during the last &#8220;jobless recovery,&#8221; people did not continue to become discouraged.  Things have changed.
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/S2xo6QFgYiI/AAAAAAAAAXs/3PiqcL4Z-P0/s1600-h/SearchDiscouraged.png"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/S2xo6QFgYiI/AAAAAAAAAXs/3PiqcL4Z-P0/s400/SearchDiscouraged.png" border="0" alt=""></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/a-tale-of-two-recessions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Inflation Detour II: Crisis and Recovery across Great &#034;Fluctuations&#034;</title>
+		<link>./../../2009/11/inflation-detour-ii-crisis-and-recovery-across-great-fluctuations.html</link>
+		<comments>./../../2009/11/inflation-detour-ii-crisis-and-recovery-across-great-fluctuations.html#comments</comments>
+		<pubDate>Sat, 28 Nov 2009 04:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bernanke]]></category>
+		<category><![CDATA[Fiscal stimulus]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[Larry Summers]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[Recessions]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[TARP]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[Tim Geithner]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/inflation-detour-ii-crisis-and-recovery-across-great-fluctuations.html</guid>
+		<description><![CDATA[We are now almost 24 months into the Great Recession. While many expect NBER will eventually say that The Great Recession ended several months ago, they have not yet. By contrast, the recession that began The Great Depression, per NBER, lasted 43 months. It seems only fair to compare the two, so I trust I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We are now almost 24 months into the Great Recession. While many expect NBER will eventually say that The Great Recession ended several months ago, they have not yet.</p>
+<p>By contrast, the recession that began The Great Depression, per NBER, <a href="http://www.nber.org/cycles/cyclesmain.html">lasted 43 months</a>.  It seems only fair to compare the two, so I trust I can be forgiven for not yet having declared The Great Recession over.</p>
+<p>One of the problems is that of official government data. Many of the statistics we now consider &#8220;standard&#8221; were first tracked as part of the government funding and jobs created by FDR&#8217;s Administration. (The irony of multiple economists and <a href="http://www.amityshlaes.com/">idiots</a> arguing that the data shows that those programs should never have happened should not be lost on the reader.)</p>
+<p>For an examination of Wall Street, though, reasonable proxy data is available.  With <a href="http://online.wsj.com/article/SB124725925791924871.html">some issues noted</a>, we can use the change in Real Prices as a proxy. Comparing the two periods produces:
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SxCc2fKjaRI/AAAAAAAAAVQ/_QCDZphaCK4/s1600/Wall+Street+comparison.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/SxCc2fKjaRI/AAAAAAAAAVQ/_QCDZphaCK4/s400/Wall+Street+comparison.JPG" border="0" alt=""></a></p>
+<p>Fairly comparable.  The market had a better six months prior to the October 1929 crash, which is rather neutralized by the drop about five months after the first Depression Recession begins, which is steeper than the comparable drop in the current period.</p>
+<p>In spite of all the support for the banking system, the recovery is fairly comparable to the one from the Great Depression—at least so far.</p>
+<p>Below the fold, let&#8217;s look at Main Street.</p>
+<p><a name="more"></a><br />As noted above, most of the data required for measuring Main Street—most especially a reliable measure of unemployment—is not available publicly. (If anyone wants to provide me with a copy of the <a href="http://www.haver.com/index.htm">Haver Analytics</a> data, for instance, I won&#8217;t complain.  Meanwhile, see <a href="http://www.calculatedriskblog.com/2009/07/depression-era-unemployment-rate.html">this post at CR</a> for a graphic of that data from the Depression Era.)</p>
+<p>So let&#8217;s take another approach.  Accept, for the sake of discussion, the traditional Republican argument that inflation reduces the ability of Main Street to grow business, borrow money, and generally live.</p>
+<p>If we therefore take the inverse of the Annual Inflation Rate, we can see the &#8220;gain&#8221; the consumer makes. (Note that, in most periods, the consumer is deemed to have lost. Reality may be different, as smoothing hides may variances. But that is always true, and likely always shall be.)</p>
+<p>So let&#8217;s look at how Main Street fares, then and now:</p>
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SxCr3oABSNI/AAAAAAAAAVY/91m8t4V0yH4/s1600/Main+Street+comparison.JPG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SxCr3oABSNI/AAAAAAAAAVY/91m8t4V0yH4/s400/Main+Street+comparison.JPG" border="0" alt=""></a></p>
+<p>Judging strictly by the two periods, it appears that Main Street did significantly better—speaking in terms of earning power—during the time leading up to and beginning the Great Depression than it has during the Great Recession.  Indeed, the two paths track each other rather well.</p>
+<p>It would appear—information that will surprise few other than perhaps Larry Summers and Tim Geithner—that all of the efforts of the Federal Reserve Board and the U.S. Treasury have had no positive effect on Main Street, leaving its purchasing power significantly lower than the same period of the Great Depression.</p>
+<p>Probably more on this on a future rock.  Comments and suggestions are rather welcome.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/inflation-detour-ii-crisis-and-recovery-across-great-fluctuations.html/feed/index.html</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>UNEMPLOYMENT CLAIMS: 1975, 1982-83 and 2009</title>
+		<link>./../../2009/11/unemployment-claims-1975-1982-83-and-2009.html</link>
+		<comments>./../../2009/11/unemployment-claims-1975-1982-83-and-2009.html#comments</comments>
+		<pubDate>Wed, 25 Nov 2009 16:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Recessions]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/unemployment-claims-1975-1982-83-and-2009.html</guid>
+		<description><![CDATA[By Spencer The weekly initial unemployment claims are widely reported and various charts show how they have been falling since the peak. But it is hard to compare the drop in claims this cycle compared to after other severe recessions in the standard charts showing claims over time. So to make such comparisons easier I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Spencer</p>
+<p>The weekly initial unemployment claims are widely reported and various charts show how they have been falling since the peak.</p>
+<p>But it is hard to compare the drop in claims this cycle compared to after other severe recessions in the standard charts showing claims over time.</p>
+<p>So to make such comparisons easier I though readers might find a chart showing claims after the 1974 and 1982 recessions and this recession on the same scale.</p>
+<p><a href="http://4.bp.blogspot.com/_Zh1bveXc8rA/Sw1MCMdwzsI/AAAAAAAAA-k/-WKVEIPDmgQ/s1600/Clipboard03.jpg"><img alt="" border="0" src="http://4.bp.blogspot.com/_Zh1bveXc8rA/Sw1MCMdwzsI/AAAAAAAAA-k/-WKVEIPDmgQ/s320/Clipboard03.jpg"></a><br />Everyone can draw their own conclusions, but I am surprised to find that the drop this cycle is almost identical to the drop after the 1981-82 recession.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/unemployment-claims-1975-1982-83-and-2009.html/feed/index.html</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>One of These Things is Not Like the Others</title>
+		<link>./../../2009/11/one-of-these-things-is-not-like-the-others.html</link>
+		<comments>./../../2009/11/one-of-these-things-is-not-like-the-others.html#respond</comments>
+		<pubDate>Sun, 08 Nov 2009 22:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[asymmetrical information]]></category>
+		<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[jourmalism]]></category>
+		<category><![CDATA[NYT]]></category>
+		<category><![CDATA[Recessions]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[wages]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/one-of-these-things-is-not-like-the-others.html</guid>
+		<description><![CDATA[I try to like the NYTimes Economics Reporting. I really do. Heck, any place that publishes Uwe Reinhardt can&#8217;t be all bad. But David Leonhardt, as he does often enough that I hesitate to read his work, again goes beyond the pale today, and clearly does so deliberately. The offending paragraph: Twenty-two months after the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I try to like the NYTimes Economics Reporting.  I really do.  Heck, any place that publishes <a target="_blank" href="http://economix.blogs.nytimes.com/author/uwe-e-reinhardt/">Uwe Reinhardt</a> can&#8217;t be all bad.</p>
+<p>But David Leonhardt, as he does often enough that I hesitate to read his work, again <a target="_blank" href="http://economix.blogs.nytimes.com/2009/11/06/wages-a-comparison-with-past-recessions/">goes beyond the pale today, and clearly does so deliberately</a>.  The offending paragraph:<br />
+<blockquote>Twenty-two months after the start of the mid-1970s recession, real weekly pay was down 7 percent. For the early 1980s recession, the decline was 4 percent. Today, thanks to moderate pay growth and scant inflation, pay is 1 percent higher than when the Great Recession began in December 2007.</p></blockquote>
+<p>Let&#8217;s (1) remember that wages are sticky and (2) look at this declaration.</p>
+<p>Both of the previous recessions are cited as being about 16 months.  The current one probably ran 18 for economists&#8217;s purposes, and is in its 23rd month for the rest of us.  But let&#8217;s give him a pass on that.</p>
+<p>Note, however, the careful phrasing at the end of the paragraph: &#8220;thanks to moderate pay growth and scant inflation.&#8221;  What does that mean? Well, let&#8217;s look at the Annual inflation Rate (CPI) for the actual recessions under discussion:
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/Svcx-spMdCI/AAAAAAAAATg/Jbsg4TmMNI0/s1600-h/CPIsLeonhardt.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/Svcx-spMdCI/AAAAAAAAATg/Jbsg4TmMNI0/s400/CPIsLeonhardt.JPG" border="0" alt=""></a></p>
+<p>Gosh; quite a difference!  I wonder if Leonhardt is aware of it.</p>
+<p>A finger exercise below the fold.</p>
+<p>Just for fun, let&#8217;s look at the wage changes over those periods. Now, unlike Leonhardt, I&#8217;m not going to use real wages.  Let&#8217;s see if we can figure out what the <em>nominal</em> change in wages is for each of those periods.*</p>
+<p>1973-1975  Average Inflation Rate: 10.75.  Real wage loss: 7% Wage increase in period: 3.75% (including the residual effects of wage and price controls)</p>
+<p>1980-1982:  Average Inflation Rate: 7.5%  Real wage loss:  4%  Wage increase in period: 3.5%</p>
+<p>2007-present: Average Inflation Rate:  1.8%  Real wage gain: 1%  Wage increase in period: 2.8%</p>
+<p>I don&#8217;t know about anyone else, but I wouldn&#8217;t be celebrating the wage &#8220;gains&#8221; of the current era.  (And let&#8217;s not even talk about actual wages received, since <a target="_blank" href="http://www.ritholtz.com/blog/2009/11/nfpunemployment-charts-get-fugly/">Barry Ritholz has that territory well-covered</a> <a target="_blank" href="http://www.ritholtz.com/blog/2009/11/even-more-unemployment-charts/">and then some</a>).</p>
+<p>*If you want to make the case that I should be using real wages, as Leonhardt does, please demonstrate (a) that all wages are renegotiated during a period of inflation, (b) that all parties are able to estimate inflation—even when at relatively unprecedented levels—accurately, and (c) that such negotiations were legally and commercially allowed during the period.</p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/one-of-these-things-is-not-like-the-others.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Current Recession vs the 1980-82 Recession</title>
+		<link>./../../2009/06/current-recession-vs-the-1980-82-recession.html</link>
+		<comments>./../../2009/06/current-recession-vs-the-1980-82-recession.html#comments</comments>
+		<pubDate>Fri, 05 Jun 2009 00:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[NYT]]></category>
+		<category><![CDATA[Recessions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/06/current-recession-vs-the-1980-82-recession.html</guid>
+		<description><![CDATA[By Spencer. We are getting an interesting debate between different economic bloggers today and I thought I would put in my two cents worth. Casey Mulligan at economix began it with an argument that the current recession is not as severe as the 1981-82 recession because that recession was really two recessions and if you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Spencer.</p>
+<p>We are getting an interesting debate between different economic bloggers today and I thought I would put in my two cents worth.</p>
+<p>Casey Mulligan at <a href="http://economix.blogs.nytimes.com/2009/06/03/worse-than-1982/">economix</a> began it with an argument that the current recession is not as severe as the 1981-82 recession because that recession was really two recessions and if you combine them they were more severe than this recession.</p>
+<p>I agree, we never really had a recovery from the 1980 recession and the second recession before the economy returned to full employment.</p>
+<p>But that does not necessarily mean that the combined 1980-82 recession was more severe than the current recession.</p>
+<p>To judge that one needs to look at the depth of the recession and see how much excess capacity the double 1980-82 recession created compared to the current recession. Maybe the best way to do that is to look at the GDP GAP or the gap between actual Real GDP and Potential Real GDP as this chart does. You can see how the recovery from the 1980 recession was incomplete and the economy was significantly below potential real GDP when the 1981-82 recession began. But we had something similar this cycle. The 2002 -2009 expansion was so weak that real GDP never got back to potential this cycle just as it did not in 1981. The current recession is not yet over. But if you assume that second quarter real GDP falls at a 4% annual rate it creates a GDP GAP of -8.4% as compared to -8.3% at the 1982 bottom. So even when you build into your comparison that the 1980 -82 recession was really two recession, you still come to the conclusion that the depth of this recession is about the same as the combined 1980-82 recessions. So by this standard, the current recession is just as severe as the 1980-82 recession even when you take into account that the earlier recession was a double recession.</p>
+<p><a href="http://2.bp.blogspot.com/_Zh1bveXc8rA/Sihh_EvvP4I/AAAAAAAAAws/8qfE1z9jFJo/s1600-h/Clipboard01.jpg"><img src="http://2.bp.blogspot.com/_Zh1bveXc8rA/Sihh_EvvP4I/AAAAAAAAAws/8qfE1z9jFJo/s320/Clipboard01.jpg" alt="" border="0"></a>A second way of measuring the depth of a recession is to compare how much excess industrial capacity is created and manufacturing capacity utilization does that. Again the chart shows how in both the 1981 recovery and the 2002-2008 expansions the economy failed to recover to prior peaks and entered the recessions with significant excess capacity already existing. But now manufacturing capacity utilization is at 65.7% versus 68.6% at the 1982 bottom. So again this measure shows the depth of the current recession to be greater than the combined 1980-82 recessions even though the current recession is not yet over.</p>
+<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/Sihm_cCLvFI/AAAAAAAAAxM/zp_lAe3LVtU/s1600-h/Clipboard01.jpg"><img src="http://3.bp.blogspot.com/_Zh1bveXc8rA/Sihm_cCLvFI/AAAAAAAAAxM/zp_lAe3LVtU/s320/Clipboard01.jpg" alt="" border="0"></a>Finally, we can compare the unemployment rate in the two recessions. The unemployment rate peaked at 10.8% at the end of 1982 as compared to the current rate of 8.9%. Of course the current rate is probably not the peak rate. So we will just have to wait and see how this comparison ends.</p>
+<p><a href="http://3.bp.blogspot.com/_Zh1bveXc8rA/SihiHIIAGcI/AAAAAAAAAw0/JfQSQQYvWEY/s1600-h/Clipboard02.jpg"><img src="http://3.bp.blogspot.com/_Zh1bveXc8rA/SihiHIIAGcI/AAAAAAAAAw0/JfQSQQYvWEY/s320/Clipboard02.jpg" alt="" border="0"></a>But when the depth of the current recession is evaluated in term the GDP GAP, capacity utilization and the unemployment rate it is obvious that this recession is creating as much excess capacity as the combined 1980-82 recessions did. So by these measures the argument by Casey Mulligan that the 1980-82 recession was more severe than this recession just does not stand up.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/06/current-recession-vs-the-1980-82-recession.html/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>NBER generally gets it right</title>
+		<link>./../../2008/12/nber-generally-gets-it-right.html</link>
+		<comments>./../../2008/12/nber-generally-gets-it-right.html#respond</comments>
+		<pubDate>Mon, 01 Dec 2008 19:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[Floyd Norris]]></category>
+		<category><![CDATA[NBER]]></category>
+		<category><![CDATA[Recessions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/nber-generally-gets-it-right.html</guid>
+		<description><![CDATA[Brad DeLong suggested a bit before the U.S. election that there was virtually no non-political reason for NBER not to admit the United States was in a recession.* A little late, but they generally got it right. As Floyd Norris notes: The National Bureau of Economic Research said today that the current recession began a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Brad DeLong suggested a bit before the U.S. election that <a href="http://delong.typepad.com/sdj/2008/10/the-recession-2.html">there was virtually no non-political reason for NBER not to admit the United States was in a recession</a>.*</p>
+<p>A little late, but they generally got it right.  As <a href="http://norris.blogs.nytimes.com/2008/12/01/its-a-recession/">Floyd Norris notes</a>:<br />
+<blockquote>The National Bureau of Economic Research said today that the current recession began a year ago, in December 2007.</p>
+<p>I’ve been arguing for some time that the recession started around then (between October 2007 and January 2008), but for much of that time it was a lonely vigil, with few economists in agreement until things fell apart in September.</p></blockquote>
+<p>I would still argue for October 2007;the &#8220;peak&#8221; in December was related more to a Certain Holiday than anything real. (It&#8217;s not called &#8220;Black Friday&#8221; in honor of <a href="http://www.nydailynews.com/ny_local/2008/11/28/2008-11-28_worker_dies_at_long_island_walmart_after.html">workers who get trampled</a>.)  But at least they called it, which will make it more difficult to argue that &#8220;the recession started on Obama&#8217;s watch.&#8221;</p>
+<p>Sorry, <a href="http://neweconomist.blogs.com/new_economist/2008/08/scary-ken.html">New Economist</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/nber-generally-gets-it-right.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Not Just Developing Countries</title>
+		<link>./../../2008/08/not-just-developing-countries.html</link>
+		<comments>./../../2008/08/not-just-developing-countries.html#respond</comments>
+		<pubDate>Tue, 12 Aug 2008 22:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic development]]></category>
+		<category><![CDATA[Health Care]]></category>
+		<category><![CDATA[human capital]]></category>
+		<category><![CDATA[Recessions]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/08/not-just-developing-countries.html</guid>
+		<description><![CDATA[The most interesting presentation I saw at the AEA last January was Maccini and Yang&#8217;s discussion of the effect of rainfall on the health and growth of Indonesian babies.* It was subsequently discussed as an NBER working paper** by Jason Shafrin, and the thing that made it most interesting is that Maccini and Yang found [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The most interesting presentation I saw at the AEA last January was Maccini and Yang&#8217;s discussion of the effect of rainfall on the health and growth of Indonesian babies.* It was subsequently discussed as <a href="http://papers.nber.org/papers/w14031">an NBER working paper</a>** by <a href="http://healthcare-economist.com/2008/06/12/are-wet-babies-healthy-babies/">Jason Shafrin</a>, and the thing that made it most interesting is that Maccini and Yang found an effect on female children, but not one on male children. </p>
+<p>But that&#8217;s a developing economy.  Would the same type of thing happen in a developed nation?</p>
+<p>Apparently, via <a href="http://economistsview.typepad.com/economistsview/2008/08/links-for-20-11.html">Mark Thoma&#8217;s links</a>, the answer is <a href="http://www.eurekalert.org/pub_releases/2008-08/ifts-bda081108.php">yes</a>.</p>
+<blockquote><p>People who suffer from cardiovascular diseases at advanced ages may have reason to suspect that the cause of their illness lies far away &#8230; around the date of their birth. A team of European researchers reports that if economic conditions at the time of birth were bad, then this leads to a higher risk of cardiovascular mortality much later in life.</p></blockquote>
+<p>The researchers used Danish twins born around the turn of the (19th into 20th) century as their baseline.  And the nature-nurture difference appears to be at the margin:<br />
+<blockquote>The twin data come with an added bonus. They make it possible to check whether a twin pair&#8217;s health outcomes are more similar later in life if they were born under adverse conditions than if they were born under good conditions. It turns out that, indeed, they are more similar later in life if the starting position was bad. Conversely, if an individual is born under better conditions, then individual-specific factors dominate more. In short, individual-specific qualities come more to fruition if the starting position in life is better.</p></blockquote>
+<p>The full paper is available <a href="http://ftp.iza.org/dp3635.pdf">here</a> (PDF).</p>
+<p>*The reasoning for such a study seems fairly straightforward: babies are most affected in their earlier years, rainy seasons—especially in subsistence-farming areas—should tend to produce a better crop yield and therefore marginally more calories available to babies. So the alternative hypothesis should be that rainy seasons produce healthier children, as reflected in schooling accomplishments and height, among other things.<br />**[Free version <a href="http://www-personal.umich.edu/~deanyang/papers/macciniyang_undertheweather.pdf">here</a>; PDF]</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/08/not-just-developing-countries.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

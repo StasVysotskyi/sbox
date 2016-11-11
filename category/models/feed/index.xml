@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>models &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Notes Toward Modeling a Risk-Free Rate with Default Possibilities</title>
+		<link>./../../2011/07/notes-toward-modeling-a-risk-free-rate-with-default-possibilities.html</link>
+		<comments>./../../2011/07/notes-toward-modeling-a-risk-free-rate-with-default-possibilities.html#respond</comments>
+		<pubDate>Wed, 27 Jul 2011 03:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[default]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/notes-toward-modeling-a-risk-free-rate-with-default-possibilities.html</guid>
+		<description><![CDATA[Brad DeLong asks why it hasn’t been done, if it hasn’t been done.  The biggest problem I can see is that you don’t know how insane the participants are—and that will have a major effect on how much damage is done when. Don’t get me wrong; the damage is already being done; it has been [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Brad DeLong asks <a href="http://delong.typepad.com/sdj/2011/07/effect-of-anticipated-default.html" target="_blank">why it hasn’t been done</a>, if it hasn’t been done.  The biggest problem I can see is that you don’t know how insane the participants are—and that will have a major effect on how much damage is done when.
+</p>
+<p>Don’t get me wrong; the damage is already being done; it has been since at least May, and if Barack H. Obama weren’t an idiot, he would have been mentioning that over the past two months.  Unfortunately, the sun is yellow on our world, and counterfactuals are masturbatory, not participatory, acts.</p>
+<p>So let’s start with what we know:</p>
+<blockquote><p><em>i</em>= <em>r</em> + π<sup>e </sup></p>
+</blockquote>
+<p>Nick Rowe apparently <a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2011/07/do-keynesians-believe-their-own-models.html" target="_blank">would have us believe</a> his (completely understandable) claim that <em>i</em> would not be directly affected by a short-term default. This strikes me as absurd. <a name="more"></a><br />Even when the economy is working on all cylinders&#8211;where G contributes something around 10-15% of growth at most—reducing G to zero for a week is about 2% of 15% or 0.2%-0.3%—noticeable, but arguably rounding error against the difference between π and π<sup>e</sup>. So, if you assume a short-term issue, you get something like those legendary two weeks from 11-22 September 2001, when only the Saudi Royal Family was spending anything, writ somewhat smaller only because G<C on a percentage basis.  (Note, however, that depending on prioritizations—anyone trust Timmeh Geithner to pay Social Security and Medicare recipients before DoD contractors?—what is treated as G is actually, as the economist views it, C.  So there is a decent likelihood that using G as a proxy <em>understates</em> the effect on <em>r</em>.)</p>
+<p>We can concede that inflation expectations themselves aren’t going to go up independently: any additional borrowing cost will be a drag on <em>r</em>, so it’s not unreasonable to assume that <em>i </em>will be fairly steady—again, working a very short-term issue.</p>
+<p>But, as often happens, we leave out a variable in our assumptions, simply because we define <em>i </em>as the <u>risk-free<em> </em></u>rate of return.  Let’s put it back in:</p>
+<blockquote><p><em>i</em>= (r + π<sup>e</sup>)*(1+ P<sub>d</sub>)</p>
+</blockquote>
+<p>Where (1+P<sub>d</sub>) is 100% plus the probability that there will not be a default. (Note that in a model environment, P<sub>d</sub>=0, otherwise, we would not call it risk-free: actors have the power to make and manage budgets, including the power to tax to pay for services desired by their <strike>plutocrats</strike> constituents.)</p>
+<p>Finance people will recognize this reduced form equation:.  (1+ P<sub>d</sub>)= <a href="http://en.wikipedia.org/wiki/Beta_(finance)" target="_blank">β</a>, the risk of the stock or portfolio in excess of the risk of the market.  For convenience, let’s just call this version Ω. So,</p>
+<blockquote><p><em>i</em>= (r + π<sup>e</sup>)*Ω</p>
+</blockquote>
+<p>Next comes the hard part: term structure.  Or, <a href="http://delong.typepad.com/sdj/2011/07/effect-of-anticipated-default.html#comment-6a00e551f080038834014e8a20126b970d" target="_blank">as Robert said in a similar context</a>, are you talking about the Federal Funds rate, or the rate on three-month Treasury Bills?</p>
+<p>Well, that depends on how long we expect the issue to be an issue.  If Barack “I’m an idiot who stands for nothing and you’ll vote for me anyway because my opponent will be insane” Obama treated this “crisis” the way he treated the last (real) one, he would insist on getting a clean bill raising the debt ceiling passed through both Houses and on his desk for signing by the end of next week.  If he takes it as another chance to blow Cass Sunstein and the rest of his University of Chicago buddies, then it’s a complicated bill that will get a few Congressmen killed* and several others de-elected, and we might be talking weeks.</p>
+<p>Right now, the markets are assuming the former.  Let’s be optimistic and assume they’re correct.</p>
+<p>Four weeks ago, there was <a href="http://delong.typepad.com/sdj/2011/07/these-are-the-days-of-miracle-and-wonder.html" target="_blank">a Treasury Bill auction that produced a yield of  0.00%</a>.  Extending that bill does no harm at all—not even to expected debt totals. (Investors mileage may vary, but they bought it with full knowledge of the timing.  And there were 10% again behind them bidding at the same rate.)</p>
+<p>Some specific Notes and probably Bonds—it is August—will have coupon payments due on the 15th. But those are coupons, not principal repayment, so again we’re not talking much value of the Note or Bond itself, once you hit five years or so.</p>
+<p>Bills will be a problem.  Short-term notes will be a problem.  Fed Funds is uncharted territory.  Tripartite Repo specifically, and Repo in general will be a major problem due to questions of collateral value.  And guess who uses those the most?  <a href="http://www.businessinsider.com/john-paulson-is-one-of-john-boehners-biggest-donors-wall-street-2011-7" target="_blank">Hedge funds</a>.  <a href="http://www.publicampaign.org/pressroom/2011/05/09/background-memo-boehner-and-cantor-go-wall-street" target="_blank">The people who have been financing John Boehner’s and Eric Cantor’s campaign</a>s.</p>
+<p>So the term structure looks like it would if you’re going into a recession: short-term rates rise significantly, while the longer term securities shift upward a bit. (Select Notes and Bonds with near-term coupons kink the curve, but there’s no certain arbitrage there, especially with transaction costs.  Cheapest-to-deliver calculation is also affected in the futures market. I could go on, but let’s just pretend—correctly—that these are minor issues.)</p>
+<p>Because now our “baseline” rate is no longer risk-free—and we’re not certain what P<sub>d</sub> is over time.  We know it will return to zero at some point, and we presume (at least at the beginning) that it will be soon. But we also know that there <em>already are </em>follow-on effects, and that they will only get worse. Even if we ignore the effect on G (and therefore <em>i</em>) of a short-term default, we lose our bearings for a while.</p>
+<p>So the big question is collateral and spreads.  Been posting Treasuries to borrow against?  Yields up due to P<sub>d</sub> > 0, so prices down, so less flow. And probably haircuts due to uncertainty of any return to “risk-free.” Posting Treasuries with a coupon due?  <a href="http://en.wikipedia.org/wiki/Haircut_(finance)" target="_blank">Haircut</a>! Posting Treasuries with a near-term coupon?  <a href="http://en.wikipedia.org/wiki/Haircut_(finance)" target="_blank">Haircut</a>! Posting Munis?  Think Michael Jordan (or Telly Savalas, if you’re Of a Certain Age).  So you can borrow less, and probably have to sell some of your assets.</p>
+<p>Which ones?  If we’re lucky, it’s longer-term Treasuries, and some of the yield curve inversion mentioned earlier is reduced.  But the market is going to be less liquid than usual, so maybe some of those other bonds get sold—corporates, for instance.  The bid-offer on Munis is basically going to be zero-coupon bonds at a high discount. (Think fast about how many state and local municipal projects depend on some form of Federal funding.  Then realize that your estimate is probably low by an order of magnitude.)  Or corporations that are dependent on government funds (DoD providers, automobile fleets, interstate paving contractors, power supply and distribution companies, etc.)</p>
+<p>In a ridiculously oversimplified model, the spreads simply expand by Ω, with a possible adjustment downward based on direct exposure to government financing. This, again, probably<em> understates</em> the effect.</p>
+<p>So, in a closed economy, everyone gets to pretend things are close to the same—just more expensive, with a lot of damage to hedge funds and municipalities and borrowing costs and credit lines. So money supply drops significantly (multiplier effect reduction) even without Fed intervention.  You get an Economic Miracle: reduced supply and higher yields.</p>
+<p>But we don’t live in a closed economy.  So there’s another factor.  And I’m running out of Greek letters, so let’s just use an abbreviation everyone knows:</p>
+<blockquote><p><em>i</em>= (r + π<sup>e</sup>)*Ω*<em>d</em>(FX<sub>d</sub>)</p>
+</blockquote>
+<p>where <em>d</em>(FX<sub>d</sub>) is the change in the FX rate due to the default adding uncertainty to cash flows.</p>
+<p>That’s right: we get not one but <em>two</em> economic miracles:  (1) domestically, a reduced supply of risk-free securities produces higher yields and (2) internationally, higher yields lead to a <em>depreciation</em> of the domestic currency.</p>
+<p>Anyone still wonder why no one wants to build the full model?</p>
+<p>*No, I don’t want this to be the scenario.  But if you offered me the bet, I wouldn’t take the under at 0.99.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/notes-toward-modeling-a-risk-free-rate-with-default-possibilities.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Modeling Sunshine and Shadows: Inequality, long hours and crisis</title>
+		<link>./../../2010/12/modeling-sunshine-and-shadows-inequality-long-hours-and-crisis.html</link>
+		<comments>./../../2010/12/modeling-sunshine-and-shadows-inequality-long-hours-and-crisis.html#respond</comments>
+		<pubDate>Tue, 21 Dec 2010 13:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[models]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/modeling-sunshine-and-shadows-inequality-long-hours-and-crisis.html</guid>
+		<description><![CDATA[Tom Walker(aka Sandwichman at Ecological Headstand) Modeling Sunshine and Shadows: Inequality, long hours and crisis Alex Harrowell at A Fistful of Euros sees sunshine beaming from the IMF in a working paper by Michael Kumhof and Romain Rancière that identifies income inequality as a potential source of financial crisis. No shit, Sherlock! Outside of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Tom Walker</strong><br />(aka Sandwichman at <a href="http://ecologicalheadstand.blogspot.com/" target="_blank">Ecological Headstand</a>)</p>
+<p><strong>Modeling Sunshine and Shadows: Inequality, long hours and crisis</strong></p>
+<p><a href="http://fistfulofeuros.net/afoe/economics-and-demography/sunshine-at-the-imf-of-all-places/" target="_blank">Alex Harrowell at A Fistful of Euros</a> sees sunshine beaming from the IMF in a working paper by Michael Kumhof and Romain Rancière that identifies income inequality as a potential source of financial crisis. No shit, Sherlock! Outside of the formal modeling, the proposition hardly sounds remarkable.</p>
+<p>As goldilocksisableachblonde noted on <a href="http://economistsview.typepad.com/economistsview/2010/12/sunshine-at-the-imf-of-all-places.html" target="_blank">Mark Thoma&#8217;s site</a>, &#8220;This finding is consistent with intuition and common sense , meaning &#8211; according to mainstream economic theory backed by models and more models &#8211; it&#8217;s gotta be wrong.&#8221; Kumhof and Rancière themselves note that &#8220;the link between income inequality, household indebtedness and crises has been recently discussed&#8230;&#8221; but they object that the authors &#8220;do not make a formally consistent case for that argument.&#8221; What they mean by not &#8220;formally consistent&#8221; is presumably not using a dynamic stochastic general equilibrium (DSGE) model such as they employ. I would like to see K&#038;R try that argument in court.</p>
+<p>&#8220;Your honor, sir, I object, the videotape of my client breaking open the ATM with a sledgehammer is not a DSGE model and thus is not formally consistent as evidence.&#8221;</p>
+<p>&#8220;Objection overruled.&#8221;</p>
+<p>But it is well that K&#038;R build their formally consistent model to demonstrate that possibility of something happening, which the rest of us can observe with our naked eyes. This will keep other formally-consistent DSGE model builders busy tinkering with assumptions until they can explain the findings away. I betcha Lee Ohanian could come up with a doozy &#8212; and it would get more media!</p>
+<p>Anyway, where there is sunshine, there are bound to be shadows and the Sandwichman couldn&#8217;t resist the temptation of scouring the working paper for some shade. And here it is:<br /><a name="more"></a><br />
+<blockquote>&#8220;Finally, the addition of a shock to workers’ labor supply would help to address an important issue raised by Reich (2010), who emphasizes that in the United States households faced with higher income inequality have employed two other important coping mechanism apart from higher borrowing, namely higher female labor force participation and longer hours. This allowed them to replace some of the lost income, and therefore to limit the amount of additional borrowing.&#8221;</p></blockquote>
+<p>Now I haven&#8217;t read Bob Reich&#8217;s new book but I did the next best thing. I saw him talk about it at a book tour event in Point Reyes Station in October. Reich&#8217;s argument is that 1. incomes have stagnated since the early 1980s 2. the first response of households was to increase hours supplied to the labor market to maintain purchasing power but when that strategy ran up against its limit, 3. households began to borrow aggressively. I think Reich has the ingredients right but they&#8217;re in the wrong chronological order. That can be crucial when you&#8217;re baking a cake or explaining history. Long before incomes began to stagnate, hours of work ceased a century long trend of decline, a trend that BLS economist Joseph Zeisel had called &#8220;one of the most persistent and significant trends in the American economy in the past century.&#8221;</p>
+<p>Not to put too blunt a point on it, Americans suddenly stopped taking part of the gains of technology in the form of leisure. It&#8217;s not as if they &#8220;just decided&#8221; to do this, either. There were all sorts of structural changes in the U.S. labor market that broke the trend. Just to name a few, there was the abandonment of the shorter hours employment strategy by organized labor in favor of promoting economic growth fueled by government spending, there was the explosion of per-employee benefits (quasi-fixed costs) as a proportion of total compensation and there was the FLSA provisions themselves which, in effect, were a double-edged sword with regard to the incentive of overtime pay.</p>
+<p>From a long-term historical perspective, hours of work stagnated before wages did. I&#8217;m well aware of the <i>post hoc propter hoc</i> fallacy. Just because the hours stagnation came first, doesn&#8217;t necessarily mean it caused the wage stagnation. On the other hand, there is a sufficient body of theory suggesting that just such a causal chain is likely.</p>
+<p>Ira Steward articulated this theory in the 1860s. Marx also presented a theoretical explanation linking technological advance, immiseration of workers and economic crisis. Sydney J. Chapman confirmed the basis of Steward&#8217;s and Marx&#8217;s theories but within a neo-classical framework. Dorothy W. Douglas reviewed Steward&#8217;s theory during the Depression judged it to be rich in explanatory power, institutionally speaking.</p>
+<p>More recently Keynes and Luigi Pasinetti advanced theories that none of the formally-consistent model builders have sought to confirm or refute. Instead, the formally-consistent model builders busied themselves refuting a theory that didn&#8217;t exist &#8212; that &#8220;the amount of work to be done was a fixed quantity.&#8221; Not surprisingly, they succeeded in refuting that faux fallacy (in a formally-consistent manner, of course) and figured that was all they needed to do. Steward, Marx, Chapman, Keynes and Pasinetti be damned!</p>
+<p>Don&#8217;t get me wrong. I think formally modeling realistic assumptions is a huge step forward from formally modeling laughable ones. I&#8217;m just not sure I (or the unemployed) can wait another sixty years or so for economists to get around to building a formally-consistent model that reflects the powerful explanatory theories the formal modelers have ignored for the last sixty years.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/modeling-sunshine-and-shadows-inequality-long-hours-and-crisis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>To send money is not to spend money</title>
+		<link>./../../2010/07/to-send-money-is-not-to-spend-money.html</link>
+		<comments>./../../2010/07/to-send-money-is-not-to-spend-money.html#respond</comments>
+		<pubDate>Thu, 01 Jul 2010 22:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[models]]></category>
+		<category><![CDATA[money]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/to-send-money-is-not-to-spend-money.html</guid>
+		<description><![CDATA[Robert Waldmann Atrios vs Bernanke. OK so I agreed with Atrios about Greenspan (just below). Now I disagree with him about Bernanke. He equates loans with gifts. He equates worse than optimal with worse than nothing (dealing with free market fanatics can cause one to overlook the difference). Bernanke could have sent money from the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Atrios vs Bernanke.</p>
+<p>OK so I agreed with Atrios about Greenspan (just below).   Now I disagree with <a href="http://www.eschatonblog.com/2010/07/helicopter-drop.html">him about Bernanke</a>.  He equates loans with gifts.  He equates worse than optimal with worse than nothing (dealing with free market fanatics can cause one to overlook the difference).</p>
+<blockquote><p>Bernanke could have sent money from the Fed&#8217;s magic money machine in all kinds of ways. They could have paid down mortgages. They could have put money in my bank account. They could have given it to state governments. What they did was prop up a failed banking system, and the worst failures of the failed banking system, under the premise that capital misallocating financial intermediaries were necessary for a stable economy.</p></blockquote>
+<p>Note the unusual usage “sent money.”  This is not a typo.  Atrios did not hit the p too gently meaning to type “spent,” because the Fed did not spend money bailing out the banks.  It loaned money, guaranteed loans and guaranteed assets.  If they put money in Atrios’s bank account, full stop, then they wouldn’t be able to get it back.  A  loan is not a gift.  </p>
+<p>The latest estimate I saw of the cost of the bailout to the Fed was Negative $ 125,000,000,000.</p>
+<p>I also think our experience with Lehman shows that, in the short run (which means until congress acts) bad banks run by incompetent greed heads are better than no banks.  But in any case, even if you think we would be slightly better off if they had all gone bankrupt, $125,000,000,000 is a nice chunk of change.</p>
+<p>update.  However, I remembered incorrectly.  The estimate was a profit of $ 115,000,000,000 via <a href="http://www.ritholtz.com/blog/2010/04/declining-bailout-costs-or-bad-math/">Barry Ritholtz who was not convinced</a>.  Close but no cigar.  I mean ten billion here ten billion there and soon you&#8217;re talking real money.</p>
+<p>Total delirium after the jump.</p>
+<p><a name="more"></a></p>
+<p>Here I think part of the problem is that, like most Americans, Atrios rejects socialism.  If The Fed could make a killing intervening and saving banks, it could make a killing most years.  Does that mean that a mostly private financial system is inefficient compared to one where the Federal government bears more risk and pockets the risk premia ?  Sure it does.  Wouldn’t that be public ownership of the means of production, that is socialism ?  Yes.  Am I saying that Bernanke and Paulson proved the superiority of a shift towards socialism (not all the way to nationalized popsicle stands).  Yes I am.</p>
+<p>I think that TARP is one of the best programs ever, and, if we were half rational, would be our first step on a path that leads part way to socialism.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/to-send-money-is-not-to-spend-money.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Only that which is rational is real</title>
+		<link>./../../2010/07/only-that-which-is-rational-is-real.html</link>
+		<comments>./../../2010/07/only-that-which-is-rational-is-real.html#respond</comments>
+		<pubDate>Thu, 01 Jul 2010 21:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Alan Greenspan]]></category>
+		<category><![CDATA[models]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/only-that-which-is-rational-is-real.html</guid>
+		<description><![CDATA[CNBC reports Greenspan … added that the financial crisis could not have been foreseen. “It is just not feasible to forecast a financial crisis,” he said. “A financial crisis by definition is a sharp abrupt, unexpected decline in asset prices.” Notice that he says if it is unexpected, then it *can’t* be forecast. That is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>CNBC <a href="http://www.cnbc.com/id/38034791">reports</a> </p>
+<p>Greenspan … added that the financial crisis could not have been foreseen.</p>
+<p>“It is just not feasible to forecast a financial crisis,” he said. “A financial crisis by definition is a sharp abrupt, unexpected decline in asset prices.”</p>
+<p>Notice that he says if it is unexpected, then it *can’t* be forecast.  That is if the risk bearing capacity weighted average investor doesn’t forecast something then it isn’t forecastable.  Greenspan is asserting that financial markets are efficient by definition.  He displays no willingness to allow data or evidence any role in answering the question.  </p>
+<p>Only that which is rational is real.  The key policy relevant question is answered by definition, that is, by authority.  Efficient is whatever markets are, and also what they should be, therefore markets are what they should be – by definition.</p>
+<p>This is dogma, this is faith, this is medieval thinking.  Galileo lived in vain.  The enlightenment arrived in the Fed when Bernanke replaced Greenspan.</p>
+<p>via <a href="http://www.eschatonblog.com/2010/07/nobody-could-have-predicted.html">Atrios.</a>  More ranting after the jump.</p>
+<p><a name="more"></a></p>
+<p>Also &#8220;Former Federal Reserve Chairman Alan Greenspan said that the recent stock market decline is “typical” of a recovery,&#8221;  If a decline is typical then it is forecastable.  If a decline is typical during a recovery, then financial markets are inefficient.  I see no basis for the claim (which, I amdit, was constructed with only one actually quoted word).  </p>
+<p>Note  how the efficient markets hypothesis is switched on and off for convenience.  Something which could have been prevented with tighter regulation must have been unpredictable.  Something which might or might not alarm people was predictable and isn&#8217;t news.  I am fairly sure that no one believes that financial markets are efficient.  It is just a debating trick.  It can be assumed at will in order to make absurd arguments.  It is absurd and has high status, for some reason, so it is a license to make clearly false claims which are not dismissed.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/only-that-which-is-rational-is-real.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>hundreds of billions = 0 ?</title>
+		<link>./../../2010/06/hundreds-of-billions-0.html</link>
+		<comments>./../../2010/06/hundreds-of-billions-0.html#respond</comments>
+		<pubDate>Thu, 01 Jul 2010 03:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[models]]></category>
+		<category><![CDATA[reporting]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/hundreds-of-billions-0.html</guid>
+		<description><![CDATA[Robert Waldmann The www.washington.com Headline and abstract person has outdone himself or herself writing CBO sees debt estimates soar Analysts say health law has not improved budget and Obama&#8217;s tax agenda will make things worse. Lori Montgomery As Kevin Drum says always click the link. Lori Montgomery actually wrote President Obama&#8217;s overhaul of the health-care [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>The www.washington.com Headline and abstract person has outdone himself or herself writing </p>
+<blockquote><p>CBO sees debt estimates soar</p>
+<p>Analysts say <strong>health law has not improved budget </strong>and Obama&#8217;s tax agenda will make things worse.</p>
+<p>Lori Montgomery</p></blockquote>
+<p>As Kevin Drum says always click the link. <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/06/30/AR2010063003396.html?hpid=topnews">Lori Montgomery actually wrote</a></p>
+<p>
+<blockquote>President Obama&#8217;s overhaul of the health-care system <strong>has done little to improve </strong>the nation&#8217;s budget outlook, congressional budget analysts said Wednesday. </p></blockquote>
+<p>So &#8220;little&#8221; has become none.  The abstract contradicts the actual story.</p>
+<p>Finally well down in the story we get to what Doug Elmendorf said</p>
+<blockquote><p>The health-care overhaul made &#8220;steps in the direction of a sustainable fiscal policy. But they are small steps relative to the journey that will be needed for fiscal sustainability,&#8221; CBO director Douglas Elmendorf said Wednesday in testimony before Obama&#8217;s bipartisan commission on the deficit.</p></blockquote>
+<p>small &#8220;relative to the journey that will be needed for fiscal sustainability&#8221; is not small.  We do not normally measure sums of money &#8220;relative to the journey that will be needed for fiscal sustainability&#8221;.  Another way of putting that would be &#8220;unimagninable huge immense and gigantic but nowhere near as colossal as the long term budget shortfall&#8221;.</p>
+<p>So in the hands of the Washington Post small &#8220;relative to the journey that will be needed for fiscal sustainability&#8221;  becomes &#8220;small&#8221; and then none.  Too the Post hundreds of billions of dollars are zero.</p>
+<p>Clearly that organization is not qualified to report the news.  Even the simplest most cut and dried gigantic numbers are too subtle for them.</p>
+<p>This is the end of my short punchy post.  A general rant follows after the jump.</p>
+<p><a name="more"></a></p>
+<p>Beyond this, the CBO report isn&#8217;t news.  All we learn is that the CBO headline number must be based on what Congress claims it will do, so it is based on the the assumption of no more alternative minimum tax fixes and no more doc fixed and, especially, all Bush tax cuts expire.</p>
+<p>Pretending it is news is hyping a fact.  It fits the panic about the deficit agenda.  This is part of the agenda of the Washington Post opinion pages.  It is not good that the news staff is hyping non news about how the long run deficit picture is grim.</p>
+<p>Also Montgomery&#8217;s next sentence miss-allocates blame </p>
+<blockquote><p>They also said the president&#8217;s tax agenda &#8212; including a pledge to extend an array of tax cuts for the middle class &#8212; would only make things worse. </p></blockquote>
+<p>This is only true if one interprets &#8220;the president&#8221; to be George W Bush.  Obama is reversing some but not all of the Bush tax cuts.  The silly trick of saying they would sunset makes the change in law a tax cut, but the change in policy is a tax increase.  Montgomery is blaming Obama for not undoing all of the damage that Bush did.  </p>
+<p>This is the general slant.  Obama is blamed for the long run budgetary shortfall, because the huge gigantic improvements that he has achieved plus the huge gigantic and popular improvements which he has proposed are not huge and gigantic enough to undo the damage the Republicans did when they were in control.</p>
+<p>He&#8217;s been Posted.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/hundreds-of-billions-0.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>You Are A Carrot</title>
+		<link>./../../2010/06/you-are-a-carrot.html</link>
+		<comments>./../../2010/06/you-are-a-carrot.html#respond</comments>
+		<pubDate>Sat, 26 Jun 2010 13:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[models]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/you-are-a-carrot.html</guid>
+		<description><![CDATA[Look at this lovely old drawing. Fernlike leaves, flower heads like old fashioned crochet embroidery. This is Daucus carota ssp sativa, originally native to temperate regions of Europe and southwest Asia. Now print this picture out and go to the supermarket and try to find it in the produce section. If you are lucky, you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://1.bp.blogspot.com/_MSuZ1riS9qU/TCZ7uoPqgfI/AAAAAAAAAZM/pH8Ho7ulE0E/s1600/Illustration_Daucus_carota0.jpg"><img src="http://1.bp.blogspot.com/_MSuZ1riS9qU/TCZ7uoPqgfI/AAAAAAAAAZM/pH8Ho7ulE0E/s320/Illustration_Daucus_carota0.jpg" border="0" alt=""></a><br />Look at this lovely old drawing.  Fernlike leaves, flower heads like old fashioned crochet embroidery. This is Daucus carota ssp sativa, originally native to temperate regions of Europe and southwest Asia.  Now print this picture out and go to the supermarket and try to find it in the produce section.</p>
+<p>If you are lucky, you might spot some by their leaves.  But mostly you will find only the bare, leafless root, or even stubby vegetable batons identifiable only by their colour.</p>
+<p>Carrots themselves don’t want to be stubby batons of pure edibility.  In fact, that kind of carrot can’t exist as a living thing – it’s just what’s left when most of the living parts of the carrot are shaved and chopped away.</p>
+<p>Now, no grocery shopper would choose the whole carrot (leaves, stems, flowers, taproot, feeder roots and a bit of dirt) over the bagged orange cudgels when planning to make a stew.  But would a sane grocery shopper deny that all those bits need to exist?  Would they demand to pay “only for the carrot” and not pay for the other bits?</p>
+<p>And how long would carrots last if they were “paid” only by root-weight, not on a whole-life basis?  As a wholly domesticated species, they wouldn’t.  They’d be gone in a generation, if they even came to exist in the first place.  Only the wild ones would still live, of a low quality from the shopper’s viewpoint, but surviving.</p>
+<p>This is why business, worldwide, needs to pay fairly, and provide benefits and pensions.</p>
+<p>Woah!  Where did THAT unsignaled left turn come from?<br /><a name="more"></a><br />I’m a carrot too.  So are you.  We need our lacy finery, our crocheted flowers.  We need to set seed and droop into a shabby graceful old age.  We need our feeder roots.  And our taproot is not there for some shopper to chomp – it’s there to nourish the plant while it engenders seed, and dower those seeds with enough stored food to get their own proper start.</p>
+<p>Business only exists because we exist, yet like other critters it tries its best to get all the candy and none of the wrappers.  It isn’t intelligent enough, overall, to realize that if it slices out the taproot and starves the rest of the plant, carrots will disappear, immediately followed by the businesses who depend on them.</p>
+<p>At present, business has managed to interpose itself between many of us carrots and our sustenance, collecting a toll each time something of value crosses through the toll gate.  This can work very well for us and for them, provided the toll is low enough and enough of the profit is returned to nourish the carrots.  But over the past couple decades less and less has been returned to the carrots.  The taproots have been tapped out.</p>
+<p>Luckily for business, people aren’t like carrots, are not fully domesticated.  In the poorest nations you see this in a pure form. We’re still a wild species, we continue to raise our kids, save and build and flower and set seed even in the bleakest situations.  People don’t stop living, and the reason for living is living.</p>
+<p>Business flourishes when people flourish, but many businesses don’t know this, or are content to get most of a shrunken root rather than part of a plump one.  Will they ever grasp this?  The incentives seem to go the other way, with the short-term spoils going to the greediest..</p>
+<p>That’s why someone besides business needs to regulate business, and why great profitability in business should be viewed with suspicion, not placid satisfaction.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/you-are-a-carrot.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Peanut Butter Regulations</title>
+		<link>./../../2010/06/peanut-butter-regulations.html</link>
+		<comments>./../../2010/06/peanut-butter-regulations.html#respond</comments>
+		<pubDate>Sun, 20 Jun 2010 14:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[models]]></category>
+		<category><![CDATA[regulation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/peanut-butter-regulations.html</guid>
+		<description><![CDATA[by Rusty Rustbelt PEANUT BUTTER REGULATIONS Watching people spread peanut butter is interesting. I am a semi-neurotic peanut butter spreader, I try to cover most of the bread and try to get the thickness close to even, but I am not a perfectionist-neurotic spreader. There are also slap-and-eat messy spreaders. Having dealt with a wide [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>by Rusty Rustbelt</strong></p>
+<p><strong>PEANUT BUTTER REGULATIONS</strong></p>
+<p>Watching people spread peanut butter is interesting.</p>
+<p>I am a semi-neurotic peanut butter spreader, I try to cover most of the bread and try to get the thickness close to even, but I am not a perfectionist-neurotic spreader.  There are also slap-and-eat messy spreaders.</p>
+<p>Having dealt with a wide range of government regulatory agencies over 35 years, dealing with both health care and small business, I am familiar with “peanut butter regulation.”</p>
+<p>Peanut butter regulation spreads regulatory effort evenly over all regulated entities, even when it is well known that 20% of the targets represent 80% of the problems.</p>
+<p>Nursing home regulation comes immediately to mind. Also food safety. And the SEC.</p>
+<p>Regulation and regulatory capture are a hot topic these days. Do we need more targeted regulatory efforts?</p>
+<p>Peanut butter regulation reminds me of drunk driving checkpoints, stop everybody and eventually the cops find a drunk. Is there a better way?</p>
+<p>Some regulators are complaint based, such as wage-and-hour and  OSHA, should these agencies be more like peanut butter?</p>
+<p>We gotta get better.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/peanut-butter-regulations.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nick Rowe asks if new Keynsian models make sense</title>
+		<link>./../../2010/06/nick-rowe-asks-if-new-keynsian-models-make-sense.html</link>
+		<comments>./../../2010/06/nick-rowe-asks-if-new-keynsian-models-make-sense.html#respond</comments>
+		<pubDate>Fri, 11 Jun 2010 01:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[models]]></category>
+		<category><![CDATA[Nick Rowe]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/06/nick-rowe-asks-if-new-keynsian-models-make-sense.html</guid>
+		<description><![CDATA[Robert Waldmann Nick Rowe asks a very interesting question. After the jump I attempt an answer Please read Rowe&#8217;s post first. The following will make no sense at all if you don&#8217;t (note reading Rowe&#8217;s post is a necessary not a sufficient condition for it to make sense). The short explanation is that Rowe finds [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Nick Rowe asks <a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2010/06/new-keynesian-macroeconomics-doesnt-make-sense-to-me-any-more.html">a very interesting question</a>.  After the jump I attempt an answer</p>
+<p><a name="more"></a></p>
+<p>Please <a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2010/06/new-keynesian-macroeconomics-doesnt-make-sense-to-me-any-more.html">read Rowe&#8217;s post first</a>. The following will make no sense at all if you don&#8217;t (note reading Rowe&#8217;s post is a necessary not a sufficient condition for it to make sense).</p>
+<p>The short explanation is that Rowe finds a contradiction.  I think he finds a contradiction with new Keynesian models, because he assumes that the central bank can achieve any real interest rate that it wants.  I don&#8217;t think all real interest rates are achievable in Nash equilibrium in new Keynesian models.</p>
+<p>I know nothing about new Keynesian models (well I know about old New Keynesian models from around 20-25 years ago).  So consider this a totally fresh look.</p>
+<p>In your example, everything is real.  How odd since nominal rigidities are central.  I think the key is that in new Keynesian models, the central bank can&#8217;t set the real interest rate to any level it wants.  You quickly moved from setting nominal to real interest rates.  Now one might imagine that a central bank can forecast inflation (they have rational expectations too) and then add say 5%.  However, since private sector agents have rational expectations, their behavior depends on the central bank’s policy.  It&#8217;s not like there is an inflation rate which is given no matter what the central bank does.  The question becomes, is there a Nash equilibrium in which the Central bank gets r=5% (presumed to be its only goal) and private agents maximize their utility given the monetary policy rule, tastes, technology and nominal rigidities (or menu technology if you insist).  I think the answer is that there is one and only one such equilibrium and that is the tinkerbell equilibrium with production equal to production in the flexible price steady state.</p>
+<p>Now the economy can be elsewhere with, say, output below that level (because prices are too high because &#8230; well I just assumed they are at the beginning of time cause no way am I going to model any uncertainty).  I think that, in that case, the central bank can’t achieve r=5% always, that there is no such Nash equilibrium.  In other words, for any nominal interest rate rule, the real interest rate will not be 5%.</p>
+<p>I think the contradiction is between new Keynesian models and your assumption that the central bank can achieve any real interest rate which it wants.</p>
+<p>I will try to invent a simple new Keynesian model on the spot.</p>
+<p>Producers are self employed.  Their marginal cost in units of consumption is the marginal disutility of work divided by the marginal utility of consumption.  T.his declines if they work less and consume less (disutility of work convex utility of consumption concave).</p>
+<p>They make different goods with a constant elasticity of substitution (all consumers have Dixit Stiglitz preferences) so their utility is maximized if they set a price equal to one plus a constant markup times their marginal cost.  </p>
+<p>OK a nominal rigidity.  They are on a circle and a clock hand goes around say once a month.  When the hand points at me, I can adjust my price.  Otherwise it stays the same.  </p>
+<p>Is there an equilibrium with r = 5% and consumption less than the flexible price consumption (for a steady state with r = 5%) ?  It seems that if I am working less and consuming less than in the flexible price steady state, then I want to lower my relative price, that is set a price lower than the average price over the next month.  So there can&#8217;t be an equilibrium with a constant price level.</p>
+<p>I will assume that my loss from having other than the best price is quadratic in log price (just because I want to and new Keynesians always do stuff like that)</p>
+<p>How about one with a constant deflation rate of 1% per month ?  Well then I forecast the average log(price) will fall 1% over the month so will be on average 0.5% lower than when I set my price.  so I set my price *below* the current average price minus 0.5%.  Prices as set fall 1% a month, so, when the hand pints at me, my price is 0.5% higher than the average price (I am making a linear approximation to an exponential here).  so I cut my price by more than 1% so deflation is more than 1%.  </p>
+<p>So if I assume that deflation is 1% per month, then it is more than 1% per month.  There is no equilibrium with r=5% and consumption below the flexible price steady state.</p>
+<p>I haven&#8217;t proved it, but it seems to me that this happens for prices being any function of time. </p>
+<p>One last example (here the r=5% actually matters).  If the deflation rate is <br />exp(-(constant)t) so it goes to zero exponentially.  Then if I lower my price according to the deflation rate it will be lower than the average over the next month (since later price adjustments will be smaller than mine).  So I do get a price lower than the average over the month of my average competitor&#8217;s price.  However, this difference gets smaller and smaller <br />(it shrinks just like exp(-(constant(t))).  This is only optimal if my consumption is getting closer and closer to flexible price steady state consumption.  So there are equilibria, but in those equilibria consumption grows till it converges to FPSS consumption (what you call full employment consumption).  </p>
+<p>This can&#8217;t happen if r=5%, because r=5% implies constant consumption.  I think this means there is no sticky price equilibrium with consumption below FPSS consumption and r=5% always.  There is no way the central bank can make r=5% always no matter what it does with nominal interest rates.</p>
+<p>To repeat maybe:<br />I think this means that if current consumption is below the flexible price steady state, then the central bank can&#8217;t keep r=5%.  I think it means that the economy has to converge to the flexible price steady state (which means r must be greater than 5% if consumption is now below flexible price steady state consumption)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/06/nick-rowe-asks-if-new-keynsian-models-make-sense.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Build an Economic Model</title>
+		<link>./../../2010/02/how-to-build-an-economic-model.html</link>
+		<comments>./../../2010/02/how-to-build-an-economic-model.html#respond</comments>
+		<pubDate>Mon, 22 Feb 2010 23:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[employment]]></category>
+		<category><![CDATA[labor markets]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+		<category><![CDATA[models]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/how-to-build-an-economic-model.html</guid>
+		<description><![CDATA[Let us see if we can translate my previous post on job selection into an economic model.  Start with a basic formula: (1) AcceptOffer = a(1) + a(2)*w + a(3)*b + a(4)*oa + a(5)*t where a is a constant, w is wages, b is benefits, oa is &#8220;opportunity for advancement&#8221; and t is treatment received [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Let us see if we can translate <a href="http://www.angrybearblog.com/2010/02/trade-offs-and-revealed-preferences.html" target="_blank">my previous post on job selection</a> into an economic model.  Start with a basic formula:<br />
+<blockquote>(1) AcceptOffer = a(1) + a(2)*<em>w</em> + a(3)*<em>b</em> + a(4)*<em>oa</em> + a(5)*<em>t</em></p></blockquote>
+<p>where a is a constant, <em>w</em> is wages, <em>b</em> is benefits, <em>oa</em> is &#8220;opportunity for advancement&#8221; and <em>t</em> is treatment received in the workplace.</p>
+<p>The first observation we make is that several of these variables are difficult to quantify—and even more difficult to objectify. So let’s start with the easy ones.</p>
+<p><em>w</em> is very identifiable: reported (on a per capita aggregate basis), subject to enforcement penalties (e.g., minimum wage laws), and used in “downstream applications” (e.g., tax filings) and therefore relatively verifiable.</p>
+<p><em>b</em> is (1) known to be non-negative and (2) often variable within, let alone between, organizations. (Vacation time, sick days, insurances offered and costs to the employee all may vary depending on level, time of service, location of office, etc.)</p>
+<p>This could present a problem, but here we can use standard economic theory to our advantage. We do not know the amount of <em>b</em>, but we can assume that the employer is rational, and is offering a total compensation to the worker that s/he expects will be less than or equal to the marginal product of that person’s labor. We therefore can reasonably assume that <em>b</em> is related to <em>w</em>. If we then review the available aggregate data we can approximate that benefits offered will be approximately a certain percentage of <em>w</em>—and that workers will assume that assumption (and, in most cases, verify that assumption within a margin of error) before accepting the job.</p>
+<p>We then restate the equation as<br />
+<blockquote>(2a) AcceptOffer = a(1) + a(2’)*<em>w’</em> + a(4)*<em>oa</em> + a(5)*<em>t</em></p></blockquote>
+<p>where w’ is the weighted combination of <em>w </em>and <em>b</em> above, and a(2’) is the restated coefficient.</p>
+<p>If we then assume that all parties have full information of the ratio of wages to benefits, then a(2’) = a(2)=a(3), so we simplify to:<br />
+<blockquote>(2b) AcceptOffer = a(1) + a(2)*<em>w’</em> + a(4)*<em>oa</em> + a(5)*<em>t</em></p></blockquote>
+<p>We now have to consider opportunities for advancement and treatment. Here, we have two problems that are difficult, possibly insurmountable, for modeling.</p>
+<p>The first is a lack of measurability. There are no public records for &#8220;didn&#8217;t get promoted.&#8221; Nor, except in extreme cases, is there a way to measure treatment by supervisors. The data that might be available&mdassh;lawsuits, official complaints, even Human Resources files (for which there are significant privacy considerations)—is all negative and, accordingly, skewed (biased). This is because (a) ninety percent or so of all workers and/or bosses will never have a complaint filed against them and (b) the ability to file a complaint may be present because the <em>general</em> work atmosphere is more amenable to filing one than not, so the presence of a complaint is not in itself a good or bad thing for the overall measure.</p>
+<p>The second is that tolerances vary by person. To use an absurd example, people who use &#8220;Every Breath You Take&#8221; for their wedding may be more likely to tolerate attentions that others view as harassment. Similarly, forcing people to clock out for a &#8220;smoke break&#8221; will be viewed differently depending upon whether one is a smoker or not. General policies are just that—general.</p>
+<p>So, if we are building an <em>economic</em> model, we must come up with a reasonable approximation of these last two variables. The most direct way to do this is the standard method: assume each individual has their own <a href="http://en.wikipedia.org/wiki/Indifference_curve">Utility Curve</a>, and &#8220;prices&#8221; accordingly.</p>
+<p>Based on their preferences and options, then, we map the compensation required to offset negative consequences from <em>oa</em> and <em>t</em>. While the variables still are not directly observable, we can make a simplifying assumption:<br />
+<blockquote><em>Assume that the compensation required to do the work is a factor of w’</em>.</p></blockquote>
+<p>Have to work in the sewer system? Change <em>w’</em> to compensate. Need to work the night shift and/or weekends? Same type of adjustment. Boss clearly favors buxom blondes and you’re a petite redhead? Adjust current salary requirements to compensate for lowered opportunity for advancement/promotion. You’re a b.b. who will have trouble getting work done because the boss will harass you? Adjust accordingly.</p>
+<p>We assume—due to the constraint: a lack of available data—that we can reduce &#8220;a(4)*<em>oa</em> + a(5)*<em>t</em>&#8221; to some proportion of <em>w</em> that will compensate the worker for the environment into which they are being placed. <strong><em>If</em></strong> we further assume that the worker has complete information as to hisser preferences, the worker will not accept a job that does not offer that level of compensation.</p>
+<p>So we can restate equation 2(b) using the Utility Curve assumption. Assume<br />
+<blockquote>(3a)<em> </em>a(6)*<em>w&#8221;</em> =a(4)*<em>oa</em> + a(5)*<em>t</em></p></blockquote>
+<p>such that w&#8221; also proportionate to <em>w</em>(and therefore <em>w&#8217;</em> as well) and a(6) is the coefficient <em>selected by the individual</em> that makes the offered wage compensatory to the opportunities for advancement and expected treatment on a Present Value basis.</p>
+<p>We can then reduce equation (2b) to<br />
+<blockquote>(3b) AcceptOffer = a(1) + a(2)*<em>w&#8217;</em> + a(6)*<em>w&#8221;</em></p></blockquote>
+<p>or, given that (a) w&#8221; is proportionate to w and w’ and (b) that the multiplier in most cases is 1, and (c) the constant (e.g., signing bonus) can be assumed without loss of generality to be 0,<br />
+<blockquote>(3b) AcceptOffer = <a href="http://lh6.ggpht.com/_wM5Pj6NF0jA/S4LGtK1zFLI/AAAAAAAAAYI/m9an9O0txXo/s1600-h/clip_image002%5B10%5D%5B2%5D.gif"><img title="clip_image002[10]" height="17" alt="clip_image002[10]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGtXR3D8I/AAAAAAAAAYM/z0Y4LZJLW8I/clip_image002%5B10%5D_thumb.gif?imgmax=800" width="11" border="0"></a></p></blockquote>
+<p>to indicate that the value varies with individuals.</p>
+<p>To concretize the example, assume that a redhead and a blonde, as above, are both offered a job. Assume further that the redhead’s compensation requirement—lower-but-still-positive opportunity for advancement—is lower than the blonde’s for will-be-harassed-and-work-will-be-impeded. That is<br />
+<blockquote><a href="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGtrWCNpI/AAAAAAAAAYQ/7qbqEBjh6Cs/s1600-h/clip_image002%5B3%5D.gif"><img title="clip_image002" height="17" alt="clip_image002" src="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGuADl1HI/AAAAAAAAAYU/ItL5uUDAlQQ/clip_image002_thumb.gif?imgmax=800" width="11" border="0"></a><em>(r)</em> < <a href="http://lh6.ggpht.com/_wM5Pj6NF0jA/S4LGufJu8WI/AAAAAAAAAYY/bCJ5HPKY9qU/s1600-h/clip_image002%5B4%5D%5B2%5D.gif"><img title="clip_image002[4]" height="17" alt="clip_image002[4]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGurcui8I/AAAAAAAAAYc/LHyPmIBGxaY/clip_image002%5B4%5D_thumb.gif?imgmax=800" width="11" border="0"></a><em>(b)</em></p></blockquote>
+<p>There are four possibilities:
+<ol>
+<li>The offered wage will be below<a href="http://lh6.ggpht.com/_wM5Pj6NF0jA/S4LGu1aIV6I/AAAAAAAAAYg/x7V53YmAXfU/s1600-h/clip_image002%5B12%5D%5B2%5D.gif"><img title="clip_image002[12]" height="17" alt="clip_image002[12]" src="http://lh5.ggpht.com/_wM5Pj6NF0jA/S4LGvWq5eZI/AAAAAAAAAYk/wQGeGPehazA/clip_image002%5B12%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(r), in which case neither will accept the job </li>
+<p>
+<li>The offered wage will be below <a href="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGvjyDDKI/AAAAAAAAAYo/o0obNhnhIk0/s1600-h/clip_image002%5B14%5D%5B2%5D.gif"><img title="clip_image002[14]" height="17" alt="clip_image002[14]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGv9ndK9I/AAAAAAAAAYs/JCTGKWNVGq0/clip_image002%5B14%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(b) but above <a href="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGwNJQUPI/AAAAAAAAAYw/gCdhbJUiZl0/s1600-h/clip_image002%5B16%5D%5B2%5D.gif"><img title="clip_image002[16]" height="17" alt="clip_image002[16]" src="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGwdpcncI/AAAAAAAAAY0/PCuAWlZujn8/clip_image002%5B16%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(r), in which case one of the two positions will be filled </li>
+<p>
+<li>The offered wage will be above <a href="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGxJBVhvI/AAAAAAAAAY4/J2c7kFEZzmk/s1600-h/clip_image002%5B18%5D%5B2%5D.gif"><img title="clip_image002[18]" height="17" alt="clip_image002[18]" src="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGxW8AvMI/AAAAAAAAAY8/vtmCm_F7pgU/clip_image002%5B18%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(b), in which case both will accept the offer and the company will have offered a higher wage than was required to fill both positions. (That the offer is what the company believes will be the employees’ s marginal product of labor [MPL] is a collateral issue.), or</li>
+<p>
+<li>The company will negotiate with each, offering the redhead <img title="clip_image002[20]" height="17" alt="clip_image002[20]" src="http://lh6.ggpht.com/_wM5Pj6NF0jA/S4LGxuQRjoI/AAAAAAAAAZA/mJVbJH7dPr0/clip_image002%5B20%5D_thumb.gif?imgmax=800" width="11" border="0">(r) and the blonde <a href="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGx3z-aJI/AAAAAAAAAZE/IFKqmnu3GBc/s1600-h/clip_image002%5B22%5D%5B2%5D.gif"><img title="clip_image002[22]" height="17" alt="clip_image002[22]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGyI3QH8I/AAAAAAAAAZI/cizz9bm5bWU/clip_image002%5B22%5D_thumb.gif?imgmax=800" width="11" border="0"></a>(b), and everyone will be happy—so long as initial expectations were accurate (or, if you prefer, the new employees both had full information).</li>
+</ol>
+<p>Note also that there is a learning process for both the applicant and the employer. Offers and demands will be adjusted based on historic data (if both decline the offer, the next candidates of similar background will be offered more, and perceptions of growth (improvements in experience and/or education by the worker).</p>
+<p>If we generalize this, we note that there is a distribution of <a href="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGynLuVXI/AAAAAAAAAZM/UsSeWigsmCw/s1600-h/clip_image002%5B24%5D%5B2%5D.gif"><img title="clip_image002[24]" height="17" alt="clip_image002[24]" src="http://lh3.ggpht.com/_wM5Pj6NF0jA/S4LGzGVAqoI/AAAAAAAAAZQ/OoL_gHcZXUM/clip_image002%5B24%5D_thumb.gif?imgmax=800" width="11" border="0"></a> (due to Individual Preferences). If we further make simplifying assumptions—e.g., a normal distribution of <a href="http://lh5.ggpht.com/_wM5Pj6NF0jA/S4LGzUttzmI/AAAAAAAAAZU/5QDUxon_-Mg/s1600-h/clip_image002%5B26%5D%5B2%5D.gif"><img title="clip_image002[26]" height="17" alt="clip_image002[26]" src="http://lh4.ggpht.com/_wM5Pj6NF0jA/S4LGzyCWkpI/AAAAAAAAAZY/n2fVQtgrOxw/clip_image002%5B26%5D_thumb.gif?imgmax=800" width="11" border="0"></a> among the population—we come to the conceit of the &#8220;<a href="http://en.wikipedia.org/wiki/Reservation_wage" target="_blank">reservation wage</a>,&#8221; and all the economic literature that is attendant upon it.</p>
+<p>So that is how you build an economic model.  The question then becomes: how do you <em>use </em>it?  A relatively short (though it does incorporate a micro model) discussion of that continues below the fold.</p>
+<p><a name="more"></a><br />The problem—if it is one (I’m inclined to argue it is; YMMV)—is that, having built a model in which all the proxying assumptions are &#8220;simplified&#8221; into a single variable, we lose some granularity, having made a trade-off for the sake of measurement.</p>
+<p>Accordingly, a change in the &#8220;reservation wage&#8221; may not in itself tell us whether the real wage has gone up or the work environment has become, on balance, more or less acceptable.</p>
+<p>Again, an example, one that will be familiar to students of microeconomics. You are given two choices: (1) you can receive $100 right here and now or (2) you can travel a known distance (say, five miles)—with a finite chance of death or injury—and receive $1,000,000 on completion.</p>
+<p>Surroundings, at this point, matter. If the five miles traveled is as an American soldier in full uniform walking outside of the Green Zone, you might well choose $100. Even when you are native to the area, the choice may vary: walking five miles through one gang&#8217;s territory is a different option than traveling that distance through different territories. Or even a pure environmental matter may have an effect: Walking five miles through a desert with no canteen, or having to swim five miles from shore in a dangerous waters, is not the same risk as walking five miles down an unpaved dirt road in the middle of the day. Even if you would be required “only” to walk down a heavily-used interstate highway with no shoulder or sidewalks, discretion may be the better part of valor.</p>
+<p>Over time, through the “learning process” (op cit. Arrow, 1962, as all good op cits must), the dollars offered will be adjusted so that the payouts balance on a risk-adjusted basis. (Collaterally, there may be other reasons for the greater payouts; signaling by any other name.)</p>
+<p>Now suppose the landscape changes. There is a canteen every half-mile in the desert. A gang is run out of its territory, or takes over another&#8217;s territory. The Green Zone becomes larger.</p>
+<p>The balance has changed; the risk is different. The job is demonstrably different, and therefore requires lower (higher) compensation. But the difference has nothing directly to do with the base salary/benefits requirement and everything to do with the <em>overall attractiveness </em>and/or <em>treatment received</em>.</p>
+<p>If we were to forget that, we would conclude that there is more demand for the job itself, and therefore people are willing to take a lower salary. If, on the other hand, we keep in mind that there are more factors to the reservation wage than just the salary itself, we realize that producing a more pleasant work atmosphere is beneficial to our firm, as it enables us both to present a good face to clients <em>and</em> to reduce our cost of labor.</p>
+<p>The first type of economist probably should be avoided, as he adds very little value to the discussion of how to use the model.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/how-to-build-an-economic-model.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Those Low Rates</title>
+		<link>./../../2010/01/those-low-rates.html</link>
+		<comments>./../../2010/01/those-low-rates.html#comments</comments>
+		<pubDate>Wed, 06 Jan 2010 20:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bernanke]]></category>
+		<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[employment/population ratio]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[NAIRU]]></category>
+		<category><![CDATA[the fed]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/those-low-rates.html</guid>
+		<description><![CDATA[Via (what else?) Alea&#8217;s Twitter feed, John Taylor defends himself against Ben Bernanke: &#8220;The evidence is overwhelming that those low interest rates were not only unusually low but they logically were a factor in the housing boom and therefore ultimately the bust,&#8221; Taylor, a Stanford University economist, said in an interview today in Atlanta. It&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via (what else?) <a href="http://www.aleablog.com/">Alea&#8217;s</a> <a href="http://twitter.com/alea_">Twitter feed</a>, <a href="http://www.businessweek.com/news/2010-01-05/taylor-disputes-bernanke-on-bubble-says-low-rates-played-role.html">John Taylor defends himself against Ben Bernanke</a>:<br />
+<blockquote>&#8220;The evidence is overwhelming that those low interest rates were not only unusually low but they logically were a factor in the housing boom and therefore ultimately the bust,&#8221; Taylor, a Stanford University economist, said in an interview today in Atlanta.</p></blockquote>
+<p>It&#8217;s not actually that they&#8217;re not saying the same thing.  Bernanke argued (and I <a href="http://angrybear.blogspot.com/2010/01/bernanke-we-didnt-do-good-job.html">agreed</a>) that low rates did not <em>cause</em> the housing bubble.  We have had low rates without producing housing bubbles before. (Other asset bubbles are another question.)  Indeed, the last lasting housing bubble peaked just as the Federal Funds rate did:
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/S0Tmmx0VI-I/AAAAAAAAAXM/aAEuvpvGnOw/s1600-h/FedFunds8791.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/S0Tmmx0VI-I/AAAAAAAAAXM/aAEuvpvGnOw/s400/FedFunds8791.JPG" border="0" alt=""></a></p>
+<p>More accurately (and also via ATF), Caroline Baum <a href="http://www.bloomberg.com/apps/news?pid=20601039&#038;sid=aEOlHv_s1HWw">takes Bernanke to task for sleight-of-hand</a>:</p>
+<blockquote><p>For example, Bernanke takes great pains to rebut criticism that the funds rate was well below where the Taylor Rule&#8230;suggested it should be following the 2001 recession. The Taylor Rule uses actual inflation versus target inflation and actual gross domestic product versus potential GDP to determine the appropriate level of the funds rate.</p>
+<p>Substitute forecast inflation for actual inflation, and the personal consumption expenditures price index for the consumer price index, and &#8212; voila! &#8212; monetary policy looks far less accommodating, Bernanke said.</p>
+<p>It’s always easier to start with a desired conclusion and retrofit a model or equation to prove it.</p></blockquote>
+<p>Ouch.  Is it a great day when the journalist is making more sense about the economist&#8217;s work than another economist is?</p>
+<p>But more to the point, the argument that rates were kept unnaturally low from ca. 2002 through ca. 2005 depends very much on the idea that the Fed does not have two jobs. (Once again, h/t to <a href="http://www.prospect.org/csnc/blogs/beat_the_press_archive?month=12&#038;year=2009&#038;base_name=if_bernanke_did_not_know_the_f">Dean Baker</a>.)</p>
+<p>The other half below the break<br /><a name="more"></a><br />As Baker notes at the link above, &#8220;the dual mandate [of the Fed] is full employment (defined as 4.0 percent unemployment) and price stability.&#8221;</p>
+<p>Let&#8217;s be generous.  I&#8217;ve plotted the Civilian Employment/Population Ratio and the Official Unemployment Rate below.  The blue line at 4.5 applies only to the Unemployment Rate (red line). (I didn&#8217;t plot it at 4.0 because that would be cruel.)
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/S0UBFDp8PEI/AAAAAAAAAXc/MJ8r-Y7T1cg/s1600-h/Employ.GIF"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/S0UBFDp8PEI/AAAAAAAAAXc/MJ8r-Y7T1cg/s400/Employ.GIF" border="0" alt=""></a></p>
+<p>So what we have is a situation where (1) the Employment/Population Ratio by the end of 2006 is barely back near the level it was at the <em>end</em> of the recession of 2001 and (2) it is only near the end of 2006 that the Official Unemployment Rates <em>approaches</em> the official target rate (which it hadn&#8217;t seen since before the 2001 recession).</p>
+<p>It seems apparent that Taylor&#8217;s &#8220;Rule&#8221; (which considers inflation and GDP, but not employment <em>per se</em>) is not compatible with official Fed mandates.  In such a context, Caroline Baum&#8217;s &#8220;gotcha&#8221; is more a case of her using inappropriate variables—and Bernanke substituting a more appropriate model, given the Fed&#8217;s mandates—than it is a case of Bernanke &#8220;retrofitting.&#8221;</p>
+<p>No wonder John Taylor says we should worry about inflation; in his world, we never have to worry about unemployment, so long as there are enough bubbles to inflate GDP.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/those-low-rates.html/feed/index.html</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>scientists &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Scientists, Republicans and Conservatives</title>
+		<link>./../../2011/01/scientists-republicans-and-conservatives.html</link>
+		<comments>./../../2011/01/scientists-republicans-and-conservatives.html#respond</comments>
+		<pubDate>Wed, 05 Jan 2011 20:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[scientists]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/scientists-republicans-and-conservatives.html</guid>
+		<description><![CDATA[by Mike KimelScientists, Republicans and ConservativesCross posted at the Presimetrics blog. According to a Pew poll, only 6% of scientists self-identify as Republicans, and only 9% as conservative. Figure 1 Birds of a feather and all of that. I meant to post on this a while back &#8211; I&#8217;m about a year and a half [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong><br /><strong><br />Scientists, Republicans and Conservatives</strong><br />Cross posted at the <a href="http://www.presimetrics.com/blog/?p=289">Presimetrics blog</a>.</p>
+<p>According to a <a href="http://people-press.org/report/528/">Pew poll</a>, only 6% of scientists self-identify as Republicans, and only 9% as conservative.</p>
+<p><a href="http://1.bp.blogspot.com/_8UVGnCIfOVk/TSTGJPkWV_I/AAAAAAAAAgU/NWpIgrpKXfA/s1600/pewpoll.bmp"><img src="http://1.bp.blogspot.com/_8UVGnCIfOVk/TSTGJPkWV_I/AAAAAAAAAgU/NWpIgrpKXfA/s400/pewpoll.bmp" border="0" alt=""></a>Figure 1</p>
+<p>Birds of a feather and all of that.   </p>
+<p>I meant to post on this a while back &#8211; I&#8217;m about a year and a half late.  I don&#8217;t remember where I first saw the link to it &#8211; sorry about that.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/scientists-republicans-and-conservatives.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

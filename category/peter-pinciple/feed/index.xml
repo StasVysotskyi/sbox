@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Peter Pinciple &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>No One Could Have Predicted, Non-Finance Edition</title>
+		<link>./../../2009/04/no-one-could-have-predicted-non-finance-edition.html</link>
+		<comments>./../../2009/04/no-one-could-have-predicted-non-finance-edition.html#respond</comments>
+		<pubDate>Fri, 10 Apr 2009 18:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[pedagogy]]></category>
+		<category><![CDATA[Peter Pinciple]]></category>
+		<category><![CDATA[Politics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/no-one-could-have-predicted-non-finance-edition.html</guid>
+		<description><![CDATA[That Bob Kerrey would be a CF* choice for running a school. *We don&#8217;t write out this word on a family blog. For those who don&#8217;t recognize the abbreviation, see James Kunstler.]]></description>
+				<content:encoded><![CDATA[<p>That <a target="_blank" href="http://www.google.ca/search?hl=en&#038;as_q=&#038;as_epq=Bob+Kerrey&#038;as_oq=&#038;as_eq=&#038;num=10&#038;lr=&#038;as_filetype=&#038;ft=i&#038;as_sitesearch=www.eschatonblog.com&#038;as_qdr=all&#038;as_rights=&#038;as_occt=any&#038;cr=&#038;as_nlo=&#038;as_nhi=&#038;safe=images">Bob Kerrey</a> would <a target="_blank" href="http://firemeganmcardle.blogspot.com/2009/04/wildly-off-topic.html">be a CF* choice for running a school</a>.</p>
+<p>*We don&#8217;t write out this word on a family blog. For those who don&#8217;t recognize the abbreviation, see <a target="_blank" href="http://jameshowardkunstler.typepad.com/clusterfuck_nation/">James Kunstler</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/no-one-could-have-predicted-non-finance-edition.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

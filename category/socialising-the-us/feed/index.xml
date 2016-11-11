@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Socialising the US &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>In Which I Fail Basic Budget Math</title>
+		<link>./../../2008/09/in-which-i-fail-basic-budget-math.html</link>
+		<comments>./../../2008/09/in-which-i-fail-basic-budget-math.html#respond</comments>
+		<pubDate>Mon, 22 Sep 2008 08:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[privatization]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[Socialising the US]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/in-which-i-fail-basic-budget-math.html</guid>
+		<description><![CDATA[CNN does some he-said, she-said, but throws in some data: The administration&#8217;s proposal also requests that Congress authorize an increase to the nation&#8217;s debt ceiling. Currently, it&#8217;s set to rise to $10.6 trillion for fiscal year 2009 &#8211; which runs from October 2008 through September 2009. But the proposal requests that limit be increased to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>CNN does some he-said, she-said, but <a href="http://money.cnn.com/2008/09/21/news/economy/bailout_proposal_Sunday/index.htm">throws in some data</a>:<br />
+<blockquote>The administration&#8217;s proposal also requests that Congress authorize an increase to the nation&#8217;s debt ceiling. Currently, it&#8217;s set to rise to $10.6 trillion for fiscal year 2009 &#8211; which runs from October 2008 through September 2009. But the proposal requests that limit be increased to $11.315 trillion to allow for the purchases of mortgage-backed assets. [emphasis mine]</p></blockquote>
+<p>Now, strangely, I have always heard that assets have a positive value.  When I buy $100 worth of a stock—say, PWND—my Net Asset Value doesn&#8217;t change.  The same should be true of buying a MBS worth $0.30 on the dollar.</p>
+<p>So why would we need to increase the deficit ceiling by $700,000,000,000 if we&#8217;re buying assets worth $700,000,000,000?</p>
+<p>The only reasonable conclusion is that we plan to pay $700,000,000,000 <strong><em>above market</em></strong> for the securities.  No wonder it has to be &#8220;clean and quick.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/in-which-i-fail-basic-budget-math.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Placeholder Post: Question of the Day</title>
+		<link>./../../2008/09/placeholder-post-question-of-the-day.html</link>
+		<comments>./../../2008/09/placeholder-post-question-of-the-day.html#respond</comments>
+		<pubDate>Wed, 17 Sep 2008 13:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[Socialising the US]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/placeholder-post-question-of-the-day.html</guid>
+		<description><![CDATA[If Barclay&#8217;s had bought Lehman over last weekend, would the Fed still have (needed to) intervened in the case of AIG? Discuss amongst yourselves.]]></description>
+				<content:encoded><![CDATA[<p>If Barclay&#8217;s had bought Lehman over last weekend, would the Fed still have (needed to) intervened in the case of AIG?</p>
+<p>Discuss amongst yourselves.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/placeholder-post-question-of-the-day.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

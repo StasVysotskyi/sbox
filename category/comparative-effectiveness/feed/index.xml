@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comparative effectiveness &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Comparative Effectiveness Research</title>
+		<link>./../../2009/11/comparative-effectiveness-research.html</link>
+		<comments>./../../2009/11/comparative-effectiveness-research.html#comments</comments>
+		<pubDate>Wed, 25 Nov 2009 14:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[comparative effectiveness]]></category>
+		<category><![CDATA[healthcare rationing]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/comparative-effectiveness-research.html</guid>
+		<description><![CDATA[by Tom aka Rusty Rustbelt Comparative Effectiveness Research (CER) may have inadvertently lost credibility even before health care reform is actually launched. CER is the darling of the government-dominated health reform movement (not a government take-over, to be clear). The use of evidence-based medicine when combined with cost-benefit analysis has the potential to save a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom aka Rusty Rustbelt</p>
+<p>Comparative Effectiveness Research (CER) may have inadvertently lost credibility even before health care reform is actually launched.</p>
+<p>CER is the darling of the government-dominated health reform movement (not a government take-over, to be clear). The use of evidence-based medicine when combined with cost-benefit analysis has the potential to save a great deal of money while better serving the patients. Many see downsides though; too rigid protocols and interference with physician judgment, or the dirty “R” word, rationing.</p>
+<p>The U.S. Preventive Services Task Force recently released a study on various breast cancer screening modalities, recommending more limited screening protocols, particularly delaying routine mammography until age 50 (except in women with unusual risk factors).</p>
+<p>Kah – boom!</p>
+<p>USPSTF points out film mammography does cut mortality, with the greatest reductions in women over 50, with the best results in the age 60 – 69 cohort. Film mammography does carry a risk of false positives and the pain and inconvenience of unnecessary biopsies.</p>
+<p>USPSTF also recommends ceasing mammography on women over 74, citing a lack of reliable evidence of reduced mortality.</p>
+<p>There was a huge backlash from women, physicians, cancer activists and some health care associations.</p>
+<p>USPSTF also recommends against teaching women to perform ”breast self-exam” (BSE) which has been a standard tool for decades. More backlash.</p>
+<p>USPSTF does point out that digital and MRI mammography do not show, at this time, significant improvement over film mammography, but do have greater costs. </p>
+<p>None of the conclusion appear to have been made on strong and startling statistics, but on think pros and cons, as one might expect from quants and scientists.</p>
+<p>Women apparently want a little less quantitative analysis and a lot more consideration.</p>
+<p><a href="http://www.annals.org/content/151/10/716.full" target="_blank">USPSTF report</a></p>
+<p>cross-posted at <a href="http://healthcarethinktank.blogspot.com/" target="_blank">Health care think tank</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/comparative-effectiveness-research.html/feed/index.html</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

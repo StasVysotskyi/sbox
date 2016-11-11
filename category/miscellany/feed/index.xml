@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>miscellany &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Links and Short Takes</title>
+		<link>./../../2008/12/links-and-short-takes.html</link>
+		<comments>./../../2008/12/links-and-short-takes.html#respond</comments>
+		<pubDate>Tue, 16 Dec 2008 02:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[miscellany]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/links-and-short-takes.html</guid>
+		<description><![CDATA[Tom Bozzo finds that insufficient blogging time is clogging up his copies of Firefox and NetNewsWire with almost-blogged articles. Here are a few things that have caught my attention recently, in no particular order&#8230; Fascinating dispute between Cerberus and Daimler over the sale of the troubled littlest member of the Detroit Three. Shorter private equity [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tom Bozzo</p>
+<p>finds that insufficient blogging time is clogging up his copies of Firefox and NetNewsWire with almost-blogged articles.  Here are a few things that have caught my attention recently, in no particular order&#8230;</p>
+<p>Fascinating <a href="http://news.yahoo.com/s/ap/20081126/ap_on_bi_ge/chrysler_cerberus">dispute between Cerberus and Daimler</a> over the sale of the troubled littlest member of the Detroit Three.  Shorter private equity sharps: we wuz robbed!  There may be reasons to forestall Chrysler&#8217;s demise, but none to save Cerberus&#8217;s equity.</p>
+<p>&#8220;<a href="http://www.earthtrack.net/earthtrack/library/FiscalFission.pdf">Fiscal Fission: The Economic Failure of Nuclear Power</a>&#8221; (warning PDF, via <a href="http://gristmill.grist.org/story/2008/5/15/104213/829">Grist</a>), a Greenpeace-sponsored report on nuclear power subsidies — using authoritative sources notwithstanding the interested sponsor.  I&#8217;d been looking for quantifications of nuclear subsidies after a <a href="http://www.marginalrevolution.com/marginalrevolution/2008/11/wind-farming.html">MR post</a> accused wind producers of subsidy farming and Alex Tabarrok suggested that the obvious green power solution is nuclear.  I can countenance expanded atom-smashing for some reasons, but freedom from explicit and implicit subsidies isn&#8217;t one of them.  Related: a European Union <a href="http://themes.eea.europa.eu/Sectors_and_activities/energy/indicators/EN35%2C2007.04/EN35_EU25_External_costs_2006.pdf">report</a> (PDF) on external costs of electricity production.</p>
+<p>Here&#8217;s <a href="http://tpmcafe.talkingpointsmemo.com/2008/12/04/recovery_prescription_build_br/">Yochal Benkler at TPMCafé</a> on bringing fiber to the home so Americans in general can enjoy first-world intertubes, and an <a href="http://telcom2935.blogspot.com/2007/10/returns-from-verizon-fios-investment.html">older post by Pitt&#8217;s Martin Weiss</a> on Verizon&#8217;s policy of cutting FiOS subscribers&#8217; copper loops.  Modernization is an element of the <a href="http://change.gov/agenda/economy_agenda/">Obama economic plan</a>; both posts raise interesting issues regarding infrastructure ownership.  Seems obvious to me that there&#8217;s a big divergence between social and private returns for fiber to the home, and little evidence of coherent policy on infrastructure financing and/or ownership.  Also: the <a href="http://gigaom.com/2007/09/02/verizon-fios-100-mbps/">chicken-vs-egg problem</a> for 100Mbps home internet.</p>
+<p>James Wimberly has <a href="http://www.samefacts.com/archives/technology_and_society_/2008/12/dumb_user_meets_smart_grid.php">smart grid do&#8217;s and don&#8217;ts</a> at the RBC, given that any such technology must be robust to dumb users.  I dunno if the payoff to having smart appliances negotiating with the smart grid is generally worth the hassle versus just pursuing obvious efficiencies through standards (lighting, older appliances, energy vampires) — cf. <a href="http://www.prospect.org/csnc/blogs/ezraklein_archive?month=12&#038;year=2008&#038;base_name=remember_the_refrigerator">Ezra Klein</a>.  Most of the needed smarts are already in the systems many utilities use (and market to widely varying degrees) to shed hot-day peak loads by briefly cutting off air conditioners.  The same technology could keep future car chargers from kicking in at economically undesirable times.  Remember, a lesson from old-style regulation is that the best way of dealing with unsophisticated consumers is simplicity.</p>
+<p><a href="http://faultline.org/index.php/site/item/endangered_species_emergency/">Chris Clarke</a> brings a report on the Bush Administration&#8217;s efforts to undermine the Endangered Species Act.  What saints.  Don&#8217;t let the shoes hit you on the way out.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/links-and-short-takes.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sunday Short Takes</title>
+		<link>./../../2008/05/sunday-short-takes.html</link>
+		<comments>./../../2008/05/sunday-short-takes.html#respond</comments>
+		<pubDate>Mon, 19 May 2008 01:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[miscellany]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/sunday-short-takes.html</guid>
+		<description><![CDATA[1. The stories about the problem of mechanical-dial fuel pumps being unable to register prices over $3.999/gallon make me wonder, why can&#8217;t the stations needing to charge $4 or more simply ignore the reported purchase amount and calculate the correct amount of the sale from the quantity and the actual price? The obstacle seems to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>1. The stories about the problem of mechanical-dial fuel pumps being unable to register prices over $3.999/gallon make me wonder, why can&#8217;t the stations needing to charge $4 or more simply ignore the reported purchase amount and calculate the correct amount of the sale from the quantity and the actual price?  The <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/05/15/AR2008051503756.html">obstacle</a> seems to be one of weights and measures regulations rather than a technically workable solution being costly. (According to the WaPo story, a station got into trouble with the State of Virginia for setting a pump to the half-gallon price and adjusting the sale at the register, which certainly could be confusing in the absence of very clear signage.)</p>
+<p>Note that the pump need only accurately register the quantity, not the price, to enable correct computation of the sale amount.  Thus, the technical solution can be implemented for approximately $0: the price of an opaque barrier to cover the price display and a basic pocket calculator, versus the $30,000 figure sometimes quoted for new pumps with digital readouts. It may not be the apotheosis of convenience — e.g. for people trying to fill up to a dollar amount, though I can think of cheap solutions there too — but stations with the old pumps probably aren&#8217;t selling the &#8220;conveniences&#8221; of the modern automated filling station.  The regulatory barrier is not necessarily expensive to overcome, relative to the cost of retrofitting thousands of low-volume pumps (mostly in locations remote from other stations).  So the economic story is more in the &#8220;who&#8217;d&#8217;a thunk&#8221; department than anything else.</p>
+<p>2. A while back at the old blog, I&#8217;d contemplated some of the members of the crack (smoking) McCain economic team and <a href="http://atbozzo.blogspot.com/2008/03/does-anyone-really-believe-this.html">asked</a>, &#8220;Who&#8217;s next, Donald Luskin?&#8221;  Well, <a href="http://www.theonion.com/content/node/28784">life evidently imitates parody</a> yet again, as <a href="http://feeds.feedburner.com/~r/OliverWillisLikeKryptoniteToStupid/~3/292675981/">Oliver Willis</a> reads the <a href="http://cunningrealist.blogspot.com/2008/05/yeah-that-worked-out-well.html">Cunning Realist</a> who finds Luskin calling himself an &#8220;<a href="http://www.smartmoney.com/ahead-of-the-curve/index.cfm?story=20080208-futures-bet-on-obama">unpaid economic advisor</a>&#8221; to the McCain campaign.  Doesn&#8217;t an equation of marginal benefits and marginal costs require Luskin to pay McCain to take his advice?  (As necessary, go to the Great Gazoogle and enter the search term &#8216;Luskin &#8220;stupidest man alive&#8221; site:delong.typepad.com&#8217;.)</p>
+<p>3.  Philadelphia International Airport&#8217;s shabby Terminal E still isn&#8217;t anyplace I&#8217;d want to be forced into an extended stay, but hooray for PHL for offering quasi-free WiFi.  (I say quasi-free in that the terms-and-conditions page effectively serves as an ad for wireless service provider AT&#038;T.)  Spoke airports — notably excepting my <a href="http://www.msnairport.com/">home base</a> — have mostly gotten the clue that free wireless makes passengers happy, but hubs are still mostly on pay networks.  Though the ad-supported wireless at Denver worked pretty well, too.  By comparison, I don&#8217;t seem to be able to visit non-free Detroit or Minneapolis without finding dead spots and bum routers.  I wonder if the quasi-free services actually offer better service since, in contrast to subscriber-supported services, they&#8217;re sure not to pay off (one way or another) if they can&#8217;t make connections.</p>
+<p>4. I got to see quite the 35-mph non-offset frontal crash into a deformable barrier the other day,  the barrier in question being a red-light-running pickup truck T-boned by a late-model Acura TSX (a/k/a Honda Accord in Europe and Japan).  Let&#8217;s just say that it was an excellent safety advertisement for Honda in that the car&#8217;s front end was demolished but the driver walked away merely a little dazed from the airbag detonation.  In the pickup was a very sick infant on the way to the A.I. du Pont Children&#8217;s Hospital in Wilmington, Delaware, which fortunately was only a couple blocks from the crash site; the poor kid&#8217;s understandably distraught dad was playing ambulance and ran out of luck.  PSA: Very Bad Idea.  If you need to get to the hospital that fast, call a real ambulance.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/sunday-short-takes.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

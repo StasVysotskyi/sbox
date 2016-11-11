@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Moark Thoma &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Caving or strengthening</title>
+		<link>./../../2013/01/caving-or-strengthening.html</link>
+		<comments>./../../2013/01/caving-or-strengthening.html#respond</comments>
+		<pubDate>Mon, 14 Jan 2013 06:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Moark Thoma]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/caving-or-strengthening.html</guid>
+		<description><![CDATA[Paul Krugman: &#8230; I get calls. The White House insists that it is absolutely, positively not going to cave or indeed even negotiate over the debt ceiling — that it rejected the coin option as a gesture of strength, as a way to put the onus for avoiding default entirely on the GOP. Truth or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote><p><a href="http://krugman.blogs.nytimes.com/2013/01/13/by-george/" target="_blank">Paul Krugman</a>:<br />
+<blockquote>&#8230; I get calls. The White House insists that it is absolutely, positively not going to cave or indeed even negotiate over the debt ceiling — that it rejected the coin option as a gesture of strength, as a way to put the onus for avoiding default entirely on the GOP. Truth or famous last words? I guess we’ll find out.</p></blockquote>
+<p>The problem is that the White House&#8217;s definition of what it means to cave may be quite different from my own. If the White House believes entitlements need to be cut, and agrees to &#8220;strengthen&#8221; programs in this way, is that a cave? Maybe the &#8220;or even negotiate&#8221; clause covers this, but I&#8217;m wary.</p></blockquote>
+<p><a href="http://economistsview.typepad.com/economistsview/2013/01/the-white-house-insists-that-it-is-absolutely-positively-not-going-to-cave-or-indeed-even-negotiate-.html" target="_blank">says Mark Thoma</a> at <i>Economists View</i>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/caving-or-strengthening.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

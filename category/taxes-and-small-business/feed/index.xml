@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>taxes and small business &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Business income or personal income</title>
+		<link>./../../2012/12/business-income-or-personal-income.html</link>
+		<comments>./../../2012/12/business-income-or-personal-income.html#respond</comments>
+		<pubDate>Tue, 04 Dec 2012 04:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Daniel Becker]]></category>
+		<category><![CDATA[small business]]></category>
+		<category><![CDATA[taxes and small business]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/business-income-or-personal-income.html</guid>
+		<description><![CDATA[In response to Small businesses and tax cuts and reporting by Daniel Becker, reader Betty, a long time small business owner and not a sole proprietor herself in one of the richer towns of MA with a median income over $180,000 , asked: &#8230; I&#8217;ve always been baffled by the Republican complaint that it would [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In response to <a href="http://www.angrybearblog.com/2012/11/small-businesses-tax-cuts-and-reporting.html" target="_blank">Small businesses and tax cuts and reporting</a> by Daniel Becker, reader Betty, a long time small business owner and not a sole proprietor herself in one of the richer towns of MA with a median income over $180,000 , asked:</p>
+<blockquote><p>&#8230; I&#8217;ve always been baffled by the Republican complaint that it would be bad for the BUSINESSES of small business owners with incomes over $250,000 to be lumped with the Rich and have their taxes go up, or not go down, if the Bush tax cuts were not extended for the wealthy.  What I don&#8217;t get is this:  Even if the business earns millions, all business expenses are deductible. What&#8217;s left that&#8217;s taxable (the profit)  is the PERSONAL INCOME of the owner or owners, right?  So how does a higher tax adversely affect the business? Or are these large small businesses just corporations in disguise?</p></blockquote>
+<p><i>Dan Becker</i> replied to Betty in two excellent posts from the past:</p>
+<p>
+<blockquote>I posted back in July of 2008 specifically addressing the <a href="http://www.angrybearblog.com/2008/07/myth-of-argument-is-in-conflation.html" target="_blank">conflation of income and business taxes</a> as Betty is noting.</p>
+<p>Unfortunately, too many business people don&#8217;t get it either as I found after having a heated discussion with one of my colleagues.  He insisted I must not be incorporated because I did not know what I was talking about.<br />At the time I posted it, a couple others at AB commented that I was making the issue too complicated and that the average reader did not need to know such details.  Here we are 2012 discussing it again.  We can not expect to solve our problems is we are going to avoid deeper understanding of the words we use and the concepts those word represent.<br />I suggest my posting on the 1936 tax tables is another one of those postings that not enough people have read.  To many people really have little to no idea <a href="http://www.angrybearblog.com/2012/03/defining-rich-vi-1936-tax-tables.html" target="_blank">just what is being talked about when someone says &#8220;income tax&#8221; or &#8220;marginal rates&#8221;</a><a href="http://www.angrybearblog.com/2012/03/defining-rich-vi-1936-tax-tables.html" target="_blank">. </a></p></blockquote>
+<p>(Dan C here&#8230;The small businesses many people, in my estimation, generally associate the term &#8216;small business&#8217; are probably &#8216;companies&#8217; under 50 employees but with a variety of legal and IRS oriented classifications.  I may post updated versions of these posts&#8230;people tend to approach taxes with more religious fervor than understanding).</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/business-income-or-personal-income.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

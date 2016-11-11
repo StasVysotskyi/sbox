@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stiglitz &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>La cupidité</title>
+		<link>./../../2010/02/la-cupidite.html</link>
+		<comments>./../../2010/02/la-cupidite.html#respond</comments>
+		<pubDate>Sun, 14 Feb 2010 20:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[greed]]></category>
+		<category><![CDATA[incentives]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[Stiglitz]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/02/la-cupidite.html</guid>
+		<description><![CDATA[If I&#8217;m reading this link from my usual news source correctly, Joseph Stiglitz&#8217;s new book Freefall: America, Free Markets, and the Sinking of the World Economy is being sold in France under the title Le triomphe de la cupidité (The Triumph of Greed). The sole B&#038;N customer review so far is a confused jumble: If [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If I&#8217;m reading <a href="http://www.lemonde.fr/economie/article/2010/02/12/la-machine-stiglitz_1304793_3234.html">this link</a> from <a href="http://twitter.com/alea_">my usual news source</a> correctly, Joseph Stiglitz&#8217;s new book <em><a href="http://search.barnesandnoble.com/Freefall/Joseph-E-Stiglitz/e/9780393075960/?itm=1&#038;usri=freefall+america+free+markets+and+the+sinking">Freefall: America, Free Markets, and the Sinking of the World Economy</a></em> is being sold in France under the title <em><a href="http://www.amazon.fr/gp/product/2918597058/ref=s9_simh_gw_p14_t1?pf_rd_m=A1X6FK5RDHNB96&#038;pf_rd_s=center-1&#038;pf_rd_r=0CM659C5FEDBRRY3Q3YS&#038;pf_rd_t=101&#038;pf_rd_p=463375513&#038;pf_rd_i=405320">Le triomphe de la cupidité (The Triumph of Greed)</a></em>.</p>
+<p>The sole B&#038;N customer review so far is a confused jumble:<br />
+<blockquote>If you take away the authors attempts to sell the need for big government and socialism it is a excellent book on present problems in the financial markets. He shows how we are living beyond our means and that in the future our living standard will probably go down. He does a excellent job at examining the large banks failures and the need for regulations to protect the public from the large banks greed.</p></blockquote>
+<p>If you take away the need for big government, you get the need for more regulation. If you take away the need to control large bank failures, you get large bank failures produced by excess risk (&#8220;living beyond our means&#8221; = &#8220;privatize the profits, socialize the risks&#8221;).</p>
+<p>Fifteen years ago, everyone coming out of Business School was talking about how they learned about &#8220;risk.&#8221;  While it is true that those people are not running large financial institutions, they are starting to reach upper management levels. So it&#8217;s possible that &#8220;<a href="http://www.nytimes.com/2009/10/14/opinion/14trillin.html?_r=2&#038;ref=opinion&#038;pagewanted=print">smart guys started working on Wall Street</a>&#8221; won&#8217;t be the problem next time. (h/t <a href="http://norris.blogs.nytimes.com/2009/10/14/too-many-brains/">Floyd Norris</a>, again)</p>
+<p>They might get it right the next time.</p>
+<p>Is that the way to bet?</p>
+<p>Happy <s>cupidité</s> Valentine&#8217;s Day.</p>
+<p>*For the record, I was still six years away from entering it, eight from graduation.  Never let it be said I was a First Mover.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/02/la-cupidite.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

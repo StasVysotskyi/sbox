@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ballance &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Lifted from Robert’s stochastic thoughts on media</title>
+		<link>./../../2012/08/lifted-from-roberts-stochastic-thoughts-on-media.html</link>
+		<comments>./../../2012/08/lifted-from-roberts-stochastic-thoughts-on-media.html#respond</comments>
+		<pubDate>Tue, 14 Aug 2012 11:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ballance]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/lifted-from-roberts-stochastic-thoughts-on-media.html</guid>
+		<description><![CDATA[Lifted from Robert’s stochastic thoughts on media: Wish I&#8217;d Typed this Bill Nothstine · Top Commenter · Living Liberally And, to be fair to Romney [brief interlude while Bill clutches frantically, Strangelove-like, at the hand that just typed those words], if he said it on TV that can be considered at least prima facie evidence [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lifted from Robert’s stochastic thoughts on media:</p>
+<blockquote><p>Wish I&#8217;d Typed <a href="http://www.esquire.com/blogs/politics/mitt-romney-racist-ad-11644866">this</a>    </p>
+<p>Bill Nothstine · Top Commenter · Living Liberally</p>
+<p>And, to be fair to Romney [brief interlude while Bill clutches frantically, Strangelove-like, at the hand that just typed those words], if he said it on TV that can be considered at least prima facie evidence that he doesn&#8217;t believe a word of it.</p></blockquote>
+<p>and<br />
+<blockquote>Daniel Denvir just hit the jackpot with a real live Atrios link. I assume that he quotes accurately. If so, I think he has chosen <a href="http://www.citypaper.net/blogs/nakedcity/Daily-News-and-Scranton-Times-Tribune-refer-to-white-supremacists-as-white-peoples-rights-group.html?reg=y">an excellent way to build a journalism career</a>(just ask big media Matt, Glenn Greenwald and Jane Hamsher). Also, again assuming accuracy, it would seem to me that Karen Testa, East Region Editor at the AP has chosen an extremely efficient way to destroy one.<br />
+<blockquote>“What possible purpose would there be for me to send you this story when you&#8217;re trying to cause trouble for how it was written?” said an angry Karen Testa, East Region Editor at the AP. Before hanging up, she added: “That&#8217;s a good way to build a journalism career.”</p></blockquote>
+<p>Yep that&#8217;s journalism all right, based on the idea that no possible purpose is served by people who cause trouble for powerful organizations.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/lifted-from-roberts-stochastic-thoughts-on-media.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

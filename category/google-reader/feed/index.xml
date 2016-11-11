@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>google reader &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Future Blog Platform</title>
+		<link>./../../2013/03/future-blog-platform.html</link>
+		<comments>./../../2013/03/future-blog-platform.html#respond</comments>
+		<pubDate>Sat, 16 Mar 2013 13:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[google reader]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/future-blog-platform.html</guid>
+		<description><![CDATA[Shortly Angry Bear will be making the switch from Blogger to WordPress.  Blogger has served us well for ten years, but WordPress provides a much greater flexibility and capacity for our material.  Reader rjs comments on Google reader coming to an end which won&#8217;t affect us as a blog, but certainly impacts users: I imagine [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>Shortly Angry Bear will be making the switch from Blogger to WordPress.  Blogger has served us well for ten years, but WordPress provides a much greater flexibility and capacity for our material. </div>
+<p>Reader rjs comments on Google reader coming to an end which won&#8217;t affect us as a blog, but certainly impacts users:</p>
+<blockquote><p>I imagine you all know Google plans to shut down the <em>Google reader</em>; as Felix Salmon put it:</p>
+<p><a href="http://counterparties.com/t/your-daily-outrage">Your Daily Outrage</a>:  <a href="http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html">Google decides it&#8217;s cool to be evil, kills beloved product because it can</a></p>
+<p>Here&#8217;s a Change.org. petition via <em>Yves Smith</em> i just signed, for whatever it&#8217;s worth:<br /><a href="https://www.change.org/petitions/google-keep-google-reader-running">Google: Keep Google Reader Running</a></p>
+<p>I use my Google reader, including it&#8217;s site search, 3 hours a day or more for what I’m doing, in ways that would be hard to replace&#8230;</p>
+<p>(lifted from open thread and lightly edited for readability)</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/future-blog-platform.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

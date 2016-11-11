@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>enabling &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Steve Forbes on Ending the Panic</title>
+		<link>./../../2008/03/steve-forbes-on-ending-the-panic.html</link>
+		<comments>./../../2008/03/steve-forbes-on-ending-the-panic.html#respond</comments>
+		<pubDate>Fri, 21 Mar 2008 23:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[enabling]]></category>
+		<category><![CDATA[preposterous]]></category>
+		<category><![CDATA[Steve Forbes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/steve-forbes-on-ending-the-panic.html</guid>
+		<description><![CDATA[Here is &#8220;How to End the Panic&#8221; according to Steve Forbes: The U.S. Treasury Department could buy dollars in the currency exchange markets. Our allies would gladly cooperate with such an operation; their exports are being hurt more and more. The Fed could mop up some of the excess liquidity it has created since 2004, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.forbes.com/home/columnists/forbes/2008/0407/015.html">Here</a> is &#8220;How to End the Panic&#8221; according to Steve Forbes:</p>
+<blockquote><p>The U.S. Treasury Department could buy dollars in the currency exchange markets. Our allies would gladly cooperate with such an operation; their exports are being hurt more and more. The Fed could mop up some of the excess liquidity it has created since 2004, even as it makes targeted loans to beleaguered banks and financial houses.</p>
+<p>The other measure: The Treasury Department and the Fed should get together with the SEC, the Comptroller of the Currency and other bank regulators and announce that financial institutions for the next 12 months will no longer write down the value of exotic financial instruments (primarily packages of subprime mortgages). Instead, writedowns will occur only when there have been actual losses on those assets. If a mortgage defaults, a bank will then&#8211;and only then&#8211;recognize the loss.</p>
+<p>It&#8217;s preposterous to try to guess what these new instruments are worth in a time of panic. Such assets are being marked down to increasingly arbitrary low levels. But when a bank books such a loss, it must replenish depleted capital, even though cash flows for most financial firms are still positive. Worse, when forced by panicky regulators and lawsuit-fearing accountants to write down the value of these securities, institutions will dump assets in a market where there are temporarily few or no buyers. The result is a spiraling disaster. So let&#8217;s have a time-out on markdowns until we actually have real experience in what kind of losses are actually going to occur.</p>
+<p>These two steps would quickly end the panic. Until that happens, expect more trouble.</p></blockquote>
+<p>So let me get this straight&#8230;  some investment bank has a pile of opaque derivatives which in turn are based on a bunch of mortgages of unseemly provenance for homes that have collapsed in value.  When the bank bought those derivatives, it booked the earnings it expected to get from those derivatives&#8230; for the next few years.  Enron-style.  The one thing that just about everyone (Mr. Forbes seems to be an exception) has learned in the past couple of months is that a lot of those anticipated revenues aren&#8217;t going to come in.  His suggestion, in plain English, is this:  that banks be legally prevented from locating and correcting errors or even outright fraud on their books.   In other words, while the charade may have been created by a few bad actors, going forward Mr. Forbes believes everyone should play along.  And he also believes that as long as we all close our eyes, clap our hands and pretend, everything will be alright.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/steve-forbes-on-ending-the-panic.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

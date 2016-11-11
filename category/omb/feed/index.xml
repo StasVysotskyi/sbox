@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>omb &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Deficits, Debt, Debt Subject to the Limit, Off Budget, Trust Fund: Building your 2013 Toolkit</title>
+		<link>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html</link>
+		<comments>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html#respond</comments>
+		<pubDate>Thu, 03 Jan 2013 20:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[analytical perspectives on the budget]]></category>
+		<category><![CDATA[CBO]]></category>
+		<category><![CDATA[debt to the penny]]></category>
+		<category><![CDATA[omb]]></category>
+		<category><![CDATA[public debt]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html</guid>
+		<description><![CDATA[All of the terms in the post title have at least two usages, some of which map upon to common sense ideas from business or household budgeting, some not. Unfortunately the usages that don&#8217;t tend to be those used in federal budget reporting, and the result is untold confusion. Now one way out would be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>All of the terms in the post title have at least two usages, some of which map upon to common sense ideas from business or household budgeting, some not. Unfortunately the usages that don&#8217;t tend to be those used in federal budget reporting, and the result is untold confusion. Now one way out would be to listen to me. Then again the relevant line on my CV under &#8216;Budget Reporting&#8217; reads &#8216;Some Guy&#8217;, &#8216;U of Intertoobz&#8217;. So really the only way out is to start to build your own Budget, Debt and Deficit Toolkit. And this post is intended to give you a start using sources provided by the official scorekeepers of such things: the U.S. Treasury, the Congressional Budget Office (CBO), the President&#8217;s Office of Management and Budget (OMB) and the Joint Committee on Taxation (JCT).</p>
+<p>First stop is the U.S. Treasury Department&#8217;s Bureau of Public Debt and their web application <a href="http://www.treasurydirect.gov/NP/BPDLogin?application=np" target="_blank">Debt to the Penny</a>. This handy application allows you to track Total Public Debt and its two components Debt Held by the Public and Intragovernmental Holdings to the literal penny as of the close of the daily books the last business day but one. That is if you check the site on Tuesday it will give you final numbers for Friday. And a search today gave me the results for Monday the 31st (since Tuesday was a Federal Holiday) with Total Public Debt of $16,432,730,050,569.12 . This number is almost exactly the same as Debt Subject to the Limit differing only in the last seven or eight digits, which change so fast that you wouldn&#8217;t be able to see the difference. Debt Subject to the Limit is set by Congress and under current law is $16.394 trillion. With the result shown in the following official graph <a href="http://www.treasurydirect.gov/govt/charts/charts_debt.htm" target="_blank">Debt Subject to the Limit Graph</a> which shows total Public Debt Subject to the Limit (dark blue) passing through the Limit (orange) on the 31st.</p>
+<p>Without comment (we are just building a toolkit here) we can move from Debt to Deficit. Here things get more complicated but probably the simplest tool available to us from official sources is found in CBOs annual <a href="http://www.cbo.gov/publication/42905" target="_blank">The Budget and Economic Outlook: Fiscal Years 2012 to 2022</a> and the literal top line numbers from that is Summary Table 1 (click to embiggen)
+<div><a href="http://2.bp.blogspot.com/-g8SQ5G41_yo/UOXXplXP-_I/AAAAAAAABRk/7PXaavzhSZQ/s1600/CBO+Table+1-1.tiff" imageanchor="1"><img border="0" height="210" src="http://2.bp.blogspot.com/-g8SQ5G41_yo/UOXXplXP-_I/AAAAAAAABRk/7PXaavzhSZQ/s320/CBO+Table+1-1.tiff" width="320"></a></div>
+<p>Note that in this Summary table the bolded words Deficit (-) or Surplus unmodified by any adjective are unequivocably the sum of &#8216;On-budget&#8217; and &#8216;Off-budget&#8217; surplus/deficit. This isn&#8217;t the only usage of &#8216;deficit&#8217; in CBO reporting, and in a weird twist of terminology is NOT the same as what they call &#8216;primary deficit&#8217;, but it is a fair equivalent to what both CBO and the MSM term &#8216;THE deficit&#8217;. For example take a standard news story from just today <a href="http://www.christianpost.com/news/fy2011-federal-deficit-1299000000000-60984/" target="_blank">FY2011 Federal Deficit = $1,299,000,000,000</a> or just a minor update of the figure from the Table.</p>
+<p>I&#8217;ll flesh out some of the implications of this in Comments and in later posts but will leave with two points. One almost the entirety of the &#8216;Off budget&#8217; surplus of $67 billion is the result of an increase in assets of the Social Security Trust Fund. It is NOT a measure of cash flow nor does cash flow measure into it. Two the claim that &#8216;Social Security doesn&#8217;t contribute to the deficit&#8217; is not quite right. It can and does contribute to the bottom line. But in either positive (surplus) or negative (deficit) directions. And in 2011 a cash flow negative Social Security Trust Fund ran a surplus for the purposes of THE federal deficit as defined.</p>
+<p>More tools and more discussion later.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Letting the Fox Guard the Henhouse&#8230;not a metaphor!</title>
+		<link>./../../2012/05/letting-the-fox-guard-the-henhouse-not-a-metaphor.html</link>
+		<comments>./../../2012/05/letting-the-fox-guard-the-henhouse-not-a-metaphor.html#respond</comments>
+		<pubDate>Wed, 23 May 2012 16:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[food supply]]></category>
+		<category><![CDATA[omb]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/letting-the-fox-guard-the-henhouse-not-a-metaphor.html</guid>
+		<description><![CDATA[Cost savings?  I don&#8217;t know much about this industry except for the press, but I am thinking switching to vegan style, except Monsanto comes to mind. (Turn on being flip switch).  Instead of an answer. I would ask two beginning questions:  Is this a trend?  Should I be increasingly concerned about our supply chain? From [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Cost savings?  I don&#8217;t know much about this industry except for the press, but I am thinking switching to vegan style, except Monsanto comes to mind. (Turn on being flip switch).  Instead of an answer. I would ask two beginning questions:  Is this a trend?  Should I be increasingly concerned about our supply chain?</p>
+<p>From OMB Watch alert <a href="http://www.ombwatch.org/node/12039" target="_blank">Letting the Fox Guard the Hen house</a>:</p>
+<blockquote><p>The U.S. Department of Agriculture&#8217;s (USDA) Food Safety and Inspection Service (FSIS) made the front page of The New York Times this week for its proposal to change the way chickens and other poultry are inspected in processing plants before they are sent to supermarkets and butcher shops all across the country. In January, the agency published a controversial new proposal that would shift responsibility for inspections away from agency inspectors and allow employees of the slaughtering plants to judge their own handiwork. We’re not the only ones who think asking chicken producers to police themselves might be a bad idea.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/letting-the-fox-guard-the-henhouse-not-a-metaphor.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>President’s Proposals would Produce Lower Deficits than Continuing Current Policies</title>
+		<link>./../../2009/08/presidents-proposals-would-produce-lower-deficits-than-continuing-current-policies.html</link>
+		<comments>./../../2009/08/presidents-proposals-would-produce-lower-deficits-than-continuing-current-policies.html#respond</comments>
+		<pubDate>Sat, 29 Aug 2009 13:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[budget deficits]]></category>
+		<category><![CDATA[cbo projections]]></category>
+		<category><![CDATA[omb]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/presidents-proposals-would-produce-lower-deficits-than-continuing-current-policies.html</guid>
+		<description><![CDATA[by Bruce Webb That is the subtitle of the new Center for Budget and Policy Priorities (CBPP) analysis of the Aug 25th CBO and OMB Reports on projected budget deficits that is being injected into the health care debate as a reason for non-action. The CBPP analysis can be read here: New OMB and CBO [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb</p>
+<p>That is the subtitle of the new Center for Budget and Policy Priorities (CBPP) analysis of the Aug 25th CBO and OMB Reports on projected budget deficits that is being injected into the health care debate as a reason for non-action. The CBPP analysis can be read here: <a target="_blank" href="http://www.cbpp.org/cms/index.cfm?fa=view&#038;id=2901">New OMB and CBO Reports Show Continuing Current Policies Would Produce Large Deficits</a>. The authors&#8217; introduction:<br />
+<blockquote>On August 25, both the Office of Management and Budget (OMB) and the Congressional Budget Office (CBO) released updated budget projections. Some observers, comparing OMB’s estimate of the deficit over the next ten years under the President’s proposed policies ($9.1 trillion) to CBO’s “baseline” estimate of the deficit under current law ($7.1 trillion), jumped to the conclusion that the President proposes to increase the deficit dramatically. In fact, the opposite is true. The President’s proposals would produce significantly lower deficits over the next ten years than continuing current policies.<br />This and other confusions have occurred because both the OMB and CBO reports are chock-full of numbers that are hard for even seasoned budget-watchers — and almost impossible for ordinary citizens — to interpret. This brief analysis explains what some of the numbers mean, how CBO’s official baseline must be adjusted to show what CBO’s estimate of deficits would be if it assumed current policies are continued, and why even that adjusted baseline should not be compared with OMB’s estimate of deficits under the President’s policies.</p></blockquote>
+<p>The whole document is five pages long and should be read in full. But one lesson to take away is that you cannot directly compare CBO and OMB numbers, the former being bound by current law and the latter by current and proposed policy, two different things. To see the explanations from CBO and OMB try these links:<br />Orszag Press Release <a target="_blank" href="http://www.whitehouse.gov/omb/blog/09/08/25/Mid-SessionReview/">Mid-Session Review</a><br />OMB Mid-Session Review <a target="_blank" href="http://www.whitehouse.gov/omb/budget/MSR/">Mid-Session Review Web-Page</a> with link to PDF of full report.<br />CBO Director&#8217;s Blog <a target="_blank" href="http://cboblog.cbo.gov/?p=347">Comparing CBO&#8217;s and OMB&#8217;s Projections of the Federal Budget Deficit</a> with link to PDF.<br />A table below the fold .</p>
+<p><a href="http://2.bp.blogspot.com/_fjW71B3WLTQ/Spk0u71_6tI/AAAAAAAAASE/HtGJpw1RZ0o/s1600-h/CBPP_Table.jpg"><img src="http://2.bp.blogspot.com/_fjW71B3WLTQ/Spk0u71_6tI/AAAAAAAAASE/HtGJpw1RZ0o/s400/CBPP_Table.jpg" border="0" alt=""></a><br />Kevin Drum who pointed me to this has an annotated version of this table at MJ: http://www.motherjones.com/kevin-drum/2009/08/chart-day-0 where he totals the bottom line to get $10.556 trillion which is actually $574 billion below the figure CBPP comes up for an adjusted CBO number.</p>
+<p>So before people jump to conclusions about how these new OMB and CBO numbers show Obama is breaking the bank be sure you know whether you are dealing with apples and oranges both with the initial and revised numbers.</p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/presidents-proposals-would-produce-lower-deficits-than-continuing-current-policies.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

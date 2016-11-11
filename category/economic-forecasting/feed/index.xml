@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>economic forecasting &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Retail enthusiasm?</title>
+		<link>./../../2011/12/retail-enthusiasm.html</link>
+		<comments>./../../2011/12/retail-enthusiasm.html#respond</comments>
+		<pubDate>Wed, 14 Dec 2011 15:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econnomic growth]]></category>
+		<category><![CDATA[economic forecasting]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[retail sales]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/12/retail-enthusiasm.html</guid>
+		<description><![CDATA[Barry Ritholz keeps us abreast of retail spending: Last month, I published a post on the nonsense that is Black Friday sales (No, Black Friday Sales Were Not Up 16% (not even 6%). That evolved into a Washington Post article, Did Black Friday save the season? Beware the retail hype. Today, we learn that many [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.ritholtz.com/blog/2011/12/retail-sales-dissappoint-on-false-black-friday-reports/">Barry Ritholz</a> keeps us abreast of retail spending:<br />
+<blockquote>
+<p>Last month, I published a post on the nonsense that is Black Friday sales (<a href="http://www.ritholtz.com/blog/2011/11/no-black-friday-sales-were-not-up-16-not-even-6/">No, Black Friday Sales Were Not Up 16% (not even 6%</a>). That evolved into a Washington Post article, <a href="http://www.washingtonpost.com/business/did-black-friday-save-the-season-beware-the-retail-hype/2011/11/29/gIQAfNCUMO_story.html"><em>Did Black Friday save the season? Beware the retail hype</em></a>.</p>
+<p>Today, we learn that many breathless forecasts from NRF to ShopperTrak were so much <strong>hot air </strong>and <strong>empty hype</strong>: Sales were flat to up only modestly. Total U.S. retail sales in November gained only 0.2%, following a 0.6% October. Even that month was revised downwards.</p>
+<p><em>Retailers themselves may pay the price for their massive discounting</em>: Not only might their quarterly earnings be affected by the margin pressure, but they continually train investors shoppers to hunt for discounts. Retail therapy and sport shopping are being replaced by extreme couponing and sites like Living Social and Groupon.</p>
+<p>…</p>
+<p><em>See also:</em>    <br />Retail Sales in U.S. Climbed Less Than Forecast (<a href="http://www.bloomberg.com/news/2011-12-13/u-s-retail-sales-climb-less-than-forecast-at-slowest-pace-in-five-months.html">Bloomberg</a>)</p>
+<p>U.S. retail sales rise slightly in November (<a href="http://www.marketwatch.com/story/us-retail-sales-rise-slightly-in-november-2011-12-13">Marketwatch</a>)</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/12/retail-enthusiasm.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

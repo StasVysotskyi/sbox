@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LTCM &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Reads of the Day for the start of 2009</title>
+		<link>./../../2009/01/reads-of-the-day-for-the-start-of-2009.html</link>
+		<comments>./../../2009/01/reads-of-the-day-for-the-start-of-2009.html#respond</comments>
+		<pubDate>Thu, 01 Jan 2009 16:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[chess]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[investments]]></category>
+		<category><![CDATA[jourmalism]]></category>
+		<category><![CDATA[LTCM]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[NYT]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/reads-of-the-day-for-the-start-of-2009.html</guid>
+		<description><![CDATA[All (somewhat***) via Mark Thoma: Thomas Frank in the WSJ tells me why I always disagree with Robert (and the Other Economists) on the role of rating agencies: And who makes sure that Moody&#8217;s and its competitors downgrade what deserves to be downgraded? In 1999 the obvious answer would have been: the market, with its [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>All (somewhat***) <a href="http://economistsview.typepad.com/economistsview/2009/01/links-for-2009.html">via Mark Thoma</a>:</p>
+<p><a href="http://online.wsj.com/article/SB123069094735544743.html">Thomas Frank in the WSJ</a> tells me why I always disagree with Robert (and the Other Economists) on the role of rating agencies:<br />
+<blockquote>And who makes sure that Moody&#8217;s and its competitors downgrade what deserves to be downgraded? In 1999 the obvious answer would have been: the market, with its fantastic self-regulating powers.</p></blockquote>
+<p>If you look at the spreads of various debt products, you can see that the market <em>was</em> doing that type of job even in 2007.  For instance, the debt market priced [&#8220;rated&#8221;] Bear Stearns&#8217;s five-year bond issue in August 2007 at 245 over: rather closer to &#8220;junk&#8221; status than its rating would have implied. If you compare the debt and stock markets, it&#8217;s easy to see which is closer to &#8220;rating.&#8221; Unfortunately, the area where information is more valuable* is not the one discussed and understood in the press, where BSC kept trading up for several more months.</p>
+<p>If a market &#8220;regulates&#8221; but no one notices, does it make the WSJ?</p>
+<p>Brad Setser <a href="http://blogs.cfr.org/setser/2008/12/31/relitigating-1998-at-the-end-of-2008/">finishes the destruction</a> of Tyler Cowen&#8217;s LTCM &#8220;argument&#8221; begun by Buce, while revealing its underbelly:<br />
+<blockquote>The big banks called to the New York Fed were the creditors of LTCM and they were in some sense “bailed-in.” To avoid taking losses on the credit that they had extended to LTCM, they had to pony up and recapitalize LTCM. [footnoted exception for BSC]</p>
+<p>It just so happened that the market recovered and it was possible for LTCM to exit many of its positions without taking large losses, or in some cases any losses. The banks that took control of LTCM when LTCM was on the ropes were able to unwind LTCM’s portfolio in a way that didn’t result in additional losses. But the result Cowen desired — large losses for the banks and broker-dealers who provided credit to LTCM – was quite possible if LTCM’s assets weren’t sufficient to cover all its liabilities. No creditor of LTCM was able to get rid of its exposure as a result of the Fed’s actions. [emphases mine]</p></blockquote>
+<p>It used to be a standard rule that if you wanted to bury something in a newspaper, you published it on a Friday, or the day before a holiday.  This seems to be what the NYT is doing with Casey Mulligan (previously discussed here here), who dropped the other shoe yesterday and was, amazingly, worse than expected.  PGL at Econospeak <a href="http://econospeak.blogspot.com/2008/12/chicago-economist-claims-homeowners.html">does the read and calls out the deed</a>:<br />
+<blockquote>Mulligan is essentially saying that those poor saps who have lost their jobs actually quit so they can game the mortgage system. In other words, there is no such thing as involuntary unemployment or being forced to either lose one’s home versus enter into one of these mortgage modification programs.</p></blockquote>
+<p>As noted <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/12/20/AR2008122000076_pf.html">in the WaPo two weeks ago</a> (via Stan Collender at Capital Gains and Games),** qualifying for the &#8220;mortgage modification&#8221; program (i.e., reducing the principal on your loan to not more than 90% of the current market value) <a href="http://capitalgainsandgames.com/blog/stan-collender/696/mortgage-politics-when-will-homeowners-realize-they-do-indeed-have-some-resp">is an onerous task</a>:<br />
+<blockquote>He was hoping he could qualify for the federal government&#8217;s Hope for Homeowners program, which allows the Federal Housing Administration to insure a new mortgage if the lender voluntarily writes down the mortgage principal to 90 percent of the new value of the home. But when he asked his bank about that, he was told he would have to be on the brink of foreclosure or have an adjustable-rate mortgage.</p></blockquote>
+<p>So Mulligan is basically blaming (1) those whose ability to keep their home depended on keeping their job and (2) those who took Alan Greenspan&#8217;s venal advice to go into ARMs just at the point at which he started raising rates.  Class act.</p>
+<p>And, finally, lest you think I&#8217;m always bashing Tyler Cowen, he notes <a href="http://www.marginalrevolution.com/marginalrevolution/2008/12/chess-is-a-youn.html">a phenomenon in chess</a> and suggests a reasonable conclusion:<br />
+<blockquote>I also see a general principle operating: the more exact a &#8220;science&#8221; the game becomes, the smaller is the value of accumulated experience relative to sheer skill.</p></blockquote>
+<p>The sheer is dicey, but the identification of the shift in proportionality may be accurate, and probably has applications in economics as well.</p>
+<p>*The debt market is less liquid and therefore considers information more valuable. This is effectively the corollary of the <a href="http://delong.typepad.com/sdj/2008/12/momentum-trading.html">DeLong, Shliefer, Summers and Waldmann papers</a>: if you can&#8217;t depend on momentum trading, you take more care not to be the &#8220;greater fool.&#8221;</p>
+<p>**Yes, I saw the Collender-bashing in my previous post.  I&#8217;ve said before that CG&#038;G became significantly less readable after the election, and am foolishly optimistic enough to believe that they may be returning to rationality. Besides, he happened to be correct: any given from increased military spending is definitionally no better (and likely worse) than spending the same amount on public infrastructure.</p>
+<p>***I read PGL&#8217;s piece before seeing it in the links, but they&#8217;re all there.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/reads-of-the-day-for-the-start-of-2009.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Random Notes, or, More Posts I Don&#8217;t Have to Write</title>
+		<link>./../../2008/12/random-notes-or-more-posts-i-dont-have-to-write.html</link>
+		<comments>./../../2008/12/random-notes-or-more-posts-i-dont-have-to-write.html#respond</comments>
+		<pubDate>Wed, 31 Dec 2008 23:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[LTCM]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[multiplier]]></category>
+		<category><![CDATA[Paul Krugman]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/random-notes-or-more-posts-i-dont-have-to-write.html</guid>
+		<description><![CDATA[Greg Mankiw presents Yet Another Reason to regret skipping the AEA this year, though somehow the word &#8220;intentional&#8221; was left out of the description. Stan Collender, of all people, does the job I wished someone would do on Martin Feldstein&#8217;s WSJ op-ed. I may have beaten him by a day in calling it out, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Greg Mankiw presents <a href="http://gregmankiw.blogspot.com/2008/12/humor-session.html">Yet Another Reason to regret skipping the AEA this year</a>, though somehow the word &#8220;intentional&#8221; was left out of the description.</p>
+<p>Stan Collender, of all people, <a href="http://capitalgainsandgames.com/blog/stan-collender/699/disagreeing-martin-feldsteinagain">does the job I wished someone would do on Martin Feldstein&#8217;s WSJ op-ed</a>.  I may have beaten him <a href="http://angrybear.blogspot.com/2008/12/reasons-i-havent-needed-to-post.html">by a day</a> in calling it out, but there&#8217;s nothing so perfect as <a href="http://capitalgainsandgames.com/blog/stan-collender/699/disagreeing-martin-feldsteinagain">Collender&#8217;s conclusion</a>:<br />
+<blockquote>Finally, something that&#8217;s not in the Feldstein piece: dollar for dollar, military spending doesn&#8217;t provide as much an economic return as domestic spending.  Building an extra tank or missle that then sits idle because it&#8217;s not needed provides a one-time boost to the economy.  But building a road, bridge, tunnel, sewer, or information superhighway that is needed continues to provide benefits as people, goods, and information travel faster, less expensively, and far more productively than would have otherwise been the case.</p>
+<p>That means that starting with the headline, Feldstein was seriously mistaken.</p></blockquote>
+<p>Differences between now and 1992, positive version: In 1992, Dave Barry made a legendary appearance at the National Press Club. At some point during the Q&#038;A, he declared that he was going to end all of his answers with the phrase &#8220;failed Clinton Administration.&#8221; (There may have been cheering.)</p>
+<p>UPDATE: I was trying to think of a nice way to be rude about Tyler Cowen&#8217;s NYT piece on how &#8220;the seeds of the crisis&#8221; were planted by the resolution of the LTCM crisis.* () But Buce at Underbelly saves the day with a two-point takedown (not the three-pointer of Collender, but still aces) called <a href="http://underbelly-buce.blogspot.com/2008/12/long-term-confusion.html">Long-Term Confusion</a>:<br />
+<blockquote>Tyler Cowan has an amazingly confused piece in this morning&#8217;s NYT arguing tht we owe our current plight in large part to the &#8220;bailout&#8221; (I use the term advisedly) ten years ago of Long-Term Capital Mangement (<a href="http://www.nytimes.com/2008/12/28/business/economy/28view.html">link</a>). But the point of LTCM, as Tyler&#8217;s own piece acknowledges (but Tyler ignores) is precisely that LTCM was not a bailout, except perhaps in the sense that the Feds provided lunch.** Okay, and a little bit of arm-twisting. But I should think that would be on the approved list for even the most hairy-chested libertarian. The message was: look, we love ya, and we will work with ya, but we will not put skin in the game. [italics mine, but they could have been his]</p></blockquote>
+<p>In 2008, the NPC appearance of note is by Paul Krugman (h/t <a href="http://econlog.econlib.org/archives/2008/12/krugmans_tin_ea.html">EconLib, again of all places</a>), whose <a href="http://www.youtube.com/watch?v=_9Q-kEprvTA">six</a> <a href="http://www.youtube.com/watch?v=s9ojXEDZLj4">part</a> <a href="http://www.youtube.com/watch?v=j9_60Mpp6kg">presentation</a> <a href="http://www.youtube.com/watch?v=v97Vqh5l2E0">and</a> <a href="http://www.youtube.com/watch?v=T923sF6RQAc">q&#038;a</a> <a href="http://www.youtube.com/watch?v=VZzZA4UT1O8">session</a> is available on YouTube and therefore easier to watch for the Internet-impaired than his Nobel Lecture.***</p>
+<p>McMegan <a href="http://firemeganmcardle.blogspot.com/2008/12/theres-always-next-yr.html">Wuz Robbed</a>!  Then again, that&#8217;s nothing compared to the abomination of <a href="http://thepoorman.net/2008/12/26/wank-of-the-year-2008-voting/">this voting</a>, where something that&#8217;s <a href="http://www.amazon.com/Liberal-Fascism-American-Mussolini-Politics/dp/0385511841/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1230763714&#038;sr=1-1">already remainder and long-forgotten</a> appears to be winning.</p>
+<p>And, finally, proof that it&#8217;s really TOUGH to live in Hoboken.
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SVv_5v346BI/AAAAAAAAAPM/I4grNUrfkoY/s1600-h/hoboken-police-car-booted.jpg"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SVv_5v346BI/AAAAAAAAAPM/I4grNUrfkoY/s400/hoboken-police-car-booted.jpg" border="0" alt=""></a></p>
+<p>Happy New Year!</p>
+<p>*If Robert Samuelson had published the same piece, Brad DeLong would not have been nice. As it is, we can just assume DeLong hasn&#8217;t read it yet amidst his globetrotting.</p>
+<p>**Meaning in this case literally the food for the sixteen conversants, fifteen of whom anted up.</p>
+<p>***Yes, I assume anyone who accesses YouTube from a non-networked machine has a downloading program. Also, am I the only one who just realised that YouTube is maintained on a Linux-based server?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/random-notes-or-more-posts-i-dont-have-to-write.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nationalisations &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Rumours of &#034;Green Shoots&#034; are Exaggerated: Illinois</title>
+		<link>./../../2009/07/rumours-of-green-shoots-are-exaggerated-illinois.html</link>
+		<comments>./../../2009/07/rumours-of-green-shoots-are-exaggerated-illinois.html#respond</comments>
+		<pubDate>Thu, 02 Jul 2009 22:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[economic geography]]></category>
+		<category><![CDATA[nationalisations]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/07/rumours-of-green-shoots-are-exaggerated-illinois.html</guid>
+		<description><![CDATA[After my previous posts on Georgia, it seems only fair to note the bank closings in Illinois today. There have been 13 bank closings posted (as of right now, about 6:50pm) in the state of Illinois since last March. That alone is significant—but, even more interesting, six of them occurred today. This exceeds the previous [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After my <a target="_blank" href="http://angrybear.blogspot.com/2009/05/banks-just-dont-go-under.html">previous</a> <a target="_blank" href="http://angrybear.blogspot.com/2009/06/noted-for-record-failed-bank-edition.html">posts</a> on <a target="_blank" href="http://angrybear.blogspot.com/2009/03/georgia-is-1-citigroup-is-worse-than.html">Georgia</a>, it seems only fair to note the bank closings in Illinois today.</p>
+<p>There have been 13 bank closings posted (as of right now, about 6:50pm) in the state of Illinois since last March.  That alone is significant—but, even more interesting, <strong>six</strong> of them occurred today.  This exceeds the previous record for a state, Georgia&#8217;s <a target="_blank" href="http://angrybear.blogspot.com/2009/06/noted-for-record-failed-bank-edition.html">five</a> last week.</p>
+<p>Three (in Elizabeth, Oregon, and Danville) are in the NW part of the state.  The other three are located near Chicago (Worth, in Cook County), Urbana (Clinton), and Springfield (Winchester).</p>
+<p>Only two of those cities (Worth and Danville) are in the Top 200 cities by size in the state, so it&#8217;s difficult not to suspect that their location had a lot to do with the closing of at least four of the banks.</p>
+<p>Again, the same as the Georgia question, why Illinois? And, most especially, given the past two weeks, why are there multiple state closings now?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/07/rumours-of-green-shoots-are-exaggerated-illinois.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

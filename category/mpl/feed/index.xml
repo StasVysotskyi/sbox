@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MPL &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Economics and Bosses</title>
+		<link>./../../2011/02/economics-and-bosses.html</link>
+		<comments>./../../2011/02/economics-and-bosses.html#respond</comments>
+		<pubDate>Mon, 28 Feb 2011 04:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[Ken Houghton]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[MPK]]></category>
+		<category><![CDATA[MPL]]></category>
+		<category><![CDATA[pensions]]></category>
+		<category><![CDATA[retirement]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/economics-and-bosses.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak, who is smarter and nicer than I am,* boils down the question: [D]o you believe that managers normally make the right decisions over how to run organizations? If you believe that premise, please explain: Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Peter Dorman at Econospeak, who is smarter and nicer than I am,* <a href="http://econospeak.blogspot.com/2011/02/are-bosses-always-right.html">boils down the question</a>:<br />
+<blockquote>[D]o you believe that managers normally make the right decisions over how to run organizations?</p></blockquote>
+<p>If you believe that premise, please explain:
+<ol>
+<li>Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, but their successors—who supposedly are more capable—are only capable of offering defined contribution?</li>
+<li>That &#8220;underfunded pension benefits&#8221; are evil, but &#8220;overunded&#8221; pensions led to the LBO (now &#8220;Private Equity&#8221;) movement of the 1980s.</li>
+<li>That, in the 1980s, GM being $1B underfunded caused Congress to pass a bill allowing pensions to become fully funded over 20 years—and that most of those targets were missed?</li>
+</ol>
+<p>If bosses are so good at managing &#8220;ongoing concerns,&#8221; why do they take their payments upfront?  What does—and should—this tell us about discount rates?</p>
+<p>*This is a fairly low standard, outside of people who work in finance.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/economics-and-bosses.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Green Shoots Data Defined</title>
+		<link>./../../2009/10/green-shoots-data-defined.html</link>
+		<comments>./../../2009/10/green-shoots-data-defined.html#respond</comments>
+		<pubDate>Sat, 10 Oct 2009 01:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CPI]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[MPL]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/green-shoots-data-defined.html</guid>
+		<description><![CDATA[As a rule, the Shiller Index uses the CPI as reported for All Urban Consumers (CPIAUCNS on Fred(r)). But the Index is only updated Quarterly, so monthly data is estimated. Which produces a very interesting difference over August, not to mention September expectations: The annualised inflation rate between June and August is 0.39%, which just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As a rule, the Shiller Index uses the CPI as reported for All Urban Consumers (CPIAUCNS on Fred(r)).</p>
+<p>But the Index is only updated Quarterly, so monthly data is estimated.  Which produces a very interesting difference over August, not to mention September expectations:
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/Ss_xZLlJlsI/AAAAAAAAASw/nbriKNDQJ6w/s1600-h/shillercpi.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/Ss_xZLlJlsI/AAAAAAAAASw/nbriKNDQJ6w/s400/shillercpi.JPG" border="0" alt=""></a></p>
+<p>The annualised inflation rate between June and August is 0.39%, which just shows that the trend is volatile.  But if there really is another round or two of 2.5% annual inflation, the projected 3% growth for Q3 is either going to look a lot more anemic than we think, or there is going to be a <strong>major</strong> producvtivity increase.</p>
+<p>The odds of being paid the Marginal Product of Labor just dropped a bit more.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/green-shoots-data-defined.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Corporate CEOs May Want to Rethink Outsourcing</title>
+		<link>./../../2008/09/corporate-ceos-may-want-to-rethink-outsourcing.html</link>
+		<comments>./../../2008/09/corporate-ceos-may-want-to-rethink-outsourcing.html#respond</comments>
+		<pubDate>Tue, 23 Sep 2008 20:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic development]]></category>
+		<category><![CDATA[MPL]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/corporate-ceos-may-want-to-rethink-outsourcing.html</guid>
+		<description><![CDATA[by Ken Houghton Via Glenn Greenwald, a riff that is going around (see orchidgrrl nyc for the faux-Fafblog version), has become reality—in India: Corporate India is in shock after a mob of sacked workers bludgeoned to death the chief executive who had dismissed them from a factory in a suburb of Delhi. The punchline, as [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Ken Houghton</p>
+<p>Via <a href="http://www.salon.com/opinion/greenwald/2008/09/23/brooks/index.html">Glenn Greenwald</a>, a riff that is going around (see <a href="http://orchidgrrlnyc.blogspot.com/">orchidgrrl nyc</a> for <a href="http://orchidgrrlnyc.blogspot.com/2008/09/channeling-fafblog.html">the faux-Fafblog version</a>), has become reality—<a href="http://www.timesonline.co.uk/tol/news/world/asia/article4810644.ece">in India</a>:<br />
+<blockquote>Corporate India is in shock after a mob of sacked workers bludgeoned to death the chief executive who had dismissed them from a factory in a suburb of Delhi.</p></blockquote>
+<p>The punchline, as it were:<br />
+<blockquote>It is understood that Mr Choudhary&#8230;had called a meeting with more than 100 former employees &#8211; who had been dismissed following an earlier outbreak of violence at the plant &#8211; to discuss a possible reinstatement deal.</p></blockquote>
+<p>Any similarity to the mayor in The Dark Knight Returns is coincident.</p>
+<p>AngryBear urges others <em>not</em> to follow this example. Surely there are better ways.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/corporate-ceos-may-want-to-rethink-outsourcing.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

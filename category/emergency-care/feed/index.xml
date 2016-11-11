@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>emergency care &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>ER: It is the law, and often a slogan &#034;Everyone can get care&#034;</title>
+		<link>./../../2009/11/er-it-is-the-law-and-often-a-slogan-everyone-can-get-care.html</link>
+		<comments>./../../2009/11/er-it-is-the-law-and-often-a-slogan-everyone-can-get-care.html#comments</comments>
+		<pubDate>Tue, 17 Nov 2009 16:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[emergency care]]></category>
+		<category><![CDATA[Health Care]]></category>
+		<category><![CDATA[Health Insurance]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/er-it-is-the-law-and-often-a-slogan-everyone-can-get-care.html</guid>
+		<description><![CDATA[Rdan Not only is ER care enormously expensive for &#8216;more routine&#8217; health concerns than a clinic, but perhaps are not equal for insure/uninsured even for traffic accidents, not withstanding our best wishes. Sphere notes a report from the Archives of Surgery: It&#8217;s federal law: All seriously injured emergency and trauma patients must be given equal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Rdan</p>
+<p>Not only is ER care enormously expensive for &#8216;more routine&#8217; health concerns than a clinic, but perhaps are not equal for insure/uninsured even for traffic accidents, not withstanding our best wishes.</p>
+<p><a href="http://www.sphere.com/2009/11/16/trauma-victims-face-far-worse-odds-when-uninsured-study-says/" target="_blank">Sphere</a> notes a report from the <a href="http://archsurg.ama-assn.org/cgi/content/short/144/11/1006?home" target="_blank"><i>Archives of Surgery</i></a>:</p>
+<blockquote><p>It&#8217;s federal law: All seriously injured emergency and trauma patients must be given equal lifesaving care, whether or not they can pay for it. But that&#8217;s not happening, according to a new report. The study, conducted by Children&#8217;s Hospital Boston research fellow Dr. Heather Rosen and colleagues from three other hospitals, found that uninsured trauma victims ages 18 to 30 are dying at an annual rate 89 percent higher than insured victims with identically severe injuries. </p>
+<p>As the health reform tornado continues to swirl on Capitol Hill, the data could provide fresh ammunition for those pushing for expanded health insurance coverage. </p>
+<p>The study, published today in the Archives of Surgery, examines the survival rates for patients brought to about 900 U.S. trauma centers between 2002 and 2006, analyzing some 690,000 patients who had suffered penetrating trauma &#8212; such as wounds inflicted by a gun or knife &#8212; or blunt trauma from vehicle crashes and falls. Earlier research found 18,000 extra deaths a year among uninsured victims of such injuries. Rosen and the other researchers chose to focus on the 18-to-30-year-old subset because they had fewer existing conditions &#8212; comorbidity &#8212; that muddy the evaluation of the cause of death.</p></blockquote>
+<p><a name="more"></a></p>
+<p>[snip]<br />
+<blockquote>In a comment published with the journal article, Dr. Brent Eastman, a trauma and vascular surgeon from Scripps Memorial Hospital in San Diego who was just elected chairman of the Board of Regents of the American College of Surgeons, noted that emergency rooms and trauma centers &#8220;are the safety net for many communities.&#8221; He called for Rosen&#8217;s conclusions to be taken seriously.</p>
+<p>Rosen cautions that the definitive cause for the higher death rate for uninsured people remains to be determined. Still, the hard number &#8212; the nearly 90 percent jump in mortality rates for uninsured accident victims &#8212; speaks loudly on its own. &#8220;Although the lack of insurance may not be the only explanation,&#8221; she says, &#8220;the accidental costs of being uninsured in the United States today may be too high to continue to overlook.&#8221;</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/er-it-is-the-law-and-often-a-slogan-everyone-can-get-care.html/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

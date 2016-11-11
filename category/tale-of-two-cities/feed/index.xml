@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tale of Two Cities &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>A Tale of Two Cities</title>
+		<link>./../../2012/09/a-tale-of-two-cities.html</link>
+		<comments>./../../2012/09/a-tale-of-two-cities.html#respond</comments>
+		<pubDate>Mon, 10 Sep 2012 15:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Tale of Two Cities]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/a-tale-of-two-cities.html</guid>
+		<description><![CDATA[From the NY Daily News comes a Tale of Two Cities (and does not include rural poverty): We have more poor people in Brooklyn than the entire population of Detroit; we have more people on food stamps than the entire population of Washington, D.C.,” Gelber said. “Yet there are more wealthy people than in Greenwich, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>From the <a href="http://articles.nydailynews.com/2012-08-22/news/33326609_1_brooklyn-residents-borough-president-marty-markowitz-fort-greene">NY Daily News</a> comes a <i>Tale of Two Cities </i>(and does not include rural poverty):</div>
+<p>
+<blockquote>We have more poor people in Brooklyn than the entire population of Detroit; we have more people on food stamps than the entire population of Washington, D.C.,” Gelber said. “Yet there are more wealthy people than in Greenwich, Conn.”</p>
+<p>The Daily News scoured Brooklyn for telling statistics about the extremes of grimness and glamor gripping the split-personality borough, and found:</p>
+<p>-Sixty-nine people have been shot this year in Brownsville. Four miles away, a mansion at 70 Willow St. in Brooklyn Heights sold for the borough’s highest-ever home price of $12.5 million. -Brooklyn sent five athletes to the Olympics but one in four borough residents is obese. -Brooklyn has 113 colleges and universities but only 29% of borough residents have college degrees.</p>
+<p>“It’s absolutely a tale of two Brooklyns, right out of Dickens,” said Joel Berg, executive director of the New York City Coalition Against Hunger. “The divide is getting wider every year.”</p>
+<p><a name="more"></a></p>
+<p>Waves of gentrification that started in the 1980s have brought an influx of mega-bucks and turned once-grimy neighborhoods like Williamsburg into magnets for the rich and trendy.</p>
+<p>A big crime reduction in the 1990s was a main driver of moneyed people into Brooklyn, said Jonathan Bowles, director of the Center for an Urban Future. Several years ago, the well-heeled stopped seeing Brooklyn as a bargain-priced alternative to Manhattan — but kept coming anyway.</p>
+<p>“It’s an increasingly difficult borough to be middle class,” said Bowles, citing Windsor Terrace and Kensington as neighborhoods where rising real estate prices are displacing moderate-income residents.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/a-tale-of-two-cities.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

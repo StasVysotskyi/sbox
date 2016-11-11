@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NAIRU &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Those Low Rates</title>
+		<link>./../../2010/01/those-low-rates.html</link>
+		<comments>./../../2010/01/those-low-rates.html#comments</comments>
+		<pubDate>Wed, 06 Jan 2010 20:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bernanke]]></category>
+		<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[employment/population ratio]]></category>
+		<category><![CDATA[models]]></category>
+		<category><![CDATA[NAIRU]]></category>
+		<category><![CDATA[the fed]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/those-low-rates.html</guid>
+		<description><![CDATA[Via (what else?) Alea&#8217;s Twitter feed, John Taylor defends himself against Ben Bernanke: &#8220;The evidence is overwhelming that those low interest rates were not only unusually low but they logically were a factor in the housing boom and therefore ultimately the bust,&#8221; Taylor, a Stanford University economist, said in an interview today in Atlanta. It&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via (what else?) <a href="http://www.aleablog.com/">Alea&#8217;s</a> <a href="http://twitter.com/alea_">Twitter feed</a>, <a href="http://www.businessweek.com/news/2010-01-05/taylor-disputes-bernanke-on-bubble-says-low-rates-played-role.html">John Taylor defends himself against Ben Bernanke</a>:<br />
+<blockquote>&#8220;The evidence is overwhelming that those low interest rates were not only unusually low but they logically were a factor in the housing boom and therefore ultimately the bust,&#8221; Taylor, a Stanford University economist, said in an interview today in Atlanta.</p></blockquote>
+<p>It&#8217;s not actually that they&#8217;re not saying the same thing.  Bernanke argued (and I <a href="http://angrybear.blogspot.com/2010/01/bernanke-we-didnt-do-good-job.html">agreed</a>) that low rates did not <em>cause</em> the housing bubble.  We have had low rates without producing housing bubbles before. (Other asset bubbles are another question.)  Indeed, the last lasting housing bubble peaked just as the Federal Funds rate did:
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/S0Tmmx0VI-I/AAAAAAAAAXM/aAEuvpvGnOw/s1600-h/FedFunds8791.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/S0Tmmx0VI-I/AAAAAAAAAXM/aAEuvpvGnOw/s400/FedFunds8791.JPG" border="0" alt=""></a></p>
+<p>More accurately (and also via ATF), Caroline Baum <a href="http://www.bloomberg.com/apps/news?pid=20601039&#038;sid=aEOlHv_s1HWw">takes Bernanke to task for sleight-of-hand</a>:</p>
+<blockquote><p>For example, Bernanke takes great pains to rebut criticism that the funds rate was well below where the Taylor Rule&#8230;suggested it should be following the 2001 recession. The Taylor Rule uses actual inflation versus target inflation and actual gross domestic product versus potential GDP to determine the appropriate level of the funds rate.</p>
+<p>Substitute forecast inflation for actual inflation, and the personal consumption expenditures price index for the consumer price index, and &#8212; voila! &#8212; monetary policy looks far less accommodating, Bernanke said.</p>
+<p>It’s always easier to start with a desired conclusion and retrofit a model or equation to prove it.</p></blockquote>
+<p>Ouch.  Is it a great day when the journalist is making more sense about the economist&#8217;s work than another economist is?</p>
+<p>But more to the point, the argument that rates were kept unnaturally low from ca. 2002 through ca. 2005 depends very much on the idea that the Fed does not have two jobs. (Once again, h/t to <a href="http://www.prospect.org/csnc/blogs/beat_the_press_archive?month=12&#038;year=2009&#038;base_name=if_bernanke_did_not_know_the_f">Dean Baker</a>.)</p>
+<p>The other half below the break<br /><a name="more"></a><br />As Baker notes at the link above, &#8220;the dual mandate [of the Fed] is full employment (defined as 4.0 percent unemployment) and price stability.&#8221;</p>
+<p>Let&#8217;s be generous.  I&#8217;ve plotted the Civilian Employment/Population Ratio and the Official Unemployment Rate below.  The blue line at 4.5 applies only to the Unemployment Rate (red line). (I didn&#8217;t plot it at 4.0 because that would be cruel.)
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/S0UBFDp8PEI/AAAAAAAAAXc/MJ8r-Y7T1cg/s1600-h/Employ.GIF"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/S0UBFDp8PEI/AAAAAAAAAXc/MJ8r-Y7T1cg/s400/Employ.GIF" border="0" alt=""></a></p>
+<p>So what we have is a situation where (1) the Employment/Population Ratio by the end of 2006 is barely back near the level it was at the <em>end</em> of the recession of 2001 and (2) it is only near the end of 2006 that the Official Unemployment Rates <em>approaches</em> the official target rate (which it hadn&#8217;t seen since before the 2001 recession).</p>
+<p>It seems apparent that Taylor&#8217;s &#8220;Rule&#8221; (which considers inflation and GDP, but not employment <em>per se</em>) is not compatible with official Fed mandates.  In such a context, Caroline Baum&#8217;s &#8220;gotcha&#8221; is more a case of her using inappropriate variables—and Bernanke substituting a more appropriate model, given the Fed&#8217;s mandates—than it is a case of Bernanke &#8220;retrofitting.&#8221;</p>
+<p>No wonder John Taylor says we should worry about inflation; in his world, we never have to worry about unemployment, so long as there are enough bubbles to inflate GDP.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/those-low-rates.html/feed/index.html</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>unemployment</title>
+		<link>./../../2009/11/unemployment.html</link>
+		<comments>./../../2009/11/unemployment.html#respond</comments>
+		<pubDate>Sun, 15 Nov 2009 15:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cobb-Douglas]]></category>
+		<category><![CDATA[NAIRU]]></category>
+		<category><![CDATA[structural unemployment]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/unemployment.html</guid>
+		<description><![CDATA[Rdan After having received e-mails regarding Mark Thoma&#8217;s post on types of unemployment about who was included and excluded from the per centages, I thought a note on the relevance of the employment to population ratio to be worth repeating from comments on that post. Lifted from comments by run 75441 regarding &#8220;unemployment&#8221;here: &#8230;[D]id everyone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Rdan</p>
+<p>After having received e-mails regarding Mark Thoma&#8217;s post on types of unemployment about who was included and excluded from the per centages, I thought a note on the relevance of the employment to population ratio to be worth repeating from comments on that post.</p>
+<p>Lifted from comments by run 75441 regarding &#8220;unemployment&#8221;<a target="_blank" href="http://angrybear.blogspot.com/2009/11/new-normal-for-unemployment.html">here</a>:<br />
+<blockquote>&#8230;[D]id everyone finally awaken to the fact we are experiencing a &#8220;new and lower&#8221; plateau of people in the Civilian Labor Force as a percentage on the Non-Institutional Civilian Population. It is ~1.6% lower than what it was immediately after the 2001 Recession experienced 8 years ago which equates to ~ 4million additional people in the Not In Labor Force.  </p>
+<p>Eventually people will re-enter the Labor Force??? For 8 years now much of US Labor has been waiting for the tsunami of job creation that was supposed to come, has not come yet, and I doubt will come soon if . . . if at all. They waited too long to be concerned about unemployed Labor. For almost as many years, states have been engaging in training programs for unemployed workers, and it has not had an impact upon Unemployment or those relegated to the Not In Labor Force because the jobs are not there. Unless there is some serious job creation, outstripping increases in population growth; the plateau of 65.1% is here to stay and will probably drop lower.  </p>
+<p>Spencer&#8217;s chart of &#8220;Nonfarm Business Labor Share&#8221; <a target="_blank" href="http://3.bp.blogspot.com/_Zh1bveXc8rA/SvLucYKJSxI/AAAAAAAAA78/abFmqSf1JLE/s1600-h/Clipboard02.jpg">here</a>:  puts much into perspective for Labor its share of profits/wages since 1982 as shown here: &#8220;<a target="_blank" href="http://angrybear.blogspot.com/2009/11/productivity-growth.html">Productivity Growth</a>.&#8221; That share has been shrinking with the result of fewer people working the same numbers of hours for lower wages as productivity increases. The paradigm of higher productivity creating higher wages or less time worked as Tom Walker suggests, is at least 8 years dead. The increases in productivity is the result of few workers workering and lower hours while wages are dropping or are stagnant. We also have the issue of greater technological advances incorporating more artificial intelligence which will sideline even more labor.  </p>
+<p>[Eight] years of [S]tructural Unemployment is not a normal event. There is something radically wrong when Unemployment hovers at higher than normal levels and more people become structurally disenfranchised from the Civilian Labor Force. I might suggest more of the profits is going to Capital rather than Labor and job creation. The infrastructural costs in the US has always been higher than our Asian neighbors and this does include Healthcare Cantab. Hanging overhead is the chance much of the benefits and protective laws making up this infrastural cost may be shuffled into the background for the purpose of creating low wage jobs.  </p>
+<p>Thoma&#8217;s article is a nice review of economic history and I hope a basis for some new ideas breaking down the old pardigms of economics. It is not much more than that for now.</p></blockquote>
+<p><strong>UPDATE</strong>: <a target="_blank" href="http://guerby.org/blog/index.php/">Laurent Guerby</a>, in comments, reminds us of his review of this issue back at the end of January: <a target="_blank" href="http://guerby.org/blog/index.php/2009/01/24/193-l-inexorable-ascension-de-la-population-sans-emploi-aux-usa">Original link (French)</a>; <a target="_blank" href="http://babelfish.yahoo.com/translate_url?doit=done&#038;tt=url&#038;intl=1&#038;fr=bf-home&#038;trurl=http://guerby.org/blog/index.php/2009/01/24/193-l-inexorable-ascension-de-la-population-sans-emploi-aux-usa&#038;lp=fr_en&#038;btnTrUrl=Translate">Babelfish translation to English</a>.  Previously discussed in a Guest Post by run74551 at AB <a target="_blank" href="http://angrybear.blogspot.com/2009/02/another-look-at-falling-participation.html">here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/unemployment.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

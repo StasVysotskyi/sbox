@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>family &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Maybe Bristol Palin is Right</title>
+		<link>./../../2010/05/maybe-bristol-palin-is-right.html</link>
+		<comments>./../../2010/05/maybe-bristol-palin-is-right.html#respond</comments>
+		<pubDate>Wed, 19 May 2010 17:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[intergenerational equity]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/05/maybe-bristol-palin-is-right.html</guid>
+		<description><![CDATA[No, not that anyone should pay her $15,000-$30,000 to talk to teenagers about why they should be abstinent. (Short version: &#8220;As with my mother, I wasn&#8217;t, and look what I&#8217;m doing now. Uh, well&#8230;&#8221;) But, via Andrew Samwick, a study from the Pew Foundation (PDF) using PSID data finds that: Among children who start in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, not that anyone should <a href="http://today.msnbc.msn.com/id/37216290/ns/today-today_people/">pay her $15,000-$30,000 to talk to teenagers about why they should be abstinent</a>. (Short version: &#8220;As with my mother, I wasn&#8217;t, and look what I&#8217;m doing now. Uh, well&#8230;&#8221;)</p>
+<p>But, <a href="http://capitalgainsandgames.com/blog/andrew-samwick/1731/divorce-and-upward-mobility">via Andrew Samwick</a>, <a href="http://economicmobility.org/assets/pdfs/Family_Structure.pdf">a study from the Pew Foundation</a> (PDF) using PSID data finds that:<br />
+<blockquote>Among children who start in the bottom third of the income distribution,<br />only 26 percent with divorced parents move up to the middle or top third<br />as adults, compared to 42 percent of children born to unmarried mothers<br />and 50 percent of children with continuously married parents.</p></blockquote>
+<p>Or, in ratio terms, it is only 19% more likely that the child&#8217;s eventual economic status will be improved if the mother marries someone and stays married until the child is eighteen, compared to a 61.5% improvement in the expected well-being of the child if the mother remains unmarried for the entire eighteen years.</p>
+<p>Meanwhile, twice as many children have parents who divorce before the child is nineteen (14%) than are raised by unwed mothers (7%).</p>
+<p>There may also be elements of selection bias in the data: a woman who opts to raise a child on her own instead of getting married is more likely to instill that independence of spirit in her child than someone who enters into what turns out to be a bad marriage.</p>
+<p>The other interesting table in the study shows how severely income inequality increased across a generation.
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/S_QoXm2XCTI/AAAAAAAAAa0/vl401TBrvqE/s1600/mobilitytable1.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/S_QoXm2XCTI/AAAAAAAAAa0/vl401TBrvqE/s400/mobilitytable1.JPG" border="0" alt=""></a></p>
+<p>Note that the bottom tier improves the least, that the 50th percentile grows much slower than even the 75th, and that the percentage change in the Mean is greater than the percentage change at any tier except the 90th percentile.</p>
+<p>So much for the rising tide having lifted all boats—clearly, it capsized a few.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/05/maybe-bristol-palin-is-right.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

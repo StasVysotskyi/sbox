@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CMBS &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Gift that Keeps on Giving</title>
+		<link>./../../2010/08/the-gift-that-keeps-on-giving.html</link>
+		<comments>./../../2010/08/the-gift-that-keeps-on-giving.html#respond</comments>
+		<pubDate>Thu, 19 Aug 2010 17:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CMBS]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[MBS]]></category>
+		<category><![CDATA[recovery]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/the-gift-that-keeps-on-giving.html</guid>
+		<description><![CDATA[During the discussions about the Fannie Mae project I still regret having turned down, one of the topics was which security would be better for a portfolio (assuming their risk-adjusted prices provided the same value): a four-year-old MBS or a seven-year-old MBS? I noted that the four-year-old MBS provided more potential upside but came gradually [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>During the discussions about <a href="http://www.angrybearblog.com/2010/08/interlude-self-indulgent-advt.html">the Fannie Mae project I still regret having turned down</a>, one of the topics was which security would be better for a portfolio (assuming their risk-adjusted prices provided the same value): a four-year-old MBS or a seven-year-old MBS?</p>
+<p>I noted that the four-year-old MBS provided more potential upside but came gradually to agree that the seven-year-old security was preferable: an MBS that is that &#8220;seasoned&#8221; is effectively a generic amortizing bond.  There shouldn&#8217;t be any surprises—in either direction—so a portfolio manager would prefer it.</p>
+<p>As usual, The Old Firm manges to prove that what <em>should</em> be correct for an MBS <a href="http://www.reuters.com/article/idUSWNA817520100819">isn&#8217;t necessarily so for a CMBS</a>:<br />
+<blockquote>Standard &#038; Poor&#8217;s Ratings Services today lowered its ratings on<br />three classes of commercial mortgage pass-through certificates from Bear<br />Stearns Commercial Mortgage Securities Trust 2002-TOP6, a U.S. commercial<br />mortgage-backed securities (CMBS) transaction&#8230;.</p>
+<p>The downgrade of class M to &#8216;D&#8217; follows a principal loss sustained by the<br />class, which was detailed in the August 2010 remittance report&#8230;.</p>
+<p>The principal loss and corresponding credit support erosion resulted from the<br />liquidation of an asset&#8230;.The Nortel Networks asset is a 281,758-sq.-ft. office<br />property in Richardson, Texas. The asset had a total exposure of $28.6<br />million. The asset was transferred to the special servicer in September 2009<br />and became real estate owned (REO) in March 2010. The trust incurred a $12.0<br />million realized loss when the asset was liquidated during the August<br />reporting period&#8230;[T]he loss severity for this asset was 44.2%</p></blockquote>
+<p>As <a href="http://www.calculatedriskblog.com/2010/08/jingle-mail-from-hyatt-hotels.html">corporations are increasingly using &#8220;jingle mail</a>,&#8221; the prospect for the future of CMBSes—even those that went through several good years. Or for the concept of an &#8220;ongoing concern,&#8221; or a strong recovery. (That latter concept seems to fade with <a href="http://macromarketmusings.blogspot.com/2010/08/its-happening-aggregate-demand.html">each</a> <a href="http://robertreich.org/post/953941192/forget-a-double-dip-were-still-in-one-long-big">passing</a> <a href="http://economistsview.typepad.com/economistsview/2010/08/initial-claims-for-unemployment-increase-to-500000.html">day</a>.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/the-gift-that-keeps-on-giving.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

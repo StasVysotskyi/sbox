@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mitch Daniels &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Strangely, CATO missed the AZ, IN, and MS budget crises</title>
+		<link>./../../2009/06/strangely-cato-missed-the-az-in-and-ms-budget-crises.html</link>
+		<comments>./../../2009/06/strangely-cato-missed-the-az-in-and-ms-budget-crises.html#respond</comments>
+		<pubDate>Tue, 30 Jun 2009 15:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 Presidential]]></category>
+		<category><![CDATA[fiscal responsibility summit]]></category>
+		<category><![CDATA[GOP governors]]></category>
+		<category><![CDATA[Indiana]]></category>
+		<category><![CDATA[Mitch Daniels]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/06/strangely-cato-missed-the-az-in-and-ms-budget-crises.html</guid>
+		<description><![CDATA[CATO was making much hay a few days ago about budget problems in California, New York, and New Jersey, which can be explained, respectively, by the Governor&#8217;s veto of an Assembly-passed budget a few months ago, the decline in tax revenues from financial services firms and continuing loss of upstate industry, and underfunded pension obligations [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>CATO was making much hay a few days ago about budget problems in California, New York, and New Jersey, which can be explained, respectively, by the Governor&#8217;s veto of an Assembly-passed budget a few months ago, the decline in tax revenues from financial services firms and continuing loss of upstate industry, and underfunded pension obligations whose origins date back to Christie&#8217;s cocaine-inspired budgets of the mid-1990s.</p>
+<p>Strangely (via Dr. Black), they missed the crises in a few other states, most especially including the state governed by <a target="_blank" href="http://www.latimes.com/news/nationworld/nation/la-na-shutdown30-2009jun30,0,1912245.story">Republic hero Mitch Daniels</a>:<br />
+<blockquote>Republican Gov. Mitch Daniels has warned residents that most of the state&#8217;s services &#8212; including its parks, the Bureau of Motor Vehicles and state-regulated casinos &#8212; would be shuttered unless a budget is passed today.</p></blockquote>
+<p>Closing down the casinos?  Now that is extreme.</p>
+<p>Mitch Daniels, doing for my old home state <a target="_blank" href="http://delong.typepad.com/sdj/2009/06/mitch-daniels-did-not-do-his-job.html">what he did for the country</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/06/strangely-cato-missed-the-az-in-and-ms-budget-crises.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

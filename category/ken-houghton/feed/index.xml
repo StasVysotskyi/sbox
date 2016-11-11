@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ken Houghton &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Problem with Macro, and An Apology</title>
+		<link>./../../2013/01/the-problem-with-macro-and-an-apology.html</link>
+		<comments>./../../2013/01/the-problem-with-macro-and-an-apology.html#respond</comments>
+		<pubDate>Mon, 07 Jan 2013 02:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ken Houghton]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/the-problem-with-macro-and-an-apology.html</guid>
+		<description><![CDATA[There has been much discussion recently of the “problem” with Macroeconomics. See Nick Rowe, Noah Smith (who may have been punked by a self-selecting sample—or may not have), Mark Thoma, Brad DeLong, RDan’s collection here a while back, and the rest of The Usual Suspects.Let’s ignore for the moment that the problem with Macro is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There has been much discussion recently of the “problem” with Macroeconomics. See <a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2013/01/my-simple-theory-about-why-macroeconomists-disagree.html">Nick Rowe</a>, <a href="http://noahpinionblog.blogspot.com/2013/01/is-economics-divided-into-warring.html">Noah Smith</a> (who may have been punked by a self-selecting sample—or may not have), <a href="http://economistsview.typepad.com/economistsview/2013/01/bad-advice-from-experts-herding-and-bubbles.html">Mark Thoma</a>, <a href="http://delong.typepad.com/sdj/2013/01/more-on-the-current-state-of-macro.html">Brad DeLong</a>, <a href="http://www.angrybearblog.com/2013/01/thoughts-from-economics-writers-on.html">RDan’s collection here a while back</a>, and the rest of The Usual Suspects.<br />Let’s ignore for the moment that the problem with Macro is Micro.  I think I have figured out the <em>other</em> problem with Macro, and I have Victor Matheson to thank for it.</p>
+<p>In the midst of <a href="http://www.angrybearblog.com/2012/12/dr-black-did-it-as-shorter-heres-data.html">a post last week</a>, I noted that there are perpetually claims from economists and that “chained CPI” is a “more accurate” measure of inflation. (Not coincidentally, Chained CPI runs below CPI.)  That not being enough I continued—in the calm, rational manner for which I am known (think a combination of Scipio Aemillianus and William Tecumseh Sherman)—by highlighting Professor Matheson’s otherwise rather innocuous comment chez DeLong that he remembered being told the same thing.</p>
+<p>I gave Professor Matheson a “most notably,” when he was hardly the most extreme representative.  Indeed, anyone following the link to his comment would wonder why he was chosen.  It was mainly from this:<br />
+<blockquote>While I teach intro to macro, I am not an expert in the minute details of the CPI calculations, and I do remember the talk in the 90s was that the CPI overestimates the true costs of inflation by something like a percentage point or two every year.</p></blockquote>
+<p>But it is my misreading of that.  Note that, while Professor Matheson teaches Introduction to Macroeconomics (presumably Econ 301 or 302), he specifically <em>does not say that he teaches that CPI overestimates the true cost of inflation.</em><br /><em><br /></em> But he does say that he heard it in the 1990s, and does not say he has heard that those claims are bollocks.<br />Before going further, I want to apologize to Professor Matheson for making him the poster child and putting words into his mouth that his fingers didn’t actually type.  (And, in direct answer to his question chez DeLong, Nancy Ortiz in comments to the previous thread, lays out the biggest problems with “chained CPI” specifically as a measure for Social Security [or generally for anyone without legacy wealth].)</p>
+<p>PJR, again in the previous comments thread, correctly sends us to the <a href="http://www.ssa.gov/history/reports/boskinrpt.html">Boskin Report</a>, and is not impressed:<br />
+<blockquote>I conclude that the C-CPI probably answers the wrong question, consequently measures the wrong concept, and conflates inflation with behavioral responses to inflation.</p></blockquote>
+<p>To I trust no one’s great surprise, I consider that a generous interpretation.  Yet the myth persists.  Which is another reason we have a problem with Macro.</p>
+<p>Chemists don’t teach <a href="http://en.wikipedia.org/wiki/Phlogiston_theory">Phlogiston Theory</a>. None of the biologists, biochemists, or biophysicists I know talks about the glories of <a href="http://en.wikipedia.org/wiki/Lamarckism">Lamarckism</a> when differentiating between 3’ and 5’ DNA.  But economists still pretend, as they did a decade ago <a href="http://economistsview.typepad.com/economistsview/2013/01/the-end-of-economists-imperialism.html">that Gary Becker proved that economics means that discrimination does not exist</a>; that Real Business Cycle Theory can actually explain any significant portion of Business Cycles in <em>either</em> direction; that NAIRU is a workable concept, even as “skill shortages” cause it to be severely discontinuous in a world that claims to have continuous functions (and does not work if it doesn’t).</p>
+<p><a name="more"></a></p>
+<p>A world where CPI is a bad measure because people will choose dog food when they cannot afford Hamburger Helper (which we call “chicken-steak,” as if it were <a href="http://www.youtube.com/watch?v=FctT-gzFaOw">Patrick Stewart and Steve Martin negotiating</a> [link will be understood by rjw’s students]) and that the IBM ThinkPads I bought three months ago costs about 1/10th what it did when it was new in 2001 (and I can probably sell it for&#8230;<em>bupkis</em>) means that <a href="http://delong.typepad.com/sdj/2011/04/1700-per-capita-per-year-in-consumer-surplus-from-personal-computers.html">“computing costs” have gone down for consumers</a>.</p>
+<p>Not to mention a world of “rational expectations” (“micromotives,” as it were) being generalized so that networks, social interactions, cliques, and indeed governments are treated solely as if they are the sum of the parts.</p>
+<p>The problem with Macro remains Micro, and the problem with my previous post remains that I was more than a bit unfair to Professor Matheson of Holy Cross, for which I apologize to him and our readers.<br />(Discussion of the paper referenced yesterday is deferred to another day.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/the-problem-with-macro-and-an-apology.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>John Roberts and Elena Kagan: Mirror Images of Each Other</title>
+		<link>./../../2012/06/john-roberts-and-elena-kagan-mirror-images-of-each-other.html</link>
+		<comments>./../../2012/06/john-roberts-and-elena-kagan-mirror-images-of-each-other.html#respond</comments>
+		<pubDate>Fri, 29 Jun 2012 14:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ACA litigation]]></category>
+		<category><![CDATA[Elena Kagan]]></category>
+		<category><![CDATA[Jeff Shesol]]></category>
+		<category><![CDATA[John Roberts]]></category>
+		<category><![CDATA[Ken Houghton]]></category>
+		<category><![CDATA[Linda Greenhouse]]></category>
+		<category><![CDATA[Obamacare]]></category>
+		<category><![CDATA[Slate]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/john-roberts-and-elena-kagan-mirror-images-of-each-other.html</guid>
+		<description><![CDATA[The second biggest surprise of the day, after the survival of the Affordable Care Act, is that we’ve never really gotten over our collective crush on John Roberts. How else to explain today’s outpouring of praise, not merely for the decision but for the man himself, for his statesmanship and judicial modesty? All these years, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>The second biggest surprise of the day, after the survival of the Affordable Care Act, is that we’ve never really gotten over our collective crush on John Roberts. How else to explain today’s outpouring of praise, not merely for the decision but for the man himself, for his statesmanship and judicial modesty? All these years, it now appears, we’ve held it in our hearts; we’ve written it in our diaries, remembering every one of those sweet nothings he once whispered about “common ground” and “humility.” No, we never really gave up on Roberts. Not during that long judicial bender he took with the boys—Nino, Clarence, Tony, and Sam; not during the <em>Citizens United</em> argument, when he called the government “big brother”; not when he swept away a century’s worth of campaign finance regulations. So complete is our swoon, in the afterglow of the ACA ruling, that <a href="http://www.thedailybeast.com/articles/2012/06/28/obamacare-supreme-court-ruling-john-roberts-changes-his-legacy.html" target="_blank">Bob Shrum has written</a> that if Roberts had been Chief Justice in 2000, <em>Bush v. Gore</em> might have gone the other way.
+</p>
+</div>
+<div></div>
+<div>&#8212; <a href="http://www.slate.com/articles/news_and_politics/jurisprudence/2012/06/john_roberts_is_hardly_the_hero_and_judicial_statesman_people_make_him_out_to_be_.html#comments">John Roberts Is No Hero: Why ourcrush on the chief justice is silly—and undeserved</a>, Jeff Shesol, Slate, Jun. 28
+</p>
+</div>
+<div></div>
+<div>To which I posted the following comment:
+</p>
+</div>
+<div></div>
+<div>I write on legal and political issue issues for a left-of-center blog and have indicated there that I detest and really fear John Roberts because of his deeply diabolical nature and his checklist of ‘80s-era Federalist Society things-to-do.   Linda Greenhouse has written several columns, two or three of them within the last few months, highlighting those two quintessential John Roberts traits.  But Greenhouse, and I, predicted that Roberts would save the ACA because the case is so high-profile and the grounds for striking down the statute so utterly artificial that it would place more public scrutiny on the types of things he and his cadre normally get away with with virtually no public awareness.  I don’t think he did what he did out of a sense of statesmanship, nor in order to gut the Commerce Clause; I think the Commerce Clause ruling will have almost no practical effect, and he could have done the same thing with it simply by joining the other four conservatives in a 5-4 ruling striking down the ACA. 
+</p>
+</div>
+<div></div>
+<div>I think he’s, in a way, the mirror image of Elena Kagan, who in high-profile cases usually votes liberal but who, best as I can tell, almost never goes out on a limb for the “nobody” “cert” petitioner and actually fights to get a “cert grant,” as Sotomayor does, and who I’d bet doesn’t even vote very often to hear such cases.  Her priorities seem to be her own public image and being buddies with the “in” crowd on the Court, whereas Roberts’ priority is making as many dramatic changes to the law as he can, but doing so as much under the public’s radar as possible.  (I also think Kagan is a bit naïve on some issues because of her unfamiliarity with them—see, e.g.: federal habeas review of state-court convictions—and fairly easily snowed.)
+</p>
+</div>
+<div></div>
+<div>So I agree with Ken Houghton in his post below that John Roberts is not the friend of progressives.  I disagree with Ken, though, that Roberts has set up some trap through which he will later orchestrate the striking down of the ACA as a violation of equal protection because of the way in which the Medicaid expansion is administered (if I understand Ken correctly) is nil.  Roberts ended his opinion with a statement saying that the proper manner in which to determine the ultimate fate of the ACA is through the political process, not the judicial process—and I think he means it.  There are two parts of Roberts’ opinion—the part concerning Congress’s regulatory powers under the Commerce Clause and the part concerning Congress’s power to enact federal-state partnership legislation <i>a la </i>Medicaid—that raise serious concerns about the impact on <i>other</i>legislation.  I wrote separate posts yesterday about each of these, and I’ll be writing another one on Medicaid issue later today. 
+</p>
+</div>
+<div></div>
+<div>But any lawsuits concerning some aspect of how the law is working in practice, once it gets underway, would result in the possible tweaking of an HHS regulation or in the manner in which a particular state is implementing the Act, but I just don’t foresee a successful attack on the constitutionality of some provision in the Act itself. 
+</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/john-roberts-and-elena-kagan-mirror-images-of-each-other.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Japan May Have Reached Point 7</title>
+		<link>./../../2011/03/japan-may-have-reached-point-7.html</link>
+		<comments>./../../2011/03/japan-may-have-reached-point-7.html#respond</comments>
+		<pubDate>Wed, 16 Mar 2011 15:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[alternative energy investment]]></category>
+		<category><![CDATA[disaster]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[just life]]></category>
+		<category><![CDATA[Ken Houghton]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/japan-may-have-reached-point-7.html</guid>
+		<description><![CDATA[I give up. It was perfectly obvious what was happening at Fukushima on Saturday afternoon, when I posted bullet points at Skippy: there was going to be a major cleanup cost and the live reactors were not salvageable, but nothing fatal to many was loose in the atmosphere yet. Which is why I followed up [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I give up. It was perfectly obvious what was happening at Fukushima on Saturday afternoon, when I <a href="http://xnerg.blogspot.com/2011/03/basic-reminders-of-nuclear-power.html">posted bullet points at Skippy</a>: there was going to be a major cleanup cost and the live reactors were not salvageable, but nothing fatal to many was loose in the atmosphere yet.</p>
+<p>Which is why I followed up here on Sunday with &#8220;<a href="http://www.angrybearblog.com/2011/03/tradeoffs-saltwater-edition.html">use saltwater as the best option</a>.&#8221; Once you accept that you&#8217;re doing damage control, do it efficiently and don&#8217;t worry about the sunk cost.</p>
+<p>But evacuation and problems with all three plants that were offline at the time of the earthquake moves to stage seven,  which was summarized by Pink Floyd:<br />
+
+</p>
+<p>Though even that may be pessimistic; Al Jazzera English (via their Twitter feed) reports that <a href="http://english.aljazeera.net/news/asia-pacific/2011/03/201131635745664299.html#">the heroes of this entire episode</a>—the unnamed workers who are trying to avert serious leakage into the environment—are back at work after having temporarily been evacuated to a bunker.</p>
+<p><a href="http://msf.org/">Medicins Sans Frontiers (Doctors without Borders)</a></p>
+<p><a href="http://shelterbox.org/">Shelterbox</a></p>
+<p><a href="http://www.globalgiving.org/">Global Giving</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/japan-may-have-reached-point-7.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economics and Bosses</title>
+		<link>./../../2011/02/economics-and-bosses.html</link>
+		<comments>./../../2011/02/economics-and-bosses.html#respond</comments>
+		<pubDate>Mon, 28 Feb 2011 04:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[Ken Houghton]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[MPK]]></category>
+		<category><![CDATA[MPL]]></category>
+		<category><![CDATA[pensions]]></category>
+		<category><![CDATA[retirement]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/economics-and-bosses.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak, who is smarter and nicer than I am,* boils down the question: [D]o you believe that managers normally make the right decisions over how to run organizations? If you believe that premise, please explain: Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Peter Dorman at Econospeak, who is smarter and nicer than I am,* <a href="http://econospeak.blogspot.com/2011/02/are-bosses-always-right.html">boils down the question</a>:<br />
+<blockquote>[D]o you believe that managers normally make the right decisions over how to run organizations?</p></blockquote>
+<p>If you believe that premise, please explain:
+<ol>
+<li>Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, but their successors—who supposedly are more capable—are only capable of offering defined contribution?</li>
+<li>That &#8220;underfunded pension benefits&#8221; are evil, but &#8220;overunded&#8221; pensions led to the LBO (now &#8220;Private Equity&#8221;) movement of the 1980s.</li>
+<li>That, in the 1980s, GM being $1B underfunded caused Congress to pass a bill allowing pensions to become fully funded over 20 years—and that most of those targets were missed?</li>
+</ol>
+<p>If bosses are so good at managing &#8220;ongoing concerns,&#8221; why do they take their payments upfront?  What does—and should—this tell us about discount rates?</p>
+<p>*This is a fairly low standard, outside of people who work in finance.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/economics-and-bosses.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

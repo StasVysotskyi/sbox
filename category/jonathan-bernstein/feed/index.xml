@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jonathan Bernstein &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Jonathan Bernstein Nails the Mad Hatter</title>
+		<link>./../../2012/10/jonathan-bernstein-nails-the-mad-hatter.html</link>
+		<comments>./../../2012/10/jonathan-bernstein-nails-the-mad-hatter.html#respond</comments>
+		<pubDate>Thu, 11 Oct 2012 01:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bain Capital]]></category>
+		<category><![CDATA[Jonathan Bernstein]]></category>
+		<category><![CDATA[Mad Hatter]]></category>
+		<category><![CDATA[Mitt Romney]]></category>
+		<category><![CDATA[Washington Post]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/jonathan-bernstein-nails-the-mad-hatter.html</guid>
+		<description><![CDATA[Beautiful. (I was thinking the same thing during the debate, but since no one afterward pointed it out, I thought I must have misunderstood.)  Just wondering whether Romney still has his old calculator around.  The one from his Bain days.  The one that could actually add and subtract!  And multiply and divide and perform algebraic, trigonometric and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div><a href="http://www.washingtonpost.com/blogs/plum-line/post/mitt-romneys-tax-mythology-made-simple/2012/10/10/6f09c24a-1306-11e2-9a39-1f5a7f6fe945_blog.html?hpid=z3">Beautiful</a>. (I was thinking the same thing during the debate, but since no one afterward pointed it out, I thought I must have misunderstood.) 
+</p>
+</div>
+<div></div>
+<div>Just wondering whether Romney still has his old calculator around.  The one from his Bain days.  The one that could actually add and subtract!  And multiply and divide and perform algebraic, trigonometric and calculus equations, and do amazing other types of calculations too, apparently.  
+</p>
+</div>
+<div></div>
+<div>You know.  The one that tallied up the funds in that Caymans IRA and in the Swiss and Bermuda accounts and shell corporations.
+</p>
+</div>
+<div></div>
+<div>Better still: Maybe he can borrow a calculator from Brad Malt, his family’s trust-fund trustee and lawyer.  Or from that PriceWaterhouseCoopers accountant who did his taxes for the last two decades or whatever.
+</p>
+</div>
+<div></div>
+<div>Oh.  Wait.  He did.
+</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/jonathan-bernstein-nails-the-mad-hatter.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

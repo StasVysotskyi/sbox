@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FTA &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>&#8230;and thereby improving our exports.</title>
+		<link>./../../2010/07/and-thereby-improving-our-exports.html</link>
+		<comments>./../../2010/07/and-thereby-improving-our-exports.html#respond</comments>
+		<pubDate>Fri, 09 Jul 2010 10:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[exports]]></category>
+		<category><![CDATA[FTA]]></category>
+		<category><![CDATA[outsourcing]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/and-thereby-improving-our-exports.html</guid>
+		<description><![CDATA[by Stormylifted from an e-mail &#8211;and thereby improving our exports. Some background: Presently, Colombia enjoys a healthy trade surplus with the U.S. “Colombia&#8217;s biggest surpluses in the January-April period were with the U.S., at $2.325 billion, and with the Netherlands, at $425 million.” Colombia also is actively promoting its sourcing capabilities: “Colombia’s IT sector already [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>by Stormy</strong><br />lifted from an e-mail</p>
+<p><strong>&#8211;and thereby improving our exports.</strong>  </p>
+<p>Some background:</p>
+<p>Presently, Colombia enjoys a healthy <a target="_blank" href="http://colombiareports.com/colombia-news/economy/10271-colombia-april-trade-surplus-at-484-million-dane.html">trade surplus with the U.S</a>.</p>
+<blockquote><p>“Colombia&#8217;s biggest surpluses in the January-April period were with the U.S., at $2.325 billion, and with the Netherlands, at $425 million.”</p></blockquote>
+<p>Colombia also is actively promoting its <a target="_blank" href="http://www.outsourcing.com/latin_america_marketplace/Colombia_IT.pdf">sourcing capabilities</a>:</p>
+<blockquote><p>“Colombia’s IT sector already includes several of the world largest outsourcing companies. IBM, Accenture and EDS are riding the crest of the wave along with world giants such as Oracle, Microsoft, Sun, Dell and many others. All these companies have already discovered the advantages of outsourcing and doing business in Colombia” </p></blockquote>
+<p>What I am curious about is what will we be exporting to Colombia?  Of course, NAFTA did not create jobs in the U.S., but it did bring about a healthy Mexican trade surplus with the U.S.</p>
+<p>Wheat and livestock are what might be going to Colombia from the U.S.  In short, agriculture and livestock farmers are pushing the deal….not too many jobs created there.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/and-thereby-improving-our-exports.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

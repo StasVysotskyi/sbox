@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>administrative costs &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>McKinsey Thought-Experiment: What If They Are Correct?</title>
+		<link>./../../2011/06/mckinsey-thought-experiment-what-if-they-are-correct.html</link>
+		<comments>./../../2011/06/mckinsey-thought-experiment-what-if-they-are-correct.html#respond</comments>
+		<pubDate>Fri, 17 Jun 2011 15:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[administrative costs]]></category>
+		<category><![CDATA[Health care costs]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[research]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/mckinsey-thought-experiment-what-if-they-are-correct.html</guid>
+		<description><![CDATA[I&#8217;m not going to do this with graphics (at least for now), but the finger exercise seems intuitive. Assume—against all evidence—that the &#8220;once we educated them, 30% said they would stop offering health insurance to their lowest-paid employees&#8221; study is accurate. How does that, as John Boehner declares, cost America jobs? From Boehner&#8217;s site: At [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m not going to do this with graphics (at least for now), but the finger exercise seems intuitive.</p>
+<p>Assume—<a href="http://www.whitehouse.gov/blog/2011/06/08/getting-insurance-work">against</a> <a href="http://krugman.blogs.nytimes.com/2011/06/17/mckinseygate/">all</a> <a href="http://health.newamerica.net/blogposts/2011/questioning_the_mckinsey_study_someone_should_ask_bowen_garrett-53161">evidence</a>—that the &#8220;once we educated them, 30% said they would stop offering health insurance to their lowest-paid employees&#8221; study is <em>accurate</em>.</p>
+<p>How does that, <a href="http://www.speaker.gov/Blog/?postid=245058">as John Boehner declares</a>, cost America jobs?</p>
+<p>From Boehner&#8217;s site:<br />
+<blockquote>At least 30 percent of employers would gain economically from dropping coverage even if they completely compensated employees for the change through other benefit offerings or higher salaries.</p></blockquote>
+<p>This should be intuitive. If the company is paying $1,000 a month for my family&#8217;s health care along with my $800 a month,* it can raise my paycheck by $1,000 a month—employee compensation is employee compensation—<em>and</em> cut back on its health care administration. If I&#8217;m not a health-care administrator, it&#8217;s win-win.**<br />
+<blockquote><strong>Aside</strong>: Reality <em>will</em> interfere. If we make the Baumolian assumption that cost of health insurance will continue to grow faster than GDP—at a slower rate, probably, but still faster—I&#8217;ll give you odds that the labor share of revenues will decline, <em>cet. par.</em> over time. But we&#8217;re talking about jobs, not profits.***</p></blockquote>
+<p>Any economist worth her salt should know that lower costs of employment increase overall employment (assuming there is not a demand-side problem).</p>
+<p>If the McKinsey &#8220;study&#8221; were accurate—again, not the way to bet—we should expect overall employment to <em>increase</em>. As with the <a href="http://scholar.google.com/scholar?q=Earned+Income+Tax+Credit&#038;hl=en&#038;as_sdt=1%2C33">Earned Income Tax Credit</a>, the expansion of HIEs will benefit firms, allowing them to reallocate capital into more useful areas.</p>
+<p>The follow-on effects in that universe: more people joining the HIEs than expected, improvements in the measurement of &#8220;real&#8221; wage growth, greater transparency in the current health-insurance system, and arguably a larger contingency of workers demanding something closer to a single-payer solution,**** all improve efficiency and provide opportunity for economic expansion.</p>
+<p>Which is supposed to mean more jobs, not fewer.</p>
+<p>If the McKinsey presentation accurately reflects what companies will do given the opportunity—think the <a href="http://www.thirdworldtraveler.com/Corporate_Welfare/WalMart_Welfare.html">Wal-Mart Effect</a> Writ Large—then the prospects for employment will be, if anything, increased.</p>
+<p>Greater political pressure for cost-reduction that leads to single-payer becoming more politically viable is just lagniappe.</p>
+<p>*Not the real numbers, of course.</p>
+<p>**If I&#8217;m a Benefits Coordinator, I don&#8217;t lose my job, and I get to spend more time working on ensuring that the firm is competitive in other areas. If I were doing an economic model of this against employment, I would bet that the coefficient would be small but positive, so let&#8217;s be generous and assume it&#8217;s equivalent to zero, i.e., no effect on employment supply.</p>
+<p>As an aside, this was in part the reasoning behind the Bear Stearns &#8220;bag of rubber bands, box of paper clips, go buy all your own supplies&#8221; thinking. It didn&#8217;t necessarily save on corporate expenses directly, but it meant not having to manage that area of inventory.</p>
+<p>***If anything, the extra profits, <em>cet. par.</em>, facilitate business expansion and more hiring. That the multiplier effect will not be 1:1 simply reflects what a poor social investment private corporations are.</p>
+<p>****More people forced to use the HIEs=> more people demanding similar plans across state lines => more demand for a larger uniform baseline (especially as families move from state to state) => more interest in cost controls => greater need to control Administrative expenses => disequilibrium in service demand and supply => demand for service efficiencies that result in either single-payer or, at worst, unified Servicer processing.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/mckinsey-thought-experiment-what-if-they-are-correct.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Left As An Exercise Post of the Day</title>
+		<link>./../../2011/04/left-as-an-exercise-post-of-the-day.html</link>
+		<comments>./../../2011/04/left-as-an-exercise-post-of-the-day.html#respond</comments>
+		<pubDate>Wed, 06 Apr 2011 19:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[administrative costs]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[government]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/left-as-an-exercise-post-of-the-day.html</guid>
+		<description><![CDATA[Economists&#8217;s claims that taxes should not be paid by corporations is based on the premise that government should be relatively  inefficient and/or run a deficit in perpetuity. Discuss.]]></description>
+				<content:encoded><![CDATA[<div>
+<p>Economists&#8217;s claims that taxes should not be paid by corporations is based on the premise that government should be relatively  inefficient and/or run a deficit in perpetuity.</p>
+<p>Discuss. </p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/left-as-an-exercise-post-of-the-day.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

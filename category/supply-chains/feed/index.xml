@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>supply chains &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Health Care: Supply Chain Meltdowns</title>
+		<link>./../../2012/02/health-care-supply-chain-meltdowns.html</link>
+		<comments>./../../2012/02/health-care-supply-chain-meltdowns.html#respond</comments>
+		<pubDate>Fri, 17 Feb 2012 15:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care thoughts]]></category>
+		<category><![CDATA[importing pharmaceuticals]]></category>
+		<category><![CDATA[supply chains]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/health-care-supply-chain-meltdowns.html</guid>
+		<description><![CDATA[by Tom aka Rusty Rustbelt Health Care: Supply Chain Meltdowns First: Counterfeit vials of the cancer drug Avastin have been found in three states. The vials, sold directly to physician offices, lack the active ingredients to make the drug effective. Somewhat luckily, the packaging was so sloppy the vials were spotted, although some of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Tom aka Rusty Rustbelt</strong></p>
+<p><strong>Health Care: Supply Chain Meltdowns</strong>   </p>
+<p><em>First</em>:    <br />Counterfeit vials of the cancer drug Avastin have been found in three states. The vials, sold directly to physician offices, lack the active ingredients to make the drug effective. Somewhat luckily, the packaging was so sloppy the vials were spotted, although some of the medication was likely used. We might not be so lucky next time.<br />    <br /><em>Then</em>:    <br />The drug common Methotrexate, used to treat several kinds of cancers, is in short supply. Methotrexate is considered essential in battling acute lymphoblastic leukemia in adults and in children.    </p>
+<p>As drugs become generic the cost goes down, but generic drug makers are not especially adept at making injectable medications, being better at mass production of pills. The closure of just a few plants can cause a shortage, as we have now.<br />    <br />More than 250 meds have been on the shortage list in the last year or two, as the lower costs of production are offset by lower reimbursements leading to less capital investment and production.    </p>
+<p><a name="more"></a><br /><em>And Finally</em>:    <br />The Johnson and Johnson Depuy subsidiary is in hot water with the FDA for joint replacements failing too early too often (15 years is the hoped for life of joint replacement surgeons, results vary by patient). Depuy recently received some bad publicity for selling the same joint replacements in Europe.    </p>
+<p>Meanwhile U.S. malpractice lawyers are having a field day, and a fake internet artificial joint registry disappeared when registrants were hustled by lawyers they had never heard of (the feds are working to start a legitimate registry).     </p>
+<p><em>So</em>:    <br />Most of the medical supply chain is efficient and provides quality goods, but a few meltdowns can have horrendous impacts.<br />   </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/health-care-supply-chain-meltdowns.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Take a break &#8230;planning for efficiency</title>
+		<link>./../../2011/03/take-a-break-planning-for-efficiency.html</link>
+		<comments>./../../2011/03/take-a-break-planning-for-efficiency.html#respond</comments>
+		<pubDate>Wed, 16 Mar 2011 14:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Daniel Crawford]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[global economies]]></category>
+		<category><![CDATA[supply chains]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/take-a-break-planning-for-efficiency.html</guid>
+		<description><![CDATA[Yves Smith at Naked Capitalism points us to exploring how the pursuit of &#8220;efficiency&#8221;, for example in supply chains, without assessing what other risks are involved and planning ahead can result in major problems: It isn’t all that hard to understand that stressing efficiency at all cost comes at the expense of safety. Engineers will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.nakedcapitalism.com/2011/03/japan-earthquake-shows-business-reengineering-relies-on-bogus-thinking-similar-to-financial-engineering.html">Yves Smith</a> at Naked Capitalism points us to exploring how the pursuit of &#8220;efficiency&#8221;, for example in supply chains, without assessing what other risks are involved and planning ahead can result in major problems:<br />
+<blockquote>
+<p>It isn’t all that hard to understand that stressing efficiency at all cost comes at the expense of safety. Engineers will tell you that efforts that are pro-safety involve various forms of buffers and redundancy and are thus costly. During the early days of the crisis, commentators often discussed the implications of Richard Bookstaber’s book A Demon of Our Own Design, in which he argued that systems that lacked breaks between various processes were tightly coupled, which meant that a failure at one point in the process would propagate through the entire system, as if one transformer failing would bring down an entire electrical grid.</p>
+<p> <a name="more"></a>
+<p>Anyone who has been on the periphery of manufacturing can see that all its fads can easily have pushed too many companies into failure-prone systems. Just in time inventory was a reversal of the historical propensity of manufactures to carry a lot of inventory to make life easier for managers. That practice in isolation might not be a bad thing. But over the years, many manufacturers have also concentrated on limiting the number of vendors to give them more bargaining leverage with them and squeeze them on costs. That increases dependence on suppliers while also increasing the riskiness of their operations. It has finally become fashionable to work with vendors or offshored factories in countries with low labor costs like China, Bangladesh, and Vietnam. Long transit times also increases business risk. </p>
+<p>Now of course, like traders, top manager have every reason not to be terribly worried about long term risks. The prototype of the profitable but risky trading strategies that Nicholas Nassim Taleb likes to deride is that they work just fine on a day to day basis but blow up catastrophically periodically.<strong><em> And those blowups are predictable. </em></strong>But as long as they aren’t likely to happen every year or every other year, decision-makers have huge incentives that increase risk as long as the blow-up risk is not all that imminent (I am waiting for a quant to devise an optimal blow up metric as a covert trading strategy tool). So we should also regard the fact that business managers have acted exactly like reckless traders to be an expected outcome. </p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/take-a-break-planning-for-efficiency.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

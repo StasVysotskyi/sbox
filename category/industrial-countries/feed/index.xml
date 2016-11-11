@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>industrial countries &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>US wages trail 10 OECD countries, but with higher unemployment than 9 of them</title>
+		<link>./../../2012/09/us-wages-trail-10-oecd-countries-but-with-higher-unemployment-than-9-of-them.html</link>
+		<comments>./../../2012/09/us-wages-trail-10-oecd-countries-but-with-higher-unemployment-than-9-of-them.html#respond</comments>
+		<pubDate>Sun, 09 Sep 2012 21:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[industrial countries]]></category>
+		<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[market wages]]></category>
+		<category><![CDATA[PPP]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/us-wages-trail-10-oecd-countries-but-with-higher-unemployment-than-9-of-them.html</guid>
+		<description><![CDATA[by Kenneth Thomas US wages trail 10 OECD countries, but with higher unemployment than 9 of them Contra Eric Cantor, Labor Day celebrates the importance of labor and the labor movement in American history. But the bluster of Cantor, where he celebrates the so-called job creators, does illustrate that organized labor has been in decline [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Kenneth Thomas </p>
+<p> US wages trail 10 OECD countries, but with higher unemployment than 9 of them</p>
+<p> Contra <a href="http://talkingpointsmemo.com/archives/2012/09/new_labor.php">Eric Cantor</a>, Labor Day celebrates the importance of labor and the labor movement in American history. But the bluster of Cantor, where he celebrates the so-called job creators, does illustrate that organized labor has been in decline in this country for quite some time.    </p>
+<p>One result of having a <a href="http://middleclasspoliticaleconomist.blogspot.com/2011/09/labor-day-us-has-fifth-lowest-union.html">weak labor movement</a> is that average wages in the United States have fallen behind those of 10 other industrialized democracies that are members of the Organization for Economic Cooperation and Development (OECD). What is most confounding, for Republicans at least, is that nine of these countries also have lower unemployment, which contradicts their view that high wages (and <a href="http://middleclasspoliticaleconomist.blogspot.com/2011/09/labor-day-of-nine-oecd-members-with.html">high minimum wages</a>) harm employment.     </p>
+<p>The table below below is constructed from data at OECD StatExtracts, showing the average earnings of all wage and salary workers in each country, as well as its most recent unemployment rate (usually July 2012).<br />Source: <a href="http://stats.oecd.org/Index.aspx#">OECD StatExtracts</a>.</p>
+<div><a href="http://2.bp.blogspot.com/-XhyZbf6-yNM/UE0JS8DIYxI/AAAAAAAABA4/qEavNdpq94A/s1600/kenneth1.PNG" imageanchor="1"><img border="0" height="298" src="http://2.bp.blogspot.com/-XhyZbf6-yNM/UE0JS8DIYxI/AAAAAAAABA4/qEavNdpq94A/s320/kenneth1.PNG" width="320"></a></div>
+<p>
+<div><a href="http://1.bp.blogspot.com/-XMMyhcqX2AQ/UE0JXQcTxWI/AAAAAAAABBA/Ne5E0R3Tn5s/s1600/kenneth2.PNG" imageanchor="1"><img a="a" border="0" height="202" src="http://1.bp.blogspot.com/-XMMyhcqX2AQ/UE0JXQcTxWI/AAAAAAAABBA/Ne5E0R3Tn5s/s320/kenneth2.PNG" width="320"><br /></a></div>
+<p><a name="more"></a></p>
+<p>For average wages, select data by theme, then labour, then earnings, then average annual wages, and use &#8220;2011 USD exchange rates and 2011 constant prices&#8221; for each country. For unemployment, select data by theme, then labour, then labour force statistics, then short-term statistics, then short-term labour market statistics, then harmonized unemployment rates.<br />    <br />This table does not make use of purchasing power parity (PPP) conversions to wages (and the U.S. in fact has the highest wages when adjusted for PPP), for a very important reason. Essentially, the PPP calculation adjusts actual exchange rates for differences in the cost of living between countries. In practice, this means downward adjustments for expensive countries like Norway (where I had a personal pan pizza for $25 on my honeymoon six years ago; the <i>New York Times</i> recently published <a href="http://frugaltraveler.blogs.nytimes.com/2012/08/24/scandinavia-on-125-a-day/?ref=travel">more examples</a>) and upward adjustments for developing countries and even Eastern European countries. As I note in <a href="http://us.macmillan.com/investmentincentivesandtheglobalcompetitionforcapital/KennethPThomas"><i>Investment Incentives and the Global Competition for Capital</i></a>, gross national income per capita for the Czech Republic in 2006 was $12,680 at actual exchange rates, but $21,470 at PPP (page 99).<br />    <br />The reason we should ignore PPP when dealing with wages and jobs is that a company deciding to invest in one place rather than another has to pay the wages using the actual exchange rate and is not affected by PPP. Thus, if there is an effect of wages on employment, that will be a response to what an employer actually has to pay to hire someone, not a hypothetical measure of how well off the worker is in terms of PPP-adjusted dollars. The data here does not show any negative effect of wages on unemployment.<br />    <br />Moreover, I would argue that living in a high-wage, high-cost location has distinct advantages over living in a low-wage, low cost location, even if after adjusting for cost of living (via PPP or within a single country) the lower wage location has &#8220;higher&#8221; pay. One important reason is that having extra cash gives you extra options. You will have a higher retirement benefit and will keep it if you move to a lower-cost area, whereas the reverse is not possible. You will have better quality services on average, particularly health care. It is far easier for you to vacation in a low-cost location than it will be for someone in a low-cost location to vacation to a high-cost location ($25 personal pan pizzas!).</p>
+<p>Your high salary will be the benchmark if you take a job in a lower-cost location. If you economize from the standard basket of goods used to measure cost of living, your benefit will be higher in the high-cost area. Of course, a full treatment of this issue requires another post, but the big point is that high wages do not necessarily create unemployment and reducing wages is not the route to middle class prosperity.</p>
+<p>cross posted with  <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/09/labor-day-us-wages-trail-10-oecd.html">Middle Class Political Economist</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/us-wages-trail-10-oecd-countries-but-with-higher-unemployment-than-9-of-them.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

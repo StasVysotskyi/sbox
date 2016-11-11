@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>William Baumol &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Why Healthcare is So Expensive Part MMDCLVI</title>
+		<link>./../../2010/12/why-healthcare-is-so-expensive-part-mmdclvi.html</link>
+		<comments>./../../2010/12/why-healthcare-is-so-expensive-part-mmdclvi.html#respond</comments>
+		<pubDate>Tue, 21 Dec 2010 22:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Health Care]]></category>
+		<category><![CDATA[Health care costs]]></category>
+		<category><![CDATA[service industry]]></category>
+		<category><![CDATA[William Baumol]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/why-healthcare-is-so-expensive-part-mmdclvi.html</guid>
+		<description><![CDATA[by Tom Bozzo, cross-posted from Marginal Utility Competition in (increasing) service quality doesn’t reduce costs: Dane County’s two hospitals that deliver babies are each spending close to $40 million to spruce up maternity units and related facilities for a simple reason: Young women are key health care consumers, often deciding where their families will seek [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo, cross-posted from <a href="http://atbozzo.wordpress.com/">Marginal Utility</a></p>
+<p>Competition in (increasing) service quality <a href="http://host.madison.com/wsj/news/local/health_med_fit/article_2c8ab9ea-0c98-11e0-90d1-001cc4c03286.html">doesn’t reduce costs</a>:<br />
+<blockquote>Dane County’s two hospitals that deliver babies are each spending close to $40 million to spruce up maternity units and related facilities for a simple reason: Young women are key health care consumers, often deciding where their families will seek medical services for decades.</p>
+<p>“If you don’t cater to women, you lose your market share,” said Kathy Kostrivas, Meriter’s assistant vice president of women’s health.</p>
+<p>Many pregnant women tour both hospitals before choosing where to give birth, some bringing birth plans for each step of labor and delivery, said Holly Halberslaben, director of St. Mary’s family care suites.</p>
+<p>“They really do their homework,” Halberslaben said. “It can be their first time in a hospital. You want to retain them.”</p></blockquote>
+<p>The somewhat buried exculpatory case for these investments is that the facilities have been operating near capacity, and the Madison area is the fastest-growing part of Wisconsin apart from some areas in the Twin Cities’ exurban fringe.  Nevertheless, the hospitals fairly evenly split a market of just over 7,000 annual births, so $80 million is not an insubstantial cost to recover.</p>
+<p>I wonder how many expecting moms really are cross-shopping the facilities for compatibility with birth “plans.”[*] Many if not most of the births sort into the two hospitals on the basis of affiliations that send participants in several of the major local health insurance plans to one hospital or the other.  So even a modest amount of gold-plating can represent a large cost per birth on the contestable margin.  Granted, in addition to some Cadillac plan participants, the uninsured population has (Hobson’s?) choice as to where to give birth.  Though it’s messed up in a whole different way if the hospitals’ business plans would seek to recover a significant share of costs incurred to attract well-to-do moms to these facilities from the uninsured.</p>
+<p>[*] When John was born, the plan was to have a healthy baby, which turned out to be the plan that was robust to complications that would have mooted any other plans.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/why-healthcare-is-so-expensive-part-mmdclvi.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>colors &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The colors of the Holidays</title>
+		<link>./../../2008/12/the-colors-of-the-holidays.html</link>
+		<comments>./../../2008/12/the-colors-of-the-holidays.html#respond</comments>
+		<pubDate>Tue, 23 Dec 2008 18:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Christmas]]></category>
+		<category><![CDATA[colors]]></category>
+		<category><![CDATA[holidays]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/the-colors-of-the-holidays.html</guid>
+		<description><![CDATA[It&#8217;s the holidays. Time for some color on the AB. Happy Holidays!by divorced one like Bush]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s the holidays.  Time for some color on the AB.</p>
+<p><a href="http://2.bp.blogspot.com/_ea3-LcbrX8A/SVEf-D4WaVI/AAAAAAAAAMA/dw5nwKEGfbQ/s1600-h/HPIM0330.JPG"><img src="http://2.bp.blogspot.com/_ea3-LcbrX8A/SVEf-D4WaVI/AAAAAAAAAMA/dw5nwKEGfbQ/s400/HPIM0330.JPG" border="0" alt=""></a><br /><a href="http://1.bp.blogspot.com/_ea3-LcbrX8A/SVEgOiafUEI/AAAAAAAAAMI/nVU5NShrTl4/s1600-h/HPIM0326.JPG"><img src="http://1.bp.blogspot.com/_ea3-LcbrX8A/SVEgOiafUEI/AAAAAAAAAMI/nVU5NShrTl4/s400/HPIM0326.JPG" border="0" alt=""></a></p>
+<p><a href="http://3.bp.blogspot.com/_ea3-LcbrX8A/SVEgXoTxPrI/AAAAAAAAAMQ/YzSrQjXRDL8/s1600-h/HPIM0332.JPG"><img src="http://3.bp.blogspot.com/_ea3-LcbrX8A/SVEgXoTxPrI/AAAAAAAAAMQ/YzSrQjXRDL8/s400/HPIM0332.JPG" border="0" alt=""></a><br /><a href="http://3.bp.blogspot.com/_ea3-LcbrX8A/SVEgf2CImGI/AAAAAAAAAMY/Y3fuC8c5dX4/s1600-h/HPIM0334.JPG"><img src="http://3.bp.blogspot.com/_ea3-LcbrX8A/SVEgf2CImGI/AAAAAAAAAMY/Y3fuC8c5dX4/s400/HPIM0334.JPG" border="0" alt=""></a><br />Happy Holidays!<br />by divorced one like Bush</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/the-colors-of-the-holidays.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

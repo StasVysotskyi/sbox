@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>microeconomic theory &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Notes Toward Economics at (or, more accurately, approaching) the Eschaton</title>
+		<link>./../../2012/12/notes-toward-economics-at-or-more-accurately-approaching-the-eschaton.html</link>
+		<comments>./../../2012/12/notes-toward-economics-at-or-more-accurately-approaching-the-eschaton.html#respond</comments>
+		<pubDate>Tue, 25 Dec 2012 06:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/12/notes-toward-economics-at-or-more-accurately-approaching-the-eschaton.html</guid>
+		<description><![CDATA[No, not Dr. Black’s blog.  The real eschaton: the end of everything.  Or, in this case, its economics equivalent: the point at which almost all human work is no longer necessary but human beings still exist. The scenario is a simple one.  There are x humans on Earth (x>>1).  Self-repairing, recycling machines can provide all [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, not <a href="http://www.eschatonblog.com/">Dr. Black’s blog</a>.  The <em>real </em>eschaton: the end of everything.  Or, in this case, its economics equivalent: the point at which almost all human work is no longer necessary but human beings still exist.
+<p>The scenario is a simple one.  There are x humans on Earth (x>>1).  Self-repairing, recycling machines can provide all the needs and wants of those x people and then some.*  There is only one job humans need to do: every day, one person needs to press one button once&#8211;during a specific time period—to start the self-rebuilding and repairing of the machines.</p>
+<p>Applying basic micro and macro economic theories, and assuming a money-using society, we can come to several stylized facts:</p>
+<ol>
+<li>This is the true case where Chamley (1995, 1996) applies.  The only capital created is exactly that that replaces current capital.  With no new capital, the effective tax rate on capital should be 0%.**     </li>
+<li>The requirement that someone presses the button has two aspects:</li>
+<ol>
+<li>It is not required to be skilled labor</li>
+<li>It is, however, essential labor</li>
+</ol>
+<li>In standard economic theory, the laborer is paid hisser Marginal Product</li>
+<ol>
+<li>The pressing of the button provides all of the goods to everyone for that day; since there is no MPK in this scenario, the MPL should equal the net profits from that day.</li>
+<li>Pressing the button requires the laborer to choose to do the job instead of something more pleasant; therefore, they must be compensated to provide at least as much Utility as not pushing the button would provide them</li>
+<li>For a sufficiently large population x, there may well be people who will not press the button in their lifetimes.  For even relatively large x, there will be people who will press the button less frequently than they will need to buy goods.</li>
+<ol>
+<li>In either of those scenarios—unless we consider Malthusian constraints necessary in a time of abundant plenty—any equilibrium condition will require that each person and any of hisser dependents be supported s.t. AD does not decline.</li>
+</ol>
+</ol>
+</ol>
+<p>The natural scenario for button-pushing selection is by lottery, which would also minimize the substitution effect. Some constraints would be required: may not repeat for at least z days, cannot sell/buyout of doing the job (though some intraweek switching possible), backup available in case of illness,*** etc.</p>
+<p>What is interesting is the tax rate <em>t</em> required.  It is fairly easy to show that for even moderate populations, <em>t </em>must approach 100% if the laborer is indeed receiving the day’s MPL.****  This is in part because, since no new capital is being created, tax revenues from capital must approach 0%.</p>
+<p>The problem then becomes one of Game Theory.  We know what the Final State must be if all activity leading up to it is rational.  The next question is how we get there.  But that will have to be deferred to my next post.</p>
+<p>Enjoy the Holiday.</p>
+<p> </p>
+<p>*Excess capacity needs to be assumed if you assume humans are still breeding; that is, an additional y babies (y<<x) will neither strain resources nor have more than a marginal effect on AD.</p>
+<p>**It is caddish of me to note that Chamley’s brilliant realization that has been the underpinning of several decades of freshwater economic theory is, of course, completely reflected in the U.S. tax code, where investment is offset directly by depreciation.</p>
+<p>***Anyone who designs a non-redundant system with a Single Point of Failure should be shot. The applicability of this to economic models, and most especially microeconomic models, is left as an exercise to the reader.</p>
+<p>****It is also intuitive that a large consumption tax would not be a reasonable substitute for such an income tax; even a “luxury tax” presents significant timing issues for even a small population.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/12/notes-toward-economics-at-or-more-accurately-approaching-the-eschaton.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economics an Almost Social Science</title>
+		<link>./../../2012/07/economics-an-almost-social-science.html</link>
+		<comments>./../../2012/07/economics-an-almost-social-science.html#respond</comments>
+		<pubDate>Mon, 23 Jul 2012 14:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Behavioral Economics]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+		<category><![CDATA[neoclassical economics]]></category>
+		<category><![CDATA[Peter Dorman]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/economics-an-almost-social-science.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak discusses problems with microfoundations, and in a more thorough paper at Association Economique politique explores the Political Econonomic Outlook for Capitalism. Mark Thoma had pointed to this Business/behavioral science can help guide economic-policy view notion of looking at incentives in an empirical way.]]></description>
+				<content:encoded><![CDATA[<p>Peter Dorman at <a href="http://econospeak.blogspot.com/2012/07/the-problem-with-microfoundations-bad.html" target="_blank">Econospeak</a> discusses problems with microfoundations, and in a more thorough paper at <a href="http://www.assoeconomiepolitique.org/political-economy-outlook-for-capitalism/wp-content/uploads/2012/06/Economics-an-Almost-Social-Science.pdf" target="_blank">Association Economique politique</a> explores the <i>Political Econonomic Outlook for Capitalism.</i></p>
+<p>Mark Thoma had pointed to this <a href="http://www.nytimes.com/2012/07/08/business/behavioral-science-can-help-guide-policy-economic-view.html?emc=tnt&#038;tntemail1=y" target="_blank">Business/behavioral science can help guide economic-policy view</a> notion of looking at incentives in an empirical way.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/economics-an-almost-social-science.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Macro right, micro wrong?</title>
+		<link>./../../2011/11/macro-right-micro-wrong.html</link>
+		<comments>./../../2011/11/macro-right-micro-wrong.html#respond</comments>
+		<pubDate>Tue, 01 Nov 2011 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/macro-right-micro-wrong.html</guid>
+		<description><![CDATA[Derek Thompson at The Atlantic had some thoughts on labor cost and economics taken from Henry Blodgett&#8217;s observation on declining wages for most wage earners. The second paragraph caught my eye as interesting for economists. My response was that Blodget was macro-right &#8212; income inequality is a serious and growing problem &#8212; but micro-wrong, because [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Derek Thompson at <a href="http://www.theatlantic.com/business/archive/2011/10/what-does-a-us-worker-really-cost/247028/">The Atlantic</a> had some thoughts on labor cost and economics taken from Henry Blodgett&#8217;s observation on declining wages for most wage earners.  The second paragraph caught my eye as interesting for economists.  </p>
+</p>
+<blockquote><p>My <a href="http://www.theatlantic.com/business/archive/2011/10/who-really-robbed-the-middle-class-maybe-it-was-health-care/246606/">response</a> was that Blodget was macro-right &#8212; income inequality is a serious and growing problem &#8212; but micro-wrong, because this graph is measuring wages rather than full compensation. Total compensation &#8212; that&#8217;s wages plus benefits and taxes &#8212; hasn&#8217;t changed very much as a share of the economy since 1960, according to data from the National Institute of Pensions Administrators. What&#8217;s changed is that benefits and taxes have gone up, and wages have gone down.</p>
+</blockquote>
+<p>(<a target="_blank" href="http://en.wikipedia.org/wiki/Microeconomics">Wikepedia</a> provides a short refresher of each term.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/macro-right-micro-wrong.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economists:Entrepreneurs::Blind Men:Interior Decorators</title>
+		<link>./../../2011/10/economistsentrepreneursblind-meninterior-decorators.html</link>
+		<comments>./../../2011/10/economistsentrepreneursblind-meninterior-decorators.html#respond</comments>
+		<pubDate>Sun, 16 Oct 2011 21:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+		<category><![CDATA[rational expectations]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/economistsentrepreneursblind-meninterior-decorators.html</guid>
+		<description><![CDATA[As part of my continuing series of Analogies that Should Be on the SAT, this is what Famous Entrepreneurs do (h/t Brad DeLong): In the IBM PC era, Steve drove innovation forward with the Macintosh. This, like the Apple II, was squarely aimed at expanding the use of PCs to everyone, the &#8220;computer for the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As part of my continuing series of Analogies that Should Be on the SAT, this is <a href="http://www.digitopoly.org/2011/10/06/jobs-a-vision-of-american-entrepreneurship/">what Famous Entrepreneurs do</a> (h/t <a href="http://delong.typepad.com/sdj/2011/10/twitterstorm-delong-october-10-2011.html">Brad DeLong</a>):<br />
+<blockquote>In the IBM PC era, Steve drove innovation forward with the Macintosh. This, like the Apple II, was squarely aimed at expanding the use of PCs to everyone, the &#8220;computer for the rest of us.&#8221; Everyone now knows that this was innovating too fast, and that cheaper, duller IBM machines running Microsoft’s dull clone of an earlier operating system would become the standard. But do you know how Steve changed when he realized that &#8220;the rest of us&#8221; were not going to buy the Mac? He learned that the most important early customers for Macs were corporate marketing departments (those graphics!) and worked hard to create, as he told me not long after, &#8220;the best computer company for those corporate marketers we can.&#8221;</p></blockquote>
+<p>This is <a href="http://books.google.com/books?id=wPQQXGo4rzAC&#038;pg=PA52&#038;lpg=PA52&#038;dq=%22after+about+five+years+of+doing+%5Bstandard+statistical+tests%5D+on+rational+expectations+models,+I+recall+Bob+Lucas+and+Ed+Prescott+both+telling+me+that+those+tests+were+rejecting+too+many+good+models%22%22&#038;source=bl&#038;ots=bfNs30E_CO&#038;sig=sJi9U_BmpttwiCreTPB7_KFZtSg&#038;hl=en&#038;ei=guiETrqBPKba0QGPvqznDw&#038;sa=X&#038;oi=book_result&#038;ct=result&#038;resnum=1&#038;ved=0CBoQ6AEwAA#v=onepage&#038;q=%22after%20about%20five%20years%20of%20doing%20%5Bstandard%20statistical%20tests%5D%20on%20rational%20expectations%20models%2C%20I%20recall%20Bob%20Lucas%20and%20Ed%20Prescott%20both%20telling%20me%20that%20those%20tests%20were%20rejecting%20too%20many%20good%20models%22%22&#038;f=false">what Nobel Prize-winning economists do</a> (h/t <a href="http://noahpinionblog.blogspot.com/2011/10/sargent-and-sims-receive-bank-of.html">Noah</a>):<br />
+<blockquote>As Thomas J. Sargent, one of the leading proponents of the Rational Expectations Hypothesis recounted, &#8220;after about five years of doing [standard statistical tests] on rational expectations models, I recall Bob Lucas and Ed Prescott both telling me that those tests were rejecting <em>too many good models</em>.</p></blockquote>
+<p>&#8220;Real entrepreneurs don’t wallow in vision, they sell product.&#8221;  &#8220;Real&#8221; economists, otoh&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/economistsentrepreneursblind-meninterior-decorators.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PSA: Steve Keen at the Roosevelt in NYC tonight at 5:00/6:00</title>
+		<link>./../../2011/09/psa-steve-keen-at-the-roosevelt-in-nyc-tonight-at-500600.html</link>
+		<comments>./../../2011/09/psa-steve-keen-at-the-roosevelt-in-nyc-tonight-at-500600.html#respond</comments>
+		<pubDate>Fri, 23 Sep 2011 18:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/psa-steve-keen-at-the-roosevelt-in-nyc-tonight-at-500600.html</guid>
+		<description><![CDATA[Talk is called &#8220;Neat, Plausible, and Wrong: the Deluded Discipline of Economics.&#8221; I have to quibble with the &#8220;plausible&#8221; portion: there is no possible way to rationalize contemporary Microeconomics with any reasonable conceit that the Macroeconomics produced are &#8220;first-best&#8221; or anything similar.* I doubt I&#8217;ll be there at 5:00, but certainly by 6:00. Hope to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Talk is called &#8220;<a href="http://www.debtdeflation.com/blogs/2011/09/16/new-york-talk-roosevelt-hotel-friday-23rd/">Neat, Plausible, and Wrong: the Deluded Discipline of Economics</a>.&#8221;</p>
+<p>I have to quibble with the &#8220;plausible&#8221; portion: there is no possible way to rationalize contemporary Microeconomics with any reasonable conceit that the Macroeconomics produced are &#8220;first-best&#8221; or anything similar.*</p>
+<p>I doubt I&#8217;ll be there at 5:00, but certainly by 6:00.  Hope to see some of you there.</p>
+<p>Any questions for Professor Keen can be emailed to me or put in comments.</p>
+<p>*This may be the root of my disagreement with Brad DeLong, who learned Macro and Micro when it was still possible—barely—to envision a GUT of Economics, even in a (weak form, as it were) Arrow-Debreu world.  In the past thirty years, the strange delusion that Arrow-Debreu actually <em>reflects</em> the world has come to dominant Micro—with the rather predictable adverse consequence that Macro has to be more-than-the-sum-of-the-parts—i.e., include a positive social aspect—to be the best of all posible current worlds. But a positive social aspect is not part of the NeoKeynesian** cant, so you end up, effectively, declaring (for instance) that Gary Becker is wrong and discrimination is a beneficial business practice.</p>
+<p>**As I have noted before, in economics the phrase &#8220;neo&#8221; is added to the front of a word if you are putting forth a belief set that is diametrically opposed to what came before: neoClassical and neoKeynesian are the most obvious examples of this.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/psa-steve-keen-at-the-roosevelt-in-nyc-tonight-at-500600.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Macroeconomists’ Playbook</title>
+		<link>./../../2011/03/macroeconomists-playbook.html</link>
+		<comments>./../../2011/03/macroeconomists-playbook.html#respond</comments>
+		<pubDate>Sat, 05 Mar 2011 16:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/macroeconomists-playbook.html</guid>
+		<description><![CDATA[Mark Thoma links us to Rewriting the Macroeconomists’ Playbook in the Wake of the Crisis by Oliver Blanchard of the IMF. In comments are names we all recognize.]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://economistsview.typepad.com/economistsview/2011/03/rewriting-the-macroeconomists-playbook-in-the-wake-of-the-crisis.html">Mark Thoma</a> links us to <a target="_blank" href="http://blog-imfdirect.imf.org/2011/03/04/2662/">Rewriting the Macroeconomists’ Playbook in the Wake of the Crisis</a> by Oliver Blanchard of the IMF.</p>
+<p>In comments are names we all recognize.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/macroeconomists-playbook.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Tense Problem</title>
+		<link>./../../2011/02/a-tense-problem.html</link>
+		<comments>./../../2011/02/a-tense-problem.html#respond</comments>
+		<pubDate>Fri, 18 Feb 2011 21:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[free trade]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/a-tense-problem.html</guid>
+		<description><![CDATA[Mark Thoma begins with a hilarious typo, but eventually gets to the Quote of the Decade (if not century) from Alan Blinder: If we economists stubbornly insist on chanting &#8216;free trade is good for you&#8217; to people who know that it is not, we will quickly become irrelevant to the public debate. As Rusty can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Mark Thoma <a href="http://economistsview.typepad.com/economistsview/2011/02/how-convincing-is-the-case-for-free-trade.html">begins with a hilarious typo</a>, but eventually gets to the Quote of the Decade (if not century) from Alan Blinder:<br />
+<blockquote>If we economists stubbornly insist on chanting &#8216;free trade is good for you&#8217; to people who know that it is not, we will quickly become irrelevant to the public debate.</p></blockquote>
+<p>As Rusty can (and will, at length) tell you, the thing that is wrong with that sentence is the tense.  We have had free trade agreements for decades, China has had MFN status since the 1990s, and permanently since 2000.  The pieces of the former Soviet Union, including the current oligarchy that is called Russia, have had that status since 1992.  NAFTA, including its abhorrent Chapter 11, has been in force since 1994.<br /><a name="more"></a><br />There has been a generation that has lived under &#8220;free trade.&#8221;  While an economist might successfully argue that the overall social benefit has been great—<a href="http://www.guardian.co.uk/world/2010/mar/15/china-migrant-workers-children-education">millions of Chinese parents become estranged from their children to make a better life</a>, as it were—the retraining, redevelopment and all of the other assumptions economists make about ameliorating the transition to a new economy have been eschewed.</p>
+<p>The example of <a href="https://www.documentcloud.org/documents/69746-hart-smith-on-outsourcing.html">Boeing</a> (h/t <a href="http://blogs.reuters.com/felix-salmon/2011/02/18/learning-from-boeings-outsourcing-disaster/">Felix</a>) bodes large: the valuable work was outsourced, the menial work was kept (or <a href="http://www.visteon.com/index.html">spun off</a> <a href="http://delphi.com/">into bankruptcy</a>), and the new &#8220;higher-value&#8221; jobs and opportunities that were expected by <s>idiots</s> economists <a href="http://chronicle.com/blogs/innovations/why-students-want-to-go-to-harvard/28613#">never materialized</a>, replaced instead by growing income inequality and the retraining money lined the pockets of the <a href="http://en.wikipedia.org/wiki/Jack_Welch#Criticism">CEOs who produced (to borrow a phrase used by the brilliant McGarrysGhost on Twitter) &#8220;failure masquerading as vision.&#8221;</a></p>
+<p>And any microeconomist worth his paycheck can tell you that increasing inequality leads to suboptimal production.</p>
+<p>Blinder is wrong in only one thing: the tense he uses indicates that the results are still, somehow, in doubt.  The ability of Chinese peasants to eat a bit more is nice, but the externalities—<a href="http://atbozzo.blogspot.com/2007/07/if-its-friday-there-must-be-fda-recall.html">poisoned toothpaste</a>, <a href="http://www.msnbc.msn.com/id/18400433/ns/health-pet_health/">dog food</a>,* <a href="http://www.angrybearblog.com/search?q=Chinese+tires">defective tires</a>—make it rather impossible to claim that the &#8220;advantages of free trade&#8221; have trickled down in any way except as a <a href="http://www.csulb.edu/~cohlberg/Songs/urea.mp3">ureotelic</a> (mp3 link).**</p>
+<p>The first thing we were told by <a href="http://www.amazon.com/Betsy-Brevitz/e/B001IR1RRY/ref=sr_tc_2_0?qid=1298062118&#038;sr=1-2-ent">our veterinarian</a> about the new puppy is that we need to make certain that any food she eats was made in either Canada or the United States.  Fortunately, pet food—unlike its human equivalent—is <a href="http://www.fda.gov/animalveterinary/resourcesforyou/ucm047113.htm">required to be labeled with origin information</a>.</p>
+<p>**You better believe I&#8217;m doing The Snoopy Dance on having discovered <a href="http://www.csulb.edu/~cohlberg/songbook.html">this site</a>, which saves me from trying to find a way to transfer my old cassette to a usable format.  But that&#8217;s fodder for <a href="http://xnerg.blogspot.com/">Skippy</a>, not here.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/a-tense-problem.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why the Economy Stubbornly Insists on Growing More Slowly When Taxes are Lower</title>
+		<link>./../../2010/12/why-the-economy-stubbornly-insists-on-growing-more-slowly-when-taxes-are-lower.html</link>
+		<comments>./../../2010/12/why-the-economy-stubbornly-insists-on-growing-more-slowly-when-taxes-are-lower.html#respond</comments>
+		<pubDate>Sun, 12 Dec 2010 23:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+		<category><![CDATA[Presimetrics]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/why-the-economy-stubbornly-insists-on-growing-more-slowly-when-taxes-are-lower.html</guid>
+		<description><![CDATA[by Mike Kimel An Economic Theory That Uses Micro Forces to Explain Macro Outcomes: Why the Economy Stubbornly Insists on Growing More Slowly When Taxes are Lower Cross-posted at the Presimetrics blog. I&#8217;ve been writing for years about the fact that a basic piece of economic theory does not apply to real world US data: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p><strong>An Economic Theory That Uses Micro Forces to Explain Macro Outcomes:  Why the Economy Stubbornly Insists on Growing More Slowly When Taxes are Lower</strong></p>
+<p>Cross-posted at the <a href="http://www.presimetrics.com/blog/?p=256">Presimetrics blog</a>.</p>
+<p>I&#8217;ve been writing for years about the fact that a basic piece of economic theory does not apply to real world US data:  unless one engages in the sort of assumptions that can justify eating ceramic plates as a cure for leprosy, there is simply no evidence that lower taxes lead to the good stuff we&#8217;ve been led to believe over non-cherry picked data sets.  Recent examples include <a href="http://www.presimetrics.com/blog/?p=253">this look at the effect top federal marginal rates on various measures of growth</a>, <a href="http://www.presimetrics.com/blog/?p=241">this look at the effect of top federal marginal rates on tax revenues</a>, <a href="http://www.presimetrics.com/blog/?p=195">a different look at federal marginal rates and growth</a>, and <a href="http://www.presimetrics.com/blog/?s=state+and+local&#038;x=0&#038;y=0">this look using state tax levels</a>.  I&#8217;ve also shown that effective tax rates also have fail to cooperate with theory when looking over the length of presidential administrations &#8211; examples include myriad <a href="http://www.presimetrics.com/blog/?p=50">posts</a> and <a href="http://www.presimetrics.com/">Presimetrics</a>, the book I wrote with Michael Kanell.</p>
+<p>I think the reason a lot of people have trouble accepting this is that they see some sort of conflict between this macro fact and and what seems to be a self-evident micro truth &#8211; if tax rates get high enough, people will work less.  Now, such micro-macro conflicts have existed in the past, and are certainly aren&#8217;t unique to economics.  One obvious example we all live with is that to each of us, from where we&#8217;re standing, the Earth does a pretty good job of appearing to be flat, and yet we know that its actually round(ish).  For most applications, from running a marathon to building a house to making toast, assuming that the earth is flat doesn&#8217;t hurt, and even simplifies matters.  That is to say, for most applications facing critters roughly our physical size, a flat earth is a good model.   On the other hand, we&#8217;d be much impoverished by sticking to that model at all times, as we&#8217;d lose out on satellites, our understanding of weather and geology, a great deal of transoceanic shipping, and Australia.  </p>
+<p>The same thing is true when it comes to the economy &#8211; failing to understand and account for the dichotomy between micro and macro truths is harmful.  It has cost us, all 6.8 billion of us, economic growth and wealth, which is to say, it has cost us in quality and length of life.  But nobody is trying to explain that dichotomy, in part because so few people see it.  There is a profession that should be trying to explain this dichotomy, and that is the economic theorists. However, they seem to be pretending the data isn&#8217;t there, so waiting around them to explain it means more loss of quality and length of life.  So let me take a crack at it.  <br /><a name="more"></a></p>
+<p>In addition to explaining the real world reasonably well, a good theory, in my opinion, should not rely on crazy assumptions.  After all, a theory that doesn&#8217;t make any sense simply isn&#8217;t going to get used even in the unlikely event that it works.  So I came up with a theory that relies on only a few assumptions, all of which are sane and which hew pretty close to the real world.  My assumptions are these:</p>
+<p>1.  Economic actors react to incentives more or less rationally.  (Feel free to assume &#8220;rational expectations&#8221; if you have some attachment to the current state of affairs in macro, but it won&#8217;t change results much.) <br />1a.  The probability that an economic agent will choose to do any work is inversely related the tax rate.  At 100% tax on income, work drops, but not to zero &#8211; many of us do some charity work, after all, for which we aren&#8217;t compensated at all.  On the other hand, not everyone is going to work even if tax rates drop to 0%.  <br />2.  Economic actors do not have perfect information about the economy, and are not homogeneous.  They have different skillsets and different size, and that limits their opportunities at any given time. On the other hand, some economic actors are sufficiently similar to other economic actors that they could occupy similar economic niches, albeit they wouldn&#8217;t necessarily produce identical output.<br />3.  Economic actors come in different sizes.  Small players cannot compete with large players on economies of scale.  (I get really irritated with the oft-repeated assumption that everyone is the same size, or that any unemployed person can walk into a bank and borrow $1.2 billion to build a chip fab.)<br />4.  Economic actors are at least somewhat risk averse.<br />5.  Many parts of the economy are characterized by economies of scale.  At some point those economies of scale may reverse themselves, but economic actors rarely work at points where the diseconomies of scale have become strong.<br />6.  Many parts of the economy are characterized by lumpiness.  If an economic player is into hot dog stands, for instance, it can buy one hot dog stand, or two, or three, but it can&#8217;t buy 2.7183 hot dog stands.  <br />7.  Among the the pieces of the economy characterized by economies of scale and lumpiness are tax evasion/avoidance, which economic actors will engage in due to assumption number 1.  That is to say, $1,000 spent on attorneys, accountants and economists in the course of a $100,000 project will gets you less tax evasion/avoidance than the same amount (or even a proportionately larger amount) spent in the course of a $100,000,0000 project.  <br />8.  There is a government that collects taxes.  (Note &#8211; In a nod to the libertarian folks, we don&#8217;t even have to assume anything about what the government does with the taxes.  Whether the government burns the money it collects in a bonfire, or uses it to fund road building and control epidemics more efficiently than the private sector can won&#8217;t change the basic conclusions of the model.)  </p>
+<p>I trust there aren&#8217;t any assumptions on this list that seem particularly heroic or which contradict the real world in any important way.  Additionally, I don&#8217;t think there&#8217;s anything here that a conservative or libertarian would object to either.  So I figure we&#8217;re good to go.  </p>
+<p>Let&#8217;s focus on one particular economic actor (or entity or firm or player), and let&#8217;s put some numbers down for simplicity of keeping track of going on.  Say this one actor has $100 million (whether debt or equity is irrelevant to the model) which it can invest &#8211; and it can invest all, part, or none of that $100 million.  To keep things really simple, say this actor must decide how to allocate its funds between a single $100 million investment and five $20 million investments, each of which has an expected return of X% a year before taxes. </p>
+<p>Essentially, this player has four forces acting upon its decision making process.</p>
+<p>1.  Risk aversion.  That makes the actor lean away from the one big project and toward some number of the smaller projects, both to avoid having all its eggs in one basket, and because by avoiding the one big project it doesn&#8217;t have to invest the full $100 million.  Instead of investing in five small projects, for instance, it can invest in four at a cost of $80 million, and keep $20 million cash.  <br />2.  Economies of scale.  That makes the actor lean toward the one big project over the five smaller projects.  <br />3.  The marginal tax rate.  If its too high, that actor will simply sit on its hands.  If not, it will invest some amount of its $100 million. <br />4.  Economies of scale in tax avoidance/evasion.  That tends to lead toward the one big project over the five smaller projects, since the net benefits of tax avoidance from one big project exceed the net benefits of tax avoidance from several small projects.  </p>
+<p>Now, forces 1 and 2 push in opposite directions.  Force 3 is orthogonal to 1 and 2, and force 4 is parallel to force 2.  All of which means it is easy for a player who chooses to invest rather than sit on his hands, and who otherwise is evenly balanced between one large and multiple small projects (or even tilting slightly toward multiple small projects) by forces 1 and 2 to be pushed toward the one big project by force 4.  Let me restate &#8211; under some circumstances, marginal tax rates are low enough not to preclude investment altogether, but are high enough that due to scale economies, the gains of tax avoidance/evasion from large projects so exceed the gains to tax avoidance/evasion from small projects to make a single large project more desirable than a group of small projects, even though the latter would have been more desirable in the absence of taxes.  Furthermore, there is some positive probability that shrinking marginal tax rates reduces force 4 enough to keep this story from being true.  </p>
+<p>This follows in a straightforward way from the assumptions, and looks a lot like real world situations.  I assume its not objectionable even if you&#8217;re fortunate not to have ever worked for a Big 4 accounting firm.   But, it has important implications.  See, by taking the single big project rather than the multiple small projects, our player increases economic growth several ways.  These include:</p>
+<p>1.  Because of project lumpiness, by going the big project route, it has to invest the full $100 million.  Had it gone the small project route, there is a positive probability that risk aversion would have led it to invest $80 million (or $60 million) instead, meaning $20 million (or $40 million) would not have been put to work in the economy.<br />2.  It spends less on tax avoidance/evasion services with the single large project than with multiple small projects.  Since these services produce a private gain but don&#8217;t actually generate output, that reduces the drag on the economy.  <br />3.  As noted previously, small players are reluctant to take on big players &#8211; sure, it happens, but in general, small players prefer to go up against other small players than against big players.  (Think Walmart and the centipede game.)  But small players are priced out of the big projects.  So if small players find bigger guys entering their potential space, they are more likely to sit on their hands (or focus on what amounts to the smaller, more wasteful projects among options available to them, potentially forcing out the even smaller guys, etc.). </p>
+<p>But that is one single player.  In a big enough economy, there can be many, many companies and/or individuals of many different sizes in just such a situation.  With 310 million people and who knows how many companies in the economy, probabilities add up.  (I note that the second benefit of biasing companies toward their largest available projects goes away when you consider the whole economy.  After all, while company X saves on accountants/attorneys and economists by picking the larger projects, by leaving the smaller projects to smaller players, those players will be hiring accountants/attorneys and economists as well.)</p>
+<p>Note that relaxing a few assumptions makes it even easier to understand why US macro data shows a positive correlation between marginal tax rates and real economic growth.  For instance, it isn&#8217;t difficult to imagine that the government actually does something useful (i.e., growth generating) with the some of the tax money it collects.  Additionally, smaller firms are often more innovative than larger firms, even within the same space (one has to compete somehow).  Our little story is one where under many circumstances, smaller firms are more likely to enter the market when tax rates rise than when tax rates fall.  </p>
+<p>Thus, this little story, while requiring only a few realistic assumptions, does something that as far as I know is unique in the field of economics:  it explains why US macro data shows a positive correlation between the top marginal tax rates and economic growth for all but the most cherry picked data sets, and it does it by sticking to micro foundations.  I&#8217;m sure it could be improved, but but I think its a good start.  Your thoughts?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/why-the-economy-stubbornly-insists-on-growing-more-slowly-when-taxes-are-lower.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Preface to a Thought-Experiment on Labor, Capital, and Income Distribution</title>
+		<link>./../../2010/11/preface-to-a-thought-experiment-on-labor-capital-and-income-distribution.html</link>
+		<comments>./../../2010/11/preface-to-a-thought-experiment-on-labor-capital-and-income-distribution.html#respond</comments>
+		<pubDate>Tue, 23 Nov 2010 04:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Business Philosophy]]></category>
+		<category><![CDATA[labor]]></category>
+		<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/preface-to-a-thought-experiment-on-labor-capital-and-income-distribution.html</guid>
+		<description><![CDATA[Mark Thoma goes to something called the Business Ethics Blog for an economics thought-experiment: A Montreal accessories company has taken its policy of using no animal products beyond the rack and has forbidden its staff from eating meat and fish at work. A former employee says the policy violated her rights as a non-vegetarian…. It’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://economistsview.typepad.com/economistsview/2010/11/can-employers-tell-employees-what-to-eat.html" target="_blank">Mark Thoma</a> goes to something called the Business Ethics Blog for <a href="http://businessethicsblog.com/2010/11/21/can-employers-tell-employees-what-to-eat/" target="_blank">an economics thought-experiment</a>:<br />
+<blockquote>
+<p>A Montreal accessories company has taken its policy of using no animal products beyond the rack and has forbidden its staff from eating meat and fish at work.</p>
+<p>A former employee says the policy violated her rights as a non-vegetarian….</p>
+</blockquote>
+<p>It’s an interesting experiment for many reasons, none of which deal directly with economics as it is currently taught.  For one thing, it is a dictated change in a contract with workers.  As a standard microeconomics problem, there is a negotiation, the worker’s preferences are examined, and the student is asked to find an economic balance that will satisfy the worker, with the implication that the employer desiring the change with provide compensation. (Note that the standard intermediate or graduate-level microeconomics problem merely teaches math, with dollars and preferences substituted for widgets and variables.)</p>
+<p>For another, there is insufficient information to discuss externalities. (Aside to Brad DeLong: it’s not only, or even most importantly, Irving Fisher who is forgotten; Alfred Marshall appears to have been stripped from the curriculum as it transmogrified into a Libertarian Wet Dream.)  Absent evidence, we cannot know if the company had a legitimate reason for banning meat eating. Perhaps chemicals used in their processes combine with some proteins and produce a marginally higher level of cancer in those exposed for long periods. Perhaps the maintenance crew has discovered multiple rat nests because the workers have not been attentive to clean-up requirements, leaving enough pieces of pork, chicken, beef, and tripe around to make the building a desirable habitat. We do not have sufficient information.</p>
+<p>We do, however, know that bars that permit smoking produce lung, throat, and other cancers in even the non-smoking bartenders and wait staff.  It may be unlikely that the aggressive hormone and radiation treatment given to meat these days produces a similar effect—radiation and drug treatment, after all, are both perfectly safe—but it is also possible that the company has seen recent research that indicates otherwise and fears for its future health-care costs.</p>
+<p>We also do not know whether the company provides eating areas for its staff, or under what conditions it does.  Is there a company cafeteria (or eating spaces on various floors) that provides napkins and utensils to those who bring their own food? Is eating at one’s desk permitted? (I have worked places where it is not.) In such a case, we cannot even model the type of microeconomics problem referenced above, because we do not know the extent to which the workers are being told to give up something. (Smokers having to leave the building has positive externalities for them, such as work breaks others do not get and social networking opportunities that provide compensation.)  We cannot, in short, know the value of the widgets or the identities of the variables.</p>
+<p>The question then becomes whether this is an economics problem at all.  And, if we assume it is, what does that mean for other. more standard, problems?  On the Next Rock: capital, labor, and taxation.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/preface-to-a-thought-experiment-on-labor-capital-and-income-distribution.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ObamaCare IS Working – That’s WHY It’s a Problem</title>
+		<link>./../../2010/10/obamacare-is-working-thats-why-its-a-problem.html</link>
+		<comments>./../../2010/10/obamacare-is-working-thats-why-its-a-problem.html#respond</comments>
+		<pubDate>Thu, 28 Oct 2010 20:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic theory]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[Health Insurance]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/obamacare-is-working-thats-why-its-a-problem.html</guid>
+		<description><![CDATA[There’s a reason for this. After the (wholly justified, understated) bitterness of my last post, a moment of cheer:  An old friend of mine is in the process of losing his job. Now, normally I wouldn’t celebrate anyone—let alone a friend—losing a job, but, you see, he sells medical insurance in Texas and Indiana.  And [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There’s a reason for <a href="http://www.washingtonmonthly.com/archives/individual/2010_10/026344.php" target="_blank">this</a>.
+</p>
+<p>After <a href="http://www.angrybearblog.com/2010/10/fire-tim-geithner-then-be-one-term.html" target="_blank">the (wholly justified, understated) bitterness of my last post</a>, a moment of cheer:  An old friend of mine is in the process of losing his job.</p>
+<p>Now, normally I wouldn’t celebrate anyone—let alone a friend—losing a job, but, you see, he sells medical insurance in Texas and Indiana.  And he’s been told that over the next three years, his income will be reduced, and basically eliminated entirely ca. 2015.</p>
+<p>Translation on a macro level: insurance companies—far from acting as if they are “uncertain”—are cutting the commissions they are paying to agents in preparation for greater competition as the phases of the PPACA come into effect.</p>
+<p>We have already seen variations on this: insurance companies that will no longer write policies for only parents, because their children have other options.  Insurance companies complaining about the “cost” of having to cover basic services—you know, the <em>preventive care</em> that would seem to be implied when you call your plan a “Health Maintenance Organization” and which is covered by State Medicaid plans such as NJ FamilyCares.</p>
+<p> <a name="more"></a>
+<p>The English translation of “the market won’t support it” is “we can’t compete with our current structure.”  It is a tale told by a capitalist since the beginning of double-entry accounting, with the steel industry being a recent example of American Rebirth.) Economists us the phrase “creative destruction” to explain it, even though there is very little creative and a lot of destruction (or, in significant cases, structural shifting) that goes on at the time.</p>
+<p>“Bending the cost curve” means producing more consumer surplus. This is what competition does in economic models, primarily by cutting margins (“excess <a href="http://en.wikipedia.org/wiki/Economic_rent" target="_blank">rent</a>”) and thereby making firms allocate capital and labor more efficiently.  When your margins are large—through monopoly power, including “monopolist competition”—<a href="http://www.investopedia.com/terms/c/consumer_surplus.asp" target="_blank">consumer surplus</a> is low. Since Steve Jobs is the sexiest human being in the world, Apple products sell for higher margins than other communication/computing devices do.  This may always be so—or maybe the world will shift to Android phones, a and the Apple of five years from now will look like the Apple of 15 years ago, taking cash from Microsoft in order to survive.</p>
+<p>Health insurance is an area hasn’t had true competition—search costs are too high for most people.  (Indeed, the evil of employer-provided health insurance deductibility isn’t that it is a suboptimal allocation of resources so much as it is that that pre-tax money allows insurance companies to maintain higher margins without the consumer feeling the full cost of their loss.  It is a system that perpetuates excess rent being paid, effectively as a transfer from the government to the insurer.)  One of the first things health economists noted about Medicare Part D is that, while one had to “shop” to find an insurer, the effort required meant that very few people would then <em>switch</em>, even if the insurer later reaped excess rent.  When switching costs (consumer) are higher than menu costs (supplier), excess rent is virtually an inevitability.  (In this case, again, the American taxpayer is footing a large portion of the bill for a transfer to insurance companies.  It is impossible to believe, given the bill’s enactment process, that this was not considered a feature.)</p>
+<p>So there are multiple areas where consumer surplus is low in the health insurance industry.  Which means that many people—including my friend—have been “earning” more than they are “producing”—some of the excess rent is distributed, after all.  And, for the next few years, they will be seeing their incomes decline while people believe (as Jon Stewart said to Barack Obama last night) that PPACA will not take effect until 2014.</p>
+<p>And Obama’s reply (starting around 7:30) was spot-on:</p>
+<table height="353" cellspacing="0" cellpadding="0" width="360">
+<tbody>
+<tr valign="middle">
+<td><a href="http://www.thedailyshow.com/" target="_blank">The Daily Show With Jon Stewart</a></td>
+<td>Mon &#8211; Thurs 11p / 10c</td>
+</tr>
+<tr valign="middle">
+<td colspan="2" href="http://www.thedailyshow.com/watch/wed-october-27-2010/barack-obama-pt--2" target="_blank"><a>Barack Obama Pt. 2</a><a></a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"><a href="http://www.thedailyshow.com/" target="_blank">www.thedailyshow.com</a></td>
+</tr>
+<tr valign="middle">
+<td colspan="2"></td>
+</tr>
+<tr valign="middle">
+<td colspan="2">
+<table height="100%" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr valign="middle">
+<td><a href="http://www.thedailyshow.com/full-episodes/" target="_blank">Daily Show Full Episodes</a></td>
+<td><a href="http://www.indecisionforever.com/" target="_blank">Political Humor</a></td>
+<td><a href="http://www.thedailyshow.com/videos/tag/Rally%20to%20Restore%20Sanity" target="_blank">Rally to Restore Sanity</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>So for the next few years, people such as my friend will see that the squeeze is hitting them, while the benefits haven’t reached all of the general populace.  (They have already reached <a href="http://www.nytimes.com/2010/03/31/health/policy/31health.html" target="_blank">many children</a>—<a href="http://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effective_September_23.2C_2010" target="_blank">including adult children who can’t find a job and can at least be insured by their parents</a>—and helped <a href="http://blogs.discovermagazine.com/80beats/2010/03/22/health-care-reform-passed-so-what-does-it-mean/" target="_blank">many senior citizens who were being affected by the “donut hole</a>.”)</p>
+<p>We saw this same sequence in the mid-1980s and early 1990s in the travel field—slowly at first, and then quickly as internet bookings and purchases determined solely by price became the rule. The survivors were the agencies with large corporate accounts and the ones that provided specialty (“niche”) services you couldn’t get from Travelocity and its competitors.</p>
+<p>The travel agency market existed for one reason: in the old days, it cost an airline about 16 cents of every dollar to get a seat booked.  An agent who could be paid 8-11% per ticket—with incentives for volume—was a bargain.  It was, to use the economist’s favorite cliché, a win-win situation. And the benefits of tour and hotel bookings could truly be treated as marginal cost increases, with their own revenue stream generally more than enough to justify for even a small office.</p>
+<p>But true competition—the decline in the incremental Search Costs presented to consumers by Travelocity and its competitors, followed quickly by direct booking availability directly with a specific airline—meant the end of that model, leading to industry consolidation, downsizings, and closings—just as the insurance agents are feeling the pressure now of the impending “exchanges.”</p>
+<p>And, as then, my friend noted that there are still areas that will continue to be profitable for insurance agents in 2015.  For insurance, policy service for the elderly.  (Showers of gratitude from the insurance agents to the unfunded, deficit-exploding Medicare Part D shall continue.)  Everything else will see the agents’s livelihood affected as the insurance companies try to protect their own share of the turf.</p>
+<p>He has four years to prepare, and a roadmap for change that remains valuable. And for those interested in “bending the cost curve,” the first fruits of that effort are being realized.  And people are realizing they will have to change their lifestyle and practices to deal with the new world.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/obamacare-is-working-thats-why-its-a-problem.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

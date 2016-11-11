@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>analysis &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Data Integrity Requires Personal Integrity and Vetting</title>
+		<link>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html</link>
+		<comments>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html#respond</comments>
+		<pubDate>Tue, 10 May 2011 15:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[analysis]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[Obama Administration]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/data-integrity-requires-personal-integrity-and-vetting.html</guid>
+		<description><![CDATA[Anyone who has ever worked with data knows that making certain the information is &#8220;clean&#8221; is much more important than what you do with it. Brilliant analysis of inaccurate data may make heroes (Chamley, Prescott, etc.), but it doesn&#8217;t make sensible policy. Witness the release of &#8220;public&#8221; data from the state of Texas. Jeremy once [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Anyone who has ever worked with data knows that making certain the information is &#8220;clean&#8221; is much more important than what you do with it.  Brilliant analysis of inaccurate data may make heroes (Chamley, Prescott, etc.), but it doesn&#8217;t make sensible policy. Witness the release of &#8220;public&#8221; data from the state of Texas.</p>
+<p><a href="http://scatter.wordpress.com/">Jeremy</a> once commented that the transition from a public to a private university was the choice between everyone knowing your earnings(public data) and everyone knowing your student reviews.</p>
+<p>What happens when (1) everyone knows your salary but (2) <a href="http://chronicle.com/article/U-of-Texas-Faculty-Fret-That/127450/">what they know isn&#8217;t true</a>:<br />
+<blockquote>&#8220;My salary on the spreadsheet is $30,000 higher than my annual contract salary,&#8221; a lecturer in the University of Texas system wrote in an e-mail message. He did not want to be named because of his status as a non-tenure-track employee. &#8220;Other details are correct, but the number 99 percent of people will want to see is not. The spreadsheet says that it&#8217;s me, but it is not me.&#8221;</p></blockquote>
+<p>So why would this happen?  Because public universities in Texas aren&#8217;t allowed to treat their data as if they are private companies:<br />
+<blockquote>System officials said the decision to release the data even though it was in draft form and included many gaps resulted from receiving multiple requests for it from news-media outlets under the state&#8217;s open-records laws. After noting the data&#8217;s shortcomings, in a disclaimer cautioning that the information was &#8220;incomplete and has not been fully verified or cross-referenced,&#8221; the system released it &#8220;in the spirit of openness and transparency&#8221; because much of the data was already public anyway, said Anthony P. de Bruyn, director of public affairs.</p></blockquote>
+<p>Except, of course, that the data <em>wasn&#8217;t</em> already public.  Public data is vetted; this had not been.  So why was it released?<br /><a name="more"></a><br /> Apparently, because no one asked what the legal consequences would be if they made certain it was accurate first:<br />
+<blockquote>Thomas Kelley, a spokesman for the Texas attorney general&#8217;s office, said in an e-mail that the state&#8217;s Public Information Act &#8220;applies to records available on the date of request,&#8221; even if the university system thought the records being requested were incomplete. Mr. Kelley said system officials had two options: release the data available at the time or request a ruling from the attorney general&#8217;s office about whether the incomplete data must be released.</p></blockquote>
+<p>And what was wrong?  Well, almost anything:<br />
+<blockquote>Mr. de Bruyn said the data, which spans the system&#8217;s nine academic campuses, was collected mostly at the institutional level. Yet professors have noticed some mistakes in the data that seem to point to a more-distant process.</p>
+<p>For instance, Renee Rubin, an associate professor in the department of language, literacy, and intercultural studies at the University of Texas at Brownsville, said she and her department chair <em>were listed in the wrong department</em>. &#8220;So then you begin to wonder what else is wrong,&#8221; Ms. Rubin says. [emphasis mine]</p></blockquote>
+<p>Is it more worrisome if Mr. de Bruyn is correct, or if he is not?</p>
+<p>I&#8217;m think about this more intensely now in part because of the pending end of the publication of the invaluable <a href="http://www.census.gov/compendia/statab/">Statistical Abstract of the United States</a>. As Kieran Healy <a href="http://crookedtimber.org/2011/04/15/the-statistical-abstract-of-the-united-states/">noted</a>, &#8220;When it comes to the United States, the print and online versions of the SA are a peerless source of information for all your bullshit remediation needs.&#8221;</p>
+<p>Unlike the Texas imbroglio, the Statistical Abstract has <a href="http://bookstore.gpo.gov/collections/statistical_abstract.jsp">a 133 year publication history</a> and well-established reputation for accuracy.  Destroying that reputation would have taken only one major incident; will anyone ever trust public data released in Texas again?</p>
+<p>But the Obama Administration&#8217;s &#8220;<a href="http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/">transparency initiatives</a>&#8221; appear to be <a href="http://capwiz.com/ala/callalert/index.tt?alertid=37054501">failing here</a> as well, as an Unforced Error.  (paging <a href="http://www.google.com/search?hl=en&#038;lr=&#038;q=unforced+errors+site%3Adelong.typepad.com&#038;aq=f&#038;aqi=&#038;aql=&#038;oq=">Brad DeLong</a>)  And the consequence will be something that more resembles the Texas debacle than accurate, independent policy analysis.</p>
+<p>Unless the Administration considers providing peacemeal, unstandardized information to be a feature, it appears to be a substantive bug.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Larger, greater than expected&#8230;Declines</title>
+		<link>./../../2008/10/larger-greater-than-expected-declines.html</link>
+		<comments>./../../2008/10/larger-greater-than-expected-declines.html#respond</comments>
+		<pubDate>Sun, 19 Oct 2008 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[analysis]]></category>
+		<category><![CDATA[economic decline]]></category>
+		<category><![CDATA[unexpected decline]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/larger-greater-than-expected-declines.html</guid>
+		<description><![CDATA[by Divorced one like Bush US Initial jobless claims decline larger than expected in May 31 week (6/5/08) Mortgage finance giant suffers much larger-than-expected loss due to reserves for credit losses and slashes its dividend to preserve capital. (8/8/08) Factory orders decline more than expected in August (10/2/08) Retail sales for September posted its steepest [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Divorced one like Bush</p>
+<p>US <a href="http://www.fxstreet.com/news/forex-news/article.aspx?StoryId=f8fb1a00-153a-4bbd-bb8e-dc170a0de231">Initial jobless claims </a><strong>decline larger</strong> than expected in May 31 week  (6/5/08)</p>
+<p><a href="http://money.cnn.com/2008/08/08/news/companies/fannie_results/index.htm">Mortgage finance giant</a> suffers much <strong>larger-than-expected </strong>loss due to reserves for credit losses and slashes its dividend to preserve capital.  (8/8/08)</p>
+<p><a href="http://www.ibtimes.com/articles/20081002/factory-orders-decline-more-than-expected-in-august.htm">Factory orders</a> <strong>decline more than expected </strong>in August (10/2/08)</p>
+<p><a href="http://forexroom.wordpress.com/2008/10/16/recession-fears-buoy-jpy/">Retail sales </a>for September posted its steepest fall in 3 years, down by 1.2%, <strong>larger than the expected 0.7% decline</strong>&#8230;The New York Fed manufacturing index plunged to a record low for October, <strong>sharply worse than expectations </strong>to -24.62&#8230;Meanwhile producer prices climbed <strong>higher than forcast</strong>&#8230;(10/16/08)</p>
+<p>The University of Michigan <a href="http://forexroom.wordpress.com/2008/10/18/us-data-slumps-fx-calms/">consumer sentiment </a>survey posted its steepest drop on record, collapsing <strong>far more than expected </strong>to 57.7 in October&#8230; (10/18/08)</p>
+<p>A <strong>larger than expected decline </strong>in <a href="http://www.livenews.com.au/Articles/2008/09/30/Decline_in_building_approvals_bigger_than_expected">building approvals</a> reflects continued investor caution due to high interest rates, economists say. (Australia, 9/30/08. )</p>
+<p>So, what does it say when we read headlines that start with “Larger than expected decline”?   Really.</p>
+<p>What world, because it is a world phenomenon as shown with the Australia opening news line, are these people living in such that what they read in the data surprises them?   Should we not be concerned that those who are being relied on to manage our economy have not expected what they are now seeing?   Reading  many articles starting off with that phrase “Larger” or “bigger” or “greater” “than expected decline” does not bode well for all the analysis that has been relied on by the managers (would this include investors?) of our economy.   I mean, I posted here in comments some time ago that my flower shop has been seeing a steady decline since August 1996.   I noted when the first quarter reports for this year came out, based on my flower shop, that we would see some good numbers, but it would only be a burp of pent up desire to spend and should not be considered positive because of the major drop in April and May (usually one of the largest months for flowers).  </p>
+<p>Do you remember the commentary on how the rising oil prices would not hurt the economy because it was still “relatively” cheap?   Was the talk that if oil got back down to $70/barrel then we would know the pricing was speculation?   Well?   What, are we not concerned now to know if the oil price rise was speculation or not?   Or is this another “larger than expected decline”?    </p>
+<p>Yet, here we are reading commentary that, if we are honest and real, should be giving us great pause as congress formulates policy.   Such commentary of surprise as numbers are reported should be raising questions such as: Are we monitoring relevant data for our purpose?   Are our theories of what is significant regarding our economic intent valid?   Is the data an accurate description of what is happening in our economy?   And, the most basic: Why are we surprised?  Why were our expectations wrong?   Should we be looking for a different school of economic thought than the one that has dominated?   (Some time ago, here in RIland an economist from URI thought that tolls collected for the Newport Bridge was a good indicator for our state economy.   He found that he was correct.)  </p>
+<p><strong>Is now the time to broaden the discussion or are we going to wait for more unexpected surprises?</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/larger-greater-than-expected-declines.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

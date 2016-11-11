@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>James Kwak &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>&#8216;The One-Sided Deficit Debate&#8217;</title>
+		<link>./../../2012/07/the-one-sided-deficit-debate.html</link>
+		<comments>./../../2012/07/the-one-sided-deficit-debate.html#respond</comments>
+		<pubDate>Tue, 31 Jul 2012 12:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[deficit commission]]></category>
+		<category><![CDATA[James Kwak]]></category>
+		<category><![CDATA[Mark Thoma]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/the-one-sided-deficit-debate.html</guid>
+		<description><![CDATA[Via Economist View comes James Kwak at Baseline Scenario on the early deal made on the the &#8216;fiscal cliff&#8217;: &#8216;The One-Sided Deficit Debate&#8217; James Kwak is pessimistic about the deficit debate: What’s more, the “consensus” of the self-styled “centrists” is what now makes the Bush tax cuts of 2001 and 2003 seem positively reasonable. With [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://economistsview.typepad.com/economistsview/2012/07/the-one-sided-deficit-debate.html">Via Economist View</a> comes James Kwak at Baseline Scenario on the early deal made on the the &#8216;fiscal cliff&#8217;:<br />
+<blockquote><a href="http://economistsview.typepad.com/economistsview/2012/07/the-one-sided-deficit-debate.html">&#8216;The One-Sided Deficit Debate&#8217;</a></p>
+<p>James Kwak is pessimistic about the deficit debate:</p>
+<p>What’s more, the <a href="http://baselinescenario.com/2012/03/02/beware-o-centrists-bearing-consensus/">“consensus” of the self-styled “centrists” </a>is what now makes the Bush tax cuts of 2001 and 2003 seem positively reasonable. With Simpson-Bowles and Domenici-Rivlin both calling for tax rates below those established in 2001, George W. Bush now looks like a moderate; even <a href="http://baselinescenario.com/2012/03/02/democrats-and-the-bush-tax-cuts/">many Democrats</a> now endorse the Bush tax cuts for families making up to $250,000 per year, which is still a lot of money (for most people, at least).<br />&#8230;<br />But some of the blame for this state of affairs must rest with Democrats, liberals, and their usual mouthpieces as well. For over a year now, the refrain of the left-leaning intellectual class has been that the only thing that matters is increasing growth and reducing unemployment, and any discussion of deficits and the national debt plays into the hands of the Republicans. It may be true that jobs should be the top priority right now, but the fact remains that many Americans think that deficits matter (and most of those left-leaning intellectuals would concede that they matter in the long term). Those Americans are currently getting a menu of proposals with Simpson-Bowles in the right, Paul Ryan and Mitt Romney on the far right, and Fox News on the extreme right. There is no explanation of how to deal with our long-term debt problem in a way that preserves government services and social insurance programs and protects the poor and the middle class.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/the-one-sided-deficit-debate.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

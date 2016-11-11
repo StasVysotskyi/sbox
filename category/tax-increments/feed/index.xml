@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tax increments &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Discussing Tax Increment Financing on TV</title>
+		<link>./../../2012/10/discussing-tax-increment-financing-on-tv.html</link>
+		<comments>./../../2012/10/discussing-tax-increment-financing-on-tv.html#respond</comments>
+		<pubDate>Wed, 31 Oct 2012 12:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[subsidies]]></category>
+		<category><![CDATA[tax increments]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/discussing-tax-increment-financing-on-tv.html</guid>
+		<description><![CDATA[by Kenneth Thomas Discussing Tax Increment Financing on TV I recently appeared on a local public access TV show, Conversation with Lee Presser, discussing tax increment financing and European Union subsidy control regulations. It&#8217;s a great format, just an almost 30-minute discussion without interruption, which allowed me to explain the problems with TIF as it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Kenneth Thomas</p>
+<p>Discussing Tax Increment Financing on TV</p>
+<p> I recently appeared on a local public access TV show, <i>Conversation with Lee Presser</i>, discussing tax increment financing and European Union subsidy control regulations. It&#8217;s a great format, just an almost 30-minute discussion without interruption, which allowed me to explain the problems with TIF as it has been used in Missouri in great detail. We also had a shorter conversation about EU regulations to control investment incentives and other subsidies, which covered the basics of transparency, maximum subsidy rates that vary by how rich the region is, and the reduction in those rates for large projects. Many thanks to Lee Presser for having me on. If you are interested in economic development issues, I think you will enjoy the program.</p>
+<p><a href="http://www.youtube.com/watch?v=vZxbCr6YcXA">(&#8220;A Conversation with Kenneth Thomas &#8211; UMSL Professor of Political Science &#8211; 10/23/12&#8221;</a>)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/discussing-tax-increment-financing-on-tv.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

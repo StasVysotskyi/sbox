@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>polls &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Polling, aggregators, and transparency</title>
+		<link>./../../2012/11/polling-aggregators-and-transparency.html</link>
+		<comments>./../../2012/11/polling-aggregators-and-transparency.html#respond</comments>
+		<pubDate>Fri, 09 Nov 2012 15:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[poll transparency]]></category>
+		<category><![CDATA[polls]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/polling-aggregators-and-transparency.html</guid>
+		<description><![CDATA[by Robert Waldmann    What has Nate Silver done for us lately ? This isn&#8217;t really about Nate Silver. It is about poll aggregators in general and just as much about the Huffington Post pollster, Real Clear Politics and Talking points Memo as about Silver, Wang Linzer and others who try to estimate outcome probabilities [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Robert Waldmann   </p>
+<p>What has Nate Silver done for us lately ?</p>
+<p>This isn&#8217;t really about Nate Silver.  It is about poll aggregators in general and just as much about the Huffington Post pollster, Real Clear Politics and Talking points Memo as about Silver, Wang Linzer and others who try to estimate outcome probabilities and not just average polls.</p>
+<p>I think that aggregators have proven that it is better to look at their aggregates than to look at individual polls and try to see patterns or calculate averages from memory.  I think this means that their judgement to not include a poll would be damaging to the pollster.  I conclude that, if they work together, they can demand and obtain transparency. </p>
+<p>I have a real problem with what I perceive to be a lack of transparency of pollsters. I refer really to the methodological explanations they have on their web sites.  I do not have the impression that I could reproduce their numbers from the transcripts of their interviews based on their explanations.  I do not think this is acceptable.</p>
+<p><a name="more"></a></p>
+<p>My sense is that this is not just my ignorance &#8212; that pollster methodology is partly secret.  Here I stress that I might be wrong &#8212; it might be that the full protocol is not secret and I am just ignorant.</p>
+<p>My understanding is that pollsters keep their methodology partly secret claiming it is a trade secret &#8212; that since they are the best pollster, all other pollsters would imitate their methods if they weren&#8217;t kept secret.  If they do make this claim, it is BS.  They make different choices and each is, as noted, convinced they are right. My guess is that they don&#8217;t describe the assumptions they make, because if they did then people would understand that the assumptions are assumptions and make a difference.  I think that, most unfortunately, most poll consumers are willing to accept a black box, buy a pig in a poke (and mix metaphors).</p>
+<p>I think this is not a healthy attitude and that poll consumers including journalists should have a rule that no special sauce is allowed.  I have no hope that journalists will adopt this rule.  But I really hope that poll aggregaters do.</p>
+<p>I note that academic journals have this rule.  They demand the raw data and an explanation of calculations such that they can be replicated by editors (doesn&#8217;t mean they do replicate them and doesn&#8217;t mean they don&#8217;t ). This is actually a fairly new development.  Editors of academic journals can impose such rules as their decisions are very important &#8212; basically research doesn&#8217;t count without their approval. </p>
+<p>I think a conference of leading poll aggregators would be useful and that a decision that polls with secret methodologies are to be ignored would make a huge difference.  But I don&#8217;t think their power to impose transparency on pollsters will last.  Right now they have high status, because they totally out predicted the non quantitative go with their gut pundits.  I&#8217;m pretty sure that in 6 months the fact that they nailed 2012 will be old news which can be ignored.</p>
+<p>cross posted with Stochastic Thoughts</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/polling-aggregators-and-transparency.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Polling Obsession</title>
+		<link>./../../2012/10/polling-obsession.html</link>
+		<comments>./../../2012/10/polling-obsession.html#respond</comments>
+		<pubDate>Mon, 29 Oct 2012 10:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 Presidential elections]]></category>
+		<category><![CDATA[poll results]]></category>
+		<category><![CDATA[polls]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/polling-obsession.html</guid>
+		<description><![CDATA[The 2012 Presidential is so close just so close that not only do different polls show different results but different averages of polls do. OK it is clear that extremely fancy models such as the fivethirtyeight model which attempt to assign undecideds and use state data to estimate the national vote and vice versa are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The 2012 Presidential is so close just so close that not only do different polls show different results but different averages of polls do.</p>
+<p>OK it is clear that extremely fancy models such as the fivethirtyeight model which attempt to assign undecideds and use state data to estimate the national vote and vice versa are different (generally I don&#8217;t like fancy but Nate Silver has a track record).  But simple smoothers also give different results.</p>
+<p>Partly it is the choice of polls to include yes/no on web based or partisan polls.  www.realclearpolitics.com is a simple average but they don&#8217;t include partisan polls or web based polls (and use self reported partisanship so Rasmussen is included but not PPP ooops).</p>
+<p>But part of it is the smoothing algorithm.  both http://www.talkingpointsmemo.com/ and <a href="http://elections.huffingtonpost.com/pollster">http://elections.huffingtonpost.com/pollster</a> use loess smoothers which fit a constant and a coefficient on time using weights which decline away from time t and report the fitted value for t.  I think this means they are too quick to extrapolate trends.  This means that one outlier can convince the computer that the polls have been trending for a candidate.</p>
+<p>My example the odd case of TalkingPointsMemo and Michigan.  The program has Ohio leans Obama and Michigan a tossup.  This is due to one poll by Foster-McCallum (in serious contention for the bitterly fought prize for worst pollster).  Without them, the computer estimates that Obama is 3.9% ahead.  That is enough for TPM to call the state leans Obama and give more than 269 electoral votes in Obama leaning states.</p>
+<p><a name="more"></a></p>
+<p>Here is the graph with Foster-McCallum
+<div><a href="http://4.bp.blogspot.com/-JntFLjccpOY/UI15PucqbGI/AAAAAAAAATc/Z7xJx1TAYSc/s1600/TPMdumb.JPG" imageanchor="1"><img border="0" height="176" src="http://4.bp.blogspot.com/-JntFLjccpOY/UI15PucqbGI/AAAAAAAAATc/Z7xJx1TAYSc/s320/TPMdumb.JPG" width="320"></a></div>
+<p>Here is the graph without them</p>
+<div><a href="http://3.bp.blogspot.com/-wRaTnX5B4JM/UI14lWwIJoI/AAAAAAAAATU/W7MWkGF0D5g/s1600/TPMselected.JPG" imageanchor="1"><img border="0" height="160" src="http://3.bp.blogspot.com/-wRaTnX5B4JM/UI14lWwIJoI/AAAAAAAAATU/W7MWkGF0D5g/s320/TPMselected.JPG" width="320"></a></div>
+<p>This is extreme, because Foster/McCallum had a Florida poll with an absurd sample which earned the coveted and very rare double asterix from TPM for not included in the average because of an editorial decision.</p>
+<p>I think such decisions should be made pollster by pollster not poll by poll.  But totally aside from that a sensible smoothing algorithm shouldn&#8217;t be so sensitive to one poll when 10 October polls are available all of which polled after the first TV debate.</p>
+<p>Notice how the poll pulls down estimates of the state of the race before it&#8217;s sample began.  This feature of the smoother makes it hard to see if a shift is due to an event.</p>
+<p>I say even simpler is better than Loess.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/polling-obsession.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mitt did it?</title>
+		<link>./../../2012/09/mitt-did-it.html</link>
+		<comments>./../../2012/09/mitt-did-it.html#respond</comments>
+		<pubDate>Wed, 12 Sep 2012 12:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Osama Bin Laden]]></category>
+		<category><![CDATA[polls]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/09/mitt-did-it.html</guid>
+		<description><![CDATA[Public Policy Polling has a robo based poll making the rounds yesterday with this question (15) and responses: Q15 Who do you think deserves more credit for the killing of Osama bin Laden: Barack Obama or Mitt Romney? Barack Obama&#8230;&#8230;..63% Mitt Romney&#8230;&#8230;&#8230; 6% Not sure &#8230;&#8230;&#8230;. 31% The breakdown looks like this: Choosing Mitt is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.publicpolicypolling.com/main/2012/09/obamas-lead-up-to-5-in-ohio.html">Public Policy Polling</a> has a robo based poll making the rounds yesterday with this question (15) and responses:</p>
+<p>Q15 Who do you think deserves more credit for the killing of Osama bin Laden: Barack Obama or Mitt Romney?</p>
+<p>Barack Obama&#8230;&#8230;..63%</p>
+<p>Mitt Romney&#8230;&#8230;&#8230; 6%</p>
+<p>Not sure &#8230;&#8230;&#8230;. 31%</p>
+<p>The breakdown looks like this:
+<div><a href="http://3.bp.blogspot.com/-b0ODcBS_q5Q/UFCBIvVec7I/AAAAAAAABBw/u9DSoT7NvX0/s1600/BinLadenDeathOHVoters.png" imageanchor="1"><img border="0" height="113" width="320" src="http://3.bp.blogspot.com/-b0ODcBS_q5Q/UFCBIvVec7I/AAAAAAAABBw/u9DSoT7NvX0/s320/BinLadenDeathOHVoters.png"></a></div>
+<p>Choosing Mitt is beyond me&#8230;.&#8217;not sure&#8217; might involve George Bush, but if memory serves he declared it &#8216;unimportant&#8217; sometime in 2008.  No matter one&#8217;s view on the matter, REALLY?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/09/mitt-did-it.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

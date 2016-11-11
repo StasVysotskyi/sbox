@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>natural resources &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>There&#8217;s a World Outside Your Window&#8230;</title>
+		<link>./../../2009/12/theres-a-world-outside-your-window.html</link>
+		<comments>./../../2009/12/theres-a-world-outside-your-window.html#respond</comments>
+		<pubDate>Fri, 25 Dec 2009 05:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[holiday greetings]]></category>
+		<category><![CDATA[natural resources]]></category>
+		<category><![CDATA[pop music]]></category>
+		<category><![CDATA[water]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/theres-a-world-outside-your-window.html</guid>
+		<description><![CDATA[&#8230;and it&#8217;s a world of dread and fear. May it stay outside your window next year and beyond.]]></description>
+				<content:encoded><![CDATA[<p>&#8230;and it&#8217;s a world of dread and fear.<br />
+
+</p>
+<p>May it stay outside your window <a href="http://www.oxfamamerica.org/">next year</a> and <a href="http://www.wateraidamerica.org/">beyond</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/theres-a-world-outside-your-window.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

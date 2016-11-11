@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>purchasing power &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Job Automation, Purchasing Power and Consumer Spending</title>
+		<link>./../../2009/12/job-automation-purchasing-power-and-consumer-spending.html</link>
+		<comments>./../../2009/12/job-automation-purchasing-power-and-consumer-spending.html#comments</comments>
+		<pubDate>Thu, 10 Dec 2009 11:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[automation]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[market wages]]></category>
+		<category><![CDATA[purchasing power]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/job-automation-purchasing-power-and-consumer-spending.html</guid>
+		<description><![CDATA[by Martin Ford Job Automation, Purchasing Power and Consumer Spending I’ve had several recent posts here arguing that automation technology is likely to depress wages and lead to significant structural unemployment in the coming years. One of the most common criticisms of my argument is that I am “not thinking like an economist” and that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Martin Ford</p>
+<p>Job Automation, Purchasing Power and Consumer Spending</p>
+<p>I’ve had several <a href="http://angrybear.blogspot.com/2009/11/could-advancing-job-automation.html" target="_blank">recent posts</a> here arguing that automation technology is likely to depress wages and lead to significant structural unemployment in the coming years. One of the most common criticisms of my argument is that I am “not thinking like an economist” and that I’m viewing things in terms of dollars, rather than in terms of purchasing power. </p>
+<p>Here’s part of a comment that James D. Miller, an economics professor at Smith College, made on my <a href="http://econfuture.wordpress.com/2009/11/25/comparative-advantage-v-machines" target="_blank">econfuture blog:</a></p>
+<blockquote><p>Non-economists (even when they are very smart and well-studied) get in trouble when they consider trade issues in terms of dollars (“everyone could work for a dollar an hour?”) It’s better to think of wages in terms of what you could buy. In a world with hyper-productive robots you could buy lots of stuff if you could work at a task for say 1,000 hours that saved a robot 10 seconds of time.</p></blockquote>
+<p>So the basic idea here is that although automation may result in very low wages in dollar terms (as well as high unemployment, since we do still have a minimum wage), things won’t be so bad because the efficiency of production will increase dramatically and everything will be really cheap. </p>
+<p>To see the problem with this, <a href="http://www.visualeconomics.com/how-the-average-us-consumer-spends-their-paycheck" target="_blank">view this graph at Visual Economics</a> showing how consumers spend their incomes. The graph makes it immediately clear that consumers spend the lion’s share on their incomes on things like housing, insurance, health care, transportation and food.<br /><a name="more"></a><br />“Hyper-productive robots” are not going to lower anyone’s mortgage principle, and interest rates surely cannot go much lower. Nor can rents adjust too far downward without threatening the landlord’s mortgage. The same is true of insurance. The reality is that the most of the average consumer’s budget is based primarily on asset (and debt) values—and not directly on how efficient the economy is at producing goods and services. Food and energy prices are likewise unlikely to adjust downward. Expenditure categories that might see falling prices as automation progresses, such as apparel, entertainment and miscellaneous represent a tiny fraction of the average budget, and in many cases prices have already been minimized by globalization.</p>
+<p>The only way to have expenditures fall in line with wages so that consumers could maintain their standard of living would be to have asset and debt values collapse. And that, of course, would be catastrophic for the financial system. Asset values in the United States reflect the basic assumption that we are going to continue to have a vibrant mass-market economy and a first-world living standard. You cannot have third-world wages with first-world asset values. That is the reason that countries like Thailand prohibit foreigners from buying property and driving values beyond the reach of their population. </p>
+<p>As wages fall and unemployment rises, the average consumer is going to be squeezed by the fixed costs that cannot adjust downward. Mortgage defaults would soar and discretionary consumer spending is likely to plummet.</p>
+<p>A <a href="http://www.usnews.com/money/blogs/flowchart/2009/12/03/why-rich-consumers-matter-more.html" target="_blank">recent article in U.S. News</a> noted that spending is already heavily concentrated among high income consumers:</p>
+<blockquote><p>The top 10 percent of earners account for 22 percent of all spending, for instance, according to Moody&#8217;s Economy.com. The top 25 percent of all earners account for 45 percent of spending. The bottom 50 percent of earners, by contrast, spend just 29 percent of all the money in the consumer economy.</p></blockquote>
+<p>As job automation (and globalization) drives down wages and creates structural unemployment, these numbers will become even more concentrated. At what point does this become unsustainable? In an environment with extreme financial stress due to loan defaults and falling asset values, can the wealthy few really drive consumer spending indefinitely? Recent history shows very clearly that when fear is pervasive, rich people stop buying as well. So where will consumer spending come from? </p>
+<p>Martin Ford is the author of <a href="http://www.thelightsinthetunnel.com/">The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future</a> and has a blog at <a href="http://draft.blogger.com/econfuture.wordpress.com">econfuture.wordpress.com</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/job-automation-purchasing-power-and-consumer-spending.html/feed/index.html</wfw:commentRss>
+		<slash:comments>37</slash:comments>
+		</item>
+	</channel>
+</rss>

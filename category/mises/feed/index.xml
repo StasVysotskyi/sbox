@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mises &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Capitalist &#038; The Entrepreneur</title>
+		<link>./../../2010/05/the-capitalist-the-entrepreneur.html</link>
+		<comments>./../../2010/05/the-capitalist-the-entrepreneur.html#respond</comments>
+		<pubDate>Tue, 18 May 2010 15:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[books]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[hayek]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[Mises]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/05/the-capitalist-the-entrepreneur.html</guid>
+		<description><![CDATA[One of the nice things about going to the Kauffman Foundation this year was meeting up again with Peter Klein of Organizations and Markets, who was my first economics professor.* (I liked him as soon as I found out one of his first publications dealt with &#8220;moral hazard&#8221; and the Designated Hitter.) Peter has a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of the nice things about going to the Kauffman Foundation this year was meeting up again with Peter Klein of <a href="http://organizationsandmarkets.com/">Organizations and Markets</a>, who was my first economics professor.*  (I liked him as soon as I found out one of his first publications <a href="http://web.missouri.edu/~kleinp/papers/dh.pdf">dealt with &#8220;moral hazard&#8221; and the Designated Hitter</a>.)</p>
+<p>Peter has a book out from the Mises Institute, <em><a href="http://mises.org/store/Capitalist-the-Entrepreneur-P10373.aspx">The Capitalist &#038; The Entrepreneur</a></em>.  Subtitled Essays on Organizations and Markets and carrying blurs from Business and Law people as well as the obligatory G-Mu professor (Adam Smith Award winner Peter Boettke), the book, as with Klein himself, is likely well-conceived, sharply written, and worth arguing with and about.</p>
+<p>Not to mention that, at $12 from Mises, it&#8217;s very reasonably priced.</p>
+<p>I&#8217;m certain I&#8217;ll have more later, after I get a chance to read it.  But it seems exactly the type of book that should be getting more discussion here.</p>
+<p>*On hearing this, <a href="http://capitalgainsandgames.com/samwick">Andrew Samwick</a> said, &#8220;But you two are at opposite ends of the spectrum.&#8221;  What I Should Have Said then I say now:  &#8220;I said he was a good teacher. I never said I was a good student.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/05/the-capitalist-the-entrepreneur.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

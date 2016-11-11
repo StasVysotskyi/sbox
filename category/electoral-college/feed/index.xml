@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>electoral college &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Guest post: Basics: How Overrepresented Are Rural and Low-Population States?</title>
+		<link>./../../2012/05/guest-post-basics-how-overrepresented-are-rural-and-low-population-states.html</link>
+		<comments>./../../2012/05/guest-post-basics-how-overrepresented-are-rural-and-low-population-states.html#respond</comments>
+		<pubDate>Thu, 31 May 2012 12:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 Presidential elections]]></category>
+		<category><![CDATA[electoral college]]></category>
+		<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[representation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/guest-post-basics-how-overrepresented-are-rural-and-low-population-states.html</guid>
+		<description><![CDATA[by Kenneth Thomas Guest post: Basics: How Overrepresented Are Rural and Low-Population States? We all kinda sorta know it: rural and small states are overrepresented in the Senate and, to a lesser extent, the Electoral College.This has deep roots in American history, of course: when the United States Constitution was drafted, small states demanded the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Kenneth Thomas</strong></p>
+<p>Guest post: Basics: How Overrepresented Are Rural and Low-Population States? </p>
+<p>We all kinda sorta know it: rural and small states are overrepresented in the Senate and, to a lesser extent, the Electoral College.This has deep roots in American history, of course: when the United States Constitution was drafted, small states demanded the Senate, with two votes for every state, to guarantee they would not be overwhelmed by the larger states politically. But today, when we have much greater population differences among states than in 1787, this takes on much more anti-democratic significance than it did then. Because each state has two Senators, political changes favoring the middle class are much harder to achieve than if everyone in the country were equally represented, in a mathematical sense, in Congress. Moreover, with the existence of the filibuster (<a href="http://www.scpr.org/news/2012/05/15/32437/lawsuit-tries-dump-filibuster/">recently challenged in court</a> by Common Cause), the effect of this overrepresentation is substantially magnified. But how big is the effect after the 2010 Census?</p>
+<p>Under the Senate&#8217;s filibuster rules, 41 Senators can block debate on Senate bills and nomination confirmations. So the first question is what percentage of the 50 states&#8217; population do the 21 smallest states have. The 2010 Census showed the states to have <a href="http://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population">308.1 million</a> (all quoted figures are subject to slight rounding error) population, with the smallest 21, from Wyoming&#8217;s 564,000 to Iowa&#8217;s 3 million, having a total of 34.8 million, or just 11.3% of the 50-state population. In theory, Senators representing those states could mount a successful filibuster. Of course, this is unrealistic, since some small states are heavily Democratic, such as Vermont, Rhode Island, Hawaii, and Delaware. Even Montana currently has two Democratic Senators.</p>
+<p><a name="more"></a></p>
+<p>Another way to look at the filibuster is to ask what percentage of the 50-state population is represented by the 41 Republican Senators from the least populous states. The answer takes the actual population of states with any Republican Senators, except Texas (Cornyn and Hutchison), Florida (Rubio), Illinois (Kirk), Pennsylvania (Toomey), and Ohio (Portman). The population of the states represented by the other 41 Republican Senators is 104.7 million, or 34.0% of the population of the 50 states. Thus, states with just a third of the country&#8217;s population can block legislation or Presidential nominations. With the recent skyrocketing use of the filibuster in the Senate, this is profoundly undemocratic.    </p>
+<p>Turning to the Electoral College, we can again see the effect of having a minimum of two Senators regardless of population, which means that each state (and the District of Columbia) has a minimum of three electors in the Electoral College. For example, the Real Clear Politics <a href="http://www.realclearpolitics.com/epolls/2012/president/2012_elections_electoral_college_map.html">Electoral College map</a> lists just 11 states and the District of Columbia as likely Obama, whereas 17 states are likely Romney. Even though the likely Obama states have more electoral votes than the likely Romney states (161 to 131), 6 of the Democratic states have double-digit electoral votes whereas only two of the Republican states do, underlining how Romney benefits from the overrepresentation of rural states.</p>
+<p>Finally, remembering the 2000 election, where President Bush was awarded more electoral votes despite losing the popular vote nationally, we can ask what the minimum percentage of population for the 50 states plus DC is needed to win the Electoral College. To answer this question, I tallied from the bottom to see how many states were required to top 270 electoral votes. According to <a href="http://en.wikipedia.org/wiki/List_of_electoral_votes_by_US_state">Wikipedia</a> (as I tell my students, only a potentially reliable source for non-controversial information, like this), you have to have New Jersey to top 270, but it actually takes you to 282. So I subtracted three Democratic states (DE, VT, and DC) with 3 electoral votes as well as Montana&#8217;s 3 electoral votes (since it&#8217;s the most competitive of the remaining states with 3 EVs) to get down to 270. The 37 remaining states have only 45% of the nation&#8217;s population eligible to elect the President. Yet theoretically they could do just that.</p>
+<p>This post has merely scratched the surface of the deep historical and constitutional questions that have led to Wyoming&#8217;s 564,000 people having as many Senators as California&#8217;s 37.7 million. The rural bias of the Senate and Electoral College make major political changes difficult to achieve, yet it is even more difficult to imagine that they could possibly be fundamentally altered, especially the Senate. Still, it is worth reflecting on these imbalances in order to understand the shortcomings that exist in American democracy.</p>
+<p>crossposted with <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/05/basics-how-overrepresented-are-rural.html">Middle Class Political Economist</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/guest-post-basics-how-overrepresented-are-rural-and-low-population-states.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

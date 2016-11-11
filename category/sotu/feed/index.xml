@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SOTU &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Bill Black on the SOTU</title>
+		<link>./../../2013/02/bill-black-on-the-sotu.html</link>
+		<comments>./../../2013/02/bill-black-on-the-sotu.html#respond</comments>
+		<pubDate>Wed, 13 Feb 2013 17:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[President Obama]]></category>
+		<category><![CDATA[SOTU]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/bill-black-on-the-sotu.html</guid>
+		<description><![CDATA[There are many ways to view the State of the Union address, and perhaps each listener needs to assess how much importance to give to the issues offered for comment.  Most of us are not &#8216;one issue&#8217; deal breaker sorts of people, but the impulse is strong for those issues we care about personally.  How [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There are many ways to view the State of the Union address, and perhaps each listener needs to assess how much importance to give to the issues offered for comment.  Most of us are not &#8216;one issue&#8217; deal breaker sorts of people, but the impulse is strong for those issues we care about personally.  How does one sort that out in public?  (update:  here is a <a href="http://www.salon.com/2013/02/13/president_obamas_full_state_of_the_union_address/?source=newsletter">link</a> to the transcript of the prepared speech)</p>
+<p>Bill Black has comment on the SOTU speech last night that underscores the probable nature of proposals that will address issues from A to Z, but stresses the fundamental paradox of smaller government intervention which seems to underlie the speech, costing &#8216;not another dime&#8217; and a &#8216;balanced approach&#8217; to program proposals:</p>
+<p>1) on infrastructure re-building but not much on who will pay for it, </p>
+<p>2) emphasizing education but in the frame of tackling rising tuition rates but with less money federally and no acknowledgement that                     increases are partly due to the loss of state based subsidies, </p>
+<p>3) entitlement reform being definitely on the table due to the aging population meme, but without any notion that privately based rate of spending increases on health insurance make private insurance coverage a hot potato for businesses, and the mysterious need to keep Social Security on the table (Bill has a different take on the payroll tax than I support),</p>
+<p>4) and of course the knotty problem of mortgage and financial regulation and accountability seems to be missing:</p>
+<p>( a raise in the minimum wage, climate change agenda of some kind is on, and dramatically some sort of increased regulation for some guns and ammo were not mentioned by Mr. Black)</p>
+<p><a href="http://therealnews.com/">More at The Real News</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/bill-black-on-the-sotu.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

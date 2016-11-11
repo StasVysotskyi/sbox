@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>big bird &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Big Bird Was Born to Tweet!</title>
+		<link>./../../2012/10/big-bird-was-born-to-tweet.html</link>
+		<comments>./../../2012/10/big-bird-was-born-to-tweet.html#respond</comments>
+		<pubDate>Sun, 07 Oct 2012 00:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[big bird]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/big-bird-was-born-to-tweet.html</guid>
+		<description><![CDATA[Big Bird Was Born to Tweet! Yesterday, we heard from an 8’2″ affable, yellow bird, who just realized he may not have a job come January. This job seeker has a varied background including Linguist and Mathematics Coach, Skating Carhop, Singer, Dancer, Actor and, most recently, Social Media Maven. (hat tip Bright.com)]]></description>
+				<content:encoded><![CDATA[<p>Big Bird Was Born to Tweet! 
+<div><a href="http://2.bp.blogspot.com/-WoDvgNwv0ZM/UHDPQP5-OfI/AAAAAAAABEg/blErUIW68dE/s1600/big-birds-resume.png" imageanchor="1"><img border="0" height="320" src="http://2.bp.blogspot.com/-WoDvgNwv0ZM/UHDPQP5-OfI/AAAAAAAABEg/blErUIW68dE/s320/big-birds-resume.png" width="240"></a></div>
+<p>Yesterday, we heard from an 8’2″ affable, yellow bird, who just realized he may not have a job come January. This job seeker has a varied background including Linguist and Mathematics Coach, Skating Carhop, Singer, Dancer, Actor and, most recently, Social Media Maven.</p>
+<p>(hat tip <a href="https://www.bright.com/user/4582053/big.bird">Bright.com</a>)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/big-bird-was-born-to-tweet.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Puns &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Economy up or down? A cross to bear?</title>
+		<link>./../../2008/03/economy-up-or-down-a-cross-to-bear.html</link>
+		<comments>./../../2008/03/economy-up-or-down-a-cross-to-bear.html#respond</comments>
+		<pubDate>Sat, 22 Mar 2008 05:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Puns]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/economy-up-or-down-a-cross-to-bear.html</guid>
+		<description><![CDATA[Have a good weekend all. If you are feeling angry about the economy, just do this cross word puzzle, grin and bear it. It might help.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://3.bp.blogspot.com/_RPTAaOI4RN8/R-SXDlE6F4I/AAAAAAAAAHc/gzXVufaEAwM/s1600-h/economy.jpg"><img alt="" src="http://3.bp.blogspot.com/_RPTAaOI4RN8/R-SXDlE6F4I/AAAAAAAAAHc/gzXVufaEAwM/s320/economy.jpg" border="0"></a> Have a good weekend all.  If you are feeling angry about the economy, just do this <em>cross</em> word puzzle, grin and bear it.  It might help.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/economy-up-or-down-a-cross-to-bear.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

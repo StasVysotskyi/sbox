@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>speculation &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Where Has All The Money Gone, Part II &#8211; Finance Sector</title>
+		<link>./../../2012/01/where-has-all-the-money-gone-part-ii-finance-sector.html</link>
+		<comments>./../../2012/01/where-has-all-the-money-gone-part-ii-finance-sector.html#respond</comments>
+		<pubDate>Tue, 24 Jan 2012 14:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[finance]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[speculation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/where-has-all-the-money-gone-part-ii-finance-sector.html</guid>
+		<description><![CDATA[In Part I we saw that labor&#8217;s earnings have lagged far behind GDP growth.  (More on earnings stagnation here) Meanwhile, corporate profits have grown at a rate that, until recently, increased over time, and they are now at a historically high fraction of GDP.Here is a specific look at the Finance Sector. The graph shows [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In <a href="http://www.angrybearblog.com/2012/01/where-has-all-money-gone-pt-i-corporate.html">Part I</a> we saw that labor&#8217;s earnings have lagged far behind GDP growth.  (More on earnings stagnation <a href="http://www.huffingtonpost.com/2011/10/20/us-incomes-falling-as-optimism-reaches-10-year-low_n_1022118.html">here</a>) Meanwhile, corporate profits have grown at a rate that, until recently, increased over time, and they are now at a historically high fraction of GDP.<br />Here is a specific look at the Finance Sector.  The graph shows finance sector profits as a percentage of total corporate profits &#8211; all after tax.</p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=4ul"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=4ul" width="400"></a></div>
+<p>  <br /><a name="more"></a>That&#8217;s a pretty impressive sweep up over time.  I threw some best fit curves through the whole data set, and also though the peaks and valleys.  Curves through the extremes are exponential.</p>
+<p>
+<div><a href="http://2.bp.blogspot.com/-4kwP1F5EhsE/TfN0ndvpLQI/AAAAAAAABc8/ik934xHstUw/s1600/Corp+Profits+-+Finance+Share.JPG"><img border="0" height="298" src="http://2.bp.blogspot.com/-4kwP1F5EhsE/TfN0ndvpLQI/AAAAAAAABc8/ik934xHstUw/s400/Corp+Profits+-+Finance+Share.JPG" width="400"></a></div>
+<p>Along with the increased percentage we get a dramatic increase in the data spread.</p>
+<p>When lines jump around a lot, you can sometimes get clarification by looking at a long average.  I tried that here with a 13 year average.</p>
+<div><a href="http://4.bp.blogspot.com/-KP6X8tL_yxY/TflNqYC7WOI/AAAAAAAABdg/Y5ZyDoGXWck/s1600/Corp+Profits+-+Fin+Sh+3.JPG"><img border="0" height="298" src="http://4.bp.blogspot.com/-KP6X8tL_yxY/TflNqYC7WOI/AAAAAAAABdg/Y5ZyDoGXWck/s400/Corp+Profits+-+Fin+Sh+3.JPG" width="400"></a></div>
+<p>A long average filters out the hash, and reveals the underlying trend.  Or, I should say, trends, since there are two, with a sharp break at the beginning of 1986.  A best-fit least squares trend line on the data through  &#8217;85 is a near-perfect match to the average line, which barely even wiggles.  We see a bit more action in the post-85 segment, but the new trend is still very clear, indeed.  The earlier trend line in green is now the lower channel support line.</p>
+<p>The finance sector has captured an increasing fraction of corporate  profits, which have been growing at an increasing rate since WWII.  And  the growth rates are greatest when the economy is doing the worst.  Take  another look at the first graph.  The correlation of finance sector  profit peaks with recessions is close to perfect.  Peaks are in Q2-1949,  Q3-1952, Q4-1953, Q1-1958, Q1-1961, Q4-1970,  Q1-1986, Q1-1991,  Q4-2001.  The peak in 1986 is the only one that does not correspond to a  recession.</p>
+<p>The finance sector provides a vital function.  It is there to facilitate  and enable the wheels of industry to turn.  But policy matters.  What has happened in the  age of deregulation and lax taxation is that the finance sector has come  to dominate the economy.  This is madness. And here is your Great  Stagnation, folks.</p>
+<p>Beyond the point of supplying necessary financing for businesses and  mortgages, financial manoeuvrings &#8211; speculation in particular, and most  especially so with sophisticated derivatives that nobody knows how to  rationally evaluate &#8211; become rent seeking.  This is a massive misallocation  of resources, diverting capital from real investment into totally  non-value-added financial tail chasing.</p>
+<p>And I&#8217;m not the only who thinks so.  Here, Paul Krugman calling the whole operation <a href="http://krugman.blogs.nytimes.com/2011/11/23/a-gigantic-scam/">A Giant Scam</a>, quotes Andrew Haldane, Executive Director, Financial Stability, Bank of England:</p>
+<blockquote><p>In fact, high pre-crisis returns to banking had a much  more mundane explanation. They reflected simply increased risk-taking  across the sector. This was not an outward shift in the portfolio  possibility set of finance. Instead, it was a traverse up the high-wire  of risk and return. This hire-wire act involved, on the asset side,  rapid credit expansion, often through the development of poorly  understood financial instruments. On the liability side, this ballooning  balance sheet was financed using risky leverage, often at short  maturities.</p></blockquote>
+<blockquote><p>In what sense is increased risk-taking by banks a value-added service for the economy at large? In short, it is not.</p></blockquote>
+<p>Haldane&#8217;s article was reposted at <a href="http://www.nakedcapitalism.com/2011/11/haldanemadouros-what-is-the-contribution-of-the-financial-sector.html#comments">Naked Capitalism</a>.  What he is getting at is the derivatives market, the unregulated  darling of the World of High Finance.  Estimates vary, since there is no  good way to get a handle on it, but the highly leveraged derivatives  market has a notional value somewhere <a href="http://seekingalpha.com/article/198197-why-derivatives-caused-financial-crisis">between 10 and 25 times</a> the aggregate value of global GDP.  In the wake of Phil Graham&#8217;s  undoing of Glass-Steagal came a sea change in the way the Finance Sector  does business, and along with this came a shift from risk management to  risk-making.  As Haldane put it: &#8220;If risk-making were a value-adding activity, Russian roulette players would contribute disproportionately to global welfare.&#8221;</p>
+<p>Since  none of this activity does anything to create real wealth, it is  nothing but rent-seeking.  That is bad, in and of itself.  Worse, still,  in Krugman&#8217;s words: &#8220;Wall Street and the City were con artists extracting huge rents from an  unwary public (and eventually dumping much of the cost, when things went  bad, on taxpayers).&#8221;   What is perhaps worst of all is that the money locked up in these ventures is diverted from real investment.</p>
+<p>So,  here is the picture.  While the average earnings of working stiffs has  been stagnant, at best, corporate profits have grown at an increasing  rate.  Further, the percentage of those profits going to the Finance  sector has also grown at an increasing rate.  Total profit growth is  above exponential, and Finance Sector profit growth is  super-exponential.</p>
+<p>To summarize:<br />1) Over the last 30 years banking has devolved from a necessary  financial function involved in the allocation of resources and  management of risk to essentially non-value-added rent-seeking  activities implemented through high risk practices.<br />2) When the whole house of cards came tumbling down, the losses were  socialized, while the criminals who perpetrated the underlying fraud  walked off not only scot-free, but with huge bonuses.</p>
+<p>There  might be some way to justify this if it were leading to greater GDP  growth or a rising tide that lifted all the boats.  But the opposite has  happened.  GDP growth has been in decline for decades, and the tsunami  of profits floating the yachts in the Finance Sector has swamped all the  dinghies.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/where-has-all-the-money-gone-part-ii-finance-sector.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Was I Wrong? Is Oil Trading Primarily a Speculative Market</title>
+		<link>./../../2010/05/was-i-wrong-is-oil-trading-primarily-a-speculative-market.html</link>
+		<comments>./../../2010/05/was-i-wrong-is-oil-trading-primarily-a-speculative-market.html#respond</comments>
+		<pubDate>Mon, 17 May 2010 19:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[commodities]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[oil]]></category>
+		<category><![CDATA[speculation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/05/was-i-wrong-is-oil-trading-primarily-a-speculative-market.html</guid>
+		<description><![CDATA[How else to explain a 20% drop in prices since The Destruction of the Gulf of Mexico? Oil fell below $70 Monday, reaching a low of $69.27 before rebounding slightly&#8230;The turnaround has been sudden &#8212; oil hit an 18-month high of $87.15 a barrel during trading on May 3. The plunge in oil extended to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>How else to explain <a href="http://finance.yahoo.com/news/Oil-drops-again-now-down-20-apf-2632048160.html?x=0&#038;sec=topStories&#038;pos=1&#038;asset=&#038;ccode=">a 20% drop in prices since The Destruction of the Gulf of Mexico</a>?<br />
+<blockquote>Oil fell below $70 Monday, reaching a low of $69.27 before rebounding slightly&#8230;The turnaround has been sudden &#8212; oil hit an 18-month high of $87.15 a barrel during trading on May 3.</p>
+<p>The plunge in oil extended to the New York Stock Exchange, where shares of major energy companies were lower.</p></blockquote>
+<p>Is oil the derivatives of hard commodities: the place where <a href="http://www.angrybearblog.com/2010/05/liquidity.html">liquidity</a> is based on speculation, not fundamentals?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/05/was-i-wrong-is-oil-trading-primarily-a-speculative-market.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wyden&#8217;s Proposal for taxing oil and gas speculators</title>
+		<link>./../../2009/08/wydens-proposal-for-taxing-oil-and-gas-speculators.html</link>
+		<comments>./../../2009/08/wydens-proposal-for-taxing-oil-and-gas-speculators.html#respond</comments>
+		<pubDate>Thu, 06 Aug 2009 22:50:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[capital gains]]></category>
+		<category><![CDATA[distributive justice]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[fair tax policy]]></category>
+		<category><![CDATA[speculation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/wydens-proposal-for-taxing-oil-and-gas-speculators.html</guid>
+		<description><![CDATA[Ron Wyden, Democratic Senator from Oregon who serves on the Senate Finance Committee and the Energy Committee, is generally considered a liberal, though with a mixed bag of positions that hardly qualify on all grounds. He is against the estate tax and favors lowering rates of capital gains taxes, neither of which makes sense, from [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ron Wyden, Democratic Senator from Oregon who serves on the Senate Finance Committee and the Energy Committee, is generally considered a liberal, though with a mixed bag of positions that hardly qualify on all grounds.  He is against the estate tax and favors lowering rates of capital gains taxes, neither of which makes sense, from my perspective, in an economy already tilted to favor capital (and hence those in the upper distributions) and in need of revenue.   His positions on the environment have been fairly consistently progressive.  Back in 2004, for example, he worked on legislation to &#8220;get tougher&#8221; on responses to oil spills and get kinder in expediting loans to people impacted by those spills.  See this <a href="http://wyden.senate.gov/newsroom/record.cfm?id=263650">press release</a>.  He has supported  the US addressing CO2 emissions even if the big economies of China and India don&#8217;t (S. Con. Res. 70, May 15, 2008).  </p>
+<p>So what happens when you put tax policy (where I&#8217;m not terribly impressed with many of his positions) together with environmental policy (where he seems to have a fairly decent record)?</p>
+<p>Today, Wyden introduced a bill (<a href="http://wyden.senate.gov/issues/Legislation/oilspecdraft/stop_act_bill.pdf">S. 1588</a>) that deals with both of these issues.  It would end a tax break currently enjoyed by  speculators who trade in oil and gas.   They&#8217;d have to pay tax at the ordinary income rates, rather than getting the preferential capital gains rates (o% for the first two income brackets, then 15%).    This would be achieved by treating the gains as short-term capital gains (or losses) even if they would be treated as long-term under other provisions.  Gains in trading by tax-exempt investors&#8211;e.g., Harvard&#8217;s endowment and similar funds&#8211; would be taxed as unrelated business income.</p>
+<p>What&#8217;s the rationale?  &#8220;To amend the Internal Revenue Code of 1986 to provide the same tax treatment for both commercial and non-commercial investors in oil and natural gas and related commodities, and for other purposes.&#8221;  The first section has a short title that perhaps reveals more&#8211;it is the &#8220;Stop Tax-breaks for Oil Profiteering Act&#8221; (STOP Act).  The bill also calls for a study of commodities exchanges and the effect of tax policy on the demand and price of commodities, and particularly of oil and gas.</p>
+<p>I&#8217;m no expert in this area, but this sounds at first impression like a good idea.  Wyden&#8217;s point is that those who use such fuels in their businesses have to purchase those commodities and treat any profits on related trading as ordinary.  But speculators pay lower capital gains rates on trading profits, which may well mean that their trading distorts the market and raises prices.</p>
+<p>Of course, I&#8217;ve long argued for eliminating the capital gains preference altogether, either through repeal of the provision in the regular tax or adding it as an adjustment in the alternative minimum tax.  While I&#8217;d rather there be a wholesale change&#8211;to remove all the characterization games that taxpayers play and to help move the tax system towards a fairer one that does not give such inordinate preference to owners of capital over workers, these commodities trades may be an appropriate target, especially given their likely impact on pricing in an era when we can expect increasing oil and gas scarcity.</p>
+<p>Any thoughts?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/wydens-proposal-for-taxing-oil-and-gas-speculators.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Report on oil speculation</title>
+		<link>./../../2008/09/report-on-oil-speculation.html</link>
+		<comments>./../../2008/09/report-on-oil-speculation.html#respond</comments>
+		<pubDate>Wed, 10 Sep 2008 23:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[oil]]></category>
+		<category><![CDATA[speculation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/report-on-oil-speculation.html</guid>
+		<description><![CDATA[by Divorced one like Bush Anyone else see this report? The report by Masters Capital Management said investors poured $60 billion into oil futures markets during the first five months of the year as oil prices soared from $95 a barrel in January to $145 a barrel by July. Since then, these investors have withdrawn [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Divorced one like Bush</p>
+<p>Anyone else see <a href="http://www.wnbc.com/money/17439339/detail.html?rss=ny&#038;psp=nationalnews">this report</a>? <br />
+<blockquote>The report by Masters Capital Management said investors poured $60 billion into oil futures markets during the first five months of the year as oil prices soared from $95 a barrel in January to $145 a barrel by July.</p>
+<p>Since then, these investors have withdrawn $39 billion from those markets as prices have retreated dramatically, the report said. Oil traded at about $102 a barrel Wednesday on the New York Mercantile Exchange</p></blockquote>
+<p><a href="http://online.wsj.com/article/SB122100706431117489.html?mod=googlenews_wsj">WSJ notes</a> there is a second report to be out probably by tomorrow from Commodity Futures Trading Commission.<br />Of course, there has to be an ulterior motive:<br />
+<blockquote>Critics said Mr. Masters is trying to buoy his own investing portfolio, which is laden with transportation-related stocks, and lawmakers are trying to show they are addressing high gas prices.</p></blockquote>
+<p>Or maybe not:<br />
+<blockquote>European Central Bank President Jean-Claude Trichet last week told attendees at a Frankfurt conference that speculation had contributed to the oil-price shock that has hindered global growth. The two presidential nominees, among others, have attacked the trend.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/report-on-oil-speculation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Oil prices VS Storms</title>
+		<link>./../../2008/08/oil-prices-vs-storms.html</link>
+		<comments>./../../2008/08/oil-prices-vs-storms.html#respond</comments>
+		<pubDate>Tue, 05 Aug 2008 23:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Gulf Storms]]></category>
+		<category><![CDATA[oil]]></category>
+		<category><![CDATA[Prices]]></category>
+		<category><![CDATA[speculation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/08/oil-prices-vs-storms.html</guid>
+		<description><![CDATA[By: Divorced one like Bush Being that there is a lot of “authoritative” talking going on about the cause of the up&#8217;s and down&#8217;s of oil and one cause being suggested is the anticipation of storms, I thought looking at the history of storms and oil price would help toward answering the hypothesis of oil [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By: Divorced one like Bush</p>
+<p>Being that there is a lot of “authoritative” talking going on about the cause of the up&#8217;s and down&#8217;s of oil and one cause being suggested is the anticipation of storms, I thought looking at the history of storms and oil price would help toward answering the hypothesis of oil prices rising in anticipation of storm damage.</p>
+<p>Using the daily price of <a href="http://tonto.eia.doe.gov/dnav/pet/hist/rwtcd.htm">WTI Cushing/Oklahoma oil </a>I charted the relationship of price to the storm dates.  I use 6 price points.  A. 2 Monday&#8217;s before, B. Friday before, C. Monday before, D. Day of Storm, E. Friday after, F. 1 week after day of storm.  Any number in parenthesize is the price for the next open trading day.  When the storm fell on a week end, I counted 1 week after and used the next Monday.</p>
+<p>Chart after the fold.</p>
+<p><a href="http://2.bp.blogspot.com/_ea3-LcbrX8A/SJjiAC5fexI/AAAAAAAAAIQ/cz798iTWXl0/s1600-h/Oil+Price+vs+Storm+Dates.JPG"><img src="http://2.bp.blogspot.com/_ea3-LcbrX8A/SJjiAC5fexI/AAAAAAAAAIQ/cz798iTWXl0/s400/Oil+Price+vs+Storm+Dates.JPG" border="0" alt=""></a><br />I do not do correlation calculations.  But, I think this chart shows that there is no significant speculation in pricing based on Gulf storms.  There are 4 times that the price 1 wk post storm is lower than 2 Monday&#8217;s prior to the storm.  They are in order: Dolly 7/23/08 down $22.95, Dennis 7/10/05 down $2.66, Rita down 2.58 9/24/05 and Opal 10/4/95 down $0.10.  Of these 4, Rita has the highest pre-storm climb of $3.92 or 6%.  Dolly only showed a 2% climb pre-storm but there has been a 16% drop since her high 2 weeks before she hit.</p>
+<p>The interesting string is the 4 storms of 2005.   Katrina and Rita are the only storms that show some possibility of a storm pricing effect within this series.  Katrina with an almost $2.00 (3%) rise in 2 wks and then a decline of $4.50 until the price jumped $4.30 in 1 week before Rita.   However, the next trading day after Rita, the price was down $1.23  and 1 week later it was within $0.93 of the 2 weeks prior to tropical storm Cindy of 7/5/05 ( 2.5 months time between the two).  As to this year, the price is just plain going down since the peak 2 weeks before hurricane Dolly which is 1 month of downward trend before the republicans started filling hot air balloons.   </p>
+<p>It appears that if there is a storm pricing effect, it is a recent phenomenon and of a rather small and short lived event.  Being a new event in oil pricing, I would suggest that what effect there is, is purely emotional and related to the emotional climate we are living in.  Gun shy?  We only have fear to fear?  Or, maybe it is an herd mentality learned that a storm is a good excuse to make a quick dollar. That would be herd mentality market manipulation.  Oh no, did I just ruin it for everyone?</p>
+<p>Guess we are going to have to find someone talking with more authority than what we have had so far regarding the cause oil pricing.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/08/oil-prices-vs-storms.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

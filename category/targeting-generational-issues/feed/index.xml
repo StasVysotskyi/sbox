@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>targeting generational issues &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Young vs. old</title>
+		<link>./../../2012/04/young-vs-old.html</link>
+		<comments>./../../2012/04/young-vs-old.html#respond</comments>
+		<pubDate>Thu, 12 Apr 2012 11:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[smart phones]]></category>
+		<category><![CDATA[targeting generational issues]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/young-vs-old.html</guid>
+		<description><![CDATA[Lifted from the rjs newsletter: Young vs. old &#8211; Three of the top five symptoms searched for on Yahoo Mobile in January were early pregnancy, herpes and H.I.V. None of these symptoms showed up among the top searches on desktop computers, which are more likely to be used by older people. The most popular symptom [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lifted from the <strong>rjs</strong> newsletter:<br />
+<blockquote><a href="http://feedproxy.google.com/~r/marginalrevolution/feed/~3/VH10JJM1eNs/young-vs-old.html">Young vs. old</a> &#8211; Three of the top five symptoms searched for on Yahoo Mobile in January were early <a href="http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/pregnancy/index.html?inline=nyt-classifier">pregnancy</a>, <a href="http://health.nytimes.com/health/guides/disease/herpes-simplex/overview.html?inline=nyt-classifier">herpes</a> and <a href="http://health.nytimes.com/health/guides/disease/aids/overview.html?inline=nyt-classifier">H.I.V.</a> None of these symptoms showed up among the top searches on desktop computers, which are more likely to be used by older people. The most popular symptom searches on PCs included gastroenteritis, heart attacks, <a href="http://health.nytimes.com/health/guides/disease/acute-gouty-arthritis/overview.html?inline=nyt-classifier">gout</a> and <a href="http://health.nytimes.com/health/guides/disease/herpes-zoster/overview.html?inline=nyt-classifier">shingles</a>, Yahoo said, adding that the encyclopedic medical symptoms checker on WebMD was the most popular site of its kind among PC users. On WebMD, the top symptoms searched for in January were muscle strain, gastroenteritis and <a href="http://health.nytimes.com/health/guides/disease/irritable-bowel-syndrome/overview.html?inline=nyt-classifier">irritable bowel syndrome</a>. <a href="http://www.nytimes.com/2012/04/02/technology/as-smartphones-become-health-aids-ads-may-follow.html?hpw">The article</a> in the New York Times is interesting throughout.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/young-vs-old.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

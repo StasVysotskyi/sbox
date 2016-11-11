@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>adverse selection &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Should Potential Employers have Access to Credit Scores ?</title>
+		<link>./../../2010/07/should-potential-employers-have-access-to-credit-scores.html</link>
+		<comments>./../../2010/07/should-potential-employers-have-access-to-credit-scores.html#respond</comments>
+		<pubDate>Mon, 26 Jul 2010 11:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[adverse selection]]></category>
+		<category><![CDATA[credit]]></category>
+		<category><![CDATA[employment]]></category>
+		<category><![CDATA[Externalities]]></category>
+		<category><![CDATA[microeconomic theory]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/should-potential-employers-have-access-to-credit-scores.html</guid>
+		<description><![CDATA[Robert Waldmann Oh good, Kevin Drum and Matthew Yglesias disagree. This is bound to be interesting. Drum remembers the good old days when liberals had less respect for the standard results of simple neoclassical economic models. The specific issue is that firms are using credit scores to decide who to hire. This can trap some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Oh good, Kevin Drum and Matthew Yglesias disagree. This is bound to be interesting.</p>
+<p>Drum remembers the good old days when liberals had less respect for the standard results of simple neoclassical economic models. </p>
+<p>The specific issue is that firms are using credit scores to decide who to hire. This can trap some people as they can&#8217;t improve their credit score without a job and can’t get a job with their current credit score. Kevin Drum <a href="http://motherjones.com/kevin-drum/2010/07/liberalism-and-business-community">thinks the practice should be banned.</a> Matthew Yglesias isn&#8217;t sure. </p>
+<p><a name="more"></a></p>
+<p>Yglesias <a href="http://yglesias.thinkprogress.org/2010/07/credit-scores-and-employment/">wrote</a><br />
+<blockquote>But at the same time I try to adhere to the principle I outlined here and resist the urge to call for regulating the business practices of private firms when the issue isn&#8217;t pollution or some other case where the externalities are clear. After all, it seems like either this credit check business is a sound business practice (in which case allowing it is making the economy more efficient and ultimately building a more prosperous tomorrow) or else it&#8217;s an unsound business practice (in which case competition should drive it out).</p></blockquote>
+<p>That is actually a pretty radical position. I wonder what clear externality the 64 civil rights act addressed. I&#8217;m quite sure Yglesias doesn&#8217;t think what he seemed to assert, but I want to figure out what he had in mind.</p>
+<p>Drum responds &#8220;More important is the fact that we liberals shouldn&#8217;t view the relationship between businesses and individuals as solely economic transactions&#8221; and gives an example<br />
+<blockquote>Here&#8217;s an example. Back in 1968, Congress passed the Truth in Lending Act. Among other things, it made credit card companies liable for charges on stolen credit cards over $50. In a purely economic sense, there&#8217;s really no excuse for this. </p></blockquote>
+<p>Ah how naïve. There is always an excuse based on economic theory (with the assumption of full rationality) for any policy. I view any assertion to the contrary as a personal challenge. This one is easy. Drum argues that the regulation creates a moral hazard problem as we are more careless with our wallets. I see his moral hazard and raise him an adverse selection (Hint: adverse selection is a great tool for justifying regulations as market outcomes are inefficient if there is adverse selection).</p>
+<p>So let&#8217;s say everyone is better off with the regulation so the most wallet guarding yet not risk averse person is willing to pay extra to the bank in exchange for this protection. That doesn&#8217;t mean that this will be the market outcome. Let’s say a credit card company introduces a new card with the $50 limit. It will attract all the people who can&#8217;t keep track of their wallets. It will also attract people who commit a rare kind of fraud giving their card to an accomplice, having the accomplice buy stuff and then reporting it lost. There aren&#8217;t many of those, but there are enough that the extra interest (or other fees) that the company would have to charge would drive away everyone but the fraudsters and the most absent minded yet risk averse (I raise my hand). So the new product would enter the adverse selection death spiral.</p>
+<p>The only solution is to force everyone to buy the protection which everyone wants if the fee is the actuarially fair fee for 100% coverage. Oh look, that’s the current law. That was easy. No sweat, no equations. </p>
+<p>I mean Kevin you consider the health care reform debate and recall how forcing people to buy insurance, whether they want it or not, can be Pareto improving in a standard economic model. </p>
+<p>Now on the original topic, I side with Drum. I think there is an externality. If people are rendered unemployable, maybe because of their fecklessness maybe because of their unluckiness there are externalities. For one thing the standard argument for <em>laissez faire</em> assumes we are totally selfish and absolutely needs that assumption to get the result. If desperate unemployable people cause others pain, then there is an externality. Another simpler externality is crime. People who are excluding from employment have little to lose from turning to crime. That’s an externality.</p>
+<p>I’m pretty sure Yglesias&#8217;s idea is that both of these are arguments for redistribution from rich to poor and that such redistribution is more efficiently obtained by taxing and transferring. First, self esteem can&#8217;t be transferred. Good examples for the children can&#8217;t be transferred either. More importantly, there is no way that the feckless poor are getting much in the USA. You make policy with the electorate you have not the electorate you want. US voters are very willing to regulate business. They are totally unwilling to transfer money to people who firms don’t want to employ, because they seem to be irresponsible.</p>
+<p>Assuming a social planner who taxes and transfers optimally is like assuming regulators can&#8217;t be captured or assuming that CO2 doesn&#8217;t cause global warming. That’s not the world we live it. I think we have to transfer however we can and that includes hiding information from potential employers. The loss in efficiency is a social loss only if one assumes that income distribution doesn&#8217;t matter (or assumes that there are optimal lump sum taxes and transfers which is an oxymoron). The link clicking reader will notice that my arguments are pretty much orthogonal to Drum’s.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/should-potential-employers-have-access-to-credit-scores.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ignani and the Ignavi</title>
+		<link>./../../2009/10/ignani-and-the-ignavi.html</link>
+		<comments>./../../2009/10/ignani-and-the-ignavi.html#respond</comments>
+		<pubDate>Mon, 12 Oct 2009 09:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[adverse selection]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[jourmalism]]></category>
+		<category><![CDATA[lobbying]]></category>
+		<category><![CDATA[WaPo]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/ignani-and-the-ignavi.html</guid>
+		<description><![CDATA[Robert Waldmann AHIP The health insurance lobby just declared war on the Baucus plan. This is new, since they previously supported health care reform. It is not, however, surprising. AHIP made its condition clear, they would support health care reform provided that all were insured. Basically the individual mandate was the price for their support. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>AHIP The health insurance lobby just declared war on the Baucus plan.  This is new, since they previously supported health care reform.  It is not, however, surprising.  AHIP made its condition clear, they would support health care reform provided that all were insured.  Basically the individual mandate was the price for their support.  </p>
+<p>Displaying his usual inverted political genius, Baucus decided to water down the individual mandate so that some people are allowed to go without insurance.  He was trying to compromise with Republicans, well in this case, with a Republican &#8212; Olympia Snowe.  Thus he violated the terms of a very clear very public agreement with AHIP.  <a target="_blank" href="http://angrybear.blogspot.com/2009_09_01_angrybear_archive.html">It&#8217;s not as if I didn&#8217;t warn on September 2 that this is a terrible idea. <br /></a></p>
+<p>Now Baucus has lost AHIP and Snowe remains officially undecided.  He dumped AHIP Prsident Karen Ignani in a bid for the Ignavi (I make that plural to refer to the Divine Comedy but pretend it is to include Nelson or Lieberman or someone).</p>
+<p>Update:  Maybe I was wrong.  Maybe Baucus is an even more brilliant 11 dimensional chess player than Obama (a 12 dimensional chess player) and he knew that provoking AHIP was a brilliant strategy.  <a href="http://tpmdc.talkingpointsmemo.com/2009/10/senate-finance-aide-ahip-report-will-help-to-pass-health-care.php">The line from an anonymous &#8220;finance committee aide&#8221; is that AHIP&#8217;s attack is good for Baucus.</a>  The idea seems to be that Senators are angry with AHIP and don&#8217;t want to appear to take instructions from AHIP (doesn&#8217;t mean they don&#8217;t want to take the instructions, it just means that they don&#8217;t want it to be obvious as in changing their position the day before the big vote after a very public command).</p>
+<p>Of course I assume that &#8220;a finance committee aide&#8221; would not make a totally bogus claim in support of the view that Sen Baucus is a genius and certainly wouldn&#8217;t demand anonymity if the claim were totally bogus.  Nahhh that&#8217;s just not the way Washington works.</p>
+<p>I&#8217;d guess that the bought and paid for insurance industry senators (definitely including Sen Baucus) aren&#8217;t even capable of being good fiduciaries of insurance company shareholders &#8212; that there obsession with compromising, watering down and settling for half a loaf (and above all pissing of the left wing of the party) lead them to water down the individual mandate which is much more critical to insurance company profits than is the avoidance of a public option.</p>
+<p><a href="http://www.motherjones.com/kevin-drum/2009/10/empire-strikes-back">update 2:  Kevin Drum has the same theory as I do, but he writes much more goodly.</a></p>
+<p><a href="http://www.nakedcapitalism.com/2009/10/new-york-times-missing-in-action-on-health-insurance-lobby-duplicity.html">update 3: Yves Smith ways in</a><br />More comments after the jump. </p>
+<p>Interestingly the AHIP broadside is not a press release.  It is <a target="_blank" href="http://www.washingtonpost.com/wp-dyn/content/article/2009/10/11/AR2009101102207.html?hpid=topnews">an A1 article by Ceci Conolly in The Washington Post.</a>  I thought the Washington Post was a subsidiary of the test prep industry not the health insurance industry (live and learn).</p>
+<p>Dougj notes that The Washington Post publisher invited health industry players to pay for access to Ceci Conolly and writes <a href="http://www.balloon-juice.com/?p=28104">&#8220;There’s a pretty strong prima facie case for pay-to-play here.&#8221;</a></p>
+<p>Also AHIP didn&#8217;t just say the Baucus bill is a bad bill which will cause insurance premia to increase.  They commissioned a study from PricewaterhouseCoopers to conduct an analysis (it must be an analysis there are lot&#8217;s of numbers in it) and a frightening possible price tag.  PricewaterhouseCoopers clearly explains, in the text of their analysis, that they made extreme and implausible assumptions to make the calculated number as large as possible.  AHIP and PwC assume that they know how journamalism works.  Journalists don&#8217;t look at the assumptions or any non headline number so credibility can be bought (although I didn&#8217;t know that PwC had any left to sell).  <a target="_blank" href="http://www.tnr.com/blog/the-treatment/breaking-the-insurance-industry-declares-war">John Cohn read the fine print so you don&#8217;t have to.</a></p>
+<p>I&#8217;m not sure if the old approach will work now that serious journalists have to worry about geeks who actually read the analysis that interest groups buy.  OK I&#8217;m pretty sure it will still work.  </p>
+<p>update:  looks the approach of anonymous sources praising their bosses still works.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/ignani-and-the-ignavi.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Capitalism deserves a better defense, or Reasons to Short the Old Firm, Pre-BK</title>
+		<link>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html</link>
+		<comments>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html#respond</comments>
+		<pubDate>Mon, 13 Apr 2009 18:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[adverse selection]]></category>
+		<category><![CDATA[leverage]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html</guid>
+		<description><![CDATA[Ken Houghton&#8217;s Loyal Reader directed my attention to this WSJ blog entry, commenting on, and attempting to provide cover for, the management and actions of The Old Firm. I&#8217;m sympathetic to the general argument—Ace Greenberg&#8217;s naming of Jimmy Cayne to succeed him was incredibly bad judgment that had real consequences, but not malice aforethought—but the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ken Houghton&#8217;s Loyal Reader directed my attention to <a target="_blank" href="http://blogs.wsj.com/deals/2009/04/13/what-is-the-difference-between-a-ponzi-scheme-and-an-investment-bank/">this WSJ blog entry</a>, commenting on, and attempting to provide cover for, the management and actions of The Old Firm.</p>
+<p>I&#8217;m sympathetic to the general argument—Ace Greenberg&#8217;s naming of Jimmy Cayne to succeed him was incredibly bad judgment that had real consequences, but not malice aforethought—but the WSJ&#8217;s attempt to defend upper management rather goes off the rails.*</p>
+<p>Let&#8217;s look at some of the analytical parts of the article:<br />
+<blockquote>Investment banks were certainly imprudent in leveraging themselves 33 to 1; but they also announced it publicly in their quarterly statements.</p></blockquote>
+<p>&#8220;Certainly imprudent&#8221; is having unprotected sex with someone who clearly has open genital and/or oral herpes sores.  33x is larger even than the Cox-allowed 30x leverage (which was imprudent in the first place). &#8220;Thirty times leverage; it&#8217;s not just imprudent, it&#8217;s the law.&#8221;</p>
+<p>UPDATE:  My Loyal Reader e-mails:<br />
+<blockquote>Cohan writes that only at the end of a quarter was Bear around 40:1 and most of the rest of the time it was at 50 or 55:1&#8230;.JPMorgan Chase at the time of the takeover calculated that out of $300 billion Bear Stearns counted as assets, $220 billion could be considered &#8220;toxic&#8221;.</p></blockquote>
+<p>So even Moore&#8217;s 33:1 is known to be optimistic. And having more than 73% of your &#8220;assets&#8221; rated as &#8220;toxic&#8221; isn&#8217;t prudent management: it&#8217;s doubling-down while <a target="blank" href="http://itmightbedangerous.blogspot.com/2008/06/draft-review-about-process.html">hitting on 17</a>.</p>
+<p>We all know that the Prudent Investor definition has been redefined beyond reality, but it&#8217;s difficult to believe anyone would consider BSC&#8217;s practices to compile with reasonable Standards and Practices.<br />
+<blockquote>Shareholders, in turn, never complained as long as the banks were making money in 2006 and 2007. It was only when the music stopped and the economy turned bad that shareholders started to blame the banks for shifty dealings.</p></blockquote>
+<p>And it was only when Madoff admitted there were no more assets that &#8220;shareholders&#8221; complained.  Are we supposed to take some affirmative defense from this, or is Heidi Moore just clueless? (You can chose &#8220;and&#8221; if you want.)<br />
+<blockquote>Meanwhile, regulators are said to still be curious about what caused the “bear raids” that took down Bear Stearns and Lehman and threatened Morgan Stanley and Goldman Sachs.</p></blockquote>
+<p>They&#8217;re welcome to be curious, but the minute Alan Schwartz went on CNBC and said, &#8220;We think we&#8217;re solvent&#8221; is the minute anyone with any brains and capital went massively short Bear.  And they were late to the party, since anyone in the market with any brains and knowledge of MBS ramifications—think the guy at Solly who called Michael Lewis and said &#8220;Buy potatoes&#8221; as Chernobyl was happening—knew exactly who was going to be Most Likely to Pay Off if you bought (again, common knowledge) some proverbially-undervalued far OOTM put options.</p>
+<p>In fairness, Cohan appears to believe this is a smoking gun.  But we&#8217;ve heard those rumours since before the bankruptcy, and Bear Stearns is not Iceland.  If Cohan&#8217;s correct in his assertion on Stewart&#8217;s show that the people who bought all those OOTM put options were hedge funds that had previously used BSC for their Clearing Agent, then they voted with their feet in the face of reality.</p>
+<p>And the rest of the market isn&#8217;t dumb.  They could see who was buying, and what their previous relationship with Bear had been.  And they would see Alan Schwartz and realise this is not the man who is going to make it between the Scylla and Charybdis.  And they would take that—along with things such as Goldman&#8217;s immediate affirmation when the rumours starting about Lehmann and Bear that Lehmann would continue to be a respected competitor and trading partner—and be able to add.</p>
+<p>As the Beatles said, &#8220;One and one and one is three/Got to go short Bear cause he&#8217;s so hard to see.&#8221;</p>
+<p>But the WSJ wants you to think that going even beyond Christopher &#8220;I never saw a regulation I planned to enforce&#8221; Cox&#8217;s SEC-permitted leverage ratios is not a violation of the law, and that hedge funds who see incompetence and near-bankruptcy do not act on that information.</p>
+<p>The coolest thing about the Stewart/Cohan interview was when Cohan said &#8220;creative destruction&#8221; and Stewart immediately came back with Schumpeter by name. Maybe this is why Heidi Moore&#8217;s piece opens by calling Stewart &#8220;our nation’s foremost financial commentator.&#8221; (Take that, Paul Krugman!)  But the attempts to argue that The Old Firm was substantively different from a Ponzi scheme are going to need a better case made than she does.</p>
+<p>Capitalism deserves a better defense.</p>
+<p>*They specifically miss connecting the dots on where there was clear fraud committed by management—and I suspect Cohan did as well, since no one who talks about the book seems to mention it. <strong>UPDATE</strong>: I&#8217;m now told he did deal with it, but sloughed it off. So expect <a target="blank" href="http://www.nakedcapitalism.com/">Yves</a> or <a target="blank" href="http://www.ritholtz.com/blog/">Barry</a> or <a href="http://blogs.reuters.com/felix-salmon/">Felix</a> (blogroll update candidate, btw) or <a target="blank" href="http://paul.kedrosky.com/">Paul</a> (maybe even <a target="blank" href="http://globaleconomicanalysis.blogspot.com/">Mish</a>, who has the mindset for the job)—someone who pays a lot more day-to-day attention to the market than I can right now—to jump on this one in the near future.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/capitalism-deserves-a-better-defense-or-reasons-to-short-the-old-firm-pre-bk.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is Douglas Holtz-Eakin still an economist?</title>
+		<link>./../../2008/10/is-douglas-holtz-eakin-still-an-economist.html</link>
+		<comments>./../../2008/10/is-douglas-holtz-eakin-still-an-economist.html#respond</comments>
+		<pubDate>Tue, 28 Oct 2008 21:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2008 presidential]]></category>
+		<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[adverse selection]]></category>
+		<category><![CDATA[Health Care]]></category>
+		<category><![CDATA[Health Insurance]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[Republican]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/is-douglas-holtz-eakin-still-an-economist.html</guid>
+		<description><![CDATA[Via Dr. Black, we get CNN reporting: Younger, healthier workers likely wouldn&#8217;t abandon their company-sponsored plans, said Douglas Holtz-Eakin, McCain&#8217;s senior economic policy adviser. &#8220;Why would they leave?&#8221; said Holtz-Eakin. &#8220;What they are getting from their employer is way better than what they could get with the credit.&#8221; And why is it better? Because of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via Dr. Black, we <a href="http://money.cnn.com/2008/10/28/news/economy/health_care_and_election/?postversion=2008102807">get CNN reporting</a>:<br />
+<blockquote>Younger, healthier workers likely wouldn&#8217;t abandon their company-sponsored plans, said Douglas Holtz-Eakin, McCain&#8217;s senior economic policy adviser.</p>
+<p>&#8220;Why would they leave?&#8221; said Holtz-Eakin. &#8220;What they are getting from their employer is way better than what they could get with the credit.&#8221;</p></blockquote>
+<p>And why is it better?  Because of the tax credit that is going away.</p>
+<p>But let&#8217;s be nice to a man who has, in the past few months, eliminated his credibility to ensure that no ex-GWBush Administration official retains his or her reputation after leaving office.*  Let&#8217;s assume he&#8217;s telling the truth.</p>
+<p>So the young, healthy workers stay with the employer plan (that, miraculously, doesn&#8217;t go away in a miasma of Moral Hazard**).  This leaves the older workers, who no longer get a decent deal from their employer, to find something in the marketplace.</p>
+<p>Gosh, guess what happens when your selection group becomes more Adverse? Costs go up.</p>
+<p>So let&#8217;s review what Holtz-Eakin has actually declared, explicitly and by implication:
+<ol>
+<li>Younger workers will keep the employer-provided health insurance, since it would cost them more to buy on their own</li>
+<li>Older workers won&#8217;t be provided with insurance, and it will cost them Even More than More to buy health insurance on their own.</li>
+</ol>
+<p>Even if we were ignoring that Health Insurance is <strong>NOT HEALTH <em>CARE</em></strong>,*** John McCain&#8217;s proposal, by the admission of his own Economic Advisor, makes the <em>current</em> situation appear <a href="http://en.wikipedia.org/wiki/Pareto_optimal">Pareto-optimal</a>.</p>
+<p>Which leaves us only one question: Why would any economist <em>support</em> it?</p>
+<p>*I should probably stipulate positive here.  For instance, anyone who followed Condi &#8220;I was National Security Advisor on 11 Sep 2001&#8221; Rice&#8217;s prior career wouldn&#8217;t have expected much from her.</p>
+<p>**Using the actual Health Economics definition here, not the generic phrase to describe why we need to give Goldman Sachs and Jamie Dimon $700 Billion.</p>
+<p>***Yes, I&#8217;m shouting.  Claiming to address health care when all you address is health insurance is like claiming to have fixed a smashed-in door by changing the lock on it.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/is-douglas-holtz-eakin-still-an-economist.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

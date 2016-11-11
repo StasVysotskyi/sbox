@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>multinational companies &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dell restructuring&#8211;all for a tax advantage?</title>
+		<link>./../../2013/01/dell-restructuring-all-for-a-tax-advantage.html</link>
+		<comments>./../../2013/01/dell-restructuring-all-for-a-tax-advantage.html#respond</comments>
+		<pubDate>Wed, 30 Jan 2013 18:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Linda Beale (Tax law)]]></category>
+		<category><![CDATA[multinational companies]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/dell-restructuring-all-for-a-tax-advantage.html</guid>
+		<description><![CDATA[by Linda Beale Dell restructuring&#8211;all for a tax advantage? David Cay Johnston writes for Tax Analysts, in Dell&#8217;s Multiple Restructurings Aid It in Tax Avoidance (2013), about a global reorganization disclosed by Dell in its January 2007 Form 8-K filed with the SEC:  &#8220;just before the end of 2006, [Dell] issued more than 475 million [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Linda Beale</p>
+<p>Dell restructuring&#8211;all for a tax advantage?</p>
+<p>David Cay Johnston writes for Tax Analysts, in <a href="http://taxanalysts.com/www/features.nsf/Articles/D8A55EFE6CF17A3885257B01006D4565?OpenDocument"> Dell&#8217;s Multiple Restructurings Aid It in Tax Avoidance</a> (2013), about a global reorganization disclosed by Dell in its January 2007 <a href="http://en.wikipedia.org/wiki/Form_8-K">Form 8-K</a> filed with the SEC:  &#8220;just before the end of 2006, [Dell] issued more than 475 million shares worth $12 billion to invest in a subsidiary.&#8221;  In the Form 8-k, Dell notes that &#8220;Dell has modified the corporate structure of certain of its subsidiaries to achieve more integrated global operations and to provide various financial, operational and tax efficiencies&#8221;  (as quoted in the Johnston article).<br />
+<blockquote>What Dell did was remake itself in a way that lets it escape taxes on profits earned in the United States by running them through a Netherlands entity and newly formed subsidiaries in Singapore and the Cayman Islands.</p>
+<p>Dell later quietly dropped the Singapore and Cayman Islands entities in what appears to be a pattern of remaking its corporate structure every few years. This nuanced timing pattern may have great significance as a tool for tax avoidance because <a href="http://www.irs.gov/">IRS</a> corporate audit practices were established on the assumption that companies tend to have stable structures. The IRS rarely audits newly formed entities.</p>
+<p>The documents suggest that Dell created companies with no apparent purpose except to funnel profits into jurisdictions where they would be untaxed. In some cases, subsidiary names existed for a day or so and then were changed to the names of existing entities. The company shuffled its subsidiaries like a deck of cards &#8212; a deck stacked against shareholders and the IRS.</p>
+<p>Sometimes the deals used companies with identical addresses, suggesting circular flows in which what would be taxable profits in the United States were run through offshore entities with no discernible purpose except escaping tax.  Id.</p></blockquote>
+<p><a name="more"></a></p>
+<p>Describing the work of a couple who sleuthed through Dell&#8217;s state filings and court papers to examine its tax compliance, Johnston reports:<br />
+<blockquote>Before one restructuring, Dell Inc. sold products to domestic customers through Dell Catalog Sales Corp., which shared the same address in Texas.<br />The couple distilled from annual corporate ownership and sales tax filings with state governments, as well as stipulations in various civil lawsuits, that Dell then replaced this simple organizational structure with a hierarchy of tax haven holding companies.</p>
+<p>In all, Dell inserted four new companies between the parent and operating entities, which use the same Texas street address.</p>
+<p>The result was that a Texas company reported to a Netherlands company that reported to a Singapore company that reported to a Caymans company that reported to what appears to be another Netherlands company that then reported back to the Texas headquarters.</p>
+<p>This makes business sense? I cannot fathom how &#8212; except to escape taxes.</p></blockquote>
+<p>And because Dell publicly discloses its untaxed offshore profits and the expected tax rate upon repatriation of those profits, those numbers support the suggestion that the elaborate creation (and killing) of subsidiaries has one primary purpose&#8211;the reduction of taxes owed to the US.</p>
+<blockquote><p>Citizens for Tax Justice, in a report last year (<em>Doc 2012-21457</em> , <em>2012 TNT 202-22</em>), noted that Dell is one of the few multinationals that discloses how much untaxed profits it holds offshore and the expected tax rate if it brought the money back to the United States.</p>
+<p>Dell said it had $15.9 billion of untaxed profits offshore on which it would owe a tax of $5.2 billion, or 33 percent. Since that is almost equal to the 35 percent corporate tax rate, it suggests Dell paid virtually no tax anywhere in the world on those profits, because Congress gives a dollar-for-dollar tax credit on corporate income taxes imposed by other countries.</p></blockquote>
+<p>So what, Johnston asks, is the public benefit of allowing this kind of corporate shell game?  He suggests that for shareholders, the question is whether they are being told enough to evaluate the risks and rewards of holding Dell securities.  And he concludes probably not.  For the IRS, it is whether regular audit techniques will miss what they should catch. And again, he wonders if the IRS policy of letting companies know what will be audited, sticking to those points, and completing audits in fixed time periods isn&#8217;t just a giveway to those who are manipulating their tax rates.  Dell&#8217;s tax counsel, he notes, would undoubtedly advise that they have reviewed each reorganization step and that they are perfectly legal.  </p>
+<p>But Johnston wants an audit, and one that looks at the whay sophisticated companies are adept at working around audit policies.  Dell&#8217;s reorganizations, he says, are apparently timed at two-year intervals, injecting considerable complexity into the work of any IRS auditor trying to track their impact. And &#8220;the business purpose for this management structure is elusive&#8221;, he notes, on one set of slides showing a shuffle of entities that ultimately lands a company still located in Texas under a foreign sandwich of companies and ultimately avoiding US tax on the operating company income. He surmises that Dell owes a billion or more in US corporate income taxes that have escaped capture because of this endless restructuring.</p>
+<p>cross posted with  <a href="http://ataxingmatter.blogs.com/tax/2013/01/dell-restructuring-all-for-a-tax-advantage.html">ataxingmatter</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/dell-restructuring-all-for-a-tax-advantage.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Netherlands&#8217; role as corporate tax haven a &#034;stain on the nation&#8217;s reputation&#034;</title>
+		<link>./../../2013/01/the-netherlands-role-as-corporate-tax-haven-a-stain-on-the-nations-reputation.html</link>
+		<comments>./../../2013/01/the-netherlands-role-as-corporate-tax-haven-a-stain-on-the-nations-reputation.html#respond</comments>
+		<pubDate>Mon, 28 Jan 2013 04:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Linda Beale (Tax law)]]></category>
+		<category><![CDATA[multinational companies]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/the-netherlands-role-as-corporate-tax-haven-a-stain-on-the-nations-reputation.html</guid>
+		<description><![CDATA[by Linda Beale The Netherlands&#8217; role as corporate tax haven a &#8220;stain on the nation&#8217;s reputation&#8221; As Europe, the US, and other countries continue to face sluggish economies in the midst of extraordinarily high corporate profits, substantial accumulation of new wealth in the hands of even fewer people, and inordinate influence of corporatist approaches on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Linda Beale</p>
+<p>The Netherlands&#8217; role as corporate tax haven a &#8220;stain on the nation&#8217;s reputation&#8221;</p>
+<p>As Europe, the US, and other countries continue to face sluggish economies in the midst of extraordinarily high corporate profits, substantial accumulation of new wealth in the hands of even fewer people, and inordinate influence of corporatist approaches on democratic governance, a public backlash is growing and legislatures are beginning to notice.</p>
+<p>Here in the US, President Obama&#8217;s second inauguration speech acknowledged the necessity of cooperative approaches to the dire problems we face today.  Those problems&#8211; poverty, limited opportunity due to lowerclass status, lack of educational access, climate change and infrastructure needs&#8211;all relate to the increasing inequality among our people, the ability of the wealthy to buy secure and safe lifestyles for themselves while the majority are left to struggle with potential loss of jobs, homes and health.  People are starting to notice the inordinate power of huge multinational corporations and their owners due to the influence of wealth and the way the wealthy have been able to capture almost all of the gains of the last few decades for themselves.  Perhaps we are on the cusp of a new populism that will reclaim the American economy and the American system for ordinary people.</p>
+<p>In the Netherlands, the backlash against unfair tax policies may be happening even more clearly than here.  The Netherlands has become an infamous tax haven for corporate giants (renowned for using the &#8220;Dutch sandwich&#8221; structure to avoid taxation).  Yahoo&#8217;s arrangement, described by Jesse Drucker in a Bloomberg story today, illustrates the problem perfectly.</p>
+<p><a name="more"></a></p>
+<p>Inside Reindert Dooves’ home, a 17th century, three-story converted warehouse along the Zaan canal in suburban Amsterdam, a 21st-century Internet giant is avoiding taxes.  The bookkeeper’s home office doubles as the headquarters for a Yahoo! Inc. (YHOO) offshore unit. Through this sun-filled, white walled room, Yahoo has taken advantage of the law to quietly funnel hundreds of millions of dollars in global profits to island subsidiaries, cutting its worldwide tax bill.<br />The Yahoo arrangement illustrates that the Netherlands, in the heart of a continent better known for social welfare than corporate welfare, has emerged as one of the most important tax havens for multinational companies.</p>
+<p>Jesse Drucker, <a href="http://www.bloomberg.com/news/2013-01-23/yahoo-dell-swell-netherlands-13-trillion-tax-haven.html">Yahoo, Dell Swell Netherlands $13 Trillion Tax Haven</a>, Bloomberg.com (Jan. 23, 2013).  Many of the Dutch companies created by MNEs like Yahoo, Google, Merck, and Dell are sham companies that &#8220;only exist on paper&#8221;.  $10.2 trillion dollars went through 14,300 of those sham companies in 2010. Id.  Merck has 54 subsidiaries in the Netherlands and routed more than 7 billion euros in royalties between 2002 and 2010 through an Amsterdam subsidiary that has no employees.  Id.</p>
+<p>The Labour Party and People&#8217;s Party for Freedom and Democracy took power in November and are &#8220;fed up with these so-called PO Box companies&#8221;, according to a parliamentarian from Labour.  Id.  Another parliamentarian (from the Dutch Socialist Party) noted that while governments are cutting their budgets, multinationals are avoiding taxes, and the Netherlands is functioning as a connecter to the tax havens.</p>
+<p>The anti-tax avoidance concern is growing across advanced nations. As the article notes, the European Commission, has also noted the problems with tax avoidance and evasion and has advised its member states to adopt anti-abuse rules.  Similarly, the OECD is discussing a proposal to make it harder for companies to use shams like the Dutch sandwich structure to shuffle profits into tax haven islands and avoid taxes in OECD countries.  And the UK has scheduled a second parliamentary hearing this month on the issue.  Id.</p>
+<p>Tax treaties are supposed to protect companies from double taxation on the same income by two different jursidictions, but tax lawyers have developed sophisticated structures that allow companies to enjoy double non-taxation.  The article describes Dell&#8217;s use of a Netherlands subsidiary (with no Netherlands employees) to claim credit for about three-fourth&#8217;s of Dell&#8217;s worldwide income and achieve substantial tax savings&#8211;about $4 billion since 2004.  Id.  The US Is challenging Dell&#8217;s claim that it is appropriately using the Netherlands and Singapore arrangement to avoid US taxes.</p>
+<p>And of course these same MNE giants are the ones that are accumulating billions overseas on which they are seeking special legislation to allow them to repatriate cash to the US at low (or negative) taxes. See earlier Angry Bear and ataxingmatter posts on this issue.</p>
+<p>Hopefully, even the Republicans in Congress will realize that this corporate game of tax avoidance using international subsidiaries that have no employees is a sham and will take action to eliminate loopholes that permit hugely profitable companies to pay minimal corporate taxes.</p>
+<p>cross posted with <a href="http://ataxingmatter.blogs.com/tax/2013/01/the-netherlands-role-as-corporate-tax-haven-a-stain-on-the-nations-reputation-.html">ataxingmatter</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/the-netherlands-role-as-corporate-tax-haven-a-stain-on-the-nations-reputation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

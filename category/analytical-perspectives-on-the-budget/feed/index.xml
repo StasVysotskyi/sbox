@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>analytical perspectives on the budget &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Deficits, Debt, Debt Subject to the Limit, Off Budget, Trust Fund: Building your 2013 Toolkit</title>
+		<link>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html</link>
+		<comments>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html#respond</comments>
+		<pubDate>Thu, 03 Jan 2013 20:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[analytical perspectives on the budget]]></category>
+		<category><![CDATA[CBO]]></category>
+		<category><![CDATA[debt to the penny]]></category>
+		<category><![CDATA[omb]]></category>
+		<category><![CDATA[public debt]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html</guid>
+		<description><![CDATA[All of the terms in the post title have at least two usages, some of which map upon to common sense ideas from business or household budgeting, some not. Unfortunately the usages that don&#8217;t tend to be those used in federal budget reporting, and the result is untold confusion. Now one way out would be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>All of the terms in the post title have at least two usages, some of which map upon to common sense ideas from business or household budgeting, some not. Unfortunately the usages that don&#8217;t tend to be those used in federal budget reporting, and the result is untold confusion. Now one way out would be to listen to me. Then again the relevant line on my CV under &#8216;Budget Reporting&#8217; reads &#8216;Some Guy&#8217;, &#8216;U of Intertoobz&#8217;. So really the only way out is to start to build your own Budget, Debt and Deficit Toolkit. And this post is intended to give you a start using sources provided by the official scorekeepers of such things: the U.S. Treasury, the Congressional Budget Office (CBO), the President&#8217;s Office of Management and Budget (OMB) and the Joint Committee on Taxation (JCT).</p>
+<p>First stop is the U.S. Treasury Department&#8217;s Bureau of Public Debt and their web application <a href="http://www.treasurydirect.gov/NP/BPDLogin?application=np" target="_blank">Debt to the Penny</a>. This handy application allows you to track Total Public Debt and its two components Debt Held by the Public and Intragovernmental Holdings to the literal penny as of the close of the daily books the last business day but one. That is if you check the site on Tuesday it will give you final numbers for Friday. And a search today gave me the results for Monday the 31st (since Tuesday was a Federal Holiday) with Total Public Debt of $16,432,730,050,569.12 . This number is almost exactly the same as Debt Subject to the Limit differing only in the last seven or eight digits, which change so fast that you wouldn&#8217;t be able to see the difference. Debt Subject to the Limit is set by Congress and under current law is $16.394 trillion. With the result shown in the following official graph <a href="http://www.treasurydirect.gov/govt/charts/charts_debt.htm" target="_blank">Debt Subject to the Limit Graph</a> which shows total Public Debt Subject to the Limit (dark blue) passing through the Limit (orange) on the 31st.</p>
+<p>Without comment (we are just building a toolkit here) we can move from Debt to Deficit. Here things get more complicated but probably the simplest tool available to us from official sources is found in CBOs annual <a href="http://www.cbo.gov/publication/42905" target="_blank">The Budget and Economic Outlook: Fiscal Years 2012 to 2022</a> and the literal top line numbers from that is Summary Table 1 (click to embiggen)
+<div><a href="http://2.bp.blogspot.com/-g8SQ5G41_yo/UOXXplXP-_I/AAAAAAAABRk/7PXaavzhSZQ/s1600/CBO+Table+1-1.tiff" imageanchor="1"><img border="0" height="210" src="http://2.bp.blogspot.com/-g8SQ5G41_yo/UOXXplXP-_I/AAAAAAAABRk/7PXaavzhSZQ/s320/CBO+Table+1-1.tiff" width="320"></a></div>
+<p>Note that in this Summary table the bolded words Deficit (-) or Surplus unmodified by any adjective are unequivocably the sum of &#8216;On-budget&#8217; and &#8216;Off-budget&#8217; surplus/deficit. This isn&#8217;t the only usage of &#8216;deficit&#8217; in CBO reporting, and in a weird twist of terminology is NOT the same as what they call &#8216;primary deficit&#8217;, but it is a fair equivalent to what both CBO and the MSM term &#8216;THE deficit&#8217;. For example take a standard news story from just today <a href="http://www.christianpost.com/news/fy2011-federal-deficit-1299000000000-60984/" target="_blank">FY2011 Federal Deficit = $1,299,000,000,000</a> or just a minor update of the figure from the Table.</p>
+<p>I&#8217;ll flesh out some of the implications of this in Comments and in later posts but will leave with two points. One almost the entirety of the &#8216;Off budget&#8217; surplus of $67 billion is the result of an increase in assets of the Social Security Trust Fund. It is NOT a measure of cash flow nor does cash flow measure into it. Two the claim that &#8216;Social Security doesn&#8217;t contribute to the deficit&#8217; is not quite right. It can and does contribute to the bottom line. But in either positive (surplus) or negative (deficit) directions. And in 2011 a cash flow negative Social Security Trust Fund ran a surplus for the purposes of THE federal deficit as defined.</p>
+<p>More tools and more discussion later.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/deficits-debt-debt-subject-to-the-limit-off-budget-trust-fund-building-your-2013-toolkit.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

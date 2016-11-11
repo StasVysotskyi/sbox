@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gavin Kennedy &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Invisible hand and free markets&#8230;a reminder</title>
+		<link>./../../2013/01/invisible-hand-and-free-markets-a-reminder.html</link>
+		<comments>./../../2013/01/invisible-hand-and-free-markets-a-reminder.html#respond</comments>
+		<pubDate>Thu, 10 Jan 2013 15:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Gavin Kennedy]]></category>
+		<category><![CDATA[Invisible Hand]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/invisible-hand-and-free-markets-a-reminder.html</guid>
+		<description><![CDATA[Gavin Kennedy reminds us that handy metaphors used to sell fictions about either free markets or &#8216;the force&#8217; at work are just that: Smith is a conjecture about the virtues of a free-market economy”, is so absurd as to be embarrassing.  That Adam Smith favoured “a free market economy” is approximately correct.  That he asserted that a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://adamsmithslostlegacy.blogspot.com/2013/01/credulity-down-under.html" target="_blank">Gavin Kennedy</a> reminds us that handy metaphors used to sell fictions about either free markets or &#8216;the force&#8217; at work are just that:</p>
+<blockquote><p>Smith is a conjecture about the virtues of a free-market economy”, is so absurd as to be embarrassing.  That Adam Smith favoured “a free market economy” is approximately correct.  That he asserted that a free market economy had virtues.  Is also correct.</p>
+<p>But that he linked his use of the metaphor to his singular use in Wealth Of Nations (1776 and through six editions to 1790) of the metaphor “an invisible hand” to free-markets is at variance with the textual facts.  Even adding the other use of the IH metaphor in Moral Sentiments (1759 and through six editions to 1790) is of no help at all to Eduardo Pol’s proposition that the IH was “a conjecture about the virtues of a free-market economy”.Adam Smith did not mention ‘the virtues of a free market economy” in either case where he used the IH metaphor.  How could he?*&#8230;</p></blockquote>
+<p>Lots more and very specific.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/invisible-hand-and-free-markets-a-reminder.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

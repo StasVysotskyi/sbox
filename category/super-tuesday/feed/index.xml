@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Super Tuesday &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Super Tuesday Voter Turnout</title>
+		<link>./../../2008/02/super-tuesday-voter-turnout.html</link>
+		<comments>./../../2008/02/super-tuesday-voter-turnout.html#respond</comments>
+		<pubDate>Wed, 06 Feb 2008 23:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2008 presidential]]></category>
+		<category><![CDATA[Super Tuesday]]></category>
+		<category><![CDATA[voter turnout]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/02/super-tuesday-voter-turnout.html</guid>
+		<description><![CDATA[Hearing that democratic turnout has been stronger in the past primaries prior to Super Tuesday, I used C &#038; L&#8217;s chart data to total up the voter count. I exclude the states that did not have duel party primaries. The turnout was 14,865,735 democratic to 8,929,123 republican. The republican turnout was 60% of the democratic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hearing that democratic turnout has been stronger in the past primaries prior to Super Tuesday, I used C &#038; L&#8217;s <a href="http://www.crooksandliars.com/2008/02/05/spokesuper-tuesday-open-thread/">chart data </a>to total up the voter count.  I exclude the states that did not have duel party primaries. The turnout was 14,865,735 democratic to 8,929,123 republican. The republican turnout was 60% of the democratic turnout.</p>
+<p>I then went to<a href="http://mwhodges.home.att.net/election2004.htm"> this map</a> to see the “red states” from 2004 and calculated the voter turnout. Super Tuesday had 11 red states voting. Of those, 8 had more democratic voters than republican voters for Super Tuesday. For those 8 states (AR, CO, GA, MO, ND, OK, TN, UT) it was 3,407,658 democratic voters, 2,963,340 republican voters. The republican turnout was 87% of the democratic.</p>
+<p>For the 3 remaining states of the 11 &#8220;red&#8221; (AK, AL, AZ)  it was 1,001,540 republican voter turnout to 902,755 democratic voter turnout. The democratic turnout was 90% of the republican.</p>
+<p>Interesting no?  Cha, cha, cha changes&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/02/super-tuesday-voter-turnout.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

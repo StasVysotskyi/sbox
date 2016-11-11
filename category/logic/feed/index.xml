@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>logic &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Bonaventura Anselm and Kaus</title>
+		<link>./../../2009/01/bonaventura-anselm-and-kaus.html</link>
+		<comments>./../../2009/01/bonaventura-anselm-and-kaus.html#respond</comments>
+		<pubDate>Sat, 17 Jan 2009 10:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[jourmalism]]></category>
+		<category><![CDATA[logic]]></category>
+		<category><![CDATA[WVOQuine]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/bonaventura-anselm-and-kaus.html</guid>
+		<description><![CDATA[Robert Waldmann What can we learn from really bad arguments ? I think it is useful to examine plainly invalid arguments, because the error in thought which they grossly manifest might contaminate less obviously idiotic contributions to the discussion. A few arguments are so dumb that they have remained fixed in my mind. Most of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>What can we learn from really bad arguments ?  </p>
+<p>I think it is useful to examine plainly invalid arguments, because the error in thought which they grossly manifest might contaminate less obviously idiotic contributions to the discussion.</p>
+<p>A few arguments are so dumb that they have remained fixed in my mind.  Most of them are not due to Mickey Kaus, but two are.  They illustrate the same fallacy.  I discuss one <a href="http://rjwaldmann.blogspot.com/2009/01/can-mickey-kaus-count-to-four-i-have.html">here</a>.  </p>
+<p>The other is Mickey Kaus&#8217;s argument that liberals should not concern themselves with inequality of income.  After the jump, I will critique my recollection of this argument.</p>
+<p>Update:  I appear to have inadvertantly slandered St Bonaventura (more often spelled Bonaventure by people who don&#8217;t live in Italy) when I compared his reasoning to Kaus&#8217;s.  St B might thank mALACLYPSE in comments.</p>
+<p>IIRC Kaus argued that there is clearly an increasing trend in income inequality in developed countries.  He was struck, in particular, by the fact, that inequality had increased in Sweden so the change in income inequality over the preceding 10 years had been positive in both Sweden and the USA, which have notably different approaches to dealing with inequality.  </p>
+<p>Then Kaus implicitly assumed that all positive numbers are approximately equal and concluded that the evidence proved that there was nothing much to be done about increasing income inequality and that we should just accept it as inevitable.  </p>
+<p>Anyone who <a href="http://emlab.berkeley.edu/users/saez/piketty-saezAEAPP06.pdf">reads this paper (warning pdf)</a>, must notice that the argument is, shall we say, not proven by evidence which became available after Kaus made his argument and implicit prediction.  There aren&#8217;t developed countries in which inequality has declined much in recent decades, but there are developed countries in which measured inequality hasn&#8217;t increased noticeably.  The increase in the USA is clearly extraordinary.</p>
+<p>In any case, an argument based on the assumption that all positive numbers are approximately equal is worthless (note I resisted the temptation to write &#8220;approximately worthless&#8221;).  </p>
+<p>The total worthlessness of Kaus&#8217;s argument becomes, if possible, more obvious, if we consider how he might have argued if the data had been different.  Equally valid (that is worthless) arguments can be made for not trying to do anything about income inequality if it is clearly trending up, clearly trending down or has no clear trend.   In fact, the argument for not bothering based on the clear widespread downward trend (up until the 70&#8217;s roughly) was much more convincing that Kaus&#8217;s.  If inequality in market economies trends down, then we might hope that it will more or less vanish (it can&#8217;t be less than zero).  So why worry ?  </p>
+<p>The argument based on the absence of a clear trend actually has a noble pedigree.  Pareto argued, based on the fact that he found no clear trend in inequality, that it is a social constant and will always be about the same.  Therefore he concluded there wasn&#8217;t much point trying to do anything about it.</p>
+<p>Now if there are three possibilities and they all imply the same highly controversial conclusion via arguments of clearly similar validity, we should guess that all three are of roughly zero validity.</p>
+<p>The more recent example of an clearly invalid argument from Kaus, teaches us nothing new about reasoning.  It just shows that Kaus still relies on the assumption that all positive numbers are approximately equal.</p>
+<p>I haven&#8217;t actually read many arguments made by Kaus (after the first I encountered which is the one discussed above, I decided it wasn&#8217;t good for my health).  So, I&#8217;ve read a few, certainly less than 10 (my honest guess is at most 3) and, it seems to me, that two of them develop the implications of the assumption that all postive numbers are approximately equal.</p>
+<p>I conclude that Kaus really thinks that way, and sees nothing wrong with the assumption.</p>
+<p>I am not exaggerating.  This is my sincere opinion, expressed without hyperbole, and held with considerable confidence.</p>
+<p>For another example, 30 years ago, I tried to figure out what was wrong with the ontological proof of the existence of God made by Saint <strike>Bonaventura </strike> Anselm based on a possibly unfair translation which begins with a definition of the word &#8220;God&#8221;</p>
+<p>God n. A being more sublime than any other conceivable being.</p>
+<p>Then proceeds to note that if God did not exist, then it would be possible to conceive of a being which had all of God&#8217;s other sublime characteristics and further more had the characteristic of &#8220;existence&#8221;.  This contradicts the definition of God.  Therefore God exists.</p>
+<p>Now even assuming for the sake of argument, that God does in fact exist, there is clearly something wrong with this argument.  One has to wonder whether the same thing is also wrong with arguments that have convinced one.  I didn&#8217;t get very far in my effort to figure out what was wrong with the argument, but there was this guy named Willard Quine who did and wrote the arguments down in this little book &#8220;From a Logical Point of View.&#8221;</p>
+<p>There are two problems.  First, the general rule of debate is that people are allowed to define terms.  At most, they may be prevented from redefining an existing word and forced to define a neologism (so <strike>Bonaventura</strike> St. Anselm would only prove the existence of the most sublime conceivable being God2 if the word &#8220;God&#8221; was taken).  This general rule is no good, as definitions are not necessarily &#8220;innocent&#8221;.  We can&#8217;t allow people the authority to just state a definition, because such a statement may have implications which are false.  Here <strike>Bonaventura</strike> St. Anselm is defining &#8220;God&#8221; and defining &#8220;sublime&#8221; so that &#8220;existence&#8221; is one form of sublimity. </p>
+<p>Instead, we might hope to make rules for defining terms such that only innocent definitions &#8212; definitions which can&#8217;t be false statements &#8212; are allowed.  Quine&#8217;s main point (I&#8217;m told) is to conclude that this effort had failed and we&#8217;d just have to risk falling for <strike>Bonaventur</strike>Anselmian arguments.</p>
+<p>The other problem is that &#8220;existence&#8221; is not a characteristic like other characteristics.  &#8220;Pegasus exists&#8221; is not a statement like &#8220;Pegasus flies.&#8221;  The grammatic similarity hides a fundamental difference.  Pegasus can&#8217;t fly without existing.  All statements about mythical or hypothetical entities (including statements which are true by definition including uhm definitions) must be phrased in the form &#8220;if Pegasus were to exist then Pegasus would be a winged horse.&#8221;  A simpler rule, which works just as well, is to require all definitions to be of that form so we can define &#8220;Life&#8221; by &#8220;If life exists it would be the notional trait shared by all things that grow and reproduce&#8221; without expressing a view as to the existence or non existence of at least one living thing.  </p>
+<p>Why that works rather well.  Bonaventura would be rewritten as having proven &#8220;If God exists then God exists&#8221;.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/bonaventura-anselm-and-kaus.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

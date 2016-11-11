@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>credit swaps &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Default Events, Legal Contracts, Derivatives, and Greece</title>
+		<link>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html</link>
+		<comments>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html#respond</comments>
+		<pubDate>Fri, 02 Mar 2012 22:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CDS]]></category>
+		<category><![CDATA[credit markets]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[default]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[euro area]]></category>
+		<category><![CDATA[Greece]]></category>
+		<category><![CDATA[markets]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/default-events-legal-contracts-derivatives-and-greece.html</guid>
+		<description><![CDATA[Barry Ritholtz, who generally knows better, blew a gasket at ISDA for yesterday&#8217;s ruling that Greek bonds are not yet in default. Specifically, &#8220;The International Swaps and Derivatives Association said on Thursday that based on current evidence the Greek bailout would not prompt payments on the credit default swaps.&#8221; > Here is a question for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Barry Ritholtz, who generally knows better, <a href="http://www.ritholtz.com/blog/2012/03/isda-suckers-wanted/">blew a gasket at ISDA</a> for yesterday&#8217;s ruling that Greek bonds are not yet in default.  Specifically,<br />
+<blockquote>
+<blockquote>&#8220;The International Swaps and Derivatives Association said on Thursday that based on current evidence the Greek bailout would not prompt payments on the credit default swaps.&#8221;</p></blockquote>
+<p>></p>
+<p>Here is a question for the crowd: Exactly how brain damaged, foolish and stupid must a trader be to ever buy one of these embarrassingly laughable instruments called derivatives?</p>
+<p>The claim that Greece has not defaulted — despite refusing to make good on their obligations in full or on time — is utterly laughable.</p></blockquote>
+<p>Let&#8217;s sidebar the reality—that there is no true &#8220;market&#8221; for CDS in general, let alone Sovereign Debt CDS; Donald R. van Deventer of Kamakura Corporation has been all over this, both <a href="http://www.kamakuraco.com/Blog.aspx">on his blog</a> and especially <a href="https://twitter.com/#!/dvandeventer">on Twitter</a>—and just note that ISDA made the correct decision.</p>
+<p>Greece has not, to borrow Barry&#8217;s phrase, &#8220;refus[ed] to make good on their obligations in full or on time.&#8221; ISDA did not declare a Default Event yesterday because there has not yet been a Default Event.</p>
+<p>Default Event is a very specific term. The sample in <a href="http://www.tavakolistructuredfinance.com/index.html">Janet Tavakoli</a>&#8216;s <em><a href="http://www.booksamillion.com/product/9780471412663?id=4214424925428">Credit Derivatives and Synthetic Structures</a></em> (a book to which I <a href="http://www.angrybearblog.com/2010/02/in-other-news-larry-king-is-selling.html">have</a> <a href="http://www.angrybearblog.com/2008/09/roubinis-not-wrong-but.html">referred</a> <a href="http://www.angrybearblog.com/2011/01/third-time-someone-will-believe.html">before</a> and undoubtedly will again) runs pretty much three full pages (pp. 88-91).  But the general concept is straightforward: there is a minimum threshold (say, 10% of an issue), the principal or interest due of which the entity explicitly refuses to pay or fails to pay that then materially impacts the buyer of Credit Protection (CDS).</p>
+<p><a name="more"></a><br />Greece has not yet refused to pay anything.*</p>
+<p>There is a payment due on 20 March—19 days still in the future. The financial markets—heck, everyone who runs a diner in Queens—may well believe that no payment will be made on 20 March, but that hasn&#8217;t happened yet.  And the Greek government specifically has <em>not</em> said it won&#8217;t make the payment; it has said, &#8220;Hey, take these bonds instead.&#8221;</p>
+<p>It is true that, <em>cet. par.</em>, the market value of the bonds being offered is about 25% the supposed economic value of the current ones. So anyone taking the deal would have to be assuming that the <em>market</em> value of the current bonds is somewhere around 25, just as the French and German banks have them marked.</p>
+<p>The market may also agree that one of the reasons people may well accept the offer is that, otherwise, they expect that the Greeks <em>will</em> default on the current bonds.  </p>
+<p>But they haven&#8217;t yet, and this is not <a href="http://www.imdb.com/title/tt0181689/">Minority Report</a> (though we can all agree Phil Dick would recognize, if not approve of, the current financial world).</p>
+<p>So ISDA correctly ruled—the key phrase is &#8220;based on current evidence&#8221;—that there is not yet a Default Event.  If everyone says &#8220;we will tender our securities due 20 March for the exchange offered,&#8221; there will not be a default of those bonds.</p>
+<p>You, I, and Bill Gross can all agree that the likelihood of this happening is about equal to the chance that Rick Perry will be elected U.S. President this year.  But there has not been a Default Event.</p>
+<p>Wait two or three weeks.</p>
+<p>The thing Barry most overlooks is that yesterday&#8217;s ISDA ruling is, if anything, <em>good</em> for CDS buyers.</p>
+<p>What will be the economic difference of waiting to holders of the CDSes?  I don&#8217;t know for certain, but if you&#8217;re looking at the standard ISDA CDS contract, there&#8217;s a reasonable assumption that (1) the market price of the bond will not change for the better and (2) it is a certainty that the Accrued Interest on the bond will be greater when they declare a Default Event than it is now.</p>
+<p>Keep in mind: in a standard CDS, declaration of default <em>terminates the contract</em>. Accruals end, market pricing is to be determined by calling a few dealers, and the only thing left is to go through the pockets and look for loose change.**</p>
+<p>Yesterday&#8217;s ISDA ruling means the CDS buyers will be owed more Accrued Interest when (in two, or at most three, weeks) a Default Event is declared.</p>
+<p>What about the principal repayment due?  Recall again that the payment due is generally the net of the current market price <em>subtracted from</em> the initial principal amount (assumed to be par—100—but in any event greater than the current market value).</p>
+<p>I&#8217;m inclined to argue there is optimism in the current market that will not be there in two weeks: it&#8217;s not that liquid a market, there is a floor on the price of the economic equivalent of the new offer, and there is time value in the option to convert.***</p>
+<p>If ISDA had declared default yesterday—that is, assumed that Greece wasn&#8217;t just &#8220;mostly dead&#8221;****—they would have taken the current market price [P<sub>0</sub>]. Even before the delays and roundelays, that was likely to be greater than the market price of those bonds in a week or two[P<sub>1</sub>, when default is declared.</p>
+<p>That is, P<sub>0</sub> is greater than P<sub>1</sub>. And since the payment due is based on [100*****-P<sub>t</sub>], the principal amount due to CDS holders when default is declared will also be greater.</p>
+<p>ISDA followed the letter of the contract: the Greeks have not yet defaulted on an obligation, nor have they stated that they intend to do so.  When they do—there are few, if any, in the market who would treat the clause as a possible &#8220;If&#8221;—a Default Event will be declared and the CDS contracts will be expected to pay as they are due. And that payment will, in all likelihood, be higher than the payment that would have been due if ISDA had ruled differently yesterday.</p>
+<p>And if they don&#8217;t, then I&#8217;ll be agreeing with Barry that the whole thing was a scam from the start—though I would still argue that JPMorganChaseBear stealing more than $1,000,000,000 in customer funds from MF Global clients is a bigger one, which is something like saying that coprophagia is even worse in liquid form.</p>
+<p>When the CDS contracts actually have to be paid, then the fun will begin. If potential for insolvency is your idea of fun. But that&#8217;s another story.</p>
+<p>*They have seen S&#038;P downgrade their credit rating, but that&#8217;s a separate issue.</p>
+<p>**Obligatory reference.  It will pay off.</p>
+<p>***The Worst Case scenario is that you assume the new bonds are the only value in the transaction, and discount their value back over the cost of basically two-week money. The best case scenario is some combination of the price of the new bonds and expectations of either getting a better deal later and/or post-litigation gains.  The lattice may be ugly, but it yields an expected value higher than the Worst Case, and therefore higher than the market price of the bonds as the time to exercise approaches.</p>
+<p>****See ** above.</p>
+<p>*****Or the other initial contract price; in any case, a fixed value greater than P<sub>t</sub>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/default-events-legal-contracts-derivatives-and-greece.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WAPO on AIG III</title>
+		<link>./../../2008/12/wapo-on-aig-iii.html</link>
+		<comments>./../../2008/12/wapo-on-aig-iii.html#respond</comments>
+		<pubDate>Wed, 31 Dec 2008 06:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/wapo-on-aig-iii.html</guid>
+		<description><![CDATA[Robert Waldmann ended my last post 5 minutes ago wishing for part III of the saga and here it is !The final act for AIG by Robert O&#8217;Harrow Jr. and Brady Dennis The collapse was, of course, quick when it came. One interesting fact is that AIG Financial Products (AIGFP) stopped writing new CDSs in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann </p>
+<p>ended my last post 5 minutes ago wishing for part III of the saga and here it is !<br /><a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/12/30/AR2008123003431.html?hpid=topnews">The final act for AIG by  Robert O&#8217;Harrow Jr. and Brady Dennis</a></p>
+<p>The collapse was, of course, quick when it came.  One interesting fact is that AIG Financial Products (AIGFP) stopped writing new CDSs in 2005.  Another is that, until then, they had little idea what they were doing.</p>
+<blockquote><p>In fall 2005, Eugene Park was asked to take over Alan Frost&#8217;s responsibilities at Financial Products. Frost had done exceedingly well in marketing the credit-default swaps to Wall Street, and was getting a promotion. He would now report to Cassano directly on other strategic projects.</p>
+<p>Park &#8230;was worried about the subprime component of the CDO market. He had examined the annual report of a company involved in the subprime business. He was stunned, he told his colleagues at the time.</p></blockquote>
+<p>What a fascinating new idea &#8212; how about examining the annual report of a firm whose securities one insures.  I mean not all of them (what a bore) but just one.  </p>
+<p>From this passage it seems that AIGFP just assumed that mortgages were what they had been in the past.  I mean it&#8217;s not their problem.  The non bank mortgage lenders were loaning all they could, because they figured they could pass on the risk (well sometimes risk sometimes certainty of default) to people making CDOs who could pass it on to people buying CDOs who could pass it on to AIGFP which doesn&#8217;t seem to have wondered what they were insuring.</p>
+<p>I give you a hint.  If you tell the world that you are glad to bear all of some vaguely defined kind of risk, then it will get riskier.</p>
+<p>AIG was a major factor in the market: </p>
+<blockquote><p>Financial Products had $2.7 trillion worth of swap contracts and positions; 50,000 outstanding trades; 2,000 firms involved on the other side of those trades; and 450 employees in six offices around the world.</p></blockquote>
+<p>That&#8217;s $ 6 billion in exposure per employee!</p>
+<p>Obviously AIGFP had decided that to write CDSs on AAA rated securities was to get money for nothing.  They couldn&#8217;t possibly examine the securities they were insuring.  Notice how Frost&#8217;s role was described: &#8220;Frost had done exceedingly well in marketing the credit-default swaps to Wall Street.&#8221;  You can do very well at selling something if you are charging too low a price.</p>
+<p>I guess they can blame the credit rating agencies.  In fact they do, but not for rating toxic sludge AAA but for rating them AA.  The final words &#8220;There was no system in place to account for the fact that the company might not be a Triple A forever.&#8221;</p>
+<p>In fact AIG hasn&#8217;t paid out on CDSs, they ran $150 billion short of ready cash, because they had to post collateral: &#8216;If additional downgrades occurred, either in AIG&#8217;s credit rating or in the CDO ratings, Financial Products would have to come up with tens of billions of dollars in collateral it did not have.&#8217;</p>
+<p>AIG was downgraded from AAA to AA when Eliot &#8220;socks on&#8221; Spitzer caught him cooking the books.  </p>
+<blockquote><p>On March 14, 2005, Greenberg stepped down amid allegations about his involvement in a questionable deal and accounting practices at AIG. The next day, the Fitch Ratings service downgraded AIG&#8217;s credit rating to AA. The two other major rating services, Moody&#8217;s and Standard &#038; Poor&#8217;s, soon followed suit.</p></blockquote>
+<p>I guess that explains why he didn&#8217;t go after anyone with a pitchfork.</p>
+<p>Back to my usual anti CDS rant after the jump.</p>
+<p>I&#8217;d say that was crazy.  Given AIGs exposure they shouldn&#8217;t have been rated AA.  I ask for the nth time, what is the point of a CDS ?  Why can&#8217;t AIG issue AIG bonds and use the proceeds to buy assets rather than insuring them ?  I think it is clear. If AIG had issued 3 trillion in debt they wouldn&#8217;t be rated AA.   CDSs written appear on the balance sheet at market value.  This is nonsense.  In the long run, the two actions (write a CDS on assets or sell debt and buy those assets) have the same impact on AIG&#8217;s book equity, in the short run the only difference is that AIG can be forced to post collateral (which can be seized in full even if it is in chapter 11 and mere bond-holders have to wait and get cents on the dollar) if it writes CDSs.  </p>
+<p>I think that it is strictly better for bondholders if AIG issues debt and buys assets than if it insures those assets (I am considering the premia paid on CDSs).  I think the only reason to do it with CDSs is to trick regulators and ratings agencies about AIGs liabilities. </p>
+<p>On a basically different topic, I cut some boring stuff out of one of my posts and put it here.</p>
+<p>Now I think it is fairly likely that, if they they had stuck to CDSs on corporate bonds, AIGFP would have done very well just as they would have done issuing AAA bonds of their own and buying AA bonds.</p>
+<p>My guess is that, at first, the money was there to be made because of excessively prudent rules and regulations.  It is also there, because prudential regulations do not consider covariances so a diversified pool of AAA bonds is treated as if it is as risky as one AAA bond.  This is necessary as there was no covariance rating agency which was worthy of the trust earned by the credit rating agencies.  Thus the only variable which was independently estimated with some reliability (back then in 1998) was the risk of default of a single instrument.  </p>
+<p>My current view is that this would be a reasonable approach to prudential regulation if there weren&#8217;t firms like AIG financial products.  The entities subject to the rules and regulations are large enough that they can diversify their portfolio at a very modest cost.  They don&#8217;t bear risk for the fun of it.  It is safe to assume that they will diversify without being specifically required to do so &#8230; unless there is a financial engineering industry which sets up special purpose entities with diversified portfolios and issues single securities whose ratings are high because of that diversification.  This means that the diversification (by the SPE) suddenly relaxes the prudential requirement.  </p>
+<p>By pre-diversifying the financial engineers reduce the further reduction in risk available from diversification.  The limiting case would be reached if all securities were put in a huge pool which was cut into tranches.  At that point, the risk of default on any portfolio of, say all existing AA securities would be as high as the risk of default on a single security, because there would only be one AA security.  Thus for the same prudential regulations, banks would be allowed to bear much more risk.  </p>
+<p>This is not socially useful.  If prudential regulations are optimally adjusted to take into account the increased correlation of different assets, then nothing is accomplished.  Otherwise the regulations are effectively changed by agents who can pocket the expected value of future public bailouts.  </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/wapo-on-aig-iii.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AIG in WAPO II</title>
+		<link>./../../2008/12/aig-in-wapo-ii.html</link>
+		<comments>./../../2008/12/aig-in-wapo-ii.html#respond</comments>
+		<pubDate>Wed, 31 Dec 2008 05:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/aig-in-wapo-ii.html</guid>
+		<description><![CDATA[Robert Waldmann The second of three parts of Dennis and O&#8217;Harrow&#8217;s series on the downfall of AIG introduces two new features—credit default saps and Joseph Cassano. Together the two managed to bring down AIG. Thus far we have only read about how AIG got into the business of writing CDSs &#8212; it seemed too good [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>The second of three parts of Dennis and O&#8217;Harrow&#8217;s series on the downfall of AIG introduces two new features—credit default saps and Joseph Cassano.  Together the two managed to bring down AIG.</p>
+<p>Thus far we have only read about how AIG got into the business of writing CDSs &#8212; it seemed too good to be true &#8212; money for nothing.  My guess is that the first ones they wrote did amount to money for almost nothing.  However such opportunities are few and if one considers one year&#8217;s money for nothing as the minimum acceptable profits for next year you will end up getting money for a while for destroying the world&#8217;s largest insurance company.</p>
+<p>To me the interesting part is how they got into the CDS market</p>
+<blockquote><p>in early 1998: &#8230;</p>
+<p>&#8230; a new kind of contract known as a credit-default swap. For a fee, the firm essentially would insure a company&#8217;s corporate debt in case of default. The model showed that these swaps could be a moneymaker for the decade-old firm and its parent, insurance giant AIG, with a 99.85 percent chance of never having to pay out.</p>
+<p>The computer model was based on years of historical data about the ups and downs of corporate debt, essentially the bonds that corporations sell to finance their operations.</p></blockquote>
+<p>My guess is that the model was right and that returns on writing (less than 10 year) CDSs on corporate debt were huge while the risk was nothing that AIG couldn&#8217;t handle.  This profit opportunity could exist because of binding prudential regulations &#8212; banks worried about capital requirements and managers of endowments and pension funds with rules requiring much of their assets to be AAA corporate debt or safer would be willing to pay much more than the actuarially fair premium for a CDS on, say,  AA debt.   Given the correlation of default on different AA bonds, writing CDS on a broad array of them is essentially money for nothing. The most likely value for payouts is zero and the expected value plus, say, 10 standard deviations would be less than the fees.</p>
+<p>I have bolded the two factors which convince me that the model might have been reasonable when it was written.  First this was corporate debt not new financial products so the ratings were based on decades of experience and not on, say, the assumption that the probability of a nationwide average house price decline is zero (an actual assumption made by Standard and Poor&#8217;s really).  Second, I sure hope the &#8220;years&#8221; also amounted to decades including recessions and such.  The use of sample frequencies to estimate probabilities is always risky, but if the sample size is a few years during an unprecedented house price boom, it is insane.  </p>
+<p>The problem is that once one has gotten money for nothing it is very hard to convince oneself that there is no more to be had.  </p>
+<p>The aim of this article seems to be to describe Hubris* &#8212; the pride that came before a fall.  This is an old theme in drama &#8212; the oldest.  I always read about it when I read stories of financial collapses.  I suspect that it might be added, because it makes a morality play out of math.  I suppose it might often be relevant because of human nature.  However, I also think it is particularly relevant to finance.</p>
+<p>The efficient markets hypothesis (adjusted for inflation) says you don&#8217;t find hundred dollar bills on the sidewalk.  It is false.  However, you don&#8217;t find a hundred dollar bill on the same concrete square day after day.  It is possible for financial operators to find an anomaly and make a huge profit with moderate risk.  At best they can find two or three.  There don&#8217;t seem to be many of those who don&#8217;t conclude that they are geniuses who can find such profit opportunities year after year.  A shining exception is <a href="http://www.guardian.co.uk/business/2008/oct/18/banking-useconomy">Andrew Lahde</a> who made a killing and cashed in.  However, he isn&#8217;t in the business anymore.  </p>
+<p>I don&#8217;t see a solution to this problem.  You have to put up either with people who think they are geniuses, because they have been very successful or who have something to prove.  In particular, I think the replacement of Tom Savage by Joseph Cassano may have been very costly for AIG (Savage really retired according to all accounts).  The huge profits made by Savage and Sosin (his predecessor) set a standard which Cassano was determined to surpass. It is very unwise to employ someone who considers finding hundred dollar bills on the sidewalk to be barely adequate.</p>
+<p>It is also interesting that Cassano is not a quant: </p>
+<blockquote><p>A Brooklyn College graduate, the 42-year-old Cassano was not one of the &#8220;quants&#8221; who had mastered the quantitative analysis and risk assessment on which the firm had been built. He had no expertise in the art of hedging. But he had excelled in the world of accounting and credit &#8212; the &#8220;back office,&#8221; as it is known on Wall Street.</p></blockquote>
+<p>Now quants are clearly dangerous, but at least they know the silly assumptions they made when writing their models.  In particular they must understand the fact that quantitative models require parameter estimates which are definitely not reliable unless based on large amounts of data.  I don&#8217;t think someone who is good in the back office understands that estimates based on small samples are not just less precise but also have distributions which can&#8217;t be determined at all based on available data.</p>
+<p>Anyway, the third article in the series should be bloody.</p>
+<p>* I&#8217;m pretentious enough to use the word but I won&#8217;t spell it correctly <a href="http://www.google.com/search?hl=en&#038;as_q=hybris&#038;as_epq=&#038;as_oq=&#038;as_eq=&#038;num=10&#038;lr=&#038;as_filetype=&#038;ft=i&#038;as_sitesearch=http%3A%2F%2Fdelong.typepad.com%2Fsdj%2F&#038;as_qdr=all&#038;as_rights=&#038;as_occt=any&#038;cr=&#038;as_nlo=&#038;as_nhi=&#038;safe=images">as Brad does</a>.</p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/aig-in-wapo-ii.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WAPO on AIG</title>
+		<link>./../../2008/12/wapo-on-aig.html</link>
+		<comments>./../../2008/12/wapo-on-aig.html#respond</comments>
+		<pubDate>Tue, 30 Dec 2008 04:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/wapo-on-aig.html</guid>
+		<description><![CDATA[Robert Waldmann Over at the Washington Post, Robert O&#8217;Harrow Jr. and Brady Dennis have a fairly interesting first of 3 articles on what went wrong at AIG. Of course, they tend to stress personalities and personal conflicts, but they do slip in some good points about economics. I&#8217;d say the key bit was that AIG [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Over at the Washington Post, Robert O&#8217;Harrow Jr. and Brady Dennis have a fairly interesting first of 3 articles on what went wrong at AIG.  Of course, they tend to stress personalities and personal conflicts, but they do slip in some good points about economics.</p>
+<p>I&#8217;d say the key bit was that AIG made a deal and only later noticed that they had made a suboptimal choice of incentive structures.</p>
+<blockquote><p>Under the joint-venture agreement, Financial Products received its profits upfront, even if the transactions took 30 years to play out. AIG would be on the hook if something went wrong down the road, not Sosin and his team, who took their pay immediately. </p></blockquote>
+<p>Could that cause problems ?  Naaahh no way efficient markets imply that short term profits are just like long term profits (impossible).</p>
+<p>The rest of my thoughts on the first third of the long sad story comes after the jump.</p>
+<blockquote><p>Greenberg was proud and protective of his company&#8217;s AAA credit rating, one of only a handful in the world.</p>
+<p>The AAA, awarded after an examination by the bond-rating firms, sent a resounding signal to clients that they could always sleep well at night, that AIG was in no danger of failing. The more secure a company, the more cheaply it could borrow money &#8212; a fact that would be pivotal to Financial Products&#8217; success.  </p></blockquote>
+<p>This is, I think, a large part of the problem right there.  An AAA rating is very valuable and any firm well into AAA territory has unused credibility which can be sold by borrowing at AAA rates and buying risky assets.  The rating was just worth too much to leave sitting there, so it was destroyed.</p>
+<blockquote><p>Sosin and Rackson hoped that everyone would get rich, but they had their sights set on something more. They wanted to tear down walls they saw as impediments to innovation, the &#8220;fiefdoms&#8221; that were standard practice at other Wall Street firms. Their vision required a collaborative culture and a computer system that no one else had. For six months, the group worked on constructing &#8220;the position analysis and storage system,&#8221; or PASS. They called it simply &#8220;the system.&#8221;</p>
+<p>It enabled Financial Products to bring a rare discipline to complex trades. By maintaining market, accounting and transaction details in one place, Sosin (Howard Sosin founder of &#8220;Financial products&#8221;which was a joint venture with AIG and eventually brought the firm down) and his people could track the constantly changing value of a trade&#8217;s components in a way no other firm could. </p></blockquote>
+<p>The advantages of this approach are clear &#8212; only by keeping track of such data in one place can a firm estimate the risk of its portfolio.  The (by then long obsolete) very old approach effectively valued assets based on their own risk not their firm portfolio betal.  However, the disadvantage should also be clear.  An accounting &#8220;Fiefdom&#8221; mgiht also be called keeping the accountants independent from the traders.  The unification elminates oversight.  I can see how a trader might trust himself to manage risk too and consider separate departments a waste of resources.  I can also see how Greenberg might agree as explained by O&#8217;Hara and Denis&#8217;s version of the negotiations with Sosin on the joint venture (their quotation marks)</p>
+<blockquote><p>Greenberg had little extra time for the nuts-and-bolts details that Sosin sought to negotiate. &#8220;I don&#8217;t really know much about this,&#8221; he told Matthews. &#8220;You go talk to these people.&#8221;</p></blockquote>
+<p>Greenberg did notice that he had a problem</p>
+<blockquote><p>Greenberg&#8217;s love of his joint venture&#8217;s revenue could not overcome his desire for greater control. He chafed at the deal, worrying that he had given Sosin too much freedom.</p>
+<p>One detail in particular nagged at Greenberg. Under the joint-venture agreement, Financial Products received its profits upfront, even if the transactions took 30 years to play out. AIG would be on the hook if something went wrong down the road, not Sosin and his team, who took their pay immediately. </p></blockquote>
+<p>Ooops.   This is just dumb dumb dumb.  If the managers of &#8220;Financial Products&#8221; understand that the gap in the market which they discovered and monopolized is now full of competitors *and* see a bubble coming, the sharp thing to do is to ride the bubble getting short term profits safely in the bank.  Paying based Mark to market profits is little better than paying on and mark to model (made up) profits.  I think this mistake requires the influence of market fundamentalists who assume that there can&#8217;t possibly be bubbles.  </p>
+<p>The full argument is that bubbles are against investors rational self interest, and if asset prices are largely determined by delegated managers like Sosin, then contracts must have been written to align their interests with, in this case, AIGs shareholders so there is no need to worry that incentive contract encourage money managers to buy into bubbles because bubbles can&#8217;t exists because &#8230; Ah yes the argument is clearly circular nonsense.  </p>
+<p>So Greenberg broke with Sosin (who stopped being a genius when he didn&#8217;t have access to an AAA rating) and solved the problem by handling financial products (minus a 150 million golden parachute also). </p>
+<blockquote><p>Savage, a 44-year-old Midwestern math whiz, had just been named the new president of Financial Products. With the honor came explicit expectations, which Greenberg made clear: &#8220;You guys up at FP ever do anything to my Triple A rating, and I&#8217;m coming after you with a pitchfork.&#8221;</p></blockquote>
+<p>My advice ?  Buy pitchfork futures.  </p>
+<p>&#8220;With a PhD from Claremont Graduate University in California, Savage&#8221;</p>
+<blockquote><p>Greenberg also wanted to change the way Financial Products&#8217; employees divvied up its share of the profits. Under the previous arrangement, Sosin and his crew had the right to book immediate profits on the long-term deals. Greenberg thought there was a powerful incentive to go after millions of dollars in short-term gains while leaving AIG and its shareholders responsible for potential losses for years to come.</p>
+<p>Savage agreed with Greenberg that Financial Products employees should defer half of their compensation for several years, depending on the length of the deals being done </p></blockquote>
+<p>Problem solved. Instant access to merely 15% of booked profits on megadeals couldn&#8217;t distort anyone&#8217;s incentives.  I mean half of a gigantic conflict of interests is still a gigantic conflict of interests.  </p>
+<blockquote><p>Savage said. &#8220;Hank Greenberg&#8217;s a great man. And I&#8217;m willing, when I talk to him, to say, you know, I&#8217;m in the presence of a great man and that&#8217;s worth something.&#8221;</p></blockquote>
+<p>I don&#8217;t want to know how much dealing with such a great financial genius was worth to Savage.</p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/wapo-on-aig.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>45 trillion credit swap market&#8230;how big is that?</title>
+		<link>./../../2008/04/45-trillion-credit-swap-market-how-big-is-that.html</link>
+		<comments>./../../2008/04/45-trillion-credit-swap-market-how-big-is-that.html#respond</comments>
+		<pubDate>Thu, 03 Apr 2008 14:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[model validation]]></category>
+		<category><![CDATA[rational]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/04/45-trillion-credit-swap-market-how-big-is-that.html</guid>
+		<description><![CDATA[The ABX.HE index, which is based on credit default swaps on different tranches of subprime mortgage-backed securities. (Federal Reserve Bank of Cleveland) Hat tip to Jim Satterfield for this link to Marketplace public radio. Bob Moon is the Senior Business Correspondent. MOON: OK, I&#8217;m about to unload some numbers on you here, so I&#8217;ll speak [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://4.bp.blogspot.com/_RPTAaOI4RN8/R_Tt8URkFzI/AAAAAAAAAIA/1qsdRpxtyJg/s1600-h/20080401_credit_default_swaps_chart_18.jpg"><img src="http://4.bp.blogspot.com/_RPTAaOI4RN8/R_Tt8URkFzI/AAAAAAAAAIA/1qsdRpxtyJg/s320/20080401_credit_default_swaps_chart_18.jpg" border="0" alt=""></a><br />The ABX.HE index, which is based on credit default swaps on different tranches of subprime mortgage-backed securities. (Federal Reserve Bank of Cleveland)</p>
+<p>Hat tip to Jim Satterfield for this link to <a href="http://marketplace.publicradio.org/display/web/2008/04/01/credit_default_swaps_q/">Marketplace</a> public radio.  Bob Moon is the Senior Business Correspondent.</p>
+<blockquote><p>MOON: OK, I&#8217;m about to unload some numbers on you here, so I&#8217;ll speak slowly so you can follow this.</p>
+<p><strong>The value of the entire U.S. Treasuries market: $4.5 trillion.</p>
+<p>The value of the entire mortgage market: $7 trillion.</p>
+<p>The size of the U.S. stock market: $22 trillion.</p>
+<p>OK, you ready?</p>
+<p>The size of the credit default swap market last year: $45 trillion</strong>.</p>
+<p>&#8230;</p>
+<p>RYSSDAL: OK, I&#8217;m with you, but let me ask you this. We just had the secretary of the Treasury yesterday with a big policy announcement. If these things are so bad, what&#8217;s being done about it?</p>
+<p>MOON: The irony here is that the former Fed Chairman Alan Greenspan, a couple of years ago he called credit default swaps &#8220;probably the most important instrument in finance,&#8221; because they were supposed to spread risk around and stabilize the market. Well, critics now say that they&#8217;ve had exactly the opposite effect. One of the leading critics of these things is Christopher Whalen. He&#8217;s an expert on financial risk at Institutional Risk Analytics. And he told me that this is nothing more than government-guaranteed gambling:</p>
+<p>CHRISTOPHER WHALEN: They are the most hideous kind of speculation. To have a federally insured bank like JPMorgan as the largest dealer in this market, to me says we don&#8217;t know what we&#8217;re doing anymore, and we don&#8217;t understand the difference between real work &#8212; real economic activity &#8212; and something that&#8217;s essentially wasting.</p>
+<p>MOON: And Whalen points out that Bear Stearns had more than $2.5 trillion in credit default swaps. He suspects that that&#8217;s why JPMorgan came to the rescue, so it didn&#8217;t get pulled down.</p></blockquote>
+<p>Update:  Do you know what notational means?  Comments are a must read.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/04/45-trillion-credit-swap-market-how-big-is-that.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

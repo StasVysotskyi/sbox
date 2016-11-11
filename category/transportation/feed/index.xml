@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>transportation &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Has America Lost It&#8217;s Drive? &#8211; Pt. 4</title>
+		<link>./../../2012/03/has-america-lost-its-drive-pt-4.html</link>
+		<comments>./../../2012/03/has-america-lost-its-drive-pt-4.html#respond</comments>
+		<pubDate>Wed, 07 Mar 2012 23:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Auto Industry]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[oil prices]]></category>
+		<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/has-america-lost-its-drive-pt-4.html</guid>
+		<description><![CDATA[In Part 3 of this series, I wondered a couple of things.  &#8211; With the vehicle/1000 people number in the range of 825 to 845 since 2004, is the market near saturation?&#8211; Is the January sales number of 14.2 SAAR (seasonally adjusted at annual rate) enough to maintain the vehicle/1000 people number? For the first [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In <a href="http://www.angrybearblog.com/2012/02/is-america-losing-its-drive-pt-3.html">Part 3 of this series</a>, I wondered a couple of things.</p>
+<p> &#8211; With the vehicle/1000 people number in the range of 825 to 845 since 2004, is the market near saturation?<br />&#8211;  Is the January sales number of 14.2 SAAR (seasonally adjusted at annual rate) enough to maintain the vehicle/1000 people number?</p>
+<p>For the first question, I have to again credit R<a href="http://www.realitybase.org/">oger Chittum</a> for pointing me to <a href="http://www.econ.nyu.edu/dept/courses/gately/DGS_Vehicle%20Ownership_2007.pdf">this 2007 paper</a>, <i>Vehicle Ownership and Income Growth, Worldwide: 1960-2030</i>,  by Dargay, Gately and Sommer (32 page pdf, data through 2002.)  There&#8217;s  a lot to this paper, including projections into the future for vehicle  sales and fuel consumption, worldwide.   My immediate interest is in  their use of a Gompertz function to estimate vehicle market saturation  as a function of per-capita income.</p>
+<p>Here is one of their graphs.</p>
+<div><a href="http://3.bp.blogspot.com/-JqSHtuM4TIc/T1e8OSCQA2I/AAAAAAAABxI/m2RE7YuXlTs/s1600/Vehicle+Gomperz.JPG"><img border="0" height="277" src="http://3.bp.blogspot.com/-JqSHtuM4TIc/T1e8OSCQA2I/AAAAAAAABxI/m2RE7YuXlTs/s400/Vehicle+Gomperz.JPG" width="400"></a></div>
+<div> Graph 1  Vehicle/1000 Gompertz Function of Per-Capita Income</div>
+<p>Their  model indicates flattening above about $30K per year, and leads to a  saturation point in the U.S. of about 852 vehicles per 1000 population.   Saturation points for various countries also depend on urbanization and  population density.  See the paper for details and background.</p>
+<p>This indicates that the U.S market is about 97% saturated, give or take a point.</p>
+<p>What does that suggest for vehicle sales going forward?   <a href="http://modeledbehavior.com/2012/03/01/halftime-in-america-car-sales-data-smash-my-personal-estimates/#comment-24557">Karl Smith</a> led off the month pointing to <a href="http://4.bp.blogspot.com/-jbRyVm8-MYI/T0_e_f8ZZxI/AAAAAAAAMSQ/-je1Q8MqCbE/s1600/VehiclesSalesFeb2012.jpg">this graph</a> from <a href="http://www.calculatedriskblog.com/2012/03/us-light-vehicle-sales-at-151-million.html">Calculated Risk</a>, estimating light vehicle SAAR for February at 15.1 million.  With that, on to question 2. <br />  <br />I  already have the data in hand for vehicles/1000 population (see part  3.)  The data for the Calculated Risk SAAR graph comes from <a href="http://bea.gov/search/index.cfm">BEA</a>,  Table 7.2.5S.  Plotting a scattergram of YoY change in Vehicles/1000  population vs annual average SAAR for the years 1990 to 2009 gives us  this picture.  (See notes, below.)</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-BzEPrGYUMUA/T1fDeed2h0I/AAAAAAAABxQ/LHbZHOrA8yg/s1600/Vehicles+per+1000+and+SAAR.JPG"><img border="0" height="298" src="http://4.bp.blogspot.com/-BzEPrGYUMUA/T1fDeed2h0I/AAAAAAAABxQ/LHbZHOrA8yg/s400/Vehicles+per+1000+and+SAAR.JPG" width="400"></a></div>
+<div> Graph 2   SAAR and Change in Vehicles/1000 Population</div>
+<p>This suggests that the break even point for vehicles per 1000 is right around 14.7 million annual average SAAR.</p>
+<p><a name="more"></a></p>
+<p>The  official vehicle/1000 numbers are only available up to 2009.  But we  have the SAAR data for 2010 and 2011.  Annual average SAAR for 2010 is  11.77; for 2011, it&#8217;s 13.05.  You probably don&#8217;t want to take the values  suggested by Graph 2 too literally, but seeing the vehicle/1000 number  slip to around 815 for 2011 should be a reasonable expectation.  This is  still slightly above the 95% saturation level.</p>
+<p>Average  light vehicle SAAR for the first two months of this year is 14.65 &#8211;  right at the break even point for vehicles/1000 population.   </p>
+<p> Notes on Graph 2</p>
+<p>The  red dots represent data for 2001 and 2002.  The SAAR values look  reasonable.  The changes in vehicles per 1000/population do not.  An  increase of 25 in one year, from 800 to 825, followed by a decrease of  10 in the following year with SAAR, nearly identical (17.46 and 17.15)  makes no sense.  An average of the two, plotted for both years as yellow  dots, by some odd coincidence, lies exactly on the best fit line.</p>
+<p>The R^2 value of .43 is less than stellar, but not terrible.</p>
+<p>Eliminating the two questionable points raises R^2 to a respectable .65.</p>
+<p>Cross posted at <a href="http://jazzbumpa.blogspot.com/2012/03/has-america-lost-its-drive-pt-4.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/has-america-lost-its-drive-pt-4.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is America Losing Its Drive? &#8211; Pt. 3 Vehicles per 1000 Persons</title>
+		<link>./../../2012/02/is-america-losing-its-drive-pt-3-vehicles-per-1000-persons.html</link>
+		<comments>./../../2012/02/is-america-losing-its-drive-pt-3-vehicles-per-1000-persons.html#respond</comments>
+		<pubDate>Fri, 24 Feb 2012 15:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Auto Industry]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[oil prices]]></category>
+		<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/is-america-losing-its-drive-pt-3-vehicles-per-1000-persons.html</guid>
+		<description><![CDATA[In private communication, Roger Chittum got me thinking about the vehicle component of gasoline consumption. I&#8217;m going focus on the gross vehicle numbers, and not get too deeply into the car/truck/SUV product mix detail.   Data is from the Department of Energy TRANSPORTATION ENERGY DATA BOOK: EDITION 30—2011.   (Warning:  414 page pdf.) According to Table 3-5 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In private communication, <a href="http://www.realitybase.org/">Roger Chittum</a> got me thinking about the vehicle component of gasoline consumption.  I&#8217;m going focus on the gross vehicle numbers, and not get too deeply  into the car/truck/SUV product mix detail.   Data is from the Department  of Energy <a href="http://cta.ornl.gov/data/tedb30/Edition30_Full_Doc.pdf">TRANSPORTATION ENERGY DATA BOOK: EDITION 30—2011</a>.   (<i>Warning:  414 page pdf.</i>)</p>
+<p>According  to Table 3-5 on page 3-9, vehicle ownership, measured as vehicles (both  cars and trucks) per 1000 population, peaked in 2007 at 843.57, and  dropped by 1.88% to 828.04 in 2009, two years later.  Data presented in  the source is from 1900 to 2009.  This graph shows the data from 1950 to  2009.  <a href="http://www.nber.org/cycles.html">Recessions</a> are highlighted in red.</p>
+<div><a href="http://1.bp.blogspot.com/-Mzih-RAfd6k/T0bQc_gO3FI/AAAAAAAABww/-8fTJetv5xg/s1600/Vehicles.JPG"><img border="0" height="298" src="http://1.bp.blogspot.com/-Mzih-RAfd6k/T0bQc_gO3FI/AAAAAAAABww/-8fTJetv5xg/s400/Vehicles.JPG" width="400"></a></div>
+<p>During  the post WW II era up to 1982, recessions might have slowed the growth  of vehicle ownership, but they did not cause a decline.  Even the severe  recession of 1958 only caused a flat spot on the curve.</p>
+<p><a name="more"></a><br /> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ8AAABWCAIAAABentPLAAAFnElEQVR4nO2dy5mFIAyFqYuCqMdqXNuHxTiL8cEjQIDEK/nyr2YYLwaOCObgHbMpcjHbth0zM3v8fKi6klF1JUOu7r5YY+yyB4WrS8voyMe/L9YYt0alqwMKvU/k/kZNfK59scYYYzoLATjGbqzlvlhGbctjF1CyJO6L6q4ulOcOy48PXwjCc2f2T8utbeXOnPRAuUteUfd/6FnnvHOt7u6lJwZ8IQzXvHv1YajtvljrnK3fUpooxx+p6fXNcQ0gE16Lbr2KoSj3xdpliT8HV5Vp7L6u+xFqE+h0xYgvzPcM06pqdcZYa5N7NP3QqMQfyOt3x9NPzzX4P6zuQQIEGx8RdXlUVamxM6sLraV47tK1+L3+gMU9wr4r3/eC0vOXalW1uCZUN+0dnlmtGv992qAz7oXnSdJ3CHXPGqtVlcOKa1V1Perx/583OjsYTKO60Ngt1p89YKpVFXzuX6n7f5e00cm9aO4fcepe3XvPzLWqskHN+EQERQ+XUICKf3XQGvhe6EKjoTB2nQs/VqsKJD4gWXW3FQJoJrKVN7NZo6i6rai676Lq5jjVVaRiNh27QlF1JaPqSoZIXSANFD8PBpk/KB/YnYDmUvd+qvRDS+N9Dss3BGw7QdMrkKgbGdGPexDn2sBswnNoZyNZ1PXjeXJCz09t2z6AtteqomBUXcCIzqRPoYR3JQmOhP/OjMzgZzODQDtbzIBuhtVFGtH/pnfUAKJHR251vWGcMRPjw9IK0j+UqqKCY96N7jmP+Waj2Xh1xi4rcgdYsQ2j8ec4p0Zo+VAcjCFQ20tVkcG7qvrXLtmBc81CqzOB3fKledcnnHfhnRcFccG2F6qig0fdB/CmcxUmZnpfE78w76Kj7zHhu2FWFy4HWzi3umh9plc3WCcDO9C8RQZ0aDMs6sIB5/bEFS/Ntqoo4Rm7iZN9BA/0fkue4q+tquCA4RQEMPjiDXrYqijRTKRkVF3JqLqS2dS9l43ZJr/2Z4+fD1VXMqquZIjU7XPvMb43rg2j8YOU3ftM00pP7X0vpAxAom6/ex/W8aVcVd69T5rmhV7yQuKX7fOFZIyqO+be3wxo+/M8M8JNAHopU0jLsLoj7v1dSf+um+N4072vp/4zb3SnvZQppIVj3kW799CHO2BUN3bvwaaFhxcu0znn3V73HvxsO+x35sjkiZp2Ubd6hKj7UHTvyx9F8968my/03+rNIk3dsnuf/tLFb9SNXsjGKCRC3Qb3nqRxLOrCAUNNw68JRajb5N4TbDphGrtwwEnTkpTMcz2jtk1OoO5PmT1+PlRdyai6ktnUvZeN2Sa/9mePnw9VVzKqrmSI1O1+955ixzaXuqzuPdHOhTIk6na79zTvn7Oo+5J7H1dAy6i6Q+490ZtS/HdmFvfeq5wrWTWs7pB7T/P+Obe6TO59XDkDHPNuk3tP8P45o7rs7j1nlvnX7j3N++fsd2Y+955X3N+699PNu/nCPveeWdwPvXs/m7oU7j3bl92cMM27SPee5v1zFnXfcO+5h+7P3fsPZzP43XvuoauZSNGoupJRdSWzqXsvG7NNfu3PHj8fqq5kVF3JEKk77t5/00U44BRE/qk9k50AH+vB3QGkkKg75N4DRzbCqu7qAsnuFFVk2Rfde2iTArw7gJhRdYW796dvCQV5B19171Gu8Ce/45Xum/M/qO6+2PC/9na695VNCnwGPse8i3fvK2Y4vg2j8UOc12OLunmdMpsU4t0BxPCuqurv3ufN8KY2jMYPsLp0RVBUN29z1TYpfHbePelz7+uFKDjUfS5AnLol937eefekz73H1ICAQd3U1ktWUHj3Xpa6ePceOrKdN593gSei+qII2qSQ/TICSnjGLt69h45s5d1sxh2x94hbde+hbAbyBYYRNBMpGVVXMqquZDZ17wVzHMcf6Qb2Lf/l6LgAAAAASUVORK5CYII="></p>
+<p>This changed with the double dip recessions of 1980 to 1982.</p>
+<p> <img alt="" src="data:image/png;base64,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"></p>
+<p>The  reduction from 1981 to &#8217;82 is miniscule.  But since then, every  recession has led to a significant reduction from the previous year.  As  an aside, this is one more time series that shows a change in character  right around 1980.</p>
+<p><img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAABWCAIAAACIOwmuAAAE/0lEQVR4nO1cy4GFIAykLgqyHqvxbB8W4x5WJSET/Dx5gd3M6S0aIQzfDGyYHaYI8zyvlfGFLDqFE2AMJ8AYlIBljCHEcWEvTINMe5TNc+NljIHh8/K0g6wH5NW9jPEVdz8mYJjS3++0iUYghqBpCIe3b1X/ywTwQnYOMAfs3vHqX8YYhyGGZ56/TMA6Dalo07CNTOQdMmptqXn5kdWRRpNTIm2LyPwR4CQ8DSHEGMVg9Dy3twk4ktIz0l5IB2Evsq5dskqDHGE6/YTmD6GsguQw+1lWtQhgj/Yaot2DWeyp0IrhSESD3bn5DSgESJ9BLdzL5qlpcQjKF0hxXJSmQj+CrES6HOJor3ptUdYnAUe7hKVSe4AcgbIXaKWLT5QzfYoeCaDjI3mWfmZzwNFXjo8gq2wKSFZkDiAjv8j0IXohgEF2h3wogKsgwSK3SjZxnNLbJ6ugT5fpHoowhhNgDCfAGBsBDkOE2XuAHZwAYzgBxlAIyFbNxxJZhOfOF+B7NrU8yDMublY0v3jYN//Qq1vfDJCA310GC8j+FnDh+5O0L5RbUB7Oq03AkXFRKQB+IRfyiN40VBQfcgJ++Y/DoEROaBSsHIZkb1QmgGSstNbbftEfNeU3QcA0ZU1dib7yzgCKyNpiXQIuxIeBX9iFvDFVbf7rtTkg66oiqosaSBYTNicAvblCF9gcULn5r3cnYRKl4hMDbyUypUkCSi6wt/fIW42ucI2AhOIccJiKKnidgLR+GaaHBJxabaMPdPk13CQAaLGs9JpybD4Jb7hBwD76MJnh/fHo4hyA1e68/+q6cRvLUDAJq0NQmnxb6AFQfhC7GHqqIxs062/EwDkR0GIvbMSAqcEcUCGb2ll0CifAGE6AMWYXZMwRZu8BdnACjOEEGEMh4JYgUz4HuGfzdskRtL2S2KGwInOrngQZkQjNt2zqlL9Q7MJb8ohcSdvoR5CB5ns2tTzQio3Bqr/kbOuCjEYA0D22bKq5UMo3f40Hq5BVN4KMptJI8y2bWh6oxb78uDAHNCzIKInQvBECTmPs2oMWBZlyYn0CmCCj55ubFOs5R9OCTDmxyR6g6inYqnVBBiZC8y2blwsOUSJAfwafdCDIFC6JtEGAUFWU9gtq1gWZfwMnwBhOgDFmF2TMEWbvAXZwAozhBBhDEJD2+FCRQUeLL+yNv0RAYa+E/QJWtoIMvuICD/7ppwEbFGTUqzu7WSOCDL7iAo++4vOwjQoy+tWddRpCjA0JMrzUe0z8rwgy67ryHruMcZhaFGTyo8NXCSDGjc0B9BXSdff/8NSYIMOOa/8hAvgx9GlQThXkn/tyMG4Zo7g01RwBDwUZUs40tjQlyICrCncmYfKVtnqA8EteZpA+fF+QyU4N0MLeWIa2R4DiV8nKRJDRr7iA+ydKInbJhICjxRau7sDSuiDzj+AEGMMJMMbsgow5wuw9wA5OgDGcAGMIAj4UZJI52/h8iYBrggz6b8XJrGtBJjuzngr9FQKKN2RAWBk627Ugo0foahNwIsjAOA50tnNBhqRyj6sTcCLInNYi7c99CzLp2gb113oO2IRHULLDjvbnbgUZfnXy23PAxWho3qZRBJ5/rhtB5otzwANBZocY+7VIdX+CjN0kTEp/gwC97a+dCjJ84mhnCMoOQqQi6hXaqyDT0kYMrQ0CW/qrKo0LMv8GToAxnABjzC7I2GJd1x+4OECrfkkfIgAAAABJRU5ErkJggg=="></p>
+<p><a href="http://www.nationmaster.com/graph/tra_mot_veh-transportation-motor-vehicles">This source</a> indicates the most recent value for the U.S. is 765, though it&#8217;s not  clear what &#8220;most recent&#8221; means.  If this is accurate, then ownership has  back-tracked to the 1994 level.   This would correspond to a 7.6% drop  from 2009, and an astounding 9.3% drop from the 2007 peak.  I don&#8217;t  believe it; but that value is indicated with a red dot on the next  graph, as a point of reference.</p>
+<p>I&#8217;ve also included  some best fit straight lines to show how the slope has changed over  time.  The decreasing slope and more serious response to recessions  might result from a market being close to saturation, but that&#8217;s just a  guess. </p>
+<p>
+<div><a href="http://1.bp.blogspot.com/-L7KwrhQy-hQ/T0bd_sxHl6I/AAAAAAAABw4/CrLPnFSUH4U/s1600/Vehicles+2.JPG"><img border="0" height="298" src="http://1.bp.blogspot.com/-L7KwrhQy-hQ/T0bd_sxHl6I/AAAAAAAABw4/CrLPnFSUH4U/s400/Vehicles+2.JPG" width="400"></a></div>
+<p>One  of the reasons I&#8217;m skeptical of the red dot point is that new vehicle  sales have recovered substantially from the 2009 low, as this graph from  <a href="http://www.calculatedriskblog.com/2012/02/us-light-vehicle-sales-at-1418-million.html">Calculated Risk</a> demonstrates.  (The August, 2009 spike is the cash for clunkers event.)</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-LbjYRuo0M4E/TymkraW73VI/AAAAAAAAMCU/tEt4Dcdbbxc/s1600/AutoSalesShortJan2012.jpg"><img border="0" height="283" src="http://4.bp.blogspot.com/-LbjYRuo0M4E/TymkraW73VI/AAAAAAAAMCU/tEt4Dcdbbxc/s400/AutoSalesShortJan2012.jpg" width="400"></a></div>
+<p>This  might not be enough to stop a continuing slide in the vehicles per 1000  population number, but I think it&#8217;s enough to keep it from falling off a  cliff.</p>
+<p>Another perspective on vehicle use comes from  Table 3.3 on page 3-5 of the Data Book.  This graph shows the Federal  Highway Administration estimate of vehicles in use.</p>
+<p>
+<div><a href="http://2.bp.blogspot.com/-6ixFkRD_SGs/T0brWyxF-oI/AAAAAAAABxA/m-1sLdyfWCA/s1600/Vehicles+3.JPG"><img border="0" height="298" src="http://2.bp.blogspot.com/-6ixFkRD_SGs/T0brWyxF-oI/AAAAAAAABxA/m-1sLdyfWCA/s400/Vehicles+3.JPG" width="400"></a></div>
+<p>Except  for recessions (highlighted in red on the total line) growth of the  total vehicle count has been been quite constant over four decades.   But, since the mid 80&#8217;s, car sales have been stagnant.  All of the  growth since then has come from truck sales.  It will be interesting to  see how these trends develop over the next few years.</p>
+<p><a href="http://www.angrybearblog.com/2012/02/has-america-lost-its-drive-part-2.html">Part 2</a><br /><a href="http://www.angrybearblog.com/2012/02/yesterday-karl-smith-posted-on-oil-and.html">Part 1</a><br />Cross posted at <a href="http://jazzbumpa.blogspot.com/2012/02/is-america-losing-its-drive-pt-3.html">Retirement Blues</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/is-america-losing-its-drive-pt-3-vehicles-per-1000-persons.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Has America Lost its Drive? Part 2</title>
+		<link>./../../2012/02/has-america-lost-its-drive-part-2.html</link>
+		<comments>./../../2012/02/has-america-lost-its-drive-part-2.html#respond</comments>
+		<pubDate>Wed, 22 Feb 2012 00:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Auto Industry]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[oil prices]]></category>
+		<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/has-america-lost-its-drive-part-2.html</guid>
+		<description><![CDATA[I made a mistake in my original post.   Graph 4 in that post was based on the wrong data set.  As Roger Chittum pointed out in comments, that graph only covers a subset of total gasoline deliveries. This is the correct graph.  (Source.)  Thanks, Roger! Graph 1 Gasoline Supplied The fall off in gasoline delivery [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I made a mistake in my <a href="http://www.angrybearblog.com/2012/02/yesterday-karl-smith-posted-on-oil-and.html#more">original post</a>.    Graph 4 in that post was based on the wrong data set.  As Roger Chittum  pointed out in comments, that graph only covers a subset of total  gasoline deliveries.</p>
+<p>This is the correct graph.  (<a href="http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&#038;s=mgfupus1&#038;f=m">Source</a>.)  Thanks, Roger!</p>
+<div><a href="http://www.eia.gov/dnav/pet/hist_chart/MGFUPUS1M.jpg"><img border="0" height="162" src="http://www.eia.gov/dnav/pet/hist_chart/MGFUPUS1M.jpg" width="400"></a></div>
+<div>Graph 1 Gasoline Supplied</div>
+<p>The  fall off in gasoline delivery is not as extreme as I indicated, but it  is still real.  Here is a close-up view of data for the current century,  from the same source.</p>
+<div><a href="http://2.bp.blogspot.com/-oZK6apTPLi0/T0P6C1MRtuI/AAAAAAAABwg/gWZS7SNklUo/s1600/Gasoline+Supplied.JPG"><img border="0" height="298" src="http://2.bp.blogspot.com/-oZK6apTPLi0/T0P6C1MRtuI/AAAAAAAABwg/gWZS7SNklUo/s400/Gasoline+Supplied.JPG" width="400"></a></div>
+<div>Graph 2 Gasoline Supplied This Century</div>
+<p>Seasonal changes are dramatic.  Peaks occur in July or  August, valleys in January or February of most years.  May values,  highlighted with blue dots, and September values, highlighted with  yellow dots, are recurring secondary peaks and valleys, respectively.   July values are highlighted with red dots.  The years 2008 and 2010 are  accented with contrasting blue line segments.</p>
+<p>In 2008, gasoline consumption dropped dramatically.  May was down  slightly, compared to &#8217;07, while July and September were down a lot.   Through 2009 and &#8217;10 there was a slight recovery, with all three  highlighted months showing increases.  The 12 month moving average, in  pink, stopped falling, but failed to increase very much.</p>
+<p><a name="more"></a>Then, in 2011, gasoline deliveries turned down again.  This can be seen clearly in the highlighted months and the moving average.  Some of the standard explanations are changing demographics and retail habits.  An aging population with more retirees might tend to drive less &#8211; though this is not my personal experience.  Kids these days cruise on social media rather than pleasure drive through the streets of town as we did in my day.  On-line shopping, though only about 5% of total retail, is growing rapidly.</p>
+<p>You can&#8217;t gainsay any of these trends.  They are probably affecting  the big picture.  But it would a stretch to say that they can account  for less gasoline use in 2011, but not 2010 or 2009.  Especially so,  since this past year was supposed to be a recovery from the previous  economic doldrums, and the expectation would be for the improvements of  the previous two years to continue.  But it looks like something is  happening, economically or culturally, to cause another downturn in  travel &#8211; though not as dramatically as I suggested in the original post.</p>
+<p>The estimate of vehicle miles driven, from <a href="http://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm">the December, 2011 report</a> by the Federal Highway Administration, tells a similar story.</p>
+<div><a href="http://1.bp.blogspot.com/-MG6KbCT9MDc/T0QGW57uY2I/AAAAAAAABwo/YpVdpXdreNM/s1600/Vehicle+Miles.JPG"><img border="0" height="298" src="http://1.bp.blogspot.com/-MG6KbCT9MDc/T0QGW57uY2I/AAAAAAAABwo/YpVdpXdreNM/s400/Vehicle+Miles.JPG" width="400"></a></div>
+<div>Graph 3 Vehicle Miles Driven &#8211; Moving Total</div>
+<p>The years 2008 and 2010 are highlighted in yellow.  The  pink line traces the November, 2011 low back through the Summer of  2004.  Again we see recovery in 2009 and &#8217;10, and a resumption of the  slide in 2011.</p>
+<p>The slope change in mid-2005 is intriguing.   This precedes the April 2006 peaks in the <a href="http://www.standardandpoors.com/indices/sp-case-shiller-home-price-indices/en/us/?indexId=spusa-cashpidff--p-us----">Case-Shiller</a> Composite-10 and Composite-20 Indexes by several months, and the October 2007 peak in the S&#038;P 500 by over 2 years.  The new slope remains relatively constant right up to the peak in November, 2007.  </p>
+<p>Meanwhile, gasoline prices have increased again in the last month, after sliding about 70 cents from the high in May, 2011.  <a href="http://seekingalpha.com/article/380991-will-rising-gasoline-prices-derail-the-economic-recovery">This gloomy article</a> at Seeking Alpha blames part of the price increase on &#8220;stronger  demand, courtesy  of a growing economy.&#8221;  The data simply does not  support this opinion. Instead of text book supply-demand behavior,  gasoline prices and miles driven exhibit <a href="http://www.gasbuddy.com/gb_retail_price_chart.aspx?city1=USA%20Average&#038;city2=&#038;city3=&#038;crude=n&#038;tme=48&#038;units=us">basically similar motion</a>.  </p>
+<p>I still contend that the prices of petroleum products are  manipulated on the supply side.  All the data I&#8217;m aware of supports  this. </p>
+<p>I expected the original post to be a one-off, but the current picture is interesting, with no obvious explanation.  This might bear looking into in another 6 months, or so.</p>
+<p>Cross posted at <a href="http://jazzbumpa.blogspot.com/2012/02/has-america-lost-its-drive-part-2.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/has-america-lost-its-drive-part-2.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Has America Lost its Drive?</title>
+		<link>./../../2012/02/has-america-lost-its-drive.html</link>
+		<comments>./../../2012/02/has-america-lost-its-drive.html#respond</comments>
+		<pubDate>Sat, 18 Feb 2012 00:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Auto Industry]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[oil prices]]></category>
+		<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/has-america-lost-its-drive.html</guid>
+		<description><![CDATA[Yesterday,  Karl Smith posted on Oil and the Structural Recession.  This seems to be one of Karl&#8217;s thinking-out-loud posts, with more questions than answers, some convoluted reasoning, and a conclusion that higher gasoline prices are in our future.  If I read him right, this will be due to a demand pull. He included this graph [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday,  Karl Smith posted on <a href="http://modeledbehavior.com/2012/02/16/oil-and-the-structural-recession/">Oil and the Structural Recession</a>.  This seems to be one of Karl&#8217;s thinking-out-loud posts, with more questions than answers, some convoluted reasoning, and a conclusion that higher gasoline prices are in our future.  If I read him right, this will be due to a demand pull.</p>
+<p>He included this graph from <a href="http://www.calculatedriskblog.com/2012/01/dot-vehicle-miles-driven-declined-09-in.html">Calculated Risk</a>.</p>
+<p>
+<div><a href="http://2.bp.blogspot.com/-mszx8cqB5vE/Tx3yxJqqfmI/AAAAAAAAL8A/zhMccmnfL2E/s1600/Miles12MonthNov2011.jpg"><img border="0" height="267" src="http://2.bp.blogspot.com/-mszx8cqB5vE/Tx3yxJqqfmI/AAAAAAAAL8A/zhMccmnfL2E/s400/Miles12MonthNov2011.jpg" width="400"></a></div>
+<div>Graph 1.  U.S. Vehicle Miles</div>
+<p>The number of miles driven tends to flatten during a recession, then recover quickly when the recession is over.  At least, that&#8217;s the way it used to be.  The Miles Driven curve seems to have been losing slope since the late 90&#8217;s, and was close to flat-line during the housing bubble last decade, when everyone supposedly felt rich.  There has been no recovery after the recent Great Recession, which officially <a href="http://www.nber.org/cycles/cyclesmain.html">ended 32 months ago</a>.</p>
+<p> The same CR post cited above also includes this next graph.<br /><a name="more"></a></p>
+<div><a href="http://2.bp.blogspot.com/-hut6zCQkSng/Tx3yx3mQgII/AAAAAAAAL8I/HBKRAVVOa20/s1600/MilesYoYNov2011.jpg"><img border="0" height="277" src="http://2.bp.blogspot.com/-hut6zCQkSng/Tx3yx3mQgII/AAAAAAAAL8I/HBKRAVVOa20/s400/MilesYoYNov2011.jpg" width="400"></a></div>
+<div>Graph 2.  YoY Change in Vehicle Miles</div>
+<p>This confirms my eye-ball assessment that the slope in the first graph has been in decline since long before the oil price bubble of recent years.</p>
+<p>But here is a contrary development.  Calculated Risk also reports that the <a href="http://www.calculatedriskblog.com/2012/01/ata-trucking-index-increased-sharply-in.html">truck tonnage index is way up </a>for all of 2011, and especially in December, when it posted an all time high.</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-Oqi6s083_Rc/Tx7qzVMGthI/AAAAAAAAL8Y/-c8flW65PYY/s1600/ATATruckingDec2011.jpg"><img border="0" height="263" src="http://4.bp.blogspot.com/-Oqi6s083_Rc/Tx7qzVMGthI/AAAAAAAAL8Y/-c8flW65PYY/s400/ATATruckingDec2011.jpg" width="400"></a></div>
+<div>Graph 3. Truck Tonnage Index </div>
+<p>Truck traffic is way up, but total miles driven, per graph 2, has been mostly in decline for four years.</p>
+<p>This suggests that discretionary personal driving has been sharply curtailed.  I&#8217;m having a hard time coming up with any alternative explanation.  Can anybody suggest one?</p>
+<p>Just in the last couple of months, it seems that discretionary driving has taken a deep plunge that has not yet shown up in the data posted above.  Deliveries to retail gas stations have been slumping for well over a decade, and now have <a href="http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&#038;s=A103600001&#038;f=M">fallen off a cliff</a>.  If gasoline delivery is just-in-time, <a href="http://peakoil.com/consumption/why-is-gasoline-consumption-tanking/">as I believe it is</a>, then deliveries are an excellent proxy for consumption.</p>
+<p>By the Way, improved fuel economy cannot account for more than a small fraction of this change.  The big improvements in fuel economy happened during the 80&#8217;s, when fuel deliveries were in an upswing.  Since 1990, fuel economy improvements <a href="http://earlywarn.blogspot.com/2011/05/us-fleet-fuel-economy.html">for the actual fleet on the road</a> have been on the order of 0.5% per year.</p>
+<p>
+<div><a href="http://www.eia.gov/dnav/pet/hist_chart/A103600001M.jpg"><img border="0" height="161" src="http://www.eia.gov/dnav/pet/hist_chart/A103600001M.jpg" width="400"></a></div>
+<div> Graph 4.  Gasoline Retail Deliveries</div>
+<p>I made my own graphs of the retail delivery data (not posted,) and there is, surprisingly, no particular response to the recessions of 1991 and 2001.  It&#8217;s not easy to find any recession on Graph 4.  Deliveries were slumping even before the Great Recession, so whatever effect it might have had on its own was subsumed by the general trend.  The above graph is noisy, due to lack of seasonal adjustment.  The lowest row of dots over most of this graph represents January data.  Summer months cluster at the top of the array, as you would expect.  Those two lonely points in the lower right corner are October and November, 2011, the most recent data shown.</p>
+<p>It&#8217;s remarkable that gasoline deliveries are now substantially lower than at any time available in this data set. spanning about 30 years.  And I would never have guessed that anything like this was happening, based on my many trips on I-75 between Detroit and Toledo.  That route must not be a representative sample.</p>
+<p>In a comment on Karl&#8217;s post, I said that  I see all petroleum prices as <a href="http://www.angrybearblog.com/2012/01/in-previous-post-i-suggested-that.html">highly manipulated on the supply side</a>, with demand as a follower.  This data makes me think that the same is true of gasoline, in particular.  But it can&#8217;t be the entire story for the decline in consumption.  There is no clear connection between deliveries and <a href="http://www.gasbuddy.com/gb_retail_price_chart.aspx?city1=USA%20Average&#038;city2=&#038;city3=&#038;crude=n&#038;tme=72&#038;units=us">gasoline prices over the last several years.</a></p>
+<p>I don&#8217;t know where gasoline prices are going.  Karl might be right that they are going up.  But I don&#8217;t see any way that this can be due to a demand pull.</p>
+<p>Mish also has a couple of <a href="http://globaleconomicanalysis.blogspot.com/2012/02/huge-plunge-in-petroleum-and-gasoline.html">recent</a> <a href="http://globaleconomicanalysis.blogspot.com/2012/02/petroleum-3-month-rolling-average-turns.html">posts</a> relevant to this topic. </p>
+<p>H/T to commentor rjs at Karl&#8217;s post, who got me thinking about this, and provided a key link.</p>
+<p>Cross-posted at <a href="http://jazzbumpa.blogspot.com/2012/02/has-america-lost-its-drive.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/has-america-lost-its-drive.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mysteries of Airline Management</title>
+		<link>./../../2008/06/mysteries-of-airline-management.html</link>
+		<comments>./../../2008/06/mysteries-of-airline-management.html#respond</comments>
+		<pubDate>Wed, 18 Jun 2008 13:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[transportation]]></category>
+		<category><![CDATA[WTF]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/06/mysteries-of-airline-management.html</guid>
+		<description><![CDATA[NWA has joined the crowd of domestic airlines announcing (even more) capacity reductions, and their announcement contains this head-scratcher: As a result of the reduced capacity, Northwest is removing a combination of 14 B757s and Airbus narrowbody aircraft from the fleet. In addition, the DC-9 fleet will be reduced from 94 aircraft at the start [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>NWA has <a href="http://www.nytimes.com/2008/06/18/business/18air.html">joined the crowd</a> of domestic airlines announcing (even more) capacity reductions, and their <a href="http://www.nwa.com/corpinfo/newsc/2008/pr061720082015.html">announcement</a> contains this head-scratcher:<br />
+<blockquote>As a result of the reduced capacity, Northwest is removing a combination of 14 B757s and Airbus narrowbody aircraft from the fleet.</p>
+<p>In addition, the DC-9 fleet will be reduced from 94 aircraft at the start of 2008 to 61 aircraft (20 DC9-30s and 41 DC9-40s/50s) by year-end.  [Emphasis added.]</p></blockquote>
+<p>The DC-9s have been overdue for retirement for some time, so that part of the reduction makes sense enough.  Parking the Airbuses, not so much when there are DC-9s still to retire.  While they are a bit big compared to the DC-9-50 (to the tune of around 25 seats; the A319 is the direct substitute in terms of seating capacity), the <a href="http://www.transtats.bts.gov/Fields.asp?Table_ID=297">cost statistics</a> via NWA&#8217;s latest filings with the DOT indicate that the A320 is cheaper to fly than any DC-9 in flying operations expenses.  Significantly, fuel issuance is considerably less for the bigger and heavier A320 even versus the 105-seat DC-9-30 (937 gallons/hour vs. 1039-1215 [*]).  Plus, you know, there are more seats to sell (or offer someone an empty middle seat, remember those?).</p>
+<p>Maybe there&#8217;s something about the particular planes they want to park (that isn&#8217;t also something about the ancient DC-9s)?  Otherwise, it looks like someone has their head up a fleet planning model.</p>
+<p>[*] Note the decarbonization potential from replacing the relatively aged domestic airline fleet.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/06/mysteries-of-airline-management.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>U.S. Energy Policy Could Be Worse (No, Really!)</title>
+		<link>./../../2008/06/u-s-energy-policy-could-be-worse-no-really.html</link>
+		<comments>./../../2008/06/u-s-energy-policy-could-be-worse-no-really.html#respond</comments>
+		<pubDate>Tue, 17 Jun 2008 18:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[China]]></category>
+		<category><![CDATA[oil]]></category>
+		<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/06/u-s-energy-policy-could-be-worse-no-really.html</guid>
+		<description><![CDATA[by Tom Bozzo It could be China&#8217;s, for one. The FT reminds us that there are income and substitution effects: Even though GM does not officially sell Hummers in China, a booming grey market has developed. In Beijing alone, more than 15 car dealers are selling the tank-like vehicles to China’s army of new car-buyers. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo</p>
+<p><a href="http://www.ft.com/cms/s/0/f94b6be0-3c8a-11dd-b958-0000779fd2ac.html">It could be China&#8217;s</a>, for one.  The FT reminds us that there are income and substitution effects:<br />
+<blockquote>Even though GM does not officially sell Hummers in China, a booming grey market has developed. In Beijing alone, more than 15 car dealers are selling the tank-like vehicles to China’s army of new car-buyers.</p>
+<p>Hummers have become particularly popular among the wealthy urbanites who like to spend their holidays on long driving treks across the country.</p></blockquote>
+<p>The trend is abetted by the government, since like a moderately terrifying portion of the developing world, China subsidizes motor fuel at retail:<br />
+<blockquote>With demand for oil growing at 8 per cent a year, mostly met by imports, the country is the biggest contributor to the annual increase in oil consumption. Yet its petrol and diesel prices are as much as 40 per cent below US levels – themselves low by European standards.</p></blockquote>
+<p>Since China still has legions of the dirt-poor, and only the relatively well-to-do can afford cars (even if many of the new auto market participants aren&#8217;t rich by Western standards), this is a major case of upward redistribution.</p>
+<p>Meanwhile, for a cross-cultural brand presence (or is that penetration?) laugh:<br />
+<blockquote>Beijing Auto has a military-style SUV called the Trojan.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/06/u-s-energy-policy-could-be-worse-no-really.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Annals of Deregulation: Airlines &#8216;Stare Into the Abyss&#8217;</title>
+		<link>./../../2008/06/annals-of-deregulation-airlines-stare-into-the-abyss.html</link>
+		<comments>./../../2008/06/annals-of-deregulation-airlines-stare-into-the-abyss.html#respond</comments>
+		<pubDate>Thu, 05 Jun 2008 12:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/06/annals-of-deregulation-airlines-stare-into-the-abyss.html</guid>
+		<description><![CDATA[by Tom Bozzo What a difference a quarter makes, as the International Air Transport Association&#8217;s forecast of aggregate airline industry has taken a $6.8 billion or $10.6 billion swing to the red, depending on how optimistic you are (per the NYT): In March, the group forecast a profit of $4.5 billion&#8230; If the price of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Tom Bozzo</p>
+<p>What a difference a quarter makes, as the International Air Transport Association&#8217;s forecast of aggregate airline industry has taken a $6.8 billion or $10.6 billion swing to the red, depending on how optimistic you are (<a href="http://www.nytimes.com/2008/06/03/business/worldbusiness/03air.html">per the NYT</a>):<br />
+<blockquote>In March, the group forecast a profit of $4.5 billion&#8230;</p>
+<p>If the price of oil, now just below $130 a barrel, averages $107 over 2008, the industry will lose $2.3 billion for the year, the chief executive of the group, Giovanni Bisignani, said. Should it trade at $135 a barrel for the rest of the year, the industry will lose $6.1 billion, he added.</p></blockquote>
+<p>Mirroring the global industry&#8217;s situation, the U.S. Air Transport Association has evolved in the last month from <a href="http://www.smartskies.org/GetOnBoard/Sky+High+Fuel+Prices+Impact+Air+Travel+5_1_08.htm">campaigning for a halt</a> to additions to the Strategic Petroleum Reserve to calling for a release of <a href="https://ssl.capwiz.com/airlines/home/">100 million barrels of oil from the SPR</a> to learn those commodities speculators and try to get a break on fuel prices that are killing them.  In doing so, they&#8217;re joining the trucking industry — whose marginal firms have also been dropping like flies — in a desperate scramble for oil price relief by any means necessary.  (As a would-be member of the Pigou Club, this is where I&#8217;m actually a little happy that past bad policy does constrain present stupid policy actions).  Via <a href="http://www.trafficworld.com/newssection/government.asp?id=46509">TrafficWorld</a> (subscription maybe required):<br />
+<blockquote>&#8220;The airline industry as it is constituted today was not built to withstand oil prices at $125 a barrel, and certainly not when fuel expenses are coupled with a weak U.S. economy,&#8221; American Airlines Chairman and CEO Gerard Arpey said in a statement.</p></blockquote>
+<p>However, they shouldn&#8217;t hold their breath:<br />
+<blockquote>It seems unlikely the Energy Department will act on the SPR on its own.
+<p>Energy Department Secretary Samuel Bodman told a House panel last week tapping into the SPR would be a bad idea,  </p>
+<p>&#8220;It&#8217;s meant to be used in times of severe supply disruption,&#8221; said DOE spokeswoman Angela Hill. &#8220;We just don&#8217;t think it&#8217;s a good idea to pull from this national asset, this security mechanism that protects the American people.&#8221;</p>
+</blockquote>
+<p>This brings us to a dilemma of our partly privatized transportation system.  Assuming the airline industry&#8217;s fiery crash can be avoided, deregulated airlines at least could have been regarded as relatively effective at taking money from shareholders&#8217; pockets and corporate travel budgets and turning it into relatively cheap and fast intercity transportation for the middle class.</p>
+<p>But continuing a theme of the last few transportation-related posts, it&#8217;s yet another example of the U.S.&#8217;s glass-jawed infrastructure: plan A assumes cheap oil forever, and there is no plan B.  Or, to be a bit more precise, plan B requires large investments with long lead-time, and plan A can become non-operational fast enough that people ex post want plan B yesterday.  Long-distance passenger travel may be some notches short of food or power distribution among essential services, but internal mobility is still important.</p>
+<p>The sad thing is that <a href="http://www.portfolio.com/views/blogs/market-movers/2008/05/25/ben-stein-watch-may-25-2008?rss=true">Ben Stein is not alone</a> in mistaking plan A-prime for a plan B &#8216;moon shot.&#8217;
+</p>
+<blockquote><p>&#8220;We should drill for oil and natural gas anywhere we got oil and natural gas &#8211; except maybe cemeteries,&#8221; said Rep. Ted Poe, R-Texas. &#8220;And we can slant drill into cemeteries.&#8221; </p>
+<p>[&#8230;]</p>
+<p>&#8220;Doing anything,&#8221; said the ATA&#8217;s May, &#8220;is better then what they are doing now &#8211; which is nothing.&#8221;</p>
+</blockquote>
+<p>With leadership like that&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/06/annals-of-deregulation-airlines-stare-into-the-abyss.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The End of the Affair?</title>
+		<link>./../../2008/06/the-end-of-the-affair.html</link>
+		<comments>./../../2008/06/the-end-of-the-affair.html#respond</comments>
+		<pubDate>Tue, 03 Jun 2008 20:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Pigou club]]></category>
+		<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/06/the-end-of-the-affair.html</guid>
+		<description><![CDATA[In cross-price elasticity of demand news, a story on the AP wire notes that, for the first time in ages, Toyota&#8217;s Camry and Corolla cars both outsold Ford&#8217;s full-size F-150 pickup truck. [*] It&#8217;s arguably worse even than that for Ford&#8217;s truck business, since neither the Corolla (52,826 units sold) nor the Camry (51,291) was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In cross-price elasticity of demand news, a <a href="http://news.yahoo.com/s/ap/20080603/ap_on_bi_ge/auto_sales">story on the AP wire</a> notes that, for the first time in ages, Toyota&#8217;s Camry and Corolla cars both outsold Ford&#8217;s full-size F-150 pickup truck. [*]</p>
+<p>It&#8217;s arguably worse even than that for Ford&#8217;s truck business, since neither the Corolla (<a href="http://www.toyota.com/about/news/corporate/2008/06/03-1-sales.html">52,826 units sold</a>) nor the Camry (51,291) was the top-selling vehicle in the U.S. last month; that award goes to the Honda Civic (<a href="http://www.hondanews.com/categories/1097/releases/4528">53,299</a>).  As Honda also sold 43,728 Accords, that bumps the mighty pickup into 5th and 6th place for Ford and Chevy respectively.</p>
+<p>In fact, poring over the gruesome sales numbers from the Domestic Three, it looks like $4 gasoline is enough to undermine the market for larger &#8216;crossover&#8217; SUVs, without which measured truck sales would be even worse.  (Crossovers are trucks partly for regulatory reasons and partly for marketing reasons; the features that let them pass for regulatory trucks put them at a considerable fuel-economy disadvantage compared to the few proper wagons that the auto industry deigns to sell in the U.S.) No surprise, then, that there&#8217;s quite a bit of belated scrambling to &#8220;<a href="http://media.gm.com/servlet/GatewayServlet?target=http://image.emerald.gm.com/gmnews/viewmonthlyreleasedetail.do?domain=74&#038;docid=46161">build on car momentum</a>&#8221; in industry-speak.</p>
+<p>And as many of you have seen, that&#8217;s hitting <a href="http://news.yahoo.com/s/ap/20080603/ap_on_bi_ge/gm_factories">the Domestic Three&#8217;s manufacturing employment</a>:<br />
+<blockquote>General Motors is closing four truck and SUV plants in the U.S., Canada and Mexico as surging fuel prices is hastening a dramatic shift to smaller vehicles.</p>
+<p>CEO Rick Wagoner said Tuesday before the automaker&#8217;s annual meeting the plants to be closed are in Oshawa, Ontario; Moraine, Ohio; Janesville, Wis.; and Toluca, Mexico. He also said the Hummer brand may be discontinued.</p></blockquote>
+<p>Janesville is not far from Madison, and it was considered something of a coup at the time when Janesville retained its lines for GM&#8217;s large pickups and SUVs.  However, the truck market had already peaked by the time the current models had reached production a couple years ago.  Unfortunately for the 2000-odd GM employees (and a number of local employees of GM suppliers), GM&#8217;s product planners don&#8217;t have anything more marketable for them to build there.</p>
+<p>[*] The story was edited to reflect later-arriving sales figures.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/06/the-end-of-the-affair.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>(Albufeira, Portugal) Congestion Pricing at Work?</title>
+		<link>./../../2008/05/albufeira-portugal-congestion-pricing-at-work.html</link>
+		<comments>./../../2008/05/albufeira-portugal-congestion-pricing-at-work.html#respond</comments>
+		<pubDate>Wed, 28 May 2008 10:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Pigou club]]></category>
+		<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/albufeira-portugal-congestion-pricing-at-work.html</guid>
+		<description><![CDATA[Yesterday afternoon, a trio of fellow Conference on Postal and Delivery Economics attendees and I were marveling at the emptiness of the A2 motorway connecting the southern exburbs of Lisbon and the Algarve region. Certainly, there is not a whole lot of stuff en route, but you could say the same thing about a lot [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday afternoon, a trio of fellow <a href="http://crri.rutgers.edu/references/post/index.html">Conference on Postal and Delivery Economics</a> attendees and I were marveling at the emptiness of the A2 motorway connecting the southern exburbs of Lisbon and the Algarve region.  Certainly, there is not a whole lot of stuff en route, but you could say the same thing about a lot of points 250 km apart along the Interstate highway system west of the Mississippi River; those are not that lightly-traveled.</p>
+<p>There are income and substitution effects to consider: Portugal&#8217;s per-capita GDP is <a href="http://en.wikipedia.org/wiki/Economy_of_the_European_Union#Economic_variation">75% of the EU average</a> (or less than 2/3ds that of Rich Europe), and fuel was dear at around €1.50/liter — though the preponderance of small diesel-powered cars implies a much smaller difference in per-km costs versus the U.S. than you&#8217;d get from the pump price.  But one of the bigger hits was the toll of almost €19.  A 150-km ride on the Pennsylvania Turnpike a couple weeks ago for another conference was $4; the Illinois Northwest Tollway, highly congested in the Chicago suburbs and exurbs, only hits you up for $2 between the Wisconsin state line and the toll-free city Chicago expressways if you use the system enough to shell out for an I-Pass transponder (they price-discriminate by charging twice the I-Pass toll for cash, which for all I know may be going on here, too).</p>
+<p>This makes me think that the main concern for the privatization of tollways is less the outsourcing of toll-raising dirty work to the private sector so much as whether the states are adequately compensated for such right to raise the tolls as they sell. (*)</p>
+<p>* To possibly forestall certain lines of comments, I don&#8217;t actually support government eating-of-capital as a politically expedient alternative to raising other taxes.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/albufeira-portugal-congestion-pricing-at-work.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tomorrow&#8217;s Misguided Infrastructure Investments Today</title>
+		<link>./../../2008/05/tomorrows-misguided-infrastructure-investments-today.html</link>
+		<comments>./../../2008/05/tomorrows-misguided-infrastructure-investments-today.html#respond</comments>
+		<pubDate>Wed, 21 May 2008 11:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/tomorrows-misguided-infrastructure-investments-today.html</guid>
+		<description><![CDATA[Micheline Maynard&#8217;s story today on airline route cutbacks leads with small cities losing air service entirely, but arguably the more important information is in the accompanying table. The combined flight cutbacks at the 10 largest airports losing service (~1,500 monthly flights) add up to just about half the reduction in flights at Chicago O&#8217;Hare alone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Micheline Maynard&#8217;s <a href="http://www.nytimes.com/2008/05/21/business/21air.html">story today on airline route cutbacks</a> leads with small cities losing air service entirely, but arguably the more important information is in the <a href="http://www.nytimes.com/imagepages/2008/05/21/business/21air.graphix.ready.html">accompanying table</a>.  The combined flight cutbacks at the 10 largest airports losing service (~1,500 monthly flights) add up to just about half the reduction in flights at Chicago O&#8217;Hare alone between January &#8217;07 and January &#8217;08.</p>
+<p>Now, blowing $61 million on an enlarged runway at Hagerstown, Maryland is undoubtedly a big deal for Hagerstown.  At ORD, they&#8217;re in the midst of blowing as much as $20 billion on a program to rearrange the airport in the modern fashion with multiple well-spaced parallel runways.  Some of this may be justifiable in reducing operational issues in bad weather for the inframarginal flights, but a major justification was accommodating anticipated essentially unlimited growth in flights that someone projected out of past trend under the implicit assumption that cheap aviation, like cheap motoring, would go on forever.</p>
+<p>Even half of that $20 billion would amount to an enormous investment in reasonably high-speed rail — Stephen Karlson of <a href="http://coldspringshops.blogspot.com/">Cold Spring Shops</a> argues persuasively that 300 km/h electrified bullet trains shouldn&#8217;t be made the enemy of very useful service capable of being implemented without such large investments in fixed capital (<a href="http://coldspringshops.blogspot.com/2008_05_01_archive.html#7081157696457523662">see here</a> for some links to his archives).  Since short-distance feeder flights congest big airports just about as much as long-distance jumbo jet services that may remain the efficient way to get people across oceans, you could theoretically de-congest hub airports to some degree with a well-planned investment in 180 km/h rail that would be a bargain in comparison to airport megaprojects, and provide more places with real modal choice in ground transportation essentially as a side-effect!</p>
+<p>The catch is that doing so requires political will, both for the money and to deal with the need to make some people along the routes unhappy, and advance planning.  (E.g. it would take at least a couple years to extend the successful 130 km/h service between Milwaukee and Chicago the eighty miles or so to Madison even if the project were amply funded.)  Perfect foresight may be hard to come by, but right now it doesn&#8217;t take genius and a time machine to see that people are going to start wanting this stuff yesterday.</p>
+<p>Along those lines, the presidential candidates are all somewhat disappointing, as preserving cheap motoring forms the bulk of their transportation policy positions.  However, members of the Pigou Club might note that the Obama campaign did at least bother to drop a paragraph in acknowledge that other transportation modes exist, whereas the <a href="http://www.johnmccain.com/Informing/Issues/7366faf9-d504-4abc-a889-9c08d601d8ee.htm">space program</a> is more important to McCain than Amtrak.  (Recall that McCain recently picked up some Common Touch points from the press corps for riding the Acela Express instead of his wife&#8217;s jet, but is a long-standing opponent of Amtrak funding.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/tomorrows-misguided-infrastructure-investments-today.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,976 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Angry Bear &raquo; CGI</title>
+<link href='./../favicon.ico' rel='icon' type='image/vnd.microsoft.icon'/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >  
+<meta name="generator" content="WordPress 4.6.1" >
+<link rel="stylesheet" href="./../wp-content/themes/angrybear/style.css" media="screen" >
+<link rel="stylesheet" href="./../wp-content/themes/angrybear/css/datepicker.css" media="screen" >
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="./../feed/index.html" >
+<link rel="alternate" type="text/xml" title="RSS .92" href="./../feed/rss/index.html" >
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="./../feed/atom/index.html" >
+<link rel="pingback" href="./../xmlrpc.php" >
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+    	<link rel='archives' title='March 2013' href='./../2013/03/index.html' />
+	<link rel='archives' title='February 2013' href='./../2013/02/index.html' />
+	<link rel='archives' title='January 2013' href='./../2013/01/index.html' />
+	<link rel='archives' title='December 2012' href='./../2012/12/index.html' />
+	<link rel='archives' title='November 2012' href='./../2012/11/index.html' />
+	<link rel='archives' title='October 2012' href='./../2012/10/index.html' />
+	<link rel='archives' title='September 2012' href='./../2012/09/index.html' />
+	<link rel='archives' title='August 2012' href='./../2012/08/index.html' />
+	<link rel='archives' title='July 2012' href='./../2012/07/index.html' />
+	<link rel='archives' title='June 2012' href='./../2012/06/index.html' />
+	<link rel='archives' title='May 2012' href='./../2012/05/index.html' />
+	<link rel='archives' title='April 2012' href='./../2012/04/index.html' />
+	<link rel='archives' title='March 2012' href='./../2012/03/index.html' />
+	<link rel='archives' title='February 2012' href='./../2012/02/index.html' />
+	<link rel='archives' title='January 2012' href='./../2012/01/index.html' />
+	<link rel='archives' title='December 2011' href='./../2011/12/index.html' />
+	<link rel='archives' title='November 2011' href='./../2011/11/index.html' />
+	<link rel='archives' title='October 2011' href='./../2011/10/index.html' />
+	<link rel='archives' title='September 2011' href='./../2011/09/index.html' />
+	<link rel='archives' title='August 2011' href='./../2011/08/index.html' />
+	<link rel='archives' title='July 2011' href='./../2011/07/index.html' />
+	<link rel='archives' title='June 2011' href='./../2011/06/index.html' />
+	<link rel='archives' title='May 2011' href='./../2011/05/index.html' />
+	<link rel='archives' title='April 2011' href='./../2011/04/index.html' />
+	<link rel='archives' title='March 2011' href='./../2011/03/index.html' />
+	<link rel='archives' title='February 2011' href='./../2011/02/index.html' />
+	<link rel='archives' title='January 2011' href='./../2011/01/index.html' />
+	<link rel='archives' title='December 2010' href='./../2010/12/index.html' />
+	<link rel='archives' title='November 2010' href='./../2010/11/index.html' />
+	<link rel='archives' title='October 2010' href='./../2010/10/index.html' />
+	<link rel='archives' title='September 2010' href='./../2010/09/index.html' />
+	<link rel='archives' title='August 2010' href='./../2010/08/index.html' />
+	<link rel='archives' title='July 2010' href='./../2010/07/index.html' />
+	<link rel='archives' title='June 2010' href='./../2010/06/index.html' />
+	<link rel='archives' title='May 2010' href='./../2010/05/index.html' />
+	<link rel='archives' title='April 2010' href='./../2010/04/index.html' />
+	<link rel='archives' title='March 2010' href='./../2010/03/index.html' />
+	<link rel='archives' title='February 2010' href='./../2010/02/index.html' />
+	<link rel='archives' title='January 2010' href='./../2010/01/index.html' />
+	<link rel='archives' title='December 2009' href='./../2009/12/index.html' />
+	<link rel='archives' title='November 2009' href='./../2009/11/index.html' />
+	<link rel='archives' title='October 2009' href='./../2009/10/index.html' />
+	<link rel='archives' title='September 2009' href='./../2009/09/index.html' />
+	<link rel='archives' title='August 2009' href='./../2009/08/index.html' />
+	<link rel='archives' title='July 2009' href='./../2009/07/index.html' />
+	<link rel='archives' title='June 2009' href='./../2009/06/index.html' />
+	<link rel='archives' title='May 2009' href='./../2009/05/index.html' />
+	<link rel='archives' title='April 2009' href='./../2009/04/index.html' />
+	<link rel='archives' title='March 2009' href='./../2009/03/index.html' />
+	<link rel='archives' title='February 2009' href='./../2009/02/index.html' />
+	<link rel='archives' title='January 2009' href='./../2009/01/index.html' />
+	<link rel='archives' title='December 2008' href='./../2008/12/index.html' />
+	<link rel='archives' title='November 2008' href='./../2008/11/index.html' />
+	<link rel='archives' title='October 2008' href='./../2008/10/index.html' />
+	<link rel='archives' title='September 2008' href='./../2008/09/index.html' />
+	<link rel='archives' title='August 2008' href='./../2008/08/index.html' />
+	<link rel='archives' title='July 2008' href='./../2008/07/index.html' />
+	<link rel='archives' title='June 2008' href='./../2008/06/index.html' />
+	<link rel='archives' title='May 2008' href='./../2008/05/index.html' />
+	<link rel='archives' title='April 2008' href='./../2008/04/index.html' />
+	<link rel='archives' title='March 2008' href='./../2008/03/index.html' />
+	<link rel='archives' title='February 2008' href='./../2008/02/index.html' />
+	<link rel='archives' title='January 2008' href='./../2008/01/index.html' />
+	<link rel='archives' title='December 2007' href='./../2007/12/index.html' />
+	<link rel='archives' title='November 2007' href='./../2007/11/index.html' />
+	<link rel='archives' title='October 2007' href='./../2007/10/index.html' />
+	<link rel='archives' title='September 2007' href='./../2007/09/index.html' />
+	<link rel='archives' title='August 2007' href='./../2007/08/index.html' />
+	<link rel='archives' title='July 2007' href='./../2007/07/index.html' />
+	<link rel='archives' title='June 2007' href='./../2007/06/index.html' />
+	<link rel='archives' title='May 2007' href='./../2007/05/index.html' />
+	<link rel='archives' title='April 2007' href='./../2007/04/index.html' />
+	<link rel='archives' title='March 2007' href='./../2007/03/index.html' />
+	<link rel='archives' title='February 2007' href='./../2007/02/index.html' />
+	<link rel='archives' title='January 2007' href='./../2007/01/index.html' />
+	<link rel='archives' title='December 2006' href='./../2006/12/index.html' />
+	<link rel='archives' title='November 2006' href='./../2006/11/index.html' />
+	<link rel='archives' title='October 2006' href='./../2006/10/index.html' />
+	<link rel='archives' title='September 2006' href='./../2006/09/index.html' />
+	<link rel='archives' title='August 2006' href='./../2006/08/index.html' />
+	<link rel='archives' title='July 2006' href='./../2006/07/index.html' />
+	<link rel='archives' title='June 2006' href='./../2006/06/index.html' />
+	<link rel='archives' title='May 2006' href='./../2006/05/index.html' />
+	<link rel='archives' title='April 2006' href='./../2006/04/index.html' />
+	<link rel='archives' title='March 2006' href='./../2006/03/index.html' />
+	<link rel='archives' title='February 2006' href='./../2006/02/index.html' />
+	<link rel='archives' title='January 2006' href='./../2006/01/index.html' />
+	<link rel='archives' title='December 2005' href='./../2005/12/index.html' />
+	<link rel='archives' title='November 2005' href='./../2005/11/index.html' />
+	<link rel='archives' title='October 2005' href='./../2005/10/index.html' />
+	<link rel='archives' title='September 2005' href='./../2005/09/index.html' />
+	<link rel='archives' title='August 2005' href='./../2005/08/index.html' />
+	<link rel='archives' title='July 2005' href='./../2005/07/index.html' />
+	<link rel='archives' title='June 2005' href='./../2005/06/index.html' />
+	<link rel='archives' title='May 2005' href='./../2005/05/index.html' />
+	<link rel='archives' title='April 2005' href='./../2005/04/index.html' />
+	<link rel='archives' title='March 2005' href='./../2005/03/index.html' />
+	<link rel='archives' title='February 2005' href='./../2005/02/index.html' />
+	<link rel='archives' title='January 2005' href='./../2005/01/index.html' />
+	<link rel='archives' title='December 2004' href='./../2004/12/index.html' />
+	<link rel='archives' title='November 2004' href='./../2004/11/index.html' />
+	<link rel='archives' title='October 2004' href='./../2004/10/index.html' />
+	<link rel='archives' title='September 2004' href='./../2004/09/index.html' />
+	<link rel='archives' title='August 2004' href='./../2004/08/index.html' />
+	<link rel='archives' title='July 2004' href='./../2004/07/index.html' />
+	<link rel='archives' title='June 2004' href='./../2004/06/index.html' />
+	<link rel='archives' title='May 2004' href='./../2004/05/index.html' />
+	<link rel='archives' title='April 2004' href='./../2004/04/index.html' />
+	<link rel='archives' title='March 2004' href='./../2004/03/index.html' />
+	<link rel='archives' title='February 2004' href='./../2004/02/index.html' />
+	<link rel='archives' title='January 2004' href='./../2004/01/index.html' />
+	<link rel='archives' title='December 2003' href='./../2003/12/index.html' />
+	<link rel='archives' title='November 2003' href='./../2003/11/index.html' />
+	<link rel='archives' title='October 2003' href='./../2003/10/index.html' />
+	<link rel='archives' title='September 2003' href='./../2003/09/index.html' />
+	<link rel='archives' title='August 2003' href='./../2003/08/index.html' />
+	<link rel='archives' title='July 2003' href='./../2003/07/index.html' />
+	<link rel='archives' title='June 2003' href='./../2003/06/index.html' />
+	<link rel='archives' title='May 2003' href='./../2003/05/index.html' />
+	<link rel='archives' title='April 2003' href='./../2003/04/index.html' />
+	<link rel='archives' title='March 2003' href='./../2003/03/index.html' />
+	<link rel='archives' title='February 2003' href='./../2003/02/index.html' />
+        <style type='text/css'>
+		.stpulldown-gradient
+		{
+			background: #E1E1E1;
+			background: -moz-linear-gradient(top, #E1E1E1 0%, #A7A7A7 100%); /* firefox */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E1E1E1), color-stop(100%,#A7A7A7)); /* webkit */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E1E1E1', endColorstr='#A7A7A7',GradientType=0 ); /* ie */
+			background: -o-linear-gradient(top, #E1E1E1 0%,#A7A7A7 100%); /* opera */
+			color: #636363;
+		}
+		#stpulldown .stpulldown-logo
+		{
+			height: 40px;
+			width: 300px;
+			margin-left: 20px;
+			margin-top: 5px;
+			background:url('') no-repeat;
+		}
+</style>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Angry Bear &raquo; CGI Category Feed" href="./feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/angrybear.dev04.m3v.us\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fb_data_style-css'  href='./../wp-content/plugins/feedburner-form/control/fbstyle.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='./../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.72b9a125-d47c-4213-83ab-1efbf37576ed'});var st_type='wordpress3.5';</script></head>
+<body>
+    <div id="main">
+        <div id="subbar">
+            <div class="main">
+                <nav>
+                    <ul id="menu-page-list" class="menu"><li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="./../about/index.html">About</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="./../contact/index.html">Contact</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="./../editorial/index.html">Editorial</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="./../policies/index.html">Policies</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="./../archives/index.html">Archives</a></li>
+</ul>                </nav>
+                <div id="top-links"> <a href="http://digg.com/" target="_blank" id="digg"></a><a href="https://twitter.com/angrybearecon" target="_blank" id="twitter"></a><a href="http://feeds.feedburner.com/Hzoh" target="_blank" id="rss"></a><a href="http://facebook.com/angrybear.econ" target="_blank" id="facebook"></a></div>
+            </div>
+        </div>
+        <header>
+            <div class="main">
+                <a class="logo" href="./../index.html" title="Angry Bear" rel="home"><img src="./../wp-content/uploads/2012/09/logo.png" border="0" alt="Angry Bear" title="Angry Bear" ></a>
+                <div id="slogan">Slightly left of center economic commentary  on news, politics and the economy.</div>
+                <div class="clear"></div>
+                <nav>
+                    <ul id="menu-header-menu" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20"><a href="./usglobal-economics/index.html">US/Global Economics</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21"><a href="./taxesregulation/index.html">Taxes/regulation</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="./healthcare/index.html">Healthcare</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="./law/index.html">Law</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="./politics/index.html">Politics</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="./hot-topics/index.html">Hot Topics</a></li>
+</ul>                </nav>
+                <div id="search">
+                    <form method="get" id="searchform" action="./../index.html">
+<div>
+    <input 
+        type="text" 
+        value="search" 
+        name="s" 
+        id="s" 
+        size="15" 
+        onclick="if( this.value == 'search' ) { this.value = '' }" 
+        onfocus="if( this.value == 'search' ) { this.value = '' }" 
+        onblur="if( this.value == '' ) { this.value = 'search' }"
+    >
+    <input type="submit" id="searchsubmit" value="" >
+</div>
+</form>                </div>
+            </div>
+        </header>
+        <div id="banner-container">
+            <div id="wide-banner">
+                <script src='http://ads.investingchannel.com/adtags/angrybear/ros/728x90.js' type='text/javascript' charset='utf-8'></script>
+            </div>
+            <div id="text-banner">
+                <img src="http://placehold.it/188x90">            </div>
+        </div>
+    <section id="main">
+        <section>
+                                                 <article>
+                            <h2><a href="./../2011/09/cgi2011-womens-rights-whats-in-it-for-men.html" title="CGI2011: Women’s Rights: What’s In It for Men?">CGI2011: Women’s Rights: What’s In It for Men?</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 22, 2011 11:07 am<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./gender-equality/index.html" class="post-category-1598" title="gender equality"><div class="color-box"></div>gender equality</a>                                                                     </div>
+                            <div class="content">
+                                <p>As regular—well, obsessive&#8211;readers know, I’m stealing a title from the sainthood-destined <a href="http://www.stanford.edu/~tertilt/" target="_blank">Michèle Tertilt</a>.  But it seems appropriate—and a better title than “Engaging Boys and Men as Allies for Long-term Change”—for today’s Plenary hosted by Former Chilean President Michelle Bachelet.</p>
+<p>We got a taste of this yesterday, on the panel hosted by Robin Roberts (now a host at <em>Good Morning, America</em>, apparently; I stopped paying attention to her career after she left ESPN, around the time I stopped paying attention to ESPN), when Dikembe Mutombo declared that having daughters had changed his worldview, no to mention a CGI member from the floor who reminded anyone who had forgotten that the doors that opened for Roberts herself were largely <a href="http://livestre.am/12WnV" target="_blank">driven by the opportunities created by Title IX</a>, If you treat half of the population as if it only consume and can never produce, you lose opportunities.  When you stop doing it, opportunities open and the pie gets larger.</p>
+<p>Gary Thomas Barker, the International Director of <em><a href="http://www.promundo.org.br/" target="_blank">Instituto Promundo</a></em>, notes that two-thirds of the men in the world don’t abuse women, and that we need to move closer to 100%, since abuse reduces chances of economic development (no matter <a href="http://en.wikipedia.org/wiki/United_States_v._Morrison" target="_blank">how self-delusional the U.S. Supreme Court may have been</a>), even if there were an excuse for it.</p>
+<p><strong>UPDATE</strong>: Market share corrected in the following paragraph; with thanks to Maggie Edinger at Hill &#038; Knowlton for the correction and a link to <a href="http://outlookafghanistan.net/news?post_id=312">this Reuters article discussing the company&#8217;s plans in Afghanistan for this year</a>.</p>
+<p>Karim Khoja, Chief Executive Officer of mobile phone provider Roshan runs the largest telephone company in Afghanistan—with <s>6%</s> 35% of the market—and notes that 55% of the people in Afghanistan (his potential customers) are women. But Roshan knew when going into the country that the <em>financial</em> decisions for the household are controlled by the men, so direct targeting of women would not work—until very recently.  The initial pitch was “know where your wife is.”  Three years later, there are women buying their own mobiles—with, presumably, the full knowledge and blessing of men who have seen and understood the advantage to themselves of having them doing so. <a name="more"></a>
+<p>Khoja also noted that, while women spend about 20% less than men on their mobile services, they are more loyal to the company—and are, therefore, the more profitable customers to have.</p>
+<p>Most interesting is Khoja explaining the hoops the company had to go through to <em>hire </em>their first woman: direct family discussion, including driving her to and from the office, ensuring an appropriately courteous work atmosphere (White House employees need not apply), and that it took nearly a year before the company reached critical mass.  At this point, he essentially had noted that he was discussing a chicken-egg cycle where women could not get jobs or start businesses without having access to funding, and couldn’t get access to funding without getting a job or starting a business.</p>
+<p>Muhammad Yunus of the Yunus Center then took over, explaining the details of the early days of Grameen: how their making loans to worthy business ideas—which largely came from and were to women—led to having to explain to men the advantages that come from having a two-income family.  This was followed by discussions with the women, who were then alert to (and, of course, able to address) the issues raised by their husbands. The initial result is that everyone became comfortable with the new situation; the collateral effect—which should be to no one’s great surprise—was that many of the women’s businesses improved even more after familial buy-in was achieved.  By the third year, the villages have a strong base of working women’s businesses and the model expands itself.  Generations of progress were made in the space of a few years, and Yunus and Grameen have never had to look back from that model.</p>
+<p>President Bachelet notes that she probably would not have been President if she had not first been Minister of Defense—not, conspicuously, Minister of Health.</p>
+<p>Muhammad Yunus notes that we have to move to the next step: it’s no longer just about making money, it’s also about problem-solving. “Social business” produces more loyal employees and a better chance at successful innovation. From the floor, a leader of Coca-Cola notes that they have been expanding their small business efforts with female leaders, which has given them better work.  (Also notes that the sponsored a “water-harvesting project” for every goal scored in the 2010 World Cup—which resulted in 520 projects being initiated.)</p>
+<p>Another commenter from the floor notes that, fifteen years ago, 75% of the new AIDS cases in Africa were girls under the age of fifteen. It’s difficult to educate, let alone turn into a businesswoman, someone who is dying and/or pregnant.</p>
+<p>Republic of Rwanda President Paul Kagame closed by noting that this entire panel has been “common sense.”  The scariest part of it is that these things keep needing to be said.</p>
+                                    <div class="continue">
+                                        <a href="./../2011/09/cgi2011-womens-rights-whats-in-it-for-men.html#more-1853">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2011/09/cgi2011-womens-rights-whats-in-it-for-men.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2011/09/cgi2011-womens-rights-whats-in-it-for-men.html&title=CGI2011: Women’s Rights: What’s In It for Men?" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2011/09/cgi2011-womens-rights-whats-in-it-for-men.html&t=CGI2011: Women’s Rights: What’s In It for Men?" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=CGI2011: Women’s Rights: What’s In It for Men? - .?p=1853" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='CGI2011: Women’s Rights: What’s In It for Men?' st_url='./2011/09/cgi2011-womens-rights-whats-in-it-for-men.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                    <div id="under-first-post-commercial">
+                                <iframe src="http://cdn.investingchannel.com/quote_widget_4.html?s=angrybear" scrolling="no" width="607" height="70" frameborder="0"></iframe>
+                            </div>
+                                                                    <article>
+                            <h2><a href="./../2011/09/cgi-2011-plenary-on-climate-change-agw.html" title="CGI 2011 – Plenary on Climate Change (AGW)">CGI 2011 – Plenary on Climate Change (AGW)</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 20, 2011 10:15 am<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./agw/index.html" class="post-category-1603" title="AGW"><div class="color-box"></div>AGW</a>                                                                      
+                                                                            <a href="./alternative-energy-investment/index.html" class="post-category-1399" title="alternative energy investment"><div class="color-box"></div>alternative energy investment</a>                                                                      
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-growth/index.html" class="post-category-247" title="economic growth"><div class="color-box"></div>economic growth</a>                                                                      
+                                                                            <a href="./efficiency/index.html" class="post-category-1604" title="efficiency"><div class="color-box"></div>efficiency</a>                                                                     </div>
+                            <div class="content">
+                                <p>President Clinton introduces the panelists, noting that there is a UN discussion of Libya scheduled for 10:00 a.m. and that they will have to leave quickly.  First up is Mexican President Felipe Calderón Hinojosa, about whom President Clinton is enthusiastic.
+<p>Calderon is less vibrant, but presents an impressive array of detail on Mexico’s unilateral reduction in carbon usage, noting that 26% of the energy used in the country now is from renewable sources.  Part of this has been accomplished by the simple things: a concerted consumer campaign toward replacing old refrigerators and light bulbs with modern ones.</p>
+<p>President Calderon notes that much of the problem in developing countries has originated with cutting down the extant trees.  The Cancun meetings resulted in a new international agreement.  Today, we have a new challenge: continuing the Kyoto Protocol.  “Most important agreement and most important instrument”—saying this in front of President Clinton—needs leadership and mobilization of public opinion.</p>
+<p> <a name="more"></a>
+<p>President Clinton notes that the countries that have been putting major effort into climate change have <em>outperformed</em> the United States in jobs, growth, and reducing income inequality.</p>
+<p>President Jacob Zuma, President of the Republic of South Africa, notes that “we all agree that climate change is a danger” and that “we need to work together to address the challenges.”  The people on the ground—the voters—see this as a direct matter of life and death; it is the leadership that is needed in Durban.</p>
+<p>Jens Stoltenberg, the Prime Minister of the Kingdom of Norway, says that he would not have believed you if you had told him ten years ago that emissions trading in Europe would be possible. Need to have legal agreements, not just a Durban-style reiteration of Kyoto and Copenhagen. (Those of us who were talking about trading energy and weather derivatives twenty years ago probably should be less amazed at this statement than I am.)</p>
+<p>President Clinton asks how to work toward energy use reduction in developing countries. The Prime Minister of Grenada, Tilman Thomas, addresses this, mostly by noting a “moral responsibility” to the people of his country. President Clinton notes, repeating what he said last night, that of all of the Caribbean countries, only Trinidad produces any of the carbon-based energies—all other countries have to import oil and natural gas at great cost.  If there were financing available, could expand alternative sources: solar, hydro, and sugar-ethanol, for instance.</p>
+<p>The Prime Minister of Slovenia, Danilo Türk, notes that there is Global Governance taking place without global government. Carbon tax would be good because it makes costs predictable. “Very fundamental long-term development challenge,” need to find the “appropriate public funds for transformative technologies now,” following the German solar precedent.</p>
+<p>(President Clinton noted that the sun shines in Germany “as much as it does in London.”  I take this to mean that it is not a bright, cheerful country.)</p>
+<p>Bangladeshi Prime Minister Hasina echoes the sentiment expressed by several others:  there needs to be a <em>legal requirement.</em> She notes that 20% of the land of her country will be eliminated as the current trend runs.  President Clinton adds The Maldives and even Afghanistan to the list of places that will have to do more and more with less and less (land and resources).</p>
+<p>Prime Minister of Mali Cissé Mariam Kaïdama Sidibé notes that one of the biggest problems facing her country is “brain drain” to the United States and Europe. </p>
+<p>European Commission President José Manuel D. Barroso notes that many countries have taken individual steps, but that much more is needed to reach the 2 degrees C target—currently on target for only about 60% of that.  “Transparency is key.” Have two very important alliances: science, which is on our side, and public opinion, which should be.</p>
+<p>President Calderon has been leading in reforestation; planted about half (500MM) of the trees U.N. Secretary General requested—and collaterally made Mexico City a better place to live.  Tells a story about Tanzania, in which a village grew trees for carbon credits: and gave back more than half of that to get more people in the village a better life.  (I suspect this is an example of <a href="http://underbelly-buce.blogspot.com/2011/09/graebers-debt.html">what David Graeber is talking about when he notes that communal obligation has always preceded—and generally superseded—economic theory</a>.)</p>
+<p>President Clinton also notes that the U.S. Senate is now only 50% “global warming deniers.”  He apologizes for that, but notes that it is progress from the 95-0 vote against the Kyoto Treaty.</p>
+<p>I believe that is also the only time the phrase “global warming” was used in the entire discussion.  It was almost as if people were afraid to note that the changes are of our own doing, not just the Earth getting mad.</p>
+                                    <div class="continue">
+                                        <a href="./../2011/09/cgi-2011-plenary-on-climate-change-agw.html#more-1862">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2011/09/cgi-2011-plenary-on-climate-change-agw.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2011/09/cgi-2011-plenary-on-climate-change-agw.html&title=CGI 2011 – Plenary on Climate Change (AGW)" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2011/09/cgi-2011-plenary-on-climate-change-agw.html&t=CGI 2011 – Plenary on Climate Change (AGW)" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=CGI 2011 – Plenary on Climate Change (AGW) - .?p=1862" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='CGI 2011 – Plenary on Climate Change (AGW)' st_url='./2011/09/cgi-2011-plenary-on-climate-change-agw.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <article>
+                            <h2><a href="./../2011/09/cgi-2011-haiti-development-workshop.html" title="CGI 2011: Haiti Development Workshop">CGI 2011: Haiti Development Workshop</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 19, 2011 7:12 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./haiti/index.html" class="post-category-1605" title="Haiti"><div class="color-box"></div>Haiti</a>                                                                     </div>
+                            <div class="content">
+                                <p>[updates and edits, especially in the 4th-6th grafs]</p>
+<p>&#8220;The winner&#8221; in Haitian development created 12,000 jobs in the garment industry in the past eight years in Haiti.  Seems as if all of the participants today will be garment manufacturers, though WJC notes that companies such as Coca-Cola and Newmont Mining are also considering investment.</p>
+<p>When I sent an email out indicating that I was thinking of attending, the best response I got to questions you would like to ask was &#8220;Is Haiti doomed forever to be the developed world’s sweat shop? Will it ever be allowed to have an agricultural economy of its own?&#8221;</p>
+<p>Only 43% of the aid pledged after the earthquake nearly two years ago has been disbursed today. (Take that, &#8220;shovel-ready&#8221; complainers!) WJC: “Haiti will not have a sustainable economy unless there are new investments, new jobs, and new business.”  President Clinton describes the disaster as “best opportunity in my lifetime” for the country.” (I’m guessing this is in the same way as education privatization has worked in New Orleans since Katrina.)  Most of the donor monies have not gone through the local institutions, but President Martelly is determined to have local government integrated in the discussions.  <br /><a name="more"></a><br />As an example of the problems before the earthquake, WJC notes that there was no market in lending—even mortgage lending—in the country before now.</p>
+<p>WJC describes Donna Karan as “Haiti has taken over her life to the extent that I am now a back-bencher.”  I think this is a positive statement.  Also gets a pledge for development from the new group run by Mohammed Yunus (who I interviewed at the 2009 CGI) and one other group [update: <a href="https://www.zafen.org/">Zafen</a> appears to be the other Commitment].</p>
+<p>WJC, leading up to the President of Haiti, mentions that W. described the President of the United States as the &#8220;decider in chief.&#8221; Clinton said that he rather agrees with that statement, noting of Martelly that &#8220;This man will make a decision.&#8221; He also declares that most of them have been good ones, something he did not say, at least now, about GWB.</p>
+<p>The President of Haiti Michel Martelly rehashes some of these points in more detail and discusses the plans of his administration to make it easier to start a business in Haiti and complete a new Industrial Park, with two more apparel companies and a furniture manufacturer joining there by the end of the year. Working with USAID, IADB, and others to ensure that their business-friendly approach will be highlighted around the world. Revamping processes and reshaping policies to create trade agreements with other countries, such as Brazil, using the model of the 10-year agreement with the United States.
+<p>Upsides: free education for all pledged, as well as opening a state university and (separate) vocational school.  Will be subsidizing the education of 772,000 Haitian children and leverage their location near the largest market (U.S.) and the “booming markets of Latin America.”</p>
+<p>WJC notes that even the long-antagonistic Dominican Republic has worked with Haiti to rebuild since the earthquake. </p>
+<p>First speaker is Magalie Dresse, owner, Caribbean Craft, who notes that her business has expanded rapidly thanks in large part to Donna Karan’s commitment and some major effort from Ms. Dresse herself.</p>
+<p>A representative from the Haiti Action Network—or perhaps Denis O’Brien of Digicell—follows, claiming that Haiti has been a democracy for only five years.  He’s still alive, and follows that by declaring that “there’s no country that has more creativity than Haiti.”   </p>
+<p>Luis Alberto Moreno, the president of the Inter-American Development Bank (IADB), follows, declaring that the five-month President”inspired us all.” (I’m hoping I misheard that and that he was really referencing WJC.)  He then goes on to talk about “Juan Valdez” and the Colombian coffee industry.  I cannot tell if the audience is too polite, too young (doesn’t look like the way to bet), or just too stunned.  But he goes on to make good points about possible developments that would not be dependent on the rag trade.</p>
+<p>President Martelly speaks again; it’s easy to understand why people like him, and he clearly has a vision for agricultural development as well as economic development.  Not certain I would quit my job to work for him, but it would be worth thinking about.</p>
+<p>The next speaker is Woong-Ki Kim, chairman of the <a href="http://www.businessweek.com/ap/financialnews/D9IC015G0.htm" target="_blank">Sae-A Trading Company</a>—or, more accurately, Ron Garwood, who is working as his interpreter. Chairman Kim has several reasons for <a href="http://haitimega.com/Business_Economy_Job-Sae_A_trading_South_Korean_Garment_to_create_20_000_jobs_in_Haiti/84452866644443139/article_84861852009168979.jsp" target="_blank">his Haitian investment</a>, including shorter delivery times, “an abundant and motivated labor supply,” a preferential Trade Agreement with the U.S. that provides duty-free entry, and that the U.S. and the IADB are building up the North Industrial Park, including an eco-friendly , state-of-the-art waste-water treatment plant, a power plant, and housing, not to mention giving them land (150 hectares, if I heard correctly). Mr. Alberto Moreno notes that another Korean company—a Fiber-Optic firm—and an American furniture company are also seriously planning to move into that park to create jobs.</p>
+<p>WJC, who I still maintain is rivaled by no one in his ability to process and retain data, asks about sugar production in Haiti, noting that it is very fragmented and strongly concentrated in rum manufacturers.  Mr. Alberto Moreno notes that the IADB has been speaking with the Brazilians about their recent efforts in using sugar cane as energy and leveraging that technology into power generation. Haiti pays the highest KwH power cost of anywhere.  “This is insane.” – WJC.  As most of this is effluvia to sugar generation, the marginal cost is almost solely derived from capital investment—virtually no labor cost, even if you provide better (“good”) income to workers.  Mr. Alberto Moreno confirms President Clinton’s vision for energy generation, noting the hydropower generation opportunities as well.</p>
+<p>President Martelly notes that Haitian are working to produce sugar—in Santo Domingo.  Providing the opportunities at home would cause repatriation and improve human capital. (“They would rather stay home and do it—so we should try it.”)</p>
+<p>Talk goes to tourism, with the best sight gag of the day: President Martelly says, “I could stand up and tell you”—stands up—“that Haiti is the most beautiful country in the world.”  He then goes on to note that <em>voudoun</em> is an attraction. (Maybe I would quit my job and work for his government after all.)</p>
+<p>Mr.O’Brien notes that he toured Haiti this summer and that there are many opportunities for “boutique” hotels (20 rooms or fewer) and other boutiques in areas—“either way, left or right, as you come out of the airport”—that are growing in other areas but are underavailable to tourism.</p>
+<p>(Having been to Punta Cana, I suspect that the areas outside of Port-au-Prince are more diverse, and therefore more interesting, than those in the DR.  But I could be wrong; if I am, please note so in comments,)</p>
+<p>WJC notes that former colonies tend to have “a legacy rules-based government.” (This is standard cant among the technocratic center, with a large grain of truth and somewhat deliberate elision of the reason many of those rules were put in place initially.)</p>
+<p>Ms. Dresse notes that Donna Karan’s declaration that the potential for Caribbean Craft is 20-30,000 more jobs “underestimates the potential.”</p>
+<p>Mr. Alberto Moreno closes with an announcement of an investor conference on 29-30 November in Haiti. “Guarantee you will be pleasantly surprised.”  Had more than 300 investors from Latin America at a conference three months<em>  before</em> the earthquake.</p>
+<p>The abiding feeling from this presentation—for me at least—is that the Latin American countries and Korea recognize and are moving toward an opportunity. Whether U.S. investors are so enthusiastic is still TBD.</p>
+                                    <div class="continue">
+                                        <a href="./../2011/09/cgi-2011-haiti-development-workshop.html#more-1863">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2011/09/cgi-2011-haiti-development-workshop.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2011/09/cgi-2011-haiti-development-workshop.html&title=CGI 2011: Haiti Development Workshop" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2011/09/cgi-2011-haiti-development-workshop.html&t=CGI 2011: Haiti Development Workshop" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=CGI 2011: Haiti Development Workshop - .?p=1863" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='CGI 2011: Haiti Development Workshop' st_url='./2011/09/cgi-2011-haiti-development-workshop.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <article>
+                            <h2><a href="./../2011/09/clinton-global-initiative-2011.html" title="Clinton Global Initiative 2011">Clinton Global Initiative 2011</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 19, 2011 5:34 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./gender-equality/index.html" class="post-category-1598" title="gender equality"><div class="color-box"></div>gender equality</a>                                                                      
+                                                                            <a href="./jobs/index.html" class="post-category-415" title="jobs"><div class="color-box"></div>jobs</a>                                                                     </div>
+                            <div class="content">
+                                <p>As with last year and the year before, I will be (as much as possible) at the <a href="http://clintonglobalinitiative.org/">Clinton Global Initiative</a>, now with even more Social Media and Networking Goodness.</p>
+<p>If you&#8217;re here, say hello.  If you&#8217;re not, look for posts and peruse <a href="http://clintonglobalinitiative.org/">the offerings for the conference</a>.  If there&#8217;s something you&#8217;re especially interested in, email me or mention it in comments.</p>
+                                    <div class="continue">
+                                        <a href="./../2011/09/clinton-global-initiative-2011.html#more-1864">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2011/09/clinton-global-initiative-2011.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2011/09/clinton-global-initiative-2011.html&title=Clinton Global Initiative 2011" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2011/09/clinton-global-initiative-2011.html&t=Clinton Global Initiative 2011" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=Clinton Global Initiative 2011 - .?p=1864" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='Clinton Global Initiative 2011' st_url='./2011/09/clinton-global-initiative-2011.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <article>
+                            <h2><a href="./../2010/09/cgi-day-4-clean-technology-and-smart-energy-deploying-the-green-economy.html" title="CGI, Day 4 &#8211; Clean Technology and Smart Energy: Deploying the Green Economy">CGI, Day 4 &#8211; Clean Technology and Smart Energy: Deploying the Green Economy</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 23, 2010 3:25 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./alternative-energy-investment/index.html" class="post-category-1399" title="alternative energy investment"><div class="color-box"></div>alternative energy investment</a>                                                                      
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./climate/index.html" class="post-category-341" title="climate"><div class="color-box"></div>climate</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./energy/index.html" class="post-category-1400" title="energy"><div class="color-box"></div>energy</a>                                                                      
+                                                                            <a href="./environment/index.html" class="post-category-1585" title="environment"><div class="color-box"></div>environment</a>                                                                      
+                                                                            <a href="./global-warming/index.html" class="post-category-1398" title="global warming"><div class="color-box"></div>global warming</a>                                                                      
+                                                                            <a href="./tco/index.html" class="post-category-1597" title="TCO"><div class="color-box"></div>TCO</a>                                                                     </div>
+                            <div class="content">
+                                <p>Moderator is John Holdren, Science and Technology Advisor to President Barack Obama and Director, White House Office of Science and Technology Policy. Participants are:
+<ul>
+<li>Nadia K. Al Dossary, Chief Executive Officer and Partner, <a href="http://archive.arabnews.com/?page=6&#038;section=0&#038;article=104118&#038;d=29&#038;m=11&#038;y=2007" target="_blank">Al Sale Eastern Co. Ltd</a> </li>
+<li>Gary Hattem, President, <a href="http://www.community.db.com/htm/db_americas_foundation.html" target="_blank">Deutsche Bank Americas Foundation, Deutsche Bank</a> </li>
+<li>Tri Mumpuni, Executive Director, <a href="http://electricitygovernance.wri.org/node/136" target="_blank">IBEKA</a> </li>
+<li>Conrad van Oostrom, Chief Executive Officer, <a href="http://www.ovg.nl/index.php?pageID=3403&#038;projectID=&#038;language=en" target="_blank">OVG Real Estate</a> </li>
+</ul>
+<p>Ms. Al Dossary is introduced as one of the few, if not the first, female business leader in Saudi Arabia. (See her comments later for a variant opinion,)</p>
+<p>Mr. Holdren opens by speaking of the three levels of technology adoption:</p>
+<ol>
+<li>Barrier Busting: “overcoming obstacles to the use and diffusion of technologies” that are available today. </li>
+<li>Incentivizing: changing the economic or the regulatory landscape to make socially- and environmentally-attractive technologies more attractive. </li>
+<li>Inventing and Improving: R&#038;D demonstration that makes technologies with improved characteristics and lower costs. </li>
+</ol>
+<p>Mr. Hattem, whose duty is “to direct capital to people and places that are currently outside of the economic mainstream,” means that his attention focuses on rural areas, and works with a data focus to ensure that the returns are realized.</p>
+<p>Ms. Al Dossary, an English Literature major who is very fond of Disneyland, found herself moving the business into new directions, concentrating on “the carousel of progress,” and noting that she has often failed but ends up ahead.</p>
+<p>Mr. van Oostrom moved primarily into green building technologies after meeting with Al Gore. Discovered that there was abundant information about how to build green buildings, and moved to that space.  Decided to make buildings “for half the money, in half the time, and completely carbon-neutral” after finding abundant support for the transition within his firm—middle and upper managers enthusiastic about being at the forefront.</p>
+<p>Mr. Hattem notes that the emphasis on building development has to be on energy efficiency. (He points out that NYC is relatively energy efficient even now)  Concentrated on the transition in lending and investment practices in NYC and applied the information gained there to developing structures and investments in green technology.  Seeing even residential buildings being developed with expectation of cutting energy demand by 30% or more through technology such as using solar panels to provide hot water.</p>
+<p>Ms. Al Dossary emphasizes that it is necessary to link green technology with people’s interests, not the glories of the technology. We are presenting it as reducing electricity and water bills and providing a better environment for your kids. Competition abides: the more competition in the marketplace, in the presentation of the products, improves results.</p>
+<p>Mr. Holdren notes that Ms. Mumpuni has been working from the ground up, and her effort has often been more successful than the governments that have been pushing from the top.  Ms. Mumpuni takes a “community-based approach”; what has worked have been to utilize the local resources—especially water—with local people developing and maintaining (and therefore having a sense of ownership of) the microhydro technology.  One of the things she noted is that the microhydro technology leverages the existing environment—maintaining the local forests instead of cutting them down enabled leveraging the existing terrain without having to engage in destruction, creative or not—and therefore makes adaptation easier.  She has been expanding and adopting this practice into the rest of the Asia-Pacific area and Africa.</p>
+<p>Ms. Mumpuni re-emphasizes that development and dissemination of Green Technology must be done on a community basis.  This is, she says, essential to the small (ca. 1,000 household) villages that are attempting to move to greener technologies.  She is later asked what effect those community developments have on the larger utility companies in Indonesia.  She noted that the initial reactions—once the communities became prominent enough—was that the large companies had government support to force the communities to buy power they did not need.</p>
+<p>However, as a woman, she was able to outwait the system.  Over the next four years, she got the government to start buying power from the communities, and the result over time was that the government and the utility companies (which no longer needed to maintain so many long, “technologically inappropriate” power delivery lines) realized that the “creative destruction” (not her phrase) could be good for everyone. (AB readers note especially: the restriction in this case was first supported by the so-called “private enterprise.”)</p>
+<p>Mr. Holdren notes that in many cases the pitch for alternative energy is “you will have to pay more, but the externalities are worth it.”  Conrad van Oostrom notes that “the real economics” (Mr. Holdren’s phrase) works well for new buildings, where you can (for instance) “bring forward” the energy savings over the next ten years. (Businesses understand <a href="http://delong.typepad.com/sdj/2010/09/did-megan-mcardle-really-graduate-from-a-business-school.html" target="_blank">Present Value</a>.) We are seeing that many new cities in China and India are being built using green technology.</p>
+<p>The difficult part is retrofitting buildings, where there have to be multiple negotiations with existing tenants. Even there, though, it is much less difficult to do that when you can give them “a real guarantee” that their future energy costs will be reduced by 30-50%. </p>
+<p>Mr. Holdren then asks Gary Hattem to provide a macroeconomic perspective on what retrofitting and green technology development is and will be doing for the job market.  Mr. Hattem notes that they are doing detailed studies of how the ARRA dollars generally and are working to align policies to workforce training for where the jobs actually will be.</p>
+<p>Mr. Holdren asks Ms. Al Dossary if she, as “a business leader and a woman,” is an inspiration to other women in Saudi Arabia and the Middle East. Ms. Al Dossary notes that women in Saudi Arabia and the Middle East are “not really interested in [being on the] media that much. There are so many successful stories for women.…I’m just in front of the TV; that’s the difference.”</p>
+<p>António Guterres, the <a href="http://www.unhcr.org/cgi-bin/texis/vtx/home" target="_blank">UN High Commissioner for Refugees</a>, asks about the “Small is beautiful, big is necessary” conceit, especially the last part. He notes that they had a very successful experience installing solar energy in a refugee camp, but did not see any expansion of solar into other areas; no one overcame the institutional and cultural issues.</p>
+<p>Ms.Mumpuni notes that they need to create trust be able to address the needs of the community.  She always tells them in advance that there must be continual community participation, from the planning to the maintenance, or her organization cannot risk its reputation on working with them.  Effect is that the community has customization and ownership, which goes a long way to overcome those issues.</p>
+<p>Remy Chevalier of the <a href="http://www.remyc.com/ELF.html" target="_blank">Environmental Library Fund</a> asks about the lighting of green technology buildings. Mr. van Oostrom notes that, in Western Europe, the issues of heating and cooling have been solved entirely for purposes of a “green building.”  The issue is lighting.  There has been some progress from the use of smart glass technology.  One thing that has helped in their buildings is to automatically have the lights go off at 6:30pm in the commercial buildings, while allowing people to press a button to relight the area. (I’ve worked in buildings that were set up that way in the U.S. as well.)  This simple move cut electricity costs by about 20%.  Mr. Hattem notes in that context that 1.6 billion people in the world do not have access to electricity, and that solar has become “an access point” for both the technology and distribution.</p>
+<p>Ms. Mumpuni is asked about costs.  She notes that production via microhydro costs depend on geographic situation: from about $800 per Kw installed to as $4,000 per Kw installed.  But again there have been breakthroughs that are reducing that cost steadily: now producing a “community hydro” that produces ca. 500 Watts –enough energy to power to run five (5) to ten (10) houses—for about $1,500.</p>
+<p>Ms. Al Dossary—asked to discuss possible obstacles to expansion into the “new clean energy” in Saudi Arabia—notes that, “Nothing is everlasting, not even water” and urges people to investigate all types of alternative energies, even as the Saudis are.</p>
+<p>An audience member asks about the best retrofit idea.  Mr. Hattem notes that the best innovation is not going to come from the technology, but from the users and the culture.  “Technology is there now.”  Mr. van Oostrom says that it is “all about business models” now; the technology is there and ready; have to convince current residents to do things.</p>
+<p>Ms. Mumpuni notes that in the developing world, the people <em>need</em> the technology: lights for children to read, to be able to cook (see the <a href="http://cleancookstoves.org/" target="_blank">Cookstoves Initiative announced on Day 2</a>; for a dissenting view of that initiative—though not the idea that people need energy to cook—see <a href="http://aidwatchers.com/2010/09/what-hillary%E2%80%99s-cookstoves-need-to-succeed/" target="_blank">this guest blog at Bill Easterly’s Aid Watchers</a>).  In that context, people use energy as they need it, not because it is accidentally left on.</p>
+<p>Mr. Holdren notes that about one-third of what we need to do in the next twenty years is such “low-hanging fruit” that we should be able to realize it.  Putting a full price on carbon emissions would reach the next third.  It is the final third—new innovations, </p>
+                                    <div class="continue">
+                                        <a href="./../2010/09/cgi-day-4-clean-technology-and-smart-energy-deploying-the-green-economy.html#more-2815">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2010/09/cgi-day-4-clean-technology-and-smart-energy-deploying-the-green-economy.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2010/09/cgi-day-4-clean-technology-and-smart-energy-deploying-the-green-economy.html&title=CGI, Day 4 &#8211; Clean Technology and Smart Energy: Deploying the Green Economy" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2010/09/cgi-day-4-clean-technology-and-smart-energy-deploying-the-green-economy.html&t=CGI, Day 4 &#8211; Clean Technology and Smart Energy: Deploying the Green Economy" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=CGI, Day 4 &#8211; Clean Technology and Smart Energy: Deploying the Green Economy - .?p=2815" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='CGI, Day 4 &#8211; Clean Technology and Smart Energy: Deploying the Green Economy' st_url='./2010/09/cgi-day-4-clean-technology-and-smart-energy-deploying-the-green-economy.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <article>
+                            <h2><a href="./../2010/09/cgi-day-3-addressing-cancer-in-the-developing-world-health-equity-and-an-overlooked-public-health-crisis.html" title="CGI, Day 3 &#8211; Addressing Cancer in the Developing World: Health Equity and an Overlooked Public Health Crisis">CGI, Day 3 &#8211; Addressing Cancer in the Developing World: Health Equity and an Overlooked Public Health Crisis</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 22, 2010 6:50 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./gender-equality/index.html" class="post-category-1598" title="gender equality"><div class="color-box"></div>gender equality</a>                                                                      
+                                                                            <a href="./healthcare/index.html" class="post-category-3" title="Healthcare"><div class="color-box"></div>Healthcare</a>                                                                      
+                                                                            <a href="./human-capital/index.html" class="post-category-1530" title="human capital"><div class="color-box"></div>human capital</a>                                                                     </div>
+                            <div class="content">
+                                <p>The panel is preceded by <a href="http://www.youtube.com/watch?v=XZUqVeksDuo" target="_blank">this video</a>.
+<p>Dr. Sanjay Gupta (Chief Medical Correspondent, CNN) leads the panel, featuring:</p>
+<ul>
+<li>Charles-Patrick Almazor, Director, Public Sector Partnership, Artibonite Department, <a href="http://www.pih.org/" target="_blank">Partners In Health</a> </li>
+<li>Lance Armstrong, Founder and Chairman, <a href="http://www.livestrong.org/" target="_blank">LIVESTRONG</a> </li>
+<li><a href="http://en.wikipedia.org/wiki/Paul_Farmer" target="_blank">Paul Farmer</a>, Co-Founder, Partners In Health; Chair of the Department of Global Health and Social Medicine, Harvard Medical School; Chief of the Division of Global Health Equity, Brigham and Women’s Hospital; UN Deputy Special Envoy for Haiti </li>
+<li><a href="http://www.brighamandwomens.org/socialmedicine/knaulbio.aspx" target="_blank">Felicia Knaul</a>, Director, Harvard Global Equity Initiative; Founder, <a href="http://www.tomateloapecho.org.mx/" target="_blank">Cáncer de mama: Tómatelo a Pecho</a> </li>
+<li>HRH Princess Dina Mired, Director General, <a href="http://www.khcc.jo/" target="_blank">King Hussein Cancer Foundation</a> </li>
+</ul>
+<p>Lant Pritchett’s old point notwithstanding, the reality has become that the “developing world” now originates 56% of the cases of cancer in the world, up from ca. 14% a decade ago.  (Actually, this somewhat presents evidence for Mr. Pritchett’s point about trade-offs; the developing world is now able to live long enough and well enough that death from cancer has become important.)</p>
+<p>Dr. Gupta starts by celebrating that some cancers that were not able to be treated anywhere in the world are now treatable <em>everywhere</em> in the world.  But the developing world cannot afford treatments for some types of cancer to the level needed. Dr. Gupta is a Board member of Livestrong, and speaks about the way the organization—especially through the discipleship of Lance Armstrong—has changed the way many people think about cancer.</p>
+<p>HRH Princess Mired notes that much of the progress in Jordan occurred after King Hussein himself went very public with his battle with cancer, putting a public face on the disease.  HRH Mired notes that since then, the major cancer treatment center—the King Hussein Cancer Center—now includes the word “cancer” in its name and provides access to consultations, information, and treatment for people who live near the center and those who can communicate with it through a regional center.</p>
+<p>She notes that there are areas in which they would like to make progress in Jordan, such as establishing Cord Blood Banks, and other things that people in the developed world “take for granted.”</p>
+<p>Dr. Gupta asks Dr. Paul Farmer to speak specifically about Haiti.  Dr. Farmer notes that there is <em>one</em> (1) oncologist in Haiti, and none in Rwanda or Burundi.  It is difficult to use preventive measures once one already has leukemia—but need to make that much more of an effort in prevention and early detection.  Dr. Farmer notes that cervical cancer is a <em>communicable</em> disease;  there is a “cervical cancer belt” in the developing world.  There is a vaccine, there are preventive care activities, and there are many other possibilities for reducing the rate of death from cervical cancer—it is delivery mechanisms and education that need to be provided. (Dr. Farmer notes, for instance, that Partners in Health teamed with <a href="http://www.gardasil.com/" target="_blank">Gardasil</a> to provide vaccinations for young girls and women in Haiti.)</p>
+<p>Next up is Dr. Charles-Patrick Almazor, who reaffirms that there is significant progress that has been made, and notes some of the “on the ground” successes in post-earthquake Haiti.</p>
+<p>Felicia Knaul and Lance Armstrong join the group.</p>
+<p>Dr.Gupta notes that Lance Armstrong came to CGI and announced that he would be racing again, primarily to extend the reach and successes of Livestrong.  Armstrong notes that he wasn’t worried so much about the idea of winning another Tour de France or any “knock on [his] legacy” as he was in extending the work of the Livestrong Foundation.  And he believes that the effort has paid off well in those terms.</p>
+<p>Ms. Knaul (who has a Ph.D., and therefore might be more properly referred to as Dr. Knaul), whose original commitment was “enhancing and empowering women health care workers,” notes that breast cancer is now the #2 killer of young (ca. 30-54) women in Mexico and the developing world. Ms. Knaul is a breast cancer survivor herself, and notes that what is worse than “having to take it in the vein is not being able to because you don’t have enough money to be able to pay for it.”  (Note: Ms. Knaul’s last round of treatment was last Wednesday; technically, she is not yet “a cancer survivor.”) She moves on to speak of “other kinds of failures,” such as the women who do not get mammograms because they expect that their husband will leave them if they are diagnosed with breast cancer. In that context, the Commitment made yesterday to teaching men is most encouraging for her.</p>
+<p>Ms. Knaul also notes that she was in the audience when Lance Armstrong announced his Commitment in 2008, and that she herself was inspired by his actions to expand her own efforts.</p>
+<p>Dr. Gupta highlights a few people in the audience who are also working to reduce cancer, including <a href="http://www.mayoclinic.org/bio/11261676.html" target="_blank">John Noseworthy of the Mayo Clinic</a>, who “established the Healthcare Alliance for Tobacco Dependence Treatment” to work to support realization of <a href="http://www.who.int/fctc/en/" target="_blank">the WHO Framework Convention on Tobacco Control</a>; <a href="http://physicians.dana-farber.org/directory/profile.asp?dbase=main&#038;setsize=10&#038;display=Y&#038;nxtfmt=r&#038;pgt=Shulman,+Lawrence+N.,+MD&#038;gs=pc&#038;grouptype_typeid=1&#038;pict_id=0000247" target="_blank">Dr. Lawrence Shulman</a> of Dana-Farber and Harvard, which is working in several of the developing areas; HRH Princess Ghida Talal, who is leading an effort to establish a “personalized medical center” at the King Hussein Medical Center; and <a href="http://bohemiangirldesigns.blogspot.com/2008/08/wrap-up-africa.html" target="_blank">Letha Sanderson</a> of Uganda, the founder of <a href="http://www.wrapupafrica.com/" target="_blank">Wrap Up Africa</a>.</p>
+<p>Dr. Gupta asks <a href="http://action.acscan.org/site/PageServer?pagename=johnseffrinbio" target="_blank">Dr. John Seffrin of the ACS</a> to talk about the American Cancer Society’s efforts to reduce tobacco use in developing countries. Dr. Seffrin notes that cancer is becoming the #1 cause of death in the world “for the first time in all of history.”  Livestrong and the ACS published <a href="http://pressroom.cancer.org/index.php?s=43&#038;item=262" target="_blank">a study about a month ago</a>, noting that the cost to the world is about $895 Billion per year, “<em>not including health-care costs associated with the treatment of cancer.”</em>  The economic burden of the top fifteen diseases shows clearly that cancer is far and away the worst.  And the spread of smoking tobacco has clearly exacerbated this in the developing world.  Killed 100 million people in the last century; will kill 1,000,000,000 in this century if there is no intervention.</p>
+<p>The first question from the floor is about possibility of using of local herbs and natural </p>
+<p><a href="http://www.cancerschmancer.org/" target="_blank">Fran Drescher</a>, a CGI regular whose own commitment in this area can be found at the link,  follows, asking how we educate and motivate women to go from “My husband will leave me if I have cancer” to “What will happen to my family if I die of cancer?”  Princess Mired notes that taboos don’t come from nowhere; they come from ignorance. People start from the expectation that cancer is contagious, that prevention and early detection are not possible.  Need to have the information disseminated, and especially to work on the men to change both the social behavior.  In four years, they have reduced the rate of people in Stage 3 and Stage 4 cancer from 70% to 35% through an”early detection” program that was started after people started to see survivors. Need to <em>show survivors.</em> </p>
+<p>Ms. Knaul notes that the mortality rate in Mexico from cervical cancer has gone from 16% to 8% in the past ten years—primarily because of earlier detection and treatment, but also because of improvements in the treatment itself.  She notes that this especially can be applied in the Developed World, where opportunities for research and </p>
+<p><a href="http://www.msh.org/about-us/leadership-team/management-team.cfm" target="_blank">Jonathan Quick</a> of <a href="http://www.msh.org/" target="_blank">Management Sciences for Health</a> noted the parallel between treating cancer and treating AIDS in the developing world. In the case of AIDS, they got through the four “barriers”: (1) the mental barrier (“it can’t be done”), (2) the cost barrier (treatment costs reduced from $12,000 to $3,200), (3) the money barrier (addressed by a global fund), and (4) the “practicality barrier.”  Where are we with cancer?  Dr. Farmer notes that those four barriers have been overcome in many cities, but that rural areas still need all four barriers to be overcome.  “People who say “there is no market” are trying to stop a conversation, not start one.”  When you don’t know any survivors in your neighborhood, it’s more difficult to accept that one <em>can</em> survive.  (The examples of King Hussein and, especially, Lance Armstrong seem especially relevant.)</p>
+<p>Dr. Gupta asks Lance Armstrong about Livestrong’s decision to “go global.”  Armstrong notes that they were responding to demand: discovered that the idea of Livestrong resonated in places such as Mexico and India.  It is left to Mr. Armstrong to note that cancer is such a diverse disease—“we talk about cancer—boom, six letters—but it’s different than that.”  It’s correct to be honest about it:we’re going to have to knock of this disease on type at a time.  We know the diseases we can cure today (testicular cancer, some lymphomas, cervical cancer and breast cancer with early detection).  “It’s not a simple three-page document, but it is doable.”</p>
+<p>With straightforward chemotherapy approaches, have been able to cure kids with various sarcomas.  We do have to scale up the program. </p>
+<p><a href="http://en.wikipedia.org/wiki/Donna_Shalala" target="_blank">Former HHS Secretary Donna Shalala</a> asks about geography: having to travel reduces ability to treat rural cancer patients..  She notes that more than fifteen years ago, Egypt set up regional cancer centers and flew oncologists to those areas once a month—a great political and popular success. (There were also pay incentives for the oncologists, to cover the travel requirement<em>.</em>)</p>
+<p>Ms. Knaul notes that. when you add the technologies available, you don’t necessarily have to move the patient or the doctors so much; St. Jude’s is able to offer pediatric cancer care in Jordan while the oncologist remains in Memphis.  Princess Mired re-emphasizes this, nothing that the Jordanian doctors have weekly “training sessions” with the doctors in Memphis.</p>
+<p>Have to understand that cancer has potentially become the most curable of all diseases; could be saving 10,000 lives a day if could apply the advances in the United States alone to the rest of the world.</p>
+<p>Lance Armstrong again takes it down to a human level:  if we teach a kid never to pick up a cigarette, we just “cured” cancer.  Need to re-emphasize <em>sharing</em>: information, resources, programs.</p>
+<p>Ms. Knaul notes that there are some countries, such as Mexico, that are considering financing reform so that people have access to cancer treatment—a move that will strengthen the health care system itself.</p>
+<p>Dr. Farmer talks about competition, competing for scarce resources.  Only a partnership will work.  Resources are less limited than at any other time in human history.  Cannot make the same mistake—contrasting prevention with care—that was made in the past.  One of the main causes of death is that people <em>become destitute providing care.</em>  Need for that not to happen.</p>
+<p>Dr. Almazor presents optimism; Princess Mired notes that we cannot change our future without change.  “Cancer does not even appear as a line item on any Global Health Agenda.” All of the successes and survivors—AIDS, TB, etc.—have the specter of having to face cancer and heart disease.  She closes by noting that we need to measure the cost of cancer not in human deaths, but prefer to see hospitals and treatment centers that remedy the problem.</p>
+                                    <div class="continue">
+                                        <a href="./../2010/09/cgi-day-3-addressing-cancer-in-the-developing-world-health-equity-and-an-overlooked-public-health-crisis.html#more-2820">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2010/09/cgi-day-3-addressing-cancer-in-the-developing-world-health-equity-and-an-overlooked-public-health-crisis.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2010/09/cgi-day-3-addressing-cancer-in-the-developing-world-health-equity-and-an-overlooked-public-health-crisis.html&title=CGI, Day 3 &#8211; Addressing Cancer in the Developing World: Health Equity and an Overlooked Public Health Crisis" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2010/09/cgi-day-3-addressing-cancer-in-the-developing-world-health-equity-and-an-overlooked-public-health-crisis.html&t=CGI, Day 3 &#8211; Addressing Cancer in the Developing World: Health Equity and an Overlooked Public Health Crisis" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=CGI, Day 3 &#8211; Addressing Cancer in the Developing World: Health Equity and an Overlooked Public Health Crisis - .?p=2820" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='CGI, Day 3 &#8211; Addressing Cancer in the Developing World: Health Equity and an Overlooked Public Health Crisis' st_url='./2010/09/cgi-day-3-addressing-cancer-in-the-developing-world-health-equity-and-an-overlooked-public-health-crisis.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <article>
+                            <h2><a href="./../2010/09/cgi-day-3-harnessing-human-potential-or-the-bush-family-extravaganza.html" title="CGI Day 3 – Harnessing Human Potential, or The Bush Family Extravaganza">CGI Day 3 – Harnessing Human Potential, or The Bush Family Extravaganza</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 22, 2010 3:36 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./gender-equality/index.html" class="post-category-1598" title="gender equality"><div class="color-box"></div>gender equality</a>                                                                      
+                                                                            <a href="./human-capital/index.html" class="post-category-1530" title="human capital"><div class="color-box"></div>human capital</a>                                                                     </div>
+                            <div class="content">
+                                <p>The original schedule for this program was Riz Khan of Al Jazeera English moderating
+<ul>
+<li>Laura Bush, Former First Lady of the United States</li>
+<li>Jack Ma, Chairman and Chief Executive Officer, Alibaba Group</li>
+<li><a href="http://www.shakira.com/" target="_blank">Shakira</a> Mebarak, Founder, <a href="http://www.barefootfoundation.com/index_en.php" target="_blank">The Barefoot Foundation</a></li>
+<li>Rajendra Pawar, Founder and Chairman, NIIT Group</li>
+</ul>
+<p>but Shakira was unable to attend, and was replaced by</p>
+<ul>
+<li>Jenna Bush Hager, and</li>
+<li>Barbara Bush</li>
+</ul>
+<p>Mr.Khan opens with a joke about a policeman who pulls a woman over who is driving very slowly, having confused the Route sign (10) with the speed limit.  “Why do your passengers look so scared?”  “Oh, we just came off Route 120.”</p>
+<p>Mrs. Bush starts by talking about how great things are for women “since the fall of the Taliban.”  Mentions one who has opened about forty schools in Afghanistan in cooperation with the <a href="http://gucchd.georgetown.edu/76315.html" target="_blank">U.S.-Afghan Women’s Council</a>.</p>
+<p>Jenna Hager speaks of girls who “escaped early marriage.” She’s very enthusiastic, but appears to have problems <a href="http://today.msnbc.msn.com/id/32618067" target="_blank">dealing with being on-camera with a microphone</a>.  (What she lacks in presence she tries to make up in enthusiasm.)  She speaks about the need for education to address the problem, referring to <a href="http://en.wikipedia.org/wiki/Jenna_Hager#Teaching" target="_blank">her experience as a teacher</a>. (My impression from her presentation was that she is currently teaching; Wikipedia’s mileage appears to vary; anyone know?)</p>
+<p>Barbara Bush—who does not have her younger sister’s problem—notes that she worked at a children’s hospital in South Africa, and that one of her jobs was basically “staying with the babies” so that the mothers—who otherwise would have lost their jobs—could go back to work.  The story in itself tells us about the impediments to harnessing human potential, but those who have attended for the past two days know these tales well enough, and probably would have preferred hearing from someone at <a href="http://www.barefootfoundation.com/index_en.php" target="_blank">the Barefoot Foundation</a> who could get into more specifics.</p>
+<p>Jack Ma of the <a href="http://news.alibaba.com/specials/aboutalibaba/aligroup/index.html" target="_blank">Alibaba Group</a>, a for-profit enabler of small businesses, declares that we are entering “the century of the small,” and that small businesses create not just jobs but hopes.  (Given the relative success of “small businesses,” he may have that backwards.)  Hope is his theme; sees good things occurring <strike>when</strike> now that the worldwide Solvency Crisis is over.</p>
+<p>Rajendra Pawar starts with a discussion of how Bhutan (“the world’s youngest democracy”; two years) has for the past thirty-plus years concentrated on GNH (Gross National Happiness), not GDP. This includes constitutionally limiting the destruction of forest area in the country, educating the leadership in creating opportunities, and expanding connectivity and computing (leveraging solar energy) to make the society more horizontal.</p>
+<p>A question comes in regarding the opportunities in alternative energy. (Also <a href="http://www.angrybearblog.com/2010/09/clinton-global-initiative-economic.html" target="_blank">discussed yesterday by Governor Jennifer Granholm</a>.)  Jack Ma notes that people recognize the issue and the benefits of alternate-energy: he has polled workers in coal-intensive China and never yet found a person who does not know someone who has or had cancer. “This has become a skills issue” in much of the world. (The U.S. currently exports <a href="http://www.suite101.com/content/us-solar-panel-export-sales-and-dealers-a217227" target="_blank">slightly over $1 billion worth of solar panels</a> each year;; China <a href="http://www.inverter-china.com/blog/articles/green-energy/overview-of-solar-industry-in-china.html" target="_blank">produced almost twice as much revenue from solar panels two years previously</a>.)</p>
+<p>Khan asks Laura Bush (“I’m asking you, not your daughters”) whether there is a generational complaint.  Ms. Bush notes that her daughters and their friends are all enthusiastic about working with and helping the world.</p>
+<p>Khan ends, as he began, with a joke.  I will spare people it, since it wasn’t even as funny as the one with which he opened.</p>
+                                    <div class="continue">
+                                        <a href="./../2010/09/cgi-day-3-harnessing-human-potential-or-the-bush-family-extravaganza.html#more-2822">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2010/09/cgi-day-3-harnessing-human-potential-or-the-bush-family-extravaganza.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2010/09/cgi-day-3-harnessing-human-potential-or-the-bush-family-extravaganza.html&title=CGI Day 3 – Harnessing Human Potential, or The Bush Family Extravaganza" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2010/09/cgi-day-3-harnessing-human-potential-or-the-bush-family-extravaganza.html&t=CGI Day 3 – Harnessing Human Potential, or The Bush Family Extravaganza" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=CGI Day 3 – Harnessing Human Potential, or The Bush Family Extravaganza - .?p=2822" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='CGI Day 3 – Harnessing Human Potential, or The Bush Family Extravaganza' st_url='./2010/09/cgi-day-3-harnessing-human-potential-or-the-bush-family-extravaganza.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <article>
+                            <h2><a href="./../2010/09/cgi-day-2-securing-the-health-and-safety-of-girls-and-women.html" title="CGI, Day 2 &#8211; Securing the Health and Safety of Girls and Women">CGI, Day 2 &#8211; Securing the Health and Safety of Girls and Women</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 21, 2010 4:30 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./gender-equality/index.html" class="post-category-1598" title="gender equality"><div class="color-box"></div>gender equality</a>                                                                      
+                                                                            <a href="./human-capital/index.html" class="post-category-1530" title="human capital"><div class="color-box"></div>human capital</a>                                                                      
+                                                                            <a href="./rape/index.html" class="post-category-1891" title="rape"><div class="color-box"></div>rape</a>                                                                      
+                                                                            <a href="./violence/index.html" class="post-category-1827" title="violence"><div class="color-box"></div>violence</a>                                                                     </div>
+                            <div class="content">
+                                <p>Tina Brown introduces:
+<ul>
+<li>Gary Cohen, Executive Vice President, BD</li>
+<li>Geeta Rao Gupta, Senior Fellow, Bill &#038; Melinda Gates Foundation</li>
+<li>Richard C. Holbrooke , Special Representative for Afghanistan and Pakistan, U.S. Department of State “and, of course”</li>
+<li>Ashley Judd, Board Member, Population Services International</li>
+</ul>
+<p>Starts with Geeta Rao Gupta, who declares the primary issue to be that hundreds of thousands of women are dying because of <em>entirely preventable causes</em>, such as 350,000 worldwide due to complications from pregnancy.  (Fifty million [50,000,000] child—under 18—brides worldwide.) </p>
+<p>Tina takes the microphone away to talk about Ashley Judd’s discoveries in the Congo. (If this organization wants to concentrate on policy, not celebrity, Tina Brown should not be moderating.)  Judd, though, rises to the bait, nothing that Secretary of State HRC’s visit was not productive, and the people on the ground in the Congo did not believe that they were heard.  Only 6% of DRC has family planning ability; those who want to use family planning solutions but do not have access to such will have hundreds of thousands.  “100% of the women Judd met had been gang-raped <strong><em>more than once</em></strong>.”  Tells story of woman whose husband said “you have been raped too much” and left.</p>
+<p>The word “<a href="http://en.wikipedia.org/wiki/Fistula" target="_blank">fistula</a>” was used extensively during Ms. Judd’s presentation, including a couple of times about “fistula repair operations.”</p>
+<p>Gary Cohen notes that he was pulled into the issue of sexual violence against girls because of his work in fighting HIV/AIDS.  Found that 1/3 of girls in Swaziland who had experienced sexual violence, and that 29% of those became pregnant—effect is that about 10% of the female population is effectively eliminated from being part of the productive workforce, even if they are not part of the ca. 2% <strong><em>of the total female population </em></strong>that will die in childbirth.</p>
+<p>Now working through other organizations, including a partnership with PEPFAR (about which Mike Kimel is <a href="http://www.angrybearblog.com/2008/12/bush-as-great-man-new-meme.html" target="_blank">more enthusiastic</a> than <a href="http://www.angrybearblog.com/2009/01/word-to-be-eliminated-symbolize.html" target="_blank">I am</a>, but which abides in either case) to try to empower women to facilitate AIDS/HIV relief.</p>
+<p>Richard Holbrooke notes that he has never seen a State Department initiative to educate the men in leadership positions about the dangers of sexual violence against women.  They are trying to change that, but facing political issues. (We need to work with the [corrupt, violent] police in Afghanistan, but they have until recently been the largest part of the problem.)</p>
+<p>Discusses the flood in Pakistan; shows a map of the affected area superimposed over U.S. and Canada—very little not covered.  International community is not going to be able to raise enough;Pakistani government is going to have to increase its revenues just to be able to pay them out.</p>
+<p>The biggest problems will be now: 4-5,000 schools, hundreds of hospitals, countless homes have been washed away.  People will go back and they—especially the kids—will start drinking the <em>stagnant</em> water, resulting in dysentery at best. We are in a massive new round of fundraising to address the flood.  “Not one child I talked to knew how old they were.”  Information must be disseminated by radio—need portable radios.  Water purification: working with P&#038;G, but <em>do not have 10-gallon cans that can be used with P&#038;G’s PUR product.</em>  Need to teach people to use part of a packet.</p>
+<p>Ms. Judd notes that the water issue is key to PSI; do monitoring and real-time data analysis and “barefoot entrepreneurs” (people on the ground) to emphasize the issues, and deal with “the chlorine taste” (if the mix is not ideal) as “the taste of health.”  Work toward a positive result, not the “if you drink this water, you will die” so much as developing social capital. (Dysentery is the #2 killer of under-5 children in the developing world.)</p>
+<p>Geeta Rao Gupta notes that programs have been developed on the social level—cites several projects that have emphasized male education activities.  If you can provide services where women get a return on their labor, the household income is increased.  Needs to be cast as initiatives to improve the welfare of the households.</p>
+<p>Mr. Cohen notes that they categorize “sexual violence against girls” as a <strong><em>human rights issue.</em></strong> Notes that Swaziland is the most leading respondent to their initiative, which also has cooperation from UNICEF.  Transfer to community level, which directly deal with organizations that educate men and boys about the opportunities when women have the opportunity to earn as well.</p>
+<p>There is more data, and it is getting more attention, so it is easier to talk about the problem. Mr. Cohen notes that the Soviet rape in Berlin in 1945 (“a drunken orgy of revenge”) while Bosnia was a “calculated use of rape as an instrument of war.”  (Maybe John Barnes’s painful phrase <a href="http://www.angrybearblog.com/2008/08/brad-delong-lets-cat-out-of-bag.html" target="_blank">Serbing</a> should be used more generally.) Clearly becoming more systematic.  Geeta Rao Gupta notes that she works with efforts such as <a href="http://www.gems-girls.org/" target="_blank">GEMS</a> to provide information and educational opportunity to people.</p>
+<p>Tina Brown finally proves her value by noting that need to make these points through stories and narratives.  That gets the young people involved in an issue.</p>
+<p>Ashley Judd lists several organizations with which to work, such as <a href="http://women-4-women.org/" target="_blank">Women 4 Women</a>, <a href="http://www.girlup.org/" target="_blank">Girl Up</a>, <a href="http://www.girleffect.org/question" target="_blank">Girl Effect</a> (which, <a href="http://tomwatson.typepad.com/tom_watson/2010/09/i-love-this-video.html" target="_blank">as Tom Watson notes</a>, released a <a href="http://www.girleffect.org/video" target="_blank">marvelous PSA</a> today), and <a href="http://www.enoughproject.org/conflict_areas" target="_blank">The Enough Project</a> (which is directly related because a substantial amount of the  most egregious sexual violence against women occurs in “conflict mineral” countries).</p>
+<p>She also notes that there is a female condom available worldwide (though not so much in the U.S.), which they promote through dialog with hairdressers (who then speak with their clients).</p>
+<p>Best route to a good result is to provide access to contraception, planning, and information.  Will not help to “wag the finger from the top”; need to enable control with the people who want to have control over—<em>freedom for—</em>their own bodies.</p>
+<p>Mr. Cohen is optimistic, partially because we have seen much progress made on this issue over the past few years at CGI.  Tina Brown notes that we’re probably not at a “tipping point” yet, but certainly getting closer to achieving awareness.</p>
+<p>As Nick Kristof twitted earlier today (again, via Tom Watson, translated from Twitter into English), “Clinton Global Initiative this year seems very focused on investing in girls as cost-effective strategy to fight poverty.”  As strategies go, this one is—or, more accurately would be, in a world where economic models worked well—Most Likely to Succeed.</p>
+                                    <div class="continue">
+                                        <a href="./../2010/09/cgi-day-2-securing-the-health-and-safety-of-girls-and-women.html#more-2827">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2010/09/cgi-day-2-securing-the-health-and-safety-of-girls-and-women.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2010/09/cgi-day-2-securing-the-health-and-safety-of-girls-and-women.html&title=CGI, Day 2 &#8211; Securing the Health and Safety of Girls and Women" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2010/09/cgi-day-2-securing-the-health-and-safety-of-girls-and-women.html&t=CGI, Day 2 &#8211; Securing the Health and Safety of Girls and Women" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=CGI, Day 2 &#8211; Securing the Health and Safety of Girls and Women - .?p=2827" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='CGI, Day 2 &#8211; Securing the Health and Safety of Girls and Women' st_url='./2010/09/cgi-day-2-securing-the-health-and-safety-of-girls-and-women.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <article>
+                            <h2><a href="./../2010/09/clinton-global-initiative-day-2-empowering-girls-and-women-plenary.html" title="Clinton Global Initiative, Day 2 – Empowering Girls and Women (Plenary)">Clinton Global Initiative, Day 2 – Empowering Girls and Women (Plenary)</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 21, 2010 3:08 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./education-cost/index.html" class="post-category-1482" title="education cost"><div class="color-box"></div>education cost</a>                                                                      
+                                                                            <a href="./gender-equality/index.html" class="post-category-1598" title="gender equality"><div class="color-box"></div>gender equality</a>                                                                      
+                                                                            <a href="./human-capital/index.html" class="post-category-1530" title="human capital"><div class="color-box"></div>human capital</a>                                                                      
+                                                                            <a href="./rule-of-law/index.html" class="post-category-1320" title="rule of law"><div class="color-box"></div>rule of law</a>                                                                     </div>
+                            <div class="content">
+                                <p>Moderator is Katie Couric, News Anchor and Managing Editor at CBS News. Panelists are
+<ul>
+<li>Her Majesty Queen Rania Al Abdullah , Hashemite Kingdom of Jordan</li>
+<li>Ellen Johnson Sirleaf, President of the Republic of Liberia</li>
+<li>Muhtar Kent, Chairman and Chief Executive Officer, The Coca-Cola Company</li>
+</ul>
+<p>Mr. Kent’s favorite book is <a href="http://uclaforecast.com/reviews/Leamer_FlatWorld_060221.pdf" target="_blank">Thomas Friedman’s The World is Flat</a><em>.</em></p>
+<p>Queen Rania notes that the women are working very hard, but their time is not sufficient for everything that needs to be done. Part of this is the mindset (marriage > human capital development), but a significant portion is lack of available infrastructure.</p>
+<p>Ellen Johnson Sirleaf: We started by focusing on women in the “informal sector,” providing educational opportunities and the like.  But this wasn’t enough in either respect: needed to provide more opportunity for work out of home and more protection on government level.</p>
+<p>Mr. Kent notes that 70% of his customers are women.  Looked into future development and realized there was a significant mismatch in the company’s efforts, philosophy, and customer base.  “It’s a journey; it doesn’t happen overnight, but we are making good progress.”</p>
+<p>Queen Rania notes that “no country can make any progress in spite of its women…They need to be injected into the supply chain.” Have contributed more to GDP than technology gains over past 20 years.  The greatest issue is the amount of time it takes to get an initiative in place and to see positive results from it.</p>
+<p>Katie Couric asks how important a role is it to educate boys.  Queen Rania notes that the social attitudes harm boys as much as it does girls.  Girls get married instead of getting a job—but boys are forced to drop out of school to provide for their family.  So both lose in that situation.</p>
+<p>Mr. Kent speaks of “microdistribution,” which actually originated at last year’s CGI, when Mr. Kent committed to 1,500 more projects, and that half of those would be women.  Not only passed that target, but they now employ an additional 18,000 people—total of 20,000 employed through 1,500 micro projects.  Barriers that had to be overcome—access to finance and land, especially—resulted in development of Best Practices that is now being spread as the model to South America and other locations.  Next goal: empowerment for 5,000,000 additional women between now and 2020.  Will involve both the distribution and retailing sides of Coca-Cola’s business.  Have mobile support for teaching “the basics of retailing” (e.g., stock rotation).</p>
+<p>Some of the symbiotic relationships that enable that: In India, for example, carry water miles to their village.  We provide Clean Water which frees up the women’s time and leads to them to start their entrepreneurial work. Most “become leading citizens in their communities,” which leads to opportunities for expansion. (Gives example of a woman who started with one location and is now franchising and employing sixteen [16] people.)</p>
+<p>Asks President Johnson Sirleaf about the “ripple effect,” and what the critical first step is.  For us (Liberia), we started with the first step of education—not formal education so much as access to knowledge.  Schools, literacy training, and a have a program that came out of a program from the CGI a few years ago, in cooperation with the World Bank and Nike, to train adolescent girls to go into the particular job that are currently in demand.</p>
+<p>Question from YouTube: access to seeds and market information?  Mr. Khan has a project in cooperation with the Gates Foundation to create entrepreneurship for 50,000 farmers to create juice concentrates needed by Coca-Cola.  Have been working with the farmers—and discovered that only 1% of the land ownership was by women. </p>
+<p>Queen Rania notes that in twelve countries in the Middle East, have more girls in school than boys. Biggest challenge is how to get women into the labor market, which (as <a href="https://docs.google.com/viewer?url=http://www.stanford.edu/~tertilt/research/WomenDecember08.pdf" target="_blank">this paper</a> notes) helps both, as it did in the past. </p>
+<p>President Johnson Sirleaf notes that there is no <em>legal</em> restriction in Liberia against women owning land, but there may well be structural issues.  Most farmland development now is being driven by women, “the men rather just play drums.”  (Mr. Khan, in response to a question from Couric, notes that competition makes the entire sea go up—helps both.)</p>
+<p>How do we end violence against women and girls?  President Johnson Sirleaf says “we are going to stay the course. Make the penalties more intense—and enforce them. (Her example is making the rape of a four-year-old girl equivalent to murder.)  Queen Rania notes that the Community and Religious leaders need to cooperate as well in this effort to facilitate change. She found that when she started working about the subject of child abuse in Jordan, the first problem was that people denied it existed.  Have to have people confront problems before can solve them.</p>
+<p>60% of women and girls in developing countries will be married before they are 18, and will have four children before they are 20.  Why does the issue of child marriage continue to travel under the radar.  Leading cause of death for girls aged 15 to 19 in developing countries is <strong><em>complications from pregnancy</em></strong>.  Jordan just raised the minimum age for marriage to eighteen (18) in reaction to seeing teenaged girls who have four children and ten years of “work experience.”</p>
+<p>Biggest issue in Liberia is the transition into and through secondary school.  Mr. Khan focuses on “golden triangle”: collaboration between government, businesses, and civil society to lead to greater belief in the future and expectations <em>of</em> a future.</p>
+<p>Katie notes that she has two teenaged daughters.  Other than bringing international attention to it, what can we do?  Queen Rania recommends <a href="http://www.girlup.org/" target="_blank">Girl Up</a> (which needs a website developer), <a href="http://www.unfoundation.org/global-issues/women-and-population/investing-adolescent-girls.html" target="_blank">a project of the United Nations Foundation</a> that supports school supplies, medical checkups, and clean water to facilitate opportunities for girls in other areas.</p>
+<p>Mr. Khan reiterates the obvious: families have to believe in the future, that there will be a better future,to make any progress toward long-term development. With a coordinated effort through the “golden triangle,” we will see improvements and developments.</p>
+<p>We can only hope he is correct, and that people will find other jobs than just being a Coca-Cola franchisee as the 21st century develops.</p>
+                                    <div class="continue">
+                                        <a href="./../2010/09/clinton-global-initiative-day-2-empowering-girls-and-women-plenary.html#more-2828">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2010/09/clinton-global-initiative-day-2-empowering-girls-and-women-plenary.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2010/09/clinton-global-initiative-day-2-empowering-girls-and-women-plenary.html&title=Clinton Global Initiative, Day 2 – Empowering Girls and Women (Plenary)" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2010/09/clinton-global-initiative-day-2-empowering-girls-and-women-plenary.html&t=Clinton Global Initiative, Day 2 – Empowering Girls and Women (Plenary)" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=Clinton Global Initiative, Day 2 – Empowering Girls and Women (Plenary) - .?p=2828" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='Clinton Global Initiative, Day 2 – Empowering Girls and Women (Plenary)' st_url='./2010/09/clinton-global-initiative-day-2-empowering-girls-and-women-plenary.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <article>
+                            <h2><a href="./../2010/09/clinton-global-initiative-economic-empowerment-lunch-session.html" title="Clinton Global Initiative – Economic Empowerment (Lunch Session)">Clinton Global Initiative – Economic Empowerment (Lunch Session)</a></h2>
+                            <p class="postmetadata">
+                                <span class="author">admin</span><span class="separator"> | </span>September 21, 2010 1:10 pm<br>
+                            </p>
+                            <div class="category-title">
+                                 
+                                                                            <a href="./index.html" class="post-category-1599" title="CGI"><div class="color-box"></div>CGI</a>                                                                      
+                                                                            <a href="./economic-development/index.html" class="post-category-188" title="economic development"><div class="color-box"></div>economic development</a>                                                                      
+                                                                            <a href="./international-aid/index.html" class="post-category-1620" title="international aid"><div class="color-box"></div>international aid</a>                                                                      
+                                                                            <a href="./international-trade/index.html" class="post-category-1472" title="international trade"><div class="color-box"></div>international trade</a>                                                                     </div>
+                            <div class="content">
+                                <p>(Joined in progress)<br />
+<h4>Governor Jennifer Granholm of Michigan</h4>
+<p>Michigan &#8211; “<a href="http://www.michigan.gov/nwlb/">No Worker Left Behind</a>,” which provides retraining for those downsized auto workers and others.</p>
+<p>Escalation of high school curriculum so that graduating students must have taken college prep courses—has resulted in <em>reduction</em> in dropout rate because the community understands that this is a good thing for its students.</p>
+<p>MI expects to create 89,000 jobs over the next decade in Alternative Energy—including the Lithium-Ion batteries that will power the hybrid and electric cars.</p>
+<p>Governor Granholm states (recapitulation from last year) that Greenville, MI, “is determined to live up to its name” and expects to be able to sell alternative-energy generated (solar, wind, etc.) power to traditional companies.</p>
+<p>Depend upon and expect to partner with private sector; strategic investment with the private sector has enabled Granholm to reduce the size of the State Government and maintain the state-constitutionally-required balanced budget. (Grants and Federal assistance in developing alternative energy have helped as well.)  “We can lead the world,” but are facing investment from the governments of China and Korea that are already investing billions (Korea just announced $12B investment) in developing those.  Granholm: “Would hate to see the development and design done here and the manufacturing done overseas.”</p>
+<h4><strong>Rajiv Shah, US Agency for International Development (USAID)</strong></h4>
+<p>Formerly of the Gates Foundation; father worked for three decade for Ford.</p>
+<p>Almost every country that has emerged from extreme poverty did it by developing Ag and then moving away from an Ag-centric economy.  We know that Ag-lead development is three to four times more effective than “general GDP” growth.  If focus on Africa and South Asia, would (and do) know that this pathway needs to be enhanced.  Despite the efforts of such as AID, local and \</p>
+<p>Speaks well of the Green Revolution.  (Muhammad Yunus, when I asked him about it at last year’s conference, was a touch more ambivalent about its success.)  Notes that the Green Revolution didn’t extend to Africa because “we just failed to try.”  Our agency (USAID) “has been as guilty as anyone”; real aid to Africa has declined by ca. 85%.  This has resulted in child malnutrition rates rising in those countries to a 30-40% range.  Ultimate result is that ca. 130MM people were moved <em>back into poverty.</em></p>
+<p>Need roads; notes that Michigan has many “FM #” roads (Farm to Market).</p>
+<p>USAID is investing in the countries that are putting out their own efforts to develop Ag economy; more interested in working with countries that work with them to develop new businesses, including those that add verticals to existing situation, such as processing coffee beans locally, instead of having them shipped and enhanced in developed countries such as Italy.</p>
+<p>Very happy that USAID is not needed so much to provide direct food aid; prefers to facilitate development.  Most profound model is that of South Korea—which invested in agriculture and education and developed an export-led growth strategy.  Went from having lower GDP per capita than Kenya to being a member of (and, this year, the host of) the G-20.</p>
+<p>Some specific developments are soybeans in Brazil that require less nitrogen (fertilizer) to grow.  Have great hope for Ghana, Rwanda, Tanzania, and Senegal—devoting resources to those countries in expectation of great returns.</p>
+<p>Focused on reforming the procurement and investment mechanisms of USAID to make it easier to work with organizations such as the Gates Foundation and local NGOs. In the case of Haiti, developed a single form to clear all of the hurdles to approval that those local NGOs had never processed. There are many creative people in government who are employing the same entrepreneurial spirit to develop responsible and effective ways of improving resource allocation and expediting public-private partnerships to leverage the best features of both.</p>
+                                    <div class="continue">
+                                        <a href="./../2010/09/clinton-global-initiative-economic-empowerment-lunch-session.html#more-2829">Read More ></a>
+                                    </div>
+                                    <p class="tags">
+                                        <span class="tags"></span>
+                                        <span class="comments">
+                                            <a href="./../2010/09/clinton-global-initiative-economic-empowerment-lunch-session.html#respond"> Comments (0)</a>                                            <span class="separator"> | </span> 
+                                            <a 
+                                                href="http://digg.com/submit?url=./2010/09/clinton-global-initiative-economic-empowerment-lunch-session.html&title=Clinton Global Initiative – Economic Empowerment (Lunch Session)" 
+                                                target="_blank" 
+                                                class="share-icon digg-icon" 
+                                            >Digg</a> 
+                                            <a 
+                                                href="http://www.facebook.com/sharer.php?u=./2010/09/clinton-global-initiative-economic-empowerment-lunch-session.html&t=Clinton Global Initiative – Economic Empowerment (Lunch Session)" 
+                                                target="_blank" 
+                                                class="share-icon fb-icon"
+                                            >Facebook</a> 
+                                            <a 
+                                                href="http://twitter.com/home?status=Clinton Global Initiative – Economic Empowerment (Lunch Session) - .?p=2829" 
+                                                target="_blank" 
+                                                class="share-icon twitter-icon"
+                                            >Twitter</a>
+                                            <span class="separator"> | </span>
+                                            <span class='st_sharethis' st_title='Clinton Global Initiative – Economic Empowerment (Lunch Session)' st_url='./2010/09/clinton-global-initiative-economic-empowerment-lunch-session.html' displaytext='Share'></span>
+                                        </span>
+                                    </p>
+                            </div>
+                        </article>
+                                                                    <div class="navigation">
+                        <span class='page-numbers current'>1</span>
+<a class='page-numbers' href='./page/2/index.html'>2</a>
+<a class="next page-numbers" href="./page/2/index.html">Next &raquo;</a></div>
+                            </section>
+            <aside>
+                    <div class="bar-section stories">
+                <h2>Featured Stories</h2>
+                                                                                        <a href="./../2013/01/hagel-for-defense-secretary.html">Hagel for Defense Secretary</a>
+                            <p class="postmetadata">
+                                admin                            </p>
+                                                                                <a href="./../2012/12/links-worth-noting-stealth-class-warfare.html">Links Worth Noting: Stealth (Class) Warfare</a>
+                            <p class="postmetadata">
+                                admin                            </p>
+                                                            <div class="bar-section sidebar-commercial">
+                                    <script src='http://ads.investingchannel.com/adtags/angrybear/ros/300x250.js' type='text/javascript' charset='utf-8'></script>
+                                </div>
+                                                                                <a href="./../2012/11/waldmanns-thoughts-on-voting-districts.html">Waldmann’s thoughts on voting districts</a>
+                            <p class="postmetadata">
+                                admin                            </p>
+                                                                                <a href="./../2012/11/one-nation-divisible.html">One Nation, Divisible</a>
+                            <p class="postmetadata">
+                                admin                            </p>
+                                                                                        </div>
+            <div class="bar-section authors">
+                <h2>Contributors</h2>
+                <div class="authors-list">
+                <div class="contributor-left"><div></div></div><div class="contributor-right"></div>                </div>
+            </div>
+            <div class="bar-section subscribe">
+                <h2>Subscribe</h2>
+                            </div>
+            <div class="bar-section friends">
+                <ul> 
+                    <li id="linkcat-12" class="linkcat"><h2>Blogs of note</h2>
+                        <ul class="xoxo blogroll">
+                            <li><a href="http://www.nakedcapitalism.com/" rel="friend" title="Naked Capitalism" target="_blank">Naked Capitalism</a></li>
+                            <li><a href="http://www.eschatonblog.com/" rel="friend" title="Atrios (Eschaton)" target="_blank">Atrios (Eschaton)</a></li>
+                            <li><a href="http://crooksandliars.com/" rel="friend" title="Crooks and Liars" target="_blank">Crooks and Liars</a></li>
+                            <li><a href="http://www.calculatedriskblog.com/" rel="friend" title="Calculated Risk" target="_blank">Calculated Risk</a></li>
+                            <li><a href="http://www.economistview.typepad.com/" rel="friend" title="Economist View" target="_blank">Economist View</a></li>
+                            <li><a href="http://digbysblog.blogspot.com/" rel="friend" title="Hullabaloo" target="_blank">Hullabaloo</a></li>
+                            <li><a href="http://talkingpointsmemo.com/" rel="friend" title="Talking Points Memo" target="_blank">Talking Points Memo</a></li>
+                            <li><a href="http://www.washingtonmonthly.com/" rel="friend" title="Washington Monthly" target="_blank">Washington Monthly</a></li>
+			</ul>
+                    </li>
+                </ul>
+            </div>
+                <div class="bar-section sidebar-commercial">
+            <script src='http://ads.investingchannel.com/adtags/angrybear/ros/160x600.js' type='text/javascript' charset='utf-8'></script>
+        </div>
+   
+        <div class="bar-section sitemeter">
+<!-- Site Meter XHTML Strict 1.0 -->
+<script type="text/javascript" src="http://sm9.sitemeter.com/js/counter.js?site=sm9angrybear">
+</script>
+<!-- Copyright (c)2009 Site Meter -->
+        </div>
+
+
+ </aside>
+
+
+        <div class="clear"></div>
+    </section>
+        </div>
+    <footer>
+        <div class="main">
+            <a class="logo" href="./../index.html" title="Angry Bear" rel="home"><img src="./../wp-content/uploads/2012/09/logo_bottom.png" border="0" alt="Angry Bear" title="Angry Bear" ></a>
+	    <div id="top-links"> <a href="http://digg.com/" target="_blank" id="digg"></a><a href="https://twitter.com/angrybearecon" target="_blank" id="twitter"></a><a href="http://feeds.feedburner.com/Hzoh" target="_blank" id="rss"></a><a href="http://www.facebook.com/search.php?init=dir&q=Angrybear+Crawford&type=users" target="_blank" id="facebook"></a></div>
+            <nav class="left">
+                <ul id="menu-footer-menu" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="./usglobal-economics/index.html">US/Global Economics</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="./taxesregulation/index.html">Taxes/regulation</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="./healthcare/index.html">Healthcare</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="./law/index.html">Law</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="./politics/index.html">Politics</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31"><a href="./hot-topics/index.html">Hot Topics</a></li>
+</ul>            </nav>
+            <nav class="right">
+                <ul id="menu-page-list-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="./../about/index.html">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="./../contact/index.html">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="./../editorial/index.html">Editorial</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="./../policies/index.html">Policies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="./../archives/index.html">Archives</a></li>
+</ul>            </nav>
+            <div class="clear"></div>
+            <div id="copy">Copyright &copy; 2016 Angry Bear Blog<span class="separator"> | </span>Developed by <a target="_blank" href="http://mev.com/">MEV</a></div>
+        </div>
+    </footer>
+                <script type='text/javascript' src='./../wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+<script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script>
+<script type='text/javascript' src='./../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+<!-- Generated in 0.162 seconds. Made 96 queries to database and 0 cached queries. Memory used - 5.72MB -->
+<!-- Cached by DB Cache Reloaded Fix -->
+    <script type="text/javascript" src="./../wp-content/themes/angrybear/js/jquery.main.js"></script>
+            <script type="text/javascript">
+            var content = jQuery('article:not(.single-post) div.content'),
+                moreThanTwoParagraphs = false,
+                paragraphText = content.children('p:not(p.tags)');
+
+            // remove empty paragraph
+            paragraphText.each(function(){
+                var me = jQuery(this),
+                    meText = me.text();
+                if(meText.length <= 5) {
+                    me.remove();
+                }
+            })
+
+            // hive paragraph if they more than two
+            if(moreThanTwoParagraphs = content.children('p:nth-child(2)')) {
+                /* moreThanTwoParagraphs.nextAll('p:not(.tags)').remove(); */
+            }
+        </script>
+	<script src="http://cdn.investingchannel.com/ic_beacon.js" type="text/javascript"></script>
+	<script type="text/javascript"> icBeacon('angrybear'); </script>
+    </body>
+</html><!-- hyper cache: bc0711cc39e8e811ec5925b626bb5c85 16-11-11 03:56:44 -->

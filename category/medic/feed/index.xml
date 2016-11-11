@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>medic &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The social safety net encourages&#8230;?</title>
+		<link>./../../2011/11/the-social-safety-net-encourages.html</link>
+		<comments>./../../2011/11/the-social-safety-net-encourages.html#respond</comments>
+		<pubDate>Mon, 28 Nov 2011 15:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[medic]]></category>
+		<category><![CDATA[social safety net]]></category>
+		<category><![CDATA[unemployment]]></category>
+		<category><![CDATA[unemployment benefits]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/11/the-social-safety-net-encourages.html</guid>
+		<description><![CDATA[Mark Thoma responds to the meme that the social safety net encourages bad behavior overall: The idea that the unemployment problem is due to lack of effort on behalf of the unemployed rather than a lack of demand is convenient for the moralists, but inconsistent with the facts. The problem is lack of demand, not [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://economistsview.typepad.com/economistsview/2011/11/social-insurance-and-unemployment-do-people-deserve-poverty.html">Mark Thoma</a> responds to the meme that the social safety net encourages bad behavior overall:<br />
+<blockquote>
+<p>The idea that the unemployment problem is due to lack of effort on behalf of the unemployed rather than a lack of demand is convenient for the moralists, but inconsistent with the facts. The problem is lack of demand, not the means through which we smooth the negative consequences of recessions.</p>
+<p>But what really irks me is the implicit moralizing, the idea that people deserve to be thrown into poverty. Someone who gets up every day and goes to a job day after day, often a job they don&#8217;t like very much, to support their families can suddenly become unemployed in a recession through no fault of their own. They did nothing wrong &#8212; it&#8217;s not their fault the economy went into a recession and they certainly couldn&#8217;t be expected to foresee a recession that experts such as Casey Mulligan missed entirely. <a name="more"></a> They had no reason to believe they had chosen the wrong place to go to work, but unemployment hit them anyway. And since one of the biggest causes of foreclosure is an event like unemployment, it&#8217;s entirely possible that this household would lose its home, be forced to declare bankruptcy, etc., and end up in severe poverty if there were no social services to rely upon.</p>
+<p>What moral lesson is being taught here? <!-- more --&gt  Why does this household deserve to be punished for their bad decisions? It did nothing wrong. I understand that people should suffer the consequences of their own bad choices, but that's not what happens in recessions. People who have done nothing to deserve it are nevertheless hit by severe negative shocks. That's what social insurance is for, to smooth the path for such unfortunate households, to avoid sending people into poverty who have done nothing to deserve it (see "<a href="http://economistsview.typepad.com/economistsview/2005/04/_the_need_for_s.html">The Need for Social Insurance</a>"). It is not an attempt to reward bad behavior and most programs do their best to avoid giving benefits to people who have made bad choices (for example, the system is far from perfect but in most states unemployment insurance can only be obtained if you lose your job through no fault of your, e.g. if you quit or get yourself fired it is not available). The extent to which we should distinguish between deserving and undeserving households for social insurance programs is debatable and depends upon the type of program, but the idea that all households are undeserving is, in my view, simply wrong. I would apply the social safety net widely myself -- I think the benefit of the doubt should go to compassion, not harshness and moralizing -- but in any case I'd dispute the idea that "safety-net generosity" is too high. If anything, we are not generous enough.</p>
+
+  
+<p><strong>Update</strong>: Karl Smith <a href="http://modeledbehavior.com/2011/11/28/if-the-safety-net-is-so-good-why-is-the-economy-so-bad/">comments</a> on this topic.</p>
+
+  </blockquote>
+
+
+</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/11/the-social-safety-net-encourages.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

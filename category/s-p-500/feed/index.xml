@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>S P 500 &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>S&#038;P 500 under Democratic and Republican Presidents</title>
+		<link>./../../2012/10/sp-500-under-democratic-and-republican-presidents.html</link>
+		<comments>./../../2012/10/sp-500-under-democratic-and-republican-presidents.html#respond</comments>
+		<pubDate>Mon, 22 Oct 2012 17:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 Presidential elections]]></category>
+		<category><![CDATA[S P 500]]></category>
+		<category><![CDATA[Spencer England]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/sp-500-under-democratic-and-republican-presidents.html</guid>
+		<description><![CDATA[I hear so many things about how investors prefer a Republican president I often  wonder if they have ever looked at the data.  Of course from just looking at a chart of the S&#038;;P 500 since WWII  it is hard to see how the market has performed under different presidents.   Maybe this chart that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>I hear so many things about how investors prefer a Republican president I often  wonder if they have ever looked at the data.  Of course from just looking at a chart of the S&#038;;P 500 since WWII  it is hard to see how the market has performed under different presidents.</div>
+<div><a href="http://2.bp.blogspot.com/--eJLmANGOBc/UIWCE86QeyI/AAAAAAAACTI/aFAecVXKHBg/s1600/Clipboard01+s&#038;p.bmp"><img border="0" height="290" src="http://2.bp.blogspot.com/--eJLmANGOBc/UIWCE86QeyI/AAAAAAAACTI/aFAecVXKHBg/s400/Clipboard01+s&#038;p.bmp" width="400"> </a></div>
+<div></div>
+<div></div>
+<div>Maybe this chart that shows the percent change under each president would make it a little clearer.</div>
+<div>It shows that in the modern era the S&#038;P 500 provided miserable returns under two administrations &#8212;</div>
+<div>Nixon-Ford and Bush Jr. </div>
+<div></div>
+<div><a href="http://1.bp.blogspot.com/-200rAh32I_s/UIWCRCbbFoI/AAAAAAAACTQ/YJrHIo1pojs/s1600/Clipboard01+percent+change.bmp"><img border="0" height="290" src="http://1.bp.blogspot.com/-200rAh32I_s/UIWCRCbbFoI/AAAAAAAACTQ/YJrHIo1pojs/s400/Clipboard01+percent+change.bmp" width="400"></a> </div>
+<div></div>
+<div></div>
+<p><a name="more"></a></p>
+<div>But maybe the  best way is to look at a table of this data.  The table shows that since WW II the market increased 261.8 % under Republican presidents and 449.1% under Democratic presidents.  But Republicans have held office for 36 years while Democrats have  held the Presidency for 31.6 years &#8212; Truman was president for 7 years and 5 months while Obama still has 3 months to go to fill his first term. Taking the annual average to adjust for this, shows that the average annual returns under Republicans was 7.3%  and under Democrats it was 14.2%, or almost double the rate of return under Republicans.  If your well being depends heavily on stock returns, as most portfolio managers does, you are clearly better off now than you were four years ago.</div>
+<div></div>
+<div></div>
+<div></div>
+<div> <a href="http://1.bp.blogspot.com/-stRgn4gKdME/UIWB-MyO-5I/AAAAAAAACTA/1XtyhGP69dw/s1600/Clipboard01+table.bmp"><img border="0" height="186" src="http://1.bp.blogspot.com/-stRgn4gKdME/UIWB-MyO-5I/AAAAAAAACTA/1XtyhGP69dw/s400/Clipboard01+table.bmp" width="400"></a></div>
+<div></div>
+<div>To address possible objections to this analysis I could add Hoover and Roosevelt but that would just make the Democrats larger and reduce the Republicans average returns.  The data is for the monthly average from the month they took office until the next president took office.  I do not have daily prices back far enough to use daily prices and my data on total returns, including dividend reinvestment, only goes back to 1970.  Truman took office after V-E Day and just before V-J Day, so his  inauguration  marks a very good way to date the start of the post WW II era.</div>
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/sp-500-under-democratic-and-republican-presidents.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

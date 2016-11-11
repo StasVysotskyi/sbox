@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>inventories &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Question of the Day</title>
+		<link>./../../2010/01/question-of-the-day.html</link>
+		<comments>./../../2010/01/question-of-the-day.html#respond</comments>
+		<pubDate>Sat, 30 Jan 2010 20:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[GDP]]></category>
+		<category><![CDATA[inventories]]></category>
+		<category><![CDATA[retail sales]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/01/question-of-the-day.html</guid>
+		<description><![CDATA[Is it really Good News that changes in Real Private Inventories were 3.4% of that 5.7% Q-on-Q GDP in Q4? (h/t Alea&#8217;s Twitter feed) Most reasonable assumption: firms overproduced, relative to actual buying, in anticipation of the Xmas season. Maybe more later.]]></description>
+				<content:encoded><![CDATA[<p>Is it really Good News that changes in Real Private Inventories <a href="http://www.bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm">were 3.4% of that 5.7% Q-on-Q GDP in Q4</a>? (h/t <a href="http://www.aleablog.com/">Alea&#8217;s</a> <a href="http://twitter.com/alea_">Twitter feed</a>)</p>
+<p>Most reasonable assumption:  firms overproduced, relative to actual buying, in anticipation of the Xmas season.</p>
+<p>Maybe more later.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/01/question-of-the-day.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fed &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Who Determines Short Term Interest Rates?</title>
+		<link>./../../2012/05/who-determines-short-term-interest-rates.html</link>
+		<comments>./../../2012/05/who-determines-short-term-interest-rates.html#respond</comments>
+		<pubDate>Tue, 01 May 2012 14:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Fed]]></category>
+		<category><![CDATA[interest rates]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/05/who-determines-short-term-interest-rates.html</guid>
+		<description><![CDATA[Do you think it&#8217;s the Fed? It&#8217;s not. The market determines short term interest rates. Really. The Federal Funds Rate, which is set by the Fed, FOLLOWS 3 month T-Bill rates.  It does not lead the economy.  Here are some looks.  First the whole data set, going back to 1954, presented in Graph 1. Federal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Do you think it&#8217;s the Fed?</p>
+<p>It&#8217;s not.</p>
+<p>The market determines short term interest rates.</p>
+<p>Really.</p>
+<p>The Federal Funds Rate, which is set by the Fed, FOLLOWS 3 month T-Bill  rates.  It does not lead the economy.  Here are some  looks.  First the  whole data set, going back to 1954, presented in  Graph 1.</p>
+<p>Federal Funds data from <a href="http://research.stlouisfed.org/fred2/series/FEDFUNDS/downloaddata?cid=118">FRED</a>.</p>
+<p>T-Bill rates from a different <a href="http://www.federalreserve.gov/releases/h15/data.htm">Federal Reserve site</a></p>
+<p>These  are tabulated monthly values.  But the T-Bill rate is set in a weekly  auction, and the Fed Funds rate is set by the Fed Open Market Committee,  on an arbitrary schedule, at their discretion.  </p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-M6jP_B7ixQU/Td6z4s9P_vI/AAAAAAAABaU/phuRkIvw5Rs/s1600/Fed+Funds+and+T-Bills.jpg"><img border="0" height="223" src="http://4.bp.blogspot.com/-M6jP_B7ixQU/Td6z4s9P_vI/AAAAAAAABaU/phuRkIvw5Rs/s400/Fed+Funds+and+T-Bills.jpg" width="400"></a></div>
+<div>Graph 1  Fed Funds and 3 Mo. T Bill Rates, 1954-2011</div>
+<p>Not  exactly lock step, but they are a couple of clinging vines.  At this  scale, it&#8217;s pretty hard to tell who leads and who follows.  Let&#8217;s look  closer at the last few decades.  First, the all-time highs of the early  80&#8217;s, in Graph 2.</p>
+<p><a name="more"></a>
+<div><a href="http://3.bp.blogspot.com/-M2qC8zhCvHM/Td61Fgb2VsI/AAAAAAAABaY/kdiDFTLw95c/s1600/FF+anf+TBill+78+to+84.jpg"><img border="0" height="223" src="http://3.bp.blogspot.com/-M2qC8zhCvHM/Td61Fgb2VsI/AAAAAAAABaY/kdiDFTLw95c/s400/FF+anf+TBill+78+to+84.jpg" width="400"></a></div>
+<div>Graph 2  Fed Funds and 3 Mo. T Bill Rates, 1978-84</div>
+<p>Here,  the Fed Funds are in green and the T-Bill rate in orange, with the  moves off of tops and bottoms highlighted in other colors.  Fed Funds  tend to run a bit above T-Bills.  From this data, T-Bill rates generally  change direction in the same month or the month prior to a Fed Funds  change.</p>
+<p>
+<div><a href="http://1.bp.blogspot.com/-a9DtNvdYmiQ/Td65EsaC7vI/AAAAAAAABag/Pg2tCLSiOo8/s1600/FF+and+T+bill+rates+86+to+95.jpg"><img border="0" height="223" src="http://1.bp.blogspot.com/-a9DtNvdYmiQ/Td65EsaC7vI/AAAAAAAABag/Pg2tCLSiOo8/s400/FF+and+T+bill+rates+86+to+95.jpg" width="400"></a></div>
+<div>Graph 3  Fed Funds and 3 Mo. T Bill Rates, 1978-84</div>
+<p>Same  story in Graph 3: either concurrent motion or T-Bills are slightly  ahead.  For the two downward moves at the beginnings of 1990 and 1995,  they are three to four months ahead.</p>
+<p>The story is similar for the most recent decade, shown in Graph 4.</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-cU8l-ZthtUA/Td66TOtKbiI/AAAAAAAABak/2CHrbY7sEyA/s1600/FF+and+T+bill+rates+2000+to+2008.jpg"><img border="0" height="223" src="http://4.bp.blogspot.com/-cU8l-ZthtUA/Td66TOtKbiI/AAAAAAAABak/2CHrbY7sEyA/s400/FF+and+T+bill+rates+2000+to+2008.jpg" width="400"></a></div>
+<div>Graph 4  Fed Funds and 3 Mo. T Bill Rates, 2000-2008</div>
+<p>Looks  like the Fed is a close follower of T-Bill rates, usually within a  month or so.  Coming off a diffuse top, the lag can be a little longer.</p>
+<p>Graph 5 shows a close up of 2001-5, without the odd colors.  T-Bill leadership is easily seen.</p>
+<div><a href="http://3.bp.blogspot.com/-M0l9xuoAP7A/Td7A1wDB84I/AAAAAAAABas/-T3KCeC8W1U/s1600/FF+and+T-Bill+Rates+01+to+05.JPG"><img border="0" height="298" src="http://3.bp.blogspot.com/-M0l9xuoAP7A/Td7A1wDB84I/AAAAAAAABas/-T3KCeC8W1U/s400/FF+and+T-Bill+Rates+01+to+05.JPG" width="400"></a></div>
+<div>Graph 5  Fed Funds and 3 Mo. T Bill Rates, 2001-05</div>
+<p>Two questions present themselves:</p>
+<p>1) Does the Fed have any real power to influence interest rates?<br />2) What would happen if they attempted to move counter to the market?</p>
+<p>In my mind, this casts serious doubt on the usefulness  of interest rate manipulations as a monetary policy lever.   What do  you think?<br />.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/05/who-determines-short-term-interest-rates.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ECB policy is tightening &#8211; has been for some time</title>
+		<link>./../../2011/04/ecb-policy-is-tightening-has-been-for-some-time.html</link>
+		<comments>./../../2011/04/ecb-policy-is-tightening-has-been-for-some-time.html#respond</comments>
+		<pubDate>Sun, 10 Apr 2011 15:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BoE]]></category>
+		<category><![CDATA[ECB]]></category>
+		<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[Fed]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/ecb-policy-is-tightening-has-been-for-some-time.html</guid>
+		<description><![CDATA[Update: Nouriel Roubini front pages this post on Euromonitor here. The ECB dove in and hiked its policy rate by 25 basis points to 1.25%. I had the pleasure of listening to Wolfgang Munchau on Thursday, and he reiterated what I reluctantly understood: the ECB&#8217;s strict inflation target is ridiculously simple for such a complex [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Update: Nouriel Roubini front pages this post on Euromonitor  <a target="_blank" href="http://www.roubini.com/euro-monitor/260807/ecb_policy_is_tightening_-_has_been_for_some_time">here</a>.</p>
+<p>The ECB dove in  and hiked its policy rate by 25 basis points to 1.25%. I had the pleasure of listening to Wolfgang Munchau on Thursday, and he reiterated what I reluctantly understood: the ECB&#8217;s strict inflation target is ridiculously simple for such a complex region; but more importantly, the <a href="http://www.blogger.com/post-create.g?blogID=5048766">Governing Council</a> is just itching to tighten.</p>
+<p><a href="http://www.eurointelligence.com/article/article/we-will-continue-to-monitor-very-closely.html?tx_ttnews%5BbackPid%5D=901&#038;cHash=2616dd1ca72d977296c5537306843443">Eurointelligence blog</a> highlights the various interpretations of the ECB&#8217;s shift in policy: <a href="http://ftalphaville.ft.com/blog/2011/04/08/540626/pink-picks-733/">Thomas Mayer at Deutsche Bank</a> suggests that the ECB&#8217;s normalization is appropriate, while <a href="http://macromarketmusings.blogspot.com/">David Beckworth</a> and others (links at Beckworth&#8217;s site) are more sympathetic to the impact on the Periphery. They highlight that relative price fluctuations could facilitate the much-needed redistribution of capital flows (i.e., the current account); and furthermore, that ECB policy is even too tight for the core (a <a href="http://translate.google.com/translate?hl=en&#038;sl=de&#038;tl=en&#038;u=http%3A%2F%2Fkantooseconomics.com%2F2011%2F04%2F07%2Fdas-versagen-der-ezb-geht-in-die-nachste-runde%2F">google translation of Kantoos Economics</a>). Yours truly has written extensively about this &#8211; among others, <a href="http://www.angrybearblog.com/2010/11/eurozone-rebalancing-depends-on-german.html">here&#8217;s one</a>, <a href="http://www.angrybearblog.com/2011/03/more-on-ecbs-overreaction.html">another</a>, <a href="http://www.angrybearblog.com/2011/02/ecb-would-quash-discrete-shift-in.html">and another</a>. Who&#8217;s right? Ultimately time will tell.</p>
+<p>But I do suspect that we haven&#8217;t seen the end of this crisis. The ECB is squeezing out liquidity when more liquidity is needed. Furthermore, the core remains subject to export shocks via external demand; and there&#8217;s building evidence that global growth will slow (see this excellent post on <a href="http://edwardhughtoo.blogspot.com/2011/04/global-manufacturing-slips-back.html">global PMIs by Edward Hugh</a>).</p>
+<p>It&#8217;s ironic, too. While the ECB is currently being heralded or chastised for raising rates, monetary and financial conditions in Europe have been tight for some time, both on a relative and stand-alone basis!<br />(read more after the jump!)<a name="more"></a></p>
+<p>First, the ECB&#8217;s bond purchase programs, the Securities Market Programme and the Covered Bond Purchase program, amount to just 1.4% of 2010 Eurozone GDP. In stark contrast, the size of the Fed&#8217;s program broke 16% (and is rising) and the Bank of England&#8217;s purchase program remains firm at around 13% of GDP.</p>
+<p><a href="http://2.bp.blogspot.com/-O8cg_0Bgmow/TaHIuBGKvBI/AAAAAAAADlE/Olpr4z9nRVk/s1600/asset_holdings.jpg"><img src="http://2.bp.blogspot.com/-O8cg_0Bgmow/TaHIuBGKvBI/AAAAAAAADlE/Olpr4z9nRVk/s400/asset_holdings.jpg" alt="" border="0"></a><br />The asset purchase programs are emergence liquidity programs and are not normal monetary policy tools. But while the Fed and the BoE do not sterilize their flows, the ECB does. And my interpretation of ECB rhetoric and policy as of late is that they want out of the secondary-bond purchase business. For example, they&#8217;ve slowed their SMP purchases markedly in 2011 (see the ad-hoc announcements <a href="http://www.ecb.int/mopo/implement/omo/html/index.en.html">here</a>).</p>
+<p>Second, Eurozone financial conditions have been tightening since August 2010, while those in the US and England loosened up. Goldman Sachs constructs a financial conditions index, which is comprised of real interest rates (long and short), real exchange rates, and equity market capitalization. I love this index (subscription required), as it represents a broad measure of monetary policy pass-through.</p>
+<p>Even though the ECB just started its rate-hiking cycle, they&#8217;ve been effectively tightening for some time.</p>
+<p><a href="http://4.bp.blogspot.com/-dWipu4TwSP4/TaHIuPaErII/AAAAAAAADlM/g9TWeon1ZAo/s1600/GSFCI_chart.jpg"><img src="http://4.bp.blogspot.com/-dWipu4TwSP4/TaHIuPaErII/AAAAAAAADlM/g9TWeon1ZAo/s400/GSFCI_chart.jpg" alt="" border="0"></a>I would say that Eurozone (as a whole) growth prospects are seriously challenged at this time, especially by comparing monetary policy to that in England and the US. We&#8217;ll see if the ECB&#8217;s able to push its target rate back to 2.5-3% through 2012 &#8211; I suspect that may be just a pipe dream, as tight liquidity and a slowing global economy drag economic growth.</p>
+<p>The ECB&#8217;s actions imply to me that they still do not understand the following: Europe faces a banking crisis not a fiscal crisis!</p>
+<p>Rebecca Wilder</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/ecb-policy-is-tightening-has-been-for-some-time.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comparing the Fed, the ECB, and the BoE before policies diverge</title>
+		<link>./../../2010/11/comparing-the-fed-the-ecb-and-the-boe-before-policies-diverge.html</link>
+		<comments>./../../2010/11/comparing-the-fed-the-ecb-and-the-boe-before-policies-diverge.html#respond</comments>
+		<pubDate>Mon, 01 Nov 2010 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BoE]]></category>
+		<category><![CDATA[ECB]]></category>
+		<category><![CDATA[Fed]]></category>
+		<category><![CDATA[monetary policy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/11/comparing-the-fed-the-ecb-and-the-boe-before-policies-diverge.html</guid>
+		<description><![CDATA[The coming week is G4 central bank week. The Federal Reserve Bank (Fed) announces its policy decision on November 3; the European Central Bank (ECB) and the Bank of England (BoE) will make policy announcements on November 4; and the Bank of Japan pushed forward its November 15-16 meeting to be held now on November [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The coming week is G4 central bank week. The Federal Reserve Bank (Fed) announces its policy decision on November 3; the European Central Bank (ECB) and the Bank of England (BoE) will make policy announcements on November 4; and the Bank of Japan <a href="http://www.boj.or.jp/en/type/release/adhoc10/k101028.pdf">pushed forward</a> its November 15-16 meeting to be held now on November 4-5.</p>
+<p>At this juncture, G4 ex Japan monetary policy is likely to diverge sharply: the <a href="http://www.nytimes.com/2010/11/01/business/01markets.html?ref=business">Fed is expected to announce</a> an extension of its asset purchase program, while the ECB and <a href="http://www.telegraph.co.uk/finance/economics/8099072/MPC-expected-to-hold-fire-on-more-quantitative-easing.html">BoE</a> are not expected to increase theirs. In fact, the policy wedge between the three central banks is already wide. Despite the ECB&#8217;s enacting its <a href="http://www.ecb.int/ecb/legal/pdf/l_17520090704en00180019.pdf">covered bond purchase program</a>, the amount is small, roughly 1.4% of Eurozone GDP (see chart below), and the <a href="http://www.ecb.int/press/pr/date/2010/html/pr100510.en.html">central bank is sterilizing the flow</a> &#8211; sterilizing the operation means that the ECB performs equal and opposite monetary operations to reduce bank reserves by the amount of the bond purchase program.</p>
+<p><a href="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TMwRPfAuOWI/AAAAAAAADVs/z_skMAAnIxc/s1600/asset_purchase_chart.jpg"><img alt="" src="http://2.bp.blogspot.com/_Et4TQ-a0gGU/TMwRPfAuOWI/AAAAAAAADVs/z_skMAAnIxc/s400/asset_purchase_chart.jpg" border="0"></a><a name="more"></a>The chart above illustrates the size of the bond purchase programs (assets sitting on the central bank balance sheet) as a share of 2010 GDP (<a href="http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/index.aspx">IMF forecast</a>). Ostensibly, and from a bank-lending point of view, Eurozone financial conditions appear to be &#8220;healthier&#8221; than those in the UK or US.</p>
+<p><a href="http://3.bp.blogspot.com/_Et4TQ-a0gGU/TMwRO0mh37I/AAAAAAAADVk/LBr17SBlrro/s1600/total_lending_chart.jpg"><img alt="" src="http://3.bp.blogspot.com/_Et4TQ-a0gGU/TMwRO0mh37I/AAAAAAAADVk/LBr17SBlrro/s400/total_lending_chart.jpg" border="0"></a>The chart above illustrates total bank lending in the <a href="http://www.ecb.int/stats/money/aggregates/bsheets/html/index.en.html">Eurozone</a>, <a href="http://www.bankofengland.co.uk/statistics/fm4/current/index.htm">UK</a>, and the <a href="http://federalreserve.gov/releases/h8/current/default.htm">US</a>; but this may change as austerity measures in some European countries infect the stronger economies via a tightly integrated trade relationship.</p>
+<p>Policy is already much tighter in the ECB compared to its US and UK counterparts. This discrepancy is expected to diverge, as the Fed moves into QE2 mode this week.</p>
+<p>Rebecca Wilder</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/11/comparing-the-fed-the-ecb-and-the-boe-before-policies-diverge.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sewerage &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>More on water resources and GATS</title>
+		<link>./../../2007/10/more-on-water-resources-and-gats.html</link>
+		<comments>./../../2007/10/more-on-water-resources-and-gats.html#respond</comments>
+		<pubDate>Wed, 03 Oct 2007 11:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[sewerage]]></category>
+		<category><![CDATA[water]]></category>
+		<category><![CDATA[WTO]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2007/10/more-on-water-resources-and-gats.html</guid>
+		<description><![CDATA[OMB Watch has posted a notice on something we rarely think about, and take for granted. The Raw Sewage Overflow Right-to-Know Act (H.R. 2452), introduced by Reps. Tim Bishop (D-NY) and Frank LoBiondo (R-NJ) on May 23, requires sewage treatment facilities to notify the public, public health officials and any other downstream &#8220;affected entities&#8221; when [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.ombwatch.org/article/articleview/3997/">OMB Watch</a> has posted a notice on something we rarely think about, and take for granted.</p>
+<blockquote><p>The <a href="http://thomas.loc.gov/cgi-bin/bdquery/z?d110:hr2452:">Raw Sewage Overflow Right-to-Know Act (H.R. 2452)</a>, introduced by Reps. Tim Bishop (D-NY) and Frank LoBiondo (R-NJ) on May 23, requires sewage treatment facilities to notify the public, public health officials and any other downstream &#8220;affected entities&#8221; when there is a sewage overflow within 24 hours of the incident. A Senate companion bill (<a href="http://thomas.loc.gov/cgi-bin/bdquery/z?d110:sb2080:">S. 2080</a>) was introduced by Sen. Frank Lautenberg☼<a href="http://sunlightlabs.com/tag/Sen.%20Frank%20Raleigh%20LAUTENBERG" rel="tag"></a> (D-NJ) on Sept. 20.<br />The long-standing but little-known problem of sewage spillage in waterways is a major cause of illnesses stemming from waterborne contaminants. American Rivers, a national advocacy organization, <a href="http://www.americanrivers.org/site/DocServer/arswg.all.8_16_07_opt.pdf?docID=6521">estimates that over 850 billion gallons of raw sewage are released every year</a>. Rainstorms easily overwhelm sewage systems, and broken or clogged pipes contribute to the 23,000-75,000 raw sewage overflows every year. Federal clean water funding has plummeted under the Bush administration, and the already strained sewage systems further deteriorate every year. EPA estimates between 1.8 million and 3.5 million people become sick due to recreational contact with sewage-contaminated water. With no national requirement for public notification, the majority of states do not have regulations or policies in place, and most Americans have no idea when it is not safe to be in the water.</p></blockquote>
+<p>In the GATS agreements, sewerage is part of an industry that comes under accessible categories for international and national privatization, while purifying drinking water does not. But it is part of the aging infrastructure that is rarely mentioned, and one wonders how much it is worth.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2007/10/more-on-water-resources-and-gats.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

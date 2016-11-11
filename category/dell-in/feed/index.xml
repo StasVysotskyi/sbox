@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dell In. &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dell goes private&#8230;blueprint for re-structuring?</title>
+		<link>./../../2013/02/dell-goes-private-blueprint-for-re-structuring.html</link>
+		<comments>./../../2013/02/dell-goes-private-blueprint-for-re-structuring.html#respond</comments>
+		<pubDate>Thu, 07 Feb 2013 13:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[David Cay Johnson]]></category>
+		<category><![CDATA[Dell In.]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/dell-goes-private-blueprint-for-re-structuring.html</guid>
+		<description><![CDATA[David Cay Johnson describes the processes of restructuring the company over time as Dell goes private: Six years ago, Dell Inc. announced a $12 billion restructuring with huge tax consequences not just for Dell, but also for tax policy. If the deal works as intended, American multinationals can copy it to escape the corporate income [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://taxanalysts.com/www/features.nsf/Articles/D8A55EFE6CF17A3885257B01006D4565?OpenDocument" target="_blank">David Cay Johnson</a> describes the processes of restructuring the company over time as Dell goes private:<br />
+<blockquote>Six years ago, Dell Inc. announced a $12 billion restructuring with huge tax  consequences not just for Dell, but also for tax policy. If the deal works as  intended, American multinationals can copy it to escape the corporate income tax  on profits earned in the United States.<br />   <br />What Dell did was remake itself in a way that lets it escape taxes on profits  earned in the United States by running them through a Netherlands entity and  newly formed subsidiaries in Singapore and the Cayman Islands.  </p>
+<p>Dell later quietly dropped the Singapore and Cayman Islands entities in what  appears to be a pattern of remaking its corporate structure every few years.  This nuanced timing pattern may have great significance as a tool for tax  avoidance because IRS corporate audit practices were established on the  assumption that companies tend to have stable structures. The IRS rarely audits  newly formed entities.  <br />You probably are unaware of this restructuring, even if you are a Dell  shareholder or a Wall Street analyst who follows the company. That&#8217;s because  Dell mentioned it in just a single sentence in an SEC filing and, as best I can  tell, nowhere else.  </p>
+<p>Dell&#8217;s restructuring is important because its founder plans to force out  other shareholders by selling the Texas computer maker to a private equity group  for a reported $15 billion, complicating open IRS audits.</p></blockquote>
+<p>Several graphs help clarify the process of changing &#8216;ownership&#8217; and multi national corporate policy.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/dell-goes-private-blueprint-for-re-structuring.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

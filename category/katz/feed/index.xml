@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Katz &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Michelle Malkin and Larry Katz</title>
+		<link>./../../2009/08/michelle-malkin-and-larry-katz.html</link>
+		<comments>./../../2009/08/michelle-malkin-and-larry-katz.html#respond</comments>
+		<pubDate>Tue, 04 Aug 2009 09:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Katz]]></category>
+		<category><![CDATA[Malkin]]></category>
+		<category><![CDATA[unemployment]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/michelle-malkin-and-larry-katz.html</guid>
+		<description><![CDATA[Robert Waldmann is very very late with this one. Appears that long long ago (in blogtime) Michelle Malkin said that Larry Katz once wrote that unemployment insurance causes unemployment. I know Larry Katz, Larry Katz was my PhD co-supervisor, Larry Katz is a friend of mine and Ms Malkin, you&#8217;re no Larry Katz. Malkin was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>is very very late with this one.   Appears that long long ago (in blogtime) <a href="http://www.beautifulhorizons.net/weblog/2009/08/larry-katz-vs-larry-katz-alternative-title-michelle-malkin-is-a-moron.html">Michelle Malkin said that Larry Katz once wrote that unemployment insurance causes unemployment.<br /></a></p>
+<p>I know Larry Katz, Larry Katz was my PhD co-supervisor, Larry Katz is a friend of mine and Ms Malkin, you&#8217;re no Larry Katz.</p>
+<p>Malkin was referring to <a href="http://ideas.repec.org/p/nbr/nberwo/2741.html">&#8220;The Impact of the Potential Duration of Unemployment Benefits on the Duration of Unemployment&#8221; Katz and Meyer 1990</a> which did indeed show that a lot of people start working again exactly when their UI benefits run out.  It also showed something even more remarkable.  A lot of people start working again after exactly 6 months of unemployment even if, while they were unemployed, benefits were extended.  The paper is a spin off from his dissertation chapter on how, if one wants to understand unemployment duration one has to distinguish between temporary layoff unemployment and other unemployment.</p>
+<p>That&#8217;s not so true anymore.   The sad fact is that the fraction of the unemployed who are on temporary layoff is much lower now (about 10% I think).   This implies much slower employment expansion in a recovery.  It also means that unemployment spells are not designed in advance, and, in particular, not planned with UI rules in mind.  Katz&#8217;s story about the 6 month spike even when benefits had been extended was that firms scheduled a layoff of 6 months before benefits were extended.  It is true that in addition to the recall from temporary layoff spike Katz and Meyer found a smaller spike in the hazard of exiting unemployment to a new job when UI actually stopped.</p>
+<p>The economy has changed and the effect described by Katz and Meyer is probably smaller now than it was in their data.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/michelle-malkin-and-larry-katz.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

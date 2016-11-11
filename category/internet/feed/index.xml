@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Internet &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>What The Rude Pundit Said</title>
+		<link>./../../2012/01/what-the-rude-pundit-said.html</link>
+		<comments>./../../2012/01/what-the-rude-pundit-said.html#respond</comments>
+		<pubDate>Wed, 18 Jan 2012 17:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[free markets]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[SOPA]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/what-the-rude-pundit-said.html</guid>
+		<description><![CDATA[Christopher Dodd ruins his reputation: Go read about [SOPA and PIPA], if you haven&#8217;t, because it&#8217;s pretty insidious stuff, not just because of the governmental control, but because of the corporate power behind it&#8230;. Former Senator Chris Dodd, now head of the Motion Picture Association of America (motto: &#8220;You can only be our leader if [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://rudepundit.blogspot.com/2012/01/no-sopapipa-blackout-here-but.html">Christopher Dodd ruins his reputation</a>:<br />
+<blockquote>Go read <a href="http://www.nytimes.com/2012/01/18/technology/web-wide-protest-over-two-antipiracy-bills.html">about</a> [SOPA and PIPA], if you haven&#8217;t, because it&#8217;s pretty insidious <a href="http://americancensorship.org/">stuff</a>, not just because of the governmental control, but because of the corporate power behind it&#8230;.</p>
+<p><a href="http://www.salon.com/2012/01/18/chris_dodds_paid_sopa_crusading/">Former</a> Senator Chris Dodd, now head of the Motion Picture Association of America (motto: &#8220;You can only be our leader if you&#8217;re a male with a full head of white hair&#8221;), issued a <a href="http://wonkette.com/460428/happy-anti-censorship-day-internet#more-460428">statement</a> attacking the websites that are participating in today&#8217;s strike/blackout. It says, in part, &#8220;It’s a dangerous and troubling development when the platforms that serve as gateways to information intentionally skew the facts to incite their users in order to further their corporate interests.&#8221;</p>
+<p>You got that? The whore who fronts for an industry owned by multinational megacorporations like NewsCorp, Sony, and Viacom is actually attacking BoingBoing.net owners Happy Mutants LLC for using the internet for some evil agenda to steal Chipmunk movies just because they went on a one-day strike. That&#8217;s a bit like Ted Bundy accusing a student nurse of having a messy dorm room just before bludgeoning her to death.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/what-the-rude-pundit-said.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Semi-Tech Interlude: External Wikipedia Links</title>
+		<link>./../../2008/05/semi-tech-interlude-external-wikipedia-links.html</link>
+		<comments>./../../2008/05/semi-tech-interlude-external-wikipedia-links.html#respond</comments>
+		<pubDate>Mon, 12 May 2008 17:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/05/semi-tech-interlude-external-wikipedia-links.html</guid>
+		<description><![CDATA[I mentioned this at Marginal Utility, but agree with rdan that it&#8217;s worth mentioning to the (somewhat larger) AngryBear readership. Kathryn Cramer has done some work with Wikipedia&#8217;s External Links tool. The results are interesting, and I suspect the more tech-savvy (or persistent) than I will be able to leverage the work. Discuss amongst yourselves.]]></description>
+				<content:encoded><![CDATA[<p>I mentioned this at <a href="http://atbozzo.blogspot.com/2008/05/kathryn-cramer-performs-useful-service.html">Marginal Utility</a>, but agree with rdan that it&#8217;s worth mentioning to the (somewhat larger) AngryBear readership.</p>
+<p>Kathryn Cramer <a href="http://www.kathryncramer.com/kathryn_cramer/2008/04/clocking-extern.html">has done some work with Wikipedia&#8217;s External Links tool</a>.  The results are interesting, and I suspect the more tech-savvy (or persistent) than I will be able to leverage the work.</p>
+<p>Discuss amongst yourselves.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/05/semi-tech-interlude-external-wikipedia-links.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Steve Randy Waldman &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Are TBTF Banks Out of Danger? The Market Doesn&#8217;t Think So</title>
+		<link>./../../2009/12/are-tbtf-banks-out-of-danger-the-market-doesnt-think-so.html</link>
+		<comments>./../../2009/12/are-tbtf-banks-out-of-danger-the-market-doesnt-think-so.html#comments</comments>
+		<pubDate>Fri, 18 Dec 2009 18:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[rational expectations]]></category>
+		<category><![CDATA[shareholder value]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[Steve Randy Waldman]]></category>
+		<category><![CDATA[TED]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/are-tbtf-banks-out-of-danger-the-market-doesnt-think-so.html</guid>
+		<description><![CDATA[Down here it’s just winners and losersAnd don’t get caught on the wrong side of that line This will be a long post. Even with all the pictures above the fold. It started with a finger exercise during my daughter’s swim team practice: Just in case you thought I was picking on The Big C [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote><p>Down here it’s just winners and losers<br />And don’t get caught on the wrong side of that line</p></blockquote>
+<p>
+<p>This will be a long post.  Even with all the pictures above the fold.</p>
+<p>It started with a finger exercise during my daughter’s swim team practice:</p>
+<p>Just in case you thought I was picking on The Big C in <a href="http://angrybear.blogspot.com/2009/12/much-to-my-amazement.html">my previous post</a>, let us look at the other major financial institutions (Too Big to Fail, or TBTF, Banks) over the same time period.</p>
+<p>The Remaining Investment Banks:</p>
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SyuedQfzQhI/AAAAAAAAAWE/a_KaoBLMLiY/s1600-h/GSsince2006.JPG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SyuedQfzQhI/AAAAAAAAAWE/a_KaoBLMLiY/s400/GSsince2006.JPG" border="0" alt=""></a></p>
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/Syuep3rEiaI/AAAAAAAAAWM/2tqRmMqZxUc/s1600-h/MSsince2006.JPG"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/Syuep3rEiaI/AAAAAAAAAWM/2tqRmMqZxUc/s400/MSsince2006.JPG" border="0" alt=""></a></p>
+<p>While Goldman Sachs—as with most of the other so-called Winners—shows a significant upturn and major gains since the beginning of 2009, Morgan Stanley’s appreciation has been rather less apparent.  However, both have returned only to approximately the price they held during the interregnum (after Bear Stearns fell but while Lehman Brothers ignored the warning and decided not to right the ship).</p>
+<p>The Mortgage Lending Leaders:</p>
+<p><a href="http://1.bp.blogspot.com/_wM5Pj6NF0jA/Syue-HCbJbI/AAAAAAAAAWU/ZbyajxlxtV8/s1600-h/WFCsince2006.JPG"><img src="http://1.bp.blogspot.com/_wM5Pj6NF0jA/Syue-HCbJbI/AAAAAAAAAWU/ZbyajxlxtV8/s400/WFCsince2006.JPG" border="0" alt=""></a></p>
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SyufHQfVEkI/AAAAAAAAAWc/owd0PWtCXb0/s1600-h/JPMsince2006.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SyufHQfVEkI/AAAAAAAAAWc/owd0PWtCXb0/s400/JPMsince2006.JPG" border="0" alt=""></a> </p>
+<p>Both firms show an increase in stock performance beginning in Q1 of 2009.  Wells Fargo had a precipitous dive after LEH filed bankruptcy, but recovered in a similar amount of time.  JPMorganChase, having acquired Bear for either a song or too much money, remains below the level it reached during the interregnum, but solidly in the middle of its range since 2006. </p>
+<p>The Consumers-as-Profit-Center (“Retail”) Banks:</p>
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SyufW23DoMI/AAAAAAAAAWk/qeWpaN62KBQ/s1600-h/COFsince2006.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SyufW23DoMI/AAAAAAAAAWk/qeWpaN62KBQ/s400/COFsince2006.JPG" border="0" alt=""></a></p>
+<p><a href="http://3.bp.blogspot.com/_wM5Pj6NF0jA/Syufg2H-ySI/AAAAAAAAAWs/QnoG293TUkk/s1600-h/BACsince2006.JPG"><img src="http://3.bp.blogspot.com/_wM5Pj6NF0jA/Syufg2H-ySI/AAAAAAAAAWs/QnoG293TUkk/s400/BACsince2006.JPG" border="0" alt=""></a></p>
+<p>As is apparent, Capital One’s stock decline was not precipitated by the proximate solvency crisis itself, but rather by the decline in earnings and profits, and deflation in wages, that was in full swing by early 2006.  While Bank of America does not have that preamble, it sees a similar decline in its stock price from the middle of 2007.  By the time the recession is officially declared, the trend has started. And while Bear’s fire sale to JPM causes a decline in bank stocks, it is not until LEH that BAC mirrors its competitors above.  More like MS than GS, BAC’s recovery to less than one-half of its pre-recession trading price suggests that the market is less confident than management that the firm’s major issues are behind it.</p>
+<p>But one thing abides.  The market isn&#8217;t happy.<br /><a name="more"></a><br />Even as we might divide this squad into Winners (GS, JPM, WFC), Losers (C, MS), and Also-Rans (COF, BAC), six of those seven (exception: JPM) appear to be viewed by the market as no stronger than they were during the interregnum, the time when everyone was waiting to see if the other shoe would drop.</p>
+<p>There are certainly other reasons the stock price might be down: insider selling at the firms is at record or near-record levels, and sooner or later people will figure out that <a href="http://www.zerohedge.com/article/most-recent-insider-selling-buying-ratio-821">when insiders are selling at 82:1 levels is not the best time to buy</a>.  Their loans are down (post on that coming soon) while, as Linda <a href="http://ataxingmatter.blogs.com/tax/2009/12/is-goldman-really-a-bank-would-some-tax-increases-make-sense-right-away.html">notes at ataxingmatter</a>:</p>
+<blockquote><p>A recent study suggests that big banks in the TBTF category now enjoy a significant cost-of-funds spread compared to other banks.  That is, they can borrow money more cheaply, leading to greater ability to make profits, than can other banks, because of the implicit guarantee that the federal government will step in and save them because they are TBTF and pose a systemic risk.  That advantage may amount to as much as 48% of the TBTF banks&#8217; profits this year (or as &#8216;little&#8217; as 9%, on very conservative assumptions).   The government, by the way, gets nothing for this implicit guarantee&#8211;unlike a commercial guarantor, it is not being paid a regular premium for the service.</p></blockquote>
+<p>So maybe investors believe that this advantage will go away.  (Or, as noted above, maybe investors have figured out that the Big Banks aren&#8217;t taking advantage of this opporunity, expecting that it will never go away.)</p>
+<p>The one certainty is that, with all of their advantages (the refusal of the Administration <a href="http://www.businessinsider.com/the-house-kills-mortgage-cram-down-amendment-2009-12">to support cramdowns for non-investment properties</a>, leading to perverted accounting that makes banks solvent and mortgageholders underwater at the same time on the same property; the continuing payment of interest on Reserves in a deflationary environment, which has created a perverse incentive for the TBTF Banks not to lend; charging their smaller competitors for the TBTF Banks&#8217;s failures <a href="http://www.journalstar.com/business/article_e6dcf326-dd17-5d43-8851-7e7bb90a0a59.html">by raising their FDIC contribution</a> and collecting <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/11/12/AR2009111210512_pf.html">three years of it upfront</a> after <a href="http://www.boston.com/news/nation/articles/2009/03/11/now_needy_fdic_collected_little_in_premiums?mode=PF">not having saved for a rainy day</a>; having Administration economic policy run by Larry Summers, whose last foray into the financial markets was <a href="http://www.bloomberg.com/apps/news?pid=20601109&#038;sid=aHQ2Xh55jI.Q&#038;pos=10">too embarassing even for him to explain</a> (h/t <a href="http://blogs.reuters.com/felix-salmon/2009/12/18/those-harvard-swaps-even-more-of-a-fiasco-than-we-thought/">Felix</a>); Ben Bernanke having decided <a href="http://yglesias.thinkprogress.org/archives/2009/12/with-inflation-low-and-unemployment-high-bernanke.php">that doing only half his job should be enough</a> (h/t <a href="http://delong.typepad.com/sdj/2009/12/links-for-2009-12-18.html">Brad DeLong</a>); and the general delusion that the banks <a href="http://delong.typepad.com/sdj/2009/12/we-are-live-at-the-week-i-did-not-run-for-office-to-be-helping-out-a-bunch-of-fat-cat-bankers.html">are necessary to <em>and helping with</em> a recovery</a>.  And that&#8217;s off the top of my head.</p>
+<p>As The Epicurean Dealmaker observed last week vin <a href="http://epicureandealmaker.blogspot.com/2009/12/for-every-action.html">a post eeryone should read</a>:<br />
+<blockquote>Chancellor [of the Exchequer Alistair] Darling could not have <a href="http://www.ft.com/cms/s/0/6284fdba-e4c3-11de-96a2-00144feab49a.html">been clearer</a>:<br />
+<blockquote>“I’m giving them a choice. They can use their profits to build up their capital base, but if they insist on paying substantial rewards, I’m determined to claw money back for the taxpayer,” he said.</p></blockquote>
+<p>[H]e plans to do this by making banks choose between their employees and their shareholders&#8230;</p></blockquote>
+<p>Economists have made this point repeatedly: the first priority of people who run a business should be their responsibility to their shareholders. (See Steve Randy Waldman&#8217;s post <a href="http://www.interfluidity.com/v2/364.html">yesterday for a clear explanation</a>.  And then see <a href="http://www.interfluidity.com/v2/384.html">the post he pulled from comments after that</a>, which saves me the trouble of hoisting from another person&#8217;s comments again for the real ramifications of TARP and the bailout.  Why do Megan McArdle and the Administration hate the troops?)</p>
+<p>Paying large bonuses while the banks themselves remain near insolvency is bad for the shareholders.  Goldman Effing Sachs <a href="http://blogs.wsj.com/deals/2009/12/10/goldmans-new-pay-plan-what-it-really-means/">realizes that</a>, even if they didn&#8217;t quite go far enough.</p>
+<p>Why do I believe the state of the TBTF Banks ranges from near insolvency (C, MS) to on the edge of insolvency?  The market tells me so.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/are-tbtf-banks-out-of-danger-the-market-doesnt-think-so.html/feed/index.html</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

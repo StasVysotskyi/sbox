@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dodd &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Kennedy-Dodd HELP Bill with CBO Scoring</title>
+		<link>./../../2009/07/kennedy-dodd-help-bill-with-cbo-scoring.html</link>
+		<comments>./../../2009/07/kennedy-dodd-help-bill-with-cbo-scoring.html#respond</comments>
+		<pubDate>Fri, 03 Jul 2009 15:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[cbo projections]]></category>
+		<category><![CDATA[dodd]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[kennedy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/07/kennedy-dodd-help-bill-with-cbo-scoring.html</guid>
+		<description><![CDATA[by Bruce Webb I haven&#8217;t gone through the text or the numbers, make of this what you will. But at least we can start with some actual numbers attached.McClatchy: Kennedy-Dodd unveil cheaper health care bill Bill Text: SHORTTITLE.—This Act may be cited as the ‘‘Affordable Health Choices Act&#8221; CBO ScoreExcerpts and updates may be added [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Bruce Webb</p>
+<p>I haven&#8217;t gone through the text or the numbers, make of this what you will. But at least we can start with some actual numbers attached.<br /><a target="_blank" href="http://www.mcclatchydc.com/254/story/71199.html">McClatchy: Kennedy-Dodd unveil cheaper health care bill</a></p>
+<p><a target="_blank" href="http://dodd.senate.gov/multimedia/2009/BillText.pdf">Bill Text: SHORTTITLE.—This Act may be cited as the ‘‘Affordable Health Choices Act&#8221;</a></p>
+<p>CBO Score<br /><a href="http://3.bp.blogspot.com/_fjW71B3WLTQ/Sk4j_GCWeVI/AAAAAAAAAQk/KdreX0N_9SI/s1600-h/CBO+Dodd-Kennedy+pg1.jpg"><img src="http://3.bp.blogspot.com/_fjW71B3WLTQ/Sk4j_GCWeVI/AAAAAAAAAQk/KdreX0N_9SI/s400/CBO+Dodd-Kennedy+pg1.jpg" border="0" alt=""></a><br /><a href="http://1.bp.blogspot.com/_fjW71B3WLTQ/Sk4j-wVFFVI/AAAAAAAAAQc/SSwNsabHHuM/s1600-h/CBO+Dodd-Kennedy+pg.+2.jpg"><img src="http://1.bp.blogspot.com/_fjW71B3WLTQ/Sk4j-wVFFVI/AAAAAAAAAQc/SSwNsabHHuM/s400/CBO+Dodd-Kennedy+pg.+2.jpg" border="0" alt=""></a><br />Excerpts and updates may be added under the fold as discussion goes on. </p>
+<p>Note 1: Read these tables with care! Page 1 compares currently non-elderly insured to projected non-elderly insured. This is how you end up with 97% of Americans with insurance in 2019 even as that drops to only 90% for non-elderly American citizens. <s>21</s> 34 million uninsured still seems too high to me but as footnote &#8216;d&#8217; indicates this includes people eligible for but not enrolled in Medicaid.<br />&#8220;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/07/kennedy-dodd-help-bill-with-cbo-scoring.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

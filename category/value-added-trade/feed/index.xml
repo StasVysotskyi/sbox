@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>value added trade &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Measuring trade deficits and trade flows value</title>
+		<link>./../../2013/01/measuring-trade-deficits-and-trade-flows-value.html</link>
+		<comments>./../../2013/01/measuring-trade-deficits-and-trade-flows-value.html#respond</comments>
+		<pubDate>Wed, 16 Jan 2013 14:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[OECD]]></category>
+		<category><![CDATA[trade deficit]]></category>
+		<category><![CDATA[value added trade]]></category>
+		<category><![CDATA[WTO]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/measuring-trade-deficits-and-trade-flows-value.html</guid>
+		<description><![CDATA[The Washington Post calls attention to changes in measuring international trade values: The U.S. trade deficit with China may be much smaller than thought according to new trade measurements that capture the flow of raw materials and intermediate goods as they work their way around the world into final products. In a significant revision to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The <a target="_blank" href="http://www.washingtonpost.com/business/economy/us-china-deficit-may-be-lower-than-thought/2013/01/16/d474122a-5f5f-11e2-9940-6fc488f3fecd_story.html?wprss=rss_economy&#038;tid=pp_widget">Washington Post</a> calls attention to changes in measuring international trade values:</p>
+<blockquote><p>The U.S. trade deficit with China may be much smaller than thought according to new trade measurements that capture the flow of raw materials and intermediate goods as they work their way around the world into final products.</p>
+<p>In a significant revision to economic record keeping the Organization for Economic Cooperation and Development and the World Trade Organization have patched together international databases that show not just the value of final goods trading hands between countries – the traditional method of measuring imports and exports.</p>
+<p>Rather, they have tried to unpack each step that a good takes through what has become an increasingly fragmented global system – with raw materials from one country becoming steel in another, becoming a car part in a third, becoming a finished auto in a fourth that is then exported to a fifth.</p>
+<p>[snip]</p>
+<p>In releasing the study, the WTO and OECD highlighted how the data could influence the world trade agenda. They argue, for example, that the impact of tariffs around the world can’t be fully understood without looking at value chains, since a final product may include import duties from several different stops.</p>
+<p>Officials from the WTO and OECD plan to discuss their findings at a press conference on Wednesday. </p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/measuring-trade-deficits-and-trade-flows-value.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

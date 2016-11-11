@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>diasaster relief &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Disaster Aid Disaster Averted, barely</title>
+		<link>./../../2011/09/disaster-aid-disaster-averted-barely.html</link>
+		<comments>./../../2011/09/disaster-aid-disaster-averted-barely.html#respond</comments>
+		<pubDate>Tue, 27 Sep 2011 18:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 Presidential elections]]></category>
+		<category><![CDATA[budget deficits]]></category>
+		<category><![CDATA[diasaster relief]]></category>
+		<category><![CDATA[FEMA]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/disaster-aid-disaster-averted-barely.html</guid>
+		<description><![CDATA[By Linda Beale Disaster Aid Disaster Averted, barely. Once again, Republicans intent on obstructing the normal operation of the federal government unless they can extract cuts to programs they don&#8217;t like (in the name of deficit reduction) applied the combination of House recalcitrance and Senate anti-majoritarian filibuster to threaten a government shutdown and siderail needed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By <strong>Linda Beale</strong></p>
+<p><a href="http://ataxingmatter.blogs.com/tax/2011/09/disaster-aid-disaster-averted-barely.html" target="_BLANK">Disaster Aid Disaster Averted, barely</a>.</p>
+<p>Once again, Republicans intent on obstructing the normal operation of the federal government unless they can extract cuts to programs they don&#8217;t like (in the name of deficit reduction) applied the combination of House recalcitrance and Senate anti-majoritarian filibuster to threaten a government shutdown and siderail needed funding for emergency assistance to ordinary Americans until they could get at least some of their objectives. A compromise that will get money to FEMA and keep the government funded for a spell has been reached.</p>
+<p>(AP video at <em>ataxingmatter</em>, see link&#8230;I am still mostly missing my internet connections)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/disaster-aid-disaster-averted-barely.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

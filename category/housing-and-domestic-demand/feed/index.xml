@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>housing and domestic demand &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dutch Domestic Demand Dragging Real Home Values</title>
+		<link>./../../2012/08/dutch-domestic-demand-dragging-real-home-values.html</link>
+		<comments>./../../2012/08/dutch-domestic-demand-dragging-real-home-values.html#respond</comments>
+		<pubDate>Wed, 22 Aug 2012 02:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[housing and domestic demand]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/dutch-domestic-demand-dragging-real-home-values.html</guid>
+		<description><![CDATA[by Rebecca Wilder Dutch Domestic Demand Dragging Real Home Values Today Statistics Netherlands (CBS) warned ”House Prices Nosedive“. Prices of existing owner-occupied dwellings sold in July 2012 were on average 8.0 percent down from July 2011. This is the most substantial price drop since the price index of existing residential property was first recorded in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a></p>
+<p>Dutch Domestic Demand Dragging Real Home Values </p>
+<p>Today Statistics Netherlands (CBS) warned ”<a href="http://www.cbs.nl/en-GB/menu/themas/bouwen-wonen/publicaties/artikelen/archief/2012/2012-08-21-m11.htm?RefererType=RSSItem">House Prices Nosedive</a>“.<br />
+<blockquote><em>Prices of existing owner-occupied dwellings sold in July 2012 were on average 8.0 percent down from July 2011. This is the most substantial price drop since the price index of existing residential property was first recorded in 1995.</em></p></blockquote>
+<p>In real terms and indexed to 2005, home values are down 10.1% over the year in July and dropped 21.3% since the August 2007 peak.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/08/house_price_chart.jpg"><img alt="" height="291" src="http://www.economonitor.com/rebeccawilder/files/2012/08/house_price_chart.jpg" width="483"></a></p>
+<p>What explains this real depreciation in home values? I’ll give you one chart: the unemployment rate.<br /><a name="more"></a></p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/08/unemployment_rate.jpg"><img alt="" height="311" src="http://www.economonitor.com/rebeccawilder/files/2012/08/unemployment_rate.jpg" width="477"></a></p>
+<p>The labor market is sinking, and taking with it household demand. Companies probably hoarded labor in the crisis – the peak to trough drop in GDP was 4.9% versus a 1.6% cyclical drop in employment around that period. However, in late 2011 employment peaked and unemployment is surging – the quarterly employment data through March 2012 indicate a peak was seen in Q3 2011.<br />On balance, the downtrend in Dutch home values is probably here to stay. FYI: the balance sheet of Dutch households and non-profits is roughly <a href="http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=158.IEAQ.Q.NL.N.V.LE.RF4D.S1M.A1.S.2.N.F.Z">2.5 times levered</a>.</p>
+<p><strong><em>Rebecca Wilder</em></strong></p>
+<p><a href="http://www.economonitor.com/rebeccawilder/2012/08/21/domestic-demand-dragging-real-home-values-in-the-netherlands/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=domestic-demand-dragging-real-home-values-in-the-netherlands">http://www.economonitor.com/rebeccawilder/2012/08/21/domestic-demand-dragging-real-home-values-in-the-netherlands/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/dutch-domestic-demand-dragging-real-home-values.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

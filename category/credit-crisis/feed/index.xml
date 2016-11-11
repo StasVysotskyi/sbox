@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>credit crisis &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Some People Call Me Mau-rice</title>
+		<link>./../../2011/06/some-people-call-me-mau-rice.html</link>
+		<comments>./../../2011/06/some-people-call-me-mau-rice.html#respond</comments>
+		<pubDate>Wed, 08 Jun 2011 03:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[deregulation]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/some-people-call-me-mau-rice.html</guid>
+		<description><![CDATA[It&#8217;s not that the data is different; it&#8217;s the interpretation. For instance, Brad DeLong&#8217;s What Obama Needs to Do is three(or four) fine suggestions, one point (2) that hasn&#8217;t worked yet but bears repeating, and a moment (5) of hope that really does required Congressional action, as Stan Collender noted today. But the three good [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s not that the data is different; it&#8217;s the interpretation.</p>
+<p>For instance, Brad DeLong&#8217;s <a href="http://delong.typepad.com/sdj/2011/06/ryan-avent-says-in-a-sense-obama-deserves-to-lose-in-2012.html">What Obama Needs to Do</a> is three(or four) fine suggestions, one point (2) that hasn&#8217;t worked yet but bears repeating, and a moment (5) of hope that really <em>does</em> required Congressional action, <a href="http://capitalgainsandgames.com/blog/stan-collender/2264/wall-street-already-reacting-negatively-debt-ceiling-fight">as Stan Collender noted today</a>.</p>
+<p>But the three good points are things several of us have been saying for years now, and the chance that the Obama Administration is rational enough to do them has only increased by the degree to which Larry Summers is no longer there.  <a href="http://examinedlife.typepad.com/johnbelle/2004/03/if_wishes_were_.html">I want a pony, too</a>.</p>
+<p>So when I suggested <a href="http://www.angrybearblog.com/2011/06/random-notes-3-june-2011.html">a few days ago</a> that Buce was Much Too Generous to Maurice (&#8220;Hank&#8221;) Greenberg <a href="http://underbelly-buce.blogspot.com/2011/05/can-taxpayers-thank-eliot-spitzer-for.html">here</a>, it&#8217;s not that I believe Greenberg was an absolute failure.  He built AIG into what it is today—well, what it was before he lead it to what it became, which is (again) about what it is today.</p>
+<p>And there&#8217;s the rub, if not all of <a href="http://underbelly-buce.blogspot.com/2011/06/ready-when-you-are-ab.html">The Real Story</a>.  So this will be a Very Long Post, with Muliple Sidebars and Anecdotes.  Feel free to skim; it&#8217;s below the fold.<br /><a name="more"></a><br />In the deep, dark past, bankers were respected members of the community.  I mean real bankers: the guys the investment bankers refer to as 9-6-3s: they lend at 9%, they take in deposits at 6%, and they&#8217;re on the golf course at 3:00.  It wasn&#8217;t that they were the only game in town—though often enough they were—but it was a good, straightforward, relatively easy business.  As long as you didn&#8217;t make a big mess (and there were very few chances to do so) and kept your personal life reasonably under control, you got and maintained a great reputation.</p>
+<p>The equivalent of that, in the days before demutualisation, was runnning an insurance company.  You took near-term premia, had long-term obligations at a rate below what the market would pay (on average, in most cases), and you just had to, again, manage your personal relationships and your acquisition of clients. (As with derivatives, a small variation in the fourth decimal place means a lot of money.)  Get ones who are marginally healthier, where the same payout is made one year later, and you&#8217;re a superstar.</p>
+<p>After demutualization, having the stronger balance sheet going in means you&#8217;re in a better position to acquire weaker competitors.  AIG:Insurance::MannyHanny*:Banks</p>
+<p>All with a AAA balance sheet.  Safe, stable investment.  At least until the Noughts.</p>
+<blockquote><p>Sidebar: In the distant past, I traded for a AAA-rated bank. (You can read all about the bank <a href="http://www.amazon.com/Saving-Sun-Mavericks-Financial-Billions/dp/B000HWYKMU/ref=sr_1_fkmr0_1?ie=UTF8&#038;qid=1307476002&#038;sr=1-1-fkmr0">here</a>. Note that the 2003 subtitle has been replaced in the paperback editions by a more accurate one.)</p>
+<p>The thing about working for a AAA is that people <em>come to you</em>.  I went to a party with former coworkers—mostly people who are both smarter and more driven than I am, and whose c.v.s have Rather Famous Names, both Before and After—and the department head (who does not fall into either of those categories, but is a sociopath) was talking about how they were planning to schedule meetings with firms such as Coca-Cola and Annheuser-Busch.</p>
+<p>I had done a large, complicated deal with Annheuser-Busch that morning.  And it wasn&#8217;t my firm&#8217;s U.S. marketing skills or special product knowledge that got us the deal. It was the AAA rating.</p>
+<p>Once they lost, that&#8230;well, Gillian Tett can tell you the rest better than I (who left before that happened).</p></blockquote>
+<p>So when people tell me that Maurice Greenberg was incredibly detail-oriented and carefully managed every aspect of AIG and would have gotten it through the crisis, I&#8217;m naturally suspicious.</p>
+<p>That&#8217;s partially because I know someone who fits that description perfectly: Warren Spector.  He tracked the errors, he knew when the departments were not producing well, he pulled plugs, and he checked risk positions with the best of them.  William Cohan&#8217;s sources may not have told him this, but Warren Spector probably could have saved Bear Stearns.</p>
+<p>And if there had been a few more people like me speaking with Cohan, <em>House of Cards</em> would have turned out more like <em>Fatal Risk</em> than <em><a href="http://www.amazon.com/Indecent-Exposure-Hollywood-Business-Essentials/dp/0060508159">Indecent Exposure</a></em> as if it were told from Begelman&#8217;s perspective.</p>
+<p>Don&#8217;t get me wrong; I speak with people at AIG, and there are those there who firmly believe that Maurice &#8220;Not the Baseball Player&#8221; Greenberg could have saved them, Jack Aubrey-like, from all that followed his reign.  But that&#8217;s faith, not evidence.</p>
+<p>Part of the reason, one suspects, that Cohan marginalizes Spector while Boyd totemizes Greenberg is the AIG Board of Directors ousted Maurice Greenberg at virtually the same time the firm lost its AAA rating. Make no mistake: the Fall happened on Greenberg&#8217;s watch, his legendary attention to detail notwithstanding the balance-sheet distortions that were harbingers of Things to Come.</p>
+<p>Even if we ignore that his direct &#8220;competitors&#8221; in the early Noughts notably included his <a href="http://en.wikipedia.org/wiki/Jeffrey_W._Greenberg">tw</a>o <a href="http://en.wikipedia.org/wiki/Evan_G._Greenberg">sons</a>, Greenberg-as-CIO was always the man with the advantage.  He never ran the firm when it had to compete with others in a relatively-level playing field.</p>
+<p>Credit where due: he found a flaw in the insurance market, and he built a company around it.  So did many others, Mike Milken most obviously among them. Building a firm is an accomplishment; running it is not necessarily the same skillset.</p>
+<p>Similarly, running a AAA firm is relatively easy.  Running a AA or below firm—the firm Maurice Greenberg left his firm in the hands of Martin J. Sullivan, who was (<a href="http://en.wikipedia.org/wiki/Martin_J._Sullivan">per Wikipedia</a>) his selection—is often a different matter.</p>
+<p>It was Sullivan—a UK native—who had to run the AA firm, and on whose watch the AIG Financial Products group under Joseph Cassano went from the operation that compromised AIG&#8217;s AAA rating to the area that took the firm down.</p>
+<p>Would Greenberg have stopped this? There is scant evidence in favor of such an argument.  Greenberg&#8217;s objections in 2008 were to the Board&#8217;s attempt to save the firm by selling-off &#8220;non-core assets.&#8221;  Similarly, none of his back-benching—dangerous back-benching, arguably, given that his holdings in the company make him more visible than the member from Clan Agnew—from 2005 to 2008 was never about the risk that the Financial Products area was expanding too quickly.</p>
+<p>Maurice Greenberg remained, iirc, the largest shareholder of AIG even after his ouster.  In his frequent interviews, he made no secret that he was in contact with multiple board members.  His rather hand-picked successor shepherded the firm into disaster, a disaster architected with pick-up sticks by workers in and from his native land.</p>
+<p>Could Maurice Greenberg have saved AIG?  It&#8217;s nice to think so, but nothing in his actions, statements, or post-crisis recommendations makes that a likely story.</p>
+<p>Maurice Greenberg never ran AIG when it was not The Firm With Which People Wanted to Deal.  He built an impressive edifice, but so did the Sons of Noah—and Buce knows how that ended.**</p>
+<p>So the story that gets told is a man who was Always On Top.  And we forget that this is also the man who put his firm into the position where his successors would never have the same opportunity he did.</p>
+<p>But Buce knows better: <em>hubris</em> is always followed by <em>ate</em>.  The tale of Maurice &#8220;Hank&#8221; Greenberg is the tale of A Man Who Had It All, and who left it to be destroyed by his hand-picked successor and his successors.***</p>
+<p>That&#8217;s not the Success Story we want to tell, but its a lot closer to The Real Story, even ignoring the familial nature of the charges that began this whole discussion.</p>
+<p>So Buce&#8217;s conclusion is, I believe, accurate: Eliot Spitzer did not destroy AIG.  I can make a much better case that Maurice Greenberg did, but can live with the story as it is currently told, where Greenberg led the firm until it entered uncharted waters, and then was forced to turn the rudder over to his First Mate.</p>
+<p>*They may have gone by Chase, but the takeovers were run by the old Manufacturers Hanover team, up to and including J. P. Morgan.</p>
+<p>**Genesis 11:1-9 for the rest of you.</p>
+<p>***And Ed Liddy, who was a ridiculous choice even by Tim Geithner standards.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/some-people-call-me-mau-rice.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dr. Black asks, AngryBear Answers</title>
+		<link>./../../2009/10/dr-black-asks-angrybear-answers.html</link>
+		<comments>./../../2009/10/dr-black-asks-angrybear-answers.html#respond</comments>
+		<pubDate>Thu, 29 Oct 2009 16:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[business]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[loans]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/dr-black-asks-angrybear-answers.html</guid>
+		<description><![CDATA[The question: How much was credit being funneled away from all other sectors in the economy? The answer: Very little if any. Neither the general consumer lending: nor the specific Real Estate lending: appears to run in a different direction that Business Loans, except possibly, in the latter case, in late 2003 and early 2004. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.eschatonblog.com/2009/10/question.html">The question</a>:<br />
+<blockquote>How much was credit being funneled away from all other sectors in the economy?</p></blockquote>
+<p>The answer: Very little if any.  Neither the general consumer lending:
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SunJGSkTrPI/AAAAAAAAATQ/KIqyBhrYJ0c/s1600-h/consandbusloanchanges.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/SunJGSkTrPI/AAAAAAAAATQ/KIqyBhrYJ0c/s400/consandbusloanchanges.JPG" border="0" alt=""></a></p>
+<p>nor the specific Real Estate lending:</p>
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SunJ52E3G_I/AAAAAAAAATY/7sMdnLk3fUc/s1600-h/busandREloanchanges.JPG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SunJ52E3G_I/AAAAAAAAATY/7sMdnLk3fUc/s400/busandREloanchanges.JPG" border="0" alt=""></a></p>
+<p>appears to run in a different direction that Business Loans, except possibly, in the latter case, in late 2003 and early 2004.</p>
+<p>Looking at the absolute numbers, while there is a significant negative correlation with consumer lending for the period, that is more than offset by the significant positive correlation with Real Estate lending over the period.*</p>
+<p>So the statement probably made a good soundbite, but the reality is that all lending generally increased during the peak of the bubble.  There does not appear to be evidence of &#8220;crowding out&#8221; of Business Loans.</p>
+<p>*Real Estate lending for the period averages more than four times greater than consumer lending (2.73 trillion v. 680 billion), so the net result over the period is positive to business lending.</p>
+<p>By contrast, a regression of the changes over the same period and there is virtually no support for the idea; Adjusted R^2 was slightly negative, and the coefficients both include 0 in a 95% confidence interval.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/dr-black-asks-angrybear-answers.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scariest Irvine Foreclosure</title>
+		<link>./../../2009/10/scariest-irvine-foreclosure.html</link>
+		<comments>./../../2009/10/scariest-irvine-foreclosure.html#respond</comments>
+		<pubDate>Fri, 16 Oct 2009 00:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[Housing Prices]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/scariest-irvine-foreclosure.html</guid>
+		<description><![CDATA[Dr. Black had a link to foreclosures in Irvine, California. This one especially caught my eye: 5031 Alcorn Lane, Turtle RockAmount owed: $298,876.14Last sale: July 2001, $485,000Auction date &#038; time: Nov. 5 at 10 a.m.Location: In front of the flagpoles at Placentia Civic Center, 401-411 E. Chapman Ave.Trustee sale #: JPM-580Information: 714-573-1965 [emphasis mine] I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dr. Black had a link to <a target="_blank" href="http://www.eschatonblog.com/2009/10/foreclosed.html">foreclosures in Irvine, California</a>.  This one <a target="_blank" href="http://irvinehomes.freedomblogging.com/2009/10/15/these-irvine-homes-are-headed-to-foreclosure-2/">especially caught my eye</a>:<br />
+<blockquote>5031 Alcorn Lane, Turtle Rock<br />Amount owed: $298,876.14<br />Last sale: July 2001, $485,000<br />Auction date &#038; time: Nov. 5 at 10 a.m.<br />Location: In front of the flagpoles at Placentia Civic Center, 401-411 E. Chapman Ave.<br />Trustee sale #: JPM-580<br />Information: 714-573-1965 [emphasis mine]</p></blockquote>
+<p>I assume the JPM means JPMorganChase, though that&#8217;s not the important thing.</p>
+<p>If you look at the other houses, the &#8220;last sale&#8221; and &#8220;amount owed&#8221; values are fairly close, or the Amount Owed is higher.  Which is what you would expect.</p>
+<p>But not only is this one not higher, it&#8217;s <em>not even close</em>.  It&#8217;s almost a 40% decline from the last sale date—and more than a $185,000 difference.  And 2001 wasn&#8217;t exactly top of the bubble anywhere, especially not in Irvine.</p>
+<p>Why does a house get foreclosed?  Because it can&#8217;t be sold to cover costs adequately.  But in this case, we&#8217;re not even talking about needing a short sale.</p>
+<p><strong><em>No one was willing and able to bid enough on the property to keep it from being foreclosed.</em></strong></p>
+<p>Nearly 40% below 2001 levels would be severe. The <a href="http://www.econ.yale.edu/~shiller/data.htm">Shiller Real Home Price Index</a> indicates that prices are just about even with (maybe 2% below) their 2001 level.</p>
+<p>Either this is a real outlier, or the housing crisis is much worse than even the most pessimistic predictions.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/scariest-irvine-foreclosure.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What Happens when a Junkie goes Cold Turkey?</title>
+		<link>./../../2009/07/what-happens-when-a-junkie-goes-cold-turkey.html</link>
+		<comments>./../../2009/07/what-happens-when-a-junkie-goes-cold-turkey.html#respond</comments>
+		<pubDate>Tue, 07 Jul 2009 22:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/07/what-happens-when-a-junkie-goes-cold-turkey.html</guid>
+		<description><![CDATA[Credit crunch, followed by asset deflation. See also Robert&#8217;s series of essays in December/January.]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://www.vanityfair.com/politics/features/2009/08/aig200908?printable=true&#038;currentPage=all">Credit crunch</a>, followed by asset deflation.</p>
+<p>See also Robert&#8217;s <a target="_blank" href="http://angrybear.blogspot.com/2008/12/wapo-on-aig.html">series</a> <a target="_blank" href="http://angrybear.blogspot.com/2008/12/aig-in-wapo-ii.html">of</a> <a target="_blank" href="http://angrybear.blogspot.com/2008/12/wapo-on-aig-iii.html">essays</a> in December/January.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/07/what-happens-when-a-junkie-goes-cold-turkey.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What Goes Up Comes Down</title>
+		<link>./../../2009/03/what-goes-up-comes-down.html</link>
+		<comments>./../../2009/03/what-goes-up-comes-down.html#respond</comments>
+		<pubDate>Sun, 08 Mar 2009 22:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[leverage]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/03/what-goes-up-comes-down.html</guid>
+		<description><![CDATA[For those wanting a slightly shorter version of the post below, here&#8217;s 11:15 of video dealing with how the Bad Banks got that way:]]></description>
+				<content:encoded><![CDATA[<p>For those wanting a slightly shorter version of <a target="_blank" href="http://angrybear.blogspot.com/2009/03/bad-banking-and-banksfor-angry-bear.html">the post below</a>, here&#8217;s 11:15 of video dealing with how <a target="_blank" href="http://www.thisamericanlife.org/">the Bad Banks</a> <a target="_blank" href="http://www.vimeo.com/3261363">got that way</a>:<br />
+</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/03/what-goes-up-comes-down.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Simple Answer to a Simple Question</title>
+		<link>./../../2009/01/simple-answer-to-a-simple-question.html</link>
+		<comments>./../../2009/01/simple-answer-to-a-simple-question.html#respond</comments>
+		<pubDate>Sat, 31 Jan 2009 02:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Banking Crisis]]></category>
+		<category><![CDATA[credit crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/simple-answer-to-a-simple-question.html</guid>
+		<description><![CDATA[Dr. Black graciously asks: Am I the only to whom it&#8217;s occurred that monetary policy through the banking channel (as opposed to, say, actually dropping money from helicopters) is only likely to be effective if banks are pretty good at allocating capital efficiently, and recent history tells us that the existing set of clowns in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dr. Black <a href="http://www.eschatonblog.com/2009_01_25_archive.html#2192670234488686014">graciously asks</a>:<br />
+<blockquote>Am I the only to whom it&#8217;s occurred that monetary policy through the banking channel (as opposed to, say, actually dropping money from helicopters) is only likely to be effective if banks are pretty good at allocating capital efficiently, and recent history tells us that the existing set of clowns in charge completely suck ass at this?</p></blockquote>
+<p>No.  In fact, this is one of the better reasons for advocating spending (fiscal) solutions over monetary ones.  The monetary ones haven&#8217;t worked, because the skillset to make them so does not currently exist sufficiently in the financial community.</p>
+<p>Or, as someone once observed, we have thirty major banks.  What we don&#8217;t have are thirty bankers to run them.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/simple-answer-to-a-simple-question.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More &#8216;Usury&#8217;</title>
+		<link>./../../2009/01/more-usury.html</link>
+		<comments>./../../2009/01/more-usury.html#respond</comments>
+		<pubDate>Tue, 20 Jan 2009 19:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/01/more-usury.html</guid>
+		<description><![CDATA[Tom Bozzo Tries to one-up Brad DeLong (and by extension Dr. Black), with this item from the middle of last month: Kansas City Southern upped its new five-year debt offering to $190 million from an initially announced $175 million, and said it will pay 16.5 percent in yield on notes held to maturity. The company [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tom Bozzo</p>
+<p>Tries to one-up <a href="http://feedproxy.google.com/~r/BradDelongsSemi-dailyJournal/~3/SqyG7nV2S-w/usury.html">Brad DeLong</a> (and by extension Dr. Black), with <a href="http://www.trafficworld.com/newssection/rail.asp?id=49045">this item</a> from the middle of last month:<br />
+<blockquote>Kansas City Southern upped its new five-year debt offering to $190 million from an initially announced $175 million, and said it will pay 16.5 percent in yield on notes held to maturity.</p>
+<p>The company plans to use the money along with some other borrowing to buy up $200 million in 7.5 percent senior notes due next March.</p>
+<p>The new notes will be due in 2013. KCS said they will bear an annual interest rate of 13 percent but be sold at a discount to their par value&#8230;</p></blockquote>
+<p>KCS is the smallest of the Class I (large by revenue) railroads.  My recollection is that KCS&#8217;s debt ratings are (or at least were) on the low end of investment grade.  It may be a matter of debate as to whether it&#8217;s worse in the present climate to be a big newspaper or a biggish railroad, but KCS may have a stronger claim to providing a useful service to its customers&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/01/more-usury.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Alpha and the Omega of mid-2007</title>
+		<link>./../../2008/12/the-alpha-and-the-omega-of-mid-2007.html</link>
+		<comments>./../../2008/12/the-alpha-and-the-omega-of-mid-2007.html#respond</comments>
+		<pubDate>Mon, 15 Dec 2008 03:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[21st Century economic philosophy]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/the-alpha-and-the-omega-of-mid-2007.html</guid>
+		<description><![CDATA[Sometimes, Blog Posts Write Themselves: Cleaning up a hard drive of old files, I ran across these two articles from the middle of last year. First, the WSJ, arbiter of business sanity and purveyor of a positive meme whenever one is to be found, on 28 July 2007—nine months after the general supply of securitizable [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Sometimes, Blog Posts Write Themselves: Cleaning up a hard drive of old files, I ran across these two articles from the middle of last year.</p>
+<p>First, the WSJ, arbiter of business sanity and purveyor of a positive meme whenever one is to be found, <a href="http://online.wsj.com/article/SB118553827579780254.html?mod=googlenews_wsj">on 28 July 2007</a>—nine months after the general supply of securitizable mortgage loans went away, at least six months after even those with their own origination capacity realised the game was over, and about two weeks before Bear Stearns would issue bonds at the then-junk-bond-area yield of 245 over:<br />
+<blockquote>The economy grew at an annual rate of 3.4% in the quarter, reversing the anemic 0.6% growth in the first quarter, the Commerce Department said. Increases in exports and government spending drove much of the improvement. A rise in commercial construction spending and building of inventories offset a drag from housing and sluggish consumer spending.</p>
+<p>But the positive drivers aren&#8217;t expected to persist, and recent indicators cast a darkening shadow over the rest of the year. The latest readings for spending on plant and equipment, which grew at a tepid 2.3% pace in the quarter, are disappointing. Rising inventories of unsold homes, falling prices and tighter lending terms on subprime loans for marginal borrowers offer little hope that housing is stabilizing. The downturn in stocks crimps Americans&#8217; wealth, and turbulence in credit markets is sparking fears that loans will be costlier or harder to get&#8230;.</p>
+<p>Some business executives expect things to get worse. &#8220;This idea that there&#8217;s been no spillover from housing into other segments is just faulty,&#8221; Mike Jackson, chief executive of auto dealer AutoNation Inc., said in a conference call. &#8220;I think it&#8217;s extreme economic distress out there right now. It&#8217;s one of the toughest environments I&#8217;ve ever seen since I&#8217;ve been in the business.&#8221;&#8230;</p>
+<p>Some forecasters say the gloom is overdone. As long as businesses continue to hire, the jobless rate remains near its current low 4.5% and energy prices don&#8217;t go higher, they say overall consumer incomes should be strong enough to support a healthy level of consumer spending. In a favorable sign, the University of Michigan said Friday its consumer confidence index rose to 90.4 in July from 85.3 in June.</p>
+<p>Corporate earnings outside of financial services remain robust, although companies have been worrying for months about higher input costs crimping profit margins. &#8220;The real risk for consumer spending is if for some reason companies slam on the brakes and stop hiring,&#8221; said Brian Bethune, an economist at Global Insight. &#8220;The employment market is still reasonably solid.&#8221;&#8230;</p>
+<p>&#8220;The big picture is that you&#8217;ve got an inventory problem in both markets &#8212; you&#8217;ve got too many homes for sale and too many bonds for sale,&#8221; says Mr. Kiesel. &#8220;So prices need to adjust: You need lower house prices and much bigger credit spreads. It means the economy is going to slow.&#8221;</p>
+<p>Downward revisions to growth from the first quarter of 2004 through the first quarter of 2007 added to concerns because they offer more evidence that the pace of productivity growth has slowed, and with it estimates of the speed at which the economy can grow without higher inflation. Economists at Bear Stearns, for instance, said that estimates of the economy&#8217;s potential growth rate are likely to fall below 2.5% a year.</p></blockquote>
+<p>Let&#8217;s ignore for the moment the delusion that it was All About Subprime—even though some idiot on CBC was making exactly that claim Friday, trying to explain Why Canada is Different. (I&#8217;ll take <a href="http://worthwhile.typepad.com/worthwhile_canadian_initi/2008/12/why-are-forecasters-predicting-a-mild-recession-for-canada.html">Stephen Gordon&#8217;s analysis</a>, instead.) This is an attempt at being positive: in the wake of an annualized 3.4% growth rate, that should have been much easier. But the harbingers had landed by then.</p>
+<p>Next, the guy who keeps getting slammed in comments here and elsewhere, often for no good reason (or, <a href="http://angrybear.blogspot.com/2008/11/waiting-for-delong-fish-cage-match.html">in the case of Stanley Fish</a>, in the throes of full hypocrisy).  Larry Summers about a month later, <a href="http://www.latimes.com/news/opinion/la-oe-summers27aug27,0,2195006.story?coll=la-opinion-rightrail">27 August 2007, in the LA Times</a>.  First, he gives the lie to the &#8220;once a century&#8221; meme:<br />
+<blockquote>Over the last two decades, major financial disruptions have taken place roughly every three years &#8212; the 1987 stock market crash, the savings and loan collapse and credit crunch of the early 1990s, the 1994 Mexican peso devaluation, the Asian financial crises of 1997, the Russian default and Long Term Capital Management implosion of 1998, the bursting of the technology bubble in 2000, the disruptions of 9/11 and the 2002 post-Enron deflationary scare in the credit markets.</p>
+<p>This record suggests that, by the beginning of 2007, the world was long overdue for a major financial disruption. And sure enough, the difficulties around sub-prime mortgages &#8220;went systemic&#8221; in the last month as the market seemed to doubt the creditworthiness of even the strongest institutions and rushed to buy Treasury debt.</p></blockquote>
+<p>Soon, he gets to the heart of the matter:<br />
+<blockquote>[A]s investors rush for the exits, the focus of risk analysis shifts from fundamentals to investor behavior. As some liquidate, prices fall, then others are forced to liquidate, driving prices down further. The anticipation of cascading liquidation leads to still more liquidation, creating price movements that seemed inconceivable only a few weeks before. Reduced credit feeds back negatively on the real economy.</p>
+<p>Eventually &#8212; sometimes in a few months, as in the U.S. in 1987 and 1998; sometimes in a decade, as in Japan during the 1990s &#8212; there is enough liquidation and price adjustment to make extraordinary fear give way to ordinary greed, and the process of repair begins.</p>
+<p>It is too soon to draw policy lessons from the current crisis or to determine exactly where in the cycle we are now. But it is not too soon to highlight the questions it points up. Three stand out.</p></blockquote>
+<p>From that point on, the article goes downhill:<br />
+<blockquote>First, the current crisis has been propelled by a loss of confidence in rating agencies, as large amounts of debt that had been very highly rated has instead headed toward default&#8230;.But there is no doubt that, as in previous financial crises, the rating agencies have dropped the ball.</p>
+<p>In light of this, should bank capital standards, Federal Reserve discounting policy and countless investment guidelines still be based on credit ratings? What is the alternative? What if any legislative response is appropriate?</p></blockquote>
+<p>It seems more likely to assume that rating agencies are lagging, not leading, indicators of credit crises, as investment products develop based on iterative variations of current products, whose risk profile is therefore (definitionally) somewhat less well defined, and (again definitionally) are likely to have thicker tails that will not be captured by standard modeling. (See <a href="http://angrybear.blogspot.com/2008/11/citibank-like-s-assumed-house-prices.html">Robert&#8217;s discussion here</a>.)</p>
+<p>Summers continues:<br />
+<blockquote>Second, how should policy respond to financial crises centered on nonfinancial institutions? A premise of our system is that banks accept much closer supervision from public authorities in return for privileged access to the Federal Reserve payments system and its &#8220;discount window,&#8221; which allows banks to borrow directly from the Federal Reserve. The problem this time is not that banks lack capital. It&#8217;s that the solvency of a range of non-banks is in question because of cascading liquidations and doubts about their fundamentals. In an old-fashioned phrase, central banks that seek to instill financial confidence by lending to banks or even by reducing their cost of borrowing may well be pushing on a string.</p></blockquote>
+<p>With the admission of insolvency of the financial institutions still at least six months away, Summers was already discussing the limits of liquidity provision.</p>
+<p>His third point is only slightly less prescient:<br />
+<blockquote>Third, what is the right public role in supporting credit to the housing sector? The lesson learned from the S&#038;L debacle was that it is catastrophic to finance home ownership through insured institutions that borrow short term and then offer long-term fixed-rate mortgages. Now a system reliant on adjustable-rate mortgages and non-insured institutions has broken down.</p></blockquote>
+<p>I might argue Summers took the wrong lesson from the S&#038;L crisis, which grew in large part from primarily Texas-based S&#038;Ls that loaned large amounts of money based on the idea that some barren desert land was valuable because it had oil under it. It does not seem coincident that the first wave of housing market collapses (ca. mid-to-late 2006) were all in similarly-desert areas—Phoenix, Lost Wages, the tracts of land near I-5 between LA and SF.  But at least he knew what not to do:<br />
+<blockquote>[I]f there is ever a moment when [Fannie and Freddie] should expand their activities, it is now, when mortgage liquidity is drying up. No doubt, credit standards in the sub-prime market were way too low for way too long. But now, as borrowers face the reset of adjustable mortgages, it is not the time for authorities to get religion and encourage the denial of credit.</p></blockquote>
+<p>The next time someone tells you that &#8220;no one predicted&#8221; this phase of the current crisis, point them to Larry Summers fifteen months ago.  Or even, in broad outline, the WSJ.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/the-alpha-and-the-omega-of-mid-2007.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Grass is Green, Sky is Blue, The WSJ Lies to You</title>
+		<link>./../../2008/12/grass-is-green-sky-is-blue-the-wsj-lies-to-you.html</link>
+		<comments>./../../2008/12/grass-is-green-sky-is-blue-the-wsj-lies-to-you.html#respond</comments>
+		<pubDate>Fri, 05 Dec 2008 15:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[jourmalism]]></category>
+		<category><![CDATA[naked Capitalism]]></category>
+		<category><![CDATA[the fed]]></category>
+		<category><![CDATA[The Old Firm]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/grass-is-green-sky-is-blue-the-wsj-lies-to-you.html</guid>
+		<description><![CDATA[Among their editorial suggestions for replacing Tim Geither as head of the New York FRB: Better choices would include &#8230;David Malpass, an economist who worked at the Reagan Treasury and long predicted the credit bubble&#8230;. Yes, you saw that correctly. David Malpass. Strangely, they don&#8217;t describe him as &#8220;David Malpass, former Chief Economist for Bear [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Among their <a href="http://online.wsj.com/article/SB122843659214281369.html?mod=djemEditorialPage">editorial suggestions for replacing Tim Geither as head of the New York FRB</a>:<br />
+<blockquote>Better choices would include &#8230;David Malpass, an economist who worked at the Reagan Treasury and long predicted the credit bubble&#8230;.</p></blockquote>
+<p>Yes, you saw that correctly.</p>
+<p>David Malpass.</p>
+<p>Strangely, they don&#8217;t describe him as &#8220;David Malpass, <a href="http://bigpicture.typepad.com/comments/2008/03/malpass-ass.html">former Chief Economist for Bear Stearns</a>, who long advocated taking monies out of your house because appreciation in housing prices changed &#8220;<a href="http://www.nytimes.com/2005/05/22/business/yourmoney/22view.html?_r=1&#038;adxnnl=1&#038;adxnnlx=1228489230-pp+qqFkPTCIa3fCQpbK8Iw">the structure of the household portfolio</a>.&#8221;</p>
+<p>And that &#8220;long predicted the credit bubble&#8221;?  This is a family blog, so I can&#8217;t call that horseshit.  So let&#8217;s look at what Malpass said in August of 2007—the point at which his firm was issuing bonds at what were essentially junk levels—<a href="http://online.wsj.com/article/SB118645120890190059.html">about the bubble, in the very pages of the WSJ</a>:<br />
+<blockquote>Another aspect of the market disruption is a dramatic stand-off between bond buyers and sellers: Buyers in both housing and debt markets are using the market discontinuity to claw prices and terms back to Earth. The slowdown talk weighing on equities also reflects the Wall Street view that debt, mortgage and takeover businesses have replaced General Motors as the economy&#8217;s bellwether. According to the bears: As goes the credit market, so goes the economy.</p>
+<p>Fortunately, Main Street is not that fickle. Housing and debt markets are not that big a part of the U.S. economy, or of job creation. It&#8217;s more likely the economy is sturdy and will grow solidly in coming months, and perhaps years.</p>
+<p>Unlike the 1998 seizure in credit markets to which many are now drawing comparisons, reservoirs of global liquidity are full to overflowing, not empty as they were that year. The deep 1997-1998 Asian crisis has been replaced with an all-cylinder boom. Unemployment rates are falling all around the world, while China&#8217;s equities have continued hitting new highs. [emphases mine]</p></blockquote>
+<p>The other nominees are little better, including the <a href="http://www.nakedcapitalism.com/2007/11/feds-gary-stern-makes-lame-arguments.html">Gary Stern</a>, current head of the Minneapolis Fed of &#8220;<a href="http://www.portfolio.com/views/blogs/market-movers/2008/10/22/the-credit-crunch-isnt-a-myth?tid=true">Credit Crisis? What crisis?</a>&#8221; fame. (At least Stern <a href="http://blogs.wsj.com/economics/2008/03/27/minneapolis-fed-president-keeps-eye-on-the-ball/">admits he doesn&#8217;t care about finance as much as some other things</a>.)  But Malpass—and the lies told in support of him—should be beyond the pale even by WSJ standards.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/grass-is-green-sky-is-blue-the-wsj-lies-to-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The OTHER Reason we may not have needed the [cash portions of the] bailout bill&#8230;</title>
+		<link>./../../2008/10/the-other-reason-we-may-not-have-needed-the-cash-portions-of-the-bailout-bill.html</link>
+		<comments>./../../2008/10/the-other-reason-we-may-not-have-needed-the-cash-portions-of-the-bailout-bill.html#respond</comments>
+		<pubDate>Sat, 04 Oct 2008 05:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[credit crisis]]></category>
+		<category><![CDATA[market-clearing prices]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/10/the-other-reason-we-may-not-have-needed-the-cash-portions-of-the-bailout-bill.html</guid>
+		<description><![CDATA[&#8230;even though we certainly need some bailing out. Brad Setser notes the obvious: Frankly the TARP is now starting to look small relative to the Fed’s balance sheet. while including the reality: The latest [H.4.1] data release should settle the question; absent enormous liquidity support from the Fed, a much broader set of financial institutions [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8230;even though we certainly need some bailing out.</p>
+<p>Brad Setser <a href="http://blogs.cfr.org/setser/2008/10/02/give-the-fed-a-bit-of-credit/">notes the obvious</a>:<br />
+<blockquote>Frankly the TARP is now starting to look small relative to the Fed’s balance sheet.</p></blockquote>
+<p>while including the reality:<br />
+<blockquote>The latest [H.4.1] data release should settle the question; absent enormous liquidity support from the Fed, a much broader set of financial institutions — including some that received equity investments from sovereign wealth funds — would have failed.</p></blockquote>
+<p>Which just brings us back to the question: if the TSLF, PDCF and related entities are doing their job—and there is no indication they are not—what will be the benefit of TARP?  (That is, if I can <a href="http://www.newyorkfed.org/markets/tslf_terms.html">loan a security to the TSLF for 28 days</a>, and roll it over indefinitely [or at least until I get the price I want in the market], why would the Fed need to buy it, and why would I need the Fed to buy it?)</p>
+<p>Continuing the thought, via Setser, <a href="http://www.iie.com/issues/009.htm">Morris Goldstein lays out the four major issues of the current credit crisis</a> [reformatted]:
+<ol>
+<li>illiquidity for certain mortgage-backed securities,</li>
+<li>undercapitalization of the financial sector,</li>
+<li>an interruption in the flow of credit to households and nonfinancial businesses, and </li>
+<li>a rising foreclosure rate that threatens to produce a downward overshooting of housing prices.</li>
+</ol>
+<p>The first is a problem for the same reason that GM not selling too many Hummers is a problem: it&#8217;s where the profits were made.  Those &#8220;radioactive&#8221; tranches that were mostly sold to hedge funds were the most profitable part of the MBS.  The argument that it isn&#8217;t so much a liquidity problem as a price problem (demand is significantly down, and prices rarely go up in those circumstances) may be viable, but that leads to:</p>
+<p>The second problem, some portion of which was a direct result of Christopher Cox&#8217;s mismanagement of the SEC&#8217;s oversight of investment banks, not to mention a lot of off-balance sheet maneuvering that ended up impacting bottom lines.  This is addressed fairly well by the TSLF, PDCF, etc.  But the problem persists, which leads to</p>
+<p>The third problem, or the crux of the matter, without which we wouldn&#8217;t see <s>the former head of Goldman Sachs making plans to reward his friends</s> the Treasury Secretary talking about how overvalued assets are &#8220;undervalued&#8221; (assuming they reach maturity without high default rates) and need to be bought for two years, after which time all will presumably be fine and dandy again,* unless&#8230;</p>
+<p>The housing market oversells (this point has been well-covered by AI <a href="http://angrybear.blogspot.com/2008/09/vacancy-http://www.blogger.com/post-edit.g?blogID=5048766&#038;postID=3327095655018485471%3Cbr%20/%3EBlogger:%20Angry%20Bear%20-%20Edit%20Post" the other reason we may not have needed ...>here</a>).</p>
+<p>So if we look at the four points, the optimistic version is that the bailout bill will form a &#8220;hedge fund&#8221; for the &#8220;radioactive&#8221; portions of MBSes that no one else is buying. (<strong>UPDATE</strong>: Daniel Gross <a href="http://www.slate.com/id/2201340/?from=rss">made the same argument at Slate</a> (h/t <a href="http://economistsview.typepad.com/economistsview/2008/10/links-for-200-1.html">Mark Thoma</a>).)</p>
+<p>And we know this will work because hedge funds, as the Wall Street Journal editorial page keeps reminding us, are all doing fine, or at least not getting splashed across the front page of the Wall Street Journal when they fail.</p>
+<p>The just appear in the FT and Bloomberg with graphic descriptions of them eating each other <a href="http://www.nakedcapitalism.com/2008/10/hedge-funds-preying-on-weak-peers.html">&#8220;because &#8216;investors have been unwinding trades that they otherwise believe make sense&#8217;.&#8221;</a></p>
+<p>In the end, as Hilzoy noted, the saving grace of the bailout bill may well be its unfunded mandate that FDIC insurance be increased to $250,000.</p>
+<p>The other problem, as even <a href="http://delong.typepad.com/sdj/2008/09/economic-policy.html">Martin Effing Feldstein</a> <a href="http://online.wsj.com/article/SB122307486906203821.html">notes</a>, is the part of the bill that was sacrificed early: relief for homebuyers:<br />
+<blockquote>The financial rescue plan would bring back the confidence needed to revive the financial system only if the Treasury&#8217;s asset purchases could eliminate the current impaired securities now held by the financial institutions, and if the remaining securities could be counted on to remain healthy. The legislation will do neither.</p></blockquote>
+<p>But supporting the structures on Main Street itself, as noted <a href="http://bitchphd.blogspot.com/2008/09/bailout-for-beginners.html">here</a>, was sacrificed early:<br />
+<blockquote>I think that the&#8230;bit of your crisis just got buried on a big news day. They gave up on support for low-income home owners as part of the negotiations. That was an expensive objective</p></blockquote>
+<p>The alternative may well be worse, especially if Goldstein is correct about the fourth part, which strongly implies that Feldstein will be correct about the securities based on those properties.</p>
+<p>*It&#8217;s scary when the cynical version of events makes more sense than the official story.  Does anyone really believe that the MBS market will be recovered in two years, when the TARP programme is scheduled to end?  If so, on what evidence?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/10/the-other-reason-we-may-not-have-needed-the-cash-portions-of-the-bailout-bill.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

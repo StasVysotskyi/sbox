@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>savings glut &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Steve Randy Waldman Explains It All to You</title>
+		<link>./../../2010/12/steve-randy-waldman-explains-it-all-to-you.html</link>
+		<comments>./../../2010/12/steve-randy-waldman-explains-it-all-to-you.html#respond</comments>
+		<pubDate>Wed, 01 Dec 2010 21:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[prudence]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[savings glut]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/steve-randy-waldman-explains-it-all-to-you.html</guid>
+		<description><![CDATA[Not certain this link will work, but at Interfluidity, SRW replies to Karl Smith, closing with a sentiment with which I am very much in sympathy: It is not technocratic economists who will win the day and pull us out of our cul-de-sac, but angry Irishmen and Spaniards who challenge, on moral terms, the right [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Not certain this link will work, but at Interfluidity, <a href="http://www.interfluidity.com/v2/1004.html">SRW replies to Karl Smith</a>, closing with a sentiment <a href="http://www.angrybearblog.com/2010/11/can-someone-please-explain-germanys.html">with which I am very much in sympathy</a>:<br />
+<blockquote>It is not technocratic economists who will win the day and pull us out of our cul-de-sac, but angry Irishmen and Spaniards who challenge, on moral terms, the right of German bankers to impose vast deadweight costs on current activity because they lent greedily into what might easily have been recognized as a property and credit bubble.</p></blockquote>
+<p>Read the whole thing, even if <a href="http://www.interfluidity.com/v2/1004.html">this link</a> doesn&#8217;t work.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/steve-randy-waldman-explains-it-all-to-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Speculation, Again</title>
+		<link>./../../2008/06/speculation-again.html</link>
+		<comments>./../../2008/06/speculation-again.html#respond</comments>
+		<pubDate>Fri, 27 Jun 2008 18:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[hedge funds]]></category>
+		<category><![CDATA[investments]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[oil]]></category>
+		<category><![CDATA[savings glut]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/06/speculation-again.html</guid>
+		<description><![CDATA[Rick Newman of Useless News and World Report busts some myths. And gets to the heart of the &#8220;speculators&#8221; issue: Many companies, for instance, want to lock in the price they&#8217;re going to pay down the road for petroleum products and other supplies they need to run their businesses. So they make agreements with suppliers [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Rick Newman of Useless News and World Report <a href="http://biz.yahoo.com/usnews/080627/27_6_myths_about_oil_speculators.html">busts some myths</a>.  And gets to the heart of the &#8220;speculators&#8221; issue:<br />
+<blockquote>Many companies, for instance, want to lock in the price they&#8217;re going to pay down the road for petroleum products and other supplies they need to run their businesses. So they make agreements with suppliers on a price they&#8217;ll pay next year, or the year after, when they actually take possession of the oil. Buying and selling such &#8220;futures contracts&#8221; makes these companies speculators by definition, since they&#8217;re placing a bet on the future price of oil.</p>
+<p>Companies doing this kind of hedging include gasoline refiners, airlines, shipping companies, and others that spend a lot on fuel or petroleum. Often they use investment banks or other intermediaries to arrange the deals. They might be gambling, but this kind of speculation actually helps companies run their businesses more smoothly, and if they guess right on future prices, it may give them a competitive advantage against other companies that don&#8217;t plan as prudently.</p></blockquote>
+<p>It&#8217;s not &#8220;gambling&#8221; that gave Southwest a competitive advantage, or nearly put Delta out of business yet again.  When your largest non-fixed expense is a known quantity (how much fuel you&#8217;ll need next year, given any expansin/contraction plans), hedging in the futures market isn&#8217;t just an adventure, it&#8217;s a job.</p>
+<p>And note that the competitive advantage isn&#8217;t just against &#8220;other companies.&#8221;  A speculator who guesses wrong doesn&#8217;t stay in the market too long.  Nor, not to be blunt about it, does s/he ever take delivery of the asset: they sell the contract for a gain or loss.</p>
+<p>This is why an increase in volume in the futures market (as noted in <a href="http://www.mcadforums.com/forums/files%20(PDF)/michael_masters_written_testimony.pdf">Mr. Master&#8217;s testimony</a>; h/t divorced one like Bush in comments <a href="http://angrybear.blogspot.com/2008/06/oil-prices-and-shopping-for-experts.html">here</a>) isn&#8217;t necessarily a sign in itself of speculation. It may be a sign of corporate risk management (finally) doing its job.  After all, it&#8217;s not as if the oil price trend isn&#8217;t clear.
+<p><a href="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SGU5W27nq_I/AAAAAAAAAIQ/1lEFkGgABWc/s1600-h/world+spot+oil+price+2002-2008.JPG"><img src="http://2.bp.blogspot.com/_wM5Pj6NF0jA/SGU5W27nq_I/AAAAAAAAAIQ/1lEFkGgABWc/s400/world+spot+oil+price+2002-2008.JPG" border="0" alt=""></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/06/speculation-again.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

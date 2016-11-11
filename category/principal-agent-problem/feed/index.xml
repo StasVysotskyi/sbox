@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>principal-agent problem &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dropping $100 Bills on the Sidewalk, or Even More on Excess Reserves</title>
+		<link>./../../2010/07/dropping-100-bills-on-the-sidewalk-or-even-more-on-excess-reserves.html</link>
+		<comments>./../../2010/07/dropping-100-bills-on-the-sidewalk-or-even-more-on-excess-reserves.html#respond</comments>
+		<pubDate>Wed, 28 Jul 2010 03:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[deflation]]></category>
+		<category><![CDATA[excess reserves]]></category>
+		<category><![CDATA[Macroeconomic Theory]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[principal-agent problem]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/dropping-100-bills-on-the-sidewalk-or-even-more-on-excess-reserves.html</guid>
+		<description><![CDATA[The sarcasm of the title of my recent post notwithstanding, there are some things economists understand to be true that are. Among those: People respond to incentives As with the Supreme Court, economists extend this principle to organizations, on the (generally correct) idea that organizations are made up of people who act in their own [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The sarcasm of the title of <a href="http://www.angrybearblog.com/2010/07/economists-idiots-part-1829.html" target="_blank">my recent post</a> notwithstanding, there are some things economists understand to be true that are. Among those:
+<ul>
+<li>People respond to incentives </li>
+</ul>
+<p>As with the Supreme Court, economists extend this principle to organizations, on the (generally correct) idea that organizations are made up of people who act in their own best interest.  (It isn’t, <em>pace</em> the old joke, that they wouldn’t pick up a $100 bill lying on the sidewalk; it’s that they would never believe someone would drop one there in the first place.)  This is how you get to teach courses in “Organizational Behavior” and the like—it’s not the madness of crowds if they all act “rationally” on an individual basis. (More Skinner than Ballard, but I sidebar.)</p>
+<p>In economic models, as I obliquely ,mentioned last post, there is no risk-free arbitrage: if there were, “the market” would eliminate it, because it would mean someone was dropping $100 bills on the sidewalk, and the “the market” would make certain that person (or organization) was bankrupted, or at least suffered enough of a loss to change its behavior.</p>
+<p>If you need proof of that:</p>
+<p><a href="http://lh6.ggpht.com/_wM5Pj6NF0jA/TE-epF2q0qI/AAAAAAAAAbM/kjA0KCLxP3w/s1600-h/EXRESGrowth5.png"><img title="EXRESGrowth" height="179" alt="EXRESGrowth" src="http://lh6.ggpht.com/_wM5Pj6NF0jA/TE-epq6MO4I/AAAAAAAAAbQ/Ef09wIlm6qI/EXRESGrowth_thumb1.png?imgmax=800" width="244" border="0"></a> </p>
+<p>Note that there were a nominal amount of excess reserves being held by some institutions even before interest was paid. We can treat them basically as rounding errors and systemic inefficiencies; given the skewness of the risk-reward, it has always been safer to put an extra $20,000 or so “in reserve” for late transactions, counterparty failures to deliver, or just plain calculation errors. Think of it as the equivalent of taking $60 out of the ATM when you only expect to need $40; the ability to pay taxes you forgot to calculate, upgrade a shirt from poly to cotton, or buy a bottle of water “on impulse” is more valuable (utile) than the day’s interest on that $20 (currently, just over 1/100,000th of a cent from one of my TBTF financial institutions; half that from the other). And so it goes for reserves.</p>
+<p>But in September of 2008, the Fed decides to pay interest on reserves—including Excess Reserves. The banks can now make 25 times what they pay in interest, <em>risk-free</em>, just by holding onto money.  The Fed is, essentially, leaving $100 bills on the sidewalk.</p>
+<p>Hasty disclaimer: it’s doing so for all the right reasons: the banks need to <strike>rebuild</strike> strengthen their balance sheets, and nationalization is off the table.  Every little bit helps. Conceptually, economic theory indicates that one should pay “interest,” in some form, for the right to use another’s capital. (That this breaks down in the details is subject for a discussion over tonics.)</p>
+<p>I’m using monthly, blended data—nothing so clear as the BarCap analyst examined in the last post—but it’s fairly easy to see what happens even on that trend. Excess Reserves in October are two orders of magnitude higher than they were a few months. They more than double for November, and then stay in a fairly narrow band until around the time the “recovery” began. From August of 2009 until the end of the year, they rise again, just missing the magic $1 Trillion mark in October, breaking it in November and not dropping below again.</p>
+<p>It’s free money; why wouldn’t the people who run the banks take it?</p>
+<p>And they do.  So the number of $100 bills being dropped on the sidewalk would be expected to decline—save that the Fed has no liquidity constraint, even if we’re ignoring a right of seignorage. And the participants come by each night, picking up more.</p>
+<p>The externalities of such a situation are obvious.  The most direct solutions are two: either (1) stop dropping the bills or (2) show the banks that there are better investment opportunities on a risk-adjusted basis.</p>
+<p><a href="http://www.huffingtonpost.com/joseph-e-gagnon/time-for-a-monetary-boost_b_654944.html" target="_blank">Joe Gagnon</a> (h/t <a href="http://delong.typepad.com/sdj/2010/07/why-isnt-the-federal-reserve-boosting-aggregate-demand-further.html" target="_blank">Brad DeLong</a>) advocates the former.  It is unclear (to me) whether Gagnon is advocating the full cessation of paying 0.25% on reserves or just a temporary cessation until market rates rise, but in either case he recognizes the perils of risk-free arbitrage. (Bruce Bartlett is <a href="http://www.thefiscaltimes.com/Issues/The-Economy/2010/07/23/What-Can-the-Fed-Still-Do.aspx" target="_blank">shriller—and possibly more extreme—than I am on the matter</a>.)</p>
+<p>The other option is rather more problematic, not so much because the pump hasn’t been primed as that the water used was rather dirty, with a significant underestimation of the amount of rust that needed to be addressed only compounding the issue.</p>
+<p>The result is approximately what one might have reasonably predicted in the goods and non-financial services economy: the Federal G(f) barely compensated for the State –G(s), and only the multiplier effect of that spending actually happening “expanded” anything. (Or, more accurately, some businesses did not fail so rapidly and the cost of some services did not rise so quickly as they would have ex-“stimulus.”)  The good news is that there was a barrel of water between the diving board and the ground; the bad news is that the barrel wasn’t full, so the dives had to be better than excellent, with minor injury virtually a best-case scenario.</p>
+<p>The non-financial private-sector, in short, has not been able to recover, while the financial sector—propped up by those $100 bills—shows evermore “strength” on the back of dicey assets being held by the Fed, higher fees and lower interest rates for their “customers,” and—of course, $2.5 Billion a year in from the taxpayer.</p>
+<p>Sooner or later, we’ll be talking about real money. For now, though, we’re just talking about the real economy.  What we have here isn’t (quite) a dead shark—as I said earlier, the private sector has performed amazingly well in the face of opposition to it from the Fed and the banks—but it has a diving tank in its mouth and Tim Geithner et al. taking shots at it will a high-powered rifle. We can only hope that former NYC “financial cop” Geithner isn’t as good a shot as another former NYC cop transplanted to a land he doesn’t like or understand.</p>
+<p>
+<p></p>
+<div>
+<div>
+<div><a href="http://www.youtube.com/watch?v=MVl-ji-sVAs&#038;hl=en_US&#038;fs=1" target="_new"><img src="http://lh3.ggpht.com/_wM5Pj6NF0jA/TE-ep9RQzbI/AAAAAAAAAbU/sfHdPNGTLdA/video4aa9668d8518%5B3%5D.jpg?imgmax=800" galleryimg="no" onload="var downlevelDiv = document.getElementById('53e94e14-2d75-422e-a8a5-22d48b3438eb'); downlevelDiv.innerHTML = "
+<div><object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/MVl-ji-sVAs&#038;hl=en_US&#038;fs=1&#038;hl=en\"><\/param><embed src=\"http://www.youtube.com/v/MVl-ji-sVAs&#038;hl=en_US&#038;fs=1&#038;hl=en\" type=\"application/x-shockwave-flash\" width=\"425\" height=\"355\"><\/embed><\/object><\/div>&#8220;;&#8221; alt=&#8221;&#8221;></a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/dropping-100-bills-on-the-sidewalk-or-even-more-on-excess-reserves.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I Do Not Think &#034;Tool&#034; Means What You Think It Does</title>
+		<link>./../../2009/04/i-do-not-think-tool-means-what-you-think-it-does.html</link>
+		<comments>./../../2009/04/i-do-not-think-tool-means-what-you-think-it-does.html#respond</comments>
+		<pubDate>Mon, 27 Apr 2009 11:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[principal-agent problem]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/i-do-not-think-tool-means-what-you-think-it-does.html</guid>
+		<description><![CDATA[Dear Brad, Do you want to reconsider the title of this post in the context of this article? An examination of Mr. Geithner’s five years as president of the New York Fed, an era of unbridled and ultimately disastrous risk-taking by the financial industry, shows that he forged unusually close relationships with executives of Wall [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dear Brad,</p>
+<p>Do you want to reconsider <a target="_blank" href="http://delong.typepad.com/sdj/2009/03/tim-geithner-is-not-a-tool-of-wall-street.html">the title of this post</a> in the context of <a target="_blank" href="http://www.nytimes.com/2009/04/27/business/27geithner.html?_r=1&#038;pagewanted=print">this article</a>?<br />
+<blockquote>An examination of Mr. Geithner’s five years as president of the New York Fed, an era of unbridled and ultimately disastrous risk-taking by the financial industry, shows that he forged unusually close relationships with executives of Wall Street’s giant financial institutions.</p>
+<p>His actions, as a regulator and later a bailout king, often aligned with the industry’s interests and desires, according to interviews with financiers, regulators and analysts and a review of Federal Reserve records. </p></blockquote>
+<p>To take a phrase more prominent in our middle-school days, he would qualify as an &#8220;unindicted co-conspirator.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/i-do-not-think-tool-means-what-you-think-it-does.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Back-of-the-Envelope: Making Sense of TARP</title>
+		<link>./../../2009/04/back-of-the-envelope-making-sense-of-tarp.html</link>
+		<comments>./../../2009/04/back-of-the-envelope-making-sense-of-tarp.html#respond</comments>
+		<pubDate>Sun, 05 Apr 2009 16:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bailout]]></category>
+		<category><![CDATA[Brad DeLong]]></category>
+		<category><![CDATA[kleptocracy]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[Obama economic policy]]></category>
+		<category><![CDATA[principal-agent problem]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[TARP]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/04/back-of-the-envelope-making-sense-of-tarp.html</guid>
+		<description><![CDATA[Suppose I told you that there was a crisis with a stock, say, GE. That the price of the stock had dropped around 75% in the past year. And you responded, &#8220;But the problem is solved; the prices of long-term Call Options (say, the January 2011 20s) has gone up, as has their Open Interest. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Suppose I told you that there was a crisis with a stock, say, GE.  That the price of the stock had dropped <a target="_blank" href="http://finance.yahoo.com/q/bc?s=GE&#038;t=1y&#038;l=on&#038;z=m&#038;q=l&#038;c=">around 75% in the past year</a>.  And you responded, &#8220;But the problem is solved; the prices of long-term Call Options (say, <a target="_blank" href="http://finance.yahoo.com/q/op?s=GE&#038;m=2011-01">the January 2011 20s</a>) has gone up, as has their Open Interest.</p>
+<p>You will (rightly) point out that this won&#8217;t revitalise the assets themselves and I will (rightly) note that option markets rather saved the equity markets in 1987, for instance.  You will note that I am too optimistic, and I will agree, holding up a <a target="_blank" href="http://delong.typepad.com/sdj/2009/03/tim-geithner-is-not-a-tool-of-wall-street.html">Brad</a> <a target="_blank" href="http://delong.typepad.com/sdj/2009/03/matthew-richardson-and-nouriel-roubini.html">DeLong</a> mask (since I&#8217;d rather have DeLong&#8217;s [relative to mine] abundant hair than Geithner&#8217;s abundant forehead).</p>
+<p>Then I will drop the other shoe and say that the toxic (&#8220;legacy&#8221;) assets should be priced as if the Fed-supported trades were options, with the underlying current price worked out by Black-Scholes. (As I&#8217;ve noted before, B-S is specifically <strong>IN</strong>appropriate for this exercise, as it will overvalue the option. And therefore anyone suggesting the toxic [&#8220;legacy&#8221;] assets should be priced—or carried on their books—at a level higher than that model will clearly be insane.)</p>
+<p>Ladies and Gentlemen, welcome to The TARP Solution.  Details beneath the fold.</p>
+<p>TARP is the Treasury Department&#8217;s attempt to confront two realities: (1) it isn&#8217;t a &#8220;market&#8221; in any reasonable sense of the word if the Fed is putting up 85% of the cash. (People who tell us that this means firms are committing a &#8220;large amount&#8221; to the process either do not understand the English language,or are <a target="_blank" href="http://brontecapital.blogspot.com/2009/04/little-bit-of-careful-thinking-and-why.html">hedge fund managers trying to sell something</a>.)  So let&#8217;s put some random numbers together.</p>
+<p>Those &#8220;legacy&#8221; assets are trading in the market around 30.  The Big C and others are carrying them on their books around 80.  Several people who should know better (Summers, Geithner, DeLong) have conflated &#8220;the market is underpricing the assets&#8221; with &#8220;the true price of the assets will make the banks solvent again.&#8221;*</p>
+<p>So we know three things.  (1) People are willing to pay 30% of their own money to buy these assets, (2) the Fed is only requiring them to pay 15%, and (3) the fair value is between 30 (the current market price) and 80, and probably closer to the former than the later.</p>
+<p>So again, using back-of-the-envelope principles, let&#8217;s pretend that we think the recovery will be soon, that the defaults will slow (or at least that resales will be quick and frictionless), and that the market reaches that consensus quickly.  And so fair value should be around 50.**</p>
+<p>So let&#8217;s say the Fed offers to buy a MBS for 50.  How, as an investor, do I make money off this?  Three possible ways:</p>
+<ol>
+<li>If I own securities for which I paid </li>
+<li>If I own securities for which I paid >50, and which I cannot sell for 50 without revealing myself to be insolvent, I buy securities at 50 along with the Fed and &#8220;average in.&#8221;  (This is the &#8220;how to stay solvent longer than the market can be rational&#8221; act.)</li>
+<li>If the Fed is buying securities at 50 so that I can no longer buy them at 30—I buy a LONG-dated Call Option on the security.</li>
+</ol>
+<p>It is that last that explains TARP. Effectively, the co-investors with the Fed will be buying a Call option at 7.5 on the security at 50.***</p>
+<p>Of course, it may not be an at-the-money Call option.  More likely, the hedge fund effectively will be buying an out-of-the-money option (say, a 49.5 Call for 8) where some portion of the purchase is put up by the government.</p>
+<p>Now you will note that, technically, TARP requires the hedge fund to buy the asset.  So you might argue that this is not an option.  But let&#8217;s look at the generic payoff diagram to the hedge fund of the two scenarios.
+<p><a href="http://4.bp.blogspot.com/_wM5Pj6NF0jA/Sdlq9tDeBdI/AAAAAAAAARY/L5WRVc8T6Xw/s1600-h/tarp+v+call.JPG"><img src="http://4.bp.blogspot.com/_wM5Pj6NF0jA/Sdlq9tDeBdI/AAAAAAAAARY/L5WRVc8T6Xw/s400/tarp+v+call.JPG" border="0" alt=""></a></p>
+<p>Amazingly, you can&#8217;t tell the difference on the payoff diagram as the security gains.****  In both cases, the hedge fund manager has just gone long volatility.</p>
+<p>Expect that to have a ripple effect—I&#8217;m guessing dampening, cet. par.—on other option volatility trades.</p>
+<p>All that is left is to back out what actual value of the security was assumed by the hedge fund when they bought the option.  Which I will also leave as an exercise to the reader, while suggesting that a fair indication is min[x, TotalFedContribution] s.t. x a.s. approaches TotalFedContribution.</p>
+<p>Will this bring the markets back, or make bank balance sheets more stable? I&#8217;m still saying &#8220;No,&#8221; and hoping to be proved wrong.</p>
+<p>But what it should do is reduce volatility buying, especially in the other debt markets, for the foreseeable future.  So if any of those <s>Bankrupt</s> &#8220;legacy asset constrained&#8221; institutions has a long volatility position, there will be even more &#8220;Unintended Consequences.&#8221;</p>
+<p>*In fairness to Brad DeLong, I don&#8217;t believe he believes this. As <a target="_blank" href="http://www.eschatonblog.com/2009/03/politics-is-weird.html">Dr. Black noted</a>, George Voinovich &#8220;wants to see a pile of money in flames before he&#8217;s willing to vote for what&#8217;s necessary,&#8221; and DeLong therefore sees this as a necessary evil.  Having seen no evidence from the Obama Administration that they Have a Clue, I am naturally suspicious that this particular idiocy will do anything other than waste time and money—both of which are in increasingly short supply—but, since Larry Summers has shown <a target="_blank" href="http://thismodernworld.com/4731">his brilliant foresight before</a> and clear has <a target="_blank" href="http://thismodernworld.com/4736">no skin in the game</a>, I am reassured that there is no Principal-Agent problem at work here, as they was when Christopher &#8220;I never saw a regulation I like&#8221; Cox was named head of the SEC by the Previous Administration.</p>
+<p>**While we&#8217;re at it, can we pretend that <a target="_blank" href="http://www.amazon.com/exec/obidos/search-handle-url/ref=ntt_athr_dp_sr_1?_encoding=UTF8&#038;search-type=ss&#038;index=books&#038;field-author=Amber%20Benson">Amber Benson</a> will be my next wife, which is probably very little less likely than those other possibilities (especially since I&#8217;m already married to an sf-writing actress/director)?  (Amazingly, even without those conditions, we would be using a BotE number of 50: though there is a legitimate argument that 60 would be easier to work with, I&#8217;m assuming no one is that stupid.)</p>
+<p>***This is why 60 would have been easier; 15% of 60 is 9, so I wouldn&#8217;t have to pay attention to decimal places.  40 would also have been easier—and both certainly more realistic than 60 and arguably more realistic than 50, but I want to maintain the pretense of the U.S. Treasury that this is a liquidity, not a solvency, crisis.  (They&#8217;re wrong, but it&#8217;s their game.)</p>
+<p>****The reason we can tell the difference on the losses is the possibility that the hedge fund treats the position as if it were an in-the-money Call option for which the Fed paid the in-the-money portion; the real returns to the hedge fund of the position in a TARP security are the same in both cases; there would be differences in the way the rest of the portfolio was managed, though, which are left as an exercise to the reader.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/04/back-of-the-envelope-making-sense-of-tarp.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

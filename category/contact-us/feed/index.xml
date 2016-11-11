@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>contact us &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Contact us</title>
+		<link>./../../2010/08/contact-us.html</link>
+		<comments>./../../2010/08/contact-us.html#respond</comments>
+		<pubDate>Mon, 09 Aug 2010 15:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[contact us]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/contact-us.html</guid>
+		<description><![CDATA[Contact us by e-mail: For a problem about the site, email Dan Crawford or Ken Houghton. Ordered alphabetically: Dan Crawford (Rdan) Linda Beale Dan Becker Tom Ealy Spencer England Mike Halasy Ken Houghton Jazzbumpa Mike Kimel Steve Roth Robert Waldmann Bruce Webb Rebecca Wilder For all advertising inquiries, please visit our Advertising page.]]></description>
+				<content:encoded><![CDATA[<p>Contact us by e-mail:</p>
+<p>For a problem about the site, email Dan Crawford or Ken Houghton.</p>
+<p>Ordered alphabetically:</p>
+<p><a href="mailto:angrybearblog@gmail.com">Dan Crawford (Rdan)</a></p>
+<p><a href="mailto:lbeale@wayne.edu">Linda Beale</a></p>
+<p><a href="mailto:">Dan Becker</a></p>
+<p><a href="mailto:rustyrustbelt@gmail.com">Tom Ealy</a>  </p>
+<p><a href="mailto:s.england@comcast.net">Spencer England</a></p>
+<p><a href="mailto:">Mike Halasy</a></p>
+<p><a href="mailto:houghton.ken@gmail.com">Ken Houghton</a></p>
+<p>Jazzbumpa</p>
+<p><a href="mailto:mike.kimel@gmail.com">Mike Kimel</a></p>
+<p><a href="mailto:">Steve Roth</a></p>
+<p><a href="mailto:robert.waldmann@gmail.com">Robert Waldmann</a></p>
+<p><a href="mailto:bruce.webb@mac.com">Bruce Webb</a></p>
+<p><a href="mailto:newsneconomics@gmail.com">Rebecca Wilder</a></p>
+<p>For all advertising inquiries, please visit our <a href="http://www.angrybearblog.com/2010/09/how-to-advertise-on-angrybear.html">Advertising page</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/contact-us.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

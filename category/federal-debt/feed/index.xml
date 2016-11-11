@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>federal debt &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>John Boehner says “we do not have an immediate debt crisis.”</title>
+		<link>./../../2013/03/john-boehner-says-we-do-not-have-an-immediate-debt-crisis.html</link>
+		<comments>./../../2013/03/john-boehner-says-we-do-not-have-an-immediate-debt-crisis.html#respond</comments>
+		<pubDate>Tue, 19 Mar 2013 12:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[federal debt]]></category>
+		<category><![CDATA[federal deficit]]></category>
+		<category><![CDATA[John Boehner]]></category>
+		<category><![CDATA[Rand Paul]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/john-boehner-says-we-do-not-have-an-immediate-debt-crisis.html</guid>
+		<description><![CDATA[Via Salon, David Sirota points to statements by John Boehner and Rand Paul: America owes this debt of gratitude to Boehner after he finally came clean on yesterday’s edition of ABC’s “This Week” and admitted that “we do not have an immediate debt crisis.” (His admission was followed up by Budget Committee Chairman Paul Ryan, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <i>Salon</i>, <a href="http://www.salon.com/2013/03/18/boehners_debt_confession_reveals_gops_intentions/" title="http://www.salon.com/2013/03/18/boehners_debt_confession_reveals_gops_intentions/">David Sirota</a> points to statements by John Boehner and Rand Paul:</p>
+<blockquote><p>America owes this debt of gratitude to Boehner after he finally came clean on yesterday’s edition of <a href="http://www.realclearpolitics.com/video/2013/03/17/boehner_agrees_with_obama_we_do_not_have_an_immediate_debt_crisis.html">ABC’s “This Week”</a> and admitted that “we do not have an immediate debt crisis.” (His admission was followed up by Budget Committee Chairman Paul Ryan, who quickly echoed much the same sentiment on <a href="http://www.mediaite.com/tv/paul-ryan-tells-cbs-bob-schieffer-we-do-not-have-a-debt-crisis/">CBS’ Face the Nation</a>).</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/john-boehner-says-we-do-not-have-an-immediate-debt-crisis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

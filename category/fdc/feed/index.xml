@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FDC &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>What Works About the FDIC?</title>
+		<link>./../../2010/03/what-works-about-the-fdic.html</link>
+		<comments>./../../2010/03/what-works-about-the-fdic.html#respond</comments>
+		<pubDate>Mon, 29 Mar 2010 20:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[FDC]]></category>
+		<category><![CDATA[OCC]]></category>
+		<category><![CDATA[securitization]]></category>
+		<category><![CDATA[Thrift Supervision]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/03/what-works-about-the-fdic.html</guid>
+		<description><![CDATA[reads Ezra Klein and Matt Yglesias (between the two of them they have more years than I do). Klein thinks the FDIC works well. Yglesias notes that it keeps eating banks every Friday and has doubts about the quality of its prudential regulation. I will argue that the FDIC has more of an incentive to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>reads Ezra Klein and Matt Yglesias (between the two of them they have more years than I do).</p>
+<p><a href="http://voices.washingtonpost.com/ezra-klein/2010/03/the_palin_test_for_finreg.html">Klein thinks the FDIC works well</a>. <a href="http://yglesias.thinkprogress.org/archives/2010/03/what-works-about-the-fdic.php">Yglesias notes that it keeps eating banks every Friday and has doubts about the quality of its prudential regulation</a>. I will argue that the FDIC has more of an incentive to make banks prudent than the SEC, the Fed, the Treasury or the comptroller of the currency.</p>
+<p>The key point is that the FDIC has a trust fund and wants to keep it. This is the reason that Stiglitz, Sachs, and Krugman were totally wrong and the PPIP was not a huge give away (<a href="http://www.angrybearblog.com/2009/04/ppip-bad-maybe-but-not-that-bad.html">Tom Bozzo</a> and <a href="http://www.angrybearblog.com/2009/03/geithner-plan-better-than-leaked.html">I</a> explained it to them at the time but they don&#8217;t read this blog). So long as the FDIC doesn&#8217;t run out of money, it doesn&#8217;t have to go begging to Congress.</p>
+<p>Robert Waldmann</p>
+<p>The SEC and the comptroller don&#8217;t put their own money on the line. They regulate but they don&#8217;t bail out. Failures mean they have more egg on their face but no less cash on hand. The Treasury has broad responsibilities and has to explain economic policy to Congress in any case. The FED can just print all the money it wants. The FDIC is independent so long as it stays within its means.</p>
+<p>This makes a difference. It is true that the FDIC has had to spend some of its money lately. IIRC it hasn&#8217;t had to ask congress for any extra appropriations – at all. This in spite of the fact that the FDIC agreed to insure money market funds which therefore got insurance without paying for it. The scale of failures of FDIC insured institutions are tiny compared to the scale of failures of non FDIC insured institutions.</p>
+<p>See the secret is to have an intertemporal budget constraint. That tends to cause forward looking behavior.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/03/what-works-about-the-fdic.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

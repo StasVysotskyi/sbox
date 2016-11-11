@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>scofflaws &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tax Havens in Reverse</title>
+		<link>./../../2011/09/tax-havens-in-reverse.html</link>
+		<comments>./../../2011/09/tax-havens-in-reverse.html#respond</comments>
+		<pubDate>Wed, 07 Sep 2011 15:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[corporate taxation]]></category>
+		<category><![CDATA[international trade]]></category>
+		<category><![CDATA[scofflaws]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/09/tax-havens-in-reverse.html</guid>
+		<description><![CDATA[Reuters provides a synopsis of a report by the OECD on tax-avoidance strategies by multinational corporations: 30/08/2011 &#8211; Due to the recent financial and economic crisis, global corporate losses have increased significantly. Numbers at stake are vast, with loss carry-forwards as high as 25% of GDP in some countries. Though most of these claims are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Reuters provides a synopsis of a report by the OECD on <a target="_blank" href="http://link.reuters.com/pek53s">tax-avoidance strategies by multinational corporations</a>:
+<p></p>
+<blockquote><p>30/08/2011 &#8211; Due to the recent financial and economic crisis, global corporate losses have increased significantly. Numbers at stake are vast, with loss carry-forwards as high as 25% of GDP in some countries. Though most of these claims are justified, some corporations find loop-holes and use ‘aggressive tax planning’ to avoid taxes in ways that are not within the spirit of the law.</p>
+<p>This aggressive tax planning is a source of increasing concern for many countries and they have developed various strategies to deal with it. Working cooperatively, countries can deter, detect and respond to aggressive tax planning while at the same time ensuring certainty and predictability for compliant taxpayers. <br /><a name="more"></a><br /><a href="http://www.oecd.org/document/61/0,3746,en_2649_33767_48570813_1_1_1_1,00.html"><em>Corporate Loss Utilisation through Aggressive Tax Planning</em></a> [report is gated], which builds on <a href="http://www.oecd.org/document/48/0,3746,en_21571361_44315115_45944752_1_1_1_1,00.html"><em>Addressing Tax Risks Involving Bank Losses</em></a> (2010), looks at a number of commonly used schemes and identifies three key risk areas: corporate reorganisations, financial instruments and non-arm’s length transfer pricing.</p></blockquote>
+<p>
+<p>David Cay Johnson <a target="_blank" href="https://research.tdwaterhouse.ca/research/public/Markets/NewsArticle/1314-N1E78021O-1">presents his interpretation of the data</a>:</p>
+<p></p>
+<blockquote><p>The latest evidence of this tax after-the-factism comes from an eye-popping global tax avoidance study by the Organization for Economic Co-operation and Development.</p>
+<p>What makes the study by tax authorities in 17 major countries so astonishing is not just the size of the losses, but when they were booked.</p>
+<p>Country after country showed corporate losses equal to a 10th or more of an entire country&#8217;s economic output.</p>
+<p>In Germany, corporations list 576.3 billion euros of tax losses on their books one year, equal to one quarter of German economic output that same year. What matters there is not just the stunning size of these losses, but also that they were booked before the global meltdown. The German data are from 2006.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/09/tax-havens-in-reverse.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teaching &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Things to Do in Denver When You&#8217;re Dead: the AEA</title>
+		<link>./../../2011/01/things-to-do-in-denver-when-youre-dead-the-aea.html</link>
+		<comments>./../../2011/01/things-to-do-in-denver-when-youre-dead-the-aea.html#respond</comments>
+		<pubDate>Fri, 07 Jan 2011 21:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economics]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[jobs program]]></category>
+		<category><![CDATA[teaching]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/things-to-do-in-denver-when-youre-dead-the-aea.html</guid>
+		<description><![CDATA[You could either be there live, or check out some of the papers here while enjoying a musical interlude with the most talented musician to come out of the California &#8220;soft rock&#8221; movement of the 1970s: Or the most talented member of the Velvet Underground: Or this giggle: Or just treat this as a prelude [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You could either be there live, or <a href="http://www.aeaweb.org/aea/2011conference/program/meetingpapers.php">check out some of the papers here</a> while enjoying a musical interlude with the most talented musician to come out of the California &#8220;soft rock&#8221; movement of the 1970s:<br />
+
+</p>
+<p>Or the most talented member of the Velvet Underground:</p>
+</p>
+<p>Or this giggle:</p>
+</p>
+<p>Or just treat this as a prelude to the Open Thread Dan will probably post in the next hour or so anyway.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/things-to-do-in-denver-when-youre-dead-the-aea.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Teaching that Contracts Should Be Broken is Rewarding</title>
+		<link>./../../2009/11/teaching-that-contracts-should-be-broken-is-rewarding.html</link>
+		<comments>./../../2009/11/teaching-that-contracts-should-be-broken-is-rewarding.html#comments</comments>
+		<pubDate>Fri, 20 Nov 2009 23:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[academia]]></category>
+		<category><![CDATA[awards]]></category>
+		<category><![CDATA[CGG]]></category>
+		<category><![CDATA[teaching]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/teaching-that-contracts-should-be-broken-is-rewarding.html</guid>
+		<description><![CDATA[Congratulations to Andrew Samwick of Capital Gains and Games for being named Professor of the Year in New Hampshire.]]></description>
+				<content:encoded><![CDATA[<p>Congratulations to Andrew Samwick of <a href="http://capitalgainsandgames.com/">Capital Gains and Games</a> for being <a href="http://capitalgainsandgames.com/blog/stan-collender/1261/cggs-own-andrew-samwick-professor-year?utm_source=feedburner&#038;utm_medium=feed&#038;utm_campaign=Feed%3A+CapitalGainsAndGames+(Capital+Gains+and+Games+-+Wall+Street%2C+Washington%2C+and+Everything+in+Between)&#038;utm_content=Google+Reader">named Professor of the Year in New Hampshire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/teaching-that-contracts-should-be-broken-is-rewarding.html/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

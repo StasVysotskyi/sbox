@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>deadweight loss &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Today in &#034;Economists Are NOT Totally Clueless&#034; (Part 1 of 2 or 3)</title>
+		<link>./../../2009/12/today-in-economists-are-not-totally-clueless-part-1-of-2-or-3.html</link>
+		<comments>./../../2009/12/today-in-economists-are-not-totally-clueless-part-1-of-2-or-3.html#comments</comments>
+		<pubDate>Wed, 30 Dec 2009 02:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Calculated Risk]]></category>
+		<category><![CDATA[deadweight loss]]></category>
+		<category><![CDATA[Housing Prices]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[WSJ]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/12/today-in-economists-are-not-totally-clueless-part-1-of-2-or-3.html</guid>
+		<description><![CDATA[The WSJ collects reactions to the release of the latest Case-Shiller index. Let&#8217;s look at two, just for fun: One in four mortgages are currently underwater. Foreclosure and delinquency rates, which hit a record high at the end of the third quarter of 2009, are therefore likely to continue to rise, perhaps sharply. In addition [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The WSJ collects <a href="http://blogs.wsj.com/economics/2009/12/29/economists-react-prices-have-further-to-fall/?utm_source=feedburner&#038;utm_medium=feed&#038;utm_campaign=Feed:+wsj/economics/feed+(WSJ.com:+Real+Time+Economics+Blog)&#038;utm_content=Google+Reader">reactions to the release of the latest Case-Shiller index</a>. Let&#8217;s look at two, just for fun:<br />
+<blockquote>One in four mortgages are currently underwater. Foreclosure and delinquency rates, which hit a record high at the end of the third quarter of 2009, are therefore likely to continue to rise, perhaps sharply. In addition to this, the inventory of homes for sale remains near record highs. … Despite the recent positive reports on housing prices, we believe that prices have further to fall—about another 5%-10%. — Patrick Newport, IHS Global Insight&#8230;.</p>
+<p>When the Case-Shiller index began increasing in the summer, there were concerns that exaggerated seasonal patterns were an important driver, as trends had briefly improved in the summer of 2008 as well. However, while some seasonality does appear to have been present, the fact that the Case-Shiller home price index is continuing to increase is good news. We still believe that home prices could fall a bit over the course of 2010, but the majority of the price adjustment has probably already occurred. — Abiel Reinhart, J.P. Morgan Chase</p></blockquote>
+<p>I&#8217;m not cherry-picking here.  I could make fun of the excluded &#8220;the long-awaited U.S. housing market recovery is well upon us&#8221; all day, but I&#8217;ll leave that one to <a href="http://www.calculatedriskblog.com/">CR</a> (who, I now see, has already done a <a href="http://www.calculatedriskblog.com/2009/12/are-homes-now-cheap.html">Variation on the Theme</a>).</p>
+<p>But let&#8217;s look at pieces of the two points, and see why I&#8217;m not sanguine (besides being long housing, that is):
+<ol>
+<li>One in four mortgages are currently underwater.  One in four = 25%.</li>
+<li>&#8220;[W]e believe that prices have further to fall—about another 5%-10%.&#8221;</li>
+<li>&#8220;[T]he Case-Shiller home price index is continuing to increase&#8221;</li>
+<li>&#8220;Home prices could fall a bit over the course of 2010, but the majority of the price adjustment has probably already occurred.&#8221;</li>
+</ol>
+<p>Even if you take all of those at face value, you have to combine Bad Economics and Bad Policy to assume the worst is near over.</p>
+<p>Details below the fold.<br /><a name="more"></a><br />Bad Economics:  If 25% of households are underwater right now, it would be foolish to assume that those people would <em>or should</em> stay in their house. (<a href="http://www.interfluidity.com/v2/364.html">Steve Randy Waldman made this point a while back</a>.)</p>
+<p>This doesn&#8217;t mean that all 25% of those householders should move.  There are major transaction costs in moving, not the least of which is the cost of moving itself.  Renting will not be <a href="http://online.wsj.com/article/SB126040517376983621.html">a better deal</a> for everyone, but more and more people are going to realize that <strong>not</strong> walking away will be A Bad Idea, damaging the future of their child and themselves long after any credit report impact will have dissipated.</p>
+<p>And if prices are still 5-10% above where they will be, the decision will become that much more inevitable, especially in areas where employment is lagging.</p>
+<p>Looking at the &#8220;bright spot&#8221;—the counterintuitive rise in the Case-Shiller Index—which looks <a href="http://blogs.wsj.com/economics/2009/12/29/a-look-at-case-shiller-by-metro-area-december-update/">less firm</a> than one might gather from the commenters—we see that this is another Second Derivative Problem: the pace of the decline has slowed (7.3% YOY) and the gain (&#8220;a seasonally adjusted 0.4%&#8221;) comes primarily from two areas (Phoenix, which has the largest YOY decline in the Index, and SF), with only five other positive gains over the month, none greater than 0.4% (SD; New York City is flat).</p>
+<p>There are green shoots there, but they are on rather fallow ground.</p>
+<p>Bad Policy is made clear in the last point: &#8220;the majority of the price adjustment has probably already occurred.&#8221;</p>
+<p>Let&#8217;s assume that statement is true.  We are, therefore, slightly away from equilibrium, but probably close enough.</p>
+<p>But 25% of householders are underwater.  And probably 80% of those—one in five &#8220;homeowners&#8221;—would have their economic situation improved by walking away and renting.</p>
+<p>The term that comes to mind is &#8220;deadweight loss.&#8221;  And let&#8217;s look at that in the next post.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/12/today-in-economists-are-not-totally-clueless-part-1-of-2-or-3.html/feed/index.html</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		</item>
+	</channel>
+</rss>

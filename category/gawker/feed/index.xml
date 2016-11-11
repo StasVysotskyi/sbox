@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gawker &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Is Harry Reid’s Bain-Investor Friend the Gawker Leaker?</title>
+		<link>./../../2012/08/is-harry-reids-bain-investor-friend-the-gawker-leaker.html</link>
+		<comments>./../../2012/08/is-harry-reids-bain-investor-friend-the-gawker-leaker.html#respond</comments>
+		<pubDate>Thu, 23 Aug 2012 21:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bain Capital]]></category>
+		<category><![CDATA[Gawker]]></category>
+		<category><![CDATA[Harry Reid]]></category>
+		<category><![CDATA[Mitt Romney]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/is-harry-reids-bain-investor-friend-the-gawker-leaker.html</guid>
+		<description><![CDATA[Having now read the Gawker articles summarizing some of the Bain documents leaked to Gawker and published there today, I&#8217;m speculating that the leaker of the documents is also Harry Reid’s source for Reid’s allegation that Romney paid no taxes for at least a decade, and that the leaker believes that the documents suggest either that Romney [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>
+<div>Having now read <a href="http://gawker.com/5936394/the-bain-files-inside-mitt-romneys-tax+dodging-cayman-schemes">the Gawker articles</a> <a href="http://gawker.com/5936864">summarizing</a> <a href="http://gawker.com/5936873">some of the Bain document</a><a href="http://gawker.com/5936873">s</a> leaked to Gawker and published there today, I&#8217;m speculating that the leaker of the documents is also Harry Reid’s source for Reid’s allegation that Romney paid no taxes for at least a decade, and that the leaker believes that the documents suggest either that Romney paid nowhere near the 13% per year that he claims to have paid, or that in 2009 Romney back-paid taxes as part of the IRS’s temporary amnesty program that year, so that his annual tax rate then came to at least 13%.
+</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/is-harry-reids-bain-investor-friend-the-gawker-leaker.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

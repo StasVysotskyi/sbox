@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>offshoring wealth &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Price of Offshore</title>
+		<link>./../../2012/07/the-price-of-offshore.html</link>
+		<comments>./../../2012/07/the-price-of-offshore.html#respond</comments>
+		<pubDate>Sun, 22 Jul 2012 12:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[offshoring wealth]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/the-price-of-offshore.html</guid>
+		<description><![CDATA[Via The Guardian, Tax Justice Network has a report showing maybe 21 trillion of wealth in &#8220;offshore economies&#8221;. (hat tip Stormy) A global super-rich elite has exploited gaps in cross-border tax rules to hide an extraordinary £13 trillion ($21tn) of wealth offshore – as much as the American and Japanese GDPs put together – according [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://www.guardian.co.uk/business/2012/jul/21/global-elite-tax-offshore-economy">The Guardian</a>, <a href="http://www.taxjustice.net/cms/front_content.php?idcat=148">Tax Justice Network</a> has a report showing maybe 21 trillion of wealth in &#8220;offshore economies&#8221;. (hat tip Stormy)
+</p>
+<blockquote><p>A global super-rich elite has exploited gaps in cross-border tax rules to hide an extraordinary £13 trillion ($21tn) of wealth offshore – as much as the American and Japanese GDPs put together – according to research commissioned by the campaign group Tax Justice Network.
+<p>“James Henry, former chief economist at consultancy McKinsey and an expert on tax havens, has compiled the most detailed estimates yet of the size of the offshore economy in a new report, <a href="http://www.taxjustice.net/cms/front_content.php?idcat=148">The Price of Offshore Revisited</a>, released exclusively to the <em>Observer</em>.</p>
+<p>He shows that at least £13tn – perhaps up to £20tn – has leaked out of scores of countries into secretive jurisdictions such as <a href="http://www.guardian.co.uk/world/switzerland">Switzerland</a> and the <a href="http://www.guardian.co.uk/world/caymanislands">Cayman Islands</a> with the help of private banks, which vie to attract the assets of so-called high net-worth individuals. Their wealth is, as Henry puts it, &#8220;protected by a highly paid, industrious bevy of professional enablers in the private banking, legal, accounting and investment industries taking advantage of the increasingly borderless, frictionless <a href="http://www.guardian.co.uk/business/global-economy">global economy</a>&#8220;. According to Henry&#8217;s research, the top 10 private banks, which include UBS and Credit Suisse in Switzerland, as well as the US investment bank Goldman Sachs, managed more than £4tn in 2010, a sharp rise from £1.5tn five years earlier.” ßan excerpt from a Guardian article.</p>
+</blockquote>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/the-price-of-offshore.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

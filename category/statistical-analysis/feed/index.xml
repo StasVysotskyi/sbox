@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>statistical analysis &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title></title>
+		<link>./../../2013/01/384.html</link>
+		<comments>./../../2013/01/384.html#respond</comments>
+		<pubDate>Sun, 06 Jan 2013 23:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Mike Kimel]]></category>
+		<category><![CDATA[statistical analysis]]></category>
+		<category><![CDATA[Tyler Cowen]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/384.html</guid>
+		<description><![CDATA[by Mike Kimel Some Thoughts on Statistical Analysis (A bit wonky) Via Tyler Cowen, a pretty good post on statistical analysis. While I suggest reading the post, I&#8217;ve reproduced the first sentence of each point the author makes below (though have cut out the pieces in betweeen): 1. When you don’t have to code your own estimators, youprobably won’t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Mike Kimel</p>
+<p>Some Thoughts on Statistical Analysis (A bit wonky)</p>
+<p>Via <a href="http://marginalrevolution.com/marginalrevolution/2013/01/assorted-links-664.html">Tyler Cowen</a>, a pretty good post on <a href="http://seanjtaylor.com/post/39573264781/the-statistics-software-signal">statistical analysis</a>.  While I suggest reading the post, I&#8217;ve reproduced the first sentence of each point the author makes below (though have cut out the pieces in betweeen):<br />
+<blockquote>1. When you don’t have to code your own estimators, you<br />probably won’t understand what you’re doing&#8230;<br />2. When it’s extremely low cost to perform inference, you are likely<br />to perform a lot of inferences&#8230;<br />3. When operating software doesn’t require a lot of training, users of<br />that software are likely to be poorly trained&#8230;<br />4. When you use proprietary software, you are sending the message that<br />you don’t care about whether people can replicate your analyses or<br />verify that the code was correct.</p></blockquote>
+<p>I think for the most part, this is a brilliant post, and it is worth keeping the main points in mind as they are very, very good.  That said, I tend to disagree slightly with a few points.  One is the author&#8217;s love of R, stated repeatedly in the pieces of the post I didn&#8217;t quote.    I find R to be a pain in the #$$.  So does the author, but he feels that is a virtue as per item 2 above.  Frankly, the older I get, the more I use (wait for it!) Excel to do statistical analysis.  Excel doesn&#8217;t do much in the way of sophisticated work, and what it does is clunky.  I&#8217;m guessing it would violate the author&#8217;s point 4, being proprietary, but I&#8217;ve checked enough results on Excel<br />using matrix algebra that I&#8217;m satisfied its basic regression functionality works.  If you want to do anything more sophisticated than a plain old OLS regression, you need to code it yourself in VBA.</p>
+<p><a name="more"></a></p>
+<p>But here&#8217;s what I love about using Excel&#8230;   Odds are, whatever data you&#8217;re using to do your analysis, you started off by sorting it in Excel in the first place. Its easy to sort and graph the data, and the eyeball and the nose are always the most important tools in statistics.  Another cool thing about Excel &#8211; it will spit out the<br />residuals.   And you can graph and organize those residuals twenty three ways from Sunday, which means you can build your own diagnostics appropriate for whatever task you&#8217;re doing.  Unless you absolutely positively have to run a system of equations fast, or you have a client who has glommed onto some absolutely useless statistical tool with a cool name (dig through an advanced econometrics book and you&#8217;ll spot &#8217;em aplenty) and you can&#8217;t shake them from their ignorance, there isn&#8217;t much point to using R or Stata or you name the program.  If your problem is not lack of time, but rather data sets that are too big for Excel to handle, find someone who is good in C++.</p>
+<p>Another thing&#8230;  I suspect the author of that post and I have similar views on SAS. My own experience &#8211; I have seen or had associations with a number of organizations that consider themselves data savvy, and in<br />my opinion, from what I can tell,  if a company has X SAS licenses, it almost invariably means the organization has X junior analysts whose job it is to reach actionable conclusions using SAS who haven&#8217;t got<br />the vaguest clue how to interpret the results of the simplest statistical analysis.  This isn&#8217;t to say SAS is a bad tool, but merely that many organizations consider having a SAS license to be, in an of itself, a holy grail that allows them to dispense with any real expertise.</p>
+<p>One final disagreement with the author &#8211; he seems to be falling into fallacy many economists do, which is assuming that what economists do is a science.  This to me indicates a failure to understand that a science is something scientists do, and what economists do is very different from what scientists do.   In biology, you won&#8217;t get very far if you try to peddle Lamarckian evolution, Lysenkoism or ID. Try being a proponent of the theory of phlogiston or the aether wind and see what that does for your career in physics.  But the equivalent<br />behavior in Economics won&#8217;t stop you, and may even prove beneficial to those wishing to get tenure at Harvard or Chicago, or be Dean of an Ivy League business school.  And then there are the think tanks&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/384.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

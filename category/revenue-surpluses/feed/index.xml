@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>revenue surpluses &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>State revenue &#8216;surpluses&#8217; as state economies improve and tax cuts</title>
+		<link>./../../2012/06/state-revenue-surpluses-as-state-economies-improve-and-tax-cuts.html</link>
+		<comments>./../../2012/06/state-revenue-surpluses-as-state-economies-improve-and-tax-cuts.html#respond</comments>
+		<pubDate>Mon, 11 Jun 2012 13:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[revenue surpluses]]></category>
+		<category><![CDATA[state budgets]]></category>
+		<category><![CDATA[tax cuts]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/state-revenue-surpluses-as-state-economies-improve-and-tax-cuts.html</guid>
+		<description><![CDATA[Via Truthout  this article points us to a trend in some states that instead of &#8216;restoring&#8217; state government funding for services such as teachers, firefighters, and police, tax cuts are implemented to &#8220;establish a different spending baseline from 2008&#8221; or that &#8220;a policy of tax cuts will foster economic growth to enhance revenue&#8221;. &#8230; state income and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://truth-out.org/news/item/9694-states-to-residents-forget-promises-to-restore-school-funding" target="_blank">Truthout</a>  <a href="http://www.remappingdebate.org/article/states-residents-localities-forget-promises-restore-funding?page=0,0" target="_blank">this article</a> points us to a trend in some states that instead of &#8216;restoring&#8217; state government funding for services such as teachers, firefighters, and police, tax cuts are implemented to &#8220;establish a different spending baseline from 2008&#8221; or that &#8220;a policy of tax cuts will foster economic growth to enhance revenue&#8221;.<br />
+<blockquote>&#8230; state income and sales taxes, which were quick to decline during the recession, have also improved relatively quickly in the recovery. According to the Census Bureau, state revenues were beginning to improve by the middle of 2010 and continued to rise last year. Rising revenues have meant that at least 25 states, including Kansas, are projected to finish their current fiscal year (ending in June) with a budget surplus, according to the National Conference of State Legislatures.</p>
+<p>Now that states do have a choice about their spending priorities, the question in state legislatures around the country has been, “What to do with the surplus?”</p>
+</blockquote>
+<p>Discussion of  <a href="http://blogs.kansas.com/gov/2012/05/22/brownback-to-sign-states-huge-tax-cut-into-law/" target="_blank">Kansas</a> and <a href="http://ataxingmatter.blogs.com/tax/2012/05/michigan-state-gop-pushing-tax-cuts-at-all-costs.html" target="_blank">Michigan</a>  follow the links.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/state-revenue-surpluses-as-state-economies-improve-and-tax-cuts.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

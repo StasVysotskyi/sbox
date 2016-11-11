@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>market economics &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Drug shortages and the mythical market</title>
+		<link>./../../2012/04/drug-shortages-and-the-mythical-market.html</link>
+		<comments>./../../2012/04/drug-shortages-and-the-mythical-market.html#respond</comments>
+		<pubDate>Sun, 08 Apr 2012 22:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[market economics]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/drug-shortages-and-the-mythical-market.html</guid>
+		<description><![CDATA[by Michael Halasy Drug shortages and the mythical marketI read an interesting article by Gehrett in the January issue of JAMA. In response to the increased utilization of generic drugs (currently about 70% of drugs used in the US), a fact which should be applauded, we have seen a frightening increase in drug shortages. In [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong></strong><br /><strong></strong>by <strong>Michael Halasy</strong></p>
+<p><strong>Drug shortages and the mythical market</strong><br /><strong><br /></strong><br />I read an interesting article by Gehrett in the January issue of <a href="http://jama.ama-assn.org/content/307/2/153.full" target="_blank">JAMA</a>.</p>
+<p>In response to the increased utilization of generic drugs (currently about 70% of drugs used in the US), a fact which should be applauded, we have seen a frightening increase in drug shortages. In Emergency Medicine, three of them have affected me directly as they are commonly used drugs. One, metoclopramide is useful for headaches, nausea, and gastric motility. Another, etomidate, is a useful sedative that is the staple drug in RSI (Rapid Sequence Intubation) kits across the country, and used on EMS ambulances extensively. There is a reason. Etomidate has lower cardiopulmonary depression than other sedatives like diprivan aka propofol. Another drug that is in shortage is Compazine, aka prochlorperazine, which is extensively used for migraines, as well as benign vertigo. In fact, it remains one of my favorite “staple” drugs. </p>
+<p>Per the article, in 2005, the Center for Drug Evaluation and Research only noted 62 shortages through the year. 2009 saw 157 shortages, 2010, 178. 2011 had estimates of between 200 and 300. 75% in 2010 were sterile injectables. Ya know, The medications most frequently used in hospital settings. Many of these drugs are made at one site, by only one company, which limits supply and increases the chances of disruption.</p>
+<p>While Gehrett does note that 80% of raw materials come from foreign countries, there does not seem to be any shortage of raw materials that have been documented or noted. </p>
+<p><a name="more"></a></p>
+<p>The only single, commonality, is that all of the medications we have seen in shortage status are off patent, generic medications, that are harder to formulate than some others, and have a definable shelf life. <br />President Obama has signed legislation that will give the FDA more latitude in heading off shortages, but this problem plainly reports to a market problem. Demand exists…supply is stable, but profits are not high on these medications. This would suggest that companies are simply avoiding injectable generics, and focusing on more profitable patented medications. </p>
+<p>Meanwhile, cancer trials have been put on hold, while companies focus on profit margins. Headache patients suffer and receive other medications that may be suboptimal for them. This situation is only worsening with time, and should be cause of concern for all Americans.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/drug-shortages-and-the-mythical-market.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

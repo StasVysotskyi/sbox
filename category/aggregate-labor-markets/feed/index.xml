@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>aggregate labor markets &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>How to Think About Aggregate Labor Markets</title>
+		<link>./../../2013/02/how-to-think-about-aggregate-labor-markets.html</link>
+		<comments>./../../2013/02/how-to-think-about-aggregate-labor-markets.html#respond</comments>
+		<pubDate>Thu, 21 Feb 2013 13:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[aggregate labor markets]]></category>
+		<category><![CDATA[labor economics]]></category>
+		<category><![CDATA[Peter Dorman]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/02/how-to-think-about-aggregate-labor-markets.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak takes a look at economics and models. (Re-posted with authors consent) How to Think About Aggregate Labor Markets The remarkable Tyler Cowen has me scratching my head again. Here he is at the beginning of a critique of minimum wage laws and sticky-price Keynesianism. (The latter is an oxymoron, as anyone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://econospeak.blogspot.com/2013/02/how-to-think-about-aggregate-labor.html" target="_blank">Peter Dorman at <i>Econospeak</i></a> takes a look at economics and models. (Re-posted with authors consent)</p>
+<p>How to Think About Aggregate Labor Markets</p>
+<p>The remarkable Tyler Cowen has me scratching my head again.  Here he is at the beginning of a critique of minimum wage laws and sticky-price Keynesianism.  (The latter is an oxymoron, as anyone who knows the history of Keynes’ dispute with the “Treasury view” knows, but we’ll let it pass.) <br />Let’s say your labor is worth $10 an hour but you won’t go back to work for less than $12, thereby leading to the unemployment of you. <br />In essence you are self-imposing a minimum wage on that market, but the employer is responding by leaving you jobless.<br />You can guess where this is headed.</p>
+<p>The interesting thing is that Cowen apparently has no inkling that most people would find his opening sentence insulting.  It implies that some significant portion of the unemployed are simply worth less than they think they are.  Imagine going up to someone who’s been without a job for a while and saying, “I’m sorry, but have you considered the possibility that your abilities are really not very valuable, and your job search has failed because of this delusion?”  If you insist on saying this, I’d advise doing it from a distance.</p>
+<p>Now, of course some people have an inflated sense of self-worth, and others are too bashful.  It might be an interesting research project to see whether the distribution of these types is correlated with employment status.  I don’t have any priors about which would predominate where—do you?</p>
+<p><a name="more"></a></p>
+<p>What makes this interesting to an economist is that the popular perception of unemployment actually fits how we model the aggregate labor market pretty well.  Let me explain.  The view of most unemployed people, according to the interviews I’ve seen, goes something like this: “I’m looking for a job, and I’m willing to take something that’s worse than what I used to have, but I haven’t found anything yet.”  The unemployed person hopes that the job is out there but that the connection hasn’t been made.</p>
+<p>This formalizes to the now-standard model of search and matching, for which Peter Diamond and especially Dale Mortensen and Christopher Pissarides split a Nobel.  Equilibrium in such models does not occur where the Beveridge curve crosses the 45-degree line, which it would if the criterion were supply equals demand, but depends on a larger array of factors.  The model is used to explain why the ratio of unemployed workers to vacant jobs is typically greater than one, even in “full employment”.</p>
+<p>This is how knowledgeable economists study aggregate labor markets today.  Supply and demand, as deployed by Cowen, is a special and highly unlikely case that assumes away the complications that make the theory empirically relevant.  If you see someone drawing supply and demand curves for labor and trying to explain unemployment as a result of too-high wages, you know they are employing outmoded methods.</p>
+<p>What’s striking is that the more high-powered model actually conforms better to popular intuition.  You have to have a rather uncharitable view of human behavior to believe that excess unemployment is due to people overestimating their true worth.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/02/how-to-think-about-aggregate-labor-markets.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>revenue &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Another look at Spending and Revenues</title>
+		<link>./../../2013/01/another-look-at-spending-and-revenues.html</link>
+		<comments>./../../2013/01/another-look-at-spending-and-revenues.html#respond</comments>
+		<pubDate>Fri, 01 Feb 2013 02:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[#spendingistheproblem]]></category>
+		<category><![CDATA[federal spending]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[John Boehner]]></category>
+		<category><![CDATA[lies]]></category>
+		<category><![CDATA[revenue]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/another-look-at-spending-and-revenues.html</guid>
+		<description><![CDATA[This is more or less relevant to Beverly&#8217;s post from earlier today. How many times have you heard Boehner, McConnell, Ryan or one of the legion of right-wing talking heads say, &#8220;We don&#8217;t have a revenue problem, we have a spending problem?&#8221;  I refuted that lie repeatedly in this AB post and at the included [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This is more or less relevant to <a href="http://www.angrybearblog.com/2013/01/john-boehner-says-defense-spending-is.html">Beverly&#8217;s post from earlier today</a>.</p>
+<div>How many times have you heard Boehner, McConnell, Ryan or one of the legion of right-wing talking heads say, &#8220;<i>We don&#8217;t have a revenue problem, we have a spending problem</i>?&#8221;  I refuted that lie repeatedly in <a href="http://www.angrybearblog.com/2012/09/yes-right-wing-lies-when-they-say-obama.html">this AB post</a> and at the included links.   But this is one of those zombie ideas that simply will not stay in the grave.  </div>
+<p>Therefore,  some prominent voices have found it necessary to sing out again against  the lie. I will add my humble quavery baritone to the chorus.</p>
+<p>Here in Graph 1 is <a href="http://www.motherjones.com/kevin-drum/2013/01/government-spending-down-obama-era">Kevin Drum demonstrating</a> how Real Government Expenditures per Capita have changed under the last three presidents.<br />
+<blockquote>What  we have isn&#8217;t a spending problem. That&#8217;s under control. What we have is  a problem with Republicans not wanting to pay the bills they themselves  were largely responsible for running up.</p></blockquote>
+<p>
+<div><a href="http://www.motherjones.com/files/blog_government_expenditures_clinton_bush_obama.jpg"><img border="0" height="212" src="http://www.motherjones.com/files/blog_government_expenditures_clinton_bush_obama.jpg" width="400"></a></div>
+<div> Graph 1, Real Government Expenditures per Capita</div>
+<p>By  using real [inflation adjusted] and per capita numbers, Drum has  introduced a couple of denominators.  Real expenses per cap is a  rational way to display the data, but not the only way. So lest someone  cry out about that ol&#8217; devil denominator, let&#8217;s have a different look.</p>
+<p>Via <a href="http://krugman.blogs.nytimes.com/2013/01/23/martin-wolf-hippie/">Paul Krugman </a>we  get Graph 2 and Graph 3, from FRED, showing total Government  expenditures and Federal Government expenditures, respectively, on log  scales.</p>
+<p>
+<div><a href="http://graphics8.nytimes.com/images/2013/01/23/opinion/012313krugman1/012313krugman1-blog480.png"><img border="0" height="315" src="http://graphics8.nytimes.com/images/2013/01/23/opinion/012313krugman1/012313krugman1-blog480.png" width="400"></a></div>
+<div>Graph 2. Government Total Expenditures</div>
+<div><a href="http://graphics8.nytimes.com/images/2013/01/23/opinion/012313krugman2/012313krugman2-blog480.png"><img border="0" height="315" src="http://graphics8.nytimes.com/images/2013/01/23/opinion/012313krugman2/012313krugman2-blog480.png" width="400"></a></div>
+<div>Graph 3, Federal Government Total Expenditures</div>
+<p>
+<blockquote>Yes, you can argue that spending was growing too fast under Bush,  although it’s funny how few deficit scolds saw fit to mention that at  the time. Or you can say that you just want less spending, although as  always people who say this tend to be short on specifics. But the  narrative that says that spending has surged under Obama is just wrong –  what we’ve actually seen is a slowdown at exactly the time when, for  macroeconomic reasons, we should have been spending more.</p></blockquote>
+<p>Remember,  a log scale represents constant growth as a straight line, and zero  growth as a horizontal line.  So, in pure dollar numbers, spending  hasn&#8217;t quite declined, but it has stagnated to almost zero growth.   Hence Drum&#8217;s decline in inflation adjusted, per capita terms.</p>
+<p>In  Graph 4, we get one more longer range look, using Krugman&#8217;s data  series, this time on a linear scale.  Also presented is the difference  between the two, which is the amount of spending by state and local  governments.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=eRU"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=eRU" width="400"></a></div>
+<div> Graph 4, Government Spending at Different Levels</div>
+<p> The  red line is total spending at all levels of governemnt, the blue line  is federal only, and the green line is the difference, state and local  spending.  Note that the green line flattens early in the recession</p>
+<p>To  bring things full circle, Graph 5 shows Federal Government current  receipts.  Look at this and tell me we don&#8217;t have a revenue problem.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=eS4"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=eS4" width="400"></a></div>
+<div>Graph 5, Federal Government Current Receipts</div>
+<p>To  drive this point home, Graph 6 shows Federal Receipts as a fraction of  GDP.  The purpose of the ratio is to provide context, using GDP as a  proxy for the size of the economy.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=eS7"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=eS7" width="400"></a></div>
+<div>Graph 6, Federal Receipts as a fraction of GDP</div>
+<p>As you can see, revenues/GDP are in a historically low range.</p>
+<p>Conclusions:<br />&#8211; Federal spending is flat in nominal dollar terms.<br />&#8211; Federal spending is declining when adjusted for inflation and population growth.<br />&#8211; Federal revenues are far below trend lines based on any historical reference you chose.<br />&#8211; Federal revenues as a fraction of GDP are historically low.<br />&#8211; The Republican claim that we have a spending problem not a revenue problem is simply a lie, on both counts.<br />&#8211; Disproportional spending growth has only occurred under two presidents: Republicans Ronald Reagan and George W. Bush.  </p>
+<p>The simple fact is we have a revenue problem, not a spending problem.</p>
+<p>Why do Republicans lie?</p>
+<p>The truth is hostile to their agenda.  <a href="http://economistsview.typepad.com/economistsview/2013/01/paul-krugman-deficit-hawks-down.html">PK Explains</a>.</p>
+<p>Cross posted at <a href="http://jazzbumpa.blogspot.com/2013/01/another-look-at-spending-and-revenues.html">Retirement Blues </a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/another-look-at-spending-and-revenues.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fact check Ryan in the Debate</title>
+		<link>./../../2012/10/fact-check-ryan-in-the-debate.html</link>
+		<comments>./../../2012/10/fact-check-ryan-in-the-debate.html#respond</comments>
+		<pubDate>Sat, 13 Oct 2012 13:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[revenue]]></category>
+		<category><![CDATA[Spencer England]]></category>
+		<category><![CDATA[tax cuts]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/fact-check-ryan-in-the-debate.html</guid>
+		<description><![CDATA[In the Vice Presidential debate Ryan said that the Kennedy tax cuts generated so much growth that tax receipts increased enough to offset the revenue losses. When I look at the data it sure looks like this claim is another one of his Any Rand fantasies.  The economy did grow rapidly after the Kennedy tax [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div><a href="http://2.bp.blogspot.com/-oWG3IHxo-ig/UHln1jYKg6I/AAAAAAAACSk/zVakyCblHuo/s1600/Clipboard02+debt.bmp" imageanchor="1"></a></div>
+<p>In the Vice Presidential debate Ryan said that the Kennedy tax cuts generated so much growth that tax receipts increased enough to offset the revenue losses.</p>
+<p>When I look at the data it sure looks like this claim is another one of his Any Rand fantasies.  The economy did grow rapidly after the Kennedy tax cuts,  but the deficit remained high. throughout  the  JFK-LBJ administration.  Moreover, like Reagan, LBJ finally had to raise taxes to recover the lost revenues.</p>
+<p>
+<div><a href="http://2.bp.blogspot.com/-oWG3IHxo-ig/UHln1jYKg6I/AAAAAAAACSk/zVakyCblHuo/s1600/Clipboard02+debt.bmp"><img border="0" height="290" src="http://2.bp.blogspot.com/-oWG3IHxo-ig/UHln1jYKg6I/AAAAAAAACSk/zVakyCblHuo/s400/Clipboard02+debt.bmp" width="400"></a></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/fact-check-ryan-in-the-debate.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Guest post: Top 1% Reduced Taxes in Last 3 Years but Probably Gained Income Share</title>
+		<link>./../../2012/04/guest-post-top-1-reduced-taxes-in-last-3-years-but-probably-gained-income-share.html</link>
+		<comments>./../../2012/04/guest-post-top-1-reduced-taxes-in-last-3-years-but-probably-gained-income-share.html#respond</comments>
+		<pubDate>Fri, 06 Apr 2012 13:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Kenneth Thomas]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[revenue]]></category>
+		<category><![CDATA[tax rates]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/guest-post-top-1-reduced-taxes-in-last-3-years-but-probably-gained-income-share.html</guid>
+		<description><![CDATA[Guest post by Kenneth Thomas Top 1% Reduced Taxes in Last 3 Years but Probably Gained Income Share Citizens for Tax Justice came out with a nice report today showing that the overall U.S. tax system is just barely &#8220;progressive,&#8221; which is to say that as your income goes up, so does your tax rate. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Guest post by Kenneth Thomas</p>
+<p>Top 1% Reduced Taxes in Last 3 Years but Probably Gained Income Share  </p>
+<p><a href="http://ctj.org/ctjreports/2012/04/who_pays_taxes_in_america.php">Citizens for Tax Justice</a> came out with a nice report today showing that the overall U.S. tax system is just barely &#8220;progressive,&#8221; which is to say that as your income goes up, so does your tax rate. While the federal income tax is progressive in this sense, many state and local taxes, such as sales and property taxes are regressive in that lower income people pay higher percentages of their income than do higher income people. The following table from CTJ makes this crystal clear:<br />    <br /><img alt="" height="400" src="http://ctj.org/images/taxday2012table.jpg" width="386"></p>
+<p>As the right-hand portion of the table shows, as income rises federal taxes (individual and corporate income, estate tax, etc.) increase as a percentage of income, from 5.0% of income for the lowest 20% of earners to 21.1% for the top 1% of taxpayers. Meanwhile, state and local taxes move in exactly the opposite direction, from 12.3% of income for the lowest 20% to 7.9% for the top 1%. As CTJ further points out, for every income group the share of total taxes they pay is extremely close to their share of total income (in fact, the biggest difference is 1.7 percentage points).    </p>
+<p><a name="more"></a></p>
+<p>We already knew, thanks to <a href="http://elsa.berkeley.edu/~saez/saez-UStopincomes-2010.pdf">Emmanuel Saez</a>, that in 2010, the top 1% got 93% of all income gains. With the new 2011 data, we find that the top 1% has continued to make out like gangbusters. <a href="http://middleclasspoliticaleconomist.blogspot.com/2011/08/top-1-pays-and-other-tax-myths.html">As I reported in August</a>, using data from the conservative <a href="http://www.taxfoundation.org/news/show/250.html">Tax Foundation</a>, in 2008 the top 1% earned 20.00% of all income. As we see in the table above, just three years later that has grown to 21.0%. Considering that the 2011 data is estimated, perhaps this change is not too significant. But what is really striking is that the top 1% paid only 21.1% of its income in all federal taxes in 2011, whereas in 2008 it paid at a rate of 23.27% for personal income tax alone. </p>
+<p>Since the top 1% gets an even more disproportionate share of corporate income and taxable estate income than it does of personal income, this is solid evidence that it&#8217;s a real reduction we are seeing. I hate to sound like a broken record, but it&#8217;s really true that there is one tax system for the 1% and another one for the rest of us.   </p>
+<p>crossposted with  <a href="http://middleclasspoliticaleconomist.blogspot.com/2012/04/top-1-reduced-taxes-in-last-3-years-but.html" target="_blank">Middle class political economist</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/guest-post-top-1-reduced-taxes-in-last-3-years-but-probably-gained-income-share.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bruce Webb, Dale Coberly, Arne Larson and the National Academy of Social Insurance</title>
+		<link>./../../2009/11/bruce-webb-dale-coberly-arne-larson-and-the-national-academy-of-social-insurance.html</link>
+		<comments>./../../2009/11/bruce-webb-dale-coberly-arne-larson-and-the-national-academy-of-social-insurance.html#respond</comments>
+		<pubDate>Thu, 05 Nov 2009 14:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[benefits]]></category>
+		<category><![CDATA[revenue]]></category>
+		<category><![CDATA[social security]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/11/bruce-webb-dale-coberly-arne-larson-and-the-national-academy-of-social-insurance.html</guid>
+		<description><![CDATA[Rdan The National Academy of Social Insurance report on options for Social Security is public and now available in pdf form. &#8220;The purpose of this report is to help analysts and policymakers consider options to bring Social Security into long-term balance in ways that also address concerns about benefit adequacy.&#8221; One cannot simply glance through [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Rdan</p>
+<p>The <a target="_blank" href="http://www.nasi.org/usr_doc/Fixing_Social_Security.pdf">National Academy of Social Insurance</a> report on options for Social Security is public and now available in pdf form. &#8220;The purpose of this report is to help analysts and policymakers consider options to bring Social Security into long-term balance in ways that also address concerns about benefit adequacy.&#8221; </p>
+<p>One cannot simply glance through such dense material and numbers, but I did find the following on page 14 (or actually page 20 of 44 pdf form). (the exact numbers have been changed from the proposal by NASI, but are faithful to the process):  </p>
+<p>From page 14:<br />
+<blockquote>Option #7c: Schedule a Very Gradual Contribution Rate Increase Over 20 Years. To avoid abrupt changes in Social Security contribution rates, this option would schedule very gradual increases in the Social Security contribution rate (one-twentieth of one percent per year over 20 years for employees and employers, each), beginning in 2015. By 2035, the Social Security rate would be 7.2 percent for both workers and employers. In 2015, the increase for an average earner making $53,085 then would be $26.50 a year, or about 50 cents a week. It would reduce the 75-year deficit by 1.39 percent of taxable payroll or by about 69 percent. Dale Coberly, a frequent commenter on Social Security, recommended a gradual tax increase of this sort (Coberly, Larson and Webb 2009).11</p></blockquote>
+<p>Footnote also on page 14 of the NASI report:<br />
+<blockquote>11 Dale Coberly is a student of Social Security policy and frequent commenter on Social Security via the blog Angry Bear. Angry Bear was named one of the top 25 independent economic blogs on the Internet by the Wall Street Journal and TimeCNN. Coberly, Arne Larson and Bruce Webb collaborated on a modified version of this option in their Northwest Plan. For details of the Northwest Plan, see “The Angry Bear Social Security Series” at http://bruceweb.blogspot.com/2008/08/angry-bear-social-security-series.html.</p></blockquote>
+<p>Like many contributors not in the spotlight the hours devoted to creating material to even be noticed, then evaluated, and then published is a testimony to hard work, due diligence, and a non-profit motive. The weekend hours and midnight oil burned by NASI personnel and contributors is rarely noticed by media, nor appreciated by recipients.  Many of us talk about &#8216;they&#8217;&#8230;.well, meet three.  Best to Bruce, Dale, and Arne.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/11/bruce-webb-dale-coberly-arne-larson-and-the-national-academy-of-social-insurance.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

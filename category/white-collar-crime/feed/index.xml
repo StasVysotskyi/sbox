@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>white-collar crime &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Is the House Trying to Encourage Criminal Activity?</title>
+		<link>./../../2011/06/is-the-house-trying-to-encourage-criminal-activity.html</link>
+		<comments>./../../2011/06/is-the-house-trying-to-encourage-criminal-activity.html#respond</comments>
+		<pubDate>Wed, 15 Jun 2011 14:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[white-collar crime]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/is-the-house-trying-to-encourage-criminal-activity.html</guid>
+		<description><![CDATA[I left out of the last post why David Vitter (claims) he is blocking the two SEC nominees: Sen. David Vitter (R., La.) will block two nominees to the Securities and Exchange Commission until the agency announces whether victims of R. Allen Stanford&#8217;s alleged Ponzi scheme are owed compensation from the Securities Investor Protection Corp&#8230;.&#8220;We&#8217;ve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I left out of the last post <a href="http://online.wsj.com/article/SB10001424052702303848104576385742205738426.html?mod=googlenews_wsj"><em>why</em> David Vitter (claims) he is blocking the two SEC nominees</a>:<br />
+<blockquote>Sen. David Vitter (R., La.) will block two nominees to the Securities and Exchange Commission until the agency announces whether victims of R. Allen Stanford&#8217;s alleged Ponzi scheme are owed compensation from the Securities Investor Protection Corp&#8230;.<br /><a name="more"></a><br />&#8220;We&#8217;ve known for some time that the SEC waited far too long to take action against Allen Stanford, and now they&#8217;re dragging their feet in responding to the victims. I will continue to hold them accountable—including holding these nominations—until these fraud victims get an up-or-down answer from the SEC,&#8221; Mr. Vitter said in a statement.</p></blockquote>
+<p>Well, economics can help him here. Even old economics, such as <a href="http://www.nber.org/books/beck74-1">the pieces cited by Casey Mulligan</a> in a disingenuous piece he wrote for the NYT last week. (No NYT link from this non-subscriber. I believe the NBER pieces are ungated, but haven&#8217;t checked from a network without access.) As the Stigler piece notes, optimal spending should be based on your expectation of catching criminal activity.*</p>
+<p>So I expect that David Vitter is up in arms about <a href="http://www.mcclatchydc.com/2011/06/14/115792/house-ready-to-slash-funding-for.html">what his colleagues in the House are doing</a>:<br />
+<blockquote>The Republican-led House of Representatives is poised to pass, as early as Wednesday, a sweeping spending bill that would slash funding for the regulatory agency responsible for policing against excessive speculation and price manipulation in oil markets. </p></blockquote>
+<p>This rather understates the CFTC&#8217;s purvey. As their website notes:<br />
+<blockquote>Congress created the Commodity Futures Trading Commission (CFTC) in 1974 as an independent agency with the mandate to regulate commodity futures <em><strong>and option markets</strong></em> in the United States. The agency&#8217;s mandate has been renewed and expanded several times since then, most recently by the Commodity Futures Modernization Act of 2000&#8230;.</p>
+<p>[T]he futures industry has become increasingly varied over time and today encompasses a vast array of highly complex financial futures contracts.</p>
+<p>Today, the CFTC assures the economic utility of the futures markets by encouraging their competitiveness and efficiency, protecting market participants against fraud, manipulation, and abusive trading practices, and by ensuring the financial integrity of the clearing process. Through effective oversight, the CFTC enables the futures markets to serve the important function of providing a means for price discovery and offsetting price risk. [emphasis mine]</p></blockquote>
+<p>That&#8217;s right; the CFTC is responsible for regulating derivative trading activity. Which is why&#8230;<br />
+<blockquote>The Obama administration requested more than $300 million for the fiscal year that ends on Sept. 30, <em>a steep increase because the CFTC gained sweeping new powers under last year&#8217;s broad revamp of financial regulation</em>—short-handed as the Dodd-Frank Act.</p></blockquote>
+<p>This is pure Stigler. More responsibility, higher expectation of detecting malfeasance, higher budget necessary for optimal crime enforcement. Otherwise, you end up more criminal activity going undetected as the risk of being caught is reduced.**</p>
+<p>So what is the House doing?<br />
+<blockquote>The House bill would provide $171.9 million for the agency, a decrease of about $30 million from the $202.2 million given to the agency the prior year.</p></blockquote>
+<p>With the duties expanded by around 50%, the budget gets cut by 15%. Within the Stigler framework, we should expect (without any multiplier effect***) that it will be 43% <em>less</em> likely that any given criminal activity that falls under the CFTC&#8217;s jurisdiction will be detected and prosecuted.</p>
+<p>The House wants to make the Stanford Ponzi scheme, or something similar, more likely to occur. Will David Vitter be decrying this, even as he blocks nominees?</p>
+<p>*That this concept is outdated at best is subject for a future post, but it&#8217;s a fine baseline assumption.</p>
+<p>**As I said, it&#8217;s a simplified model, but functional if one assumes continuities.</p>
+<p>***Short version: this is where the model needs to be revised. The incentives to commit crimes are greater (detection less likely). That Mulligan could find no better cite than these works as the defence of his idiocy (as noted, no NYT link from me) is damning.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/is-the-house-trying-to-encourage-criminal-activity.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hogging/Jimmy Webb Post</title>
+		<link>./../../2009/09/hoggingjimmy-webb-post.html</link>
+		<comments>./../../2009/09/hoggingjimmy-webb-post.html#respond</comments>
+		<pubDate>Fri, 11 Sep 2009 18:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[hockey]]></category>
+		<category><![CDATA[monopoly]]></category>
+		<category><![CDATA[rule of law]]></category>
+		<category><![CDATA[white-collar crime]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/hoggingjimmy-webb-post.html</guid>
+		<description><![CDATA[Ken Houghton distracts us from the important things with an examination of monopoly power, asymmetric information, and perpetuating a bad business deal. By the time Gary Bettman got to Phoenix, his lawyer was lying to the court: &#8220;There are three things that it takes to be an owner of an NHL franchise. One, you&#8217;ve got [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ken Houghton distracts us from the important things with an examination of monopoly power, asymmetric information, and perpetuating a bad business deal.</p>
+<p>By the time Gary Bettman got to Phoenix, <a target="_blank" href="http://network.nationalpost.com/np/blogs/postedsports/archive/2009/09/11/live-blog-battle-for-coyotes-continues.aspx">his lawyer was lying to the court</a>:<br />
+<blockquote>&#8220;There are three things that it takes to be an owner of an NHL franchise. One, you&#8217;ve got to be wealthy &#8230; two, you&#8217;ve got to love hockey. And Mr.Balsillie, he has got both of these in his favour in spades. Nobody&#8217;s denying that. But number three, your Honour, you&#8217;ve got to play by the rules that bind NHL owners.&#8221;</p></blockquote>
+<p>My Loyal Reader notes that NHL owners are clearly bound by something. In at least one case, handcuffs. From <a target="_blank" href="http://blogs.wsj.com/bankruptcy/2009/09/09/nhl-team-owner-gets-8-year-prison-sentence/">the WSJ, two days ago</a>:<br />
+<blockquote>[William “Boots” Del Biaggio III’s] [bankruptcy] filing came amid lawsuits accusing him of fraudulently offering collateral he didn’t own to secure the loans he took out before buying the [NHL&#8217;s Nashville] Predators.</p>
+<p>Del Biaggio pled guilty to forging financial documents in order to secure $110 million in loans from eight banks and National Hockey League owners Craig Leopold (of the Minnesota Wild) and AEG (of the Los Angeles Kings), loans that Del Biaggio used to buy his stake in the NHL team.</p></blockquote>
+<p>It&#8217;s good to see that the owners have a very strict policy when selecting owners, almost as sensible a policy as when they located a team in the Phoenix area in the first place. (Noted for the record: both the city of Phoenix and Scottsdale turned down the &#8220;opportunity&#8221; to have the Coyotes play in an arena there after the initial lease was up. Only Glendale was stupid enough to make an offer.)  I guess none of them owns a <a target="_blank" href="http://www.rim.com/newsroom/media/executive/index.shtml">Blackberry</a>.<br />
+
+</p>
+<p>Webb version <a target="_blank" href="http://www.youtube.com/watch?v=sJoi2QpbiF4">here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/hoggingjimmy-webb-post.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

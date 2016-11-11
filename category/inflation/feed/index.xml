@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>inflation &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Fowl and Fishy Inflation</title>
+		<link>./../../2012/11/fowl-and-fishy-inflation.html</link>
+		<comments>./../../2012/11/fowl-and-fishy-inflation.html#respond</comments>
+		<pubDate>Thu, 01 Nov 2012 15:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[food prices]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+		<category><![CDATA[oil prices]]></category>
+		<category><![CDATA[QE]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/fowl-and-fishy-inflation.html</guid>
+		<description><![CDATA[It has been suggested that the rapid increase in the prices of fish, fowl, meat and eggs for about two years following October, 2009 was the result of QE causing inflation in these items.  From this Calculated Risk graph, we can get the QE date line.  QE was announced on Nov 25, 2008, and expanded [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It has been suggested that the rapid increase in the prices of <i>fish, fowl, meat and eggs</i> for about two years following October, 2009 was the result of QE causing inflation in these items.  From <a href="http://1.bp.blogspot.com/-zoPsh48ZiKU/T-ybVwebLSI/AAAAAAAAN84/f-oGQvaBh9U/s1600/SP500QEJune2012.jpg">this Calculated Risk graph</a>,  we can get the QE date line.  QE was announced on Nov 25, 2008, and  expanded in April 2009.  It ended in May, 2010.  QE II was hinted at in  Sept, 2010, announced in Nov 2010, and ended in August 2011.</p>
+<p>The  timing correspondence is less than stellar, since the YoY increase in  prices for those food items dropped like a rock from October, &#8217;08 though  Oct. &#8217;09.  It then shot up to a 7 1/2 year high in May of 2011.</p>
+<p>This can be seen in the red line of Graph 1, which also shows the CPI for all items except food and energy (CPILFESL) in blue.</p>
+<p>
+<div><a href="http://research.stlouisfed.org/fredgraph.png?g=cjv"><img border="0" height="240" src="http://research.stlouisfed.org/fredgraph.png?g=cjv" width="400"></a></div>
+<div> Graph 1 YoY Price increases for Selected Food Stuffs and All Items Less Food and Energy</div>
+<p>To  assume a cause and effect relationship, you have to account for a time  lag of a year from the announcement and 6 months from the expansion of  QE to the turn around in those price increases from the Oct &#8217;09 bottom.   Remember, through the first 11 months of QE, the YoY change in those  prices dropped dramatically.  Between May and November, 2010, while no  QE program was in effect, these prices had the steepest part of their  rise.  After QE II ended in August, 2011, the YoY price increase  remained high for those items until the end of the year, and then fell  rapidly.</p>
+<p>A longer view reveals that the increase in those food prices oscillates continuously around the <i>All Items Less Food and Energy</i> line.  The trough to trough period is irregular, averaging 3.52 years  with a standard deviation of 0.45 year (5 measurements).   The trough to  trough time from May, &#8217;06 to Oct., &#8217;09 was a very typical 3.4 years.   It is very hard to look at that graph and see anything unusual about the  2008-2012 region, other than the depth of the trough shortly after the  Great Recession.</p>
+<p>It appeared to me that the blue line  of Graph 1 might be a crude approximation of a long average of the red  line.  This turns out not quite to be the case, since the two lines are  measuring different baskets of goods.  What we have is the YoY increase  for these food items oscillating around its own mean. That sounds like a  tautology, but let&#8217;s look a little deeper.</p>
+<p>Graph 2  shows the same data, along with some long averages of the food stuffs  YoY price increase line.   These are the 5 Yr (light blue), 8 Yr  (yellow), and 13 Yr (purple) moving averages, and the average for the  whole data set, 2.9 (bright green).  I&#8217;ve also included an envelope one  standard deviation (3.06) above (5.96) and below (-0.17) the mean in  dark green.</p>
+<div><a href="http://2.bp.blogspot.com/-fMhjpfDLaQ0/UJGOLZzqKkI/AAAAAAAACCs/yqKBh69hzPE/s1600/fishy+fowl+inflation.jpg"><img border="0" height="271" src="http://2.bp.blogspot.com/-fMhjpfDLaQ0/UJGOLZzqKkI/AAAAAAAACCs/yqKBh69hzPE/s400/fishy+fowl+inflation.jpg" width="400"></a></div>
+<div>Graph 2 YoY Price increases for Selected Food Stuffs with Avgs and All Items Less Food and Energy</div>
+<p>This  (sort of) resembles a control chart.  The +/- Std. Dev. envelope isn&#8217;t a  hard barrier, but does tend to turn the data path back toward the mean,  unless something strange happens.  Frex, the big rise from late &#8217;02 to  early &#8217;04 followed the Iraq invasion and resulting disruption in  petroleum pricing.  The &#8217;09 trough was the result of the Great  Recession.  These are explainable variations.</p>
+<p>Note also  that the moving average lines tended to run below the CPILFESL line  prior to late 2002, and have tended to run above it since.  This is to  be expected since these items are basically the top of the food chain  and have several layers of fuel dependent contributors in their cost  structure.  Recall that until 2002, fuel prices were low, and since then  (except for the Great Recession) <a href="http://research.stlouisfed.org/fredgraph.png?g=cjB">have increased steadily</a>.</p>
+<p>I&#8217;m  quite sympathetic to the idea that QE has done very little to help ease  the economic doldrums following the GR.  But I see no reason at all to  believe that it has contributed to the pain and suffering of ordinary  citizens at either the grocery store or the gas pump.</p>
+<p>Maybe there have been real downsides to QE.  Any thoughts on what they might be and how to quantify them?</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/fowl-and-fishy-inflation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Euro Area Inflation: A Very Slow Burn</title>
+		<link>./../../2012/06/euro-area-inflation-a-very-slow-burn.html</link>
+		<comments>./../../2012/06/euro-area-inflation-a-very-slow-burn.html#respond</comments>
+		<pubDate>Sat, 16 Jun 2012 09:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/euro-area-inflation-a-very-slow-burn.html</guid>
+		<description><![CDATA[by Rebecca Wilder Euro Area Inflation: A Very Slow Burn Euro area consumer prices increased at a 2.4% annual pace in May, down 0.2 ppt from the 2.6% pace in April. Core inflation fell to 1.8% in May from 1.9% in April. Headline and core inflation peaked in the fourth quarter of 2011, and disinflation [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a></p>
+<p>Euro Area Inflation: A Very Slow Burn</p>
+<p>Euro area consumer prices increased at a 2.4% annual pace in May, down 0.2 ppt from the 2.6% pace in April. Core inflation fell to 1.8% in May from 1.9% in April. Headline and core inflation peaked in the fourth quarter of 2011, and disinflation is underway.</p>
+<p><strong>Euro area price inflation is burning out but at a very slow pace.</strong><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/06/ea_inflation1.jpg"><img alt="" height="353" src="http://www.economonitor.com/rebeccawilder/files/2012/06/ea_inflation1.jpg" width="566"></a></p>
+<p><a name="more"></a></p>
+<p>The 0.6 ppt differential between headline and core inflation is explained by energy and unprocessed food prices. In May, the energy component in HICP (harmonized index of consumer prices) fell 1.4% over the month and posted a 7.3% pace compared to May 2011. Energy prices peaked in April 2012, but base effects will prop up headline inflation through early 2013 even if energy prices go unchanged over the near term. That means headline inflation could be sticky for some time above 2%. But core inflation is not.</p>
+<p>President Draghi often speaks of the upward pressure on inflation stemming from tax hikes across the various fiscal austerity programs. Stripping out the tax effects (this data is provided <a href="http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database#">by Eurostat</a>), the theoretical inflation rates in Portugal and Italy are 1.8ppt and 0.8ppt, respectively, below the headline rate. The downward pressure on inflation may quicken through next year, as the effects of VAT and various tax hikes wear off across the region…barring a miraculously robust economic recovery, of course.</p>
+<p><em>(Note: In the chart below, the black line represents 0% difference between headline inflation and tax-adjusted inflation. For orange triangles above the black line, headline inflation is above tax-adjusted inflation, i.e., taxes are boosting aggregate prices.)</em><br /><em><br /></em><br /><a href="http://www.economonitor.com/rebeccawilder/files/2012/06/inf_taxadjusted3.jpg"><img alt="" height="488" src="http://www.economonitor.com/rebeccawilder/files/2012/06/inf_taxadjusted3.jpg" width="564"></a></p>
+<p>Inflation takes time to build, so this disinflationary trend is unlikely to change anytime soon without significant policy accommodation.<br /><strong><em><br /></em></strong><br /><strong><em>Rebecca Wilder</em></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/euro-area-inflation-a-very-slow-burn.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A Different Look at GDP and Inflation</title>
+		<link>./../../2012/04/a-different-look-at-gdp-and-inflation.html</link>
+		<comments>./../../2012/04/a-different-look-at-gdp-and-inflation.html#respond</comments>
+		<pubDate>Mon, 30 Apr 2012 12:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic politics]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[jazzbumpa]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/a-different-look-at-gdp-and-inflation.html</guid>
+		<description><![CDATA[At Illusion of Prosperity, Stagflationary Mark posted this scatter-graph of quarterly GDP YoY growth and CPI data from Q1, 1948 through Q4, 2011.  Each point represents the differences from the medians of each data set for each of the variables, respectively.  This gives you a picture of time spent above and below what might be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>At <a href="http://illusionofprosperity.blogspot.com/2012/04/real-gdp-vs-cpi.html">Illusion of Prosperity</a>, Stagflationary Mark posted <a href="http://4.bp.blogspot.com/-dhh3ko4tTsA/T5CNyTpoMKI/AAAAAAAAEE0/fC2_5JOdGc8/s1600/Real%2BGDP%2Bvs.%2BCPI.jpg">this scatter-graph</a> of quarterly GDP YoY growth and CPI data from Q1, 1948 through Q4,  2011.  Each point represents the differences from the medians of each  data set for each of the variables, respectively.  This gives you a  picture of time spent above and below what might be considered normal  performance.</p>
+<p>I wondered how this would look if each point were identified by  presidential administration, and if this would suggest any particular  narrative.  So I redid the graph, <a href="http://research.stlouisfed.org/fred2/graph/?g=6Mm">data from FRED</a>,  using mean instead of median as the determinant.  It is presented here  as Graph 1, with each data point (256 total) color-coded by presidential  party; red for Republicans, blue for Democrats.  The calendar quarter  of each president&#8217;s inauguration is allotted to the previous  administration.</p>
+<p>I&#8217;ve labeled the quadrants as follows, and indicated the frequency of data points populating each quadrant.
+<div></div>
+<div><img alt="" src="data:image/png;base64,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"></div>
+<p>Here are the Mean and Standard Deviation values.</p>
+<div> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMEAAAA0CAIAAAC8f8thAAAEVElEQVR4nO1cy4HrIAykLgpyPVTjs/ugGL2D15iPwB8JFPM0p01wsiM0EULINptCQYPZtg2+DOUvC9WQPCbgrxoSxgT8VUMH1sWcWFbsXWOMMdb5aCi8egsqf+8syq5kHmxqGfWGv2oI4HDEMcn7q31aM6Hss48OvQSJf0YhJr6PBd0kFjaMesNfNQT5dJdD0fRGvhDXUJtAblR0dcOox1ANAUBTQr+soYv/X1h1vqEaSkHn35xBNOzv1wpr6MrxuIas802jHkM1BHBHQz+ZU2M5XMzwSkOaUwcMXsvuDT0A71qWJz331jIKVEM7HuTU94YegDenbmiokVNToBr6w+29fQxxDeWZzLGeYRpq7e1JUA1FaNQYf1ZDgQZC/arGqBoKUP6yUA3JYwL+qiFhTMDfPO44UihSmO37vwNpCiRMwF81JIwJ+KuGhDEB/1hDoaJQdmC9PJAbAEYfRGdOiL1ZsxfXpAzjD2nJiMujNQ0d5SfvrLH2fV/ACLD54Kz5XpbgKL0SOYbxj0kzFhkxDdllsVFN3C7Lf6KhExcS4VSQBH8AThGhGnJu+ft276xZXEooCocxhSTQ590RrueK2MEHrXN83oMCEOAPwPozwDW0OhtaBPZXWAgs/kbO8/i7j1EbWL/vygHcdozmH67hW4sRDfl1D0TeWbOs1eZP72w9FpWa410BEhu4v7L/QWuEwfyBV0FVDe3igXUxyxr5vtyYJOJKeuS+raG6E/ij6Vj+6a0fHKhoCLyzIS260YSehM/aevc9DVX396xGDOXPG4IAoK6hI7Cc0acZVyJmR6z6XhwqGs92qintDkndQP6k+8hqqGooIuSr+zL8xsl9I1fm0b+uIcD3nJ/REFzxL1ORHnv7T0L5y0I1JI8J+KuGhDEBf/O440ihSGG27/8OpCmQMAF/1ZAwJuCvGhLGBPxLDT1qVGrcCDcIRB9cW1t0VWUfI1rclX+1by7xG6lOVGqo3qjkna0Vz/EbcgeB4oPrtqys7Hr2xMR1O6oPOvLHry3Py9+j1FDloKUqjsaDAQaBbS3AqMdzff4dXUn/1XTlH4A9UKBL7wckR185ATReNh5QAmjxPf3AnWaXaxsoHw9A5zXxS/bslfww8SW68j+Q6Qt/tMA7YPkQuvzfjkP5uW15gF/0q8nmEwcqJ9o58VRQHDG3L/9oMJMQV2dgdV92ChU7vc4vRDVUbVhDfs4UsPig4YEQhPebE7B2GPk41O7paAmFLKL23r5+eJ9RwNayesMarMupMnrqRPfB3cQ4NY0rlPbn35RJZw0V+49HOXWDnHf2r1GbIfum+uB2W1YIpb+loUv+7ZyNX0MJoWLn+Gxv32geSh/YRQPNB2hbFtq66Z1FVnaWfKIjf5RiJTt9ByQOpWtQmcpjz5AslytkNBlg7Oql11dilCv3aQNeY6Qa0Zt/vWbBxl/POoQxAX/VkDAm4K8aEsYE/M3jjiOFIgIA/APrzuMXgNfhOgAAAABJRU5ErkJggg=="></div>
+<p>
+<div><a href="http://2.bp.blogspot.com/-jnmhS5JyrqQ/T5rPZhTlPwI/AAAAAAAABy4/Wn4RUeZr-uM/s1600/GDP+and+CPI+-+All.JPG"><img border="0" height="298" src="http://2.bp.blogspot.com/-jnmhS5JyrqQ/T5rPZhTlPwI/AAAAAAAABy4/Wn4RUeZr-uM/s400/GDP+and+CPI+-+All.JPG" width="400"></a></div>
+<div>Graph 1  CPI and GDP, data from FRED </div>
+<p><a name="more"></a>The GDP data has something close to a normal distribution, with approximate symmetry around the mean.  The CPI data does not.  For CPI, the highest frequency is 2 percentage points below the mean, and there is a long tail on the high side, so the distribution looks more like a Poisson type.</p>
+<p>I&#8217;ve broken out presidential administrations, 3 or 4 to a graph, to  avoid excessive clutter.  Graph 2 shows the administrations of Truman  (light blue), Eisenhower (red), and Kennedy-Johnson (dark blue.)</p>
+<p>
+<div><a href="http://4.bp.blogspot.com/-66lCxuLomsw/T5rVwsBCB5I/AAAAAAAABzE/gBUJPI8KclY/s1600/GDP+and+CPI+-+HST-DDE-KJ.JPG"><img border="0" height="298" src="http://4.bp.blogspot.com/-66lCxuLomsw/T5rVwsBCB5I/AAAAAAAABzE/gBUJPI8KclY/s400/GDP+and+CPI+-+HST-DDE-KJ.JPG" width="400"></a></div>
+<div>Graph 2  CPI and GDP, Truman, Eisenhower, Kennedy-Johnson</div>
+<p>Results  during the Truman administration were erratic, with both inflation and  deflation occurring, and GDP growth widely variable as the nation made  post WW II adjustments, and several million G.I.&#8217;s reentered the work  force.  Ike was an inflation hawk, and one of only two presidents to  achieve below average inflation in every quarter of his administration.   (Take your guess now as to who the other might be.  All will be  revealed in due time.)  Still, the road was bumpy, with GDP growth  highly variable, and two rather severe recessions during his term.  The  Kennedy-Johnson administration enjoyed superior economic performance and  relatively low inflation, with only 6 quarters of below average GDP  growth, and only five quarters of above average inflation during the  entire 8 years.  This was one of only two administrations to avoid  recession for an entire 8-year term. </p>
+<p>Graph 3 shows the Nixon-Ford (orange), Carter (blue), and Reagan (red) administrations.</p>
+<p>
+<div><a href="http://3.bp.blogspot.com/-zE39XfBq3jM/T5rbTt5W7XI/AAAAAAAABzQ/MlgWWEVz6Rk/s1600/GDP+and+CPI+-+NF-JEC-RWR.JPG"><img border="0" height="298" src="http://3.bp.blogspot.com/-zE39XfBq3jM/T5rbTt5W7XI/AAAAAAAABzQ/MlgWWEVz6Rk/s400/GDP+and+CPI+-+NF-JEC-RWR.JPG" width="400"></a></div>
+<div>Graph 3  CPI and GDP, Nixon-Ford, Carter, Reagan</div>
+<p>Here we find three increasingly extreme excursions into stagflationary territory, two under Nixon-Ford (remember Whip Inflation Now  buttons?) and one under Carter. The first and mildest was in 1970, the  second in 1974-5, and the last, in 1979-80 probably played a part in  holding Carter to a single term.  Inflation far above average plagued  both of those administrations.  Each spent time above and below average  in GDP growth with term averages very close to the grand average.   However, Carter&#8217;s last two years were consistently below average, and  coupled with high inflation, earning him his moribund reputation.  Early  in Reagan&#8217;s first term, Volker finished slaying the inflation dragon.   But the cost was high in terms of depressed GDP growth, and during that  time Reagan was extremely unpopular.  But, as the economy recovered, so  did his reputation, and he is now remembered, for good or for ill, as  one of America&#8217;s most beloved presidents.  The remainder of his  presidency resided along at least one of the two average lines,  including four consecutive quarters of exceptional GDP growth coupled  with only slightly above average inflation, spanning 1983-4.</p>
+<p>Graph 4 shows the Bush Sr. (orange), Clinton (light blue), Bush Jr.(red), and Obama (dark blue) administrations.</p>
+<div><a href="http://3.bp.blogspot.com/-1wXmqA-F8lg/T5r4dkmO2uI/AAAAAAAABzk/TkOb8hrDpzg/s1600/GDP+and+CPI+-+GHWB+-+WJC+-+GWB+-+BHO.JPG"><img border="0" height="239" src="http://3.bp.blogspot.com/-1wXmqA-F8lg/T5r4dkmO2uI/AAAAAAAABzk/TkOb8hrDpzg/s320/GDP+and+CPI+-+GHWB+-+WJC+-+GWB+-+BHO.JPG" width="320"></a></div>
+<div>Graph 4  CPI and GDP, Bush Sr., Clinton, Bush Jr., Obama</div>
+<p>During  the Bush Sr. administration, 11 of 16 quarters had below average GDP  growth, 10 quarters had above average inflation, 8 of these quarters had  both.  Clinton&#8217;s term began and ended with below average GDP growth,  but during his 8 years here were only 9 below average quarters.  Four of  them occurred in sequence from Q2, 1995 to Q1, 1996, but the remainder  of 1996 was quite strong, and Clinton was granted a second term. Clinton  was both the other president who avoided having even a single quarter  of above average inflation, and the other president who avoided having a  recession during an entire 8-year term.  During the 8-year term of Bush  Jr. there were only 4 quarters of only slightly above average GDP  growth, occurring from 2003 to 2005.  There were 7 quarters of above  average inflation, 3 of them just barely so in 2005-6, and the other 4  in 2007-8, just prior to the economic collapse.  The remainder of his  term was in the mild doldrums region.  The collapse ushered in the Obama  administration.  Within his first year, the economy was back into the  mild doldrums area that has so far been typical of the current century.   </p>
+<p>Here is one more graph, showing how each  administration performed, as an average over its entire term.  Starting  with Truman, the yellow line leads us to each successive administration,  up to Obama.</p>
+<p>
+<div><a href="http://2.bp.blogspot.com/-pXpMyx3AvKU/T5sKQsXYvrI/AAAAAAAABzw/GyLh10I8QIw/s1600/GDP+and+CPI+-+Term+Avgs.JPG"><img border="0" height="298" src="http://2.bp.blogspot.com/-pXpMyx3AvKU/T5sKQsXYvrI/AAAAAAAABzw/GyLh10I8QIw/s400/GDP+and+CPI+-+Term+Avgs.JPG" width="400"></a></div>
+<p>Obama&#8217;s  position suffers from the recession he inherited.  Whether he gets  reelected or not, his average will move up each remaining quarter of his  presidency.  If he gets a second term, we can expect more of the  doldrums we have experienced over the last two years.</p>
+<p>This  clearly belies the Romney claim that Obama&#8217;s economic policies have  failed.  His policies have moved us from near-depression to mere  mediocrity.  That counts as some sort of success.</p>
+<p>So,  here is my narrative.  First off, one can argue that the president does  not directly determine the economic fate of the country, and that is  partly true.  The other part is that the president sets the policy and  the tone, and that both of these things matter.</p>
+<p>&#8211;  The only presidents to have achieved term averages in the prosperity quadrant were Democrats.<br />&#8211;  The only Republican to achieve above average real GDP growth was Reagan, and that was only by an increment.<br />&#8211;   The only president since Reagan to achieve higher GDP growth than his  predecessor was Clinton, other than that, it&#8217;s been a downward spiral.<br />&#8211;    Carter had below average GDP growth by a slight margin, but he beat  every Republican other than Reagan, and he didn&#8217;t trail him by much.<br />&#8211; The last 44 years have been characterized by secular decreases in both CPI inflation and GDP growth.<br />&#8211;  They have also been characterized by Republican presidencies 64% of the  time, decreasing regulation, lowered tax rates, safety net erosion,  loss of labor union strength and participation, and the systematic  undoing of of New Deal policies.</p>
+<p>What I conclude is  that New Deal (dare I say Keynesian?) policies were successful in  generating real prosperity, and free market policies have been far less  successful.  Over time, Reaganomic trickle-down, free market policies  have given us first, the Great Stagnation, and ultimately the worst  economic crisis in 80 years.  These policies were, by no coincidence at  all, quite similar to those in effect when the Great Depression of the  30&#8217;s happened &#8211; and also all the other earlier depressions that are no  longer very prominent in people&#8217;s memories.</p>
+<p>As I said, policy matters &#8211; and it matters profoundly.</p>
+<p>With  that in mind, here is my question to the Fed:  Since the average of CPI  inflation since WW II is 3.7%, and there is ample evidence that we can  have very reasonable economic performance with inflation in that range,  why have you set an inflation target that is effectively half of that  level, while ignoring high unemployment &#8211;  the other half of your  alleged dual mandate?</p>
+<p>Of course, I&#8217;m being rhetorical.  It&#8217;s because they are bankers, and inflation favors <strike>creditors</strike> borrowers, not lenders.  The fact is <a href="http://www.angrybearblog.com/2011/12/250-billion-reasons-why-fed-hates.html">they don&#8217;t care one whit about unemployment</a>.</p>
+<p>Policy.</p>
+<p>It matters.</p>
+<p>Cross-posted at <a href="http://jazzbumpa.blogspot.com/2012/04/different-look-at-gdp-and-inflation.html">Retirement Blues</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/a-different-look-at-gdp-and-inflation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Malicious ECB rate hikes</title>
+		<link>./../../2011/08/malicious-ecb-rate-hikes.html</link>
+		<comments>./../../2011/08/malicious-ecb-rate-hikes.html#respond</comments>
+		<pubDate>Wed, 24 Aug 2011 15:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[deflation]]></category>
+		<category><![CDATA[ECB]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/malicious-ecb-rate-hikes.html</guid>
+		<description><![CDATA[by Rebecca Wilder Lieblings quote of the day by Dean Baker: &#8220;The ECB is run by a perverse cult that worships 2.0 percent inflation and is prepared to sacrifice almost all other economic goals to meet this target.&#8221; The article goes on to argue that the ECB should increase its inflation target to 3-4% in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Rebecca Wilder</strong></p>
+<p>Lieblings quote of the day by <a href="http://www.cepr.net/index.php/blogs/beat-the-press/do-not-believe-morning-edition-spain-did-not-build-up-huge-debt">Dean Baker</a>:<br />
+<blockquote>&#8220;The ECB is run by a perverse cult that worships 2.0 percent inflation and is prepared to sacrifice almost all other economic goals to meet this target.&#8221;</p></blockquote>
+<p>The article goes on to argue that the ECB should increase its inflation target to 3-4% in order to facilitate positive wage growth in the debt deflationary economies like Spain. <a href="http://www.angrybearblog.com/2011/04/germany-is-competitive-on-relative.html">I&#8217;ve argued</a> a similar point in the past.</p>
+<p>However, I&#8217;d like to add that this &#8220;perverse cult&#8221; called the European Central Bank (ECB) raised its <a href="http://www.ecb.int/stats/monetary/rates/html/index.en.html">policy rate on April 13</a> &#8211; a point in time that correlates perfectly with a shift in trend across euro-area bond markets. Specifically, April 13 marks the upswing in risk premia on Italian, Spanish, and Belgian bonds relative to German bunds. Hmmm&#8230;policy mistake?<br />
+<br /><a name="more"></a></p>
+<p><a href="http://4.bp.blogspot.com/-Q81up-_2zQk/TlQG3TcY8EI/AAAAAAAAD54/SYFB1wxCsMM/s1600/spreads_bunds_chart.jpg"><img src="http://4.bp.blogspot.com/-Q81up-_2zQk/TlQG3TcY8EI/AAAAAAAAD54/SYFB1wxCsMM/s400/spreads_bunds_chart.jpg" border="0" alt=""></a><br />
+<br />Now that&#8217;s just malicious.</p>
+<p>Rebecca Wilder   also posted at <a target="_blank" href="http://www.angrybearblog.com/">Newsneconomics</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/malicious-ecb-rate-hikes.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Goldbugs and inflation</title>
+		<link>./../../2011/08/goldbugs-and-inflation.html</link>
+		<comments>./../../2011/08/goldbugs-and-inflation.html#respond</comments>
+		<pubDate>Wed, 24 Aug 2011 14:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bonds]]></category>
+		<category><![CDATA[Gold]]></category>
+		<category><![CDATA[inflation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/08/goldbugs-and-inflation.html</guid>
+		<description><![CDATA[by Mike Kimel Howard Hill on has been arguing with gold bugs: I know that some readers are going to say “Wait. The gold market is saying inflation, not deflation.” That’s not how I see it. I see the negative real rate on cash parked in T-bills (three month yield 0%, 12 month yield 0.08%) [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Mike Kimel</strong></p>
+<p>Howard Hill on <a href="http://mindonmoney.wordpress.com/2011/08/20/a-matter-of-faith/">has been arguing with gold bugs</a>:</p>
+<blockquote><p>I know that some readers are going to say “Wait.  The gold market is saying inflation, not deflation.”</p>
+<p>That’s not how I see it.  I see the negative real rate on cash parked in T-bills (three month yield 0%, 12 month yield 0.08%) as a clear indication that prices are going down, not up.  As more and more market participants equate gold to another currency, they are simply diversifying their cash into that currency along with Dollars, Pounds, Swiss Francs, Yen and Euros.  If you consider the total bullion supply, the allocation into gold is less than $10 trillion worldwide, a small fraction of the total debt held as investment.</p>
+<p>The key to understanding the mixed signals of gold and the bond market(s) is to realize that boiling every bit of information in the market down to a single price eliminates much of the information.  Once that information is reduced to a single data point, you can’t actually re-create it.  We’re left guessing at what forces are at work that put the prices where they are.</p>
+<p>The one thing that makes no sense is to look at one market (eg gold) and conclude that there is inflation ahead while ignoring other larger markets that are telling the opposite story.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/08/goldbugs-and-inflation.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Euro area inflation: gaining momentum below the hood</title>
+		<link>./../../2011/05/euro-area-inflation-gaining-momentum-below-the-hood.html</link>
+		<comments>./../../2011/05/euro-area-inflation-gaining-momentum-below-the-hood.html#respond</comments>
+		<pubDate>Mon, 16 May 2011 14:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurostat]]></category>
+		<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/euro-area-inflation-gaining-momentum-below-the-hood.html</guid>
+		<description><![CDATA[Today Eurostat released April 2011 inflation for the Euro area. Prices are increasing at a 2.8% annual pace, up from 2.7% in March and very much above the ECB&#8217;s comfort zone of around but slightly below 2%. Today&#8217;s report is the second release and includes the cross section of price gains below the headline number. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today <a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-16052011-BP/EN/2-16052011-BP-EN.PDF">Eurostat released </a>April 2011 inflation for the Euro area. Prices are increasing at a 2.8% annual pace, up from 2.7% in March and very much above the ECB&#8217;s comfort zone of around but slightly below 2%.</p>
+<p>Today&#8217;s report is the second release and includes the cross section of price gains below the headline number. The first &#8216;flash&#8217; estimate does not specify the breakdown.</p>
+<p><strong>Inflation&#8217;s hitting all sectors, goods (primarily) and services alike, via inputs to production.</strong></p>
+<p><a href="http://3.bp.blogspot.com/-omfYf3w6SNw/TdEvxuppCqI/AAAAAAAADnU/hXPqz6FohW0/s1600/inflation_sectors.JPG"><img src="http://3.bp.blogspot.com/-omfYf3w6SNw/TdEvxuppCqI/AAAAAAAADnU/hXPqz6FohW0/s400/inflation_sectors.JPG" border="0" alt=""></a>READ MORE AFTER THE JUMP!<a name="more"></a>April core prices rose 1.6% over the year. The goods-price inflation is flowing into the the service-sector as well &#8211; headline service-sector inflation is 2.0% in April, up from its low of 1.2% one year ago. There may be some seasonal distortions here associated with the Easter holiday, but the upward momentum has been established.</p>
+<p><strong>Price gains at the country level are broad based.</strong></p>
+<p>2% annual inflation is increasingly ubiquitous for key countries, Periphery and Core core alike. Below is the diffusion of 2% annual price gains, where an index value above 50 indicates that the majority of component prices are rising at a 2% rate. The legend indicates the longer-term average diffusion of price gains.</p>
+<p><a href="http://3.bp.blogspot.com/-A2y_uiNr0Y8/TdEx9-NkxQI/AAAAAAAADnc/lHxe06B6p9k/s1600/diffusion.JPG"><img src="http://3.bp.blogspot.com/-A2y_uiNr0Y8/TdEx9-NkxQI/AAAAAAAADnc/lHxe06B6p9k/s400/diffusion.JPG" border="0" alt=""></a>Germany is still seeing the majority of annual price gains below 2% &#8211; the current index is 43 &#8211; but the breadth of 2% inflation is increasing beyond its longer-term average of 34.8. In Spain and Italy, current inflation diffusion indices are likewise increasing, where Spanish price gains are broad, 55.6 in April.</p>
+<p><strong>And it&#8217;s not just VAT taxes.</strong></p>
+<p>The chart below illustrates the tax-adjusted inflation rate across the Eurozone (ex Ireland, unfortunately, whose data is unavailable, Austria, Estonia and Cyprus). This series is lagged one month.</p>
+<p><a href="http://3.bp.blogspot.com/-7TdUmNunGs8/TdE4r0tQKJI/AAAAAAAADns/IhSnVfqNjWY/s1600/tax-adjusted.JPG"><img src="http://3.bp.blogspot.com/-7TdUmNunGs8/TdE4r0tQKJI/AAAAAAAADns/IhSnVfqNjWY/s400/tax-adjusted.JPG" border="0" alt=""></a>The tax-adjusted inflation rate assumes that all tax hikes are passed fully through to final goods prices. It gives a proxy for the inflation effect of fiscal austerity (hike in VAT, for example).</p>
+<p>Although the uptick in inflation is warranted at this stage in the recovery, especially in the core, the momentum in prices can no longer be attributed to taxes only &#8211; it&#8217;s broader than that. Greece, for example, saw its inflation rate peak around 5.6% in September 2010 when its tax-adjusted inflation rate (inflation excluding VAT) was just 1.1%. Now, however, the headline and tax-adjusted inflation rates are converging, 4.5% vs 1.7% in March. Much of the tax-adjusted inflation can be attributed to food and energy; nevertheless, the base effects of the VAT hikes are wearing off.</p>
+<p>Tricky times for Euro area policy makers when the Core AND the Periphery are showing such broad price gains. Meanwhile, <a href="http://www.angrybearblog.com/2011/05/euro-area-gdp-report-unbalanced.html">the Periphery are contributing little by way of growth</a>.</p>
+<p><em><strong>Rebecca Wilder</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/euro-area-inflation-gaining-momentum-below-the-hood.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Don&#8217;t Like &#034;Money Printing&#034;? Then Stop Borrowing. Whip Inflation Now!&#060;/</title>
+		<link>./../../2011/04/dont-like-money-printing-then-stop-borrowing-whip-inflation-now.html</link>
+		<comments>./../../2011/04/dont-like-money-printing-then-stop-borrowing-whip-inflation-now.html#respond</comments>
+		<pubDate>Tue, 12 Apr 2011 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[credit]]></category>
+		<category><![CDATA[inflation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/dont-like-money-printing-then-stop-borrowing-whip-inflation-now.html</guid>
+		<description><![CDATA[by Steve Roth Don&#8217;t Like &#8220;Money Printing&#8221;? Then Stop Borrowing. Whip Inflation Now!Cross-posted at Asymptosis. There&#8217;s a widespread conception that &#8220;money printing&#8221; by the government causes inflation, and that &#8220;money printing&#8221; = government deficit spending. But people don&#8217;t realize that:]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Steve Roth</strong></p>
+<p><strong>Don&#8217;t Like &#8220;Money Printing&#8221;? Then Stop Borrowing. Whip Inflation Now!</strong><br />Cross-posted at <a href="http://www.asymptosis.com/?p=3473">Asymptosis</a>.</p>
+<p>There&#8217;s a widespread conception that &#8220;money printing&#8221; by the government causes inflation, and that &#8220;money printing&#8221; = government deficit spending.</p>
+<p>But people don&#8217;t realize that:</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/dont-like-money-printing-then-stop-borrowing-whip-inflation-now.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It&#8217;s pretty obvious how China can achieve its top economic priority of price stability</title>
+		<link>./../../2011/03/its-pretty-obvious-how-china-can-achieve-its-top-economic-priority-of-price-stability.html</link>
+		<comments>./../../2011/03/its-pretty-obvious-how-china-can-achieve-its-top-economic-priority-of-price-stability.html#respond</comments>
+		<pubDate>Tue, 08 Mar 2011 21:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[China]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/its-pretty-obvious-how-china-can-achieve-its-top-economic-priority-of-price-stability.html</guid>
+		<description><![CDATA[Premier Wen Jiabao made stabilizing prices China&#8217;s top economic priority for 2011. Amid the surge in world energy costs, this story didn&#8217;t make the front page. However, Chinese policymakers did take their time spent out of the limelight to allow the Chinese yuan to appreciate roughly 0.3% against the US dollar. Chinese inflation is elevated [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Premier Wen Jiabao made stabilizing prices <a href="http://www.bloomberg.com/news/2011-03-05/china-targets-8-growth-this-year-wen-pledges-to-decisively-curb-prices.html">China&#8217;s top economic priority </a>for 2011. Amid the surge in world energy costs, this story didn&#8217;t make the front page. However, Chinese policymakers did take their time spent out of the limelight to allow the Chinese yuan to appreciate roughly 0.3% against the US dollar.</p>
+<p>Chinese inflation is elevated and near 5% (<a href="http://english.peopledaily.com.cn/90001/90778/98505/7311989.html">4.9% is the official rate </a>as of January 2011). I understand that China&#8217;s growth adjustment <a href="http://www.economist.com/economics/by-invitation/guest-contributions/world_must_give_china_time_adjust">will take time</a>; but if you&#8217;ve got unwanted inflation, then domestic policy is too loose (fiscal or monetary). And in this case, it&#8217;s the monetary policy that&#8217;s too loose &#8211; that goes for both currency and rates policies.</p>
+<p>On the rates front: there&#8217;s a very frothy feel in domestic asset markets, specifically the property market. Low rates and easy money have sparked a(nother) property boom in China, one that policymakers are trying to tamp down. The <a href="http://www.economist.com/node/18250463?story_id=18250463&#038;CFID=158278198&#038;CFTOKEN=19449521">Economist published a recent article to the point</a>.</p>
+<p>But it&#8217;s going to take much, much more than raising down payments and reserve requirements to shore up demand for risk assets. I mean, it really doesn&#8217;t take a genius to see that real rates are entirely too low. What&#8217;s the investment strategy here: nominal GDP is expected to grow at a 11% in 2011 (according to Economic Intelligence Unit, no link), while the lending rate <a href="http://www.bloomberg.com/news/2011-02-08/china-raises-benchmark-one-year-deposit-lending-rates-by-25-basis-points.html">is just 6.06%</a>. There&#8217;s no rocket science here: money&#8217;s entirely too easy and inflationary pressures are there. </p>
+<p>Furthermore, deposit rates are too low and capping domestic consumer demand. Rates need to rise.</p>
+<p><a href="http://1.bp.blogspot.com/-93NDQUcvP14/TXZVwQ2fqFI/AAAAAAAADg0/dBVq3JMcAjk/s1600/china_growth.JPG"><img src="http://1.bp.blogspot.com/-93NDQUcvP14/TXZVwQ2fqFI/AAAAAAAADg0/dBVq3JMcAjk/s400/china_growth.JPG" border="0" alt=""></a><a name="more"></a><br />On the currency front. Although there&#8217;s been some appreciation in the nominal currency, the yuan,  Chinese policymakers only recently allowed their currency to fluctuate at all (again) on an annual basis (see chart below). Notice how the annual appreciation was near 0% spanning Q3 2009 to Q4 2010 (October). Since the central bank doesn&#8217;t fully sterilize the inflows of foreign currency from export sales, the depressed nominal rate on the yuan feeds through to the economy via inflation.</p>
+<p><a href="http://4.bp.blogspot.com/-EJasLGU-SsE/TXZVwMD_DpI/AAAAAAAADgs/4jp9QTph4Vs/s1600/china_exchange_rates.JPG"><img src="http://4.bp.blogspot.com/-EJasLGU-SsE/TXZVwMD_DpI/AAAAAAAADgs/4jp9QTph4Vs/s400/china_exchange_rates.JPG" border="0" alt=""></a><br />Inflation is rising, which is perking up the Chinese real exchange rate. In January 2011, the trade-weighted real effective exchange rate appreciated at a 4% annual rate (according to the JP Morgan Index). The real exchange rate takes into account the nominal rate plus shifts in the purchasing power of the domestic currency, as measured by relative price fluctuations.</p>
+<p>The chart illustrates that the nominal exchange rate is now gaining traction on an annual basis, since the Chinese government halted its movement against the USD in 2009. I suspect that the nominal momentum will continue to grind upward throughout this year in order to temper some of the inflationary impetus coming from outside its borders (like Fed policy). But as I said before, it&#8217;s Chinese policy that&#8217;s too loose at home.</p>
+<p>The problem is, that Chinese policymakers want to rein in accommodative policy without raising rates too much because they don&#8217;t want the currency to appreciate markedly and are unable to fully sterilize all the flows. Inflation results.</p>
+<p>If Chinese policymakers question how to achieve their top economic priority, price stability, then the answer to this self-induced problem is pretty obvious: significantly raise rates and the value of the currency.</p>
+<p><em><strong>Rebecca Wilder</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/its-pretty-obvious-how-china-can-achieve-its-top-economic-priority-of-price-stability.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Evidence says the ECB is overreacting</title>
+		<link>./../../2011/03/evidence-says-the-ecb-is-overreacting.html</link>
+		<comments>./../../2011/03/evidence-says-the-ecb-is-overreacting.html#respond</comments>
+		<pubDate>Sun, 06 Mar 2011 16:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ECB]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/evidence-says-the-ecb-is-overreacting.html</guid>
+		<description><![CDATA[Earlier this week I argued that the ECB&#8217;s inflation target of just below 2% is too simplistic, especially during periods of supply-side price shocks: energy, food, VAT hikes. Here&#8217;s a menu of reactions to the ECB&#8217;s announced rate hike (Trichet used the phrase &#8216;strong vigilance&#8217;, which historically is a leading indicator of a rate hike [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Earlier this week <a href="http://www.angrybearblog.com/2011/03/its-pretty-simple-ecbs-now-in-hiking.html">I argued</a> that the ECB&#8217;s inflation target of just below 2% is too simplistic, especially during periods of supply-side price shocks: energy, food, VAT hikes. Here&#8217;s a menu of reactions to the ECB&#8217;s announced rate hike (Trichet used the phrase &#8216;strong vigilance&#8217;, which <a href="http://www.reuters.com/article/2011/03/03/ecb-rates-trichet-idUSLDE7221LJ20110303">historically is a leading indicator of a rate hike</a> in the following month): <a href="http://krugman.blogs.nytimes.com/2011/03/04/the-madness-of-jean-claude-trichet/">Paul Krugman</a> calls it &#8216;madness&#8217;; <a href="http://macromarketmusings.blogspot.com/2011/03/inflation-targeting-gets-another-black.html">David Beckworth</a> sports the &#8216;black eye&#8217; metaphor; <a href="http://kantoos.wordpress.com/2011/03/04/is-trichet-out-of-his-mind/">Kantoos</a> is somewhat more explicit in his language; <a href="http://moslereconomics.com/2011/03/04/eu-daily-europes-bank-signals-it-may-raise-interest-rates-to-tamp-down-inflation/"> and Warren Mosler</a> goes for the Disney theme.</p>
+<p>And then I see that one of my favorite blogs, <a href="http://eurointelligence.com/">the Eurointelligence blog</a>, interprets the policy response as warranted in the face of an &#8216;overheating&#8217; export sector. <a href="http://www.eurointelligence.com/homepage/daily-morning-news-briefing/article/back-to-strong-vigilance-but-note-trichet-is-also-playing-politics.html?tx_ttnews%5BbackPid%5D=901&#038;cHash=1ebbfdafef6da9482285baa739d26d4f">From Eurointelligence</a>:<br />
+<blockquote>(It is our interpretation that the ECB is very keen to drive up the euro’s exchange rate against the dollar to reduce the commodity price shocks, and to reduce the overheating in the export sector. This is why the ECB was keen to signal this interest rate as early as possible, to underline the transatlantic policy gap. We don’t think the ECB intends to hike interest rates to very high absolute levels, though we consider a 2% year-end rate realistic.)</p></blockquote>
+<p>RW: My initial reaction was: what? Am I missing something here? Is the ECB right to be strongly vigilant? Is the export sector (1) overheating? and (2) therefore unmooring Eurozone inflation expectations?</p>
+<p>No.</p>
+<p>Exhibit 1: Real exports are 1.5% below the pre-crisis level (1H 2008). No overheating there. Based on the chart below, whose data are <a href="http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database">from Eurostat</a>, I&#8217;d even argue that there is a possible stagflationary scenario on the horizon if investment doesn&#8217;t pick up.</p>
+<p><a href="http://3.bp.blogspot.com/-h376iXe7f_Y/TXOUxES5mSI/AAAAAAAADgE/zVLxzsplgY0/s1600/gdp_chart.jpg"><img src="http://3.bp.blogspot.com/-h376iXe7f_Y/TXOUxES5mSI/AAAAAAAADgE/zVLxzsplgY0/s400/gdp_chart.jpg" alt="" border="0"></a>If it&#8217;s not the export sector, perhaps it&#8217;s a broader impetus to prices driven by services and consumption goods. No.<a name="more"></a></p>
+<p>Exhibit 2: The chart below illustrates the diffusion of HICP inflation (the ECB&#8217;s target inflation index, which is a consistent measure of inflation across the 17-member currency union). I calculate the diffusion index to measure the breadth of prices that are rising at a rate of 2%: > 50 and there&#8217;s a larger share of sub-components prices increasing at a greater than 2% annual rate, or <br />The breadth of Eurozone 2% price gains is very low, 31, or 31% below its historical average (45).</p>
+<p><a href="http://1.bp.blogspot.com/-6XFauk_wBq8/TXOdXI3_gsI/AAAAAAAADgk/67DNhl75zvY/s1600/inflation_diffusion.jpg"><img src="http://1.bp.blogspot.com/-6XFauk_wBq8/TXOdXI3_gsI/AAAAAAAADgk/67DNhl75zvY/s400/inflation_diffusion.jpg" border="0" alt=""></a><br />We know that headline inflation is estimated at <a href="http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-01032011-BP/EN/2-01032011-BP-EN.PDF">2.4% in February</a>, or about 0.4% above the ECB&#8217;s comfort zone &#8211; perhaps that&#8217;s passing through to inflation expectations.</p>
+<p>Exhibit 3: The chart below illustrates near-term Eurozone inflation expectations, as measured by the 5-yr inflation swap. (Note: and inflation swap is a market security that allows an investor to hedge against inflation by paying a fixed rate and receiving inflation-linked interest payments in exchange). According to the swap market, inflation expectations are priced at 2.151%; this appears well-anchored especially compared to the 2007 period when it drifted upward.</p>
+<p><a href="http://3.bp.blogspot.com/-_dQD3UTYUoM/TXOYJZy8LBI/AAAAAAAADgU/XWO2wWIfaGg/s1600/5-yr%2Bswap%2Bindex.jpg"><img src="http://3.bp.blogspot.com/-_dQD3UTYUoM/TXOYJZy8LBI/AAAAAAAADgU/XWO2wWIfaGg/s400/5-yr%2Bswap%2Bindex.jpg" alt="" border="0"></a><br />Another measure of inflation expectations, the ECB&#8217;s Survey of Professional Forecasters, sees inflation peaking in <a href="http://www.ecb.int/stats/prices/indic/forecast/html/table_3_2011q1.en.html">2011 at 1.9%</a>. No unmooring of inflation expectations there.</p>
+<p>Related to the chart above, perhaps the ECB is looking at the sharp upward trajectory of inflation expectations in the swap market since October 2010 as unhealthy. No. That trajectory in inflation expectations is just a re-emergence of <a href="http://macroblog.typepad.com/macroblog/2010/12/whats-behind-recent-treasury-yields.html">normalized inflation expectations</a>, as the Fed worked to re-establish the US price trajectory. Global inflation expectations turned from drifting downward to a trend rate. Then perhaps it&#8217;s that Eurozone inflation expectations are outpacing those in other developed economies. Again, no.</p>
+<p>Exhibit 4: The chart below illustrates the 5y5y forward break even rates of inflation for the US, UK, and the Eurozone, which is from <a href="http://www.ecb.int/pub/pdf/mobu/mb201102en.pdf">page 84 of the ECB&#8217;s February (yes, this month) monthly Bulletin</a>. The Eurozone is definitely the laggard here!</p>
+<p><a href="http://2.bp.blogspot.com/--Tp8vNGWEfs/TXOZRXf74ZI/AAAAAAAADgc/sLSIHbD3Ezg/s1600/ECB_m2_chart.jpg"><img src="http://2.bp.blogspot.com/--Tp8vNGWEfs/TXOZRXf74ZI/AAAAAAAADgc/sLSIHbD3Ezg/s400/ECB_m2_chart.jpg" alt="" border="0"></a></p>
+<p>My interpretation of these statistics &#8211; and yes, there are <a href="http://www.themoneyillusion.com/?p=9099">many ways to measure inflation</a> &#8211; is that the ECB is overreacting to the inflation pressures coming from commodity prices, energy prices, and VAT hikes. The liquidity squeeze is afoot.</p>
+<p>Rebecca Wilder</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/evidence-says-the-ecb-is-overreacting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It&#8217;s pretty simple: the ECB&#8217;s now in hiking mode</title>
+		<link>./../../2011/03/its-pretty-simple-the-ecbs-now-in-hiking-mode.html</link>
+		<comments>./../../2011/03/its-pretty-simple-the-ecbs-now-in-hiking-mode.html#respond</comments>
+		<pubDate>Thu, 03 Mar 2011 15:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ECB]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/03/its-pretty-simple-the-ecbs-now-in-hiking-mode.html</guid>
+		<description><![CDATA[I WAY underestimated the simplicity of ECB policy. I think that the terse monetary policy objective explains quite well the ECB&#8217;s announced stance on policy today: The primary objective of the ECB’s monetary policy is to maintain price stability. The ECB aims at inflation rates of below, but close to, 2% over the medium term. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I WAY underestimated the simplicity of ECB policy. I think that the terse <a href="http://www.ecb.int/mopo/html/index.en.html">monetary policy objective</a> explains quite well the ECB&#8217;s <a href="http://www.ecb.int/press/pressconf/2011/html/is110303.en.html">announced stance </a>on policy today:<br /><em><br />
+<blockquote><em>The primary objective of the ECB’s monetary policy is to maintain price stability. The ECB <strong>aims at inflation rates of below, but close to, 2% over the medium term</strong>.</em></p></blockquote>
+<p></em><br />Today the ECB announced that it would keep the refi rate unchanged at 1%, however, Trichet made it quite clear that rate hikes at the next meeting cannot be ruled out (rather should be ruled in). The market response was pretty strong: bond markets are now pricing in 75 basis points of rate hikes this year, which would take the refi rate to 1.75% by the end of 2011; the euro&#8217;s close to breaking the 1.40 mark; and the 2-year yield is 13 basis points higher on the day.</p>
+<p>The trigger, in my view, was the ECB&#8217;s increased <a href="http://www.ecb.int/press/pressconf/2011/html/is110303.en.html">inflation projection</a>:<br /><em><br />
+<blockquote><em>The March 2011 ECB staff macroeconomic projections for the euro area foresee annual HICP inflation in a range between 2.0% and 2.6% for 2011 and between 1.0% and 2.4% for 2012.</em></p></blockquote>
+<p></em><br />The fact that the ECB is now projecting 2012 inflation upwards of 2.4% , which exceeds by leaps and bounds their 2% target in &#8216;ECB talk&#8217;, implies that the committee sees the medium-term outlook on inflation as seriously biased toward the upside. For the ECB, this means policy is way too accommodative.</p>
+<p><a name="more"></a>Let&#8217;s step back a moment, though. Despite the &#8216;strong&#8217; growth in the Eurozone, Germany, the largest Eurozone economy, has not fully recovered it&#8217;s GDP lost during the recession. As of Q4 2010, GDP remains 1.4% below its 2008 peak.</p>
+<p>In my view, the ECB&#8217;s policy objective is too simplistic. During times of supply-side inflation shocks to food and commodities (i.e., wheat droughts or Middle East unrest), headline inflation overestimates the true impetus to prices.</p>
+<p>Core and service prices are still very muted, while it&#8217;s goods prices that&#8217;s driving the price spikes.</p>
+<p><a href="http://3.bp.blogspot.com/-Oiy0iym8KUs/TW-prSNQu8I/AAAAAAAADf8/OowrMLyvxVw/s1600/prices.JPG"><img alt="" src="http://3.bp.blogspot.com/-Oiy0iym8KUs/TW-prSNQu8I/AAAAAAAADf8/OowrMLyvxVw/s400/prices.JPG" border="0"></a>It&#8217;s up to global growth now to see Eurozone growth through further. Better put: the Eurozone remains overly exposed to global growth shocks.</p>
+<p><em><strong>Rebecca Wilder</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/03/its-pretty-simple-the-ecbs-now-in-hiking-mode.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

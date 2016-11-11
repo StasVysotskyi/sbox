@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>reading the news &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Reading the story, asking normal business questions</title>
+		<link>./../../2013/03/reading-the-story-asking-normal-business-questions.html</link>
+		<comments>./../../2013/03/reading-the-story-asking-normal-business-questions.html#respond</comments>
+		<pubDate>Tue, 19 Mar 2013 12:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[econospeak]]></category>
+		<category><![CDATA[Peter Dorman]]></category>
+		<category><![CDATA[reading the news]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/reading-the-story-asking-normal-business-questions.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak writes a gem of a post asking readers to ask simple questions when offered a morality tale by journalists, or an implied cause and effect tale, and how it takes no special skill to ask simple business questions that the journalist should at least ask, even if not o tanswer all [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://econospeak.blogspot.com/2013/03/the-spin-on-tires.html">Peter Dorman</a> at <i>Econospeak</i> writes a gem of a post asking readers to ask simple questions when offered a morality tale by journalists, or an implied cause and effect tale, and how it takes no special skill to ask simple business questions that the journalist should at least ask, even if not o tanswer all of them.</p>
+<p>Peter Dorman writes:</p>
+<p>The Spin on Tires</p>
+<p>It would be nice to have economic literacy in journalism.  Take <a href="http://www.nytimes.com/2013/03/17/world/europe/fates-of-2-factories-show-social-schisms-in-france.html?ref=todayspaper&#038;pagewanted=print">this morning’s story</a> in the <i>New York Times </i>about a pair of tire factories in Amiens.  One is managed by Dunlop; its workers agreed to a schedule of constantly shifting workweeks and shift work, and it is still operating.  The other is managed by Goodyear.  There the workers rejected the disruptive schedule, and the factory is shutting down.  The comparison is presented as a morality tale, where the responsible workers, recognizing the new demands of productivity and competitiveness in a globalized economy, did the right thing, while their obstinate counterparts, representative of all that’s wrong with France, preferred heroic self-annihilation. </p>
+<p>Reading the article, I couldn’t help but think that this analysis of The Real Reason the French Economy is Sputtering was there all along, looking for a story to attach itself to. </p>
+<p>But an economist might ask a few simple questions.  First, what is the elasticity of the total production cost of a tire with respect to the changes in work hours?  I realize the reporter wants to emphasize the symbolism, the importance of workers bending to the employer’s will as a virtue in and of itself, but perhaps there is a factual dimension worth looking into.  Just a suggestion.  </p>
+<p>Second, what is the market for these tires?  In particular, who if anyone will pick up the market share being abandoned by Goodyear?  Is this about outsourcing of a portion of tire production to lower-cost producers in developing countries?  Or is it about a shrinking domestic market that no longer needs the output of both plants?  Or some combination of the two or something else? </p>
+<p>In particular, it is interesting that both factories, despite their different nameplates, are owned by the same company, Goodyear Dunlop.  Thus, this story describes a consolidation.  The very least an enterprising journalist can do is to inquire into the company’s overall capacity.  Is it cutting back elsewhere in Europe?  Are they shifting production geographically?  Is it possible that they might want only one operation in Amiens in any case, and that the only result of the contest over worker concessions is which plant it will be? </p>
+<p>All of this is speculative, because I don’t know the tire market in France.  That’s what I would want to learn from a newspaper story, a rather long one at that, on the subject.  This might also help me understand why the US, where few workers are unionized and none have the will or ability to resist whatever schedule is dictated to them, is not blanketed in tire factories.    </p>
+<p>Incidentally, there has been a ton of research in the past decade documenting the health effects of exactly the sort of work schedule being imposed at Dunlop.  It is associated with significantly elevated levels of a wide range of diseases; arguably it represents the single greatest occupational safety and health threat experienced in developed countries.  An informed journalist might want to weave that into the story too.</p>
+<p>(re-posted with permission of the author)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/reading-the-story-asking-normal-business-questions.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>prudence &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Steve Randy Waldman Explains It All to You</title>
+		<link>./../../2010/12/steve-randy-waldman-explains-it-all-to-you.html</link>
+		<comments>./../../2010/12/steve-randy-waldman-explains-it-all-to-you.html#respond</comments>
+		<pubDate>Wed, 01 Dec 2010 21:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[bad economics]]></category>
+		<category><![CDATA[debt]]></category>
+		<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[moral hazard]]></category>
+		<category><![CDATA[prudence]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[savings glut]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/steve-randy-waldman-explains-it-all-to-you.html</guid>
+		<description><![CDATA[Not certain this link will work, but at Interfluidity, SRW replies to Karl Smith, closing with a sentiment with which I am very much in sympathy: It is not technocratic economists who will win the day and pull us out of our cul-de-sac, but angry Irishmen and Spaniards who challenge, on moral terms, the right [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Not certain this link will work, but at Interfluidity, <a href="http://www.interfluidity.com/v2/1004.html">SRW replies to Karl Smith</a>, closing with a sentiment <a href="http://www.angrybearblog.com/2010/11/can-someone-please-explain-germanys.html">with which I am very much in sympathy</a>:<br />
+<blockquote>It is not technocratic economists who will win the day and pull us out of our cul-de-sac, but angry Irishmen and Spaniards who challenge, on moral terms, the right of German bankers to impose vast deadweight costs on current activity because they lent greedily into what might easily have been recognized as a property and credit bubble.</p></blockquote>
+<p>Read the whole thing, even if <a href="http://www.interfluidity.com/v2/1004.html">this link</a> doesn&#8217;t work.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/steve-randy-waldman-explains-it-all-to-you.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

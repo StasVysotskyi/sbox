@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>money trails &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title></title>
+		<link>./../../2012/07/959.html</link>
+		<comments>./../../2012/07/959.html#respond</comments>
+		<pubDate>Tue, 17 Jul 2012 11:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[2012 elections]]></category>
+		<category><![CDATA[FEC]]></category>
+		<category><![CDATA[money trails]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/07/959.html</guid>
+		<description><![CDATA[Via Alternet, Thomas Ferguson and Paul Jorgensen and Jie Chen point us to the FEC deleting information on &#8220;dark&#8221; political contributions.  You need to go to the original to read the important details, especially on c(4) contributions.  The point that we rely on agency information to be reasonably accurate cannot be stressed enough. We have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.alternet.org/story/156329/revealed%3A_key_files_on_big_ticket_political_donations_vanish_at_the_federal_election_commission_?page=1">Via Alternet</a>, Thomas Ferguson and Paul Jorgensen and Jie Chen point us to the FEC deleting information on &#8220;dark&#8221; political contributions.  You need to go to the original to read the important details, especially on c(4) contributions.  The point that we rely on agency information to be reasonably accurate cannot be stressed enough.<br />
+<blockquote>We have discovered that sometime after January of this year, the FEC deleted a whole set of contributions totaling millions of dollars made during the 2007-2008 election cycle. The most important of these files concern what is now called “dark money” – funds donated to ostensible charities or public interest groups rather parties, candidates or conventional political action committees (PACs). These non-profit groups – which Washington insiders often refer to generically as 501(c)s, after the section of the federal tax code regulating them – use the money to pay for allegedly educational “independent” ads that run outside conventional campaign channels. Such funding has now developed into a gigantic channel for evading disclosure of the donors’ identities and is acutely controversial.</p>
+<p>&#8230;</p>
+<p>We are dismayed to find that at some point between January and July 8, 2012, the FEC deleted a whole set of contributions totaling millions of dollars made during the 2007-2008 election cycle.</p></blockquote>
+<p>Update:  <a href="http://www.nakedcapitalism.com/2012/07/why-were-millions-in-heavy-hitter-donations-in-2007-8-scrubbed-from-the-federal-elections-commission-database.html" target="_blank">Yves Smith</a> posts on the FEC.</p>
+<p><a name="more"></a></p>
+<p>&#8230;<br />
+<blockquote><i>Thomas Ferguson is professor of political science at the University of Massachusetts, Boston, senior fellow at the Roosevelt Institute and a contributing editor at AlterNet. His books include &#8216;Golden Rule: The Investment Theory of Party Competition and the Logic of Money-Driven Political Systems&#8217; and &#8216;Right Turn: The Decline of Democrats and the Future of American Politics.&#8217; Paul Jorgensen is a fellow at the Edmond J. Safra Center for Ethics at Harvard University. Jie Chen is university statistician at the University of Massachusetts, Boston.</i></p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/07/959.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

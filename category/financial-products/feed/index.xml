@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>financial products &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Markets and Liquidity, Part 1 of Many</title>
+		<link>./../../2010/10/markets-and-liquidity-part-1-of-many.html</link>
+		<comments>./../../2010/10/markets-and-liquidity-part-1-of-many.html#respond</comments>
+		<pubDate>Tue, 12 Oct 2010 19:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[SettlementandClearance]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/markets-and-liquidity-part-1-of-many.html</guid>
+		<description><![CDATA[I&#8217;ve been working on White Paper on Liquidity and the idea of a &#8220;market,&#8221; and plan to post some pieces of it here over the next week or so. But this is too good to pass up, and I&#8217;m late to the game as is. On 15 September, the CFTC and the SEC held a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been working on White Paper on Liquidity and the idea of a &#8220;market,&#8221; and plan to post some pieces of it here over the next week or so.</p>
+<p>But this is too good to pass up, and I&#8217;m late to the game as is.</p>
+<p>On 15 September, the CFTC and the SEC held a joint &#8220;public roundtable discussion&#8221; on Swap Execution Facilities (SEFs).  Part 1 is <a href="http://www.sec.gov/news/openmeetings/2010/jac091510-panel1.asx">here</a>, Part 2 <a href="http://www.sec.gov/news/openmeetings/2010/jac091510-panel2.asx">here</a>.</p>
+<p>What is most amazing, if you didn&#8217;t pay attention to the markets, is how few actual transactions occur in the &#8220;derivatives market&#8221;—at least according to people who work in the Industry and are discussants.</p>
+<p>Take, for example, the Credit Swaps Market. According to ISDA, the <a href="http://www.bloomberg.com/apps/news?sid=a4AtVMqwawtc&#038;pid=newsarchive">Credit Default Swaps Market in 2009 declined to $38.6 trillion</a>; that&#8217;s $38,600,000,000,000, give or take forty or fifty billion.<br /><a name="more"></a></p>
+<p>Sounds like a lot, no? Strangely, there&#8217;s virtually no liquidity associated with that $38.6T. According to the testimony in Part 1, the most frequently traded CDS—GE, presumably because they bring good things to life (or at least have DoD contracts)—trades around 15 times a day.  That might be impressive for a penny stock, but it&#8217;s not exactly the type of thing that makes you think &#8220;Wow, that&#8217;s a market!&#8221;</p>
+<p>The implications are clear: the bid-offer will be wide (think FX rates from your local bank, or gold prices from <a href="http://www.ritholtz.com/blog/2010/07/glenn-beck-goldline/">Goldline</a>), the loss when one tries to get out of the trade makes &#8220;driving a new car off the lot&#8221; look like a blip, and any dispute will be resolved against your favor.</p>
+<p>In short, there is—and should be—very little retail demand for these products, for very good reason.  Paul Volcker&#8217;s description of <a href="http://blogs.wsj.com/marketbeat/2009/12/08/volcker-praises-the-atm-blasts-finance-execs-experts/">the ATM as the only financial innovation in the past 25 years that helped people</a> has never seemed so true.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/markets-and-liquidity-part-1-of-many.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interlude / Self-Indulgent Advt</title>
+		<link>./../../2010/08/interlude-self-indulgent-advt.html</link>
+		<comments>./../../2010/08/interlude-self-indulgent-advt.html#respond</comments>
+		<pubDate>Tue, 10 Aug 2010 17:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[consumer protection]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[financial reform]]></category>
+		<category><![CDATA[regulation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/08/interlude-self-indulgent-advt.html</guid>
+		<description><![CDATA[I want one of these positions: The Office of Complex Financial Institutions (which the agency has assigned the acronym CFI) &#8220;will perform continuous review and oversight of bank holding companies with more than $100 billion in assets as well as non-bank financial companies designated as systemically important by the new Financial Stability Oversight Council,&#8221; the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I <a href="http://blogs.wsj.com/economics/2010/08/10/fdic-adds-two-new-divisions-to-gear-up-for-dodd-frank-act/">want one of these positions</a>:<br />
+<blockquote>The Office of Complex Financial Institutions (which the agency has assigned the acronym CFI) &#8220;will perform continuous review and oversight of bank holding companies with more than $100 billion in assets as well as non-bank financial companies designated as systemically important by the new Financial Stability Oversight Council,&#8221; the FDIC said. This division will also be in charge of using the FDIC’s new liquidation powers over &#8220;bank holding companies and non-bank financial companies that fail.&#8221;</p></blockquote>
+<p>If one because it will make me feel less guilty about turning down an opportunity at <a href="http://www.ft.com/cms/s/0/efcdac7e-a0ea-11df-badd-00144feabdc0.html">Fannie Mae</a> earlier this summer.</p>
+<p><a href="http://reddit.com/submit"> <img src="http://reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/08/interlude-self-indulgent-advt.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Draining liquidity from the banking system</title>
+		<link>./../../2009/10/draining-liquidity-from-the-banking-system.html</link>
+		<comments>./../../2009/10/draining-liquidity-from-the-banking-system.html#respond</comments>
+		<pubDate>Sat, 03 Oct 2009 09:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[financial products]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[monetary policy]]></category>
+		<category><![CDATA[multiplier]]></category>
+		<category><![CDATA[TAF]]></category>
+		<category><![CDATA[TARP]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/10/draining-liquidity-from-the-banking-system.html</guid>
+		<description><![CDATA[by Rebecca(cross posted at Newsneconomics) Prof. Jim Hamilton at Econbrowser (thanks Mark Thoma for the link) addresses one of the Fed’s standard methods of draining liquidity from the banking system: reverse repurchase agreements. Basically, the Fed will transfer some of its assets to the banking system via short-term loans taken out with its Primary Dealers, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Rebecca<br />(cross posted at Newsneconomics)</p>
+<p>Prof. Jim Hamilton at <a href="http://www.econbrowser.com/archives/2009/09/federal_reserve_2.html" target="_blank">Econbrowser</a> (thanks <a href="http://economistsview.typepad.com/economistsview/2009/09/links-for-2009-09-27.html" target="_blank">Mark Thoma</a> for the link) addresses one of the Fed’s standard methods of draining liquidity from the banking system: reverse repurchase agreements. Basically, the Fed will transfer some of its assets to the banking system via short-term loans taken out with its Primary Dealers, presumably offering standard (Treasuries) and less standard (MBS or agency bonds) assets as collateral.</p>
+<p>Reverse repurchase agreements simply slosh around the assets (MBS, agencies, and Treasuries) between the Fed and the Primary Dealers, rather than removing the assets from the Fed’s balance sheet permanently. Eventually, though, the Fed must sell the securities outright onto the open market – we are far, far from that!</p>
+<p>This is all hot air for now. How can the Fed soak up the expansionary liquidity, let alone unwind $1 trillion in assets, when the banking system is still shedding pounds?</p>
+<p>The Fed is considering another route, too: conducting the same repurchase agreements with the money-market mutual fund industry in tandem. An excerpt from <a href="http://www.ft.com/cms/s/0/e313ceb8-a885-11de-9242-00144feabdc0.html" target="_blank">the FT</a>:</p>
+<p>The Federal Reserve is looking to team up with the money-market mutual fund industry as part of its strategy to ensure that its unconventional policies to stimulate the economy do not produce a bout of post-crisis inflation.</p>
+<p>The central bank envisages eventually draining liquidity from the financial system by engaging in trades called “reverse repos” with the deep-pocketed money-market funds. In these, the Fed would pledge mortgage-backed securities and Treasuries acquired during the crisis as collateral for short-term loans from the funds.</p>
+<p>The obvious counterparties for reverse repo deals are the Wall Street primary dealers. However, the Fed thinks they would only have balance sheet capacity to refinance about $100bn of assets. By contrast, the money-market funds have $2,500bn in assets, which means they could plausibly refinance as much as $500bn in Fed assets. Officials think there would be appetite on the part of the funds, which are under pressure from regulators and investors to stick to low-risk liquid investments.</p>
+<p>The Fed is solely attempting to assuage inflation angst at this time; it’s still very premature to talk about an exit of expansionary policies when credit markets still crimp the stimulus that the Fed so desperately wants to get into the open market (much of the base, roughly <a href="http://federalreserve.gov/releases/h3/current/h3.html" target="_blank">$855 billion on September 23</a>, 2009 and up from $2 billion in August 2008, remains on balance with the Fed in the form of “excess reserves). Just look at the crunch in the consumer credit space (chart to left).
+<div><a href="http://3.bp.blogspot.com/_RPTAaOI4RN8/SsXreKwHmDI/AAAAAAAAAmY/u8i_Ftm_3Aw/s1600-h/consumer_credit_chart.PNG" imageanchor="1"><img border="0" src="http://3.bp.blogspot.com/_RPTAaOI4RN8/SsXreKwHmDI/AAAAAAAAAmY/u8i_Ftm_3Aw/s400/consumer_credit_chart.PNG"></a></div>
+<p>As <a href="http://www.econbrowser.com/archives/2009/09/federal_reserve_2.html" target="_blank">Prof. Hamilton suggests</a>, the mechanisms of the reverse repos should successfully sterilize the base before it starts to become inflationary (with either the Primary Dealers and/or the Mutual Funds industry). However, one of the programs through which the Fed utilized previously to sterilize its liquidity, and to which Prof. Hamilton refers, – the Supplementary Financing Program – is unlikely to be an avenue for removing liquidity.</p>
+<p>In fact, it’s quite the opposite. The Treasury already announced its imminent plan to liquidate the bulk of its $200 billion account with the Fed. There’s another $200 billion in excess reserves with which the Fed must contend (see <a target="_blank" href="http://www.newsneconomics.com/2009/09/1-trillion-in-excess-reserves-on.html">my previous post here</a>).</p>
+<p>It’s easy to get the liquidity into the financial system. But getting it out without collapsing the economy or allowing inflation pressures to build? Well, that’s a different story.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/10/draining-liquidity-from-the-banking-system.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>This Makes More Sense&#8211;or Does It?</title>
+		<link>./../../2009/03/this-makes-more-sense-or-does-it.html</link>
+		<comments>./../../2009/03/this-makes-more-sense-or-does-it.html#respond</comments>
+		<pubDate>Mon, 02 Mar 2009 02:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[financial crisis]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[TAF]]></category>
+		<category><![CDATA[TARP]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/03/this-makes-more-sense-or-does-it.html</guid>
+		<description><![CDATA[Dr. Black (you know the site) links to AIG Strike Three. And unlike the Citi debacle previously discussed (relatively) positively and rather negatively here, this one makes some form of sense. The difference comes down to the meaning of an accounting concept: ongoing concern. More below the break (yes, this might get wonkish. It&#8217;s me, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dr. Black (you know the site) links to <a target="_blank" href="http://www.nytimes.com/reuters/2009/03/01/business/business-us-aig.html?pagewanted=print">AIG Strike Three</a>.  And unlike the Citi debacle previously discussed <a target="_blank" href="http://angrybear.blogspot.com/2009/02/treasury-and-citi.html">(relatively) positively</a> and <a target="_blank" href="http://angrybear.blogspot.com/2009/02/can-we-stop-pretending-nationalisation.html">rather negatively</a> here, this one makes some form of sense.</p>
+<p>The difference comes down to the meaning of an accounting concept: ongoing concern.</p>
+<p>More below the break (yes, this might get wonkish. It&#8217;s me, after all.)</p>
+<p>The Big C and AIG are both large entities with several pieces.  Some of those pieces are successful; some of them are <a target="_blank" href="http://angrybear.blogspot.com/2008/12/wapo-on-aig.html">AIG</a> <a target="_blank" href="http://angrybear.blogspot.com/2008/12/aig-in-wapo-ii.html">Financial</a> <a target="_blank" href="http://angrybear.blogspot.com/2008/12/wapo-on-aig-iii.html">Products</a>. Some of them—Citibank branches and office space, for instance—fall somewhere in between.</p>
+<p>What we do know is that it is currently not possible to slice and dice The Big C so that something would be left that would be an &#8220;ongoing concern.&#8221;  Those assets that are part of the company are dwarfed by the liabilities, and run <em>across</em> business lines.  It&#8217;s not as if you could just magically, say, sell Smith Barney, spinoff any remaining insurance business, and ritually execute Vikram Pandit and produce a working company from the remains.  At best, it&#8217;s a Good Start.  There&#8217;s a reason I refer to the company as The Big C: it&#8217;s in the lymph nodes, the brain, the lungs, and the brain.  You probably couldn&#8217;t even survive with &#8220;just&#8221; the Retail and Private Banking operations.</p>
+<p>Any auditor who releases The Big C&#8217;s next 10-Q and describes the firm as a(n) &#8220;(on)going concern&#8221;**—with the attendant implication that there is a functional business model there and that the firm can create the future unencumbered* cash flows to remain viable—should be barred from the accounting profession.</p>
+<p>AIG is different.  Think Enron: there are pieces of the business that are still viable (now, the insurance and re-insurance pieces; then, the power plants and transmission facilities), but they are dwarfed by the losses at AIGFP.  So there is a viable, separable business that is making pennies while the rest of the firm loses Benjamins.</p>
+<p>The difference is that there is a possible end in sight. AIG-Prime could go back to doing the things AIG knew how to do, and stay away from the things that made Hank Greenberg rich and pauperized U.S. taxpayers.***</p>
+<p>So, if we were to assume that a leaner, less mean AIG will come out of this, can we look at the plan changes and say they point toward a goal?</p>
+<p>Unlike The Big C, the answer is clearly &#8220;yes.&#8221;<br />
+<blockquote>Under the deal, the interest rate on AIG&#8217;s credit line from the government would be cut to match the three-month London Interbank Offered Rate (Libor), now about 1.26 percent, a source with direct knowledge of the matter said.</p></blockquote>
+<p>This is perfectly reasonable for the moment: AIG is a financial institution, the reconceived version will be a financial institution of respectable size and strength, and the current version has the strong support of the U.S. government, which can borrow well inside LIBOR.  While I suspect the final company will end up looking more like State Farm than Morgan Stanley, it&#8217;s not out of the question that it could borrow at LIBOR, which is approximately a AA rating level anyway—a perfectly reasonable assumption for the reconstitution of a formerly-AAA company with some carryover liabilities.<br />
+<blockquote>The additional equity commitment would give AIG the ability to issue preferred stock to the government later, the sources said.</p></blockquote>
+<p>This would presumably be the reverse of the deal with The Big C: &#8220;equity&#8221; for debt.  Again, a sign that regulators expect there to be a survivor/successor firm of the current mess.</p>
+<p>The most interesting quote in the piece is:<br />
+<blockquote>[Robert Haines, senior insurance analyst at CreditSights] said. &#8220;The counterparties on most of the book are (European) banks that would be hammered if the U.S. walked away.&#8221;</p></blockquote>
+<p>Note that Mr. Haines does not speak of AIG as an independent entity. Note also that, in supporting the AIGFP fiasco/deals, the U.S. can reduce the overall size of the bailout needed while ensuring that domestic entities retain full access to capital markets.  It doesn&#8217;t make anyone happy, but the option is worth keeping open.</p>
+<p>Then we get to the meat of the deal:<br />
+<blockquote>AIG will also give the U.S. Federal Reserve a preferred interest in its American Life Insurance Co (Alico), which generates more than half of its revenue from Japan, and Hong Kong-based life insurance group American International Assurance Co (AIA) in return for reducing its debt, they said.</p></blockquote>
+<p>The U.S. doesn&#8217;t really want to own either of these, but they have a promise to be valuable assets.<br />
+<blockquote>The government likely will get a 5 percent cumulative dividend on its ownership stake in Alico and AIA, said one source. AIG had been trying to sell Alico and part of AIA in a bid to raise money to pay back the government.</p>
+<p>Sales of these assets are still a possibility, with some bids already received, said one person. [italics mine]</p></blockquote>
+<p>Think very carefully about the italicized part above.  Markets clear—but they don&#8217;t always flow well.  Combining the two, it appears that the government is effectively giving AIG a bridge loan on those two entities.  In the worst case, it will become a &#8220;pier loan&#8221; (h/t <a href="http://www.google.ca/search?hl=en&#038;as_qdr=all&#038;q=%22pier+loans%22+site%3Acalculatedrisk.blogspot.com&#038;btnG=Search&#038;meta=">CR</a>), but that&#8217;s not the way to bet, especially if others follow <a href="http://www.csmonitor.com/2009/0220/p25s19-wosc.html">the Chinese model of buying international assets while they are cheaper</a>.</p>
+<p>The rest of the moves look as if the outlines of the new company are already falling into place:<br />
+<blockquote>AIG may also securitize some U.S. life insurance policies and give them to the government to further reduce its debt, the source said.</p>
+<p>The company may securitize up to $10 billion under that plan, one of the sources said.</p>
+<p>The debt-to-equity swap would help AIG repay much of the roughly $38 billion it has drawn from its government credit line, the source said.</p></blockquote>
+<p>Translation: we know this business, and can do it well and continue it.<br />
+<blockquote>Last year, AIG said it planned to sell all assets except its U.S. property and casualty business, foreign general insurance and an ownership interest in some foreign life operations, to pay back the government.</p>
+<p>While the company has announced some sales, it has found it difficult to find buyers and get a good price for assets amid the financial crisis.</p></blockquote>
+<p>Translation, again: if the market ever comes back, this is what we plan to look like. And we will again be a &#8220;going concern.&#8221;</p>
+<p>In short, unlike The Big C, there is a plan, there are moves afoot to move closer to the end game, and targets by which they plan to keep the viable parts of the business going. For instance,<br />
+<blockquote>The company now plans to spin off up to 20 percent of the property-casualty business in an initial public offering, said a person with direct knowledge of the plans.</p>
+<p>The business would be renamed to differentiate it from AIG, and have its own board of directors.</p></blockquote>
+<p>So long as that board doesn&#8217;t include Hank Greenberg, I&#8217;ll be cautiously optimistic. The other piece of spinoff is more problematic:<br />
+<blockquote>To aid the auction of at least one major asset, the government could help potential buyers of aircraft lessor International Lease Finance Corp with financing, the sources said.</p>
+<p>ILFC has some debt coming due in 2009 and, if needed, AIG could use its new equity commitment to help potential buyers with that, one of the sources said.</p></blockquote>
+<p>This is a piece that probably still needs to exist for non-business reasons, at which point we might be able to argue that there could be a Public Good in government support of its sale.  Under any condition, it doesn&#8217;t fit into the trimmed-down model of AIG-Prime that appears to be envisioned.</p>
+<p>None of this means there won&#8217;t be another round—asset sales are very dependent on buyers—or that they should be paying non-contractual bonuses this month (which they are).  The company still needs to reach its full restructuring, and this is not exactly a prime time to be a seller in the marketplace.  But at least this restructuring/new bailout has a clear Endgame in sight.</p>
+<p>*I use &#8220;unencumbered&#8221; in place of the usual &#8220;free&#8221; for the sake of clarity.<br />**It appears that &#8220;Ongoing concern&#8221; is used in the U.K., &#8220;going concern&#8221; in the U.S.  I won&#8217;t pretend to know which will be the standard as accounting standards are <s>weakened</s> standardized.<br />***This is, of course, another case where I will point to the results and ask how anyone can take &#8220;we&#8217;ll get 2/3s of the money back&#8221; seriously.  But that dead horse has been soundly beaten for the moment, so I&#8217;ll leave the tanning of the hide to <a href="http://www.nakedcapitalism.com/">Yves</a> (She likes the new deal <a target="_blank" href="http://www.nakedcapitalism.com/2009/03/black-hole-alert-aig-to-get-as-much-as.html"><em>a lot</em> less</a> than I do) and <a target="_blank" href="http://paul.kedrosky.com/">Paul</a> (who hasn&#8217;t discussed it yet, since he&#8217;s still <a target="_blank" href="http://paul.kedrosky.com/archives/2009/03/01/first_we_kill_a_1.html">rewriting 2 Henry VI</a> and checking out <a target="_blank" href="http://www.nytimes.com/2009/02/28/opinion/28tedesco.html?_r=1&#038;em=&#038;pagewanted=print">The Great Solvent North</a>) and the rest.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/03/this-makes-more-sense-or-does-it.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WAPO on AIG III</title>
+		<link>./../../2008/12/wapo-on-aig-iii.html</link>
+		<comments>./../../2008/12/wapo-on-aig-iii.html#respond</comments>
+		<pubDate>Wed, 31 Dec 2008 06:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/wapo-on-aig-iii.html</guid>
+		<description><![CDATA[Robert Waldmann ended my last post 5 minutes ago wishing for part III of the saga and here it is !The final act for AIG by Robert O&#8217;Harrow Jr. and Brady Dennis The collapse was, of course, quick when it came. One interesting fact is that AIG Financial Products (AIGFP) stopped writing new CDSs in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann </p>
+<p>ended my last post 5 minutes ago wishing for part III of the saga and here it is !<br /><a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/12/30/AR2008123003431.html?hpid=topnews">The final act for AIG by  Robert O&#8217;Harrow Jr. and Brady Dennis</a></p>
+<p>The collapse was, of course, quick when it came.  One interesting fact is that AIG Financial Products (AIGFP) stopped writing new CDSs in 2005.  Another is that, until then, they had little idea what they were doing.</p>
+<blockquote><p>In fall 2005, Eugene Park was asked to take over Alan Frost&#8217;s responsibilities at Financial Products. Frost had done exceedingly well in marketing the credit-default swaps to Wall Street, and was getting a promotion. He would now report to Cassano directly on other strategic projects.</p>
+<p>Park &#8230;was worried about the subprime component of the CDO market. He had examined the annual report of a company involved in the subprime business. He was stunned, he told his colleagues at the time.</p></blockquote>
+<p>What a fascinating new idea &#8212; how about examining the annual report of a firm whose securities one insures.  I mean not all of them (what a bore) but just one.  </p>
+<p>From this passage it seems that AIGFP just assumed that mortgages were what they had been in the past.  I mean it&#8217;s not their problem.  The non bank mortgage lenders were loaning all they could, because they figured they could pass on the risk (well sometimes risk sometimes certainty of default) to people making CDOs who could pass it on to people buying CDOs who could pass it on to AIGFP which doesn&#8217;t seem to have wondered what they were insuring.</p>
+<p>I give you a hint.  If you tell the world that you are glad to bear all of some vaguely defined kind of risk, then it will get riskier.</p>
+<p>AIG was a major factor in the market: </p>
+<blockquote><p>Financial Products had $2.7 trillion worth of swap contracts and positions; 50,000 outstanding trades; 2,000 firms involved on the other side of those trades; and 450 employees in six offices around the world.</p></blockquote>
+<p>That&#8217;s $ 6 billion in exposure per employee!</p>
+<p>Obviously AIGFP had decided that to write CDSs on AAA rated securities was to get money for nothing.  They couldn&#8217;t possibly examine the securities they were insuring.  Notice how Frost&#8217;s role was described: &#8220;Frost had done exceedingly well in marketing the credit-default swaps to Wall Street.&#8221;  You can do very well at selling something if you are charging too low a price.</p>
+<p>I guess they can blame the credit rating agencies.  In fact they do, but not for rating toxic sludge AAA but for rating them AA.  The final words &#8220;There was no system in place to account for the fact that the company might not be a Triple A forever.&#8221;</p>
+<p>In fact AIG hasn&#8217;t paid out on CDSs, they ran $150 billion short of ready cash, because they had to post collateral: &#8216;If additional downgrades occurred, either in AIG&#8217;s credit rating or in the CDO ratings, Financial Products would have to come up with tens of billions of dollars in collateral it did not have.&#8217;</p>
+<p>AIG was downgraded from AAA to AA when Eliot &#8220;socks on&#8221; Spitzer caught him cooking the books.  </p>
+<blockquote><p>On March 14, 2005, Greenberg stepped down amid allegations about his involvement in a questionable deal and accounting practices at AIG. The next day, the Fitch Ratings service downgraded AIG&#8217;s credit rating to AA. The two other major rating services, Moody&#8217;s and Standard &#038; Poor&#8217;s, soon followed suit.</p></blockquote>
+<p>I guess that explains why he didn&#8217;t go after anyone with a pitchfork.</p>
+<p>Back to my usual anti CDS rant after the jump.</p>
+<p>I&#8217;d say that was crazy.  Given AIGs exposure they shouldn&#8217;t have been rated AA.  I ask for the nth time, what is the point of a CDS ?  Why can&#8217;t AIG issue AIG bonds and use the proceeds to buy assets rather than insuring them ?  I think it is clear. If AIG had issued 3 trillion in debt they wouldn&#8217;t be rated AA.   CDSs written appear on the balance sheet at market value.  This is nonsense.  In the long run, the two actions (write a CDS on assets or sell debt and buy those assets) have the same impact on AIG&#8217;s book equity, in the short run the only difference is that AIG can be forced to post collateral (which can be seized in full even if it is in chapter 11 and mere bond-holders have to wait and get cents on the dollar) if it writes CDSs.  </p>
+<p>I think that it is strictly better for bondholders if AIG issues debt and buys assets than if it insures those assets (I am considering the premia paid on CDSs).  I think the only reason to do it with CDSs is to trick regulators and ratings agencies about AIGs liabilities. </p>
+<p>On a basically different topic, I cut some boring stuff out of one of my posts and put it here.</p>
+<p>Now I think it is fairly likely that, if they they had stuck to CDSs on corporate bonds, AIGFP would have done very well just as they would have done issuing AAA bonds of their own and buying AA bonds.</p>
+<p>My guess is that, at first, the money was there to be made because of excessively prudent rules and regulations.  It is also there, because prudential regulations do not consider covariances so a diversified pool of AAA bonds is treated as if it is as risky as one AAA bond.  This is necessary as there was no covariance rating agency which was worthy of the trust earned by the credit rating agencies.  Thus the only variable which was independently estimated with some reliability (back then in 1998) was the risk of default of a single instrument.  </p>
+<p>My current view is that this would be a reasonable approach to prudential regulation if there weren&#8217;t firms like AIG financial products.  The entities subject to the rules and regulations are large enough that they can diversify their portfolio at a very modest cost.  They don&#8217;t bear risk for the fun of it.  It is safe to assume that they will diversify without being specifically required to do so &#8230; unless there is a financial engineering industry which sets up special purpose entities with diversified portfolios and issues single securities whose ratings are high because of that diversification.  This means that the diversification (by the SPE) suddenly relaxes the prudential requirement.  </p>
+<p>By pre-diversifying the financial engineers reduce the further reduction in risk available from diversification.  The limiting case would be reached if all securities were put in a huge pool which was cut into tranches.  At that point, the risk of default on any portfolio of, say all existing AA securities would be as high as the risk of default on a single security, because there would only be one AA security.  Thus for the same prudential regulations, banks would be allowed to bear much more risk.  </p>
+<p>This is not socially useful.  If prudential regulations are optimally adjusted to take into account the increased correlation of different assets, then nothing is accomplished.  Otherwise the regulations are effectively changed by agents who can pocket the expected value of future public bailouts.  </p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/wapo-on-aig-iii.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AIG in WAPO II</title>
+		<link>./../../2008/12/aig-in-wapo-ii.html</link>
+		<comments>./../../2008/12/aig-in-wapo-ii.html#respond</comments>
+		<pubDate>Wed, 31 Dec 2008 05:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/aig-in-wapo-ii.html</guid>
+		<description><![CDATA[Robert Waldmann The second of three parts of Dennis and O&#8217;Harrow&#8217;s series on the downfall of AIG introduces two new features—credit default saps and Joseph Cassano. Together the two managed to bring down AIG. Thus far we have only read about how AIG got into the business of writing CDSs &#8212; it seemed too good [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>The second of three parts of Dennis and O&#8217;Harrow&#8217;s series on the downfall of AIG introduces two new features—credit default saps and Joseph Cassano.  Together the two managed to bring down AIG.</p>
+<p>Thus far we have only read about how AIG got into the business of writing CDSs &#8212; it seemed too good to be true &#8212; money for nothing.  My guess is that the first ones they wrote did amount to money for almost nothing.  However such opportunities are few and if one considers one year&#8217;s money for nothing as the minimum acceptable profits for next year you will end up getting money for a while for destroying the world&#8217;s largest insurance company.</p>
+<p>To me the interesting part is how they got into the CDS market</p>
+<blockquote><p>in early 1998: &#8230;</p>
+<p>&#8230; a new kind of contract known as a credit-default swap. For a fee, the firm essentially would insure a company&#8217;s corporate debt in case of default. The model showed that these swaps could be a moneymaker for the decade-old firm and its parent, insurance giant AIG, with a 99.85 percent chance of never having to pay out.</p>
+<p>The computer model was based on years of historical data about the ups and downs of corporate debt, essentially the bonds that corporations sell to finance their operations.</p></blockquote>
+<p>My guess is that the model was right and that returns on writing (less than 10 year) CDSs on corporate debt were huge while the risk was nothing that AIG couldn&#8217;t handle.  This profit opportunity could exist because of binding prudential regulations &#8212; banks worried about capital requirements and managers of endowments and pension funds with rules requiring much of their assets to be AAA corporate debt or safer would be willing to pay much more than the actuarially fair premium for a CDS on, say,  AA debt.   Given the correlation of default on different AA bonds, writing CDS on a broad array of them is essentially money for nothing. The most likely value for payouts is zero and the expected value plus, say, 10 standard deviations would be less than the fees.</p>
+<p>I have bolded the two factors which convince me that the model might have been reasonable when it was written.  First this was corporate debt not new financial products so the ratings were based on decades of experience and not on, say, the assumption that the probability of a nationwide average house price decline is zero (an actual assumption made by Standard and Poor&#8217;s really).  Second, I sure hope the &#8220;years&#8221; also amounted to decades including recessions and such.  The use of sample frequencies to estimate probabilities is always risky, but if the sample size is a few years during an unprecedented house price boom, it is insane.  </p>
+<p>The problem is that once one has gotten money for nothing it is very hard to convince oneself that there is no more to be had.  </p>
+<p>The aim of this article seems to be to describe Hubris* &#8212; the pride that came before a fall.  This is an old theme in drama &#8212; the oldest.  I always read about it when I read stories of financial collapses.  I suspect that it might be added, because it makes a morality play out of math.  I suppose it might often be relevant because of human nature.  However, I also think it is particularly relevant to finance.</p>
+<p>The efficient markets hypothesis (adjusted for inflation) says you don&#8217;t find hundred dollar bills on the sidewalk.  It is false.  However, you don&#8217;t find a hundred dollar bill on the same concrete square day after day.  It is possible for financial operators to find an anomaly and make a huge profit with moderate risk.  At best they can find two or three.  There don&#8217;t seem to be many of those who don&#8217;t conclude that they are geniuses who can find such profit opportunities year after year.  A shining exception is <a href="http://www.guardian.co.uk/business/2008/oct/18/banking-useconomy">Andrew Lahde</a> who made a killing and cashed in.  However, he isn&#8217;t in the business anymore.  </p>
+<p>I don&#8217;t see a solution to this problem.  You have to put up either with people who think they are geniuses, because they have been very successful or who have something to prove.  In particular, I think the replacement of Tom Savage by Joseph Cassano may have been very costly for AIG (Savage really retired according to all accounts).  The huge profits made by Savage and Sosin (his predecessor) set a standard which Cassano was determined to surpass. It is very unwise to employ someone who considers finding hundred dollar bills on the sidewalk to be barely adequate.</p>
+<p>It is also interesting that Cassano is not a quant: </p>
+<blockquote><p>A Brooklyn College graduate, the 42-year-old Cassano was not one of the &#8220;quants&#8221; who had mastered the quantitative analysis and risk assessment on which the firm had been built. He had no expertise in the art of hedging. But he had excelled in the world of accounting and credit &#8212; the &#8220;back office,&#8221; as it is known on Wall Street.</p></blockquote>
+<p>Now quants are clearly dangerous, but at least they know the silly assumptions they made when writing their models.  In particular they must understand the fact that quantitative models require parameter estimates which are definitely not reliable unless based on large amounts of data.  I don&#8217;t think someone who is good in the back office understands that estimates based on small samples are not just less precise but also have distributions which can&#8217;t be determined at all based on available data.</p>
+<p>Anyway, the third article in the series should be bloody.</p>
+<p>* I&#8217;m pretentious enough to use the word but I won&#8217;t spell it correctly <a href="http://www.google.com/search?hl=en&#038;as_q=hybris&#038;as_epq=&#038;as_oq=&#038;as_eq=&#038;num=10&#038;lr=&#038;as_filetype=&#038;ft=i&#038;as_sitesearch=http%3A%2F%2Fdelong.typepad.com%2Fsdj%2F&#038;as_qdr=all&#038;as_rights=&#038;as_occt=any&#038;cr=&#038;as_nlo=&#038;as_nhi=&#038;safe=images">as Brad does</a>.</p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/aig-in-wapo-ii.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WAPO on AIG</title>
+		<link>./../../2008/12/wapo-on-aig.html</link>
+		<comments>./../../2008/12/wapo-on-aig.html#respond</comments>
+		<pubDate>Tue, 30 Dec 2008 04:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[AIG]]></category>
+		<category><![CDATA[credit risk]]></category>
+		<category><![CDATA[credit swaps]]></category>
+		<category><![CDATA[financial products]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/12/wapo-on-aig.html</guid>
+		<description><![CDATA[Robert Waldmann Over at the Washington Post, Robert O&#8217;Harrow Jr. and Brady Dennis have a fairly interesting first of 3 articles on what went wrong at AIG. Of course, they tend to stress personalities and personal conflicts, but they do slip in some good points about economics. I&#8217;d say the key bit was that AIG [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Over at the Washington Post, Robert O&#8217;Harrow Jr. and Brady Dennis have a fairly interesting first of 3 articles on what went wrong at AIG.  Of course, they tend to stress personalities and personal conflicts, but they do slip in some good points about economics.</p>
+<p>I&#8217;d say the key bit was that AIG made a deal and only later noticed that they had made a suboptimal choice of incentive structures.</p>
+<blockquote><p>Under the joint-venture agreement, Financial Products received its profits upfront, even if the transactions took 30 years to play out. AIG would be on the hook if something went wrong down the road, not Sosin and his team, who took their pay immediately. </p></blockquote>
+<p>Could that cause problems ?  Naaahh no way efficient markets imply that short term profits are just like long term profits (impossible).</p>
+<p>The rest of my thoughts on the first third of the long sad story comes after the jump.</p>
+<blockquote><p>Greenberg was proud and protective of his company&#8217;s AAA credit rating, one of only a handful in the world.</p>
+<p>The AAA, awarded after an examination by the bond-rating firms, sent a resounding signal to clients that they could always sleep well at night, that AIG was in no danger of failing. The more secure a company, the more cheaply it could borrow money &#8212; a fact that would be pivotal to Financial Products&#8217; success.  </p></blockquote>
+<p>This is, I think, a large part of the problem right there.  An AAA rating is very valuable and any firm well into AAA territory has unused credibility which can be sold by borrowing at AAA rates and buying risky assets.  The rating was just worth too much to leave sitting there, so it was destroyed.</p>
+<blockquote><p>Sosin and Rackson hoped that everyone would get rich, but they had their sights set on something more. They wanted to tear down walls they saw as impediments to innovation, the &#8220;fiefdoms&#8221; that were standard practice at other Wall Street firms. Their vision required a collaborative culture and a computer system that no one else had. For six months, the group worked on constructing &#8220;the position analysis and storage system,&#8221; or PASS. They called it simply &#8220;the system.&#8221;</p>
+<p>It enabled Financial Products to bring a rare discipline to complex trades. By maintaining market, accounting and transaction details in one place, Sosin (Howard Sosin founder of &#8220;Financial products&#8221;which was a joint venture with AIG and eventually brought the firm down) and his people could track the constantly changing value of a trade&#8217;s components in a way no other firm could. </p></blockquote>
+<p>The advantages of this approach are clear &#8212; only by keeping track of such data in one place can a firm estimate the risk of its portfolio.  The (by then long obsolete) very old approach effectively valued assets based on their own risk not their firm portfolio betal.  However, the disadvantage should also be clear.  An accounting &#8220;Fiefdom&#8221; mgiht also be called keeping the accountants independent from the traders.  The unification elminates oversight.  I can see how a trader might trust himself to manage risk too and consider separate departments a waste of resources.  I can also see how Greenberg might agree as explained by O&#8217;Hara and Denis&#8217;s version of the negotiations with Sosin on the joint venture (their quotation marks)</p>
+<blockquote><p>Greenberg had little extra time for the nuts-and-bolts details that Sosin sought to negotiate. &#8220;I don&#8217;t really know much about this,&#8221; he told Matthews. &#8220;You go talk to these people.&#8221;</p></blockquote>
+<p>Greenberg did notice that he had a problem</p>
+<blockquote><p>Greenberg&#8217;s love of his joint venture&#8217;s revenue could not overcome his desire for greater control. He chafed at the deal, worrying that he had given Sosin too much freedom.</p>
+<p>One detail in particular nagged at Greenberg. Under the joint-venture agreement, Financial Products received its profits upfront, even if the transactions took 30 years to play out. AIG would be on the hook if something went wrong down the road, not Sosin and his team, who took their pay immediately. </p></blockquote>
+<p>Ooops.   This is just dumb dumb dumb.  If the managers of &#8220;Financial Products&#8221; understand that the gap in the market which they discovered and monopolized is now full of competitors *and* see a bubble coming, the sharp thing to do is to ride the bubble getting short term profits safely in the bank.  Paying based Mark to market profits is little better than paying on and mark to model (made up) profits.  I think this mistake requires the influence of market fundamentalists who assume that there can&#8217;t possibly be bubbles.  </p>
+<p>The full argument is that bubbles are against investors rational self interest, and if asset prices are largely determined by delegated managers like Sosin, then contracts must have been written to align their interests with, in this case, AIGs shareholders so there is no need to worry that incentive contract encourage money managers to buy into bubbles because bubbles can&#8217;t exists because &#8230; Ah yes the argument is clearly circular nonsense.  </p>
+<p>So Greenberg broke with Sosin (who stopped being a genius when he didn&#8217;t have access to an AAA rating) and solved the problem by handling financial products (minus a 150 million golden parachute also). </p>
+<blockquote><p>Savage, a 44-year-old Midwestern math whiz, had just been named the new president of Financial Products. With the honor came explicit expectations, which Greenberg made clear: &#8220;You guys up at FP ever do anything to my Triple A rating, and I&#8217;m coming after you with a pitchfork.&#8221;</p></blockquote>
+<p>My advice ?  Buy pitchfork futures.  </p>
+<p>&#8220;With a PhD from Claremont Graduate University in California, Savage&#8221;</p>
+<blockquote><p>Greenberg also wanted to change the way Financial Products&#8217; employees divvied up its share of the profits. Under the previous arrangement, Sosin and his crew had the right to book immediate profits on the long-term deals. Greenberg thought there was a powerful incentive to go after millions of dollars in short-term gains while leaving AIG and its shareholders responsible for potential losses for years to come.</p>
+<p>Savage agreed with Greenberg that Financial Products employees should defer half of their compensation for several years, depending on the length of the deals being done </p></blockquote>
+<p>Problem solved. Instant access to merely 15% of booked profits on megadeals couldn&#8217;t distort anyone&#8217;s incentives.  I mean half of a gigantic conflict of interests is still a gigantic conflict of interests.  </p>
+<blockquote><p>Savage said. &#8220;Hank Greenberg&#8217;s a great man. And I&#8217;m willing, when I talk to him, to say, you know, I&#8217;m in the presence of a great man and that&#8217;s worth something.&#8221;</p></blockquote>
+<p>I don&#8217;t want to know how much dealing with such a great financial genius was worth to Savage.</p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/12/wapo-on-aig.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

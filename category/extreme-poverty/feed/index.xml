@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>extreme poverty &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Extreme Poverty Sets a New Record (Again)</title>
+		<link>./../../2012/06/extreme-poverty-sets-a-new-record-again.html</link>
+		<comments>./../../2012/06/extreme-poverty-sets-a-new-record-again.html#respond</comments>
+		<pubDate>Tue, 26 Jun 2012 01:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[extreme poverty]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/06/extreme-poverty-sets-a-new-record-again.html</guid>
+		<description><![CDATA[Thought this one might be interesting. Rdan (posted by Robert Waldmann / commentary after the jump) extreme poverty update update: I assume you have clicked the link. I&#8217;m not going to snip and paste the graph. Go there if you want to find out what I am talking about. The rate of extreme poverty (income [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Thought <a href="http://esoltas.blogspot.com/2012/06/recession-and-extreme-poverty.html">this</a> one might be interesting. <br />Rdan</p>
+<p>(posted by Robert Waldmann / commentary after the jump)</p>
+<p>extreme poverty update <a href="http://esoltas.blogspot.it/2012/06/poor-and-getting-poorer.html">update:</a></p>
+<p>I assume you have clicked the link.  I&#8217;m not going to snip and paste the graph. Go <a href="http://esoltas.blogspot.it/2012/06/recession-and-extreme-poverty.html">there</a> if you want to find out what I am talking about.</p>
+<p>The rate of extreme poverty (income less than half the poverty line also called &#8220;deep poverty&#8221; and &#8220;severe poverty&#8221;) set a new record in 2010 for <a href="http://www.angrybearblog.com/2010/09/all-time-record-level-of-severe-poverty.html">the second year in a row</a> (the record only goes back to 1975.  I don&#8217;t know why).</p>
+<p>I have three thoughts.  The first (as in my old post) is that there is clear evidence that AFDC (pre-reformed welfare) had an important effect on deep poverty.  Since the Welfare reform bill of 1996, the rate of deep poverty and not so deep but still pretty damn bad poverty (50 to 75% of the poverty line) have diverged.  Both declined in the late 90s boom (which convinced people with short attention spans and no understanding of omitted variable bias that welfare reform was a great success).  Since 2000 the increase in deep poverty dwarfs the increase in not so deep but still pretty damn bad poverty.</p>
+<p>Also note the late 70s.  This was a period of rapidly declining unemployment and high inflation.  AFDC benefits were not indexed to inflation &#8212; instead the dollar amount was adjusted by state legislatures or, quite often, wasn&#8217;t.  I think the divergence of the two rates which Soltas shows in the 1970s corresponds to real benefit levels in many states falling below half the poverty line.  I note before a commenter does that the change in the 70s is overstated as food stamp benefits, which are not counted in income for calculation of poverty rates, automatically increase as cash benefits decrease.  I note that the change due to the welfare reform bill of 1996 is, if anything, understated as the bill also included huge cuts to food stamps which accounted for much more of the forecast spending reduction than the change from AFDC to TANF.</p>
+<p>Finally get this &#8220;Evan Soltas is a student at Princeton University, where he intends to major in economics. &#8221;  The guy hasn&#8217;t even officially chosen his major (he looks about 16 in the photo) !</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/06/extreme-poverty-sets-a-new-record-again.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

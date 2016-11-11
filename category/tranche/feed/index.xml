@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tranche &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Why didn&#8217;t CDO purchasers just pool for themselves ?</title>
+		<link>./../../2009/09/why-didnt-cdo-purchasers-just-pool-for-themselves.html</link>
+		<comments>./../../2009/09/why-didnt-cdo-purchasers-just-pool-for-themselves.html#respond</comments>
+		<pubDate>Mon, 21 Sep 2009 22:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[asymmetrical information]]></category>
+		<category><![CDATA[Bank Crisis]]></category>
+		<category><![CDATA[CDO]]></category>
+		<category><![CDATA[tranche]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/09/why-didnt-cdo-purchasers-just-pool-for-themselves.html</guid>
+		<description><![CDATA[Robert Waldmann One brief question about structured finance and a possible answer. Why did investors need financial operators to make pools for them ? Now it is easier to make sense of financial intermediaries which pool than of those which pool and tranche. The obvious explanation is that an investor investing a small amount of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>One brief question about structured finance and a possible answer.  Why did investors need financial operators to make pools for them ?   Now it is easier to make sense of financial intermediaries which pool than of those which pool and tranche.  The obvious explanation is that an investor investing a small amount of money can&#8217;t buy a diversified portfolio without paying absurd amounts in odd lot fees.</p>
+<p>However, this doesn&#8217;t seem to fit the CDO market.  Correct me in comments if I&#8217;m wrong, but I thought the final investors were entities with a good bit of money to invest &#8212; pension funds, endowments, insurance companies etc.  Importantly one can achieve almost as good a risk return portfolio buying only assets in a randomly chosen subset of say 10% of all assets.  The variance of a portfolio is a sum of say the market variance plus &#8230; plus idiosyncratic variance on single assets.  So a term which can&#8217;t be diversified away plus stuff plus terms which are proportional to the inverse of the number of assets in the portfolio.</p>
+<p>I have an idea.  People investing other people&#8217;s money in fixed income instruments do not like to pool, because it is too easy ex post to find a better portfolio of fixed income instruments.  Some will default.  The principal is likely to note one bond that defaulted and ask the manager why he bought that bond not the similar one which didn&#8217;t default.  </p>
+<p>Letting someone else pool means you get an asset which pays a fairly high fairly safe return and those ugly but unimportant specific underlying assets which defaulted are hiden from the principal&#8217;s eyes.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/09/why-didnt-cdo-purchasers-just-pool-for-themselves.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

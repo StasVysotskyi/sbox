@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>transparency &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Benford&#8217;s Law and the Decreasing Reliability of Accounting Data&#034;</title>
+		<link>./../../2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html</link>
+		<comments>./../../2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html#respond</comments>
+		<pubDate>Wed, 12 Oct 2011 11:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accountability]]></category>
+		<category><![CDATA[accounting]]></category>
+		<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html</guid>
+		<description><![CDATA[H/t Mike Kimel Via Economist&#8217;s View This is from Jialan Wang: Benford&#8217;s Law and the Decreasing Reliability of Accounting Data for US Firms, by Jialan Wang: &#8230;[T]here are more numbers in the universe that begin with the digit 1 than 2, or 3, or 4, or 5, or 6, or 7, or 8, or 9. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>H/t <a target="_blank" href="http://presimetrics.com/"><strong>Mike Kimel</strong></a></p>
+<p>Via <a target="_blank" href="http://economistsview.typepad.com/economistsview/2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html">Economist&#8217;s View</a><br />
+<blockquote>
+<p>This is from Jialan Wang:</p>
+<blockquote><p><a href="http://econerdfood.blogspot.com/2011/10/benfords-law-and-decreasing-reliability.html">Benford&#8217;s Law and the Decreasing Reliability of Accounting Data for US Firms, by Jialan Wang</a>: &#8230;[T]here are more numbers in the universe that begin with the digit 1 than 2, or 3, or 4, or 5, or 6, or 7, or 8, or 9. And more numbers that begin with 2 than 3, or 4, and so on. This relationship holds for the lengths of rivers, the populations of cities, molecular weights of chemicals, and any number of other categories. &#8230;</p></blockquote>
+<blockquote><p>This numerical regularity is known as <a href="http://en.wikipedia.org/wiki/Benford%27s_law">Benford&#8217;s Law</a>, and specifically, it says that the probability of the first digit from a set of numbers is <em>d</em> is given by</p></blockquote>
+<p><a href="http://2.bp.blogspot.com/-_xOcIK7m3d8/TpJvRKlChhI/AAAAAAAAAzk/Mr6jme54lzc/s1600/eqn1.jpg"><img border="0" alt="" src="http://2.bp.blogspot.com/-_xOcIK7m3d8/TpJvRKlChhI/AAAAAAAAAzk/Mr6jme54lzc/s1600/eqn1.jpg"></a></p>
+<p> <a name="more"></a><br />
+<blockquote>In fact, Benford&#8217;s law has been used in legal cases to detect corporate fraud, because deviations from the law can indicate that a company&#8217;s books have been manipulated. Naturally, I was keen to see whether it applies to the large public firms that we commonly study in finance.</p></blockquote>
+<blockquote><p>downloaded quarterly accounting data for all firms in Compustat,&#8230; over 20,000 firms from SEC filings&#8230; (revenues, expenses, assets, liabilities, etc.).</p></blockquote>
+<blockquote><p>And lo, it works! Here are the distribution of first digits vs. Benford&#8217;s law&#8217;s prediction for total assets&#8230;</p></blockquote>
+<p><a href="http://3.bp.blogspot.com/-HT-hDx8Pkh0/TpJvSFIi6sI/AAAAAAAAAzw/Dmi8-wktQMQ/s1600/atq_dist.jpg"><img border="0" alt="" src="http://3.bp.blogspot.com/-HT-hDx8Pkh0/TpJvSFIi6sI/AAAAAAAAAzw/Dmi8-wktQMQ/s320/atq_dist.jpg" width="320" height="232"></a></p>
+<blockquote><p>Next, I looked at how adherence to Benford&#8217;s law changed over time, using a measure of the sum of squared deviations of the empirical density from the Benford&#8217;s prediction&#8230;</p></blockquote>
+<blockquote><p>Deviations from Benford&#8217;s law have increased substantially over time, such that today the empirical distribution of each digit is about 3 percentage points off from what Benford&#8217;s law would predict. The deviation increased sharply between 1982-1986 before leveling off, then zoomed up again from 1998 to 2002.  Notably, the deviation from Benford dropped off very slightly in 2003-2004 after the enactment of Sarbanes-Oxley accounting reform act in 2002, but this was very tiny and the deviation resumed its increase up to an all-time peak in 2009.</p></blockquote>
+<p><a href="http://2.bp.blogspot.com/-tl4Xwb1yWgY/TpJvRYB2YKI/AAAAAAAAAzo/JzfregzopWA/s1600/benf_year.jpg"><img border="0" alt="" src="http://2.bp.blogspot.com/-tl4Xwb1yWgY/TpJvRYB2YKI/AAAAAAAAAzo/JzfregzopWA/s400/benf_year.jpg" width="400" height="290"></a></p>
+<blockquote><p>So according to Benford&#8217;s law, accounting statements are getting less and less representative of what&#8217;s really going on inside of companies.The major reform that was passed after Enron and other major accounting standards barely made a dent.</p></blockquote>
+<blockquote><p>Next, I looked at Benford&#8217;s law for three industries: finance, information technology, and manufacturing. &#8230; [<a href="http://econerdfood.blogspot.com/2011/10/benfords-law-and-decreasing-reliability.html">shows graphs</a>] &#8230; While these time series don&#8217;t prove anything decisively, deviations from Benford&#8217;s law are compellingly correlated with known financial crises, bubbles, and fraud waves. And overall, the picture looks grim. Accounting data seem to be less and less related to the natural data-generating process that governs everything from rivers to molecules to cities. Since these data form the basis of most of our research in finance, Benford&#8217;s law casts serious doubt on the reliability of our results. And it&#8217;s just one more reason for investors to beware&#8230;.</p></blockquote>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Data Integrity Requires Personal Integrity and Vetting</title>
+		<link>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html</link>
+		<comments>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html#respond</comments>
+		<pubDate>Tue, 10 May 2011 15:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[analysis]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[Obama Administration]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/05/data-integrity-requires-personal-integrity-and-vetting.html</guid>
+		<description><![CDATA[Anyone who has ever worked with data knows that making certain the information is &#8220;clean&#8221; is much more important than what you do with it. Brilliant analysis of inaccurate data may make heroes (Chamley, Prescott, etc.), but it doesn&#8217;t make sensible policy. Witness the release of &#8220;public&#8221; data from the state of Texas. Jeremy once [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Anyone who has ever worked with data knows that making certain the information is &#8220;clean&#8221; is much more important than what you do with it.  Brilliant analysis of inaccurate data may make heroes (Chamley, Prescott, etc.), but it doesn&#8217;t make sensible policy. Witness the release of &#8220;public&#8221; data from the state of Texas.</p>
+<p><a href="http://scatter.wordpress.com/">Jeremy</a> once commented that the transition from a public to a private university was the choice between everyone knowing your earnings(public data) and everyone knowing your student reviews.</p>
+<p>What happens when (1) everyone knows your salary but (2) <a href="http://chronicle.com/article/U-of-Texas-Faculty-Fret-That/127450/">what they know isn&#8217;t true</a>:<br />
+<blockquote>&#8220;My salary on the spreadsheet is $30,000 higher than my annual contract salary,&#8221; a lecturer in the University of Texas system wrote in an e-mail message. He did not want to be named because of his status as a non-tenure-track employee. &#8220;Other details are correct, but the number 99 percent of people will want to see is not. The spreadsheet says that it&#8217;s me, but it is not me.&#8221;</p></blockquote>
+<p>So why would this happen?  Because public universities in Texas aren&#8217;t allowed to treat their data as if they are private companies:<br />
+<blockquote>System officials said the decision to release the data even though it was in draft form and included many gaps resulted from receiving multiple requests for it from news-media outlets under the state&#8217;s open-records laws. After noting the data&#8217;s shortcomings, in a disclaimer cautioning that the information was &#8220;incomplete and has not been fully verified or cross-referenced,&#8221; the system released it &#8220;in the spirit of openness and transparency&#8221; because much of the data was already public anyway, said Anthony P. de Bruyn, director of public affairs.</p></blockquote>
+<p>Except, of course, that the data <em>wasn&#8217;t</em> already public.  Public data is vetted; this had not been.  So why was it released?<br /><a name="more"></a><br /> Apparently, because no one asked what the legal consequences would be if they made certain it was accurate first:<br />
+<blockquote>Thomas Kelley, a spokesman for the Texas attorney general&#8217;s office, said in an e-mail that the state&#8217;s Public Information Act &#8220;applies to records available on the date of request,&#8221; even if the university system thought the records being requested were incomplete. Mr. Kelley said system officials had two options: release the data available at the time or request a ruling from the attorney general&#8217;s office about whether the incomplete data must be released.</p></blockquote>
+<p>And what was wrong?  Well, almost anything:<br />
+<blockquote>Mr. de Bruyn said the data, which spans the system&#8217;s nine academic campuses, was collected mostly at the institutional level. Yet professors have noticed some mistakes in the data that seem to point to a more-distant process.</p>
+<p>For instance, Renee Rubin, an associate professor in the department of language, literacy, and intercultural studies at the University of Texas at Brownsville, said she and her department chair <em>were listed in the wrong department</em>. &#8220;So then you begin to wonder what else is wrong,&#8221; Ms. Rubin says. [emphasis mine]</p></blockquote>
+<p>Is it more worrisome if Mr. de Bruyn is correct, or if he is not?</p>
+<p>I&#8217;m think about this more intensely now in part because of the pending end of the publication of the invaluable <a href="http://www.census.gov/compendia/statab/">Statistical Abstract of the United States</a>. As Kieran Healy <a href="http://crookedtimber.org/2011/04/15/the-statistical-abstract-of-the-united-states/">noted</a>, &#8220;When it comes to the United States, the print and online versions of the SA are a peerless source of information for all your bullshit remediation needs.&#8221;</p>
+<p>Unlike the Texas imbroglio, the Statistical Abstract has <a href="http://bookstore.gpo.gov/collections/statistical_abstract.jsp">a 133 year publication history</a> and well-established reputation for accuracy.  Destroying that reputation would have taken only one major incident; will anyone ever trust public data released in Texas again?</p>
+<p>But the Obama Administration&#8217;s &#8220;<a href="http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/">transparency initiatives</a>&#8221; appear to be <a href="http://capwiz.com/ala/callalert/index.tt?alertid=37054501">failing here</a> as well, as an Unforced Error.  (paging <a href="http://www.google.com/search?hl=en&#038;lr=&#038;q=unforced+errors+site%3Adelong.typepad.com&#038;aq=f&#038;aqi=&#038;aql=&#038;oq=">Brad DeLong</a>)  And the consequence will be something that more resembles the Texas debacle than accurate, independent policy analysis.</p>
+<p>Unless the Administration considers providing peacemeal, unstandardized information to be a feature, it appears to be a substantive bug.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/05/data-integrity-requires-personal-integrity-and-vetting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Derivatives: greater transparency is needed</title>
+		<link>./../../2010/12/derivatives-greater-transparency-is-needed.html</link>
+		<comments>./../../2010/12/derivatives-greater-transparency-is-needed.html#respond</comments>
+		<pubDate>Sun, 19 Dec 2010 19:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[derivatives]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/12/derivatives-greater-transparency-is-needed.html</guid>
+		<description><![CDATA[by Linda Beale Derivatives: greater transparency is neededcrossposted with Ataxingmatter The big banks got into considerable trouble doing derivatives trades&#8211;especially the credit default swaps where AIG was the major counterparty and the taxpayers ended up bailing out the Big Banks like Goldman Sachs. So surely one of the results of &#8220;financial reform&#8221; in the wake [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Linda Beale</strong></p>
+<p><a href="http://ataxingmatter.blogs.com/tax/2010/12/derivatives-greater-transparency-is-needed.html">Derivatives: greater transparency is needed</a><br />crossposted with Ataxingmatter
+<p>The big banks got into considerable trouble doing derivatives trades&#8211;especially the credit default swaps where AIG was the major counterparty and the taxpayers ended up bailing out the Big Banks like Goldman Sachs.</p>
+<p>So surely one of the results of &#8220;financial reform&#8221; in the wake of the casino banking financial crisis would be utter and complete transparency about derivatives, correct?  One would think so.  But it may not be so.</p>
+<p>For a detailed picture of the way the Big Banks have controlled derivatives trading in order to make it a lucrative noncompetitive market for them and a costly market for derivatives endusers, read the article in the Saturday New York times:  Louise Story, <a href="http://www.nytimes.com/2010/12/12/business/12advantage.html">A Secretive Banking Elite Rules Trading in Derivatives</a>, New York Times, Dec. 11, 2010.</p>
+<p>As Story notes, there is an exclusive group of bankers that has a great deal of say about derivatives trading.  The theoretical purpose is to &#8220;safeguard the integrity&#8221; of the derivatives market.  The real purposes is to &#8220;defend[] the dominance of the big banks&#8221; which the banksters do by thwarting efforts to create transparent markets where end users get real information on prices and fees and comparable trades.</p>
+<p> <a name="more"></a>
+<p>The CFTC chair wants to push for more transparency about the derivatives clearinghouses, which will have more power under the Dodd-Frank bill.  But the banks don&#8217;t want transparency&#8211;in fact, the group of nine banksters that is the subject of the article meets monthly with the ICE Trust clearinghouse, and has enormous influence and power over them. </p>
+<p>But Republicans in Congress aren&#8217;t exactly supportive of financial reform, unsurprisingly.  They&#8217;ve gotten big contributions and backing from Big Banks, and they plan to push back against banking reform.  Apparently they think another crisis like the one that hit us won&#8217;t be so bad.  After all, the banks survived this one just fine (and are making billions off the very low funding costs available to them through the Fed, while charging their depositors and customers huge fees).  As did most of the multimillionaires who own substantial financial assets.  Apparently, those who want to ease back on banking reform don&#8217;t care much for ordinary Americans who are paying through the nose for credit and getting nothing for their deposits.</p>
+<p>Here&#8217;s an excerpt from the piece on the way the Big Banks control the derivatives market by keeping the facts about derivatives trades secret.</p>
+<p>In the midst of the turmoil, regulators ordered banks to speed up plans — long in the making — to set up a clearinghouse to handle derivatives trading. The intent was to reduce risk and increase stability in the market.</p>
+<p>Two established exchanges that trade commodities and futures, the InterContinentalExchange, or ICE, and the Chicago Mercantile Exchange, set up clearinghouses, and, so did Nasdaq.</p>
+<p>Each of these new clearinghouses had to persuade big banks to join their efforts, and they doled out membership on their risk committees, which is where trading rules are written, as an incentive.</p>
+<p>None of the three clearinghouses would divulge the members of their risk committees when asked by a reporter. But two people with direct knowledge of ICE’s committee said the bank members are: Thomas J. Benison of JPMorgan Chase &#038; Company; James J. Hill of Morgan Stanley; Athanassios Diplas of Deutsche Bank; Paul Hamill of UBS; Paul Mitrokostas of Barclays; Andy Hubbard of Credit Suisse; Oliver Frankel of Goldman Sachs; Ali Balali of Bank of America; and Biswarup Chatterjee of Citigroup.</p>
+<p>Through representatives, these bankers declined to discuss the committee or the derivatives market. Some of the spokesmen noted that the bankers have expertise that helps the clearinghouse.</p>
+<p>Many of these same people hold influential positions at other clearinghouses, or on committees at the powerful International Swaps and Derivatives Association, which helps govern the market.</p>
+<p>Critics have called these banks the “derivatives dealers club,” and they warn that the club is unlikely to give up ground easily.</p>
+<p>*****</p>
+<p>For many, there is no central exchange, like the New York Stock Exchange or Nasdaq, where the prices of derivatives are listed. Instead, when a company or an investor wants to buy a derivative contract for, say, oil or wheat or securitized mortgages, an order is placed with a trader at a bank. The trader matches that order with someone selling the same type of derivative.</p>
+<p>Banks explain that many derivatives trades have to work this way because they are often customized, unlike shares of stock. One share of Google is the same as any other. But the terms of an oil derivatives contract can vary greatly.</p>
+<p>And the profits on most derivatives are masked. In most cases, buyers are told only what they have to pay for the derivative contract, say $25 million. That amount is more than the seller gets, but how much more — $5,000, $25,000 or $50,000 more — is unknown. That’s because the seller also is told only the amount he will receive. The difference between the two is the bank’s fee and profit. So, the bigger the difference, the better for the bank — and the worse for the customers.</p>
+<p>It would be like a real estate agent selling a house, but the buyer knowing only what he paid and the seller knowing only what he received. The agent would pocket the difference as his fee, rather than disclose it. Moreover, only the real estate agent — and neither buyer nor seller — would have easy access to the prices paid recently for other homes on the same block.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/12/derivatives-greater-transparency-is-needed.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Banks, repos and transparency in accounting</title>
+		<link>./../../2010/03/banks-repos-and-transparency-in-accounting.html</link>
+		<comments>./../../2010/03/banks-repos-and-transparency-in-accounting.html#respond</comments>
+		<pubDate>Tue, 30 Mar 2010 09:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[banks]]></category>
+		<category><![CDATA[repos]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/03/banks-repos-and-transparency-in-accounting.html</guid>
+		<description><![CDATA[by Linda Beale Banks, repos and transparency in accounting A repo transaction is essentially a collateralized financing. For tax purposes, everybody knows that it will be treated as a loan, no matter that it is called a &#8220;sale&#8221; with an agreement for a repurchase later. For accounting purposes, though, some repo transactions have been able [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Linda Beale</p>
+<p><a href="http://ataxingmatter.blogs.com/tax/2010/03/banks-repos-and-transparency-in-accounting.html" target="_blank">Banks, repos and transparency in accounting</a></p>
+<p>A repo transaction is essentially a collateralized financing. For tax purposes, everybody knows that it will be treated as a loan, no matter that it is called a &#8220;sale&#8221; with an agreement for a repurchase later. For accounting purposes, though, some repo transactions have been able to slide by and look like a &#8220;real&#8221; sale rather than debt on the financial statement. That&#8217;s a perfect example of the fact that tax theory pays attention to economic substance, whereas accounting somehow sets up rather arbitrary categories that may end up letting a repo count as a sale instead of a loan on an entity&#8217;s financial statement.</p>
+<p>As most everybody is aware by now, the 2000+ page report on the Lehman breakup found that the firm had engaged in repo transactions to make its capital position look better than it actually was by reducing the leverage showing on its books. It concluded that the Lehman executives and the company&#8217;s outside auditor (Ernst &#038; YOung) had improperly allowed the repos to temporarily reduce leverage on the firm&#8217;s books, which contributed to the company&#8217;s ultimate downfall.</p>
+<p>Now the SEC is asking 24 large financial institutions and insurance companies to provide information about their accounting and disclosure practices in connection with their use of repos. The sample SEC letter is available <a href="http://www.sec.gov/divisions/corpfin/guidance/cforepurchase0310.htm" target="_blank">here</a>.</p>
+<p>Financial institution reform needs to deal with a myriad of factors&#8211;over-leverage is one of them. Transparency in accounting, and focus on economic substance rather than form, should be high on the list of reforms needed.</p>
+<p>crossposted with <a href="http://ataxingmatter.blogs.com/">ataxingmatter</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/03/banks-repos-and-transparency-in-accounting.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

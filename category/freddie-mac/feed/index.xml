@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Freddie Mac &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Subprime and the crisis</title>
+		<link>./../../2012/03/subprime-and-the-crisis.html</link>
+		<comments>./../../2012/03/subprime-and-the-crisis.html#respond</comments>
+		<pubDate>Tue, 27 Mar 2012 01:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CRA]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/03/subprime-and-the-crisis.html</guid>
+		<description><![CDATA[Financeaddict comments on a St. Louis Fed study: Their research asks whether there’s evidence that lenders changed their behavior to meet CRA, Fannie or Freddie-mandated goals by: making more subprime loans than they otherwise would have? lending to riskier borrowers than they otherwise would have? charging risky borrowers less than they otherwise would have? &#8230;If [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://financeaddict.com/2012/03/governments-role-in-the-subprime-crisis" target="_blank">Financeaddict</a> comments on a <a href="http://research.stlouisfed.org/wp/2012/2012-005.pdf" target="_blank">St. Louis Fed study</a>:   <br />
+<blockquote>Their research asks whether there’s evidence that lenders changed their behavior to meet CRA, Fannie or Freddie-mandated goals by:
+<ul>
+<li>making more subprime loans than they otherwise would have? </li>
+<li>lending to riskier borrowers than they otherwise would have? </li>
+<li>charging risky borrowers less than they otherwise would have?</li>
+</ul>
+<p>&#8230;If the banks were strongly influenced by their desire to meet affordable housing targets then they should have made more of the kind of loans that would qualify and less of the kind of loans that would not qualify. These relative changes should show up as anomalies in an otherwise continuous data pattern, but the researchers’ examinations of 722,157 securitized subprime mortgages made in California and Florida from 2004-2006 found no evidence of this.  The same held true for the other two research questions. Hernández-Murillo, Ghent and Owyang did not find that lenders gave lower (i.e. better) prices to borrowers falling inside the threshold vs. those falling outside. Nor did they find evidence that lenders lent more often to qualifying riskier borrowers (those who would go on to be seriously delinquent within the first two years after receiving the loan) than they did to riskier borrowers whose loans would not qualify. <br /><a name="more"></a>So, to recap, the subprime story went something like this: foolish borrowers borrowed and foolish lenders lent. The evidence appears to show that lenders did not change their behavior in order to hit the affordable housing targets that the government imposed on them. While the government’s programs to encourage affordable housing may have other flaws they did not, at any rate, directly cause the subprime crisis. Myth busted.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/03/subprime-and-the-crisis.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Refinancing bad for business?</title>
+		<link>./../../2012/02/refinancing-bad-for-business.html</link>
+		<comments>./../../2012/02/refinancing-bad-for-business.html#respond</comments>
+		<pubDate>Thu, 02 Feb 2012 21:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Freddie Mac]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/02/refinancing-bad-for-business.html</guid>
+		<description><![CDATA[Robert Waldmann comments on the Freddie Mac story recently in the news (lifted from Stochastic Thoughts): Freddster (noun): Fraudster who profits from conflict of interest at Freddie Mac (the knife). Jesse Eisinger, pf ProPublica and Chris Arnold, of the public sector NPR News have the most interesting article about ruthless greedy uh socialism I guess at [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://rjwaldmann.blogspot.com/" title="http://rjwaldmann.blogspot.com/">Robert Waldmann</a> comments on the Freddie Mac story recently in the news (lifted from Stochastic Thoughts):</p>
+<p>Freddster (noun): Fraudster who profits from conflict of interest at Freddie Mac (the knife).   </p>
+<p><a href="http://www.propublica.org/article/freddy-mac-mortgage-eisinger-arnold">Jesse Eisinger, pf ProPublica and Chris Arnold, of the public sector NPR News have the most interesting article about ruthless greedy uh socialism I guess at public sector Freddie Mac.</a><br />    <br />The idea is that Freddie Went long on the interest payments on mortgages and not the principal repayments. This means the harder it is to refinance, the better for Freddie Mac. Freddie Mac also has huge regulatory power to decide how hard it is to refinance Freddie Mac insured loans. The conflict of interest is clear.     </p>
+<p>Via <a href="http://motherjones.com/kevin-drum/2012/01/freddie-mac-profiting-your-distress">Kevin Drum</a> where commenter Andrew Sprung wrote<br />
+<blockquote>Could Einsinger and Arnold&#8221;s story have been prompted by an administration leak as a prelude to a recess appointment to replace DeMarco at FHFA?</p></blockquote>
+<p>I hope so, or rather I wish I had any hope that it is so. But at least it is a hint that someone in the White House has decided to put pressure on DeMarco.  I also look forward to testimony by the Freddie Mac CEO Charles Haldeman who I expect will have considerable trouble recalling details (see <a href="http://rjwaldmann.blogspot.com/2007/04/h.html">HR Block</a>).<br />    <br />Here is a summary of the conflict of interest from Eisenger and Arnold with human interest and Freddie Mac efforts to respond to the accusation deleted.<br />
+<blockquote>Those mortgages underpin securities that get divided into two basic categories.   <br />One portion is backed mainly by principal, pays a low return, and was sold to investors who wanted a safe place to park their money. The other part, the inverse floater, is backed mainly by the interest payments on the mortgages &#8230; . So this portion of the security can pay a much higher return, and this is what Freddie retained.    <br />In 2010 and &#8217;11, Freddie purchased $3.4 billion worth of inverse floater portions — their value based mostly on interest payments on $19.5 billion in mortgage-backed securities, according to prospectuses for the deals.</p></blockquote>
+<p><a name="more"></a>[skip]  <br />
+<blockquote>It’s &#8230; a big problem if people &#8230; refinance their mortgages. That’s because a refi is a new loan; the borrower pays off the first loan early, stopping the interest payments. Since the security Freddie owns is backed mainly by those interest payments, Freddie loses.</p></blockquote>
+<p>[skip]  <br />
+<blockquote>Restricting credit for people who have done short sales isn’t the only way that Freddie Mac and Fannie Mae have tightened their lending criteria in the wake of the financial crisis, making it harder for borrowers to get housing loans.   <br />[skip]    <br />just as it was escalating its inverse floater deals, it was also introducing new fees on borrowers, including those wanting to refinance. During Thanksgiving week in 2010, Freddie quietly announced that it was raising charges, called post-settlement delivery fees.    <br />In a recent white paper on remedies for the stalled housing market, the Federal Reserve criticized Fannie and Freddie for the fees they have charged for refinancing. Such fees are “another possible reason for low rates of refinancing” and are “difficult to justify,” the Fed wrote.    <br />A former Freddie employee, who spoke on condition he not be named, was even blunter: “Generally, it makes no sense whatsoever” for Freddie “to restrict refinancing” from expensive loans to ones borrowers can more easily pay, since the company remains on the hook if homeowners default.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/02/refinancing-bad-for-business.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Government sponsored enterprises</title>
+		<link>./../../2011/07/government-sponsored-enterprises.html</link>
+		<comments>./../../2011/07/government-sponsored-enterprises.html#respond</comments>
+		<pubDate>Sun, 03 Jul 2011 19:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Auto bailout]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
+		<category><![CDATA[George Will]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/government-sponsored-enterprises.html</guid>
+		<description><![CDATA[by Beverly Mann I Beg to Differ (in Part), Mr. Will A few days ago I posted a post on my blog that responds to George Will’s claim in his weekend Washington Post column that the auto bailout was a privatization of profits but a socialization of losses. The full post, which is at Annarborist, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Beverly Mann</strong></p>
+<p><strong>I Beg to Differ (in Part), Mr. Will</strong></p>
+<p>A few days ago I posted a post on my blog that responds to George Will’s claim in his weekend<a target="_blank" href="http://www.washingtonpost.com/opinions/burning-down-the-house/2011/06/30/AGeRSGuH_story.html?hpid=z2"> Washington Post column</a> that the auto bailout was a privatization of profits but a socialization of losses.  The full post, which is at <a target="_blank" href="http://annarborist.blogspot.com/2011/07/i-beg-to-differ-in-part-mr-will.html">Annarborist</a>, and is called <em>I Beg to Differ (in Part) Mr. Will</em>, George Will says:    </p>
+<blockquote><p>In 1994, Bill Clinton proposed increasing homeownership through a ‘partnership’ between government and the private sector, principally orchestrated by Fannie Mae, a “government-sponsored enterprise” (GSE). It became a perfect specimen of what such “partnerships” (e.g., General Motors) usually involve: Profits are private, losses are socialized.</p></blockquote>
+<p>—“Burning Down the House,” George F. Will, Washington Post, June 30  <br /><a name="more"></a></p>
+<p>Will’s column discusses a new book by Getchen Morgenson and housing-finance expert Joshua Rosner that Will says “will introduce you to James A. Johnson, an emblem of the administrative state that liberals admire.”  Johnson, for those of you who (like me) don’t instantly recognize the name, headed Fannie Mae during (I guess; Will doesn’t specify the dates) during the 1990s and early 2000s.  He says the book details how Johnson and a few others, acting under the guise of compassion, used the government’s backing of Fannie and Freddie loans and the public policy of encouraging homeownership, to hugely enrich themselves.   </p>
+<p>Will writes:  </p>
+<blockquote><p>Morgenson and Rosner report that in 1998, when Fannie Mae’s lending hit $1 trillion, its top officials began manipulating the company’s results to generate bonuses for themselves. That year Johnson’s $1.9 million bonus brought his compensation to $21 million. In nine years, Johnson received $100 million.  </p>
+<p>Fannie Mae’s political machine dispensed campaign contributions, gave jobs to friends and relatives of legislators, hired armies of lobbyists (even paying lobbyists not to lobby against it), paid academics who wrote papers validating the homeownership mania, and spread “charitable” contributions to housing advocates across the congressional map.</p></blockquote>
+<p>But he also suggests, if I understand correctly, that it was Johnson and the other Fannie and Freddie folks, rather than the Wall Street crowd, who instituted the concept of securitized mortgages and credit default swaps—and (inferentially) then caused European banks to spur, say, the Irish housing bubble, which, last I heard, was not funded in any part by Fannie and Freddie.  And he wrote the quote that opens this post, in which he claims that the government’s bailout—loans, most of which have been repaid—to GM and Chrysler have resulted in merely private profits.  Unlike, y’know, the very substantial tax breaks given to oil companies.  </p>
+<p>The estimates about the number of jobs saved by those bailouts ranges from about 500,000 to (ultimately; i.e., indirectly) 1.5 million.  Will is saying, in other words, that the federal government has no legitimate business involving itself so directly in the preservation of, or for that matter, the creation of jobs, because, after all, job preservation and job creation are private, not public, financial gains.  The proposition is preposterous and relies upon the sleight of hand that only <i>company and shareholder profits</i> count as “profits”—a conceit that is likely to be seen for what it is, in places like Michigan, Indiana and Ohio.  Assuming, of course, that Will is read in such places, or that some other wingnut picks up the argument and runs (literally, may) be with it there.  <br />(Please, please, Paul Krugman.  Respond to Will’s bizarre claim.  You’re the only one who could do this and who has a wide enough readership for it to matter.  We both know that no response to this type of canard will be forthcoming from the White House.  Ever.  Okay, well, at least until 2017.)  </p>
+<p>Two or three weeks ago, <em>Newsweek</em> ran a lengthy article by Bill Clinton listing 14 proposals for job creation.  (Oh, for the days when the Democrat in the White House had some actual ideas, some energy, and the willingness—the eagerness, in fact!—to discuss his policy proposals, in detail and concertedly, with the public.)  One of them concerned one of the Obama administrations (very) few policy ideas: Substantial tax credits and outright loans to green-tech startups, which resulted in an increase in America’s share of worldwide production of batteries for battery-powered cars from 2% to 20% before until our dear leader quietly—why raise this issue publicly during negotiations when it’s just so much easier to simply give the Republicans what they want—caved, er, negotiated away this law during last December’s budget white-flag waving, er, compromise.  Clinton, of course, suggests that this program should be brought back, immediately, and expanded to other types of industries.  </p>
+<p>Won’t happen, of course.  Well, maybe in 2017.  </p>
+<p>As for Johnson and his ilk, hopefully there’s still time, statute-of-limitations-wise, to prosecute these folks.  And hopefully, the Morgenson and Rosner book will cause enough pressure for that to happen.  And I agree with Will completely that one of the most despicable aspects of what happened with Fannie and Freddie was the fraudulent claim of compassion.  Wonder, though, whether Will would agree with ME that the Repubs’ genuine compassion for, say, oil company execs and shareholders is just as unseemly, in its own way.  Nah.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/government-sponsored-enterprises.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fannie and Freddie and William Black</title>
+		<link>./../../2011/01/fannie-and-freddie-and-william-black.html</link>
+		<comments>./../../2011/01/fannie-and-freddie-and-william-black.html#respond</comments>
+		<pubDate>Thu, 13 Jan 2011 01:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CRA]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/01/fannie-and-freddie-and-william-black.html</guid>
+		<description><![CDATA[William Black writes this post Fannie and Freddie’s Managers bought Nonprime Paper for the same Reason Merrill Did: (hat tip Rebecca) This subdivides into four arguments: the Community Reinvestment Act (CRA), Congress’ rejection of an administration proposal to give OFHEO greater supervisory powers, specifically, the power to place Fannie and Freddie in receivership, the ability [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>William Black writes this post<a target="_blank" href="http://neweconomicperspectives.blogspot.com/2011/01/fannie-and-freddies-managers-bought.html"> Fannie and Freddie’s Managers bought Nonprime Paper for the same Reason Merrill Did</a>: (hat tip Rebecca)</p>
+<blockquote><p>This subdivides into four arguments: the Community Reinvestment Act (CRA), Congress’ rejection of an administration proposal to give OFHEO greater supervisory powers, specifically, the power to place Fannie and Freddie in receivership, the ability of Fannie and Freddie to borrow due to their status as Government-Sponsored Enterprises (GSEs), and the rules on Fannie and Freddie making a rising percentage of their loans to those with below median income.</p></blockquote>
+<p>Clear and concise.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/01/fannie-and-freddie-and-william-black.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

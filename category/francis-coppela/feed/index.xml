@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Francis Coppela &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The purpose of government debt…</title>
+		<link>./../../2013/01/the-purpose-of-government-debt.html</link>
+		<comments>./../../2013/01/the-purpose-of-government-debt.html#respond</comments>
+		<pubDate>Fri, 04 Jan 2013 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[finance]]></category>
+		<category><![CDATA[Francis Coppela]]></category>
+		<category><![CDATA[hugh finance]]></category>
+		<category><![CDATA[role of finance and government. BIS]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/01/the-purpose-of-government-debt.html</guid>
+		<description><![CDATA[An important post from Izabella Kaminska at FT Alphaville and recommended reading (h/t rjs):  On the new purpose of government debt &#8211;   Frances Coppola has whipped up an absolutely fabulous commentary on this Bank of Iinternational Settlements working paper on safe assets, which cuts straight to the point of. As she neatly expresses, in our new [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>An important post from <i>Izabella Kaminska</i> at FT Alphaville and recommended reading (h/t rjs): </p>
+<p><a href="http://ftalphaville.ft.com/2013/01/02/1319583/on-the-new-purpose-of-government-debt/">On the new purpose of government debt &#8211; </a>  Frances Coppola has whipped up an <a href="http://coppolacomment.blogspot.fr/2013/01/when-governments-become-banks.html">absolutely fabulous commentary</a> on this<a href="http://www.bis.org/publ/work399.pdf"> Bank of Iinternational Settlements working paper</a> on safe assets, which cuts straight to the point of. As she neatly expresses, in our new looking glass world of finance… <em>“the purpose of government debt is not to fund government spending. It is to provide safe assets.”</em><br />
+<blockquote>Therefore, governments whose debt is regarded as a safe asset must operate monetary and fiscal policy in such a way that their debt retains its value. They cannot allow inflation to rise significantly, and they must maintain control of public spending to ensure that they can always meet their liabilities when they fall due. The very existence of safe assets relies on the soundness of sovereign monetary and fiscal policy.<br />From a national economic perspective, this looks completely ridiculous. On the one hand, government must produce unlimited amounts of debt to meet the financial system&#8217;s demand for safe assets, and allow the central bank to exchange this debt freely for new money. But on the other hand, they must maintain strict control of inflation and government spending so that the safe assets they are producing remain safe. So the debt/GDP level can rise to the skies, though they will pay nothing much for it: in fact debt/GDP would become a completely meaningless measure of the soundness of public finances. But woe betide any government that ran a deficit. The BIS paper envisages governments running primary surpluses to fund debt issuance:</p></blockquote>
+<p><em><br /></em>Lifted from comments Frances Copppola says&#8230;<br />
+<blockquote>This isn&#8217;t about private debt &#8211; it&#8217;s about public debt morphing into an asset that is so important to financial stability that governments must organise their monetary and fiscal policies around supporting it. In fact as people rely on public debt as a safe home for long-term savings, the more savings they have the greater the need for public debt.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/01/the-purpose-of-government-debt.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

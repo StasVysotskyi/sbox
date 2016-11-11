@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>poll transparency &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Polling, aggregators, and transparency</title>
+		<link>./../../2012/11/polling-aggregators-and-transparency.html</link>
+		<comments>./../../2012/11/polling-aggregators-and-transparency.html#respond</comments>
+		<pubDate>Fri, 09 Nov 2012 15:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[poll transparency]]></category>
+		<category><![CDATA[polls]]></category>
+		<category><![CDATA[Robert Waldmann]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/11/polling-aggregators-and-transparency.html</guid>
+		<description><![CDATA[by Robert Waldmann    What has Nate Silver done for us lately ? This isn&#8217;t really about Nate Silver. It is about poll aggregators in general and just as much about the Huffington Post pollster, Real Clear Politics and Talking points Memo as about Silver, Wang Linzer and others who try to estimate outcome probabilities [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Robert Waldmann   </p>
+<p>What has Nate Silver done for us lately ?</p>
+<p>This isn&#8217;t really about Nate Silver.  It is about poll aggregators in general and just as much about the Huffington Post pollster, Real Clear Politics and Talking points Memo as about Silver, Wang Linzer and others who try to estimate outcome probabilities and not just average polls.</p>
+<p>I think that aggregators have proven that it is better to look at their aggregates than to look at individual polls and try to see patterns or calculate averages from memory.  I think this means that their judgement to not include a poll would be damaging to the pollster.  I conclude that, if they work together, they can demand and obtain transparency. </p>
+<p>I have a real problem with what I perceive to be a lack of transparency of pollsters. I refer really to the methodological explanations they have on their web sites.  I do not have the impression that I could reproduce their numbers from the transcripts of their interviews based on their explanations.  I do not think this is acceptable.</p>
+<p><a name="more"></a></p>
+<p>My sense is that this is not just my ignorance &#8212; that pollster methodology is partly secret.  Here I stress that I might be wrong &#8212; it might be that the full protocol is not secret and I am just ignorant.</p>
+<p>My understanding is that pollsters keep their methodology partly secret claiming it is a trade secret &#8212; that since they are the best pollster, all other pollsters would imitate their methods if they weren&#8217;t kept secret.  If they do make this claim, it is BS.  They make different choices and each is, as noted, convinced they are right. My guess is that they don&#8217;t describe the assumptions they make, because if they did then people would understand that the assumptions are assumptions and make a difference.  I think that, most unfortunately, most poll consumers are willing to accept a black box, buy a pig in a poke (and mix metaphors).</p>
+<p>I think this is not a healthy attitude and that poll consumers including journalists should have a rule that no special sauce is allowed.  I have no hope that journalists will adopt this rule.  But I really hope that poll aggregaters do.</p>
+<p>I note that academic journals have this rule.  They demand the raw data and an explanation of calculations such that they can be replicated by editors (doesn&#8217;t mean they do replicate them and doesn&#8217;t mean they don&#8217;t ). This is actually a fairly new development.  Editors of academic journals can impose such rules as their decisions are very important &#8212; basically research doesn&#8217;t count without their approval. </p>
+<p>I think a conference of leading poll aggregators would be useful and that a decision that polls with secret methodologies are to be ignored would make a huge difference.  But I don&#8217;t think their power to impose transparency on pollsters will last.  Right now they have high status, because they totally out predicted the non quantitative go with their gut pundits.  I&#8217;m pretty sure that in 6 months the fact that they nailed 2012 will be old news which can be ignored.</p>
+<p>cross posted with Stochastic Thoughts</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/11/polling-aggregators-and-transparency.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

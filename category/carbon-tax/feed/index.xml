@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>carbon tax &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Clean Coal and Cap and Trade</title>
+		<link>./../../2009/08/clean-coal-and-cap-and-trade.html</link>
+		<comments>./../../2009/08/clean-coal-and-cap-and-trade.html#respond</comments>
+		<pubDate>Mon, 31 Aug 2009 16:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[carbon cap and trade]]></category>
+		<category><![CDATA[carbon tax]]></category>
+		<category><![CDATA[clean coal]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2009/08/clean-coal-and-cap-and-trade.html</guid>
+		<description><![CDATA[Robert Waldmann Joe Strawman argues that the solution to global warming is clean coal technology and in particular sequestering C02 from exhaust from coal fired power plants. Therefore cap and trade is a bad policy, because technology will solve anything soon. In fact, if &#8220;clean coal&#8221; is not a contradiction in terms, the case for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>Joe Strawman argues that the solution to global warming is clean coal technology  and in particular sequestering C02 from exhaust from coal fired power plants.  Therefore cap and trade is a bad policy, because technology will solve anything soon.  </p>
+<p>In fact, if &#8220;clean coal&#8221; is not a contradiction in terms, the case for cap and trade  (or a carbon tax) starting right now, is vastly strengthened as I argue after the jump.</p>
+<p>A small tax on carbon or cap and trade with caps so high that rights to emit carbon are cheap will have a large quick effect on C02 emissions.  Electric power companies have coal fired plants and natural gas fired plants, because natural gas fired plants are cheaper and coal is cheaper.  The plants working all the time are coal fired.  The natural gas fired plants work only during hours of peak demand.</p>
+<p>A modest tax on carbon or fairly cheap carbon emission rights will cause power companies to switch this order of use so natural gas fired plants work all the time and coal fired plants work only during hours of peak demand.  </p>
+<p>The question is whether this will reduce C02 emissions or just delay them a few years.  Natural gas supplies are limited.  I guess that a few years of burning natural gas for electricity with reduce them to the point that the price will rise to whatever level required to make burning natural gas for electricity not competitive (even given cap and trade).  My belief is that,  since natural gas is very useful for home heating and making plastic and fertilizer, it won&#8217;t be used to make electricity for very long.  </p>
+<p>However, if clean coal technology is possible, delaying coal burning is almost as good as preventing it forever.  Clean coal technology is definitely not installed now.  If, indeed, it will be installed in a few years, it is critically important to discourage the burning of coal now &#8212; to encourage the use of stop gap measures to put off the burning until coal can be burned cleanly.  </p>
+<p>Thus if one believes that clean coal technology is feasible and just around the corner then one should rationally be more enthusiastic about cap and trade than if one doesn&#8217;t.  </p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2009/08/clean-coal-and-cap-and-trade.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

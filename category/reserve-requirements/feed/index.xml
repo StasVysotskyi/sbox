@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>reserve requirements &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Fractional Money Multipliers</title>
+		<link>./../../2012/01/fractional-money-multipliers.html</link>
+		<comments>./../../2012/01/fractional-money-multipliers.html#respond</comments>
+		<pubDate>Fri, 06 Jan 2012 11:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Eurozone]]></category>
+		<category><![CDATA[Rebecca Wilder]]></category>
+		<category><![CDATA[reserve requirements]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/01/fractional-money-multipliers.html</guid>
+		<description><![CDATA[by Rebecca Wilder Fractional Money Multipliers Money multipliers – the stock of money divided by a measure of base money (generally reserves plus currency in circulation) – are dwindling to fractions of what they used to be. FT Alphaville draws our attention to this fact on the Euro area (EA) using SocGen’s analysis. The money [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <a href="http://www.economonitor.com/blog/author/rwilder3">Rebecca Wilder</a> </p>
+<p>Fractional Money Multipliers   </p>
+<p>Money multipliers – the stock of money divided by a measure of base money (generally reserves plus currency in circulation) – are dwindling to fractions of what they used to be. <a href="http://ftalphaville.ft.com/blog/2012/01/03/815461/the-collateral-crunch-gets-monetary/">FT Alphaville draws our attention</a> to this fact on the Euro area (EA) using SocGen’s analysis. The money multiplier is a representation of base money (generally reserves plus currency in circulation) – are dwindling to fractions of what they used to be. <a href="http://ftalphaville.ft.com/blog/2012/01/03/815461/the-collateral-crunch-gets-monetary/">FT Alphaville draws our attention</a> to this fact on the Euro area (EA) using SocGen’s analysis. The money multiplier is a representation of how much credit is leaving the banking system via lending and growth (or inflation) enhancing monetary activities.</p>
+<p>As <a href="http://ftalphaville.ft.com/blog/2012/01/03/815461/the-collateral-crunch-gets-monetary/">FT Alphaville points out</a>, the EA M3 multiplier is just over 3/4 its average 2007-2008 level, 7.67 vs 10.</p>
+<p>But this is global! The US M2 money multiplier is a little over 2/5 the size of its average 2007-2008 level, 4.1 vs. 9.3. By this simple measure, I’d say that the US is in worse shape than is the EA.</p>
+<p>Of note, <a href="http://av.r.ftdata.co.uk/files/2012/01/Euro-money-multiplier-M3-versus-monetary-base-Socgen.jpg">my visual is a bit different </a>from that in FT Alphaville. </p>
+<p> <a name="more"></a>
+<p></p>
+<p>Specifically, I don’t agree with SocGen’s estimates that the EA money multiplier drops in December to roughly 6. Given that December 2011 <a href="http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=123.ILM.M.U2.C.LT01.Z5.EUR">EA base money has been published</a>, a 6.2 M3 multiplier implies that M3 dropped by 15% in 1 month. That’s unlikely.</p>
+<p><a href="http://www.economonitor.com/rebeccawilder/files/2012/01/money_multiplier_chart.jpg"><img alt="" src="http://www.economonitor.com/rebeccawilder/files/2012/01/money_multiplier_chart.jpg" width="600" height="419"></a></p>
+<p>To my readers: There’s a 92% probability that I’ll be serving on a grand jury for the next three months. Since I’ll need to keep up with all matters EA, I’ll probably be blogging at a higher frequency and in less depth (like this one).</p>
+<p><em><strong>Rebecca Wilder</strong></em></p>
+<p>Source data: The Federal Reserve publishes money supply and monetary base data, which can be easily downloaded at the <a href="http://research.stlouisfed.org/fred2/categories/24">St. Louis Fred database</a>. ECB data can be found<a href="http://www.ecb.int/stats/money/aggregates/aggr/html/index.en.html"> here </a>and <a href="http://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=123.ILM.M.U2.C.LT01.Z5.EUR">here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/01/fractional-money-multipliers.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Federal Reserve Eases Bank Reserve Requirements</title>
+		<link>./../../2010/10/federal-reserve-eases-bank-reserve-requirements.html</link>
+		<comments>./../../2010/10/federal-reserve-eases-bank-reserve-requirements.html#respond</comments>
+		<pubDate>Tue, 26 Oct 2010 20:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic history]]></category>
+		<category><![CDATA[Great Depression]]></category>
+		<category><![CDATA[Great Recession]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[reserve requirements]]></category>
+		<category><![CDATA[solvency crisis]]></category>
+		<category><![CDATA[the fed]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/federal-reserve-eases-bank-reserve-requirements.html</guid>
+		<description><![CDATA[This is actually good news, since everything else the Fed has done has been to benefit the insolvent large banks. Still, I didn&#8217;t expect my post of three days ago to be such a perfect &#8220;negative indicator&#8221; so soon.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.federalreserve.gov/newsevents/press/bcreg/20101026a.htm">This</a> is actually good news, since everything else the Fed has done has been to benefit the <s>insolvent</s> large banks.</p>
+<p>Still, I didn&#8217;t expect <a href="http://www.angrybearblog.com/2010/10/everything-old-is-new-again-part-1934.html">my post of three days ago</a> to be such a perfect &#8220;negative indicator&#8221; so soon.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/federal-reserve-eases-bank-reserve-requirements.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

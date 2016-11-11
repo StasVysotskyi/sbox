@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>accounting &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Benford&#8217;s Law and the Decreasing Reliability of Accounting Data&#034;</title>
+		<link>./../../2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html</link>
+		<comments>./../../2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html#respond</comments>
+		<pubDate>Wed, 12 Oct 2011 11:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accountability]]></category>
+		<category><![CDATA[accounting]]></category>
+		<category><![CDATA[Mark Thoma]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html</guid>
+		<description><![CDATA[H/t Mike Kimel Via Economist&#8217;s View This is from Jialan Wang: Benford&#8217;s Law and the Decreasing Reliability of Accounting Data for US Firms, by Jialan Wang: &#8230;[T]here are more numbers in the universe that begin with the digit 1 than 2, or 3, or 4, or 5, or 6, or 7, or 8, or 9. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>H/t <a target="_blank" href="http://presimetrics.com/"><strong>Mike Kimel</strong></a></p>
+<p>Via <a target="_blank" href="http://economistsview.typepad.com/economistsview/2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html">Economist&#8217;s View</a><br />
+<blockquote>
+<p>This is from Jialan Wang:</p>
+<blockquote><p><a href="http://econerdfood.blogspot.com/2011/10/benfords-law-and-decreasing-reliability.html">Benford&#8217;s Law and the Decreasing Reliability of Accounting Data for US Firms, by Jialan Wang</a>: &#8230;[T]here are more numbers in the universe that begin with the digit 1 than 2, or 3, or 4, or 5, or 6, or 7, or 8, or 9. And more numbers that begin with 2 than 3, or 4, and so on. This relationship holds for the lengths of rivers, the populations of cities, molecular weights of chemicals, and any number of other categories. &#8230;</p></blockquote>
+<blockquote><p>This numerical regularity is known as <a href="http://en.wikipedia.org/wiki/Benford%27s_law">Benford&#8217;s Law</a>, and specifically, it says that the probability of the first digit from a set of numbers is <em>d</em> is given by</p></blockquote>
+<p><a href="http://2.bp.blogspot.com/-_xOcIK7m3d8/TpJvRKlChhI/AAAAAAAAAzk/Mr6jme54lzc/s1600/eqn1.jpg"><img border="0" alt="" src="http://2.bp.blogspot.com/-_xOcIK7m3d8/TpJvRKlChhI/AAAAAAAAAzk/Mr6jme54lzc/s1600/eqn1.jpg"></a></p>
+<p> <a name="more"></a><br />
+<blockquote>In fact, Benford&#8217;s law has been used in legal cases to detect corporate fraud, because deviations from the law can indicate that a company&#8217;s books have been manipulated. Naturally, I was keen to see whether it applies to the large public firms that we commonly study in finance.</p></blockquote>
+<blockquote><p>downloaded quarterly accounting data for all firms in Compustat,&#8230; over 20,000 firms from SEC filings&#8230; (revenues, expenses, assets, liabilities, etc.).</p></blockquote>
+<blockquote><p>And lo, it works! Here are the distribution of first digits vs. Benford&#8217;s law&#8217;s prediction for total assets&#8230;</p></blockquote>
+<p><a href="http://3.bp.blogspot.com/-HT-hDx8Pkh0/TpJvSFIi6sI/AAAAAAAAAzw/Dmi8-wktQMQ/s1600/atq_dist.jpg"><img border="0" alt="" src="http://3.bp.blogspot.com/-HT-hDx8Pkh0/TpJvSFIi6sI/AAAAAAAAAzw/Dmi8-wktQMQ/s320/atq_dist.jpg" width="320" height="232"></a></p>
+<blockquote><p>Next, I looked at how adherence to Benford&#8217;s law changed over time, using a measure of the sum of squared deviations of the empirical density from the Benford&#8217;s prediction&#8230;</p></blockquote>
+<blockquote><p>Deviations from Benford&#8217;s law have increased substantially over time, such that today the empirical distribution of each digit is about 3 percentage points off from what Benford&#8217;s law would predict. The deviation increased sharply between 1982-1986 before leveling off, then zoomed up again from 1998 to 2002.  Notably, the deviation from Benford dropped off very slightly in 2003-2004 after the enactment of Sarbanes-Oxley accounting reform act in 2002, but this was very tiny and the deviation resumed its increase up to an all-time peak in 2009.</p></blockquote>
+<p><a href="http://2.bp.blogspot.com/-tl4Xwb1yWgY/TpJvRYB2YKI/AAAAAAAAAzo/JzfregzopWA/s1600/benf_year.jpg"><img border="0" alt="" src="http://2.bp.blogspot.com/-tl4Xwb1yWgY/TpJvRYB2YKI/AAAAAAAAAzo/JzfregzopWA/s400/benf_year.jpg" width="400" height="290"></a></p>
+<blockquote><p>So according to Benford&#8217;s law, accounting statements are getting less and less representative of what&#8217;s really going on inside of companies.The major reform that was passed after Enron and other major accounting standards barely made a dent.</p></blockquote>
+<blockquote><p>Next, I looked at Benford&#8217;s law for three industries: finance, information technology, and manufacturing. &#8230; [<a href="http://econerdfood.blogspot.com/2011/10/benfords-law-and-decreasing-reliability.html">shows graphs</a>] &#8230; While these time series don&#8217;t prove anything decisively, deviations from Benford&#8217;s law are compellingly correlated with known financial crises, bubbles, and fraud waves. And overall, the picture looks grim. Accounting data seem to be less and less related to the natural data-generating process that governs everything from rivers to molecules to cities. Since these data form the basis of most of our research in finance, Benford&#8217;s law casts serious doubt on the reliability of our results. And it&#8217;s just one more reason for investors to beware&#8230;.</p></blockquote>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/benfords-law-and-the-decreasing-reliability-of-accounting-data.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Random Notes 3 June 2011</title>
+		<link>./../../2011/06/random-notes-3-june-2011.html</link>
+		<comments>./../../2011/06/random-notes-3-june-2011.html#respond</comments>
+		<pubDate>Fri, 03 Jun 2011 17:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[asset values]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[Buce]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[housing]]></category>
+		<category><![CDATA[income inequality]]></category>
+		<category><![CDATA[Income redistribution]]></category>
+		<category><![CDATA[meta]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/random-notes-3-june-2011.html</guid>
+		<description><![CDATA[Buce has been on fire recently, so I&#8217;ll probably have to do a post about why this post is so off-target, though his conclusion is correct (short version: he&#8217;s been misled). If I&#8217;m reading this morning&#8217;s SIFMA Brief correctly, Moody&#8217;s—whose rating skills Robert has discussed at length—(1) may downgrade US debt if we spend too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<ol>
+<li><a href="http://underbelly-buce.blogspot.com/">Buce</a> has been on fire recently, so I&#8217;ll probably have to do a post about why <a href="http://underbelly-buce.blogspot.com/2011/05/can-taxpayers-thank-eliot-spitzer-for.html">this post</a> is so off-target, though his conclusion is correct (short version: he&#8217;s been misled).</p>
+</li>
+<li>If I&#8217;m reading this morning&#8217;s <a href="http://www.smartbrief.com/servlet/encodeServlet?issueid=B7FCF69E-7215-4E6D-AC62-53F6A3532773&#038;sid=4da1e808-6b9f-4d1d-bfb8-caea93b4c6d8">SIFMA Brief</a> correctly, Moody&#8217;s—whose rating skills Robert has discussed at length—(1) may downgrade US debt <a href="http://r.smartbrief.com/resp/cVvhCcmoBhBZAweeXXqh">if we spend too much </a>and (2) will downgrade US banks <a href="http://r.smartbrief.com/resp/cVvhCcmoBhBZAweltoih">unless we spend too much on them</a>.  Oh, and the banks object to regulation because it would <a href="http://r.smartbrief.com/resp/cVvhCcmoBhBZAweBelfW">&#8220;artificially&#8221; reduce asset values</a> (presumably, many of the same ones Moody&#8217;s wants protected).
+</li>
+<li>Relatedly, James Salt (probably h/t Felix) notes that &#8220;generous&#8221; UK banks are <a href="http://blogs.reuters.com/jim-saft/2011/06/02/beware-generous-uk-banks/">playing reporting games</a>.  (The US version is to deny the rework and leave the asset marked at unsustainable levels.)
+</li>
+<li>That <a href="http://holykaw.alltop.com/school-superintendent-requests-school-be-turn">this is spot-on</a> would make me sadder if I thought we still lived in anything resembling a meritocracy, or even a developing economy.
+</li>
+<li>If we needed further evidence of that, the state with the best secondary eduction system in the country is pushing forward with <a href="http://schoolfinance101.wordpress.com/2011/06/03/the-offensively-defensive-ideology-of-charter-schooling/">privatize-the-gains</a>.
+</li>
+<li>I&#8217;m more and more convinced that China &#8220;is different,&#8221; but very much not certain the differences will make an ultimate difference.  Daniel Gross <a href="http://finance.yahoo.com/blogs/daily-ticker/bear-china-shop-163217166.html">is inclined to think not</a>.  More on this as I finally finish my review of <a href="http://www.amazon.com/Boombustology-Spotting-Financial-Bubbles-Before/dp/0470879467/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1305207274&#038;sr=1-1"><em>BoomBustOlogy</em></a>, which you should expect to see some time before the apocalypse.
+</li>
+<li>I assume everyone has already seen <a href="http://www.stanford.edu/group/scspi/cgi-bin/facts.php">this</a>.  Just in case, <a href="http://www.stanford.edu/group/scspi/cgi-bin/facts.php">check out the facts</a>, stylised or not.
+</li>
+<li>Oh, and Felix is wrong <a href="http://blogs.reuters.com/felix-salmon/2011/05/31/the-stocks-housing-disconnect/">here</a>.  But that&#8217;s a post that will probably never be written by me.  Someone else want to send it in?</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/random-notes-3-june-2011.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Liquidity, Markets, and Pricing: A Contemporary Example</title>
+		<link>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html</link>
+		<comments>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html#respond</comments>
+		<pubDate>Tue, 26 Apr 2011 14:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[ALM]]></category>
+		<category><![CDATA[balance sheets]]></category>
+		<category><![CDATA[liquidity]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[price discovery]]></category>
+		<category><![CDATA[program trading]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/liquidity-markets-and-pricing-a-contemporary-example.html</guid>
+		<description><![CDATA[A lot of trading in the Fixed Income (and especially FX) market is done for &#8220;liquidity&#8221; purposes. There is often an underlying goal involved (e.g., push prices higher with small lots, sell large ones at the elevated prices) and frequently such strategies are discussed as &#8220;algorithmic trading.&#8221; (Example: the algorithm estimates that you will need [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A lot of trading in the Fixed Income (and especially FX) market is done for &#8220;liquidity&#8221; purposes. There is often an underlying goal involved (e.g., push prices higher with small lots, sell large ones at the elevated prices) and frequently such strategies are discussed as &#8220;algorithmic trading.&#8221; (Example: the algorithm estimates that you will need to buy 5 $100MM lots of JPY at incrementally higher rates to be able to sell $1B USD at the higher JPY level.)</p>
+<p>The liquidity of the &#8220;markets&#8221; is facilitated by algorithmic trading: the seller for the first five trades in the above example doesn&#8217;t care about the <em>purpose</em> of the counterparty&#8217;s trade, just that the price bid is agreeable.</p>
+<p>Then there are the times <a href="http://digitallife.today.com/_news/2011/04/25/6525101-how-a-book-about-flies-cost-237-million-on-amazon?GT1=43001">when algorithmic pricing goes terribly wrong</a>:<br />
+<blockquote>Eisen began to keep track of the prices until he caught on to what was happening: The two sellers of that particular book — bordeebook and profnath — were adjusting their product prices algorithmically based on competitors:<br />
+<blockquote>Once a day profnath set their price to be 0.9983 times bordeebook’s price. The prices would remain close for several hours, until bordeebook “noticed” profnath’s change and elevated their price to 1.270589 times profnath’s higher price. The pattern continued perfectly for the next week.</p></blockquote>
+<p>The biologist continued to watch the prices grow higher and higher until they hit a peak price of $23,698,655.93 on April 19. On that day &#8220;profnath’s price dropped to $106.23, and bordeebook soon followed suit to the predictable $106.23 * 1.27059 = $134.97.&#8221; This means that someone must&#8217;ve noticed what was happening and manually adjusted the prices. [italics mine]</p></blockquote>
+<p>As a mathematical exercise, the shift from $106.23 to $23,000,000 and change is clear: one dealer must price their copy higher than the other dealer. (If both do so, you get to the same point or higher even quicker.) Similarly, if both dealers price at a fraction below 1.000 of the other, the price will converge toward $0.00 as the algorithm progresses.</p>
+<p>Consider the implication for a potential third seller, though.  Depending on when they check, they may believe they have a book that will make them (if and when sold) rich.  But the &#8220;market&#8221; they see is two computers offering against each other—there is no bid-side shown, and pricing &#8220;to sell&#8221; (say, $850K when both of the others are offered at around $1.7MM) implies that the third potential seller is carrying that asset at an inflated value.</p>
+<p>Market transactions do not require two entities to like each other, or even to understand what the other is trying to do.  Indeed, if your alogirthm is buying at 85.3 JPY/USD and mine is selling at that level, neither of us necessarily cares <em>why</em> the other is transacting.  And the rest of the market sees an actual trade against which they can adjust their pricing.</p>
+<p>It&#8217;s only when the algorithms are trying to do the same thing that $23MM+ books are offered.</p>
+<p>The implication for mark-to-market valuation seems obvious, and is left as an exercise to the reader.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/liquidity-markets-and-pricing-a-contemporary-example.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economics and Bosses</title>
+		<link>./../../2011/02/economics-and-bosses.html</link>
+		<comments>./../../2011/02/economics-and-bosses.html#respond</comments>
+		<pubDate>Mon, 28 Feb 2011 04:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[Ken Houghton]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[MPK]]></category>
+		<category><![CDATA[MPL]]></category>
+		<category><![CDATA[pensions]]></category>
+		<category><![CDATA[retirement]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/02/economics-and-bosses.html</guid>
+		<description><![CDATA[Peter Dorman at Econospeak, who is smarter and nicer than I am,* boils down the question: [D]o you believe that managers normally make the right decisions over how to run organizations? If you believe that premise, please explain: Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Peter Dorman at Econospeak, who is smarter and nicer than I am,* <a href="http://econospeak.blogspot.com/2011/02/are-bosses-always-right.html">boils down the question</a>:<br />
+<blockquote>[D]o you believe that managers normally make the right decisions over how to run organizations?</p></blockquote>
+<p>If you believe that premise, please explain:
+<ol>
+<li>Why all those great managers of the late 1940s through the mid-1970s ran defined benefit contribution plans, but their successors—who supposedly are more capable—are only capable of offering defined contribution?</li>
+<li>That &#8220;underfunded pension benefits&#8221; are evil, but &#8220;overunded&#8221; pensions led to the LBO (now &#8220;Private Equity&#8221;) movement of the 1980s.</li>
+<li>That, in the 1980s, GM being $1B underfunded caused Congress to pass a bill allowing pensions to become fully funded over 20 years—and that most of those targets were missed?</li>
+</ol>
+<p>If bosses are so good at managing &#8220;ongoing concerns,&#8221; why do they take their payments upfront?  What does—and should—this tell us about discount rates?</p>
+<p>*This is a fairly low standard, outside of people who work in finance.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/02/economics-and-bosses.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Accounting for Scott Sumner</title>
+		<link>./../../2010/09/accounting-for-scott-sumner.html</link>
+		<comments>./../../2010/09/accounting-for-scott-sumner.html#respond</comments>
+		<pubDate>Wed, 15 Sep 2010 16:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[AIG]]></category>
+		<category><![CDATA[Auto bailout]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[mortgage markets]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/09/accounting-for-scott-sumner.html</guid>
+		<description><![CDATA[Robert Waldmann This whole post is after the jump as my accounting is not ready for prime time. Scott Sumner thinks he is the first to note that the cost to the US government of bailing out the big banks is more likely to be a profit than a cost. Clearly he doesn&#8217;t read angry [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Robert Waldmann</p>
+<p>This whole post is after the jump as my accounting is not ready for prime time.</p>
+<p><a name="more"></a></p>
+<p><a href="http://www.themoneyillusion.com/?p=6995">Scott Sumner thinks he is the first to note that the cost to the US government of bailing out the big banks is more likely to be a profit than a cost. </a> Clearly he doesn&#8217;t read angry bear much, as I have been predicting that for months.</p>
+<p>His accounting strikes me as very odd.  Last I hear, the total cost of bailouts (including GSEs, AIG, GM and Chrysler) was predicted to be $87 billion.  This does not include the cost of the FDIC honoring its contracts which was not discretionary and not a bailout by any normal use of the word.</p>
+<p>Now Sumner reports the good news that the cost not including GM and Chrysler will be only 158 billion ?!? </p>
+<p>Huh what happened ?  First I think he forgot about roughly 125 billion when he wrote &#8220;Last time I wrote on this subject the eventual cost to the government from bailing out the big banks was estimated at a negative $7 billion–in other words a profit to Uncle Sam of $7 billion.&#8221;  I believe that when he wrote &#8220;the government&#8221; and &#8220;uncle Sam&#8221; he meant &#8220;The Treasury&#8221;.  Uncle Sam also has this little organization called the Federal Reserve Board.  Last I heard it was predicted to make a profit of 125 billion out of its bailout efforts.  Not all of that involved big banks, but I just don&#8217;t believe that the government made only 7 billion out of its direct interactions with big banks.  In any case, the 125 billion (or probably more now) seems to have escaped Prof. Sumner&#8217;s notice entirely.</p>
+<p>The news which he reports is that the current guess is that the cost of bailing out AIG is going to be about zero.  That is, the amount AIG owes is roughly equal to the expected present value of future repayments.</p>
+<p>Sumner gets his huge loss overall because he describes the cost of bailing out Fannie and Freddie as &#8220;$165 billion and rising.&#8221;  I believe this is the amount they owe the Treasury minus zero.  Sumner argues that big banks and AIG were OK investments and GSEs weren&#8217;t because in one case he includes expected discounted repayments and in the other he decides they are zero.</p>
+<p>It is worth noting that the GSE rescue involved loans at 10% per year and the GSE debt is not equal to money transferred from the Treasury to GSEs plus the interest the Treasury paid on that extra debt.  Oh no.  It is the amount transfered plus penalty interest rates charged on that amount.</p>
+<p>Basically, I beleive that Sumner did not stick to a consistent definition of &#8220;cost&#8221; and redefines the word so as to generate meaningless numbers which confirm his prejudices.</p>
+<p>Also he doens&#8217;t understand the extent of the US government and thinks it is just the department of the Treasury.</p>
+<p>One of us is profoundly confused.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/09/accounting-for-scott-sumner.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>No Need for a Bailout Any more</title>
+		<link>./../../2008/09/no-need-for-a-bailout-any-more.html</link>
+		<comments>./../../2008/09/no-need-for-a-bailout-any-more.html#respond</comments>
+		<pubDate>Tue, 30 Sep 2008 21:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[bailout]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[risk management]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/no-need-for-a-bailout-any-more.html</guid>
+		<description><![CDATA[Floyd Norris throws up [at] the details. He is not alone. Anyone keeping money in the U.S. stock market from this point forward better have no choice.]]></description>
+				<content:encoded><![CDATA[<p>Floyd Norris <a href="http://norris.blogs.nytimes.com/2008/09/30/fair-value-follies-2/">throws up [at] the details</a>.  He is not alone.</p>
+<p>Anyone keeping money in the U.S. stock market from this point forward better have no choice.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/no-need-for-a-bailout-any-more.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Let&#8217;s Play a Game: Connect the Dots</title>
+		<link>./../../2008/09/lets-play-a-game-connect-the-dots.html</link>
+		<comments>./../../2008/09/lets-play-a-game-connect-the-dots.html#respond</comments>
+		<pubDate>Thu, 11 Sep 2008 20:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[accounting]]></category>
+		<category><![CDATA[equity premia]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[investments]]></category>
+		<category><![CDATA[regulation]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/09/lets-play-a-game-connect-the-dots.html</guid>
+		<description><![CDATA[Let us assume: That there is an equity premium ([PDF] UPDATE: Link modified to Brad De Long posting in which the PDF is embedded. Hat tip: Don Lloyd in comments.) That the equity premium can be derived from a linear relationship (y = ax(1) + bx(2) + &#8230;.) of the most significant variables. That equity [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Let us assume:
+<ol>
+<li>That <a href="http://delong.typepad.com/sdj/2008/09/the-us-equity-p.html">there is an equity premium</a> (<s>[PDF]</s> UPDATE: Link modified to Brad De Long posting in which the PDF is embedded.  Hat tip: <a href="http://angrybear.blogspot.com/2008/09/lets-play-game-connect-dots.html#719787">Don Lloyd in comments</a>.)</p>
+</li>
+<li>That the equity premium can be derived from a linear relationship (y = ax(1) + bx(2) + &#8230;.) of the most significant variables.
+</li>
+<li>That equity premia are, to some not-insignificant extent, <a href="http://www.richmondfed.org/publications/economic_research/economic_quarterly/pdfs/winter2008/hatchondo.pdf">based on Wealth Inequality</a> [PDF].
+</li>
+<li>That one of the primary variables contributing to the premium is the reliability and quality of the information provided</li>
+</ol>
+<p>Given the above, should we expect the imminent weakening of U.S. accounting rules, discussed <a href="http://profalbrecht.wordpress.com/2008/09/11/take-this-mr-cox/">here</a> and <a href="http://norris.blogs.nytimes.com/2008/09/11/the-rush-to-international-accounting/">here</a>,  to produce a higher equity premium?*</p>
+<p>If so, there are two possibilities. Either,
+<ol>
+<li>the firms are perceived to have a higher present value, despite the change being one of accounting, not business flows or</p>
+</li>
+<li>the stock prices decline in the face of greater uncertainty, leading to an increase in the premium due to a lowering of the price.</li>
+</ol>
+<p>My instinctive answer—which I can probably be convinced is wrong, but it would take some effort**—is that the second would be the result.  Leaving only one question:</p>
+<p>Why does Christopher Cox (R-CA) hate the Securities Markets?</p>
+<p>*Following from [3] above, we can assume that greater information tends to result in more optimal investment practices, and therefore a lower equity premium.</p>
+<p>**The argument would have to show that the loosening of accounting practices will result in improvements to the company&#8217;s business processes that would not otherwise occur.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/09/lets-play-a-game-connect-the-dots.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>insolvency &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>&#8216;Party on&#8217; irony</title>
+		<link>./../../2008/03/party-on-irony.html</link>
+		<comments>./../../2008/03/party-on-irony.html#respond</comments>
+		<pubDate>Mon, 17 Mar 2008 14:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Bank failure]]></category>
+		<category><![CDATA[insolvency]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/03/party-on-irony.html</guid>
+		<description><![CDATA[CNN money points to pushback from non-US banks simply refusing to have a BS counterparty. Seems they were simply refusing to stay at the party. It&#8217;s unclear what exactly started Bear Stearns&#8217; nightmare this week. Veteran repurchase agreement traders told Fortune.com that a major European bank last week refused to accept Bear Stearns as a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://money.cnn.com/2008/03/14/news/bearstearns.fortune/index.htm?postversion=2008031611">CNN money</a> points to pushback from non-US banks simply refusing to have a BS counterparty.  Seems they were simply refusing to stay at the party.</p>
+<blockquote><p>It&#8217;s unclear what exactly started Bear Stearns&#8217; nightmare this week. Veteran repurchase agreement traders told Fortune.com that a major European bank last week refused to accept Bear Stearns as a counterparty to a large swap trade. By late Monday and early Tuesday, traders at hedge funds told Fortune that they were being charged a premium by the swaps desks at Deutsche Bank (DB), UBS (UBS) and Citigroup (C, Fortune 500) to execute trades with Bear Stearns as the counterparty or which involved its credit. </p>
+<p>The bottom fell out on Thursday, Bear Stearns CFO Molinaro told investors. The demands for cash came from counterparties as well as hedge fund clients who wanted to close out their prime brokerage accounts. The market voted with its feet and wallets.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/03/party-on-irony.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

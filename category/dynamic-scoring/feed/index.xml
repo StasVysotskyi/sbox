@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dynamic scoring &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dynamic Scoring &#8211; Two Simple Graphs Tell a Story</title>
+		<link>./../../2008/01/dynamic-scoring-two-simple-graphs-tell-a-story.html</link>
+		<comments>./../../2008/01/dynamic-scoring-two-simple-graphs-tell-a-story.html#respond</comments>
+		<pubDate>Fri, 11 Jan 2008 04:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[dynamic scoring]]></category>
+		<category><![CDATA[James Pethokoukis]]></category>
+		<category><![CDATA[The Great Recession of 2000 That Never Was]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2008/01/dynamic-scoring-two-simple-graphs-tell-a-story.html</guid>
+		<description><![CDATA[In this era of tax cuts, we&#8217;re bound to hear more about &#8220;dynamic scoring&#8221; from those who simply refuse to look at data. Here is James Pethokoukis, who has a blog at US News: One big problem is that budgeteers surely would crunch the numbers and claim the plan would result in $2 trillion to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In this era of tax cuts, we&#8217;re bound to hear more about &#8220;dynamic scoring&#8221; from those who simply refuse to look at data.   Here is <a href="http://www.usnews.com/blogs/capital-commerce/2008/1/9/giuliani-tax-plan-is-a-supply-side-dream.html?s_cid=rss:capital-commerce:giuliani-tax-plan-is-a-supply-side-dreamhttp://www.usnews.com/blogs/capital-commerce/2008/1/9/giuliani-tax-plan-is-a-supply-side-dream.html?s_cid=rss:capital-commerce:giuliani-tax-plan-is-a-supply-side-dream">James Pethokoukis</a>, who has a blog at US News:</p>
+<blockquote><p>One big problem is that budgeteers surely would crunch the numbers and claim the plan would result in $2 trillion to $3 trillion in lost government revenue. Such &#8220;static scoring&#8221; that does not take into account the economic growth impact of lower taxes may well be bunk.</p></blockquote>
+<p>So&#8230;  Pethokoukis tells us we have to &#8220;take into account the economic growth impact of lower taxes.&#8221;  Let&#8217;s look at some data to figure out what that economic growth impact might looks like, shall we? </p>
+<p>Below is a graph showing the annual growth in real GDP per capita, by president starting with Ike, sorted from fastest growth to slowest growth.  Data comes from the BEA&#8217;s <a href="http://www.bea.gov/national/nipaweb/SelectTable.asp?Selected=N#S7">NIPA table 7.1</a>.  For each president, its calculated from the last year before the President took office to the last full year the President served.  (Since JFK was killed and Nixon quit more than half-way through the year, I assumed JFK&#8217;s &#8220;last full year&#8221; was 1963 and Nixon&#8217;s was 1974.)  </p>
+<p><a href="http://4.bp.blogspot.com/_yBU2IH33oeM/R4bdfdumL6I/AAAAAAAAA80/yYHmZlEFR2A/s1600-h/dynamic+scoring+-+real+GDP+per+capita+graph.jpg"><img src="http://4.bp.blogspot.com/_yBU2IH33oeM/R4bdfdumL6I/AAAAAAAAA80/yYHmZlEFR2A/s320/dynamic+scoring+-+real+GDP+per+capita+graph.jpg" border="0" alt=""></a></p>
+<p>I&#8217;ll let you noodle out the color coding scheme I&#8217;ve come up with on your own&#8230; but I will simply note that yes, the blue bars do seem congregate mostly on one side, and the red bars mostly on the other.  Funny thing, that.</p>
+<p>Now, another graph&#8230;  This one shows the annual change in taxes as a percent of personal income.  With the same color scheme.  (I hope you&#8217;ve figured it out!!) This includes taxes on labor and capital gains.  The data comes from the <a href="http://www.irs.gov/taxstats/article/0,,id=175814,00.html">IRS</a>.</p>
+<p><a href="http://3.bp.blogspot.com/_yBU2IH33oeM/R4bdaNumL5I/AAAAAAAAA8s/sHO2qVyJLr8/s1600-h/dynamic+scoring+-+taxes+as+a+percent+of+personal+income+graph.jpg"><img src="http://3.bp.blogspot.com/_yBU2IH33oeM/R4bdaNumL5I/AAAAAAAAA8s/sHO2qVyJLr8/s320/dynamic+scoring+-+taxes+as+a+percent+of+personal+income+graph.jpg" border="0" alt=""></a></p>
+<p>Once again, the bars on the graph do some pretty obvious self-segregation based on color. </p>
+<p>Looking at the two graphs together, I can only conclude&#8230; folks like Pethokoukis and the rest of them that tell us we need to take into account dynamic scoring may be right.  But if we are going to &#8220;take into account the economic growth impact of lower taxes&#8221; we should probably do it right&#8230;  by reducing the expected economic growth.  Though I imagine Pethokoukis and the other dynamic scoring peddlers probably would manage to see something else in the graphs I posted.</p>
+<p>&#8212;</p>
+<p>Update&#8230; Minor grammatical error corrected.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2008/01/dynamic-scoring-two-simple-graphs-tell-a-story.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>normal distribution &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Finance and belief in how markets work</title>
+		<link>./../../2013/03/finance-and-belief-in-how-markets-work.html</link>
+		<comments>./../../2013/03/finance-and-belief-in-how-markets-work.html#respond</comments>
+		<pubDate>Fri, 15 Mar 2013 13:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Cathy O'Niel]]></category>
+		<category><![CDATA[normal distribution]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2013/03/finance-and-belief-in-how-markets-work.html</guid>
+		<description><![CDATA[Via Naked Capitalism comes this post from Cathy O&#8217;Niel, Black Scholes and the normal distribution. form her blog mathbabe. (re-posted with permission from the author). There have been lots of comments and confusion, especially in this post, over what people in finance do or do not assume about how the markets work. I wanted to dispel [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Via <a href="http://www.nakedcapitalism.com/2013/03/cathy-oneil-black-scholes-and-the-normal-distribution.html#8DRYALIumDeBb9jL.99">Naked Capitalism</a> comes this post from Cathy O&#8217;Niel, <i>Black Scholes and the normal distribution. </i>form her blog <i><a href="http://mathbabe.org/2013/03/12/black-scholes-and-the-normal-distribution/"> mathbabe.</a> </i>(re-posted with permission from the author).</p>
+<p>There have been lots of comments and confusion, <a href="http://mathbabe.org/2013/03/10/modeling-fraud-in-the-financial-system/#comments">especially in this post</a>, over what people in finance do or do not assume about how the markets work. I wanted to dispel some myths (at the risk of creating more).</p>
+<p>First, there’s a big difference between quantitative trading and quantitative risk. And there may be a bunch of other categories that also exist, but I’ve only worked in those two arenas.</p>
+<p><strong>Markets are not efficient</strong></p>
+<p>In quantitative trading, nobody really thinks that “markets are efficient.” That’s kind of ridiculous, since then what would be the point of trying to make money through trading? We essentially make money because they aren’t. But of course that’s not to say they are entirely inefficient. Some approaches to removing inefficiency, and some markets, are easier than others. There can be entire markets that are so old and well-combed-over that the inefficiencies (that people have thought of) have been more or less removed and so, to make money, you have to be more thoughtful. A better way to say this is that the inefficiencies that are left are smaller than the transaction costs that would be required to remove them.</p>
+<p>It’s not clear where “removing inefficiency” ends and where a different kind of trading begins, by the way. In some sense all algorithmic trades that work for any amount of time can be thought of as removing inefficiency, but then it becomes a useless concept.</p>
+<p><a name="more"></a></p>
+<p>Also, you can see from the above that traders have a vested interest to introduce new kinds of markets to the system, because new markets have new inefficiencies that can be picked off.</p>
+<p>This kind of trading is very specific to a certain kind of time horizon as well. Traders and their algorithms typically want to make money in the average year. If there’s an inefficiency with a time horizon of 30 years it may still exist but few people are patient enough for it (I should add that we also probably don’t have good enough evidence that they’d work, considering how quickly the markets change). Indeed the average quant shop is going in the opposite direction, of high speed trading, for that very reason, to find the time horizon at which there are still obvious inefficiencies.</p>
+<p><strong>Black-Scholes</strong></p>
+<p>A long long time ago, before Black Monday in 1987, people didn’t know how to price options. Then <a href="http://en.wikipedia.org/wiki/Black%E2%80%93Scholes">Black-Scholes</a> came out and traders started using the Black-Scholes (BS) formula and it worked pretty well, until Black Monday came along and people suddenly realized the assumptions in BS were ridiculous. Ever since then people have adjusted the BS formula. Everyone.</p>
+<p>There are lots of ways to think about how to adjust the formula, but a very common one is through the <a href="http://en.wikipedia.org/wiki/Volatility_smile">volatility smile</a>. This allows us to remove the BS assumption of constant volatility (of the underlying stock) and replace it with whatever inferred volatility is actually traded on in the market for that strike price and that maturity. As <a href="http://mathbabe.org/2013/03/10/modeling-fraud-in-the-financial-system/#comment-22262">this commenter mentioned</a>, the BS formula is still used here as a convenient reference to do this calculation. If you extend your consideration to any maturity and any strike price (for the same underlying stock or thingy) then you get a <a href="http://en.wikipedia.org/wiki/Volatility_surface#Implied_volatility_surface">volatility surface</a> by the same reasoning.<br />Two things to mention. First, you can think of the volatility smile/ surface as adjusting the assumption of constant volatility, but you can also ascribe to it an adjustment of the assumption of a normal distribution of the underlying stock. There’s really no way to extricate those two assumptions, but you can convince yourself of this by a thought experiment: if the volatility stays fixed but the presumed shape of the distribution of the stocks gets fatter-tailed, for example, then option prices (for options that are far from the current price) will change, which will in turn change the implied volatility according to the market (i.e. the smile will deepen). In other words, the smile adjusts for more than one assumption.</p>
+<p>The other thing to mention: although we’ve done a relatively good job adjusting to market reality when pricing an option, when we apply our current risk measures like <a href="http://en.wikipedia.org/wiki/Value_at_risk">Value-at-Risk</a> (VaR) to options, we still assume a normal distribution of risk factors (one of the risk factors, if we were pricing options, would be the implied volatility). So in other words, we might have a pretty good view of current prices, but it’s not at all clear we know how to make reasonable scenarios of future pricing shifts.</p>
+<p>Ultimately, this assumption of normal distributions of risk factors in calculating VaR is actually pretty important in terms of our view of systemic risks. We do it out of computational convenience, by the way. That and because when we use fatter-tailed assumptions, people don’t like the answer.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2013/03/finance-and-belief-in-how-markets-work.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

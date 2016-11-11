@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>car &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The typical American family can&#8217;t afford the typical new car!</title>
+		<link>./../../2010/07/the-typical-american-family-cant-afford-the-typical-new-car.html</link>
+		<comments>./../../2010/07/the-typical-american-family-cant-afford-the-typical-new-car.html#respond</comments>
+		<pubDate>Tue, 06 Jul 2010 09:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Auto Industry]]></category>
+		<category><![CDATA[car]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/07/the-typical-american-family-cant-afford-the-typical-new-car.html</guid>
+		<description><![CDATA[Moneycentral author Liz Pulliam offers advice using one American symbol of success, the car, as one measure of the times. I had suggested that if you can&#8217;t pay cash for your next car, you should make a down payment of at least 20%, finance the balance for four years or less and make sure the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a target="_blank" href="http://articles.moneycentral.msn.com/SavingandDebt/SaveonaCar/weston-a-car-payment-is-not-a-fact-of-life.aspx">Moneycentral</a> author Liz Pulliam offers advice using one American symbol of success, the car, as one measure of the times.</p>
+<blockquote><p>I had suggested that if you can&#8217;t pay cash for your next car, you should make a down payment of at least 20%, finance the balance for four years or less and make sure the resulting payment is no more than 10% of your gross income.</p>
+<p>[One]&#8230;reader did the math and sputtered, but that means the typical American family can&#8217;t afford the typical new car!</p>
+<p>Someone who purchased a new car last year, when the average price was $28,966 according to the National Automobile Dealers Association, would have needed a household income of nearly $65,000 to swing a purchase under my formula. That assumes a 5.75% interest rate, which <em>Edmunds.com</em> says was the average paid by buyers who financed new cars in 2009. The latest statistics from the Census Bureau show median household income was about $50,000 in 2008. &#8220;Median&#8221; means half of all U.S. households earned less. </p>
+<p>&#8230;</p>
+<p>Then Harvard bankruptcy professor Elizabeth Warren (now on loan to the Obama administration to lead the congressional oversight panel for the Troubled Asset Relief Program) and her daughter Amelia Warren Tyagi wrote a terrific book called <a target="_blank" href="http://www.mdmproofing.com/iym/reviews/review014.html">All Your Worth: The Ultimate Lifetime Money Plan</a></p></blockquote>
+<p>You can play with your own numbers <a target="_blank" href="http://articles.moneycentral.msn.com/SavingandDebt/LearnToBudget/50-30-20-budget.aspx">here</a>.</p>
+<p><a target="_blank" href="http://www.edmunds.com/apps/calc/CalculatorController?pmtcalAction=affordability&#038;tid=edmunds..calculators.afford_tab.afford.tab_link..*">Edmunds</a> has an &#8216;affordability&#8217; calculator that allows a buyer to work the numbers from a different angle&#8230;with similar results for a total price range affordability. Using &#8220;$4000 less $600 car insurance and $1000 maintenance = $3600/yr&#8221; is about $300/month at 4.1% (a quick call to Triple A) for 48 months equals a car from $13,600 to $16,300 tops.</p>
+<p>Ouch.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/07/the-typical-american-family-cant-afford-the-typical-new-car.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>operational risk &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Obama Administration Foolishness, Part 2</title>
+		<link>./../../2010/10/obama-administration-foolishness-part-2.html</link>
+		<comments>./../../2010/10/obama-administration-foolishness-part-2.html#respond</comments>
+		<pubDate>Mon, 18 Oct 2010 22:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[defense spending]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[ongoing concern]]></category>
+		<category><![CDATA[operational risk]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2010/10/obama-administration-foolishness-part-2.html</guid>
+		<description><![CDATA[I took a couple of days to let life interfere with blogging, but none of the standard politics/economics bloggers seems to have highlighted this note from the Lex column of last Wednesday’s (13 October 2010) FT (again, no link; feel free to provide in comments) under the heading “Defence M&#038;A”: Lockheed has two small services [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I took a couple of days to let life interfere with blogging, but none of the standard politics/economics bloggers seems to have highlighted this note from the Lex column of last Wednesday’s (13 October 2010) FT (again, no link; feel free to provide in comments) under the heading “Defence M&#038;A”:<br />
+<blockquote>
+<p>Lockheed has two small services businesses on the block. [These] in particular appear vulnerable as Robert Gates, secretary of defence, <em>looks for back-office savings to fund operational spending.</em></p>
+</blockquote>
+<p>That’s pretty much a fair description of the reason for the existence of <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1469749" target="_blank">MERS</a>.* If there is an area of the U.S. economy that it <strike>is more corrupt</strike> has poorer incentive-alignment than FIRE, it is Defense Spending.  Mr. Gates’s willingness to encourage that by removing processing controls does not bode well for long-term budgetary value.</p>
+<p> </p>
+<p>*Well, the other reason, after tax evasion.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2010/10/obama-administration-foolishness-part-2.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

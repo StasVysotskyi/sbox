@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Michael Halasy &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Endogenous Economic Growth and Health</title>
+		<link>./../../2012/08/endogenous-economic-growth-and-health.html</link>
+		<comments>./../../2012/08/endogenous-economic-growth-and-health.html#respond</comments>
+		<pubDate>Thu, 09 Aug 2012 16:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[economic growth]]></category>
+		<category><![CDATA[health outcomes]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/08/endogenous-economic-growth-and-health.html</guid>
+		<description><![CDATA[Repeat after me: H_(t+1)=E(H_t )+[G(B-φ(K))] × s_H Y This follows the work of Mokyr (1993) and is the final construct of Bishai and Kung.  Basically, H_t is the current health stock of the population, E is a decreasing function of health stock as an environmental contagion, G is the quality of health production technology, B [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Repeat after me:                <img src="file:/Users/mph01/Library/Caches/TemporaryItems/msoclip/0clip_image001.png">
+<div>
+<div>H_(t+1)=E(H_t )+[G(B-φ(K))] × s_H Y
+</p>
+</div>
+<div></div>
+<div>This follows the work of Mokyr (1993) and is the final construct of Bishai and Kung. </div>
+<div></div>
+<div>Basically, H_t is the current health stock of the population, E is a decreasing function of health stock as an environmental contagion, G is the quality of health production technology, B is the best available health technology in the area, and φ represents the gap between the best health technology and the actual health technology and is a decreasing function of capital. </div>
+<div></div>
+<div>What does this mean? Why should anyone care? </div>
+<div></div>
+<div>Simple&#8230;..</div>
+<div></div>
+<div>Any economy is dependent on the equation Y = f(K,L,H) with Y representing GDP, K equaling capital, L-labor, and H-health of the labor force.</div>
+<div></div>
+<div>What it means for the average reader? Well, investment in healthcare improvement by the government creates a positive feedback cycle where better health= better economic performance, which then becomes:</div>
+<div></div>
+<div>more health = more income= more health, etc. </div>
+<div></div>
+<div>Certainly there are also exogenous factors as demonstrated by the Preston Curve, and McKeown has documented these well, although not without criticism. But that is the subject of an entirely different post. </div>
+<p></div>
+<div></div>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/08/endogenous-economic-growth-and-health.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Drug shortages and the mythical market</title>
+		<link>./../../2012/04/drug-shortages-and-the-mythical-market.html</link>
+		<comments>./../../2012/04/drug-shortages-and-the-mythical-market.html#respond</comments>
+		<pubDate>Sun, 08 Apr 2012 22:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[market economics]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/drug-shortages-and-the-mythical-market.html</guid>
+		<description><![CDATA[by Michael Halasy Drug shortages and the mythical marketI read an interesting article by Gehrett in the January issue of JAMA. In response to the increased utilization of generic drugs (currently about 70% of drugs used in the US), a fact which should be applauded, we have seen a frightening increase in drug shortages. In [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong></strong><br /><strong></strong>by <strong>Michael Halasy</strong></p>
+<p><strong>Drug shortages and the mythical market</strong><br /><strong><br /></strong><br />I read an interesting article by Gehrett in the January issue of <a href="http://jama.ama-assn.org/content/307/2/153.full" target="_blank">JAMA</a>.</p>
+<p>In response to the increased utilization of generic drugs (currently about 70% of drugs used in the US), a fact which should be applauded, we have seen a frightening increase in drug shortages. In Emergency Medicine, three of them have affected me directly as they are commonly used drugs. One, metoclopramide is useful for headaches, nausea, and gastric motility. Another, etomidate, is a useful sedative that is the staple drug in RSI (Rapid Sequence Intubation) kits across the country, and used on EMS ambulances extensively. There is a reason. Etomidate has lower cardiopulmonary depression than other sedatives like diprivan aka propofol. Another drug that is in shortage is Compazine, aka prochlorperazine, which is extensively used for migraines, as well as benign vertigo. In fact, it remains one of my favorite “staple” drugs. </p>
+<p>Per the article, in 2005, the Center for Drug Evaluation and Research only noted 62 shortages through the year. 2009 saw 157 shortages, 2010, 178. 2011 had estimates of between 200 and 300. 75% in 2010 were sterile injectables. Ya know, The medications most frequently used in hospital settings. Many of these drugs are made at one site, by only one company, which limits supply and increases the chances of disruption.</p>
+<p>While Gehrett does note that 80% of raw materials come from foreign countries, there does not seem to be any shortage of raw materials that have been documented or noted. </p>
+<p><a name="more"></a></p>
+<p>The only single, commonality, is that all of the medications we have seen in shortage status are off patent, generic medications, that are harder to formulate than some others, and have a definable shelf life. <br />President Obama has signed legislation that will give the FDA more latitude in heading off shortages, but this problem plainly reports to a market problem. Demand exists…supply is stable, but profits are not high on these medications. This would suggest that companies are simply avoiding injectable generics, and focusing on more profitable patented medications. </p>
+<p>Meanwhile, cancer trials have been put on hold, while companies focus on profit margins. Headache patients suffer and receive other medications that may be suboptimal for them. This situation is only worsening with time, and should be cause of concern for all Americans.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/drug-shortages-and-the-mythical-market.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Michael Halasy to write for Angry Bear</title>
+		<link>./../../2012/04/michael-halasy-to-write-for-angry-bear.html</link>
+		<comments>./../../2012/04/michael-halasy-to-write-for-angry-bear.html#respond</comments>
+		<pubDate>Sat, 07 Apr 2012 23:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care system]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/michael-halasy-to-write-for-angry-bear.html</guid>
+		<description><![CDATA[Michael has written for Angry Bear in the past (see two of many Prometheus and Bundled Payments and Medical Tourism, separating facts from fiction).  He is a practicing PA in Emergency Medicine. My undergraduate education started with economics. I function as a health policy analyst for a couple of national organizations and as a health [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Michael has written for <strong>Angry Bear </strong>in the past (see two of many <a href="http://www.angrybearblog.com/2011/04/medical-tourism-separating-facts-from.html" target="_blank">Prometheus and Bundled Payments</a> and <a href="http://www.angrybearblog.com/2011/04/medical-tourism-separating-facts-from.html">Medical Tourism, separating facts from fiction</a>).  He is<br />
+<blockquote>a practicing PA in Emergency Medicine. My undergraduate education started with economics. I function as a health policy analyst for a couple of national organizations and as a health services researcher, working in a collaborative role on OR/SE projects and workforce/value studies as well.</p></blockquote>
+<p>Michael will be writing on healthcare, health insurance, US healthcare system economics and issues of policy.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/michael-halasy-to-write-for-angry-bear.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Congressman Ryan’s Health Care Booby Trap</title>
+		<link>./../../2012/04/congressman-ryans-health-care-booby-trap.html</link>
+		<comments>./../../2012/04/congressman-ryans-health-care-booby-trap.html#respond</comments>
+		<pubDate>Mon, 02 Apr 2012 16:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[health care law]]></category>
+		<category><![CDATA[health insurance reform]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/04/congressman-ryans-health-care-booby-trap.html</guid>
+		<description><![CDATA[by Michael Halasy Congressman Ryan’s Health Care Booby Trap Much has been said about “repeal and replace” it has become almost as much a part of GOP lexicon as “drill baby, drill”. The GOP despite having been supportive of the framework for the ACA previously, wants badly to discredit the administration and claim a victory [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Michael Halasy</p>
+<p>Congressman Ryan’s Health Care Booby Trap</p>
+<p>  Much has been said about “repeal and replace” it has become almost as much a part of GOP lexicon as “drill baby, drill”.  The GOP despite having been supportive of the framework for the ACA previously, wants badly to discredit the administration and claim a victory in the name of “freedom”. Too bad history shows that the Heritage Foundation and VP Stuart Butler supported a plan almost virtually identical to the ACA.</p>
+<p>  Now, along comes Congressman Ryan, despite being rebuffed last year for the “Roadmap”, he has come along with a v 2.0. Unfortunately, he is making headway. I won’t comment on the other aspects of the new and improved Roadmap, but it seems to be just as much of a disaster as the previous one. The House has already passed it of course, and Romney, aka etch a sketch, has enthusiastically received the Congressman’s endorsement and has endorsed Ryan’s plan as well.</p>
+<p>So we know that the GOP, primarily the Tea Partier’s, despise the individual mandate as a violation of their freedom. Ezra Klein had a great article last week about the hidden mandate in the Ryan bill , but does not discuss the fact that it will <a href="http://www.washingtonpost.com/blogs/ezra-klein/post/there-was-a-reason-conservatives-once-supported-the-individual-mandate/2012/03/30/gIQAiddnlS_blog.html" target="_blank">essentially eliminate employer based insurance</a>. Now, Ryan’s plan assumes that the state based exchanges (sound familiar?) will produce a lot of savings, and he assumes that market forces will do even more. To that end, he offers a couple of tax credits. But, oh by the way, you LOSE employer based coverage under Ryan. It severs it completely. So an individual gets a 2,300 dollar tax credit (family is 5,700) to buy insurance. I can tell you now, that the average per the Kaiser Family Foundation for a single individual is much higher than 2,300. <br /><a name="more"></a><br />Family plan premiums are $15,073 on average, while coverage for single employees is about $5,429.  </p>
+<p>Workers contributed an average of $921 toward the premium of single coverage and $4,129 for family plans.   </p>
+<p>What this means, is, that under the Ryan plan, your single insurance premium will cost you 2,208 MORE per year out of your own pocket at current cost. Family plans will cost you 5,244 MORE per year out of your own pocket.  </p>
+<p>That&#8217;s the repeal and replace plan folks&#8230;..That&#8217;s what the House voted on and passed&#8230;..That&#8217;s what Romney endorsed&#8230;.THAT&#8217;s the GOP plan&#8230;  </p>
+<p>It&#8217;ll save businesses money, and it&#8217;s great for corporate America. However, it is not so great for the average small family living on 40-45k per year combined income.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/04/congressman-ryans-health-care-booby-trap.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cato has truly shocked me….stupefied really</title>
+		<link>./../../2011/10/cato-has-truly-shocked-me-stupefied-really.html</link>
+		<comments>./../../2011/10/cato-has-truly-shocked-me-stupefied-really.html#respond</comments>
+		<pubDate>Sun, 23 Oct 2011 16:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[malpractice]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+		<category><![CDATA[Michael Halasy (healthcare)]]></category>
+		<category><![CDATA[tort reform]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/cato-has-truly-shocked-me-stupefied-really.html</guid>
+		<description><![CDATA[by Michael Halasy Cato has truly shocked me….stupefied really. Those who have followed me at Angry Bear will recall my series on tort reform that I wrote this past year. In particular, I wrote a piece on the possible safety risks that patients would be exposed to, with a 0.02% increase in patient mortality with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Michael Halasy <br />Cato has truly shocked me….stupefied really.</p>
+<p>Those who have followed me at Angry Bear will recall my series on tort reform that I wrote this past year. In particular, I wrote a piece on the possible safety risks that patients would be exposed to, with a 0.02% increase in patient mortality with a 10% reduction in medical malpractice liability costs…  </p>
+<p>Well, just the other day, I received an update from Cato. Now, Michael Cannon is a good guy, and while he and I simply don’t agree on &#8230; well much of anything from a health policy perspective, his colleague, Shirley Svorny, wrote <a href="http://www.cato.org/pub_display.php?pub_id=13780&#038;utm_source=Cato+Institute+Emails&#038;utm_campaign=e370845605-Medical_Malpractice_Damage_Caps10202011&#038;utm_medium=email" target="_blank">this:</a> <br />
+<blockquote>More broadly, patients derive protection from an interdependent system of physician evaluation, penalties, and oversight that includes hospital and health maintenance organization credentialing and privileging activities, specialty boards, and the medical malpractice insurance industry.  Underlying nearly all of these activities is the threat of legal liability for negligent injuries. Reducing physician liability for negligent care by capping court awards, all else equal, will reduce the resources allocated to medical professional liability underwriting and oversight and make many patients worse off. Legislators who see mandatory liability caps as a cost-containment tool should look elsewhere.</p></blockquote>
+<p>I believe that I have been consistent with this…over and over. There are some reforms that could work. So called “indirect” reforms. Joint and Severability reform, mandatory periodic payments, dedicated malpractice courts, patient compensation funds, etc. etc. But direct reforms, IE; caps on noneconomic damages DO NOT WORK. </p>
+<p>So, I have to (gulp) swallow some pride, and tip my hat to Cato….Now I need to go take a shower. I feel a little dirty. <a href="http://www.blogger.com/" name="_GoBack"></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/cato-has-truly-shocked-me-stupefied-really.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Super Committee and GME funding</title>
+		<link>./../../2011/10/super-committee-and-gme-funding.html</link>
+		<comments>./../../2011/10/super-committee-and-gme-funding.html#respond</comments>
+		<pubDate>Mon, 17 Oct 2011 13:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Health care costs]]></category>
+		<category><![CDATA[health care reform]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+		<category><![CDATA[super committee]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/10/super-committee-and-gme-funding.html</guid>
+		<description><![CDATA[By Michael Halasy Super Committee and GME funding SO, about that super committee. Surely you remember, the gang of 12 that was created by the showdown over the debt ceiling this summer. Well, they’re hard at work but among the proposals out there, is one that is causing some grave concerns. As a health workforce [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>By Michael Halasy</p>
+<p>Super Committee and GME funding</p>
+<p>SO, about that super committee. Surely you remember,  the gang of 12 that was created by the showdown over the debt ceiling this summer.  Well, they’re hard at work but among the proposals out there, is one that is causing some grave concerns. </p>
+<p>As a health workforce researcher, I understand implicitly the difficulties that lie ahead and the underlying shortage of physicians that will worsen dramatically by 2025. Current estimates suggest a shortage of over a 130,000 physicians by that time.  Many, if not most, do not realize that physician training, at least the post graduate residency phase, is paid for by CMS (Center for Medicare Services). </p>
+<p>Currently, as we all know, if the super committee does nothing, there will be an across the board 2% cut to all federal discretionary spending. Some of the other proposals are a little more concerning.  In 2010, direct GME expenses totaled 9.5 billion. IME or Indirect Medical Education expenses totaled an additional 6 billion. <br />IME represents an additional 5.5 % payment to teaching hospitals, as it is understood that they not only teach other health professionals, but that there may be extra costs associated with education. Current proposals are to cut that rate in half (first proposed by Simpson-Bowles) to 2.2%.  Among other proposals which include Home Health Co-Pays, SNF (skilled nursing facility) shared payments, raising Medicare eligibility to the age of 67, lies a proposal by the House Ways and Means Committee to cut GME funding by 15 billion over the next ten years, or a 15.7% cut. It is unknown at this time if the Committee will pursue this, but this is problematic.<br /><a name="more"></a><br />Adding to the problem is the current GME Cap placed in effect in 1997, when several organizations were predicting an oversupply of physicians.  This is not our current concern. This cap is problematic, and with the current budgetary concerns has no chance of changing. By 2015, we will have had over a 30% increase in medical school graduates from 2000. There is significant concern that also by 2015, we will not have enough GME residency slots for all US graduates, without even mentioning the several thousand US citizens who go to foreign medical schools every year. </p>
+<p>States have already reduced the amount of money in the GME system, with only 41 states participating, and contributing a little over 3 billion annually. Nine additional states are now likely to opt out as well. </p>
+<p>We need a serious look at discretionary spending, but this will only compound and weaken an already distressed healthcare system.  I hope that the Super Committee strongly considers this, and looks to other alternatives.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/10/super-committee-and-gme-funding.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Guest post: AMA backs the mandate…</title>
+		<link>./../../2011/06/guest-post-ama-backs-the-mandate.html</link>
+		<comments>./../../2011/06/guest-post-ama-backs-the-mandate.html#respond</comments>
+		<pubDate>Thu, 23 Jun 2011 14:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ACA]]></category>
+		<category><![CDATA[AMA]]></category>
+		<category><![CDATA[individual mandate]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/06/guest-post-ama-backs-the-mandate.html</guid>
+		<description><![CDATA[Guest post by Michael Halasy AMA backs the mandate… The AMA has its annual House of Delegates meeting last week, and boy, are they concerned. Recent evidence has suggested that they have lost 12,000 members since 2009. Much of this has been due to the AMA’s support of the PPACA. Today, the HOD voted to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Guest post by <strong>Michael Halasy</strong></p>
+<p>AMA backs the mandate…   </p>
+<p>The AMA has its annual House of Delegates meeting last week, and boy, are they concerned. Recent evidence has suggested that they have lost 12,000 members since 2009. Much of this has been due to the AMA’s support of the PPACA. Today, the HOD voted to maintain the support of the individual mandate, (Chicago Tribune story <a href="http://www.chicagotribune.com/news/local/breaking/chibrknews-ama-debates-health-insurance-mandate-reports-membership-loss-20110619" target="_blank">here</a>).</p>
+<p>The problem with this concern is that it isn’t new. The AMA has been losing members for many years. They have also been losing money.  <br /><a name="more"></a>At one point in there history, the AMA was powerful, perhaps one of the most powerful organizations in the country. Politicians feared them. People respected them. But then, with the rampant specialization that really began in the early 1960’s, physicians started to jump ship. Many began to only belong to the rapidly rising specialty organizations, believing that they could tend to their interests as a specialty physician better.<br />Add to this, that the AMA chose to have battles with…..well, everyone. They fought against group practices, labeling them “communist”. They challenged the creation of HMO’s and vigorously opposed Medicare. They fought against the Doctor of Osteopathy (D.O.) profession. They challenged the creation of the Nurse Practitioner and Physician Assistant professions, and have continually challenged Podiatrists, Chiropracters, Optometrists, Psychologists, and virtually everyone NOT an M.D. <br />The end result was an organization that became a caricature. A cartoon. Like the boy that cried wolf, the AMA lost respect and wasted precious political capital in far too many small skirmishes that could have been negotiated instead of battled. During this time they lost a lot of members. Determining the peak of membership is difficult as the AMA does not make that public, but it seems that membership during the aughts has decreased by about 2-3% annually, with this latest decreased of 5% being the most substantial. This means that once you discount the medical students, residents, and fellows, you have at best about 19-20% of physicians represented. Once you discount retirees the number is closer to 15-16% of practicing physicians. <br />This is too bad, but this is a situation that they themselves created.</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/06/guest-post-ama-backs-the-mandate.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Guest post: Regional Disparities in Health Spending in Medicare</title>
+		<link>./../../2011/04/guest-post-regional-disparities-in-health-spending-in-medicare.html</link>
+		<comments>./../../2011/04/guest-post-regional-disparities-in-health-spending-in-medicare.html#respond</comments>
+		<pubDate>Sat, 09 Apr 2011 14:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[medicare]]></category>
+		<category><![CDATA[Michael Halasy]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/04/guest-post-regional-disparities-in-health-spending-in-medicare.html</guid>
+		<description><![CDATA[by Michael Halasy Health Policy Analyst and Emergency Medicine PA Regional Disparities in Health Spending&#8230; Jason Shafrin, over at the Healthcare Economist, brings up an interesting paper examining the data from the Dartmouth Atlas. For those that are unfamiliar, the Dartmouth Atlas is a compendium of data examining Medicare spending per beneficiary, and then comparing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by Michael Halasy Health Policy Analyst and Emergency Medicine PA</p>
+<p><a href="http://physasst.blogspot.com/2011/04/regional-disparities-in-health-spending.html" target="_blank">Regional Disparities in Health Spending&#8230;</a> 
+<p>Jason Shafrin, over at the Healthcare Economist, brings up an <a href="http://healthcare-economist.com/2011/04/04/regional-differences-in-medicare-spending-and-health-status/" target="_blank">interesting paper</a> examining the data from the Dartmouth Atlas. For those that are unfamiliar, the Dartmouth Atlas is a compendium of data examining Medicare spending per beneficiary, and then comparing that spending by geographic region. The differences are stark. I know. I use the Dartmouth Atlas data in my health policy talks all the time. The data was highlighted in an Atul Gawande article in 2009 on McAllen, Texas. Jason points us to an article from the New England Journal by Zuckerman&#8230; </p>
+<blockquote><p><i>“Unadjusted Medicare spending per beneficiary was 52% higher in geographic regions in the highest spending quintile than in regions in the lowest quintile. After adjustment for demographic and baseline health characteristics and changes in health status, the difference in spending between the highest and lowest quintiles was reduced to 33%. Health status accounted for 29% of the unadjusted geographic difference in per-beneficiary spending; additional adjustment for area-level dif ferences in the supply of medical resources did not further reduce the observed differences between the top and bottom quintiles.” </i></p></blockquote>
+<p>Now, sure, health status may reduce the difference in spending, but it doesn&#8217;t completely eliminate it. In fact, I would argue that 33% is still a large difference, and one that still needs to be addressed. Comparing the spending in Florida to Minnesota PER beneficiary is quite startling indeed. </p>
+<p>crossposted with <a href="http://physasst.blogspot.com/">Health Policy Wonk</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/04/guest-post-regional-disparities-in-health-spending-in-medicare.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

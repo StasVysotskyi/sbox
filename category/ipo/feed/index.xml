@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IPO &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>You Want to Invest in This?</title>
+		<link>./../../2011/07/you-want-to-invest-in-this.html</link>
+		<comments>./../../2011/07/you-want-to-invest-in-this.html#respond</comments>
+		<pubDate>Fri, 01 Jul 2011 11:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[competitive advantage]]></category>
+		<category><![CDATA[investments]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[Stock Market]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2011/07/you-want-to-invest-in-this.html</guid>
+		<description><![CDATA[So I use Pandora on my Droid, and it&#8217;s pretty reasonable. I haven&#8217;t done anything complicated, or even created any mixes. And when I pick Bruce Cockburn Radio or Stevie Wonder Radio or Don Henley Radio or any of the other stations that are perfectly safe to play while at work, there will occasionally be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I use Pandora on my Droid, and it&#8217;s pretty reasonable. I haven&#8217;t done anything complicated, or even created any mixes.  And when I pick Bruce Cockburn Radio or Stevie Wonder Radio or Don Henley Radio or any of the other stations that are perfectly safe to play while at work, there will occasionally be tracks by other artists, but they&#8217;re fairly similar: Stevie gets followed by Aretha, Cockburn gets followed by an instrumentalist or a McGarrigle sister, Henley gets followed by mellow Genesis or Peter Gabriel (&#8220;In Your Eyes&#8221;) or Phil Collins solo.*</p>
+<p>So I was very surprised when I launched Pandora from my laptop&#8217;s browser today, still on the Don Henley station.  Here are the first four songs it chose:
+<ol>
+<li>Led Balloon, &#8220;Stairway to Heaven&#8221; (live, no less)</li>
+<li>Bon Jovi, &#8220;Wanted Dead or Alive&#8221;</li>
+<li>Lynyrd Skynyrd, &#8220;Sweet Home Alabama,&#8221; and</li>
+<li>Queen, &#8220;We Will Rock You&#8221;</li>
+</ol>
+<p>If I wanted to listen to a set list like that, I would just tune in <a href="http://www.q1043.com/main.html">one of the local mediocre commercial stations</a>. At least their commercials are more interesting.</p>
+<p>(Hint to investors: if a company only has one advert that it uses when the app is first used—even after the user clicked through and signed up—they have more of a problem with their business model than <a href="http://www.judysims.com/simsblog/2011/06/its-time-we-talked-about-patch.html">Patch</a>.)</p>
+<p>From what I can tell, we&#8217;re back in the <a href="http://www.fastcompany.com/magazine/32/flipdia.html">Built-to-Flip model</a> of Internet investing.</p>
+<p>The &#8220;Don Henley&#8221; station is now playing The Rolling Stones&#8217;s &#8220;Paint It Black.&#8221; Love the song, own the Decca collection they&#8217;re linking it to.  Not what I would expect to hear between Coldplay and Steeler&#8217;s Wheel, though.</p>
+<p>Paying $36/year to upgrade my account seems much more unlikely than it did even this morning.  The next two songs were &#8220;Another One Bites the Dust&#8221; and this:<br />
+
+</p>
+<p>which was the second track by that band in an hour—matching the actual number of Henley/Eagles tracks played.</p>
+<p>Either their algorithm is really dumb, or they assume all their listeners obsess over Axl&#8217;s vocals on &#8220;I Will Not Go Quietly.&#8221;  Not the way to bet in the mass market.</p>
+<p>*I have some standards: the latter would be an immediate thumb down, but I know why I&#8217;m getting it: after you let the Genesis-recorded Ode to Adultery [&#8220;In Too Deep&#8221;] play, Collins&#8217;s sententious solve-hunger song [&#8220;Another Day in Paradise&#8217;] or the insufferable &#8220;Take Me Home&#8221; probably will be suggested sooner rather than later.)</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2011/07/you-want-to-invest-in-this.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

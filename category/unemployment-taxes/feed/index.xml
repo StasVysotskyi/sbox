@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>unemployment taxes &#8211; Angry Bear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Slightly left of center economic commentary  on news, politics and the economy.</description>
+	<lastBuildDate>Fri, 11 Nov 2016 16:09:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Unemployment Tax Dilemma</title>
+		<link>./../../2012/10/the-unemployment-tax-dilemma.html</link>
+		<comments>./../../2012/10/the-unemployment-tax-dilemma.html#respond</comments>
+		<pubDate>Wed, 17 Oct 2012 08:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Rusty]]></category>
+		<category><![CDATA[unemployment taxes]]></category>
+
+		<guid isPermaLink="false">http://angrybearblog.com/2012/10/the-unemployment-tax-dilemma.html</guid>
+		<description><![CDATA[by Tom aka Rusty RustbeltThe Unemployment Tax DilemmaWhen the economy is doing well employers pay both state and federal (backup system) unemployment taxes. The rates tend to be reasonable and are levied only on a portion of wages. During recessions the employers who keep workers on are in effect penalized because all rates will likely [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>by <strong>Tom aka Rusty Rustbelt</strong><br /><strong><br /></strong><strong>The Unemployment Tax Dilemma</strong><br />When the economy is doing well employers pay both state and federal (backup system) unemployment taxes. The rates tend to be reasonable and are levied only on a portion of wages.</p>
+<p>During recessions the employers who keep workers on are in effect penalized because all rates will likely go up somewhat. Many states also use an experience rate, so the businesses shedding jobs will be paying a higher rate in the future.</p>
+<p>In the &#8220;great recession,&#8221; now dragging into a fifth year, the employers still in business are seeing accelerating rates, thus creating a penalty on employment (varies by state). </p>
+<p>The system is designed for a &#8220;regular recession&#8221; and not for a &#8220;great recession.&#8221; How do we do this so we don&#8217;t penalize hiring? Ideas welcome.</p>
+<p>FYI: <a href="http://www.taxpolicycenter.org/taxfacts/displayafact.cfm?Docid=541">http://www.taxpolicycenter.org/taxfacts/displayafact.cfm?Docid=541</a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../2012/10/the-unemployment-tax-dilemma.html/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
