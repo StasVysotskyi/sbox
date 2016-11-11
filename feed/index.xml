@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 11 Nov 2016 14:22:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Nov 2016 14:52:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,9 +26,9 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=2075</guid>
-		<description><![CDATA[<p>testhjkjhkjkjkghfghfgh gfhgfhgfh gfhgfh gfhgfhgf</p>
+		<description><![CDATA[<p>testhjkjhkjkjkghfghfgh gfhgfhgfh gfhgfh gfhgfhgf jhkj dfgdfg</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>testhjkjhkjkjkghfghfgh gfhgfhgfh gfhgfh gfhgfhgf</p>
+				<content:encoded><![CDATA[<p>testhjkjhkjkjkghfghfgh gfhgfhgfh gfhgfh gfhgfhgf jhkj dfgdfg</p>
 ]]></content:encoded>
 			<wfw:commentRss>./../test/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -42,9 +42,9 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=2064</guid>
-		<description><![CDATA[<p>fgdfgdfghgjhf gf hgfh</p>
+		<description><![CDATA[<p>fgdfgdfghgjhf gf hgfh hjghj</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>fgdfgdfghgjhf gf hgfh</p>
+				<content:encoded><![CDATA[<p>fgdfgdfghgjhf gf hgfh hjghj</p>
 ]]></content:encoded>
 			<wfw:commentRss>./../one-more-posts/feed/index.html</wfw:commentRss>
 		<slash:comments>3</slash:comments>
