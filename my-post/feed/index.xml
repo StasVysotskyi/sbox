@@ -6,9 +6,9 @@
 	
 	>
 <channel>
-	<title>Comments on: test</title>
+	<title>Comments on: my post</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 04 Nov 2016 15:51:00 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

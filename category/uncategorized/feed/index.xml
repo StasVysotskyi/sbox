@@ -8,57 +8,75 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; healerslibrary</title>
+	<title>Uncategorized &#8211; test</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 11 Nov 2016 07:01:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Nov 2016 08:28:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.2</generator>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
 	<item>
-		<title>test</title>
-		<link>./../../../test-2/index.html</link>
-		<comments>./../../../test-2/index.html#respond</comments>
-		<pubDate>Fri, 11 Nov 2016 04:42:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-
-		<guid isPermaLink="false">./../../../index.html?p=215</guid>
-		<description><![CDATA[testfgfdg]]></description>
-				<content:encoded><![CDATA[<p>testfgfdg</p>
-]]></content:encoded>
-			<wfw:commentRss>./../../../test-2/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
 		<title>test</title>
 		<link>./../../../test/index.html</link>
 		<comments>./../../../test/index.html#respond</comments>
-		<pubDate>Fri, 11 Nov 2016 04:36:53 +0000</pubDate>
+		<pubDate>Mon, 07 Nov 2016 14:06:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">./../../../index.html?p=213</guid>
-		<description><![CDATA[test]]></description>
-				<content:encoded><![CDATA[<p>test</p>
+		<guid isPermaLink="false">./../../../index.html?p=2075</guid>
+		<description><![CDATA[<p>testhjkjhkjkjk</p>
+]]></description>
+				<content:encoded><![CDATA[<p>testhjkjhkjkjk</p>
 ]]></content:encoded>
 			<wfw:commentRss>./../../../test/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>one more posts</title>
+		<link>./../../../one-more-posts/index.html</link>
+		<comments>./../../../one-more-posts/index.html#comments</comments>
+		<pubDate>Fri, 04 Nov 2016 13:11:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=2064</guid>
+		<description><![CDATA[<p>fgdfgdfg</p>
+]]></description>
+				<content:encoded><![CDATA[<p>fgdfgdfg</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../one-more-posts/feed/index.html</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>my post</title>
+		<link>./../../../my-post/index.html</link>
+		<comments>./../../../my-post/index.html#respond</comments>
+		<pubDate>Fri, 04 Nov 2016 13:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=2062</guid>
+		<description><![CDATA[<p>dfdsfdsf</p>
+]]></description>
+				<content:encoded><![CDATA[<p>dfdsfdsf</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../my-post/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Hello world!</title>
 		<link>./../../../hello-world/index.html</link>
 		<comments>./../../../hello-world/index.html#comments</comments>
-		<pubDate>Sun, 29 May 2016 17:27:19 +0000</pubDate>
+		<pubDate>Fri, 03 Jun 2016 07:03:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">./../../../index.html?p=1</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!dsfsdf [hl-is-admin] Your content [/hl-is-admin]]]></description>
-				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!dsfsdf</p>
-<p>[hl-is-admin] Your content [/hl-is-admin]</p>
+		<guid isPermaLink="false">http://healerslibrary.com/?p=1</guid>
+		<description><![CDATA[<p>[the-new-maps]</p>
+]]></description>
+				<content:encoded><![CDATA[<p>[the-new-maps]</p>
 ]]></content:encoded>
 			<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
 		<slash:comments>1</slash:comments>

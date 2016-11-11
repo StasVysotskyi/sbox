@@ -10,16 +10,16 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 29 May 2016 17:27:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Nov 2016 15:51:00 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.5.2</generator>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
 	<item>
 		<title>By: Mr WordPress</title>
 		<link>./../index.html#comment-1</link>
 		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
-		<pubDate>Sun, 29 May 2016 17:27:19 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
+		<pubDate>Fri, 03 Jun 2016 07:03:35 +0000</pubDate>
+		<guid isPermaLink="false">http://healerslibrary.com/?p=1#comment-1</guid>
 		<description><![CDATA[Hi, this is a comment.
 To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></description>
 		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />

@@ -7,14 +7,14 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>healerslibrary &lsaquo; Log In</title>
-	<link rel='stylesheet' href='./wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.5.2' type='text/css' media='all' />
+	<title>test &lsaquo; Log In</title>
+	<link rel='stylesheet' href='./wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.5.4' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 	<div id="login">
-		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">healerslibrary</a></h1>
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">test</a></h1>
 	
 <form name="loginform" id="loginform" action="./" method="post">
 	<p>
@@ -51,7 +51,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="./index.html">&larr; Back to healerslibrary</a></p>
+	<p id="backtoblog"><a href="./index.html">&larr; Back to test</a></p>
 	
 	</div>
 
