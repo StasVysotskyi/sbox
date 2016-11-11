@@ -16,7 +16,7 @@
 	<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">test</a></h1>
 	
-<form name="loginform" id="loginform" action="./index.html" method="post">
+<form name="loginform" id="loginform" action="./" method="post">
 	<p>
 		<label for="user_login">Username or Email<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -34,7 +34,7 @@
 </form>
 
 <p id="nav">
-<a href="./index.html?action=register">Register</a> | 	<a href="./index.html?action=lostpassword">Lost your password?</a>
+<a href="./?action=register">Register</a> | 	<a href="./?action=lostpassword">Lost your password?</a>
 </p>
 
 <script type="text/javascript">
